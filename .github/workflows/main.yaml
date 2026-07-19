@@ -1,0 +1,94 @@
+name: Update WSJ RSS Pages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - "site/**"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wsj-pages
+  cancel-in-progress: true
+
+env:
+  SITE_DIR: site
+  RSS_URL: https://cn.wsj.com/rss-news-and-feeds/zh-hans
+  MAX_ITEMS: "25"
+  WARP_PORT: "40000"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Firefox
+        id: firefox
+        uses: browser-actions/setup-firefox@v1
+        with:
+          firefox-version: latest
+
+      - name: Export Firefox binary
+        run: |
+          echo "FIREFOX_BIN=${{ steps.firefox.outputs.firefox-path }}" >> "$GITHUB_ENV"
+          "${{ steps.firefox.outputs.firefox-path }}" --version
+
+      - name: Install WARP
+        run: bash install_warp_ubuntu.sh
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Build site
+        run: python build_site.py --out-dir "$SITE_DIR"
+
+      - name: Commit generated site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$SITE_DIR"
+          if [ -f helper.xpi ]; then
+            git add helper.xpi
+          fi
+          if git diff --cached --quiet; then
+            echo "No generated site changes."
+          else
+            git commit -m "Update generated site"
+            git push
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ env.SITE_DIR }}
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Report Pages deployment failure
+        if: steps.deployment.outcome == 'failure'
+        run: echo "::warning::GitHub Pages deployment failed; the previously deployed version remains available."
