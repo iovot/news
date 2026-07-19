@@ -1,0 +1,382 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>新闻</title>
+  <link rel="apple-touch-icon" href="https://s.wsj.net/media/wsj_apple-touch-icon-180x180.png">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f5f5f7;
+      --card: #ffffff;
+      --text: #1d1d1f;
+      --muted: #6e6e73;
+      --line: rgba(0, 0, 0, 0.07);
+      --shadow: rgba(0, 0, 0, 0.06);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+    a { color: inherit; }
+    .page { width: min(1180px, 100%); margin: 0 auto; padding: 18px 14px 28px; }
+    .list { --columns: 1; display: grid; grid-template-columns: 1fr; gap: 14px; align-items: start; }
+    .masonry-column { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+    .news-card {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      box-shadow: 0 10px 30px var(--shadow);
+    }
+    .thumb {
+      display: block;
+      width: 100%;
+      overflow: hidden;
+      background: #e8e8ed;
+      color: #8e8e93;
+      text-decoration: none;
+    }
+    .thumb img { width: 100%; height: auto; display: block; }
+    .placeholder { display: grid; place-items: center; width: 100%; aspect-ratio: 16 / 9; font-size: 24px; font-weight: 700; letter-spacing: 0.02em; }
+    .content { padding: 15px 15px 14px; display: flex; flex: 1; flex-direction: column; min-width: 0; }
+    .title { display: block; font-size: 17px; line-height: 1.38; font-weight: 700; letter-spacing: -0.01em; text-decoration: none; }
+    .title:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .disabled { cursor: default; }
+    .summary {
+      margin: 9px 0 0;
+      color: #3f3f46;
+      font-size: 14px;
+      line-height: 1.58;
+    }
+    .meta { margin-top: auto; padding-top: 12px; color: var(--muted); font-size: 12px; line-height: 1.3; }
+    footer { margin-top: 20px; color: var(--muted); font-size: 12px; line-height: 1.4; text-align: center; }
+    @media (min-width: 720px) {
+      .page { padding: 22px 18px 30px; }
+      .list { --columns: 3; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+      .masonry-column { gap: 16px; }
+    }
+    @media (min-width: 1080px) {
+      .page { padding-top: 26px; }
+      .list { gap: 18px; }
+      .masonry-column { gap: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="list" aria-label="新闻列表">
+
+      <article class="news-card" data-card-index="0">
+        <a class="thumb" href="articles/china-economy-tech-property-46b2b059-95a5ddbbf912.html"><img src="https://images.wsj.net/im-72052968?size=1.544&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/china-economy-tech-property-46b2b059-95a5ddbbf912.html"><span class="title-text">中国“双速经济”的现实：高科技成功与国内低迷并存</span></a>
+          <p class="summary">中国飙升的出口数据与科技实力掩盖了国内残酷的经济现实和日益庞大的未充分就业大军。</p>
+          <div class="meta"><span>07-17 13:56</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="1">
+        <a class="thumb" href="articles/e4-b9-a0-e8-bf-91-e5-b9-b3-e5-8a-9b-e6-8e-a8-e5--21492e9f2870.html"><img src="https://images.wsj.net/im-62919189?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e4-b9-a0-e8-bf-91-e5-b9-b3-e5-8a-9b-e6-8e-a8-e5--21492e9f2870.html"><span class="title-text">习近平力推开源AI，暗批美国霸权</span></a>
+          <p class="summary">大国竞逐科技主导权之际，习近平积极争取发展中国家的支持。</p>
+          <div class="meta"><span>07-17 16:52</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="2">
+        <a class="thumb" href="articles/apple-overthrows-nvidia-to-reclaim-wall-streets--6b7392bd590d.html"><img src="https://images.wsj.net/im-19438600?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/apple-overthrows-nvidia-to-reclaim-wall-streets--6b7392bd590d.html"><span class="title-text">面对苹果公司挑战，英伟达险守市值王座</span></a>
+          <p class="summary">苹果公司一度超过英伟达，重新夺回美国市值最高上市公司的头衔，但到当日收盘时，英伟达又回到榜首。</p>
+          <div class="meta"><span>07-18 08:55</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="3">
+        <a class="thumb" href="articles/the-u-s-and-iran-creep-toward-a-wider-war-with-e-c79ceece58f6.html"><img src="https://images.wsj.net/im-20594733?size=1.5&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/the-u-s-and-iran-creep-toward-a-wider-war-with-e-c79ceece58f6.html"><span class="title-text">随着袭击不断升级，美国和伊朗正一步步走向更大规模的战争</span></a>
+          <p class="summary">美伊之间的战斗已经扩大，在美军打击更广泛目标并将喷气式战斗机调往中东之际，德黑兰方面在整个波斯湾发动了袭击。</p>
+          <div class="meta"><span>07-18 08:40</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="4">
+        <a class="thumb" href="articles/e9-9f-a9-e5-9b-bd-e8-82-a1-e5-b8-82-e5-b4-a9-e7--7ed2bf976bf3.html"><img src="https://images.mktw.net/im-35640802?size=1.5&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e9-9f-a9-e5-9b-bd-e8-82-a1-e5-b8-82-e5-b4-a9-e7--7ed2bf976bf3.html"><span class="title-text">韩国股市崩盘波及亚洲，散户度过糟糕一周</span></a>
+          <p class="summary">高盛报告称，本周韩国市场崩盘期间有约35万个散户账户被强制平仓；日本曾经的市场宠儿铠侠也股价大跌。</p>
+          <div class="meta"><span>07-17 19:18</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="5">
+        <a class="thumb" href="articles/china-wants-more-babiesso-its-cracking-down-on-c-c81c33a83e84.html"><img src="https://images.wsj.net/im-73867954?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/china-wants-more-babiesso-its-cracking-down-on-c-c81c33a83e84.html"><span class="title-text">中国重拳治理AI人机恋，严防沉迷影响生育</span></a>
+          <p class="summary">北京方面为人类与机器划定情感界限：中国周三实施新规，要求主打陪伴功能的AI聊天机器人不得诱导情感依赖。</p>
+          <div class="meta"><span>07-16 11:28</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="6">
+        <a class="thumb" href="articles/e8-8b-b1-e5-9b-bd-e5-b0-86-e8-bf-8e-e6-9d-a5-e6--f49c49116664.html"><img src="https://images.wsj.net/im-35195375?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e8-8b-b1-e5-9b-bd-e5-b0-86-e8-bf-8e-e6-9d-a5-e6--f49c49116664.html"><span class="title-text">英国将迎来新首相，他的首要任务是安抚市场</span></a>
+          <p class="summary">英国即将迎来七年内的第六位首相。安迪·伯纳姆准备入主唐宁街。</p>
+          <div class="meta"><span>07-17 18:10</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="7">
+        <a class="thumb" href="articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-8a-a0-e5-a4-a7-e5--1b309317600a.html"><img src="https://images.wsj.net/im-28689756?size=1.504&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-8a-a0-e5-a4-a7-e5--1b309317600a.html"><span class="title-text">特朗普加大力度散播对2020年大选的质疑</span></a>
+          <p class="summary">特朗普发表了一场非同寻常的全国讲话，指责中国曾试图干预2020年大选。在11月中期选举临近之际，共和党正面临失去国会多数席位的风险。</p>
+          <div class="meta"><span>07-17 12:46</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="8">
+        <a class="thumb" href="articles/e5-85-a8-e7-90-83-e7-a8-80-e5-9c-9f-e4-ba-89-e5--bb81dbf8eef1.html"><img src="https://images.wsj.net/im-44845725?size=1.5&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e5-85-a8-e7-90-83-e7-a8-80-e5-9c-9f-e4-ba-89-e5--bb81dbf8eef1.html"><span class="title-text">全球稀土争夺战：美国正把盟友甩到身后</span></a>
+          <p class="summary">欧洲正在努力摆脱中国对其重整军备所需材料的控制，但遇到一个意想不到的障碍：财力雄厚的美国。</p>
+          <div class="meta"><span>07-17 16:02</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="9">
+        <a class="thumb" href="articles/e8-b5-b7-e5-ba-95-e7-89-b9-e6-9c-97-e6-99-ae-e7--0592e2aede39.html"><img src="https://images.wsj.net/im-38962073?size=2&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e8-b5-b7-e5-ba-95-e7-89-b9-e6-9c-97-e6-99-ae-e7--0592e2aede39.html"><span class="title-text">起底特朗普第二任期背后的隐秘资金网</span></a>
+          <p class="summary">特朗普及其盟友搭建起了一个由富豪与企业出资的团体网络。该网络正暗中推进特朗普的优先事项，且鲜有公开披露。本报独家追踪了特朗普第二任期的逾7.8亿美元筹款。</p>
+          <div class="meta"><span>07-16 17:55</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="10">
+        <a class="thumb" href="articles/pentagon-dangles-400-000-salaries-to-recruit-wal-d33d83f62ed9.html"><img src="https://images.wsj.net/im-10845062?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/pentagon-dangles-400-000-salaries-to-recruit-wal-d33d83f62ed9.html"><span class="title-text">五角大楼开出40万美元年薪招募华尔街银行家</span></a>
+          <p class="summary">这轮招聘热潮是特朗普政府行动的一部分，其目标是用华尔街打法巩固美国工业基础。</p>
+          <div class="meta"><span>07-18 10:24</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="11">
+        <a class="thumb" href="articles/e4-b8-ad-e5-9b-bd-e5-8a-a8-e7-94-a8-e5-9b-bd-e5--eb74e5a6e840.html"><img src="https://images.wsj.net/im-20454832?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e4-b8-ad-e5-9b-bd-e5-8a-a8-e7-94-a8-e5-9b-bd-e5--eb74e5a6e840.html"><span class="title-text">中国动用国安法强力整治香港图书市场</span></a>
+          <p class="summary">最新逮捕行动表明，北京政府意图迫使香港的书商与出版商低头。</p>
+          <div class="meta"><span>07-16 17:25</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="12">
+        <a class="thumb" href="articles/e6-8a-8a-e5-af-86-e7-a0-81-e4-ba-a4-e7-bb-99ai-e-7e904a2bbd35.html"><img src="https://images.wsj.net/im-88652814?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e6-8a-8a-e5-af-86-e7-a0-81-e4-ba-a4-e7-bb-99ai-e-7e904a2bbd35.html"><span class="title-text">把密码交给AI是一种什么体验？我做了一次实测</span></a>
+          <p class="summary">“1Password for Claude”让AI工具调用登录凭证变得更安全，但风险依然存在。</p>
+          <div class="meta"><span>07-17 13:00</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="13">
+        <a class="thumb" href="articles/spacex-in-talks-to-provide-computing-power-for-p-e20f7d71bf79.html"><img src="https://images.wsj.net/im-86236756?size=1.778&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/spacex-in-talks-to-provide-computing-power-for-p-e20f7d71bf79.html"><span class="title-text">SpaceX正洽谈为五角大楼的AI项目提供算力</span></a>
+          <p class="summary">SpaceX正与美国国防部谈判，拟向该机构提供价值数十亿美元的数据中心算力，用于运行AI模型。这将进一步加深埃隆·马斯克旗下公司与五角大楼之间的联系。</p>
+          <div class="meta"><span>07-18 09:06</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="14">
+        <a class="thumb" href="articles/lettuce-crisis-deals-blow-to-taco-bells-fast-foo-e6238e309d08.html"><img src="https://images.wsj.net/im-78730023?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/lettuce-crisis-deals-blow-to-taco-bells-fast-foo-e6238e309d08.html"><span class="title-text">生菜危机重创塔可钟快餐巨头地位</span></a>
+          <p class="summary">塔可钟的增长速度曾持续超过竞争对手；但随着环孢子虫病疫情的蔓延，其客流量和销售额均有所下降。</p>
+          <div class="meta"><span>07-18 10:16</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="15">
+        <a class="thumb" href="articles/sec-quarterly-earnings-reports-complaints-6fbf51-61a8492d3fcb.html"><img src="https://images.wsj.net/im-73795041?size=1.499&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/sec-quarterly-earnings-reports-complaints-6fbf51-61a8492d3fcb.html"><span class="title-text">SEC不顾公众反对，拟修改季度财报披露规定</span></a>
+          <p class="summary">尽管收到了铺天盖地且绝大多数持反对意见的公众评论，但美国证券交易委员会预计仍将推进一项计划，将季度财报改为自愿披露。</p>
+          <div class="meta"><span>07-18 10:44</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="16">
+        <a class="thumb" href="articles/nyc-midtown-pfizer-building-office-conversions-e-68f2d3f73c23.html"><img src="https://images.wsj.net/im-72118212?size=1.5&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/nyc-midtown-pfizer-building-office-conversions-e-68f2d3f73c23.html"><span class="title-text">美国“商改住”项目一度雄心无限，直到曼哈顿大楼柱子弯曲</span></a>
+          <p class="summary">曼哈顿的辉瑞旧大楼改造项目曝出安全问题，新增楼层空间的重量超出了钢柱的承载能力。这一事故令“商改住”热门行业面临新审视。</p>
+          <div class="meta"><span>07-17 15:22</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="17">
+        <a class="thumb" href="articles/chinalodges-opposition-to-nationalization-of-bri-6154dab907f2.html"><img src="https://images.wsj.net/im-56331188?size=1.5&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/chinalodges-opposition-to-nationalization-of-bri-6154dab907f2.html"><span class="title-text">中国对英国钢铁公司国有化表示强烈不满</span></a>
+          <p class="summary">中国商务部表示坚决反对英国政府将英国钢铁公司国有化的决定，并称强行接管中资企业敬业集团的资产将严重打击外国投资者的信心。</p>
+          <div class="meta"><span>07-17 10:59</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="18">
+        <a class="thumb" href="articles/saudi-arabia-riyadh-iran-war-9d85533d-491ea47c371c.html"><img src="https://images.wsj.net/im-33182388?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/saudi-arabia-riyadh-iran-war-9d85533d-491ea47c371c.html"><span class="title-text">沙特的转型令我惊叹，随后伊朗战争爆发了</span></a>
+          <p class="summary">前美国驻沙特大使探讨了沙特该如何保护其数千亿美元的转型投资，并让游客、投资者以及本国公民重新相信，这里依然是一片安全稳定的乐土。</p>
+          <div class="meta"><span>07-17 10:16</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="19">
+        <a class="thumb" href="articles/e6-99-ae-e4-ba-ac-e6-9b-be-e6-98-af-e4-b9-a0-e8--bd82cd0d0153.html"><img src="https://images.wsj.net/im-49035476?size=1.664&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e6-99-ae-e4-ba-ac-e6-9b-be-e6-98-af-e4-b9-a0-e8--bd82cd0d0153.html"><span class="title-text">普京曾是习近平的榜样，如今却在伙伴关系中成了“小弟”</span></a>
+          <p class="summary">历经四年的战争与经济孤立，普京已沦为有求于人的一方。中俄两国关系正变得愈发失衡，有时甚至显得紧张。</p>
+          <div class="meta"><span>07-14 14:50</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="20">
+        <a class="thumb" href="articles/e4-bb-96-e9-81-93-e5-87-ba-e4-b8-ad-e5-9b-bd-e7--f46af8a8b10c.html"><img src="https://images.wsj.net/im-16560197?size=1.78&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/e4-bb-96-e9-81-93-e5-87-ba-e4-b8-ad-e5-9b-bd-e7--f46af8a8b10c.html"><span class="title-text">他道出中国经济真相，却在沉默中走完余生</span></a>
+          <p class="summary">2019年，我给高善文打了一通电话，想了解让市场在中国经济中发挥“决定性作用”的改革为何迟迟没有到来。他给出的答案让我至今难忘。几年后，他在沉默中病逝，让人唏嘘不已。</p>
+          <div class="meta"><span>07-15 10:16</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="21">
+        <a class="thumb" href="articles/the-fight-over-humanoid-robots-has-shut-down-a-c-b08e4eaf7417.html"><img src="https://images.wsj.net/im-32638797?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/the-fight-over-humanoid-robots-has-shut-down-a-c-b08e4eaf7417.html"><span class="title-text">人形机器人争端首次引发汽车工厂停工</span></a>
+          <p class="summary">韩国现代汽车工人因担心被人形机器人“Atlas”取代而发起局部罢工。工会的表态直截了当：未经工人同意，Atlas绝不能踏上生产线。</p>
+          <div class="meta"><span>07-16 11:30</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="22">
+        <a class="thumb" href="articles/chinas-crude-buying-pause-has-helped-cushion-the-2871781dba80.html"><img src="https://images.wsj.net/im-05123425?size=1.501&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/chinas-crude-buying-pause-has-helped-cushion-the-2871781dba80.html"><span class="title-text">中国减少采购曾为油市提供缓冲，如今变局或将至</span></a>
+          <p class="summary">中国长期以来的原油采购低迷状态可能正接近尾声，这一变化将使全球石油市场失去一个关键的缓冲。</p>
+          <div class="meta"><span>07-16 08:36</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="23">
+        <a class="thumb" href="articles/ai-knows-what-you-did-online-now-your-employer-d-0fa9d19447da.html"><img src="https://images.wsj.net/im-63264645?size=1&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/ai-knows-what-you-did-online-now-your-employer-d-0fa9d19447da.html"><span class="title-text">AI知道你在网上做过什么，现在你的雇主也知道了</span></a>
+          <p class="summary">企业正利用AI工具越来越深入地调查员工的网络历史和足迹，无论是聘用前还是聘用后。</p>
+          <div class="meta"><span>07-16 13:18</span></div>
+        </div>
+      </article>
+      <article class="news-card" data-card-index="24">
+        <a class="thumb" href="articles/panic-pouch-ae69b5aa-80b179e899c7.html"><img src="https://images.wsj.net/im-72180377?size=1.5053763440860215&amp;width=1280" alt="" loading="lazy" referrerpolicy="no-referrer"></a>
+        <div class="content">
+          <a class="title" href="articles/panic-pouch-ae69b5aa-80b179e899c7.html"><span class="title-text">他们说随身带着这些东西可缓解焦虑</span></a>
+          <p class="summary">六位受焦虑问题困扰的人士分享了他们随身携带的“减压包”里所装的物品，包括解压玩具、酸味糖果和念珠等。</p>
+          <div class="meta"><span>07-17 11:24</span></div>
+        </div>
+      </article>
+    </section>
+    <footer>更新时间 07-19 15:11</footer>
+  </main>
+  <script>
+    (() => {
+      const list = document.querySelector('.list');
+      if (!list) return;
+
+      const columnCount = () => {
+        const value = getComputedStyle(list).getPropertyValue('--columns').trim();
+        const count = Number.parseInt(value, 10);
+        return Number.isFinite(count) && count > 0 ? count : 1;
+      };
+
+      const orderedCards = () => Array.from(list.querySelectorAll('.news-card')).sort((a, b) => {
+        return Number(a.dataset.cardIndex || 0) - Number(b.dataset.cardIndex || 0);
+      });
+
+      const restoreSingleColumn = (cards) => {
+        const directCards = Array.from(list.children).filter((node) => node.classList && node.classList.contains('news-card'));
+        const alreadySingleColumn = directCards.length === cards.length && !list.querySelector('.masonry-column');
+
+        if (!alreadySingleColumn) {
+          list.replaceChildren(...cards);
+        }
+      };
+
+      let scheduled = false;
+
+      const preserveViewport = () => {
+        const x = window.scrollX;
+        const y = window.scrollY;
+        const height = list.getBoundingClientRect().height;
+
+        // Safari may clamp the page scroll position to zero while all cards
+        // are temporarily detached by replaceChildren(). Keep the old list
+        // height for that frame, then restore the exact viewport afterwards.
+        if (height > 0) list.style.minHeight = `${Math.ceil(height)}px`;
+
+        return () => requestAnimationFrame(() => {
+          list.style.minHeight = '';
+          if (window.scrollX !== x || window.scrollY !== y) {
+            window.scrollTo(x, y);
+          }
+        });
+      };
+
+      const arrange = () => {
+        scheduled = false;
+
+        const restoreViewport = preserveViewport();
+
+        const cards = orderedCards();
+        const count = columnCount();
+
+        if (count <= 1) {
+          restoreSingleColumn(cards);
+          restoreViewport();
+          return;
+        }
+
+        const columns = Array.from({ length: count }, () => {
+          const column = document.createElement('div');
+          column.className = 'masonry-column';
+          return column;
+        });
+
+        // The columns must be in the document before measuring their height.
+        // Detached elements have height 0, which makes every card go into the first column.
+        list.replaceChildren(...columns);
+
+        const heights = columns.map(() => 0);
+
+        for (const card of cards) {
+          let target = 0;
+
+          for (let index = 1; index < heights.length; index += 1) {
+            if (heights[index] < heights[target]) target = index;
+          }
+
+          columns[target].appendChild(card);
+          heights[target] = columns[target].getBoundingClientRect().height;
+        }
+
+        restoreViewport();
+      };
+
+      const schedule = () => {
+        if (scheduled) return;
+        scheduled = true;
+        requestAnimationFrame(arrange);
+      };
+
+      window.addEventListener('resize', schedule, { passive: true });
+      window.addEventListener('load', schedule, { once: true });
+
+      for (const image of Array.from(list.querySelectorAll('img'))) {
+        if (!image.complete) image.addEventListener('load', schedule, { once: true });
+      }
+
+      schedule();
+    })();
+  </script>
+</body>
+</html>
