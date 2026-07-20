@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 09:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 14:15:15 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 09:22:51 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 14:15:15 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -126,6 +126,13 @@
             <pubDate>Mon, 20 Jul 2026 00:17:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[阿里巴巴旗下全球速卖通被欧盟罚款5.5亿欧元]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-87878747?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴旗下的全球速卖通被欧盟执行机构处以5.5亿欧元罚款，这是迄今为止根据《数字服务法》对企业开出的最大一笔罚单。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%97%97%E4%B8%8B%E5%85%A8%E7%90%83%E9%80%9F%E5%8D%96%E9%80%9A%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE5-5%E4%BA%BF%E6%AC%A7%E5%85%83-10633d94</link>
+            <guid isPermaLink="false">WP-WSJS-0003748234</guid>
+            <pubDate>Mon, 20 Jul 2026 12:09:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[FDA撤回关于发现环孢子虫的结论]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-61866513?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>FDA周日表示，尽管近期进行了检测，但尚未在Taylor Farms的生菜样本中发现环孢子虫。</p>]]></description>
             <link>https://cn.wsj.com/articles/fda-walks-back-finding-of-cyclospora-parasite-3f6a2065</link>
@@ -145,13 +152,6 @@
             <link>https://cn.wsj.com/articles/apple-overthrows-nvidia-to-reclaim-wall-streets-crown-89c516b8</link>
             <guid isPermaLink="false">WP-WSJS-0003746087</guid>
             <pubDate>Sat, 18 Jul 2026 00:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[五角大楼开出40万美元年薪招募华尔街银行家]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10845062?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这轮招聘热潮是特朗普政府行动的一部分，其目标是用华尔街打法巩固美国工业基础。</p>]]></description>
-            <link>https://cn.wsj.com/articles/pentagon-dangles-400-000-salaries-to-recruit-wall-street-bankers-789850d6</link>
-            <guid isPermaLink="false">WP-WSJS-0003746176</guid>
-            <pubDate>Sat, 18 Jul 2026 02:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[全球稀土争夺战：美国正把盟友甩到身后]]></title>
