@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:45:13.349720+00:00",
+  "generated_at": "2026-07-21T11:20:29.964593+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-83631262?size=1.501&width=1280",
       "snapshot": "articles/top-american-ai-execs-sound-alarm-on-chinese-mod-340110eedc20.html",
       "captured": true,
-      "capture_title": "美国顶尖AI公司高管就中国模型发出警告 - WSJ",
+      "capture_title": "美国顶尖AI公司高管就中国模型发出警告",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-53676172?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-a1-b6-e7-ba-a7ai-e5-a4-a7-e-3912a5306f8a.html",
       "captured": true,
-      "capture_title": "中国顶级AI大会向美国传递信息：我们正迎头赶上 - WSJ",
+      "capture_title": "中国顶级AI大会向美国传递信息：我们正迎头赶上",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.mktw.net/im-40322168?size=1.44&width=1280",
       "snapshot": "articles/why-cheap-chinese-ai-models-could-actually-be-a--c9b8d03c25b0.html",
       "captured": true,
-      "capture_title": "为什么低价中国AI模型反而可能利好英伟达、美光等芯片股？ - WSJ",
+      "capture_title": "为什么低价中国AI模型反而可能利好英伟达、美光等芯片股？",
       "error": ""
     },
     {
@@ -209,6 +209,18 @@
       "error": ""
     },
     {
+      "title": "台积电将从2027年起将芯片订单价格最高上调10% – 日经",
+      "summary": "报道称，此次计划涨价是受材料、制造设备以及新建海外芯片工厂成本上升的推动。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B0%86%E4%BB%8E2027%E5%B9%B4%E8%B5%B7%E5%B0%86%E8%8A%AF%E7%89%87%E8%AE%A2%E5%8D%95%E4%BB%B7%E6%A0%BC%E6%9C%80%E9%AB%98%E4%B8%8A%E8%B0%8310-%E6%97%A5%E7%BB%8F-32aa1457",
+      "guid": "WP-WSJS-0003750947",
+      "pub_date": "Tue, 21 Jul 2026 09:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-56275044?size=1.5&width=1280",
+      "snapshot": "articles/e5-8f-b0-e7-a7-af-e7-94-b5-e5-b0-86-e4-bb-8e2027-0382ebcafb90.html",
+      "captured": true,
+      "capture_title": "台积电将从2027年起将芯片订单价格最高上调10% – 日经 - WSJ",
+      "error": ""
+    },
+    {
       "title": "阿里巴巴旗下全球速卖通被欧盟罚款5.5亿欧元",
       "summary": "阿里巴巴旗下的全球速卖通被欧盟执行机构处以5.5亿欧元罚款，这是迄今为止根据《数字服务法》对企业开出的最大一笔罚单。",
       "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%97%97%E4%B8%8B%E5%85%A8%E7%90%83%E9%80%9F%E5%8D%96%E9%80%9A%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE5-5%E4%BA%BF%E6%AC%A7%E5%85%83-10633d94",
@@ -245,18 +257,6 @@
       "error": ""
     },
     {
-      "title": "法官暂时叫停派拉蒙与华纳兄弟的交易",
-      "summary": "派拉蒙与华纳兄弟探索价值810亿美元的合并交易周一遭遇首个重大障碍：加州一名联邦法官发布了临时限制令，禁止两家公司完成该交易。",
-      "link": "https://cn.wsj.com/articles/udge-temporarily-blocks-paramount-warner-deal-18cfa8bf",
-      "guid": "WP-WSJS-0003750222",
-      "pub_date": "Mon, 20 Jul 2026 23:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-97455623?size=1.471&width=1280",
-      "snapshot": "articles/udge-temporarily-blocks-paramount-warner-deal-18-d9c70a25f51f.html",
-      "captured": true,
-      "capture_title": "法官暂时叫停派拉蒙与华纳兄弟的交易",
-      "error": ""
-    },
-    {
       "title": "“真希望世界杯永不落幕”：美国举办城市庆祝惊喜经济狂欢",
       "summary": "“空欢喜”担忧散去，费城与堪萨斯城等相对低调的世界杯举办地喜迎旅游消费狂潮，“赚大钱的感觉真好”。",
       "link": "https://cn.wsj.com/articles/i-never-want-it-to-end-the-surprise-economic-boost-for-world-cup-host-cities-a5f248c3",
@@ -265,7 +265,7 @@
       "image_url": "https://images.wsj.net/im-61346019?size=1.501&width=1280",
       "snapshot": "articles/i-never-want-it-to-end-the-surprise-economic-boo-a3da45727437.html",
       "captured": true,
-      "capture_title": "“真希望世界杯永不落幕”：美国举办城市庆祝惊喜经济狂欢 - WSJ",
+      "capture_title": "“真希望世界杯永不落幕”：美国举办城市庆祝惊喜经济狂欢",
       "error": ""
     },
     {
@@ -277,7 +277,7 @@
       "image_url": "https://images.wsj.net/im-13378147?size=1.5&width=1280",
       "snapshot": "articles/disney-parks-lines-lightning-lane-aa8fc603-f220cb738fb8.html",
       "captured": true,
-      "capture_title": "迪士尼是世界上最快乐的地方，除非你是那个负责刷手机预约的人 - WSJ",
+      "capture_title": "迪士尼是世界上最快乐的地方，除非你是那个负责刷手机预约的人",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/the-key-to-solar-and-wind-power-is-battery-stora-c4cda47b3739.html",
       "captured": true,
       "capture_title": "风光发电关键看电池储能，而中国已成主宰",
+      "error": ""
+    },
+    {
+      "title": "法官暂时叫停派拉蒙与华纳兄弟的交易",
+      "summary": "派拉蒙与华纳兄弟探索价值810亿美元的合并交易周一遭遇首个重大障碍：加州一名联邦法官发布了临时限制令，禁止两家公司完成该交易。",
+      "link": "https://cn.wsj.com/articles/udge-temporarily-blocks-paramount-warner-deal-18cfa8bf",
+      "guid": "WP-WSJS-0003750222",
+      "pub_date": "Mon, 20 Jul 2026 23:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-97455623?size=1.471&width=1280",
+      "snapshot": "articles/udge-temporarily-blocks-paramount-warner-deal-18-d9c70a25f51f.html",
+      "captured": true,
+      "capture_title": "法官暂时叫停派拉蒙与华纳兄弟的交易",
       "error": ""
     },
     {

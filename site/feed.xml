@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 08:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 11:12:37 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 08:36:07 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 11:12:37 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -147,6 +147,13 @@
             <pubDate>Tue, 21 Jul 2026 01:25:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[台积电将从2027年起将芯片订单价格最高上调10% – 日经]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56275044?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>报道称，此次计划涨价是受材料、制造设备以及新建海外芯片工厂成本上升的推动。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B0%86%E4%BB%8E2027%E5%B9%B4%E8%B5%B7%E5%B0%86%E8%8A%AF%E7%89%87%E8%AE%A2%E5%8D%95%E4%BB%B7%E6%A0%BC%E6%9C%80%E9%AB%98%E4%B8%8A%E8%B0%8310-%E6%97%A5%E7%BB%8F-32aa1457</link>
+            <guid isPermaLink="false">WP-WSJS-0003750947</guid>
+            <pubDate>Tue, 21 Jul 2026 09:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[阿里巴巴旗下全球速卖通被欧盟罚款5.5亿欧元]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-87878747?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴旗下的全球速卖通被欧盟执行机构处以5.5亿欧元罚款，这是迄今为止根据《数字服务法》对企业开出的最大一笔罚单。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%97%97%E4%B8%8B%E5%85%A8%E7%90%83%E9%80%9F%E5%8D%96%E9%80%9A%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE5-5%E4%BA%BF%E6%AC%A7%E5%85%83-10633d94</link>
@@ -166,13 +173,6 @@
             <link>https://cn.wsj.com/articles/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-01d499fe</link>
             <guid isPermaLink="false">WP-WSJS-0003750232</guid>
             <pubDate>Mon, 20 Jul 2026 23:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法官暂时叫停派拉蒙与华纳兄弟的交易]]></title>
-            <description><![CDATA[<img width="1280" height="870" src="https://images.wsj.net/im-97455623?size=1.471&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>派拉蒙与华纳兄弟探索价值810亿美元的合并交易周一遭遇首个重大障碍：加州一名联邦法官发布了临时限制令，禁止两家公司完成该交易。</p>]]></description>
-            <link>https://cn.wsj.com/articles/udge-temporarily-blocks-paramount-warner-deal-18cfa8bf</link>
-            <guid isPermaLink="false">WP-WSJS-0003750222</guid>
-            <pubDate>Mon, 20 Jul 2026 23:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“真希望世界杯永不落幕”：美国举办城市庆祝惊喜经济狂欢]]></title>
