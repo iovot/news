@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 03:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 08:36:07 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 03:14:09 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 08:36:07 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,39 +28,39 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
+            <title><![CDATA[美国顶尖AI公司高管就中国模型发出警告]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-83631262?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>白宫对于如何应对中国AI领域的最新进展存在分歧，并已权衡了打压措施。</p>]]></description>
+            <link>https://cn.wsj.com/articles/top-american-ai-execs-sound-alarm-on-chinese-models-e8d3500e</link>
+            <guid isPermaLink="false">WP-WSJS-0003750630</guid>
+            <pubDate>Tue, 21 Jul 2026 04:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国顶级AI大会向美国传递信息：我们正迎头赶上]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-53676172?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>世界人工智能大会已成为中国展示自身AI实力的首要场合。会议期间，月之暗面和阿里巴巴先后发布了可与美国顶尖模型一战的AI新模型。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%BA%A7ai%E5%A4%A7%E4%BC%9A%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BC%A0%E9%80%92%E4%BF%A1%E6%81%AF-%E6%88%91%E4%BB%AC%E6%AD%A3%E8%BF%8E%E5%A4%B4%E8%B5%B6%E4%B8%8A-790bc313</link>
+            <guid isPermaLink="false">WP-WSJS-0003750585</guid>
+            <pubDate>Tue, 21 Jul 2026 03:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗分析师认为阿里巴巴有望领跑AI竞赛]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-17170729?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴股价周一在港股市场一度上涨5.6%。此前，该公司预发布了一款全新的大语言模型，并称其性能仅次于Anthropic的Fable 5。</p>]]></description>
+            <link>https://cn.wsj.com/articles/why-this-citi-analyst-says-alibaba-could-lead-the-ai-race-e8b73ccb</link>
+            <guid isPermaLink="false">WP-WSJS-0003750234</guid>
+            <pubDate>Mon, 20 Jul 2026 23:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为什么低价中国AI模型反而可能利好英伟达、美光等芯片股？]]></title>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-40322168?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>月之暗面的Kimi K3成本低廉但极具竞争力，此类低成本中国AI重新引发了关于企业在存储组件和算力上投入巨资的讨论。</p>]]></description>
+            <link>https://cn.wsj.com/articles/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-c07ad7a3</link>
+            <guid isPermaLink="false">WP-WSJS-0003750400</guid>
+            <pubDate>Tue, 21 Jul 2026 01:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国“国家队”买入人民币600亿元股票托市]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-22158619?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在最近几周对人工智能的担忧引发市场抛售之后，两家中国国有投资公司已动用近90亿美元资金来支撑股市。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E5%9B%BD%E5%AE%B6%E9%98%9F-%E4%B9%B0%E5%85%A5%E8%BF%9190%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8%E6%89%98%E5%B8%82-01a9ce72</link>
             <guid isPermaLink="false">WP-WSJS-0003748192</guid>
             <pubDate>Mon, 20 Jul 2026 10:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国AI模型再度震动美国股市，哪些信息需要了解？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-13824890?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>月之暗面Kimi K3等产品崛起，引发对科技热潮持久性的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/what-to-know-about-the-chinese-ai-models-rattling-u-s-stocks-1ffc8cb6</link>
-            <guid isPermaLink="false">WP-WSJS-0003747750</guid>
-            <pubDate>Mon, 20 Jul 2026 01:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国月之暗面新模型加剧华尔街芯片股抛售]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29072909?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国上周五出人意料地发布了一款突破性的AI模型，加剧了美国芯片股的抛售，引发了市场对AI领域竞争以及支撑AI建设的巨额企业支出的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-moonshot-ai-adds-to-chip-investors-worries-dbfa6c43</link>
-            <guid isPermaLink="false">WP-WSJS-0003747685</guid>
-            <pubDate>Mon, 20 Jul 2026 00:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[习近平力推开源AI，暗批美国霸权]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-62919189?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>大国竞逐科技主导权之际，习近平积极争取发展中国家的支持。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8A%9B%E6%8E%A8%E5%BC%80%E6%BA%90ai-%E6%9A%97%E6%89%B9%E7%BE%8E%E5%9B%BD%E9%9C%B8%E6%9D%83-8d6c3ad7</link>
-            <guid isPermaLink="false">WP-WSJS-0003743544</guid>
-            <pubDate>Fri, 17 Jul 2026 08:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI霸权之争升温，特朗普政府据报道考虑封杀中国模型]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-05931249?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国人工智能实验室月之暗面推出一款低成本模型，给美国政府出了个难题。Axios报道披露，美国政府正考虑对中国AI模型实施禁令。</p>]]></description>
-            <link>https://cn.wsj.com/articles/as-the-battle-for-ai-supremacy-intensifies-trump-white-house-reportedly-contemplates-a-ban-on-chinese-models-6c282082</link>
-            <guid isPermaLink="false">WP-WSJS-0003750427</guid>
-            <pubDate>Tue, 21 Jul 2026 01:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[伊朗导弹击中了约旦基地的美军宿舍]]></title>
@@ -99,17 +99,10 @@
         </item>
         <item>
             <title><![CDATA[中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-00788974?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-88655307?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd</link>
             <guid isPermaLink="false">WP-WSJS-0003747940</guid>
             <pubDate>Mon, 20 Jul 2026 06:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普“中国干预大选论”令美中关系再起波澜]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-25489891?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普声称中国干预2020年美国大选，这一言论打破了自他5月访问北京以来美中关系相对平静的局面。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trumps-allegations-of-chinese-interference-in-u-s-elections-stir-tensions-with-beijing-26711124</link>
-            <guid isPermaLink="false">WP-WSJS-0003747897</guid>
-            <pubDate>Mon, 20 Jul 2026 05:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[西方抗衡中俄的隐性军备赛场：棉花]]></title>
@@ -117,6 +110,13 @@
             <link>https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E6%8A%97%E8%A1%A1%E4%B8%AD%E4%BF%84%E7%9A%84%E9%9A%90%E6%80%A7%E5%86%9B%E5%A4%87%E8%B5%9B%E5%9C%BA-%E6%A3%89%E8%8A%B1-91aa0c11</link>
             <guid isPermaLink="false">WP-WSJS-0003750483</guid>
             <pubDate>Tue, 21 Jul 2026 03:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普“中国干预大选论”令美中关系再起波澜]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-25489891?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普声称中国干预2020年美国大选，这一言论打破了自他5月访问北京以来美中关系相对平静的局面。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trumps-allegations-of-chinese-interference-in-u-s-elections-stir-tensions-with-beijing-26711124</link>
+            <guid isPermaLink="false">WP-WSJS-0003747897</guid>
+            <pubDate>Mon, 20 Jul 2026 05:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[印度青年绝食抗议，掀起反莫迪政府浪潮]]></title>
@@ -147,18 +147,18 @@
             <pubDate>Tue, 21 Jul 2026 01:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[他们用GLP-1药物减肥，却患上厌食症]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-51562020?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>帮助美国抗击肥胖的“神药”可能存在一个危险的弊端：引发饮食失调。</p>]]></description>
-            <link>https://cn.wsj.com/articles/glp1-anorexia-wegovy-mounjaro-a2b9bc89</link>
-            <guid isPermaLink="false">WP-WSJS-0003750544</guid>
-            <pubDate>Tue, 21 Jul 2026 02:55:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[阿里巴巴旗下全球速卖通被欧盟罚款5.5亿欧元]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-87878747?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴旗下的全球速卖通被欧盟执行机构处以5.5亿欧元罚款，这是迄今为止根据《数字服务法》对企业开出的最大一笔罚单。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%97%97%E4%B8%8B%E5%85%A8%E7%90%83%E9%80%9F%E5%8D%96%E9%80%9A%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE5-5%E4%BA%BF%E6%AC%A7%E5%85%83-10633d94</link>
             <guid isPermaLink="false">WP-WSJS-0003748234</guid>
             <pubDate>Mon, 20 Jul 2026 12:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[他们用GLP-1药物减肥，却患上厌食症]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-51562020?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>帮助美国抗击肥胖的“神药”可能存在一个危险的弊端：引发饮食失调。</p>]]></description>
+            <link>https://cn.wsj.com/articles/glp1-anorexia-wegovy-mounjaro-a2b9bc89</link>
+            <guid isPermaLink="false">WP-WSJS-0003750544</guid>
+            <pubDate>Tue, 21 Jul 2026 02:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[贝莱德牵头为Meta得州新数据中心融资120亿美元]]></title>
@@ -173,6 +173,20 @@
             <link>https://cn.wsj.com/articles/udge-temporarily-blocks-paramount-warner-deal-18cfa8bf</link>
             <guid isPermaLink="false">WP-WSJS-0003750222</guid>
             <pubDate>Mon, 20 Jul 2026 23:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“真希望世界杯永不落幕”：美国举办城市庆祝惊喜经济狂欢]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61346019?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“空欢喜”担忧散去，费城与堪萨斯城等相对低调的世界杯举办地喜迎旅游消费狂潮，“赚大钱的感觉真好”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/i-never-want-it-to-end-the-surprise-economic-boost-for-world-cup-host-cities-a5f248c3</link>
+            <guid isPermaLink="false">WP-WSJS-0003750319</guid>
+            <pubDate>Tue, 21 Jul 2026 00:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼是世界上最快乐的地方，除非你是那个负责刷手机预约的人]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-13378147?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为了避免无休止排队，每个游玩小队里都得有一个人疯狂地在手机上预订和修改游乐项目。负责这个任务的人将无暇享受乐园的悠闲和快乐气氛。</p>]]></description>
+            <link>https://cn.wsj.com/articles/disney-parks-lines-lightning-lane-aa8fc603</link>
+            <guid isPermaLink="false">WP-WSJS-0003750615</guid>
+            <pubDate>Tue, 21 Jul 2026 03:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国心脏协会：每天喝五杯咖啡对大多数成年人而言没问题]]></title>
@@ -203,25 +217,11 @@
             <pubDate>Fri, 17 Jul 2026 08:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国重拳治理AI人机恋，严防沉迷影响生育]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-73867954?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北京方面为人类与机器划定情感界限：中国周三实施新规，要求主打陪伴功能的AI聊天机器人不得诱导情感依赖。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-wants-more-babiesso-its-cracking-down-on-chatbot-love-affairs-706efb84</link>
-            <guid isPermaLink="false">WP-WSJS-0003739425</guid>
-            <pubDate>Thu, 16 Jul 2026 03:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙战胜阿根廷，二度加冕世界杯王座]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99694273?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>世界杯决赛加时赛的第16分钟，26岁的西班牙球员托雷斯抽射破门，西班牙队以1-0击败阿根廷队夺得冠军。</p>]]></description>
-            <link>https://cn.wsj.com/articles/spain-sinks-argentina-to-win-its-second-ever-world-cup-db1dd46e</link>
-            <guid isPermaLink="false">WP-WSJS-0003747662</guid>
-            <pubDate>Mon, 20 Jul 2026 00:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“真希望世界杯永不落幕”：美国举办城市庆祝惊喜经济狂欢]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61346019?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“空欢喜”担忧散去，费城与堪萨斯城等相对低调的世界杯举办地喜迎旅游消费狂潮，“赚大钱的感觉真好”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/i-never-want-it-to-end-the-surprise-economic-boost-for-world-cup-host-cities-a5f248c3</link>
-            <guid isPermaLink="false">WP-WSJS-0003750319</guid>
-            <pubDate>Tue, 21 Jul 2026 00:24:00 GMT</pubDate>
+            <title><![CDATA[越来越多人希望在婚前协议中加入“退出职场”触发条款]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11486132?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>配偶当中全职在家照顾孩子的一方在离婚时可能会面临噩梦般的境地。越来越多的伴侣正在试图避免这种情况。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%A4%AB%E5%A6%BB%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E4%B8%AD%E5%8A%A0%E5%85%A5-%E9%80%80%E5%87%BA%E8%81%8C%E5%9C%BA-%E8%A7%A6%E5%8F%91%E6%9D%A1%E6%AC%BE-0b2789c5</link>
+            <guid isPermaLink="false">WP-WSJS-0003750680</guid>
+            <pubDate>Tue, 21 Jul 2026 05:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[普京曾是习近平的榜样，如今却在伙伴关系中成了“小弟”]]></title>
