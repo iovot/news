@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:20:29.964593+00:00",
+  "generated_at": "2026-07-21T14:10:48.073700+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -65,6 +65,18 @@
       "error": ""
     },
     {
+      "title": "中国驱逐舰实弹演习引发日本抗议",
+      "summary": "针对中国一艘军舰在日本最南端环礁附近水域进行的实弹演习，日本向中国提出正式抗议，这是两国紧张关系中的最新争端。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A9%B1%E9%80%90%E8%88%B0%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0%E5%BC%95%E5%8F%91%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE-f46fd605",
+      "guid": "WP-WSJS-0003751142",
+      "pub_date": "Tue, 21 Jul 2026 11:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-16528056?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-a9-b1-e9-80-90-e8-88-b0-e5--8c91b1637364.html",
+      "captured": true,
+      "capture_title": "中国驱逐舰实弹演习引发日本抗议 - WSJ",
+      "error": ""
+    },
+    {
       "title": "伊朗导弹击中了约旦基地的美军宿舍",
       "summary": "伊朗上周的袭击造成两名美国军人丧生，特朗普周一威胁称将对这些袭击进行报复。多达三枚导弹突破了美军防空系统，凸显出防范伊朗导弹和无人机袭击的难度。",
       "link": "https://cn.wsj.com/articles/iran-missile-struck-housing-for-u-s-troops-at-jordan-base-67195a8e",
@@ -110,18 +122,6 @@
       "snapshot": "articles/e7-be-8e-e8-82-a1-e4-b8-83-e9-9b-84--e9-ad-85-e5-a7629e3180da.html",
       "captured": true,
       "capture_title": "“美股七雄”魅力不再，普通投资者转入AI新贵战线",
-      "error": ""
-    },
-    {
-      "title": "特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕",
-      "summary": "纽约市长马姆达尼称，他将探讨地方当局是否可以拘留以色列总理。",
-      "link": "https://cn.wsj.com/articles/trump-pushing-back-on-mamdani-says-netanyahu-wont-be-arrested-if-he-comes-to-u-s-6eaf16a5",
-      "guid": "WP-WSJS-0003750199",
-      "pub_date": "Mon, 20 Jul 2026 23:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-99813955?size=1.501&width=1280",
-      "snapshot": "articles/trump-pushing-back-on-mamdani-says-netanyahu-won-098d4cfd3b5e.html",
-      "captured": true,
-      "capture_title": "特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕",
       "error": ""
     },
     {
@@ -173,15 +173,15 @@
       "error": ""
     },
     {
-      "title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
-      "summary": "长鑫存储正积极筹备上市，这家芯片制造商将目光瞄准了美光科技、SK海力士和三星电子等公司的“地盘”。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%9C%80%E5%A4%A7%E7%A0%B4%E5%B1%80%E8%80%85-488aa8de",
-      "guid": "WP-WSJS-0003747861",
-      "pub_date": "Mon, 20 Jul 2026 04:26:00 GMT",
-      "image_url": "https://images.mktw.net/im-09404690?size=1.44&width=1280",
-      "snapshot": "articles/e4-b8-80-e5-ae-b6-e4-b8-ad-e5-9b-bd-e6-9c-ac-e5--3bc2f7ae7995.html",
+      "title": "特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕",
+      "summary": "纽约市长马姆达尼称，他将探讨地方当局是否可以拘留以色列总理。",
+      "link": "https://cn.wsj.com/articles/trump-pushing-back-on-mamdani-says-netanyahu-wont-be-arrested-if-he-comes-to-u-s-6eaf16a5",
+      "guid": "WP-WSJS-0003750199",
+      "pub_date": "Mon, 20 Jul 2026 23:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-99813955?size=1.501&width=1280",
+      "snapshot": "articles/trump-pushing-back-on-mamdani-says-netanyahu-won-098d4cfd3b5e.html",
       "captured": true,
-      "capture_title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
+      "capture_title": "特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕",
       "error": ""
     },
     {
@@ -253,7 +253,19 @@
       "image_url": "https://images.wsj.net/im-25894244?size=1.499&width=1280",
       "snapshot": "articles/blackrock-leads-12-billion-financing-for-new-met-b8172d17b389.html",
       "captured": true,
-      "capture_title": "贝莱德牵头为Meta得州新数据中心融资120亿美元 - WSJ",
+      "capture_title": "贝莱德牵头为Meta得州新数据中心融资120亿美元",
+      "error": ""
+    },
+    {
+      "title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
+      "summary": "长鑫存储正积极筹备上市，这家芯片制造商将目光瞄准了美光科技、SK海力士和三星电子等公司的“地盘”。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%9C%80%E5%A4%A7%E7%A0%B4%E5%B1%80%E8%80%85-488aa8de",
+      "guid": "WP-WSJS-0003747861",
+      "pub_date": "Mon, 20 Jul 2026 04:26:00 GMT",
+      "image_url": "https://images.mktw.net/im-09404690?size=1.44&width=1280",
+      "snapshot": "articles/e4-b8-80-e5-ae-b6-e4-b8-ad-e5-9b-bd-e6-9c-ac-e5--3bc2f7ae7995.html",
+      "captured": true,
+      "capture_title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
       "error": ""
     },
     {

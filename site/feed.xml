@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 11:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 14:02:36 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 11:12:37 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 14:02:36 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -63,6 +63,13 @@
             <pubDate>Mon, 20 Jul 2026 10:26:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国驱逐舰实弹演习引发日本抗议]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-16528056?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>针对中国一艘军舰在日本最南端环礁附近水域进行的实弹演习，日本向中国提出正式抗议，这是两国紧张关系中的最新争端。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A9%B1%E9%80%90%E8%88%B0%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0%E5%BC%95%E5%8F%91%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE-f46fd605</link>
+            <guid isPermaLink="false">WP-WSJS-0003751142</guid>
+            <pubDate>Tue, 21 Jul 2026 11:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[伊朗导弹击中了约旦基地的美军宿舍]]></title>
             <description><![CDATA[<img width="1280" height="2275" src="https://images.wsj.net/im-09037181?size=0.56&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗上周的袭击造成两名美国军人丧生，特朗普周一威胁称将对这些袭击进行报复。多达三枚导弹突破了美军防空系统，凸显出防范伊朗导弹和无人机袭击的难度。</p>]]></description>
             <link>https://cn.wsj.com/articles/iran-missile-struck-housing-for-u-s-troops-at-jordan-base-67195a8e</link>
@@ -89,13 +96,6 @@
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E4%B8%83%E9%9B%84-%E9%AD%85%E5%8A%9B%E4%B8%8D%E5%86%8D-%E6%99%AE%E9%80%9A%E6%8A%95%E8%B5%84%E8%80%85%E8%BD%AC%E5%85%A5ai%E6%96%B0%E8%B4%B5%E6%88%98%E7%BA%BF-5c8c9955</link>
             <guid isPermaLink="false">WP-WSJS-0003747824</guid>
             <pubDate>Mon, 20 Jul 2026 03:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99813955?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>纽约市长马姆达尼称，他将探讨地方当局是否可以拘留以色列总理。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-pushing-back-on-mamdani-says-netanyahu-wont-be-arrested-if-he-comes-to-u-s-6eaf16a5</link>
-            <guid isPermaLink="false">WP-WSJS-0003750199</guid>
-            <pubDate>Mon, 20 Jul 2026 23:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免]]></title>
@@ -126,11 +126,11 @@
             <pubDate>Tue, 21 Jul 2026 01:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一家中国本土公司如何成为存储芯片行业的最大破局者]]></title>
-            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-09404690?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>长鑫存储正积极筹备上市，这家芯片制造商将目光瞄准了美光科技、SK海力士和三星电子等公司的“地盘”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%9C%80%E5%A4%A7%E7%A0%B4%E5%B1%80%E8%80%85-488aa8de</link>
-            <guid isPermaLink="false">WP-WSJS-0003747861</guid>
-            <pubDate>Mon, 20 Jul 2026 04:26:00 GMT</pubDate>
+            <title><![CDATA[特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99813955?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>纽约市长马姆达尼称，他将探讨地方当局是否可以拘留以色列总理。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-pushing-back-on-mamdani-says-netanyahu-wont-be-arrested-if-he-comes-to-u-s-6eaf16a5</link>
+            <guid isPermaLink="false">WP-WSJS-0003750199</guid>
+            <pubDate>Mon, 20 Jul 2026 23:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中资电动汽车制造商极星放弃对美禁令提出上诉，经销商陷入困境]]></title>
@@ -175,6 +175,13 @@
             <pubDate>Mon, 20 Jul 2026 23:46:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[一家中国本土公司如何成为存储芯片行业的最大破局者]]></title>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-09404690?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>长鑫存储正积极筹备上市，这家芯片制造商将目光瞄准了美光科技、SK海力士和三星电子等公司的“地盘”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%9C%80%E5%A4%A7%E7%A0%B4%E5%B1%80%E8%80%85-488aa8de</link>
+            <guid isPermaLink="false">WP-WSJS-0003747861</guid>
+            <pubDate>Mon, 20 Jul 2026 04:26:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[“真希望世界杯永不落幕”：美国举办城市庆祝惊喜经济狂欢]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61346019?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“空欢喜”担忧散去，费城与堪萨斯城等相对低调的世界杯举办地喜迎旅游消费狂潮，“赚大钱的感觉真好”。</p>]]></description>
             <link>https://cn.wsj.com/articles/i-never-want-it-to-end-the-surprise-economic-boost-for-world-cup-host-cities-a5f248c3</link>
@@ -208,13 +215,6 @@
             <link>https://cn.wsj.com/articles/china-economy-tech-property-46b2b059</link>
             <guid isPermaLink="false">WP-WSJS-0003743327</guid>
             <pubDate>Fri, 17 Jul 2026 05:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球稀土争夺战：美国正把盟友甩到身后]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-44845725?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>欧洲正在努力摆脱中国对其重整军备所需材料的控制，但遇到一个意想不到的障碍：财力雄厚的美国。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E7%A8%80%E5%9C%9F%E4%BA%89%E5%A4%BA%E6%88%98-%E7%BE%8E%E5%9B%BD%E6%AD%A3%E6%8A%8A%E7%9B%9F%E5%8F%8B%E7%94%A9%E5%88%B0%E8%BA%AB%E5%90%8E-30b66286</link>
-            <guid isPermaLink="false">WP-WSJS-0003743498</guid>
-            <pubDate>Fri, 17 Jul 2026 08:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[越来越多人希望在婚前协议中加入“退出职场”触发条款]]></title>
