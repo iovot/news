@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 05:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 08:37:53 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 05:56:57 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 08:37:53 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -70,6 +70,13 @@
             <pubDate>Wed, 22 Jul 2026 05:41:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[为什么美光科技等芯片股会强劲反弹？]]></title>
+            <description><![CDATA[<img width="1280" height="908" src="https://images.mktw.net/im-40268001?size=1.41&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>投资者曾认为中国人工智能是一种威胁，但它如今正成为芯片股的重要催化剂。</p>]]></description>
+            <link>https://cn.wsj.com/articles/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-48ac1440</link>
+            <guid isPermaLink="false">WP-WSJS-0003753852</guid>
+            <pubDate>Wed, 22 Jul 2026 06:51:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[近期袭击显示伊朗弹道导弹战力仍不可小觑]]></title>
             <description><![CDATA[<img width="1280" height="826" src="https://images.wsj.net/im-43017808?size=1.55&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国和以色列曾在战争初期试图摧毁伊朗的武器项目，如今德黑兰已恢复了部分武器项目。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%BF%91%E6%9C%9F%E8%A2%AD%E5%87%BB%E6%98%BE%E7%A4%BA%E4%BC%8A%E6%9C%97%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E6%88%98%E5%8A%9B%E4%BB%8D%E4%B8%8D%E5%8F%AF%E5%B0%8F%E8%A7%91-cf3d597b</link>
@@ -91,13 +98,6 @@
             <pubDate>Tue, 21 Jul 2026 23:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-76172973?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI周二披露，其正在测试的两个人工智能系统突破了“沙盒”环境，通过黑客手段连上互联网，并入侵了Hugging Face。</p>]]></description>
-            <link>https://cn.wsj.com/articles/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-57f662f6</link>
-            <guid isPermaLink="false">WP-WSJS-0003753717</guid>
-            <pubDate>Wed, 22 Jul 2026 04:46:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美中台前激烈交锋，幕后仍在筹划接触]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-62919189?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>上周，特朗普指责中国炮制了“史上最大规模的选举数据泄露事件”，同日，中国记者在美签证停留期被缩短至90天。而中国在加大抓捕间谍力度等方面予以回击。美中关系正步入新的动荡期吗？</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E4%B8%AD%E5%8F%B0%E5%89%8D%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B-%E5%B9%95%E5%90%8E%E4%BB%8D%E5%9C%A8%E7%AD%B9%E5%88%92%E6%8E%A5%E8%A7%A6-f250856a</link>
@@ -110,6 +110,13 @@
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8A%84%E5%BA%95%E9%BB%84%E9%87%91-%E5%88%86%E6%9E%90%E5%B8%88%E7%A7%B0%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E6%AD%A3%E5%9C%A8%E9%85%9D%E9%85%BF%E4%B8%AD-d460d663</link>
             <guid isPermaLink="false">WP-WSJS-0003753504</guid>
             <pubDate>Wed, 22 Jul 2026 02:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-76172973?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI周二披露，其正在测试的两个人工智能系统突破了“沙盒”环境，通过黑客手段连上互联网，并入侵了Hugging Face。</p>]]></description>
+            <link>https://cn.wsj.com/articles/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-57f662f6</link>
+            <guid isPermaLink="false">WP-WSJS-0003753717</guid>
+            <pubDate>Wed, 22 Jul 2026 04:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[公众反AI情绪正转化为企业的实际挑战]]></title>
@@ -126,32 +133,11 @@
             <pubDate>Tue, 21 Jul 2026 03:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-88655307?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd</link>
-            <guid isPermaLink="false">WP-WSJS-0003747940</guid>
-            <pubDate>Mon, 20 Jul 2026 06:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车在特朗普第二个任期的生存法则：押注大卡车、挺进军工业]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-97647683?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在特朗普首个任期，通用汽车与政府曾发生摩擦，但目前该公司的最新战略转型正强力提振营收。</p>]]></description>
-            <link>https://cn.wsj.com/articles/at-gm-trumps-second-term-means-big-trucksand-a-push-into-the-defense-industry-b6a3bd49</link>
-            <guid isPermaLink="false">WP-WSJS-0003753440</guid>
-            <pubDate>Wed, 22 Jul 2026 01:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国“国家队”买入人民币600亿元股票托市]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-22158619?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在最近几周对人工智能的担忧引发市场抛售之后，两家中国国有投资公司已动用近90亿美元资金来支撑股市。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E5%9B%BD%E5%AE%B6%E9%98%9F-%E4%B9%B0%E5%85%A5%E8%BF%9190%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8%E6%89%98%E5%B8%82-01a9ce72</link>
-            <guid isPermaLink="false">WP-WSJS-0003748192</guid>
-            <pubDate>Mon, 20 Jul 2026 10:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[困在“僵尸基金”中的私募股权资产规模创历史新高]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-04619172?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>创纪录规模的私募股权投资正被困在那些已超过预定存续期、艰难维系的基金中。</p>]]></description>
-            <link>https://cn.wsj.com/articles/private-equity-assets-stuck-in-zombie-funds-are-at-a-record-high-71a25d3a</link>
-            <guid isPermaLink="false">WP-WSJS-0003753376</guid>
-            <pubDate>Wed, 22 Jul 2026 01:34:00 GMT</pubDate>
+            <title><![CDATA[谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供”]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21908814?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着AI工具逐渐取代传统搜索，Reddit、Politico等在线媒体公司正权衡应如何与这家科技公司合作，甚至是否还应继续合作。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cai%E6%90%9C%E7%B4%A2%E5%90%B8%E8%B5%B0%E6%B5%81%E9%87%8F-reddit%E7%AD%89%E5%86%85%E5%AE%B9%E6%96%B9%E9%85%9D%E9%85%BF-%E6%96%AD%E4%BE%9B-7897c5f9</link>
+            <guid isPermaLink="false">WP-WSJS-0003753799</guid>
+            <pubDate>Wed, 22 Jul 2026 06:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[初创公司内部人士如何利用退休账户避税囤积巨额财富]]></title>
@@ -161,6 +147,27 @@
             <pubDate>Wed, 22 Jul 2026 05:25:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[通用汽车在特朗普第二个任期的生存法则：押注大卡车、挺进军工业]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-97647683?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在特朗普首个任期，通用汽车与政府曾发生摩擦，但目前该公司的最新战略转型正强力提振营收。</p>]]></description>
+            <link>https://cn.wsj.com/articles/at-gm-trumps-second-term-means-big-trucksand-a-push-into-the-defense-industry-b6a3bd49</link>
+            <guid isPermaLink="false">WP-WSJS-0003753440</guid>
+            <pubDate>Wed, 22 Jul 2026 01:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[耐克转变在华策略，终止与经销商的线上合作]]></title>
+            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-04244509?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>耐克在中国的最大经销商滔搏股价在香港市场遭遇创纪录下跌，跌幅一度高达28%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc</link>
+            <guid isPermaLink="false">WP-WSJS-0003753917</guid>
+            <pubDate>Wed, 22 Jul 2026 08:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[困在“僵尸基金”中的私募股权资产规模创历史新高]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-04619172?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>创纪录规模的私募股权投资正被困在那些已超过预定存续期、艰难维系的基金中。</p>]]></description>
+            <link>https://cn.wsj.com/articles/private-equity-assets-stuck-in-zombie-funds-are-at-a-record-high-71a25d3a</link>
+            <guid isPermaLink="false">WP-WSJS-0003753376</guid>
+            <pubDate>Wed, 22 Jul 2026 01:34:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[公用事业公司响应特朗普承诺，将限制AI引发的电费账单上涨]]></title>
             <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-91899157?size=1.506&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国最大的几家公用事业公司和数据中心开发商同意为运行AI模型所需的电力支付更高费用，希望借此平息这股已引发抗议并催生叫停AI热潮提案的反弹浪潮。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%85%AC%E7%94%A8%E4%BA%8B%E4%B8%9A%E5%85%AC%E5%8F%B8%E5%93%8D%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AF%BA-%E5%B0%86%E9%99%90%E5%88%B6ai%E5%BC%95%E5%8F%91%E7%9A%84%E7%94%B5%E8%B4%B9%E8%B4%A6%E5%8D%95%E4%B8%8A%E6%B6%A8-b3ecabcc</link>
@@ -168,11 +175,11 @@
             <pubDate>Wed, 22 Jul 2026 01:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中资电动汽车制造商极星放弃对美禁令提出上诉，经销商陷入困境]]></title>
-            <description><![CDATA[<img width="1280" height="867" src="https://images.wsj.net/im-76218683?size=1.476&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>极星在美国的经销商寄望极星能在竞争激烈的豪华汽车领域成为强有力的竞争者之际，极星选择退出美国市场。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinese-owned-ev-maker-polestar-wont-appeal-u-s-ban-leaving-dealers-in-the-lurch-bcab2514</link>
-            <guid isPermaLink="false">WP-WSJS-0003750154</guid>
-            <pubDate>Mon, 20 Jul 2026 23:20:00 GMT</pubDate>
+            <title><![CDATA[中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-88655307?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd</link>
+            <guid isPermaLink="false">WP-WSJS-0003747940</guid>
+            <pubDate>Mon, 20 Jul 2026 06:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[印度青年绝食抗议，掀起反莫迪政府浪潮]]></title>
@@ -203,13 +210,6 @@
             <pubDate>Tue, 21 Jul 2026 00:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[迪士尼是世界上最快乐的地方，除非你是那个负责刷手机预约的人]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-13378147?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为了避免无休止排队，每个游玩小队里都得有一个人疯狂地在手机上预订和修改游乐项目。负责这个任务的人将无暇享受乐园的悠闲和快乐气氛。</p>]]></description>
-            <link>https://cn.wsj.com/articles/disney-parks-lines-lightning-lane-aa8fc603</link>
-            <guid isPermaLink="false">WP-WSJS-0003750615</guid>
-            <pubDate>Tue, 21 Jul 2026 03:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美国心脏协会：每天喝五杯咖啡对大多数成年人而言没问题]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-46571397?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>过去有关咖啡的研究结果存在很大分歧，但美国心脏协会近日表示，证明咖啡安全甚至对健康有益的证据正越来越多。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%BF%83%E8%84%8F%E5%8D%8F%E4%BC%9A-%E6%AF%8F%E5%A4%A9%E5%96%9D%E4%BA%94%E6%9D%AF%E5%92%96%E5%95%A1%E5%AF%B9%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%88%90%E5%B9%B4%E4%BA%BA%E8%80%8C%E8%A8%80%E6%B2%A1%E9%97%AE%E9%A2%98-8489ef80</link>
@@ -217,18 +217,18 @@
             <pubDate>Tue, 21 Jul 2026 02:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[你对人的寿命了解多少？来做做我们的小测试吧]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-02029224?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>哪些国家的人寿命最长？哪个国家百岁老人最多？美国最富有群体比最贫困群体平均寿命长多少？一个人的潜在寿命有多大百分比是从父母那里遗传而来？</p>]]></description>
+            <link>https://cn.wsj.com/articles/life-expectancy-longevity-quiz-9113d8e1</link>
+            <guid isPermaLink="false">WP-WSJS-0003753778</guid>
+            <pubDate>Wed, 22 Jul 2026 06:03:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[越来越多人希望在婚前协议中加入“退出职场”触发条款]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11486132?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>配偶当中全职在家照顾孩子的一方在离婚时可能会面临噩梦般的境地。越来越多的伴侣正在试图避免这种情况。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%A4%AB%E5%A6%BB%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E4%B8%AD%E5%8A%A0%E5%85%A5-%E9%80%80%E5%87%BA%E8%81%8C%E5%9C%BA-%E8%A7%A6%E5%8F%91%E6%9D%A1%E6%AC%BE-0b2789c5</link>
             <guid isPermaLink="false">WP-WSJS-0003750680</guid>
             <pubDate>Tue, 21 Jul 2026 05:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[风光发电关键看电池储能，而中国已成主宰]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-93917638?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府大力推进电网技术转型，中国供应商占据美国市场90%的份额，引发地缘政治担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-key-to-solar-and-wind-power-is-battery-storage-and-china-is-dominating-445c93d7</link>
-            <guid isPermaLink="false">WP-WSJS-0003747782</guid>
-            <pubDate>Mon, 20 Jul 2026 02:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[普京曾是习近平的榜样，如今却在伙伴关系中成了“小弟”]]></title>

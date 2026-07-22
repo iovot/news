@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:00:53.348616+00:00",
+  "generated_at": "2026-07-22T08:41:46.903627+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -73,7 +73,19 @@
       "image_url": "https://images.wsj.net/im-22319953?size=1.45&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-85-b3-e7-a8-8e-e8--de3458441041.html",
       "captured": true,
-      "capture_title": "特朗普关税进入新阶段，数月贸易平静期告终 - WSJ",
+      "capture_title": "特朗普关税进入新阶段，数月贸易平静期告终",
+      "error": ""
+    },
+    {
+      "title": "为什么美光科技等芯片股会强劲反弹？",
+      "summary": "投资者曾认为中国人工智能是一种威胁，但它如今正成为芯片股的重要催化剂。",
+      "link": "https://cn.wsj.com/articles/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-48ac1440",
+      "guid": "WP-WSJS-0003753852",
+      "pub_date": "Wed, 22 Jul 2026 06:51:00 GMT",
+      "image_url": "https://images.mktw.net/im-40268001?size=1.41&width=1280",
+      "snapshot": "articles/why-micron-and-other-chip-stocks-are-bouncing-ba-b130ee6f8398.html",
+      "captured": true,
+      "capture_title": "为什么美光科技等芯片股会强劲反弹？ - WSJ",
       "error": ""
     },
     {
@@ -85,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-43017808?size=1.55&width=1280",
       "snapshot": "articles/e8-bf-91-e6-9c-9f-e8-a2-ad-e5-87-bb-e6-98-be-e7--a90162d7b637.html",
       "captured": true,
-      "capture_title": "近期袭击显示伊朗弹道导弹战力仍不可小觑 - WSJ",
+      "capture_title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
       "error": ""
     },
     {
@@ -113,18 +125,6 @@
       "error": ""
     },
     {
-      "title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
-      "summary": "OpenAI周二披露，其正在测试的两个人工智能系统突破了“沙盒”环境，通过黑客手段连上互联网，并入侵了Hugging Face。",
-      "link": "https://cn.wsj.com/articles/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-57f662f6",
-      "guid": "WP-WSJS-0003753717",
-      "pub_date": "Wed, 22 Jul 2026 04:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-76172973?size=1.499&width=1280",
-      "snapshot": "articles/openai-models-escaped-and-hacked-a-company-in-cy-bc0ea6021065.html",
-      "captured": true,
-      "capture_title": "OpenAI安全测试中模型“越狱”，突破沙盒入侵Hugging Face - WSJ",
-      "error": ""
-    },
-    {
       "title": "美中台前激烈交锋，幕后仍在筹划接触",
       "summary": "上周，特朗普指责中国炮制了“史上最大规模的选举数据泄露事件”，同日，中国记者在美签证停留期被缩短至90天。而中国在加大抓捕间谍力度等方面予以回击。美中关系正步入新的动荡期吗？",
       "link": "https://cn.wsj.com/articles/%E7%BE%8E%E4%B8%AD%E5%8F%B0%E5%89%8D%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B-%E5%B9%95%E5%90%8E%E4%BB%8D%E5%9C%A8%E7%AD%B9%E5%88%92%E6%8E%A5%E8%A7%A6-f250856a",
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-62919189?size=1.5&width=1280",
       "snapshot": "articles/e7-be-8e-e4-b8-ad-e5-8f-b0-e5-89-8d-e6-bf-80-e7--f797753c5daa.html",
       "captured": true,
-      "capture_title": "美中台前激烈交锋，幕后仍在筹划接触 - WSJ",
+      "capture_title": "美中台前激烈交锋，幕后仍在筹划接触",
       "error": ""
     },
     {
@@ -146,6 +146,18 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-8a-84-e5-ba-95-e9-bb-84-e9--e6a1770bec2d.html",
       "captured": true,
       "capture_title": "中国抄底黄金，分析师称金价反弹正在酝酿中",
+      "error": ""
+    },
+    {
+      "title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
+      "summary": "OpenAI周二披露，其正在测试的两个人工智能系统突破了“沙盒”环境，通过黑客手段连上互联网，并入侵了Hugging Face。",
+      "link": "https://cn.wsj.com/articles/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-57f662f6",
+      "guid": "WP-WSJS-0003753717",
+      "pub_date": "Wed, 22 Jul 2026 04:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-76172973?size=1.499&width=1280",
+      "snapshot": "articles/openai-models-escaped-and-hacked-a-company-in-cy-bc0ea6021065.html",
+      "captured": true,
+      "capture_title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
       "error": ""
     },
     {
@@ -173,15 +185,27 @@
       "error": ""
     },
     {
-      "title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
-      "summary": "为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd",
-      "guid": "WP-WSJS-0003747940",
-      "pub_date": "Mon, 20 Jul 2026 06:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-88655307?size=1.499&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-85-a8-e6-96-b9-e4-bd-8d-e6--a640e93b4516.html",
+      "title": "谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供”",
+      "summary": "随着AI工具逐渐取代传统搜索，Reddit、Politico等在线媒体公司正权衡应如何与这家科技公司合作，甚至是否还应继续合作。",
+      "link": "https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cai%E6%90%9C%E7%B4%A2%E5%90%B8%E8%B5%B0%E6%B5%81%E9%87%8F-reddit%E7%AD%89%E5%86%85%E5%AE%B9%E6%96%B9%E9%85%9D%E9%85%BF-%E6%96%AD%E4%BE%9B-7897c5f9",
+      "guid": "WP-WSJS-0003753799",
+      "pub_date": "Wed, 22 Jul 2026 06:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-21908814?size=1.501&width=1280",
+      "snapshot": "articles/e8-b0-b7-e6-ad-8cai-e6-90-9c-e7-b4-a2-e5-90-b8-e-dd8e929ccb37.html",
       "captured": true,
-      "capture_title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
+      "capture_title": "谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供” - WSJ",
+      "error": ""
+    },
+    {
+      "title": "初创公司内部人士如何利用退休账户避税囤积巨额财富",
+      "summary": "超千名美国人的IRA账户已经各自积累至少2,500万美元资金，这已不是为了在晚年过上体面生活而未雨绸缪，而是在为购置游艇融资，或是打造家族财富王朝。",
+      "link": "https://cn.wsj.com/articles/iras-startup-insiders-retirement-accounts-millions-0cb1c5ba",
+      "guid": "WP-WSJS-0003753722",
+      "pub_date": "Wed, 22 Jul 2026 05:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-21789607?size=1.501&width=1280",
+      "snapshot": "articles/iras-startup-insiders-retirement-accounts-millio-77edbe1e79d6.html",
+      "captured": true,
+      "capture_title": "初创公司内部人士如何利用退休账户避税囤积巨额财富",
       "error": ""
     },
     {
@@ -197,15 +221,15 @@
       "error": ""
     },
     {
-      "title": "中国“国家队”买入人民币600亿元股票托市",
-      "summary": "在最近几周对人工智能的担忧引发市场抛售之后，两家中国国有投资公司已动用近90亿美元资金来支撑股市。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E5%9B%BD%E5%AE%B6%E9%98%9F-%E4%B9%B0%E5%85%A5%E8%BF%9190%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8%E6%89%98%E5%B8%82-01a9ce72",
-      "guid": "WP-WSJS-0003748192",
-      "pub_date": "Mon, 20 Jul 2026 10:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-22158619?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd--e5-9b-bd-e5-ae-b6-e9-98-9f--e-58ec43389077.html",
+      "title": "耐克转变在华策略，终止与经销商的线上合作",
+      "summary": "耐克在中国的最大经销商滔搏股价在香港市场遭遇创纪录下跌，跌幅一度高达28%。",
+      "link": "https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc",
+      "guid": "WP-WSJS-0003753917",
+      "pub_date": "Wed, 22 Jul 2026 08:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-04244509?size=1.502&width=1280",
+      "snapshot": "articles/nike-ends-china-online-distribution-deal-in-stra-100c06cd54fb.html",
       "captured": true,
-      "capture_title": "中国“国家队”买入人民币600亿元股票托市",
+      "capture_title": "耐克转变在华策略，终止与经销商的线上合作 - WSJ",
       "error": ""
     },
     {
@@ -221,18 +245,6 @@
       "error": ""
     },
     {
-      "title": "初创公司内部人士如何利用退休账户避税囤积巨额财富",
-      "summary": "超千名美国人的IRA账户已经各自积累至少2,500万美元资金，这已不是为了在晚年过上体面生活而未雨绸缪，而是在为购置游艇融资，或是打造家族财富王朝。",
-      "link": "https://cn.wsj.com/articles/iras-startup-insiders-retirement-accounts-millions-0cb1c5ba",
-      "guid": "WP-WSJS-0003753722",
-      "pub_date": "Wed, 22 Jul 2026 05:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-21789607?size=1.501&width=1280",
-      "snapshot": "articles/iras-startup-insiders-retirement-accounts-millio-77edbe1e79d6.html",
-      "captured": true,
-      "capture_title": "初创公司内部人士如何利用退休账户避税囤积巨额财富 - WSJ",
-      "error": ""
-    },
-    {
       "title": "公用事业公司响应特朗普承诺，将限制AI引发的电费账单上涨",
       "summary": "美国最大的几家公用事业公司和数据中心开发商同意为运行AI模型所需的电力支付更高费用，希望借此平息这股已引发抗议并催生叫停AI热潮提案的反弹浪潮。",
       "link": "https://cn.wsj.com/articles/%E5%85%AC%E7%94%A8%E4%BA%8B%E4%B8%9A%E5%85%AC%E5%8F%B8%E5%93%8D%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AF%BA-%E5%B0%86%E9%99%90%E5%88%B6ai%E5%BC%95%E5%8F%91%E7%9A%84%E7%94%B5%E8%B4%B9%E8%B4%A6%E5%8D%95%E4%B8%8A%E6%B6%A8-b3ecabcc",
@@ -245,15 +257,15 @@
       "error": ""
     },
     {
-      "title": "中资电动汽车制造商极星放弃对美禁令提出上诉，经销商陷入困境",
-      "summary": "极星在美国的经销商寄望极星能在竞争激烈的豪华汽车领域成为强有力的竞争者之际，极星选择退出美国市场。",
-      "link": "https://cn.wsj.com/articles/chinese-owned-ev-maker-polestar-wont-appeal-u-s-ban-leaving-dealers-in-the-lurch-bcab2514",
-      "guid": "WP-WSJS-0003750154",
-      "pub_date": "Mon, 20 Jul 2026 23:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-76218683?size=1.476&width=1280",
-      "snapshot": "articles/chinese-owned-ev-maker-polestar-wont-appeal-u-s--d99482126fe0.html",
+      "title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
+      "summary": "为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd",
+      "guid": "WP-WSJS-0003747940",
+      "pub_date": "Mon, 20 Jul 2026 06:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-88655307?size=1.499&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-85-a8-e6-96-b9-e4-bd-8d-e6--a640e93b4516.html",
       "captured": true,
-      "capture_title": "中资电动汽车制造商极星放弃对美禁令提出上诉，经销商陷入困境",
+      "capture_title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
       "error": ""
     },
     {
@@ -290,6 +302,30 @@
       "snapshot": "articles/e4-b8-80-e5-ae-b6-e4-b8-ad-e5-9b-bd-e6-9c-ac-e5--3bc2f7ae7995.html",
       "captured": true,
       "capture_title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
+      "error": ""
+    },
+    {
+      "title": "中国“国家队”买入人民币600亿元股票托市",
+      "summary": "在最近几周对人工智能的担忧引发市场抛售之后，两家中国国有投资公司已动用近90亿美元资金来支撑股市。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E5%9B%BD%E5%AE%B6%E9%98%9F-%E4%B9%B0%E5%85%A5%E8%BF%9190%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8%E6%89%98%E5%B8%82-01a9ce72",
+      "guid": "WP-WSJS-0003748192",
+      "pub_date": "Mon, 20 Jul 2026 10:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-22158619?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd--e5-9b-bd-e5-ae-b6-e9-98-9f--e-58ec43389077.html",
+      "captured": true,
+      "capture_title": "中国“国家队”买入人民币600亿元股票托市",
+      "error": ""
+    },
+    {
+      "title": "中资电动汽车制造商极星放弃对美禁令提出上诉，经销商陷入困境",
+      "summary": "极星在美国的经销商寄望极星能在竞争激烈的豪华汽车领域成为强有力的竞争者之际，极星选择退出美国市场。",
+      "link": "https://cn.wsj.com/articles/chinese-owned-ev-maker-polestar-wont-appeal-u-s-ban-leaving-dealers-in-the-lurch-bcab2514",
+      "guid": "WP-WSJS-0003750154",
+      "pub_date": "Mon, 20 Jul 2026 23:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-76218683?size=1.476&width=1280",
+      "snapshot": "articles/chinese-owned-ev-maker-polestar-wont-appeal-u-s--d99482126fe0.html",
+      "captured": true,
+      "capture_title": "中资电动汽车制造商极星放弃对美禁令提出上诉，经销商陷入困境",
       "error": ""
     },
     {
