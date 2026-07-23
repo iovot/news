@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 03:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 08:46:51 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jul 2026 03:18:43 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 08:46:51 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -70,6 +70,13 @@
             <pubDate>Thu, 23 Jul 2026 01:10:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[卡尼对特朗普软硬兼施，但均未奏效]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-14976235?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管加拿大总理卡尼对美国做出了一系列让步，但到目前为止，这些退让却并没有安抚住华盛顿。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AF%E7%A1%AC%E5%85%BC%E6%96%BD-%E4%BD%86%E5%9D%87%E6%9C%AA%E5%A5%8F%E6%95%88-3217e83f</link>
+            <guid isPermaLink="false">WP-WSJS-0003757115</guid>
+            <pubDate>Thu, 23 Jul 2026 05:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国贸易代表格里尔：10%全球关税即将到期，替代方案尚未就绪]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29985986?size=1.5012106537530265&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国贸易代表不予说明提议的新关税能否在周五的最后期限前敲定。此外，格里尔还称《美加墨协定》的谈判可能持续至明年。</p>]]></description>
             <link>https://cn.wsj.com/articles/u-s-trade-chief-work-remains-on-tariffs-to-replace-expiring-10-duty-cffeb18b</link>
@@ -91,11 +98,11 @@
             <pubDate>Wed, 22 Jul 2026 03:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比尔·盖茨的个人邮件未被纳入爱泼斯坦相关调查]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-40763161?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>律所调查报告显示未能获取比尔·盖茨的个人通讯记录，也未能审查爱泼斯坦与盖茨关联实体的往来。</p>]]></description>
-            <link>https://cn.wsj.com/articles/bill-gatess-personal-emails-werent-part-of-epstein-review-af39386e</link>
-            <guid isPermaLink="false">WP-WSJS-0003756529</guid>
-            <pubDate>Wed, 22 Jul 2026 23:50:00 GMT</pubDate>
+            <title><![CDATA[韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-81920771?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>韩国SK集团会长崔泰源与前总统之女卢素英曾被传为佳话的“世纪婚姻”，最终在现实中破裂成一场宛如连续剧的大戏，如今被世人称为“世纪离婚”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%9F%A9%E5%9B%BD%E8%8A%AF%E7%89%87%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84-%E4%B8%96%E7%BA%AA%E7%A6%BB%E5%A9%9A-ai%E7%8B%82%E6%BD%AE%E8%BA%AB%E5%AE%B6%E6%9A%B4%E6%B6%A8-%E5%89%8D%E5%A6%BB%E8%A6%81%E6%B1%82%E5%B9%B3%E5%88%86-c502b852</link>
+            <guid isPermaLink="false">WP-WSJS-0003757107</guid>
+            <pubDate>Thu, 23 Jul 2026 05:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国AI企业争相融资，力求缩小与美国的差距]]></title>
@@ -105,13 +112,6 @@
             <pubDate>Wed, 22 Jul 2026 00:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[耐克重塑中国业务，终止与经销商的线上合作]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-04244509?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>耐克在中国的最大经销商滔搏港股周三跌幅一度至约30%。中国市场在过去两年间已成为耐克最棘手的业务板块之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc</link>
-            <guid isPermaLink="false">WP-WSJS-0003753917</guid>
-            <pubDate>Thu, 23 Jul 2026 01:02:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[金价大跌，逢低买入正当其时]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-38536475?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在伊朗冲突持续之际，这种贵金属依然能够对冲重大风险。</p>]]></description>
             <link>https://cn.wsj.com/articles/gold-prices-have-tanked-buying-the-dip-makes-sense-e29994c5</link>
@@ -119,16 +119,16 @@
             <pubDate>Wed, 22 Jul 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[西方抗衡中俄的隐性军备赛场：棉花]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33174529?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为了发射威力强大的弹药，军队需要从天然纤维中提取的爆炸性化学品，而这些天然纤维现在却突然出现短缺。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E6%8A%97%E8%A1%A1%E4%B8%AD%E4%BF%84%E7%9A%84%E9%9A%90%E6%80%A7%E5%86%9B%E5%A4%87%E8%B5%9B%E5%9C%BA-%E6%A3%89%E8%8A%B1-91aa0c11</link>
-            <guid isPermaLink="false">WP-WSJS-0003750483</guid>
-            <pubDate>Tue, 21 Jul 2026 03:05:00 GMT</pubDate>
+            <title><![CDATA[耐克重塑中国业务，终止与经销商的线上合作]]></title>
+            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-04244509?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>耐克在中国的最大经销商滔搏港股周三跌幅一度至约30%。中国市场在过去两年间已成为耐克最棘手的业务板块之一。</p>]]></description>
+            <link>https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc</link>
+            <guid isPermaLink="false">WP-WSJS-0003753917</guid>
+            <pubDate>Thu, 23 Jul 2026 01:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[高频交易公司如何靠Trump Media推出的特快数据流掘金？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39879103?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普旗下的Truth Social正在向股市交易员出售极速访问其平台帖文的权限，在目前已签约的机构中，有五家是高频交易公司。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%AB%98%E9%A2%91%E4%BA%A4%E6%98%93%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E9%9D%A0truth-social%E6%8E%A8%E5%87%BA%E7%9A%84%E7%89%B9%E5%BF%AB%E6%95%B0%E6%8D%AE%E6%B5%81%E6%8E%98%E9%87%91-1db18f58</link>
+            <link>https://cn.wsj.com/articles/how-wall-streets-bots-are-cashing-in-on-trumps-truth-social-posts-1db18f58</link>
             <guid isPermaLink="false">WP-WSJS-0003756916</guid>
             <pubDate>Thu, 23 Jul 2026 03:05:00 GMT</pubDate>
         </item>
@@ -138,6 +138,20 @@
             <link>https://cn.wsj.com/articles/samsung-galaxy-z-fold8-folding-smartphones-d4a33e93</link>
             <guid isPermaLink="false">WP-WSJS-0003756620</guid>
             <pubDate>Thu, 23 Jul 2026 00:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拦下货车、深夜会议：塔可钟如何极限阻击环孢子虫疫情]]></title>
+            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-96528162?size=1.494&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>全美多地爆发的寄生虫病疫情让塔可钟陷入史上最大的食品安全危机之一。高管们深夜召开会议，建立了“作战室”，紧急从数百个门店召回可能受污染的生菜。</p>]]></description>
+            <link>https://cn.wsj.com/articles/stop-the-trucks-inside-taco-bells-rush-to-contain-cyclospora-4510d8a9</link>
+            <guid isPermaLink="false">WP-WSJS-0003757114</guid>
+            <pubDate>Thu, 23 Jul 2026 05:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国车企欧洲6月销量激增]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-09672490?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>6月，欧洲纯电动汽车市场增长了51%。尽管老牌欧洲车企的绝对销量远超中国竞争对手，但比亚迪等中国车企的增长率要高得多。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinese-carmakers-log-surge-in-european-monthly-sales-28ca5186</link>
+            <guid isPermaLink="false">WP-WSJS-0003757158</guid>
+            <pubDate>Thu, 23 Jul 2026 05:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击]]></title>
@@ -154,18 +168,18 @@
             <pubDate>Thu, 23 Jul 2026 02:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约市房东起诉市政府，挑战市长马姆达尼的租金冻结政策]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-28309511?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一群房东周三提起诉讼，寻求推翻纽约市针对公寓的新租金冻结政策。这是房地产行业首次对市长佐兰·马姆达尼的这项招牌竞选政见发起法律挑战。</p>]]></description>
-            <link>https://cn.wsj.com/articles/new-york-city-rent-freeze-lawsuit-landlords-c3c6635b</link>
-            <guid isPermaLink="false">WP-WSJS-0003756482</guid>
-            <pubDate>Wed, 22 Jul 2026 23:31:00 GMT</pubDate>
+            <title><![CDATA[韩国试图平息市场波动，但分析师对其成效存疑]]></title>
+            <description><![CDATA[<img width="1280" height="851" src="https://images.wsj.net/im-02110363?size=1.504&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>韩国整体市场的命运与三星电子和SK海力士紧密相连。散户大量涌入杠杆ETF增加了引发连锁追加保证金要求的风险。</p>]]></description>
+            <link>https://cn.wsj.com/articles/south-korea-is-trying-to-tame-market-swings-analysts-arent-sure-it-will-work-88895dc6</link>
+            <guid isPermaLink="false">WP-WSJS-0003756611</guid>
+            <pubDate>Thu, 23 Jul 2026 00:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21908814?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着AI工具逐渐取代传统搜索，Reddit、Politico等在线媒体公司正权衡应如何与这家科技公司合作，甚至是否还应继续合作。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cai%E6%90%9C%E7%B4%A2%E5%90%B8%E8%B5%B0%E6%B5%81%E9%87%8F-reddit%E7%AD%89%E5%86%85%E5%AE%B9%E6%96%B9%E9%85%9D%E9%85%BF-%E6%96%AD%E4%BE%9B-7897c5f9</link>
-            <guid isPermaLink="false">WP-WSJS-0003753799</guid>
-            <pubDate>Wed, 22 Jul 2026 06:40:00 GMT</pubDate>
+            <title><![CDATA[西方抗衡中俄的隐性军备赛场：棉花]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33174529?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为了发射威力强大的弹药，军队需要从天然纤维中提取的爆炸性化学品，而这些天然纤维现在却突然出现短缺。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E6%8A%97%E8%A1%A1%E4%B8%AD%E4%BF%84%E7%9A%84%E9%9A%90%E6%80%A7%E5%86%9B%E5%A4%87%E8%B5%9B%E5%9C%BA-%E6%A3%89%E8%8A%B1-91aa0c11</link>
+            <guid isPermaLink="false">WP-WSJS-0003750483</guid>
+            <pubDate>Tue, 21 Jul 2026 03:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免]]></title>
@@ -201,13 +215,6 @@
             <link>https://cn.wsj.com/articles/iras-startup-insiders-retirement-accounts-millions-0cb1c5ba</link>
             <guid isPermaLink="false">WP-WSJS-0003753722</guid>
             <pubDate>Wed, 22 Jul 2026 05:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里斯托弗·诺兰解析《奥德赛》核心史诗级场景]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57386054?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>诺兰的IMAX版《奥德赛》重塑了文学史上最著名的情节，完全使用IMAX胶片摄影机拍摄并运用老派的好莱坞技法，营造出特洛伊木马强烈的戏剧张力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/christopher-nolan-the-trojan-horse-the-odyssey-cea15f91</link>
-            <guid isPermaLink="false">WP-WSJS-0003750408</guid>
-            <pubDate>Tue, 21 Jul 2026 01:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[你对人的寿命了解多少？来做做我们的小测试吧]]></title>
