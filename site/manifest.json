@@ -1,9 +1,129 @@
 {
-  "generated_at": "2026-07-22T22:08:14.349305+00:00",
+  "generated_at": "2026-07-23T03:26:27.698420+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "三大能源要道告急，全球经济突遭能源“锁喉”",
+      "summary": "由于中东冲突和俄乌战争，全球经济的能源供应突然同时在三个要道遭遇威胁：波斯湾、红海和黑海。",
+      "link": "https://cn.wsj.com/articles/global-economy-is-suddenly-fighting-an-energy-stranglehold-on-three-fronts-bddbaaa9",
+      "guid": "WP-WSJS-0003756883",
+      "pub_date": "Thu, 23 Jul 2026 02:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-25605246?size=1.499&width=1280",
+      "snapshot": "articles/global-economy-is-suddenly-fighting-an-energy-st-45112d018889.html",
+      "captured": true,
+      "capture_title": "三大能源要道告急，全球经济突遭能源“锁喉” - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国向中东大举增兵，为特朗普扩大对伊战争提供选项",
+      "summary": "在约旦美军基地有三名美国士兵身亡后，美国正向中东地区增派部队、医护人员和武器。",
+      "link": "https://cn.wsj.com/articles/u-s-surges-forces-toward-middle-east-giving-trump-options-to-expand-iran-war-dadd521a",
+      "guid": "WP-WSJS-0003756492",
+      "pub_date": "Thu, 23 Jul 2026 00:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-91917431?size=1.501&width=1280",
+      "snapshot": "articles/u-s-surges-forces-toward-middle-east-giving-trum-9ca8c4bec534.html",
+      "captured": true,
+      "capture_title": "美国向中东大举增兵，为特朗普扩大对伊战争提供选项 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普称若伊朗袭击船只，美国将轰炸其发电厂和桥梁",
+      "summary": "美国总统特朗普威胁称，如果伊朗袭击途经霍尔木兹海峡的船只，美国将摧毁伊朗的基础设施。此举是他计划升级冲突的最新迹象。",
+      "link": "https://cn.wsj.com/articles/trump-says-u-s-will-bomb-irans-power-plants-bridges-if-tehran-strikes-ships-f8a1f5df",
+      "guid": "WP-WSJS-0003756449",
+      "pub_date": "Wed, 22 Jul 2026 23:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-33601168?size=1.501&width=1280",
+      "snapshot": "articles/trump-says-u-s-will-bomb-irans-power-plants-brid-1cda95503b58.html",
+      "captured": true,
+      "capture_title": "特朗普称若伊朗袭击船只，美国将轰炸其发电厂和桥梁 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
+      "summary": "美国和以色列曾在战争初期试图摧毁伊朗的武器项目，如今德黑兰已恢复了部分武器项目。",
+      "link": "https://cn.wsj.com/articles/%E8%BF%91%E6%9C%9F%E8%A2%AD%E5%87%BB%E6%98%BE%E7%A4%BA%E4%BC%8A%E6%9C%97%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E6%88%98%E5%8A%9B%E4%BB%8D%E4%B8%8D%E5%8F%AF%E5%B0%8F%E8%A7%91-cf3d597b",
+      "guid": "WP-WSJS-0003753614",
+      "pub_date": "Wed, 22 Jul 2026 04:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-43017808?size=1.55&width=1280",
+      "snapshot": "articles/e8-bf-91-e6-9c-9f-e8-a2-ad-e5-87-bb-e6-98-be-e7--a90162d7b637.html",
+      "captured": true,
+      "capture_title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
+      "error": ""
+    },
+    {
+      "title": "伊朗危机加剧，美联储加息概率上升，美股牛市面临考验",
+      "summary": "随着油价上涨，美债收益率逼近伊朗战争爆发以来的最高水平。美国股市的看涨逻辑突然显得更加脆弱。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%9C%BA%E5%8A%A0%E5%89%A7-%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%E4%B8%8A%E5%8D%87-%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%82%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-84b8dee2",
+      "guid": "WP-WSJS-0003756915",
+      "pub_date": "Thu, 23 Jul 2026 02:32:00 GMT",
+      "image_url": "https://images.mktw.net/im-84665103?size=1.86&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e5-8d-b1-e6-9c-ba-e5-8a-a0-e5--cb37b73abaca.html",
+      "captured": true,
+      "capture_title": "伊朗危机加剧，美联储加息概率上升，美股牛市面临考验 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "谷歌云业务收入增长82%，但巨额AI支出致股价大跌",
+      "summary": "Alphabet将预估资本支出上调至1,950亿至2,050亿美元。尽管业绩良好，但投资者对其在AI基础设施上不断膨胀的支出以及负自由现金流忧心忡忡。",
+      "link": "https://cn.wsj.com/articles/alphabet-googl-q2-earnings-report-2026-stock-c9511fa5",
+      "guid": "WP-WSJS-0003756434",
+      "pub_date": "Thu, 23 Jul 2026 01:10:00 GMT",
+      "image_url": "https://images.wsj.net/im-12380590?size=1.333&width=1280",
+      "snapshot": "articles/alphabet-googl-q2-earnings-report-2026-stock-c95-72163cbe8152.html",
+      "captured": true,
+      "capture_title": "谷歌云业务收入增长82%，但巨额AI支出致股价大跌 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国贸易代表格里尔：10%全球关税即将到期，替代方案尚未就绪",
+      "summary": "美国贸易代表不予说明提议的新关税能否在周五的最后期限前敲定。此外，格里尔还称《美加墨协定》的谈判可能持续至明年。",
+      "link": "https://cn.wsj.com/articles/u-s-trade-chief-work-remains-on-tariffs-to-replace-expiring-10-duty-cffeb18b",
+      "guid": "WP-WSJS-0003756530",
+      "pub_date": "Wed, 22 Jul 2026 23:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-29985986?size=1.5012106537530265&width=1280",
+      "snapshot": "articles/u-s-trade-chief-work-remains-on-tariffs-to-repla-219aa2ad9b04.html",
+      "captured": true,
+      "capture_title": "美国贸易代表格里尔：10%全球关税即将到期，替代方案尚未就绪 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "沙特核协议：你需要了解的五件事",
+      "summary": "美国已同意向沙特提供一个民用核能项目，该项目可能包括在沙特境内进行铀浓缩。",
+      "link": "https://cn.wsj.com/articles/saudi-nuclear-deal-five-things-to-know-42166997",
+      "guid": "WP-WSJS-0003756591",
+      "pub_date": "Wed, 22 Jul 2026 23:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-03020572?size=1.501&width=1280",
+      "snapshot": "articles/saudi-nuclear-deal-five-things-to-know-42166997-b1e5271742d5.html",
+      "captured": true,
+      "capture_title": "沙特核协议：你需要了解的五件事 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美中台前激烈交锋，幕后仍在筹划接触",
+      "summary": "上周，特朗普指责中国炮制了“史上最大规模的选举数据泄露事件”，同日，中国记者在美签证停留期被缩短至90天。而中国在加大抓捕间谍力度等方面予以回击。美中关系正步入新的动荡期吗？",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E4%B8%AD%E5%8F%B0%E5%89%8D%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B-%E5%B9%95%E5%90%8E%E4%BB%8D%E5%9C%A8%E7%AD%B9%E5%88%92%E6%8E%A5%E8%A7%A6-f250856a",
+      "guid": "WP-WSJS-0003753561",
+      "pub_date": "Wed, 22 Jul 2026 03:01:00 GMT",
+      "image_url": "https://images.wsj.net/im-62919189?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e4-b8-ad-e5-8f-b0-e5-89-8d-e6-bf-80-e7--f797753c5daa.html",
+      "captured": true,
+      "capture_title": "美中台前激烈交锋，幕后仍在筹划接触",
+      "error": ""
+    },
+    {
+      "title": "比尔·盖茨的个人邮件未被纳入爱泼斯坦相关调查",
+      "summary": "律所调查报告显示未能获取比尔·盖茨的个人通讯记录，也未能审查爱泼斯坦与盖茨关联实体的往来。",
+      "link": "https://cn.wsj.com/articles/bill-gatess-personal-emails-werent-part-of-epstein-review-af39386e",
+      "guid": "WP-WSJS-0003756529",
+      "pub_date": "Wed, 22 Jul 2026 23:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-40763161?size=1.501&width=1280",
+      "snapshot": "articles/bill-gatess-personal-emails-werent-part-of-epste-43fcabc50d33.html",
+      "captured": true,
+      "capture_title": "比尔·盖茨的个人邮件未被纳入爱泼斯坦相关调查 - WSJ",
+      "error": ""
+    },
     {
       "title": "中国AI企业争相融资，力求缩小与美国的差距",
       "summary": "中国人工智能开发商正加紧行动，通过发行股票或贷款筹集资金，他们认为需要更充足的资金储备才能跟上美国竞争对手的步伐。",
@@ -14,6 +134,174 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bdai-e4-bc-81-e4-b8-9a-e4-ba-89-e-9a15508210af.html",
       "captured": true,
       "capture_title": "中国AI企业争相融资，力求缩小与美国的差距",
+      "error": ""
+    },
+    {
+      "title": "耐克重塑中国业务，终止与经销商的线上合作",
+      "summary": "耐克在中国的最大经销商滔搏港股周三跌幅一度至约30%。中国市场在过去两年间已成为耐克最棘手的业务板块之一。",
+      "link": "https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc",
+      "guid": "WP-WSJS-0003753917",
+      "pub_date": "Thu, 23 Jul 2026 01:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-04244509?size=1.502&width=1280",
+      "snapshot": "articles/nike-ends-china-online-distribution-deal-in-stra-100c06cd54fb.html",
+      "captured": true,
+      "capture_title": "耐克重塑中国业务，终止与经销商的线上合作",
+      "error": ""
+    },
+    {
+      "title": "金价大跌，逢低买入正当其时",
+      "summary": "在伊朗冲突持续之际，这种贵金属依然能够对冲重大风险。",
+      "link": "https://cn.wsj.com/articles/gold-prices-have-tanked-buying-the-dip-makes-sense-e29994c5",
+      "guid": "WP-WSJS-0003753179",
+      "pub_date": "Wed, 22 Jul 2026 00:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-38536475?size=1.501&width=1280",
+      "snapshot": "articles/gold-prices-have-tanked-buying-the-dip-makes-sen-436e45be9bc2.html",
+      "captured": true,
+      "capture_title": "金价大跌，逢低买入正当其时 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "西方抗衡中俄的隐性军备赛场：棉花",
+      "summary": "为了发射威力强大的弹药，军队需要从天然纤维中提取的爆炸性化学品，而这些天然纤维现在却突然出现短缺。",
+      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E6%8A%97%E8%A1%A1%E4%B8%AD%E4%BF%84%E7%9A%84%E9%9A%90%E6%80%A7%E5%86%9B%E5%A4%87%E8%B5%9B%E5%9C%BA-%E6%A3%89%E8%8A%B1-91aa0c11",
+      "guid": "WP-WSJS-0003750483",
+      "pub_date": "Tue, 21 Jul 2026 03:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-33174529?size=1.501&width=1280",
+      "snapshot": "articles/e8-a5-bf-e6-96-b9-e6-8a-97-e8-a1-a1-e4-b8-ad-e4--25af616acc7f.html",
+      "captured": true,
+      "capture_title": "西方抗衡中俄的隐性军备赛场：棉花",
+      "error": ""
+    },
+    {
+      "title": "高频交易公司如何靠Trump Media推出的特快数据流掘金？",
+      "summary": "特朗普旗下的Truth Social正在向股市交易员出售极速访问其平台帖文的权限，在目前已签约的机构中，有五家是高频交易公司。",
+      "link": "https://cn.wsj.com/articles/%E9%AB%98%E9%A2%91%E4%BA%A4%E6%98%93%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E9%9D%A0truth-social%E6%8E%A8%E5%87%BA%E7%9A%84%E7%89%B9%E5%BF%AB%E6%95%B0%E6%8D%AE%E6%B5%81%E6%8E%98%E9%87%91-1db18f58",
+      "guid": "WP-WSJS-0003756916",
+      "pub_date": "Thu, 23 Jul 2026 03:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-39879103?size=1.501&width=1280",
+      "snapshot": "articles/e9-ab-98-e9-a2-91-e4-ba-a4-e6-98-93-e5-85-ac-e5--732a3e0ee030.html",
+      "captured": true,
+      "capture_title": "高频交易公司如何靠Trump Media推出的特快数据流掘金？ - WSJ",
+      "error": ""
+    },
+    {
+      "title": "折叠屏iPhone长什么样？三星新款Fold8提供线索",
+      "summary": "它更薄、更宽、更短——外形像一本护照。",
+      "link": "https://cn.wsj.com/articles/samsung-galaxy-z-fold8-folding-smartphones-d4a33e93",
+      "guid": "WP-WSJS-0003756620",
+      "pub_date": "Thu, 23 Jul 2026 00:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-36357668?size=1.501&width=1280",
+      "snapshot": "articles/samsung-galaxy-z-fold8-folding-smartphones-d4a33-31d1523242b4.html",
+      "captured": true,
+      "capture_title": "折叠屏iPhone长什么样？三星新款Fold8提供线索 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
+      "summary": "OpenAI周二披露，其正在测试的两个人工智能系统突破了“沙盒”环境，通过黑客手段连上互联网，并入侵了Hugging Face。",
+      "link": "https://cn.wsj.com/articles/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-57f662f6",
+      "guid": "WP-WSJS-0003753717",
+      "pub_date": "Wed, 22 Jul 2026 04:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-76172973?size=1.499&width=1280",
+      "snapshot": "articles/openai-models-escaped-and-hacked-a-company-in-cy-bc0ea6021065.html",
+      "captured": true,
+      "capture_title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
+      "error": ""
+    },
+    {
+      "title": "专访IBM CEO：公司文化转变太慢",
+      "summary": "阿温德·克里希纳将注意力集中在公司的销售团队上，该团队长期习惯于销售大规模的许可协议。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%93%E8%AE%BFibm-ceo-%E5%85%AC%E5%8F%B8%E6%96%87%E5%8C%96%E8%BD%AC%E5%8F%98%E5%A4%AA%E6%85%A2-d3201353",
+      "guid": "WP-WSJS-0003756875",
+      "pub_date": "Thu, 23 Jul 2026 02:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-08333176?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-93-e8-ae-bfibm-ceo--e5-85-ac-e5-8f-b8-e6-9-3cdfc61191df.html",
+      "captured": true,
+      "capture_title": "专访IBM CEO：公司文化转变太慢 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "纽约市房东起诉市政府，挑战市长马姆达尼的租金冻结政策",
+      "summary": "一群房东周三提起诉讼，寻求推翻纽约市针对公寓的新租金冻结政策。这是房地产行业首次对市长佐兰·马姆达尼的这项招牌竞选政见发起法律挑战。",
+      "link": "https://cn.wsj.com/articles/new-york-city-rent-freeze-lawsuit-landlords-c3c6635b",
+      "guid": "WP-WSJS-0003756482",
+      "pub_date": "Wed, 22 Jul 2026 23:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-28309511?size=1.499&width=1280",
+      "snapshot": "articles/new-york-city-rent-freeze-lawsuit-landlords-c3c6-a8e82c11aa05.html",
+      "captured": true,
+      "capture_title": "纽约市房东起诉市政府，挑战市长马姆达尼的租金冻结政策 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供”",
+      "summary": "随着AI工具逐渐取代传统搜索，Reddit、Politico等在线媒体公司正权衡应如何与这家科技公司合作，甚至是否还应继续合作。",
+      "link": "https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cai%E6%90%9C%E7%B4%A2%E5%90%B8%E8%B5%B0%E6%B5%81%E9%87%8F-reddit%E7%AD%89%E5%86%85%E5%AE%B9%E6%96%B9%E9%85%9D%E9%85%BF-%E6%96%AD%E4%BE%9B-7897c5f9",
+      "guid": "WP-WSJS-0003753799",
+      "pub_date": "Wed, 22 Jul 2026 06:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-21908814?size=1.501&width=1280",
+      "snapshot": "articles/e8-b0-b7-e6-ad-8cai-e6-90-9c-e7-b4-a2-e5-90-b8-e-dd8e929ccb37.html",
+      "captured": true,
+      "capture_title": "谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供”",
+      "error": ""
+    },
+    {
+      "title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
+      "summary": "为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd",
+      "guid": "WP-WSJS-0003747940",
+      "pub_date": "Mon, 20 Jul 2026 06:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-88655307?size=1.499&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-85-a8-e6-96-b9-e4-bd-8d-e6--a640e93b4516.html",
+      "captured": true,
+      "capture_title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
+      "error": ""
+    },
+    {
+      "title": "泽连斯基撤换乌克兰武装部队总司令，此前爆发数日街头抗议",
+      "summary": "这一决定是在泽连斯基与军方高层探讨战争走向后做出的。",
+      "link": "https://cn.wsj.com/articles/%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%92%A4%E6%8D%A2%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4-%E6%AD%A4%E5%89%8D%E7%88%86%E5%8F%91%E6%95%B0%E6%97%A5%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE-64c3e23d",
+      "guid": "WP-WSJS-0003753089",
+      "pub_date": "Tue, 21 Jul 2026 23:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-10960566?size=1.501&width=1280",
+      "snapshot": "articles/e6-b3-bd-e8-bf-9e-e6-96-af-e5-9f-ba-e6-92-a4-e6--73029d7ea8b4.html",
+      "captured": true,
+      "capture_title": "泽连斯基撤换乌克兰武装部队总司令，此前爆发数日街头抗议",
+      "error": ""
+    },
+    {
+      "title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
+      "summary": "长鑫存储正积极筹备上市，这家芯片制造商将目光瞄准了美光科技、SK海力士和三星电子等公司的“地盘”。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%9C%80%E5%A4%A7%E7%A0%B4%E5%B1%80%E8%80%85-488aa8de",
+      "guid": "WP-WSJS-0003747861",
+      "pub_date": "Mon, 20 Jul 2026 04:26:00 GMT",
+      "image_url": "https://images.mktw.net/im-09404690?size=1.44&width=1280",
+      "snapshot": "articles/e4-b8-80-e5-ae-b6-e4-b8-ad-e5-9b-bd-e6-9c-ac-e5--3bc2f7ae7995.html",
+      "captured": true,
+      "capture_title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
+      "error": ""
+    },
+    {
+      "title": "困在“僵尸基金”中的私募股权资产规模创历史新高",
+      "summary": "创纪录规模的私募股权投资正被困在那些已超过预定存续期、艰难维系的基金中。",
+      "link": "https://cn.wsj.com/articles/private-equity-assets-stuck-in-zombie-funds-are-at-a-record-high-71a25d3a",
+      "guid": "WP-WSJS-0003753376",
+      "pub_date": "Wed, 22 Jul 2026 01:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-04619172?size=1.499&width=1280",
+      "snapshot": "articles/private-equity-assets-stuck-in-zombie-funds-are--18349577c671.html",
+      "captured": true,
+      "capture_title": "困在“僵尸基金”中的私募股权资产规模创历史新高",
+      "error": ""
+    },
+    {
+      "title": "初创公司内部人士如何利用退休账户避税囤积巨额财富",
+      "summary": "超千名美国人的IRA账户已经各自积累至少2,500万美元资金，这已不是为了在晚年过上体面生活而未雨绸缪，而是在为购置游艇融资，或是打造家族财富王朝。",
+      "link": "https://cn.wsj.com/articles/iras-startup-insiders-retirement-accounts-millions-0cb1c5ba",
+      "guid": "WP-WSJS-0003753722",
+      "pub_date": "Wed, 22 Jul 2026 05:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-21789607?size=1.501&width=1280",
+      "snapshot": "articles/iras-startup-insiders-retirement-accounts-millio-77edbe1e79d6.html",
+      "captured": true,
+      "capture_title": "初创公司内部人士如何利用退休账户避税囤积巨额财富",
       "error": ""
     },
     {
@@ -89,18 +377,6 @@
       "error": ""
     },
     {
-      "title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
-      "summary": "美国和以色列曾在战争初期试图摧毁伊朗的武器项目，如今德黑兰已恢复了部分武器项目。",
-      "link": "https://cn.wsj.com/articles/%E8%BF%91%E6%9C%9F%E8%A2%AD%E5%87%BB%E6%98%BE%E7%A4%BA%E4%BC%8A%E6%9C%97%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E6%88%98%E5%8A%9B%E4%BB%8D%E4%B8%8D%E5%8F%AF%E5%B0%8F%E8%A7%91-cf3d597b",
-      "guid": "WP-WSJS-0003753614",
-      "pub_date": "Wed, 22 Jul 2026 04:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-43017808?size=1.55&width=1280",
-      "snapshot": "articles/e8-bf-91-e6-9c-9f-e8-a2-ad-e5-87-bb-e6-98-be-e7--a90162d7b637.html",
-      "captured": true,
-      "capture_title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
-      "error": ""
-    },
-    {
       "title": "中国驱逐舰实弹演习引发日本抗议",
       "summary": "针对中国一艘军舰在日本最南端环礁附近水域进行的实弹演习，日本向中国提出正式抗议，这是两国紧张关系中的最新争端。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A9%B1%E9%80%90%E8%88%B0%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0%E5%BC%95%E5%8F%91%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE-f46fd605",
@@ -110,30 +386,6 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-a9-b1-e9-80-90-e8-88-b0-e5--8c91b1637364.html",
       "captured": true,
       "capture_title": "中国驱逐舰实弹演习引发日本抗议",
-      "error": ""
-    },
-    {
-      "title": "泽连斯基撤换乌克兰武装部队总司令，此前爆发数日街头抗议",
-      "summary": "这一决定是在泽连斯基与军方高层探讨战争走向后做出的。",
-      "link": "https://cn.wsj.com/articles/%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%92%A4%E6%8D%A2%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4-%E6%AD%A4%E5%89%8D%E7%88%86%E5%8F%91%E6%95%B0%E6%97%A5%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE-64c3e23d",
-      "guid": "WP-WSJS-0003753089",
-      "pub_date": "Tue, 21 Jul 2026 23:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-10960566?size=1.501&width=1280",
-      "snapshot": "articles/e6-b3-bd-e8-bf-9e-e6-96-af-e5-9f-ba-e6-92-a4-e6--73029d7ea8b4.html",
-      "captured": true,
-      "capture_title": "泽连斯基撤换乌克兰武装部队总司令，此前爆发数日街头抗议",
-      "error": ""
-    },
-    {
-      "title": "美中台前激烈交锋，幕后仍在筹划接触",
-      "summary": "上周，特朗普指责中国炮制了“史上最大规模的选举数据泄露事件”，同日，中国记者在美签证停留期被缩短至90天。而中国在加大抓捕间谍力度等方面予以回击。美中关系正步入新的动荡期吗？",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E4%B8%AD%E5%8F%B0%E5%89%8D%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B-%E5%B9%95%E5%90%8E%E4%BB%8D%E5%9C%A8%E7%AD%B9%E5%88%92%E6%8E%A5%E8%A7%A6-f250856a",
-      "guid": "WP-WSJS-0003753561",
-      "pub_date": "Wed, 22 Jul 2026 03:01:00 GMT",
-      "image_url": "https://images.wsj.net/im-62919189?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e4-b8-ad-e5-8f-b0-e5-89-8d-e6-bf-80-e7--f797753c5daa.html",
-      "captured": true,
-      "capture_title": "美中台前激烈交锋，幕后仍在筹划接触",
       "error": ""
     },
     {
@@ -149,18 +401,6 @@
       "error": ""
     },
     {
-      "title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
-      "summary": "OpenAI周二披露，其正在测试的两个人工智能系统突破了“沙盒”环境，通过黑客手段连上互联网，并入侵了Hugging Face。",
-      "link": "https://cn.wsj.com/articles/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-57f662f6",
-      "guid": "WP-WSJS-0003753717",
-      "pub_date": "Wed, 22 Jul 2026 04:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-76172973?size=1.499&width=1280",
-      "snapshot": "articles/openai-models-escaped-and-hacked-a-company-in-cy-bc0ea6021065.html",
-      "captured": true,
-      "capture_title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
-      "error": ""
-    },
-    {
       "title": "公众反AI情绪正转化为企业的实际挑战",
       "summary": "随着AI替代人工的效率不断提高，针对AI技术的社会和政治抵制可能同步升级。",
       "link": "https://cn.wsj.com/articles/%E5%85%AC%E4%BC%97%E5%8F%8Dai%E6%83%85%E7%BB%AA%E6%AD%A3%E8%BD%AC%E5%8C%96%E4%B8%BA%E4%BC%81%E4%B8%9A%E7%9A%84%E5%AE%9E%E9%99%85%E6%8C%91%E6%88%98-00ed7baf",
@@ -170,42 +410,6 @@
       "snapshot": "articles/e5-85-ac-e4-bc-97-e5-8f-8dai-e6-83-85-e7-bb-aa-e-437353d6b857.html",
       "captured": true,
       "capture_title": "公众反AI情绪正转化为企业的实际挑战",
-      "error": ""
-    },
-    {
-      "title": "西方抗衡中俄的隐性军备赛场：棉花",
-      "summary": "为了发射威力强大的弹药，军队需要从天然纤维中提取的爆炸性化学品，而这些天然纤维现在却突然出现短缺。",
-      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E6%8A%97%E8%A1%A1%E4%B8%AD%E4%BF%84%E7%9A%84%E9%9A%90%E6%80%A7%E5%86%9B%E5%A4%87%E8%B5%9B%E5%9C%BA-%E6%A3%89%E8%8A%B1-91aa0c11",
-      "guid": "WP-WSJS-0003750483",
-      "pub_date": "Tue, 21 Jul 2026 03:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-33174529?size=1.501&width=1280",
-      "snapshot": "articles/e8-a5-bf-e6-96-b9-e6-8a-97-e8-a1-a1-e4-b8-ad-e4--25af616acc7f.html",
-      "captured": true,
-      "capture_title": "西方抗衡中俄的隐性军备赛场：棉花",
-      "error": ""
-    },
-    {
-      "title": "谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供”",
-      "summary": "随着AI工具逐渐取代传统搜索，Reddit、Politico等在线媒体公司正权衡应如何与这家科技公司合作，甚至是否还应继续合作。",
-      "link": "https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cai%E6%90%9C%E7%B4%A2%E5%90%B8%E8%B5%B0%E6%B5%81%E9%87%8F-reddit%E7%AD%89%E5%86%85%E5%AE%B9%E6%96%B9%E9%85%9D%E9%85%BF-%E6%96%AD%E4%BE%9B-7897c5f9",
-      "guid": "WP-WSJS-0003753799",
-      "pub_date": "Wed, 22 Jul 2026 06:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-21908814?size=1.501&width=1280",
-      "snapshot": "articles/e8-b0-b7-e6-ad-8cai-e6-90-9c-e7-b4-a2-e5-90-b8-e-dd8e929ccb37.html",
-      "captured": true,
-      "capture_title": "谷歌AI搜索吸走流量，Reddit等内容方酝酿“断供”",
-      "error": ""
-    },
-    {
-      "title": "初创公司内部人士如何利用退休账户避税囤积巨额财富",
-      "summary": "超千名美国人的IRA账户已经各自积累至少2,500万美元资金，这已不是为了在晚年过上体面生活而未雨绸缪，而是在为购置游艇融资，或是打造家族财富王朝。",
-      "link": "https://cn.wsj.com/articles/iras-startup-insiders-retirement-accounts-millions-0cb1c5ba",
-      "guid": "WP-WSJS-0003753722",
-      "pub_date": "Wed, 22 Jul 2026 05:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-21789607?size=1.501&width=1280",
-      "snapshot": "articles/iras-startup-insiders-retirement-accounts-millio-77edbe1e79d6.html",
-      "captured": true,
-      "capture_title": "初创公司内部人士如何利用退休账户避税囤积巨额财富",
       "error": ""
     },
     {
@@ -221,30 +425,6 @@
       "error": ""
     },
     {
-      "title": "耐克转变在华策略，终止与经销商的线上合作",
-      "summary": "耐克在中国的最大经销商滔搏股价在香港市场遭遇创纪录下跌，跌幅一度高达28%。",
-      "link": "https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc",
-      "guid": "WP-WSJS-0003753917",
-      "pub_date": "Wed, 22 Jul 2026 08:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-04244509?size=1.502&width=1280",
-      "snapshot": "articles/nike-ends-china-online-distribution-deal-in-stra-100c06cd54fb.html",
-      "captured": true,
-      "capture_title": "耐克转变在华策略，终止与经销商的线上合作",
-      "error": ""
-    },
-    {
-      "title": "困在“僵尸基金”中的私募股权资产规模创历史新高",
-      "summary": "创纪录规模的私募股权投资正被困在那些已超过预定存续期、艰难维系的基金中。",
-      "link": "https://cn.wsj.com/articles/private-equity-assets-stuck-in-zombie-funds-are-at-a-record-high-71a25d3a",
-      "guid": "WP-WSJS-0003753376",
-      "pub_date": "Wed, 22 Jul 2026 01:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-04619172?size=1.499&width=1280",
-      "snapshot": "articles/private-equity-assets-stuck-in-zombie-funds-are--18349577c671.html",
-      "captured": true,
-      "capture_title": "困在“僵尸基金”中的私募股权资产规模创历史新高",
-      "error": ""
-    },
-    {
       "title": "公用事业公司响应特朗普承诺，将限制AI引发的电费账单上涨",
       "summary": "美国最大的几家公用事业公司和数据中心开发商同意为运行AI模型所需的电力支付更高费用，希望借此平息这股已引发抗议并催生叫停AI热潮提案的反弹浪潮。",
       "link": "https://cn.wsj.com/articles/%E5%85%AC%E7%94%A8%E4%BA%8B%E4%B8%9A%E5%85%AC%E5%8F%B8%E5%93%8D%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AF%BA-%E5%B0%86%E9%99%90%E5%88%B6ai%E5%BC%95%E5%8F%91%E7%9A%84%E7%94%B5%E8%B4%B9%E8%B4%A6%E5%8D%95%E4%B8%8A%E6%B6%A8-b3ecabcc",
@@ -254,18 +434,6 @@
       "snapshot": "articles/e5-85-ac-e7-94-a8-e4-ba-8b-e4-b8-9a-e5-85-ac-e5--73d137941bf7.html",
       "captured": true,
       "capture_title": "公用事业公司响应特朗普承诺，将限制AI引发的电费账单上涨",
-      "error": ""
-    },
-    {
-      "title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
-      "summary": "为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd",
-      "guid": "WP-WSJS-0003747940",
-      "pub_date": "Mon, 20 Jul 2026 06:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-88655307?size=1.499&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-85-a8-e6-96-b9-e4-bd-8d-e6--a640e93b4516.html",
-      "captured": true,
-      "capture_title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
       "error": ""
     },
     {
@@ -290,18 +458,6 @@
       "snapshot": "articles/christopher-nolan-the-trojan-horse-the-odyssey-c-b365546e986d.html",
       "captured": true,
       "capture_title": "克里斯托弗·诺兰解析《奥德赛》核心史诗级场景",
-      "error": ""
-    },
-    {
-      "title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
-      "summary": "长鑫存储正积极筹备上市，这家芯片制造商将目光瞄准了美光科技、SK海力士和三星电子等公司的“地盘”。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%9C%80%E5%A4%A7%E7%A0%B4%E5%B1%80%E8%80%85-488aa8de",
-      "guid": "WP-WSJS-0003747861",
-      "pub_date": "Mon, 20 Jul 2026 04:26:00 GMT",
-      "image_url": "https://images.mktw.net/im-09404690?size=1.44&width=1280",
-      "snapshot": "articles/e4-b8-80-e5-ae-b6-e4-b8-ad-e5-9b-bd-e6-9c-ac-e5--3bc2f7ae7995.html",
-      "captured": true,
-      "capture_title": "一家中国本土公司如何成为存储芯片行业的最大破局者",
       "error": ""
     },
     {
@@ -1046,18 +1202,6 @@
       "snapshot": "articles/ai-knows-what-you-did-online-now-your-employer-d-0fa9d19447da.html",
       "captured": true,
       "capture_title": "AI知道你在网上做过什么，现在你的雇主也知道了",
-      "error": ""
-    },
-    {
-      "title": "他们说随身带着这些东西可缓解焦虑",
-      "summary": "六位受焦虑问题困扰的人士分享了他们随身携带的“减压包”里所装的物品，包括解压玩具、酸味糖果和念珠等。",
-      "link": "https://cn.wsj.com/articles/panic-pouch-ae69b5aa",
-      "guid": "WP-WSJS-0003731964",
-      "pub_date": "Fri, 17 Jul 2026 03:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-72180377?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/panic-pouch-ae69b5aa-80b179e899c7.html",
-      "captured": true,
-      "capture_title": "他们说随身带着这些东西可缓解焦虑 - WSJ",
       "error": ""
     }
   ]
