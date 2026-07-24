@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 02:57:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 05:56:13 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 02:57:50 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 05:56:13 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -49,18 +49,11 @@
             <pubDate>Thu, 23 Jul 2026 23:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普称伊朗将为胡塞武装未来的袭击承担责任]]></title>
-            <description><![CDATA[<img width="1280" height="856" src="https://images.wsj.net/im-79050512?size=1.495&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>胡塞武装在红海向两艘沙特油轮开火，导致油价飙升后，特朗普威胁将对伊朗和胡塞武装予以“严厉的军事惩罚”，称胡塞武装是伊朗的代理人。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-says-iran-will-held-responsible-for-future-houthi-attacks-38607b28</link>
-            <guid isPermaLink="false">WP-WSJS-0003760085</guid>
-            <pubDate>Fri, 24 Jul 2026 00:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[油价强劲反弹，威胁美国经济及共和党中期选举前景]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77005241?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>国际基准油价突破每桶100美元，股市下跌，美国国债收益率创下特朗普第二任期内最高水平。</p>]]></description>
-            <link>https://cn.wsj.com/articles/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-ffe24fb3</link>
-            <guid isPermaLink="false">WP-WSJS-0003760350</guid>
-            <pubDate>Fri, 24 Jul 2026 02:36:00 GMT</pubDate>
+            <title><![CDATA[胡塞武装在美伊战争中开辟新战线：曼德海峡]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-30541883?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>也门武装分子在世界上最重要的水道之一制造对峙，威胁红海石油运输。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%9C%A8%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E4%B8%AD%E5%BC%80%E8%BE%9F%E6%96%B0%E6%88%98%E7%BA%BF-%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1-8c680397</link>
+            <guid isPermaLink="false">WP-WSJS-0003760551</guid>
+            <pubDate>Fri, 24 Jul 2026 05:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[投资者关注科技巨头“失控”支出，AI交易受挫]]></title>
@@ -68,6 +61,13 @@
             <link>https://cn.wsj.com/articles/%E6%8A%95%E8%B5%84%E8%80%85%E5%85%B3%E6%B3%A8%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4-%E5%A4%B1%E6%8E%A7-%E6%94%AF%E5%87%BA-ai%E4%BA%A4%E6%98%93%E5%8F%97%E6%8C%AB-08f71fde</link>
             <guid isPermaLink="false">WP-WSJS-0003760342</guid>
             <pubDate>Fri, 24 Jul 2026 01:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[油价强劲反弹，威胁美国经济及共和党中期选举前景]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77005241?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>国际基准油价突破每桶100美元，股市下跌，美国国债收益率创下特朗普第二任期内最高水平。</p>]]></description>
+            <link>https://cn.wsj.com/articles/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-ffe24fb3</link>
+            <guid isPermaLink="false">WP-WSJS-0003760350</guid>
+            <pubDate>Fri, 24 Jul 2026 02:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普推出新关税措施，旨在经受住法律审查]]></title>
@@ -105,11 +105,18 @@
             <pubDate>Fri, 24 Jul 2026 02:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现实冲击马斯克及特斯拉、SpaceX的拥趸]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65438401?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特斯拉财季业绩令人失望，周四股价重挫约15%；SpaceX在创纪录IPO后，如今已较高点跌去近50%。</p>]]></description>
-            <link>https://cn.wsj.com/articles/reality-bites-elon-musk-and-his-tesla-spacex-believers-8a66d11f</link>
-            <guid isPermaLink="false">WP-WSJS-0003759992</guid>
-            <pubDate>Thu, 23 Jul 2026 23:48:00 GMT</pubDate>
+            <title><![CDATA[跑步、攀岩等运动风靡中国，带火高端运动服饰]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39691510?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“在中国，健康可以说是一种新财富，” 运动服饰行业的一位高管说。运动产业由此成为中国整体低迷的消费经济中为数不多的亮点之一。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%B7%91%E6%AD%A5-%E6%94%80%E5%B2%A9%E7%AD%89%E8%BF%90%E5%8A%A8%E9%A3%8E%E9%9D%A1%E4%B8%AD%E5%9B%BD-%E5%B8%A6%E7%81%AB%E9%AB%98%E7%AB%AF%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0-211f26ac</link>
+            <guid isPermaLink="false">WP-WSJS-0003760491</guid>
+            <pubDate>Fri, 24 Jul 2026 04:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[何小鹏专访：小鹏汽车的新航向——从造车迈向机器人]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69597803?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>小鹏汽车CEO何小鹏对《华尔街日报》表示，未来十年，汽车将逐渐成为“四个轮子的机器人”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BD%95%E5%B0%8F%E9%B9%8F%E4%B8%93%E8%AE%BF-%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%96%B0%E8%88%AA%E5%90%91-%E4%BB%8E%E9%80%A0%E8%BD%A6%E8%BF%88%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA-b3a38e36</link>
+            <guid isPermaLink="false">WP-WSJS-0003757402</guid>
+            <pubDate>Fri, 24 Jul 2026 03:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分]]></title>
@@ -126,11 +133,11 @@
             <pubDate>Wed, 22 Jul 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国AI企业争相融资，力求缩小与美国的差距]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44091796?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国人工智能开发商正加紧行动，通过发行股票或贷款筹集资金，他们认为需要更充足的资金储备才能跟上美国竞争对手的步伐。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E4%BC%81%E4%B8%9A%E4%BA%89%E7%9B%B8%E8%9E%8D%E8%B5%84-%E5%8A%9B%E6%B1%82%E7%BC%A9%E5%B0%8F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%B7%AE%E8%B7%9D-3bc8b1bd</link>
-            <guid isPermaLink="false">WP-WSJS-0003753002</guid>
-            <pubDate>Wed, 22 Jul 2026 00:54:00 GMT</pubDate>
+            <title><![CDATA[现实冲击马斯克及特斯拉、SpaceX的拥趸]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65438401?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特斯拉财季业绩令人失望，周四股价重挫约15%；SpaceX在创纪录IPO后，如今已较高点跌去近50%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/reality-bites-elon-musk-and-his-tesla-spacex-believers-8a66d11f</link>
+            <guid isPermaLink="false">WP-WSJS-0003759992</guid>
+            <pubDate>Thu, 23 Jul 2026 23:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[股价单日暴跌25%，IBM首席执行官为何不担心?]]></title>
@@ -159,20 +166,6 @@
             <link>https://cn.wsj.com/articles/stop-the-trucks-inside-taco-bells-rush-to-contain-cyclospora-4510d8a9</link>
             <guid isPermaLink="false">WP-WSJS-0003757114</guid>
             <pubDate>Thu, 23 Jul 2026 05:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克重塑中国业务，终止与经销商的线上合作]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-04244509?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>耐克在中国的最大经销商滔搏港股周三跌幅一度至约30%。中国市场在过去两年间已成为耐克最棘手的业务板块之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc</link>
-            <guid isPermaLink="false">WP-WSJS-0003753917</guid>
-            <pubDate>Thu, 23 Jul 2026 01:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国大银行开始重新涉足商业地产贷款领域]]></title>
-            <description><![CDATA[<img width="1280" height="914" src="https://images.wsj.net/im-52403112?size=1.4&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，大型银行正重新将目光投向之前避之不及的商业地产领域。此前在疫情后，当时投资者和分析师纷纷警告可能出现一波违约潮。</p>]]></description>
-            <link>https://cn.wsj.com/articles/big-banks-are-wading-back-into-commercial-real-estate-lending-acd1cee3</link>
-            <guid isPermaLink="false">WP-WSJS-0003760269</guid>
-            <pubDate>Fri, 24 Jul 2026 01:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[卡尼对特朗普软硬兼施，但均未奏效]]></title>

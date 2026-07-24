@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T03:10:16.575086+00:00",
+  "generated_at": "2026-07-24T06:02:08.012485+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-62910278?size=1.504&width=1280",
       "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e8-bf-9f-e8--6d81fd994086.html",
       "captured": true,
-      "capture_title": "伊朗战争迟迟看不到尽头，特朗普耐心渐失 - WSJ",
+      "capture_title": "伊朗战争迟迟看不到尽头，特朗普耐心渐失",
       "error": ""
     },
     {
@@ -41,27 +41,15 @@
       "error": ""
     },
     {
-      "title": "特朗普称伊朗将为胡塞武装未来的袭击承担责任",
-      "summary": "胡塞武装在红海向两艘沙特油轮开火，导致油价飙升后，特朗普威胁将对伊朗和胡塞武装予以“严厉的军事惩罚”，称胡塞武装是伊朗的代理人。",
-      "link": "https://cn.wsj.com/articles/trump-says-iran-will-held-responsible-for-future-houthi-attacks-38607b28",
-      "guid": "WP-WSJS-0003760085",
-      "pub_date": "Fri, 24 Jul 2026 00:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-79050512?size=1.495&width=1280",
-      "snapshot": "articles/trump-says-iran-will-held-responsible-for-future-0860cbb357c8.html",
+      "title": "胡塞武装在美伊战争中开辟新战线：曼德海峡",
+      "summary": "也门武装分子在世界上最重要的水道之一制造对峙，威胁红海石油运输。",
+      "link": "https://cn.wsj.com/articles/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%9C%A8%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E4%B8%AD%E5%BC%80%E8%BE%9F%E6%96%B0%E6%88%98%E7%BA%BF-%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1-8c680397",
+      "guid": "WP-WSJS-0003760551",
+      "pub_date": "Fri, 24 Jul 2026 05:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-30541883?size=1.501&width=1280",
+      "snapshot": "articles/e8-83-a1-e5-a1-9e-e6-ad-a6-e8-a3-85-e5-9c-a8-e7--daa49db5882d.html",
       "captured": true,
-      "capture_title": "特朗普称伊朗将为胡塞武装未来的袭击承担责任 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "油价强劲反弹，威胁美国经济及共和党中期选举前景",
-      "summary": "国际基准油价突破每桶100美元，股市下跌，美国国债收益率创下特朗普第二任期内最高水平。",
-      "link": "https://cn.wsj.com/articles/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-ffe24fb3",
-      "guid": "WP-WSJS-0003760350",
-      "pub_date": "Fri, 24 Jul 2026 02:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-77005241?size=1.5&width=1280",
-      "snapshot": "articles/oil-prices-roar-back-threatening-economy-and-gop-1add65fb1a5c.html",
-      "captured": true,
-      "capture_title": "油价强劲反弹，威胁美国经济及共和党中期选举前景 - WSJ",
+      "capture_title": "胡塞武装在美伊战争中开辟新战线：曼德海峡 - WSJ",
       "error": ""
     },
     {
@@ -73,7 +61,19 @@
       "image_url": "https://images.wsj.net/im-84577323?size=1.501&width=1280",
       "snapshot": "articles/e6-8a-95-e8-b5-84-e8-80-85-e5-85-b3-e6-b3-a8-e7--0eae59a05c53.html",
       "captured": true,
-      "capture_title": "投资者关注科技巨头“失控”支出，AI交易受挫 - WSJ",
+      "capture_title": "投资者关注科技巨头“失控”支出，AI交易受挫",
+      "error": ""
+    },
+    {
+      "title": "油价强劲反弹，威胁美国经济及共和党中期选举前景",
+      "summary": "国际基准油价突破每桶100美元，股市下跌，美国国债收益率创下特朗普第二任期内最高水平。",
+      "link": "https://cn.wsj.com/articles/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-ffe24fb3",
+      "guid": "WP-WSJS-0003760350",
+      "pub_date": "Fri, 24 Jul 2026 02:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-77005241?size=1.5&width=1280",
+      "snapshot": "articles/oil-prices-roar-back-threatening-economy-and-gop-1add65fb1a5c.html",
+      "captured": true,
+      "capture_title": "油价强劲反弹，威胁美国经济及共和党中期选举前景",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-34042212?size=1.501&width=1280",
       "snapshot": "articles/trump-unveils-new-tariffs-designed-to-withstand--0b71653101d3.html",
       "captured": true,
-      "capture_title": "特朗普推出新关税措施，旨在经受住法律审查 - WSJ",
+      "capture_title": "特朗普推出新关税措施，旨在经受住法律审查",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-26378731?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e8-81-94-e5-82-a8-e5-b0-86-e8-bf-8e-e6--5841ab069dee.html",
       "captured": true,
-      "capture_title": "美联储将迎来最难预测会议之一，新主席态度扑朔迷离 - WSJ",
+      "capture_title": "美联储将迎来最难预测会议之一，新主席态度扑朔迷离",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-42464660?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-ba-e6-b2-99-e7--74229649324a.html",
       "captured": true,
-      "capture_title": "特朗普为沙特核协议设新门槛：需与以色列关系正常化 - WSJ",
+      "capture_title": "特朗普为沙特核协议设新门槛：需与以色列关系正常化",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-02536359?size=1.43&width=1280",
       "snapshot": "articles/drone-attacks-on-russias-biggest-online-retailer-e324a2a834a5.html",
       "captured": true,
-      "capture_title": "俄罗斯版“亚马逊”遭乌克兰无人机攻击，中产阶级在家门口直面战争 - WSJ",
+      "capture_title": "俄罗斯版“亚马逊”遭乌克兰无人机攻击，中产阶级在家门口直面战争",
       "error": ""
     },
     {
@@ -133,19 +133,31 @@
       "image_url": "https://images.wsj.net/im-32929422?size=1.501&width=1280",
       "snapshot": "articles/how-the-futuristic-hack-by-rogue-openai-models-u-0be0e3c229aa.html",
       "captured": true,
-      "capture_title": "极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末 - WSJ",
+      "capture_title": "极具未来色彩的黑客攻击：OpenAI失控模型入侵事件始末",
       "error": ""
     },
     {
-      "title": "现实冲击马斯克及特斯拉、SpaceX的拥趸",
-      "summary": "特斯拉财季业绩令人失望，周四股价重挫约15%；SpaceX在创纪录IPO后，如今已较高点跌去近50%。",
-      "link": "https://cn.wsj.com/articles/reality-bites-elon-musk-and-his-tesla-spacex-believers-8a66d11f",
-      "guid": "WP-WSJS-0003759992",
-      "pub_date": "Thu, 23 Jul 2026 23:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-65438401?size=1.501&width=1280",
-      "snapshot": "articles/reality-bites-elon-musk-and-his-tesla-spacex-bel-88a45d9f64c3.html",
+      "title": "跑步、攀岩等运动风靡中国，带火高端运动服饰",
+      "summary": "“在中国，健康可以说是一种新财富，” 运动服饰行业的一位高管说。运动产业由此成为中国整体低迷的消费经济中为数不多的亮点之一。",
+      "link": "https://cn.wsj.com/articles/%E8%B7%91%E6%AD%A5-%E6%94%80%E5%B2%A9%E7%AD%89%E8%BF%90%E5%8A%A8%E9%A3%8E%E9%9D%A1%E4%B8%AD%E5%9B%BD-%E5%B8%A6%E7%81%AB%E9%AB%98%E7%AB%AF%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0-211f26ac",
+      "guid": "WP-WSJS-0003760491",
+      "pub_date": "Fri, 24 Jul 2026 04:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-39691510?size=1.501&width=1280",
+      "snapshot": "articles/e8-b7-91-e6-ad-a5--e6-94-80-e5-b2-a9-e7-ad-89-e8-1447c9d46041.html",
       "captured": true,
-      "capture_title": "现实冲击马斯克及特斯拉、SpaceX的拥趸 - WSJ",
+      "capture_title": "跑步、攀岩等运动风靡中国，带火高端运动服饰 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "何小鹏专访：小鹏汽车的新航向——从造车迈向机器人",
+      "summary": "小鹏汽车CEO何小鹏对《华尔街日报》表示，未来十年，汽车将逐渐成为“四个轮子的机器人”。",
+      "link": "https://cn.wsj.com/articles/%E4%BD%95%E5%B0%8F%E9%B9%8F%E4%B8%93%E8%AE%BF-%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%96%B0%E8%88%AA%E5%90%91-%E4%BB%8E%E9%80%A0%E8%BD%A6%E8%BF%88%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA-b3a38e36",
+      "guid": "WP-WSJS-0003757402",
+      "pub_date": "Fri, 24 Jul 2026 03:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-69597803?size=1.501&width=1280",
+      "snapshot": "articles/e4-bd-95-e5-b0-8f-e9-b9-8f-e4-b8-93-e8-ae-bf--e5-1c1c85c48f5b.html",
+      "captured": true,
+      "capture_title": "何小鹏专访：小鹏汽车的新航向——从造车迈向机器人 - WSJ",
       "error": ""
     },
     {
@@ -173,15 +185,15 @@
       "error": ""
     },
     {
-      "title": "中国AI企业争相融资，力求缩小与美国的差距",
-      "summary": "中国人工智能开发商正加紧行动，通过发行股票或贷款筹集资金，他们认为需要更充足的资金储备才能跟上美国竞争对手的步伐。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E4%BC%81%E4%B8%9A%E4%BA%89%E7%9B%B8%E8%9E%8D%E8%B5%84-%E5%8A%9B%E6%B1%82%E7%BC%A9%E5%B0%8F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%B7%AE%E8%B7%9D-3bc8b1bd",
-      "guid": "WP-WSJS-0003753002",
-      "pub_date": "Wed, 22 Jul 2026 00:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-44091796?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bdai-e4-bc-81-e4-b8-9a-e4-ba-89-e-9a15508210af.html",
+      "title": "现实冲击马斯克及特斯拉、SpaceX的拥趸",
+      "summary": "特斯拉财季业绩令人失望，周四股价重挫约15%；SpaceX在创纪录IPO后，如今已较高点跌去近50%。",
+      "link": "https://cn.wsj.com/articles/reality-bites-elon-musk-and-his-tesla-spacex-believers-8a66d11f",
+      "guid": "WP-WSJS-0003759992",
+      "pub_date": "Thu, 23 Jul 2026 23:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-65438401?size=1.501&width=1280",
+      "snapshot": "articles/reality-bites-elon-musk-and-his-tesla-spacex-bel-88a45d9f64c3.html",
       "captured": true,
-      "capture_title": "中国AI企业争相融资，力求缩小与美国的差距",
+      "capture_title": "现实冲击马斯克及特斯拉、SpaceX的拥趸",
       "error": ""
     },
     {
@@ -193,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-50874966?size=1.501&width=1280",
       "snapshot": "articles/ibm-stock-crash-quantum-computing-mainframes-d5e-82e8b84af273.html",
       "captured": true,
-      "capture_title": "股价单日暴跌25%，IBM首席执行官为何不担心? - WSJ",
+      "capture_title": "股价单日暴跌25%，IBM首席执行官为何不担心?",
       "error": ""
     },
     {
@@ -205,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-16195510?size=1.501&width=1280",
       "snapshot": "articles/intel-intc-q2-earnings-report-2026-stock-e75be01-8518b4aaf85c.html",
       "captured": true,
-      "capture_title": "英特尔股价上涨，第二财季销售额飙升25% - WSJ",
+      "capture_title": "英特尔股价上涨，第二财季销售额飙升25%",
       "error": ""
     },
     {
@@ -230,30 +242,6 @@
       "snapshot": "articles/stop-the-trucks-inside-taco-bells-rush-to-contai-2c77e7387527.html",
       "captured": true,
       "capture_title": "拦下货车、深夜会议：塔可钟如何极限阻击环孢子虫疫情",
-      "error": ""
-    },
-    {
-      "title": "耐克重塑中国业务，终止与经销商的线上合作",
-      "summary": "耐克在中国的最大经销商滔搏港股周三跌幅一度至约30%。中国市场在过去两年间已成为耐克最棘手的业务板块之一。",
-      "link": "https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc",
-      "guid": "WP-WSJS-0003753917",
-      "pub_date": "Thu, 23 Jul 2026 01:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-04244509?size=1.502&width=1280",
-      "snapshot": "articles/nike-ends-china-online-distribution-deal-in-stra-100c06cd54fb.html",
-      "captured": true,
-      "capture_title": "耐克重塑中国业务，终止与经销商的线上合作",
-      "error": ""
-    },
-    {
-      "title": "美国大银行开始重新涉足商业地产贷款领域",
-      "summary": "如今，大型银行正重新将目光投向之前避之不及的商业地产领域。此前在疫情后，当时投资者和分析师纷纷警告可能出现一波违约潮。",
-      "link": "https://cn.wsj.com/articles/big-banks-are-wading-back-into-commercial-real-estate-lending-acd1cee3",
-      "guid": "WP-WSJS-0003760269",
-      "pub_date": "Fri, 24 Jul 2026 01:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-52403112?size=1.4&width=1280",
-      "snapshot": "articles/big-banks-are-wading-back-into-commercial-real-e-a911a26868e8.html",
-      "captured": true,
-      "capture_title": "美国大银行开始重新涉足商业地产贷款领域 - WSJ",
       "error": ""
     },
     {
@@ -302,6 +290,66 @@
       "snapshot": "articles/e8-a5-bf-e6-96-b9-e6-8a-97-e8-a1-a1-e4-b8-ad-e4--25af616acc7f.html",
       "captured": true,
       "capture_title": "西方抗衡中俄的隐性军备赛场：棉花",
+      "error": ""
+    },
+    {
+      "title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
+      "summary": "为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd",
+      "guid": "WP-WSJS-0003747940",
+      "pub_date": "Mon, 20 Jul 2026 06:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-88655307?size=1.499&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-85-a8-e6-96-b9-e4-bd-8d-e6--a640e93b4516.html",
+      "captured": true,
+      "capture_title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
+      "error": ""
+    },
+    {
+      "title": "特朗普称伊朗将为胡塞武装未来的袭击承担责任",
+      "summary": "胡塞武装在红海向两艘沙特油轮开火，导致油价飙升后，特朗普威胁将对伊朗和胡塞武装予以“严厉的军事惩罚”，称胡塞武装是伊朗的代理人。",
+      "link": "https://cn.wsj.com/articles/trump-says-iran-will-held-responsible-for-future-houthi-attacks-38607b28",
+      "guid": "WP-WSJS-0003760085",
+      "pub_date": "Fri, 24 Jul 2026 00:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-79050512?size=1.495&width=1280",
+      "snapshot": "articles/trump-says-iran-will-held-responsible-for-future-0860cbb357c8.html",
+      "captured": true,
+      "capture_title": "特朗普称伊朗将为胡塞武装未来的袭击承担责任 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国AI企业争相融资，力求缩小与美国的差距",
+      "summary": "中国人工智能开发商正加紧行动，通过发行股票或贷款筹集资金，他们认为需要更充足的资金储备才能跟上美国竞争对手的步伐。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E4%BC%81%E4%B8%9A%E4%BA%89%E7%9B%B8%E8%9E%8D%E8%B5%84-%E5%8A%9B%E6%B1%82%E7%BC%A9%E5%B0%8F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%B7%AE%E8%B7%9D-3bc8b1bd",
+      "guid": "WP-WSJS-0003753002",
+      "pub_date": "Wed, 22 Jul 2026 00:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-44091796?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bdai-e4-bc-81-e4-b8-9a-e4-ba-89-e-9a15508210af.html",
+      "captured": true,
+      "capture_title": "中国AI企业争相融资，力求缩小与美国的差距",
+      "error": ""
+    },
+    {
+      "title": "耐克重塑中国业务，终止与经销商的线上合作",
+      "summary": "耐克在中国的最大经销商滔搏港股周三跌幅一度至约30%。中国市场在过去两年间已成为耐克最棘手的业务板块之一。",
+      "link": "https://cn.wsj.com/articles/nike-ends-china-online-distribution-deal-in-strategy-shift-5d684ffc",
+      "guid": "WP-WSJS-0003753917",
+      "pub_date": "Thu, 23 Jul 2026 01:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-04244509?size=1.502&width=1280",
+      "snapshot": "articles/nike-ends-china-online-distribution-deal-in-stra-100c06cd54fb.html",
+      "captured": true,
+      "capture_title": "耐克重塑中国业务，终止与经销商的线上合作",
+      "error": ""
+    },
+    {
+      "title": "美国大银行开始重新涉足商业地产贷款领域",
+      "summary": "如今，大型银行正重新将目光投向之前避之不及的商业地产领域。此前在疫情后，当时投资者和分析师纷纷警告可能出现一波违约潮。",
+      "link": "https://cn.wsj.com/articles/big-banks-are-wading-back-into-commercial-real-estate-lending-acd1cee3",
+      "guid": "WP-WSJS-0003760269",
+      "pub_date": "Fri, 24 Jul 2026 01:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-52403112?size=1.4&width=1280",
+      "snapshot": "articles/big-banks-are-wading-back-into-commercial-real-e-a911a26868e8.html",
+      "captured": true,
+      "capture_title": "美国大银行开始重新涉足商业地产贷款领域 - WSJ",
       "error": ""
     },
     {
@@ -434,18 +482,6 @@
       "snapshot": "articles/south-korea-is-trying-to-tame-market-swings-anal-5162b1bd5ad0.html",
       "captured": true,
       "capture_title": "韩国试图平息市场波动，但分析师对其成效存疑",
-      "error": ""
-    },
-    {
-      "title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
-      "summary": "为持续削弱台湾的国际地位，北京方面正不断拿出新手段，并将目光投向了一些更不起眼的目标。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%A8%E6%96%B9%E4%BD%8D%E6%89%93%E5%8E%8B%E5%8F%B0%E6%B9%BE-%E8%BF%9E%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E5%92%8C%E5%92%96%E5%95%A1%E5%B8%88%E9%83%BD%E6%97%A0%E4%B8%80%E5%B9%B8%E5%85%8D-0c7990fd",
-      "guid": "WP-WSJS-0003747940",
-      "pub_date": "Mon, 20 Jul 2026 06:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-88655307?size=1.499&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-85-a8-e6-96-b9-e4-bd-8d-e6--a640e93b4516.html",
-      "captured": true,
-      "capture_title": "中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/apple-overthrows-nvidia-to-reclaim-wall-streets--6b7392bd590d.html",
       "captured": true,
       "capture_title": "面对苹果公司挑战，英伟达险守市值王座",
-      "error": ""
-    },
-    {
-      "title": "中国重拳治理AI人机恋，严防沉迷影响生育",
-      "summary": "北京方面为人类与机器划定情感界限：中国周三实施新规，要求主打陪伴功能的AI聊天机器人不得诱导情感依赖。",
-      "link": "https://cn.wsj.com/articles/china-wants-more-babiesso-its-cracking-down-on-chatbot-love-affairs-706efb84",
-      "guid": "WP-WSJS-0003739425",
-      "pub_date": "Thu, 16 Jul 2026 03:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-73867954?size=1.501&width=1280",
-      "snapshot": "articles/china-wants-more-babiesso-its-cracking-down-on-c-c81c33a83e84.html",
-      "captured": true,
-      "capture_title": "中国重拳治理AI人机恋，严防沉迷影响生育",
-      "error": ""
-    },
-    {
-      "title": "起底特朗普第二任期背后的隐秘资金网",
-      "summary": "特朗普及其盟友搭建起了一个由富豪与企业出资的团体网络。该网络正暗中推进特朗普的优先事项，且鲜有公开披露。本报独家追踪了特朗普第二任期的逾7.8亿美元筹款。",
-      "link": "https://cn.wsj.com/articles/%E8%B5%B7%E5%BA%95%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E7%A7%98%E8%B5%84%E9%87%91%E7%BD%91-1ede4f1c",
-      "guid": "WP-WSJS-0003739838",
-      "pub_date": "Thu, 16 Jul 2026 09:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-38962073?size=2&width=1280",
-      "snapshot": "articles/e8-b5-b7-e5-ba-95-e7-89-b9-e6-9c-97-e6-99-ae-e7--0592e2aede39.html",
-      "captured": true,
-      "capture_title": "起底特朗普第二任期背后的隐秘资金网",
-      "error": ""
-    },
-    {
-      "title": "中国动用国安法强力整治香港图书市场",
-      "summary": "最新逮捕行动表明，北京政府意图迫使香港的书商与出版商低头。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8A%A8%E7%94%A8%E5%9B%BD%E5%AE%89%E6%B3%95%E5%BC%BA%E5%8A%9B%E6%95%B4%E6%B2%BB%E9%A6%99%E6%B8%AF%E5%9B%BE%E4%B9%A6%E5%B8%82%E5%9C%BA-63a9bb59",
-      "guid": "WP-WSJS-0003739868",
-      "pub_date": "Thu, 16 Jul 2026 09:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-20454832?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-8a-a8-e7-94-a8-e5-9b-bd-e5--eb74e5a6e840.html",
-      "captured": true,
-      "capture_title": "中国动用国安法强力整治香港图书市场",
       "error": ""
     }
   ]
