@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T03:44:55.368188+00:00",
+  "generated_at": "2026-07-27T10:11:00.333584+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,19 @@
       "image_url": "https://images.wsj.net/im-55144883?size=1.501&width=1280",
       "snapshot": "articles/e5-a4-b1-e6-8e-a7-e6-a8-a1-e5-9e-8b-e4-b8-8e-e4--48c310b8a07f.html",
       "captured": true,
-      "capture_title": "失控模型与中国威胁：华盛顿陷入AI安全大恐慌 - WSJ",
+      "capture_title": "失控模型与中国威胁：华盛顿陷入AI安全大恐慌",
+      "error": ""
+    },
+    {
+      "title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
+      "summary": "降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。",
+      "link": "https://cn.wsj.com/articles/trump-apple-micron-china-chips-ccb1c333",
+      "guid": "WP-WSJS-0003765550",
+      "pub_date": "Mon, 27 Jul 2026 04:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-56511766?size=1.501&width=1280",
+      "snapshot": "articles/trump-apple-micron-china-chips-ccb1c333-b06195873c9d.html",
+      "captured": true,
+      "capture_title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难 - WSJ",
       "error": ""
     },
     {
@@ -25,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-38628965?size=1.501&width=1280",
       "snapshot": "articles/e5-8f-88-e4-b8-80-e4-b8-aa-e6-b3-a1-e6-b2-ab-e8--789755badc6c.html",
       "captured": true,
-      "capture_title": "又一个泡沫警告：股票跨市场溢价 - WSJ",
+      "capture_title": "又一个泡沫警告：股票跨市场溢价",
       "error": ""
     },
     {
@@ -37,7 +49,19 @@
       "image_url": "https://images.mktw.net/im-91771062?size=1.5&width=1280",
       "snapshot": "articles/e7-ad-96-e7-95-a5-e5-b8-88--e4-b8-ad-e5-9b-bd-e6-d895d0b15cbf.html",
       "captured": true,
-      "capture_title": "策略师：中国正赢得中东博弈，将推高金价、重创美元 - WSJ",
+      "capture_title": "策略师：中国正赢得中东博弈，将推高金价、重创美元",
+      "error": ""
+    },
+    {
+      "title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
+      "summary": "在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。",
+      "link": "https://cn.wsj.com/articles/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-ffa273ab",
+      "guid": "WP-WSJS-0003765497",
+      "pub_date": "Mon, 27 Jul 2026 03:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-67531328?size=1.501&width=1280",
+      "snapshot": "articles/big-companies-are-starting-to-hire-again-defying-8f81265622b5.html",
+      "captured": true,
+      "capture_title": "大企业重新开始招聘，打破“AI将消灭就业”的预测 - WSJ",
       "error": ""
     },
     {
@@ -49,31 +73,7 @@
       "image_url": "https://images.wsj.net/im-83846459?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-9a-82-e7-bc-93-e6--6ced50cdfb54.html",
       "captured": true,
-      "capture_title": "特朗普暂缓打击伊朗，官员评估防空弹药库存减少风险 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "英伟达洽谈为OpenAI数据中心项目提供2,500亿美元担保",
-      "summary": "该项目将成为规模最大的AI计算枢纽之一，所用电力由美国政府控制。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B4%BD%E8%B0%88%E4%B8%BAopenai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B2-500%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8B%85%E4%BF%9D-76c7d705",
-      "guid": "WP-WSJS-0003765236",
-      "pub_date": "Mon, 27 Jul 2026 00:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-18973403?size=1.499&width=1280",
-      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e6-b4-bd-e8-b0-88-e4--f361ff0ef074.html",
-      "captured": true,
-      "capture_title": "英伟达洽谈为OpenAI数据中心项目提供2,500亿美元担保 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国众议院民主党人是如何转向反对援助以色列的？",
-      "summary": "从领导层到千禧一代，民主党内部在以色列问题上的立场是如何转变的，又是谁引领了这一变化。",
-      "link": "https://cn.wsj.com/articles/israel-aid-vote-democrats-439c719e",
-      "guid": "WP-WSJS-0003765212",
-      "pub_date": "Mon, 27 Jul 2026 01:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-02776359?size=1.501&width=1280",
-      "snapshot": "articles/israel-aid-vote-democrats-439c719e-4dda6bc97cf9.html",
-      "captured": true,
-      "capture_title": "美国众议院民主党人是如何转向反对援助以色列的？ - WSJ",
+      "capture_title": "特朗普暂缓打击伊朗，官员评估防空弹药库存减少风险",
       "error": ""
     },
     {
@@ -85,7 +85,19 @@
       "image_url": "https://images.wsj.net/im-79946716?size=1.499&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-9c-80-e6-96-b0-e5--bad9568913f5.html",
       "captured": true,
-      "capture_title": "特朗普最新关税举措对美国经济意味着什么？ - WSJ",
+      "capture_title": "特朗普最新关税举措对美国经济意味着什么？",
+      "error": ""
+    },
+    {
+      "title": "中国富豪借离岸架构积累财富的时代正在终结",
+      "summary": "中国正在重塑针对超级富豪的监管规则，以加强对其海外投资方式的管控。政府部门正向企业施压，要求它们放弃海外架构并在境内注册。",
+      "link": "https://cn.wsj.com/articles/chinas-tycoons-made-fortunes-offshore-now-the-party-is-over-57fe2cd0",
+      "guid": "WP-WSJS-0003765653",
+      "pub_date": "Mon, 27 Jul 2026 06:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-89100256?size=1.501&width=1280",
+      "snapshot": "articles/chinas-tycoons-made-fortunes-offshore-now-the-pa-2ba9b97d1be3.html",
+      "captured": true,
+      "capture_title": "中国富豪借离岸架构积累财富的时代正在终结 - WSJ",
       "error": ""
     },
     {
@@ -97,31 +109,31 @@
       "image_url": "https://images.wsj.net/im-80365838?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e7-be-8e-e5-9c-a8-e7-8f-a0-e5-b3-b0-e7--87e27650f0e3.html",
       "captured": true,
-      "capture_title": "中美在珠峰竞逐无人机主导权 - WSJ",
+      "capture_title": "中美在珠峰竞逐无人机主导权",
       "error": ""
     },
     {
-      "title": "揭秘中国全力追赶美国AI芯片的攻坚内幕",
-      "summary": "习近平得力干将丁薛祥挂帅的芯片委员会在各关键领域部署了顶尖的攻关团队，全力推动国产替代以赢得这场AI竞赛。中国AI企业被警告：谁拒绝使用国产芯片，谁就是叛徒。",
-      "link": "https://cn.wsj.com/articles/%E6%8F%AD%E7%A7%98%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%8A%9B%E8%BF%BD%E8%B5%B6%E7%BE%8E%E5%9B%BDai%E8%8A%AF%E7%89%87%E7%9A%84%E6%94%BB%E5%9D%9A%E5%86%85%E5%B9%95-f5f6e7a5",
-      "guid": "WP-WSJS-0003760705",
-      "pub_date": "Fri, 24 Jul 2026 08:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-84397782?size=1.501&width=1280",
-      "snapshot": "articles/e6-8f-ad-e7-a7-98-e4-b8-ad-e5-9b-bd-e5-85-a8-e5--c11258e9c54b.html",
+      "title": "俄罗斯如何将性暴力作为战争武器",
+      "summary": "有证据表明，对乌克兰男性实施性虐待现已成为俄罗斯的一项核心战术。",
+      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BD%9C%E4%B8%BA%E6%88%98%E4%BA%89%E6%AD%A6%E5%99%A8-dfda36a1",
+      "guid": "WP-WSJS-0003765511",
+      "pub_date": "Mon, 27 Jul 2026 04:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-79689691?size=0.75&width=1280",
+      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e5-a6-82-e4-bd-95-e5--fd6a71d0ad0f.html",
       "captured": true,
-      "capture_title": "揭秘中国全力追赶美国AI芯片的攻坚内幕",
+      "capture_title": "俄罗斯如何将性暴力作为战争武器 - WSJ",
       "error": ""
     },
     {
-      "title": "亲市场的中国前证监会副主席方星海被查",
-      "summary": "中国政府对中共官员的整肃，如今波及这位昔日明星证券监管官员。此时距离他退休已近两年。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%B2%E5%B8%82%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%89%8D%E8%AF%81%E7%9B%91%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5-f5a88b78",
-      "guid": "WP-WSJS-0003763419",
-      "pub_date": "Sat, 25 Jul 2026 01:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-28093395?size=1.501&width=1280",
-      "snapshot": "articles/e4-ba-b2-e5-b8-82-e5-9c-ba-e7-9a-84-e4-b8-ad-e5--6a012528df28.html",
+      "title": "美国大城市正迅速流失儿童",
+      "summary": "随着全美生育率创下历史新低，美国各地18岁以下儿童数量正在下降，这种趋势在大城市尤为明显。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%AD%A3%E8%BF%85%E9%80%9F%E6%B5%81%E5%A4%B1%E5%84%BF%E7%AB%A5-76a3bbc0",
+      "guid": "WP-WSJS-0003765632",
+      "pub_date": "Mon, 27 Jul 2026 06:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-46733092?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-a4-a7-e5-9f-8e-e5-b8-82-e6--b033e5a423e8.html",
       "captured": true,
-      "capture_title": "亲市场的中国前证监会副主席方星海被查",
+      "capture_title": "美国大城市正迅速流失儿童 - WSJ",
       "error": ""
     },
     {
@@ -133,19 +145,31 @@
       "image_url": "https://images.wsj.net/im-64190579?size=1.501&width=1280",
       "snapshot": "articles/e9-87-91-e6-ad-a3-e6-81-a9-e5-b0-86-e5-8d-87-e7--2591a6fcc998.html",
       "captured": true,
-      "capture_title": "金正恩将升级朝鲜间谍网络 - WSJ",
+      "capture_title": "金正恩将升级朝鲜间谍网络",
       "error": ""
     },
     {
-      "title": "欧洲多地野火肆虐，威胁法国波尔多地区",
-      "summary": "野火正逼近法国西南部城市波尔多。消防员正艰难控制火势。",
-      "link": "https://cn.wsj.com/articles/%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9C%B0%E9%87%8E%E7%81%AB%E8%82%86%E8%99%90-%E5%A8%81%E8%83%81%E6%B3%95%E5%9B%BD%E6%B3%A2%E5%B0%94%E5%A4%9A%E5%9C%B0%E5%8C%BA-979208ba",
-      "guid": "WP-WSJS-0003765161",
-      "pub_date": "Mon, 27 Jul 2026 00:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-85466924?size=1.501&width=1280",
-      "snapshot": "articles/e6-ac-a7-e6-b4-b2-e5-a4-9a-e5-9c-b0-e9-87-8e-e7--96b13f5569a7.html",
+      "title": "英伟达洽谈为OpenAI数据中心项目提供2,500亿美元担保",
+      "summary": "该项目将成为规模最大的AI计算枢纽之一，所用电力由美国政府控制。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B4%BD%E8%B0%88%E4%B8%BAopenai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B2-500%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8B%85%E4%BF%9D-76c7d705",
+      "guid": "WP-WSJS-0003765236",
+      "pub_date": "Mon, 27 Jul 2026 00:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-18973403?size=1.499&width=1280",
+      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e6-b4-bd-e8-b0-88-e4--f361ff0ef074.html",
       "captured": true,
-      "capture_title": "欧洲多地野火肆虐，威胁法国波尔多地区 - WSJ",
+      "capture_title": "英伟达洽谈为OpenAI数据中心项目提供2,500亿美元担保",
+      "error": ""
+    },
+    {
+      "title": "年轻人正让AI替他们说话，甚至在面对面交流时",
+      "summary": "有一项任务比做家庭作业更令人头疼，那就是与人打交道。如今，越来越多的年轻人正开始依赖AI来处理这件事。",
+      "link": "https://cn.wsj.com/articles/ai-chatbot-in-person-social-interactions-d34700ca",
+      "guid": "WP-WSJS-0003765619",
+      "pub_date": "Mon, 27 Jul 2026 06:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-44099010?size=1.501&width=1280",
+      "snapshot": "articles/ai-chatbot-in-person-social-interactions-d34700c-8e9d8a6932d1.html",
+      "captured": true,
+      "capture_title": "年轻人正让AI替他们说话，甚至在面对面交流时 - WSJ",
       "error": ""
     },
     {
@@ -169,31 +193,7 @@
       "image_url": "https://images.wsj.net/im-34919814?size=1.25&width=1280",
       "snapshot": "articles/united-approached-delta-last-year-about-merging--92599222f8fc.html",
       "captured": true,
-      "capture_title": "美联航去年曾就合并事宜接洽达美航空 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "何小鹏专访：小鹏汽车的新航向——从造车迈向机器人",
-      "summary": "小鹏汽车CEO何小鹏对《华尔街日报》表示，未来十年，汽车将逐渐成为“四个轮子的机器人”。",
-      "link": "https://cn.wsj.com/articles/%E4%BD%95%E5%B0%8F%E9%B9%8F%E4%B8%93%E8%AE%BF-%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%96%B0%E8%88%AA%E5%90%91-%E4%BB%8E%E9%80%A0%E8%BD%A6%E8%BF%88%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA-b3a38e36",
-      "guid": "WP-WSJS-0003757402",
-      "pub_date": "Fri, 24 Jul 2026 03:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-69597803?size=1.501&width=1280",
-      "snapshot": "articles/e4-bd-95-e5-b0-8f-e9-b9-8f-e4-b8-93-e8-ae-bf--e5-1c1c85c48f5b.html",
-      "captured": true,
-      "capture_title": "何小鹏专访：小鹏汽车的新航向——从造车迈向机器人",
-      "error": ""
-    },
-    {
-      "title": "韩国芯片掌门人“世纪离婚”案宣判：前妻分得6.45亿美元",
-      "summary": "卢素英要求分得崔泰源一半的财产，但上诉法院法官周五判给她的比例低于此要求。",
-      "link": "https://cn.wsj.com/articles/%E9%9F%A9%E5%9B%BD%E8%8A%AF%E7%89%87%E6%8E%8C%E9%97%A8%E4%BA%BA-%E4%B8%96%E7%BA%AA%E7%A6%BB%E5%A9%9A-%E6%A1%88%E5%AE%A3%E5%88%A4-%E5%89%8D%E5%A6%BB%E8%8E%B7%E5%BE%976-45%E4%BA%BF%E7%BE%8E%E5%85%83-cdee2d29",
-      "guid": "WP-WSJS-0003763468",
-      "pub_date": "Sat, 25 Jul 2026 01:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-01056100?size=0.755&width=1280",
-      "snapshot": "articles/e9-9f-a9-e5-9b-bd-e8-8a-af-e7-89-87-e6-8e-8c-e9--beed918279ae.html",
-      "captured": true,
-      "capture_title": "韩国芯片掌门人“世纪离婚”案宣判：前妻分得6.45亿美元",
+      "capture_title": "美联航去年曾就合并事宜接洽达美航空",
       "error": ""
     },
     {
@@ -209,15 +209,27 @@
       "error": ""
     },
     {
-      "title": "现实冲击马斯克及特斯拉、SpaceX的拥趸",
-      "summary": "特斯拉财季业绩令人失望，周四股价重挫约15%；SpaceX在创纪录IPO后，如今已较高点跌去近50%。",
-      "link": "https://cn.wsj.com/articles/reality-bites-elon-musk-and-his-tesla-spacex-believers-8a66d11f",
-      "guid": "WP-WSJS-0003759992",
-      "pub_date": "Thu, 23 Jul 2026 23:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-65438401?size=1.501&width=1280",
-      "snapshot": "articles/reality-bites-elon-musk-and-his-tesla-spacex-bel-88a45d9f64c3.html",
+      "title": "特朗普在谷歌被罚后威胁对欧盟加征新关税",
+      "summary": "针对欧盟对美国科技企业开出的罚单，美国将考虑对来自这个由27国组成的联盟的商品加征额外关税。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E8%B0%B7%E6%AD%8C%E8%A2%AB%E7%BD%9A%E5%A8%81%E8%83%81%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-5f945a09",
+      "guid": "WP-WSJS-0003763384",
+      "pub_date": "Sat, 25 Jul 2026 00:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-97431420?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-9b-a0-e8-b0-b7-e6--ee0c3cfff7c2.html",
       "captured": true,
-      "capture_title": "现实冲击马斯克及特斯拉、SpaceX的拥趸",
+      "capture_title": "特朗普在谷歌被罚后威胁对欧盟加征新关税 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "亲市场的中国前证监会副主席方星海被查",
+      "summary": "中国政府对中共官员的整肃，如今波及这位昔日明星证券监管官员。此时距离他退休已近两年。",
+      "link": "https://cn.wsj.com/articles/%E4%BA%B2%E5%B8%82%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%89%8D%E8%AF%81%E7%9B%91%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5-f5a88b78",
+      "guid": "WP-WSJS-0003763419",
+      "pub_date": "Sat, 25 Jul 2026 01:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-28093395?size=1.501&width=1280",
+      "snapshot": "articles/e4-ba-b2-e5-b8-82-e5-9c-ba-e7-9a-84-e4-b8-ad-e5--6a012528df28.html",
+      "captured": true,
+      "capture_title": "亲市场的中国前证监会副主席方星海被查",
       "error": ""
     },
     {
@@ -257,6 +269,18 @@
       "error": ""
     },
     {
+      "title": "美中台前激烈交锋，幕后仍在筹划接触",
+      "summary": "上周，特朗普指责中国炮制了“史上最大规模的选举数据泄露事件”，同日，中国记者在美签证停留期被缩短至90天。而中国在加大抓捕间谍力度等方面予以回击。美中关系正步入新的动荡期吗？",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E4%B8%AD%E5%8F%B0%E5%89%8D%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B-%E5%B9%95%E5%90%8E%E4%BB%8D%E5%9C%A8%E7%AD%B9%E5%88%92%E6%8E%A5%E8%A7%A6-f250856a",
+      "guid": "WP-WSJS-0003753561",
+      "pub_date": "Wed, 22 Jul 2026 03:01:00 GMT",
+      "image_url": "https://images.wsj.net/im-62919189?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e4-b8-ad-e5-8f-b0-e5-89-8d-e6-bf-80-e7--f797753c5daa.html",
+      "captured": true,
+      "capture_title": "美中台前激烈交锋，幕后仍在筹划接触",
+      "error": ""
+    },
+    {
       "title": "你对人的寿命了解多少？来做做我们的小测试吧",
       "summary": "哪些国家的人寿命最长？哪个国家百岁老人最多？美国最富有群体比最贫困群体平均寿命长多少？一个人的潜在寿命有多大百分比是从父母那里遗传而来？",
       "link": "https://cn.wsj.com/articles/life-expectancy-longevity-quiz-9113d8e1",
@@ -269,15 +293,87 @@
       "error": ""
     },
     {
-      "title": "美中台前激烈交锋，幕后仍在筹划接触",
-      "summary": "上周，特朗普指责中国炮制了“史上最大规模的选举数据泄露事件”，同日，中国记者在美签证停留期被缩短至90天。而中国在加大抓捕间谍力度等方面予以回击。美中关系正步入新的动荡期吗？",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E4%B8%AD%E5%8F%B0%E5%89%8D%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B-%E5%B9%95%E5%90%8E%E4%BB%8D%E5%9C%A8%E7%AD%B9%E5%88%92%E6%8E%A5%E8%A7%A6-f250856a",
-      "guid": "WP-WSJS-0003753561",
-      "pub_date": "Wed, 22 Jul 2026 03:01:00 GMT",
-      "image_url": "https://images.wsj.net/im-62919189?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e4-b8-ad-e5-8f-b0-e5-89-8d-e6-bf-80-e7--f797753c5daa.html",
+      "title": "发展中国家正迅速老龄化，无力承担养老之重",
+      "summary": "在泰国等发展中国家，老年人口正在激增，但这些国家的民间储蓄与政府资源却捉襟见肘。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6-%E6%9C%AA%E5%AF%8C%E5%85%88%E8%80%81-%E6%97%A0%E5%8A%9B%E6%89%BF%E6%8B%85%E5%85%BB%E8%80%81%E4%B9%8B%E9%87%8D-ac764ad6",
+      "guid": "WP-WSJS-0003765549",
+      "pub_date": "Mon, 27 Jul 2026 06:10:00 GMT",
+      "image_url": "https://images.wsj.net/im-24028429?size=1.5&width=1280",
+      "snapshot": "articles/e5-8f-91-e5-b1-95-e4-b8-ad-e5-9b-bd-e5-ae-b6--e6-4cdec3e3a9ba.html",
       "captured": true,
-      "capture_title": "美中台前激烈交锋，幕后仍在筹划接触",
+      "capture_title": "深陷“未富先老”困境，发展中国家难承养老之重 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国众议院民主党人是如何转向反对援助以色列的？",
+      "summary": "从领导层到千禧一代，民主党内部在以色列问题上的立场是如何转变的，又是谁引领了这一变化。",
+      "link": "https://cn.wsj.com/articles/israel-aid-vote-democrats-439c719e",
+      "guid": "WP-WSJS-0003765212",
+      "pub_date": "Mon, 27 Jul 2026 01:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-02776359?size=1.501&width=1280",
+      "snapshot": "articles/israel-aid-vote-democrats-439c719e-4dda6bc97cf9.html",
+      "captured": true,
+      "capture_title": "美国众议院民主党人是如何转向反对援助以色列的？ - WSJ",
+      "error": ""
+    },
+    {
+      "title": "揭秘中国全力追赶美国AI芯片的攻坚内幕",
+      "summary": "习近平得力干将丁薛祥挂帅的芯片委员会在各关键领域部署了顶尖的攻关团队，全力推动国产替代以赢得这场AI竞赛。中国AI企业被警告：谁拒绝使用国产芯片，谁就是叛徒。",
+      "link": "https://cn.wsj.com/articles/%E6%8F%AD%E7%A7%98%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%8A%9B%E8%BF%BD%E8%B5%B6%E7%BE%8E%E5%9B%BDai%E8%8A%AF%E7%89%87%E7%9A%84%E6%94%BB%E5%9D%9A%E5%86%85%E5%B9%95-f5f6e7a5",
+      "guid": "WP-WSJS-0003760705",
+      "pub_date": "Fri, 24 Jul 2026 08:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-84397782?size=1.501&width=1280",
+      "snapshot": "articles/e6-8f-ad-e7-a7-98-e4-b8-ad-e5-9b-bd-e5-85-a8-e5--c11258e9c54b.html",
+      "captured": true,
+      "capture_title": "揭秘中国全力追赶美国AI芯片的攻坚内幕",
+      "error": ""
+    },
+    {
+      "title": "欧洲多地野火肆虐，威胁法国波尔多地区",
+      "summary": "野火正逼近法国西南部城市波尔多。消防员正艰难控制火势。",
+      "link": "https://cn.wsj.com/articles/%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9C%B0%E9%87%8E%E7%81%AB%E8%82%86%E8%99%90-%E5%A8%81%E8%83%81%E6%B3%95%E5%9B%BD%E6%B3%A2%E5%B0%94%E5%A4%9A%E5%9C%B0%E5%8C%BA-979208ba",
+      "guid": "WP-WSJS-0003765161",
+      "pub_date": "Mon, 27 Jul 2026 00:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-85466924?size=1.501&width=1280",
+      "snapshot": "articles/e6-ac-a7-e6-b4-b2-e5-a4-9a-e5-9c-b0-e9-87-8e-e7--96b13f5569a7.html",
+      "captured": true,
+      "capture_title": "欧洲多地野火肆虐，威胁法国波尔多地区 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "何小鹏专访：小鹏汽车的新航向——从造车迈向机器人",
+      "summary": "小鹏汽车CEO何小鹏对《华尔街日报》表示，未来十年，汽车将逐渐成为“四个轮子的机器人”。",
+      "link": "https://cn.wsj.com/articles/%E4%BD%95%E5%B0%8F%E9%B9%8F%E4%B8%93%E8%AE%BF-%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%96%B0%E8%88%AA%E5%90%91-%E4%BB%8E%E9%80%A0%E8%BD%A6%E8%BF%88%E5%90%91%E6%9C%BA%E5%99%A8%E4%BA%BA-b3a38e36",
+      "guid": "WP-WSJS-0003757402",
+      "pub_date": "Fri, 24 Jul 2026 03:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-69597803?size=1.501&width=1280",
+      "snapshot": "articles/e4-bd-95-e5-b0-8f-e9-b9-8f-e4-b8-93-e8-ae-bf--e5-1c1c85c48f5b.html",
+      "captured": true,
+      "capture_title": "何小鹏专访：小鹏汽车的新航向——从造车迈向机器人",
+      "error": ""
+    },
+    {
+      "title": "韩国芯片掌门人“世纪离婚”案宣判：前妻分得6.45亿美元",
+      "summary": "卢素英要求分得崔泰源一半的财产，但上诉法院法官周五判给她的比例低于此要求。",
+      "link": "https://cn.wsj.com/articles/%E9%9F%A9%E5%9B%BD%E8%8A%AF%E7%89%87%E6%8E%8C%E9%97%A8%E4%BA%BA-%E4%B8%96%E7%BA%AA%E7%A6%BB%E5%A9%9A-%E6%A1%88%E5%AE%A3%E5%88%A4-%E5%89%8D%E5%A6%BB%E8%8E%B7%E5%BE%976-45%E4%BA%BF%E7%BE%8E%E5%85%83-cdee2d29",
+      "guid": "WP-WSJS-0003763468",
+      "pub_date": "Sat, 25 Jul 2026 01:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-01056100?size=0.755&width=1280",
+      "snapshot": "articles/e9-9f-a9-e5-9b-bd-e8-8a-af-e7-89-87-e6-8e-8c-e9--beed918279ae.html",
+      "captured": true,
+      "capture_title": "韩国芯片掌门人“世纪离婚”案宣判：前妻分得6.45亿美元",
+      "error": ""
+    },
+    {
+      "title": "现实冲击马斯克及特斯拉、SpaceX的拥趸",
+      "summary": "特斯拉财季业绩令人失望，周四股价重挫约15%；SpaceX在创纪录IPO后，如今已较高点跌去近50%。",
+      "link": "https://cn.wsj.com/articles/reality-bites-elon-musk-and-his-tesla-spacex-believers-8a66d11f",
+      "guid": "WP-WSJS-0003759992",
+      "pub_date": "Thu, 23 Jul 2026 23:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-65438401?size=1.501&width=1280",
+      "snapshot": "articles/reality-bites-elon-musk-and-his-tesla-spacex-bel-88a45d9f64c3.html",
+      "captured": true,
+      "capture_title": "现实冲击马斯克及特斯拉、SpaceX的拥趸",
       "error": ""
     },
     {
@@ -1106,102 +1202,6 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-a1-b6-e7-ba-a7ai-e5-a4-a7-e-3912a5306f8a.html",
       "captured": true,
       "capture_title": "中国顶级AI大会向美国传递信息：我们正迎头赶上",
-      "error": ""
-    },
-    {
-      "title": "花旗分析师认为阿里巴巴有望领跑AI竞赛",
-      "summary": "阿里巴巴股价周一在港股市场一度上涨5.6%。此前，该公司预发布了一款全新的大语言模型，并称其性能仅次于Anthropic的Fable 5。",
-      "link": "https://cn.wsj.com/articles/why-this-citi-analyst-says-alibaba-could-lead-the-ai-race-e8b73ccb",
-      "guid": "WP-WSJS-0003750234",
-      "pub_date": "Mon, 20 Jul 2026 23:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-17170729?size=1.5&width=1280",
-      "snapshot": "articles/why-this-citi-analyst-says-alibaba-could-lead-th-d303e5ee088c.html",
-      "captured": true,
-      "capture_title": "花旗分析师认为阿里巴巴有望领跑AI竞赛",
-      "error": ""
-    },
-    {
-      "title": "为什么低价中国AI模型反而可能利好英伟达、美光等芯片股？",
-      "summary": "月之暗面的Kimi K3成本低廉但极具竞争力，此类低成本中国AI重新引发了关于企业在存储组件和算力上投入巨资的讨论。",
-      "link": "https://cn.wsj.com/articles/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-c07ad7a3",
-      "guid": "WP-WSJS-0003750400",
-      "pub_date": "Tue, 21 Jul 2026 01:17:00 GMT",
-      "image_url": "https://images.mktw.net/im-40322168?size=1.44&width=1280",
-      "snapshot": "articles/why-cheap-chinese-ai-models-could-actually-be-a--c9b8d03c25b0.html",
-      "captured": true,
-      "capture_title": "为什么低价中国AI模型反而可能利好英伟达、美光等芯片股？",
-      "error": ""
-    },
-    {
-      "title": "伊朗导弹击中了约旦基地的美军宿舍",
-      "summary": "伊朗上周的袭击造成两名美国军人丧生，特朗普周一威胁称将对这些袭击进行报复。多达三枚导弹突破了美军防空系统，凸显出防范伊朗导弹和无人机袭击的难度。",
-      "link": "https://cn.wsj.com/articles/iran-missile-struck-housing-for-u-s-troops-at-jordan-base-67195a8e",
-      "guid": "WP-WSJS-0003750195",
-      "pub_date": "Tue, 21 Jul 2026 00:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-09037181?size=0.56&width=1280",
-      "snapshot": "articles/iran-missile-struck-housing-for-u-s-troops-at-jo-e176729df6ce.html",
-      "captured": true,
-      "capture_title": "伊朗导弹击中了约旦基地的美军宿舍",
-      "error": ""
-    },
-    {
-      "title": "特朗普对部分加拿大商品加征50%关税",
-      "summary": "白宫周一宣布，特朗普已对来自加拿大的部分商品加征50%的额外关税，其中包括葡萄酒、冰球杆和水泥。",
-      "link": "https://cn.wsj.com/articles/trump-imposes-additional-50-tariffs-on-certain-canadian-goods-4cd3b160",
-      "guid": "WP-WSJS-0003750142",
-      "pub_date": "Tue, 21 Jul 2026 00:57:00 GMT",
-      "image_url": "https://images.wsj.net/im-53750104?size=1.499&width=1280",
-      "snapshot": "articles/trump-imposes-additional-50-tariffs-on-certain-c-874d7b281fdd.html",
-      "captured": true,
-      "capture_title": "特朗普对部分加拿大商品加征50%关税",
-      "error": ""
-    },
-    {
-      "title": "英国新首相安迪·伯纳姆押注“大政府”能拯救国家",
-      "summary": "这位工党领袖自诩为出身工薪阶层的政界局外人，投资者预计他将出台增税和扩大举债的政策。",
-      "link": "https://cn.wsj.com/articles/u-k-s-new-leader-andy-burnham-bets-big-government-can-save-the-country-7a0cc395",
-      "guid": "WP-WSJS-0003750366",
-      "pub_date": "Tue, 21 Jul 2026 00:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-30458072?size=1.49&width=1280",
-      "snapshot": "articles/u-k-s-new-leader-andy-burnham-bets-big-governmen-a277d4f3fce8.html",
-      "captured": true,
-      "capture_title": "英国新首相安迪·伯纳姆押注“大政府”能拯救国家",
-      "error": ""
-    },
-    {
-      "title": "“美股七雄”魅力不再，普通投资者转入AI新贵战线",
-      "summary": "散户投资者曾经是“美股七雄”最坚定的粉丝，如今他们正将目光投向别处，寻找下一波超级明星科技股。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E4%B8%83%E9%9B%84-%E9%AD%85%E5%8A%9B%E4%B8%8D%E5%86%8D-%E6%99%AE%E9%80%9A%E6%8A%95%E8%B5%84%E8%80%85%E8%BD%AC%E5%85%A5ai%E6%96%B0%E8%B4%B5%E6%88%98%E7%BA%BF-5c8c9955",
-      "guid": "WP-WSJS-0003747824",
-      "pub_date": "Mon, 20 Jul 2026 03:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-40663742?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e8-82-a1-e4-b8-83-e9-9b-84--e9-ad-85-e5-a7629e3180da.html",
-      "captured": true,
-      "capture_title": "“美股七雄”魅力不再，普通投资者转入AI新贵战线",
-      "error": ""
-    },
-    {
-      "title": "特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕",
-      "summary": "纽约市长马姆达尼称，他将探讨地方当局是否可以拘留以色列总理。",
-      "link": "https://cn.wsj.com/articles/trump-pushing-back-on-mamdani-says-netanyahu-wont-be-arrested-if-he-comes-to-u-s-6eaf16a5",
-      "guid": "WP-WSJS-0003750199",
-      "pub_date": "Mon, 20 Jul 2026 23:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-99813955?size=1.501&width=1280",
-      "snapshot": "articles/trump-pushing-back-on-mamdani-says-netanyahu-won-098d4cfd3b5e.html",
-      "captured": true,
-      "capture_title": "特朗普驳斥马姆达尼，称若内塔尼亚胡来美不会被捕",
-      "error": ""
-    },
-    {
-      "title": "台积电将从2027年起将芯片订单价格最高上调10% – 日经",
-      "summary": "报道称，此次计划涨价是受材料、制造设备以及新建海外芯片工厂成本上升的推动。",
-      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%B0%86%E4%BB%8E2027%E5%B9%B4%E8%B5%B7%E5%B0%86%E8%8A%AF%E7%89%87%E8%AE%A2%E5%8D%95%E4%BB%B7%E6%A0%BC%E6%9C%80%E9%AB%98%E4%B8%8A%E8%B0%8310-%E6%97%A5%E7%BB%8F-32aa1457",
-      "guid": "WP-WSJS-0003750947",
-      "pub_date": "Tue, 21 Jul 2026 09:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-56275044?size=1.5&width=1280",
-      "snapshot": "articles/e5-8f-b0-e7-a7-af-e7-94-b5-e5-b0-86-e4-bb-8e2027-0382ebcafb90.html",
-      "captured": true,
-      "capture_title": "台积电将从2027年起将芯片订单价格最高上调10% – 日经 - WSJ",
       "error": ""
     }
   ]
