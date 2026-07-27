@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 09:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 14:47:51 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 09:59:24 GMT</pubDate>
+        <pubDate>Mon, 27 Jul 2026 14:47:51 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -119,6 +119,13 @@
             <pubDate>Mon, 27 Jul 2026 00:59:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[赴港上市临近之际，Shein录得季度亏损]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-78875737?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Shein表示，美国在2025年取消了针对入境低价值商品的关税豁免，给其带来了不利影响。</p>]]></description>
+            <link>https://cn.wsj.com/articles/shein-posts-loss-as-planned-hong-kong-ipo-approaches-86d27e40</link>
+            <guid isPermaLink="false">WP-WSJS-0003765892</guid>
+            <pubDate>Mon, 27 Jul 2026 10:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[年轻人正让AI替他们说话，甚至在面对面交流时]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44099010?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>有一项任务比做家庭作业更令人头疼，那就是与人打交道。如今，越来越多的年轻人正开始依赖AI来处理这件事。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai-chatbot-in-person-social-interactions-d34700ca</link>
@@ -145,13 +152,6 @@
             <link>https://cn.wsj.com/articles/%E6%B4%BE%E6%8B%89%E8%92%99%E5%90%8C%E6%84%8F%E6%9A%82%E5%81%9C%E4%B8%8E%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F%E6%8E%A2%E7%B4%A2%E7%9A%84%E5%90%88%E5%B9%B6%E4%BA%A4%E6%98%93-e3aa583c</link>
             <guid isPermaLink="false">WP-WSJS-0003763501</guid>
             <pubDate>Sat, 25 Jul 2026 02:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普在谷歌被罚后威胁对欧盟加征新关税]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97431420?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>针对欧盟对美国科技企业开出的罚单，美国将考虑对来自这个由27国组成的联盟的商品加征额外关税。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E8%B0%B7%E6%AD%8C%E8%A2%AB%E7%BD%9A%E5%A8%81%E8%83%81%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-5f945a09</link>
-            <guid isPermaLink="false">WP-WSJS-0003763384</guid>
-            <pubDate>Sat, 25 Jul 2026 00:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[亲市场的中国前证监会副主席方星海被查]]></title>

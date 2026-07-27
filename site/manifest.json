@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:11:00.333584+00:00",
+  "generated_at": "2026-07-27T14:53:48.515377+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-56511766?size=1.501&width=1280",
       "snapshot": "articles/trump-apple-micron-china-chips-ccb1c333-b06195873c9d.html",
       "captured": true,
-      "capture_title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难 - WSJ",
+      "capture_title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-67531328?size=1.501&width=1280",
       "snapshot": "articles/big-companies-are-starting-to-hire-again-defying-8f81265622b5.html",
       "captured": true,
-      "capture_title": "大企业重新开始招聘，打破“AI将消灭就业”的预测 - WSJ",
+      "capture_title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-89100256?size=1.501&width=1280",
       "snapshot": "articles/chinas-tycoons-made-fortunes-offshore-now-the-pa-2ba9b97d1be3.html",
       "captured": true,
-      "capture_title": "中国富豪借离岸架构积累财富的时代正在终结 - WSJ",
+      "capture_title": "中国富豪借离岸架构积累财富的时代正在终结",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-79689691?size=0.75&width=1280",
       "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e5-a6-82-e4-bd-95-e5--fd6a71d0ad0f.html",
       "captured": true,
-      "capture_title": "俄罗斯如何将性暴力作为战争武器 - WSJ",
+      "capture_title": "俄罗斯如何将性暴力作为战争武器",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-46733092?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-a4-a7-e5-9f-8e-e5-b8-82-e6--b033e5a423e8.html",
       "captured": true,
-      "capture_title": "美国大城市正迅速流失儿童 - WSJ",
+      "capture_title": "美国大城市正迅速流失儿童",
       "error": ""
     },
     {
@@ -161,6 +161,18 @@
       "error": ""
     },
     {
+      "title": "赴港上市临近之际，Shein录得季度亏损",
+      "summary": "Shein表示，美国在2025年取消了针对入境低价值商品的关税豁免，给其带来了不利影响。",
+      "link": "https://cn.wsj.com/articles/shein-posts-loss-as-planned-hong-kong-ipo-approaches-86d27e40",
+      "guid": "WP-WSJS-0003765892",
+      "pub_date": "Mon, 27 Jul 2026 10:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-78875737?size=1.501&width=1280",
+      "snapshot": "articles/shein-posts-loss-as-planned-hong-kong-ipo-approa-bcbb33437fa0.html",
+      "captured": true,
+      "capture_title": "赴港上市临近之际，Shein录得季度亏损 - WSJ",
+      "error": ""
+    },
+    {
       "title": "年轻人正让AI替他们说话，甚至在面对面交流时",
       "summary": "有一项任务比做家庭作业更令人头疼，那就是与人打交道。如今，越来越多的年轻人正开始依赖AI来处理这件事。",
       "link": "https://cn.wsj.com/articles/ai-chatbot-in-person-social-interactions-d34700ca",
@@ -169,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-44099010?size=1.501&width=1280",
       "snapshot": "articles/ai-chatbot-in-person-social-interactions-d34700c-8e9d8a6932d1.html",
       "captured": true,
-      "capture_title": "年轻人正让AI替他们说话，甚至在面对面交流时 - WSJ",
+      "capture_title": "年轻人正让AI替他们说话，甚至在面对面交流时",
       "error": ""
     },
     {
@@ -206,18 +218,6 @@
       "snapshot": "articles/e6-b4-be-e6-8b-89-e8-92-99-e5-90-8c-e6-84-8f-e6--4664caaca3df.html",
       "captured": true,
       "capture_title": "派拉蒙同意暂停与华纳兄弟探索的合并交易",
-      "error": ""
-    },
-    {
-      "title": "特朗普在谷歌被罚后威胁对欧盟加征新关税",
-      "summary": "针对欧盟对美国科技企业开出的罚单，美国将考虑对来自这个由27国组成的联盟的商品加征额外关税。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E8%B0%B7%E6%AD%8C%E8%A2%AB%E7%BD%9A%E5%A8%81%E8%83%81%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-5f945a09",
-      "guid": "WP-WSJS-0003763384",
-      "pub_date": "Sat, 25 Jul 2026 00:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-97431420?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-9b-a0-e8-b0-b7-e6--ee0c3cfff7c2.html",
-      "captured": true,
-      "capture_title": "特朗普在谷歌被罚后威胁对欧盟加征新关税 - WSJ",
       "error": ""
     },
     {
@@ -301,7 +301,19 @@
       "image_url": "https://images.wsj.net/im-24028429?size=1.5&width=1280",
       "snapshot": "articles/e5-8f-91-e5-b1-95-e4-b8-ad-e5-9b-bd-e5-ae-b6--e6-4cdec3e3a9ba.html",
       "captured": true,
-      "capture_title": "深陷“未富先老”困境，发展中国家难承养老之重 - WSJ",
+      "capture_title": "发展中国家正迅速老龄化，无力承担养老之重",
+      "error": ""
+    },
+    {
+      "title": "特朗普在谷歌被罚后威胁对欧盟加征新关税",
+      "summary": "针对欧盟对美国科技企业开出的罚单，美国将考虑对来自这个由27国组成的联盟的商品加征额外关税。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E8%B0%B7%E6%AD%8C%E8%A2%AB%E7%BD%9A%E5%A8%81%E8%83%81%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-5f945a09",
+      "guid": "WP-WSJS-0003763384",
+      "pub_date": "Sat, 25 Jul 2026 00:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-97431420?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-9b-a0-e8-b0-b7-e6--ee0c3cfff7c2.html",
+      "captured": true,
+      "capture_title": "特朗普在谷歌被罚后威胁对欧盟加征新关税 - WSJ",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-a7-b0-e7-be-8e-e5--db7a8fa9cfa4.html",
       "captured": true,
       "capture_title": "特朗普称美国将在2028年对仿制药征收关税 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中国顶级AI大会向美国传递信息：我们正迎头赶上",
-      "summary": "世界人工智能大会已成为中国展示自身AI实力的首要场合。会议期间，月之暗面和阿里巴巴先后发布了可与美国顶尖模型一战的AI新模型。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A1%B6%E7%BA%A7ai%E5%A4%A7%E4%BC%9A%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BC%A0%E9%80%92%E4%BF%A1%E6%81%AF-%E6%88%91%E4%BB%AC%E6%AD%A3%E8%BF%8E%E5%A4%B4%E8%B5%B6%E4%B8%8A-790bc313",
-      "guid": "WP-WSJS-0003750585",
-      "pub_date": "Tue, 21 Jul 2026 03:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-53676172?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-a1-b6-e7-ba-a7ai-e5-a4-a7-e-3912a5306f8a.html",
-      "captured": true,
-      "capture_title": "中国顶级AI大会向美国传递信息：我们正迎头赶上",
       "error": ""
     }
   ]
