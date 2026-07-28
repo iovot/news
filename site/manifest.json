@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:47:33.967432+00:00",
+  "generated_at": "2026-07-28T11:24:15.837577+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-91706528?size=1.499&width=1280",
       "snapshot": "articles/trump-rfk-jr-cut-vaccine-children-0a42d742-4be107a1f5a6.html",
       "captured": true,
-      "capture_title": "特朗普对肯尼迪加大施压，要求减少儿童疫苗接种项目 - WSJ",
+      "capture_title": "特朗普对肯尼迪加大施压，要求减少儿童疫苗接种项目",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-45966451?size=1.501&width=1280",
       "snapshot": "articles/western-powers-race-to-bring-the-production-of-e-2a809f602f65.html",
       "captured": true,
-      "capture_title": "西方各国竞相将炸药生产迁回国内 - WSJ",
+      "capture_title": "西方各国竞相将炸药生产迁回国内",
       "error": ""
     },
     {
@@ -161,6 +161,18 @@
       "error": ""
     },
     {
+      "title": "科技巨头股价反映出堪称奇迹的成本预期",
+      "summary": "分析师的模型假定企业将实现新的效率提升，但其中一些数字看上去好得令人难以置信。",
+      "link": "https://cn.wsj.com/articles/big-tech-stocks-are-pricing-in-a-miracle-on-costs-77999648",
+      "guid": "WP-WSJS-0003768828",
+      "pub_date": "Tue, 28 Jul 2026 11:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-16766542?size=1.499&width=1280",
+      "snapshot": "articles/big-tech-stocks-are-pricing-in-a-miracle-on-cost-fb9dda0c8a0b.html",
+      "captured": true,
+      "capture_title": "科技巨头股价反映出堪称奇迹的成本预期 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国回击美国新关税措施",
       "summary": "中国商务部在一份声明中驳斥了有关强迫劳动的指控，并指责美国将这一问题政治化。",
       "link": "https://cn.wsj.com/articles/chinapushes-back-on-new-u-s-tariffs-89f8cda9",
@@ -169,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-72788160?size=1.471&width=1280",
       "snapshot": "articles/chinapushes-back-on-new-u-s-tariffs-89f8cda9-dfe728cbea9c.html",
       "captured": true,
-      "capture_title": "中国回击美国新关税措施 - WSJ",
+      "capture_title": "中国回击美国新关税措施",
       "error": ""
     },
     {
@@ -194,18 +206,6 @@
       "snapshot": "articles/e5-8f-88-e4-b8-80-e4-b8-aa-e6-b3-a1-e6-b2-ab-e8--789755badc6c.html",
       "captured": true,
       "capture_title": "又一个泡沫警告：股票跨市场溢价",
-      "error": ""
-    },
-    {
-      "title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
-      "summary": "在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。",
-      "link": "https://cn.wsj.com/articles/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-ffa273ab",
-      "guid": "WP-WSJS-0003765497",
-      "pub_date": "Mon, 27 Jul 2026 03:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-67531328?size=1.501&width=1280",
-      "snapshot": "articles/big-companies-are-starting-to-hire-again-defying-8f81265622b5.html",
-      "captured": true,
-      "capture_title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
       "error": ""
     },
     {
@@ -289,7 +289,7 @@
       "image_url": "https://images.wsj.net/im-11132174?size=1.501&width=1280",
       "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
       "captured": true,
-      "capture_title": "在美国，课间休息正在消失，家长们行动了 - WSJ",
+      "capture_title": "在美国，课间休息正在消失，家长们行动了",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/e8-b7-91-e6-ad-a5--e6-94-80-e5-b2-a9-e7-ad-89-e8-1447c9d46041.html",
       "captured": true,
       "capture_title": "跑步、攀岩等运动风靡中国，带火高端运动服饰",
+      "error": ""
+    },
+    {
+      "title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
+      "summary": "在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。",
+      "link": "https://cn.wsj.com/articles/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-ffa273ab",
+      "guid": "WP-WSJS-0003765497",
+      "pub_date": "Mon, 27 Jul 2026 03:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-67531328?size=1.501&width=1280",
+      "snapshot": "articles/big-companies-are-starting-to-hire-again-defying-8f81265622b5.html",
+      "captured": true,
+      "capture_title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/top-american-ai-execs-sound-alarm-on-chinese-mod-340110eedc20.html",
       "captured": true,
       "capture_title": "美国顶尖AI公司高管就中国模型发出警告",
-      "error": ""
-    },
-    {
-      "title": "美国抗衡中国新举措：拟将科研资金从高校转投AI领域",
-      "summary": "特朗普政府计划加速联邦科研体系改革，拟将更多支持给予个人科学家及AI的应用，而非大学。这是该政府为抗衡中国、加快技术探索而采取的最新举措。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8A%97%E8%A1%A1%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%BE%E6%8E%AA-%E6%8B%9F%E5%B0%86%E7%A7%91%E7%A0%94%E8%B5%84%E9%87%91%E4%BB%8E%E9%AB%98%E6%A0%A1%E8%BD%AC%E6%8A%95ai%E9%A2%86%E5%9F%9F-1f59e4c0",
-      "guid": "WP-WSJS-0003753380",
-      "pub_date": "Wed, 22 Jul 2026 01:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-14814918?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8a-97-e8-a1-a1-e4-b8-ad-e5--fe435f6e82cd.html",
-      "captured": true,
-      "capture_title": "美国抗衡中国新举措：拟将科研资金从高校转投AI领域",
       "error": ""
     }
   ]

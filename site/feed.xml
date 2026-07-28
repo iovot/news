@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 08:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 11:22:00 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 08:41:33 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 11:22:00 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -119,6 +119,13 @@
             <pubDate>Tue, 28 Jul 2026 04:03:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[科技巨头股价反映出堪称奇迹的成本预期]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-16766542?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>分析师的模型假定企业将实现新的效率提升，但其中一些数字看上去好得令人难以置信。</p>]]></description>
+            <link>https://cn.wsj.com/articles/big-tech-stocks-are-pricing-in-a-miracle-on-costs-77999648</link>
+            <guid isPermaLink="false">WP-WSJS-0003768828</guid>
+            <pubDate>Tue, 28 Jul 2026 11:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国回击美国新关税措施]]></title>
             <description><![CDATA[<img width="1280" height="870" src="https://images.wsj.net/im-72788160?size=1.471&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国商务部在一份声明中驳斥了有关强迫劳动的指控，并指责美国将这一问题政治化。</p>]]></description>
             <link>https://cn.wsj.com/articles/chinapushes-back-on-new-u-s-tariffs-89f8cda9</link>
@@ -138,13 +145,6 @@
             <link>https://cn.wsj.com/articles/%E5%8F%88%E4%B8%80%E4%B8%AA%E6%B3%A1%E6%B2%AB%E8%AD%A6%E5%91%8A-%E8%82%A1%E7%A5%A8%E8%B7%A8%E5%B8%82%E5%9C%BA%E6%BA%A2%E4%BB%B7-00028da4</link>
             <guid isPermaLink="false">WP-WSJS-0003765337</guid>
             <pubDate>Mon, 27 Jul 2026 02:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大企业重新开始招聘，打破“AI将消灭就业”的预测]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67531328?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。</p>]]></description>
-            <link>https://cn.wsj.com/articles/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-ffa273ab</link>
-            <guid isPermaLink="false">WP-WSJS-0003765497</guid>
-            <pubDate>Mon, 27 Jul 2026 03:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[谁是社媒营销新宠？只有几百粉丝的素人]]></title>
