@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T05:58:13.967285+00:00",
+  "generated_at": "2026-07-28T08:47:33.967432+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-16779760?size=1.499&width=1280",
       "snapshot": "articles/kevin-warsh-fed-chair-first-two-months-b034c374-524e9814077b.html",
       "captured": true,
-      "capture_title": "沃什如愿迎来美联储“内部良性争论” - WSJ",
+      "capture_title": "沃什如愿迎来美联储“内部良性争论”",
       "error": ""
     },
     {
@@ -41,6 +41,18 @@
       "error": ""
     },
     {
+      "title": "伊朗与阿曼寻求就霍尔木兹海峡达成协议，以期重启和谈",
+      "summary": "斡旋方正利用交战间歇设法达成一项快速解决方案，以重新开放霍尔木兹海峡，希望这能为实质性谈判铺平道路。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E4%B8%8E%E9%98%BF%E6%9B%BC%E5%AF%BB%E6%B1%82%E5%B0%B1%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE-%E4%BB%A5%E6%9C%9F%E9%87%8D%E5%90%AF%E5%92%8C%E8%B0%88-8957b73f",
+      "guid": "WP-WSJS-0003768284",
+      "pub_date": "Tue, 28 Jul 2026 02:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-12251601?size=1.501&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e4-b8-8e-e9-98-bf-e6-9b-bc-e5--8efc23172a8d.html",
+      "captured": true,
+      "capture_title": "伊朗与阿曼寻求就霍尔木兹海峡达成协议，以期重启和谈",
+      "error": ""
+    },
+    {
       "title": "长鑫科技股价大涨，跃居中国股市市值第一",
       "summary": "长鑫科技在上海首个交易日结束后，市值折合4,840亿美元，超过中国工商银行，成为中国大陆市场上市公司中的市值第一。",
       "link": "https://cn.wsj.com/articles/cxmts-strong-debut-boosts-chinas-bid-to-conquer-memory-chips-89809127",
@@ -61,19 +73,7 @@
       "image_url": "https://images.wsj.net/im-68373761?size=1.501&width=1280",
       "snapshot": "articles/brazil-sees-a-trump-led-effort-to-tilt-election--4a36c82b6052.html",
       "captured": true,
-      "capture_title": "巴西警惕美国试图影响大选 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "伊朗与阿曼寻求就霍尔木兹海峡达成协议，以期重启和谈",
-      "summary": "斡旋方正利用交战间歇设法达成一项快速解决方案，以重新开放霍尔木兹海峡，希望这能为实质性谈判铺平道路。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E4%B8%8E%E9%98%BF%E6%9B%BC%E5%AF%BB%E6%B1%82%E5%B0%B1%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE-%E4%BB%A5%E6%9C%9F%E9%87%8D%E5%90%AF%E5%92%8C%E8%B0%88-8957b73f",
-      "guid": "WP-WSJS-0003768284",
-      "pub_date": "Tue, 28 Jul 2026 02:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-12251601?size=1.501&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e4-b8-8e-e9-98-bf-e6-9b-bc-e5--8efc23172a8d.html",
-      "captured": true,
-      "capture_title": "伊朗与阿曼寻求就霍尔木兹海峡达成协议，以期重启和谈 - WSJ",
+      "capture_title": "巴西警惕美国试图影响大选",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-00097524?size=1.501&width=1280",
       "snapshot": "articles/e4-bb-8e-e6-96-a5-e8-b4-a3-e5-88-b0-e8-b5-9e-e8--f4242aea30c1.html",
       "captured": true,
-      "capture_title": "从斥责到赞赏：特朗普对泽连斯基态度缘何转变？ - WSJ",
+      "capture_title": "从斥责到赞赏：特朗普对泽连斯基态度缘何转变？",
       "error": ""
     },
     {
@@ -113,27 +113,27 @@
       "error": ""
     },
     {
-      "title": "谁是社媒营销新宠？只有几百粉丝的素人",
-      "summary": "算法调整促使品牌将更多的网红营销预算投向粉丝量微小的新兴创作者。",
-      "link": "https://cn.wsj.com/articles/%E8%B0%81%E6%98%AF%E7%A4%BE%E5%AA%92%E8%90%A5%E9%94%80%E6%96%B0%E5%AE%A0-%E5%8F%AA%E6%9C%89%E5%87%A0%E7%99%BE%E7%B2%89%E4%B8%9D%E7%9A%84%E7%B4%A0%E4%BA%BA-46e3f92e",
-      "guid": "WP-WSJS-0003768200",
-      "pub_date": "Tue, 28 Jul 2026 02:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-82373580?size=1.501&width=1280",
-      "snapshot": "articles/e8-b0-81-e6-98-af-e7-a4-be-e5-aa-92-e8-90-a5-e9--40f1ae4be44a.html",
+      "title": "特朗普对肯尼迪加大施压，要求减少儿童疫苗接种项目",
+      "summary": "尽管白宫顾问希望在中期选举前淡化对这一问题的关注，但特朗普仍将注意力集中在疫苗与自闭症之间所谓的关联上。",
+      "link": "https://cn.wsj.com/articles/trump-rfk-jr-cut-vaccine-children-0a42d742",
+      "guid": "WP-WSJS-0003768474",
+      "pub_date": "Tue, 28 Jul 2026 06:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-91706528?size=1.499&width=1280",
+      "snapshot": "articles/trump-rfk-jr-cut-vaccine-children-0a42d742-4be107a1f5a6.html",
       "captured": true,
-      "capture_title": "谁是社媒营销新宠？只有几百粉丝的素人 - WSJ",
+      "capture_title": "特朗普对肯尼迪加大施压，要求减少儿童疫苗接种项目 - WSJ",
       "error": ""
     },
     {
-      "title": "新一轮热浪即将来袭，创纪录野火肆虐法国和西班牙",
-      "summary": "创纪录的野火继续在法国和西班牙大片地区失控蔓延，而预计从周三开始，新一轮热浪将席卷南欧。",
-      "link": "https://cn.wsj.com/articles/record-wildfires-sweep-france-and-spain-as-heat-wave-approaches-be87f1b8",
-      "guid": "WP-WSJS-0003767927",
-      "pub_date": "Mon, 27 Jul 2026 23:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-69775560?size=1.499&width=1280",
-      "snapshot": "articles/record-wildfires-sweep-france-and-spain-as-heat--8a4c93d2616a.html",
+      "title": "西方各国竞相将炸药生产迁回国内",
+      "summary": "北约各国正推进至少24个旨在将炸药或推进剂生产线迁回国内的新项目，其中仅美国阿肯色州就计划新建三家工厂。",
+      "link": "https://cn.wsj.com/articles/western-powers-race-to-bring-the-production-of-explosives-back-home-6943d65f",
+      "guid": "WP-WSJS-0003768430",
+      "pub_date": "Tue, 28 Jul 2026 06:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-45966451?size=1.501&width=1280",
+      "snapshot": "articles/western-powers-race-to-bring-the-production-of-e-2a809f602f65.html",
       "captured": true,
-      "capture_title": "新一轮热浪即将来袭，创纪录野火肆虐法国和西班牙",
+      "capture_title": "西方各国竞相将炸药生产迁回国内 - WSJ",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-94003358?size=1.501&width=1280",
       "snapshot": "articles/meta-is-fighting-a-mountain-of-social-media-laws-27ba9926a513.html",
       "captured": true,
-      "capture_title": "Meta深陷多起社交媒体诉讼，时机再糟糕不过 - WSJ",
+      "capture_title": "Meta深陷多起社交媒体诉讼，时机再糟糕不过",
       "error": ""
     },
     {
@@ -209,6 +209,18 @@
       "error": ""
     },
     {
+      "title": "谁是社媒营销新宠？只有几百粉丝的素人",
+      "summary": "算法调整促使品牌将更多的网红营销预算投向粉丝量微小的新兴创作者。",
+      "link": "https://cn.wsj.com/articles/%E8%B0%81%E6%98%AF%E7%A4%BE%E5%AA%92%E8%90%A5%E9%94%80%E6%96%B0%E5%AE%A0-%E5%8F%AA%E6%9C%89%E5%87%A0%E7%99%BE%E7%B2%89%E4%B8%9D%E7%9A%84%E7%B4%A0%E4%BA%BA-46e3f92e",
+      "guid": "WP-WSJS-0003768200",
+      "pub_date": "Tue, 28 Jul 2026 02:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-82373580?size=1.501&width=1280",
+      "snapshot": "articles/e8-b0-81-e6-98-af-e7-a4-be-e5-aa-92-e8-90-a5-e9--40f1ae4be44a.html",
+      "captured": true,
+      "capture_title": "谁是社媒营销新宠？只有几百粉丝的素人",
+      "error": ""
+    },
+    {
       "title": "中美在珠峰竞逐无人机主导权",
       "summary": "华盛顿正寻求在登山辅助技术“竞赛”中为美国技术赢得优势。但中国已经抢占了先机。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9C%A8%E7%8F%A0%E5%B3%B0%E7%AB%9E%E9%80%90%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%BB%E5%AF%BC%E6%9D%83-30163dba",
@@ -221,12 +233,24 @@
       "error": ""
     },
     {
+      "title": "发展中国家正迅速老龄化，无力承担养老之重",
+      "summary": "在泰国等发展中国家，老年人口正在激增，但这些国家的民间储蓄与政府资源却捉襟见肘。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6-%E6%9C%AA%E5%AF%8C%E5%85%88%E8%80%81-%E6%97%A0%E5%8A%9B%E6%89%BF%E6%8B%85%E5%85%BB%E8%80%81%E4%B9%8B%E9%87%8D-ac764ad6",
+      "guid": "WP-WSJS-0003765549",
+      "pub_date": "Mon, 27 Jul 2026 06:10:00 GMT",
+      "image_url": "https://images.wsj.net/im-24028429?size=1.5&width=1280",
+      "snapshot": "articles/e5-8f-91-e5-b1-95-e4-b8-ad-e5-9b-bd-e5-ae-b6--e6-4cdec3e3a9ba.html",
+      "captured": true,
+      "capture_title": "发展中国家正迅速老龄化，无力承担养老之重",
+      "error": ""
+    },
+    {
       "title": "策略师：中国正赢得中东博弈，将推高金价、重创美元",
       "summary": "面对美伊冲突，中国展现出强大韧性。一位策略师断言，在与美国的较量中，中国将集齐电力主导权、能源主导权和技术主导权这三重优势。",
       "link": "https://cn.wsj.com/articles/%E7%AD%96%E7%95%A5%E5%B8%88-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%B5%A2%E5%BE%97%E4%B8%AD%E4%B8%9C%E5%8D%9A%E5%BC%88-%E5%B0%86%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7-%E9%87%8D%E5%88%9B%E7%BE%8E%E5%85%83-14e30402",
       "guid": "WP-WSJS-0003765395",
       "pub_date": "Mon, 27 Jul 2026 02:56:00 GMT",
-      "image_url": "https://images.mktw.net/im-91771062?size=1.5&width=1280",
+      "image_url": "https://images.wsj.net/im-78456844?size=1.5&width=1280",
       "snapshot": "articles/e7-ad-96-e7-95-a5-e5-b8-88--e4-b8-ad-e5-9b-bd-e6-d895d0b15cbf.html",
       "captured": true,
       "capture_title": "策略师：中国正赢得中东博弈，将推高金价、重创美元",
@@ -245,18 +269,6 @@
       "error": ""
     },
     {
-      "title": "美国大城市正迅速流失儿童",
-      "summary": "随着全美生育率创下历史新低，美国各地18岁以下儿童数量正在下降，这种趋势在大城市尤为明显。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%AD%A3%E8%BF%85%E9%80%9F%E6%B5%81%E5%A4%B1%E5%84%BF%E7%AB%A5-76a3bbc0",
-      "guid": "WP-WSJS-0003765632",
-      "pub_date": "Mon, 27 Jul 2026 06:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-46733092?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-a4-a7-e5-9f-8e-e5-b8-82-e6--b033e5a423e8.html",
-      "captured": true,
-      "capture_title": "美国大城市正迅速流失儿童",
-      "error": ""
-    },
-    {
       "title": "亲市场的中国前证监会副主席方星海被查",
       "summary": "中国政府对中共官员的整肃，如今波及这位昔日明星证券监管官员。此时距离他退休已近两年。",
       "link": "https://cn.wsj.com/articles/%E4%BA%B2%E5%B8%82%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%89%8D%E8%AF%81%E7%9B%91%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5-f5a88b78",
@@ -269,27 +281,15 @@
       "error": ""
     },
     {
-      "title": "三大能源要道告急，全球经济突遭能源“锁喉”",
-      "summary": "由于中东冲突和俄乌战争，全球经济的能源供应突然同时在三个要道遭遇威胁：波斯湾、红海和黑海。",
-      "link": "https://cn.wsj.com/articles/global-economy-is-suddenly-fighting-an-energy-stranglehold-on-three-fronts-bddbaaa9",
-      "guid": "WP-WSJS-0003756883",
-      "pub_date": "Thu, 23 Jul 2026 02:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-25605246?size=1.499&width=1280",
-      "snapshot": "articles/global-economy-is-suddenly-fighting-an-energy-st-45112d018889.html",
+      "title": "在美国，课间休息正在消失，家长们行动了",
+      "summary": "日益缩水的课间休息时间令美国家长感到忧虑，他们认为课间休息对于儿童的身心发展至关重要，纷纷呼吁恢复课间休息。",
+      "link": "https://cn.wsj.com/articles/recess-is-disappearing-parents-are-pushing-to-bring-it-back-5fdef83c",
+      "guid": "WP-WSJS-0003768449",
+      "pub_date": "Tue, 28 Jul 2026 06:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-11132174?size=1.501&width=1280",
+      "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
       "captured": true,
-      "capture_title": "三大能源要道告急，全球经济突遭能源“锁喉”",
-      "error": ""
-    },
-    {
-      "title": "发展中国家正迅速老龄化，无力承担养老之重",
-      "summary": "在泰国等发展中国家，老年人口正在激增，但这些国家的民间储蓄与政府资源却捉襟见肘。",
-      "link": "https://cn.wsj.com/articles/%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6-%E6%9C%AA%E5%AF%8C%E5%85%88%E8%80%81-%E6%97%A0%E5%8A%9B%E6%89%BF%E6%8B%85%E5%85%BB%E8%80%81%E4%B9%8B%E9%87%8D-ac764ad6",
-      "guid": "WP-WSJS-0003765549",
-      "pub_date": "Mon, 27 Jul 2026 06:10:00 GMT",
-      "image_url": "https://images.wsj.net/im-24028429?size=1.5&width=1280",
-      "snapshot": "articles/e5-8f-91-e5-b1-95-e4-b8-ad-e5-9b-bd-e5-ae-b6--e6-4cdec3e3a9ba.html",
-      "captured": true,
-      "capture_title": "发展中国家正迅速老龄化，无力承担养老之重",
+      "capture_title": "在美国，课间休息正在消失，家长们行动了 - WSJ",
       "error": ""
     },
     {
@@ -302,6 +302,42 @@
       "snapshot": "articles/e8-b7-91-e6-ad-a5--e6-94-80-e5-b2-a9-e7-ad-89-e8-1447c9d46041.html",
       "captured": true,
       "capture_title": "跑步、攀岩等运动风靡中国，带火高端运动服饰",
+      "error": ""
+    },
+    {
+      "title": "新一轮热浪即将来袭，创纪录野火肆虐法国和西班牙",
+      "summary": "创纪录的野火继续在法国和西班牙大片地区失控蔓延，而预计从周三开始，新一轮热浪将席卷南欧。",
+      "link": "https://cn.wsj.com/articles/record-wildfires-sweep-france-and-spain-as-heat-wave-approaches-be87f1b8",
+      "guid": "WP-WSJS-0003767927",
+      "pub_date": "Mon, 27 Jul 2026 23:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-69775560?size=1.499&width=1280",
+      "snapshot": "articles/record-wildfires-sweep-france-and-spain-as-heat--8a4c93d2616a.html",
+      "captured": true,
+      "capture_title": "新一轮热浪即将来袭，创纪录野火肆虐法国和西班牙",
+      "error": ""
+    },
+    {
+      "title": "美国大城市正迅速流失儿童",
+      "summary": "随着全美生育率创下历史新低，美国各地18岁以下儿童数量正在下降，这种趋势在大城市尤为明显。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%AD%A3%E8%BF%85%E9%80%9F%E6%B5%81%E5%A4%B1%E5%84%BF%E7%AB%A5-76a3bbc0",
+      "guid": "WP-WSJS-0003765632",
+      "pub_date": "Mon, 27 Jul 2026 06:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-46733092?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-a4-a7-e5-9f-8e-e5-b8-82-e6--b033e5a423e8.html",
+      "captured": true,
+      "capture_title": "美国大城市正迅速流失儿童",
+      "error": ""
+    },
+    {
+      "title": "三大能源要道告急，全球经济突遭能源“锁喉”",
+      "summary": "由于中东冲突和俄乌战争，全球经济的能源供应突然同时在三个要道遭遇威胁：波斯湾、红海和黑海。",
+      "link": "https://cn.wsj.com/articles/global-economy-is-suddenly-fighting-an-energy-stranglehold-on-three-fronts-bddbaaa9",
+      "guid": "WP-WSJS-0003756883",
+      "pub_date": "Thu, 23 Jul 2026 02:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-25605246?size=1.499&width=1280",
+      "snapshot": "articles/global-economy-is-suddenly-fighting-an-energy-st-45112d018889.html",
+      "captured": true,
+      "capture_title": "三大能源要道告急，全球经济突遭能源“锁喉”",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8a-97-e8-a1-a1-e4-b8-ad-e5--fe435f6e82cd.html",
       "captured": true,
       "capture_title": "美国抗衡中国新举措：拟将科研资金从高校转投AI领域",
-      "error": ""
-    },
-    {
-      "title": "AI霸权之争升温，特朗普政府据报道考虑封杀中国模型",
-      "summary": "中国人工智能实验室月之暗面推出一款低成本模型，给美国政府出了个难题。Axios报道披露，美国政府正考虑对中国AI模型实施禁令。",
-      "link": "https://cn.wsj.com/articles/as-the-battle-for-ai-supremacy-intensifies-trump-white-house-reportedly-contemplates-a-ban-on-chinese-models-6c282082",
-      "guid": "WP-WSJS-0003750427",
-      "pub_date": "Tue, 21 Jul 2026 01:31:00 GMT",
-      "image_url": "https://images.mktw.net/im-05931249?size=1.5&width=1280",
-      "snapshot": "articles/as-the-battle-for-ai-supremacy-intensifies-trump-abe031903d97.html",
-      "captured": true,
-      "capture_title": "AI霸权之争升温，特朗普政府据报道考虑封杀中国模型",
-      "error": ""
-    },
-    {
-      "title": "特朗普批准美沙里程碑式核协议，沙特赢得重大胜利",
-      "summary": "该协议可能意味着美国公司将获得巨额利润，但也可能引发人们对中东核扩散的担忧。",
-      "link": "https://cn.wsj.com/articles/trump-approves-landmark-nuclear-deal-with-saudi-arabia-in-big-win-for-kingdom-1d9c8e71",
-      "guid": "WP-WSJS-0003753463",
-      "pub_date": "Wed, 22 Jul 2026 04:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-74631512?size=1.487&width=1280",
-      "snapshot": "articles/trump-approves-landmark-nuclear-deal-with-saudi--ac102bc3b875.html",
-      "captured": true,
-      "capture_title": "特朗普批准美沙里程碑式核协议，沙特赢得重大胜利",
-      "error": ""
-    },
-    {
-      "title": "特朗普关税进入新阶段，数月贸易平静期告终",
-      "summary": "特朗普政府准备推出新的关税措施，取代最高法院否决原关税政策后实施的临时关税。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9B%E5%85%A5%E6%96%B0%E9%98%B6%E6%AE%B5-%E6%95%B0%E6%9C%88%E8%B4%B8%E6%98%93%E5%B9%B3%E9%9D%99%E6%9C%9F%E5%91%8A%E7%BB%88-5d86a625",
-      "guid": "WP-WSJS-0003753746",
-      "pub_date": "Wed, 22 Jul 2026 05:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-22319953?size=1.45&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-85-b3-e7-a8-8e-e8--de3458441041.html",
-      "captured": true,
-      "capture_title": "特朗普关税进入新阶段，数月贸易平静期告终",
       "error": ""
     }
   ]
