@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 11:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 14:20:42 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 11:29:25 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 14:20:42 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -126,6 +126,13 @@
             <pubDate>Tue, 28 Jul 2026 23:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[宝马计划在德国裁减约8,000人]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-24319197?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宝马在德国雇用约8万人。</p>]]></description>
+            <link>https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3</link>
+            <guid isPermaLink="false">WP-WSJS-0003772445</guid>
+            <pubDate>Wed, 29 Jul 2026 11:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[福特销量与收入双双下滑，这家车企却并不担忧]]></title>
             <description><![CDATA[<img width="1280" height="815" src="https://images.wsj.net/im-89926822?size=1.571&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高利润率越野SUV销量为福特汽车第二财季业绩提供了支撑，该公司还上调了全年利润预期。</p>]]></description>
             <link>https://cn.wsj.com/articles/fords-sales-and-revenue-are-down-the-automaker-isnt-sweating-it-00405dff</link>
@@ -145,13 +152,6 @@
             <link>https://cn.wsj.com/articles/visa%E5%B0%86%E8%A3%81%E5%91%982-600%E4%BA%BA-%E4%BB%A5%E9%A1%BA%E5%BA%94%E6%94%AF%E4%BB%98%E8%A1%8C%E4%B8%9A%E5%8F%98%E5%B1%80-58e74218</link>
             <guid isPermaLink="false">WP-WSJS-0003771131</guid>
             <pubDate>Tue, 28 Jul 2026 23:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普政府将终止美国联邦医疗保险药物计划补贴]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-26625530?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这项旨在帮助控制保费的补贴计划将在2026年后终止，此举可能导致许多老年人明年面临更高的处方药保险费率。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-administration-to-end-medicare-drug-plan-subsidy-2b4b3e6f</link>
-            <guid isPermaLink="false">WP-WSJS-0003771169</guid>
-            <pubDate>Wed, 29 Jul 2026 02:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国富豪借离岸架构积累财富的时代正在终结]]></title>

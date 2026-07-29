@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:34:20.439272+00:00",
+  "generated_at": "2026-07-29T14:24:56.344158+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-03037858?size=1.501&width=1280",
       "snapshot": "articles/shein-discloses-ftc-investigation-into-fast-fash-de61d89e2de3.html",
       "captured": true,
-      "capture_title": "Shein披露美国联邦贸易委员会正在调查其美国业务 - WSJ",
+      "capture_title": "Shein披露美国联邦贸易委员会正在调查其美国业务",
       "error": ""
     },
     {
@@ -170,6 +170,18 @@
       "snapshot": "articles/e5-a4-a7-e5-8f-91-e4-bc-8a-e6-9c-97--e6-88-98-e4-141fc74605c8.html",
       "captured": true,
       "capture_title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
+      "error": ""
+    },
+    {
+      "title": "宝马计划在德国裁减约8,000人",
+      "summary": "宝马在德国雇用约8万人。",
+      "link": "https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3",
+      "guid": "WP-WSJS-0003772445",
+      "pub_date": "Wed, 29 Jul 2026 11:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-24319197?size=1.499&width=1280",
+      "snapshot": "articles/bmw-to-cut-several-thousand-jobs-in-germany-via--1ce3c4e0ece6.html",
+      "captured": true,
+      "capture_title": "宝马计划在德国裁减约8,000人 - WSJ",
       "error": ""
     },
     {
@@ -206,18 +218,6 @@
       "snapshot": "articles/visa-e5-b0-86-e8-a3-81-e5-91-982-600-e4-ba-ba--e-e0685a9977de.html",
       "captured": true,
       "capture_title": "Visa将裁员2,600人，以顺应支付行业变局 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
-      "summary": "这项旨在帮助控制保费的补贴计划将在2026年后终止，此举可能导致许多老年人明年面临更高的处方药保险费率。",
-      "link": "https://cn.wsj.com/articles/trump-administration-to-end-medicare-drug-plan-subsidy-2b4b3e6f",
-      "guid": "WP-WSJS-0003771169",
-      "pub_date": "Wed, 29 Jul 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-26625530?size=1.501&width=1280",
-      "snapshot": "articles/trump-administration-to-end-medicare-drug-plan-s-ea898a15cad4.html",
-      "captured": true,
-      "capture_title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
       "captured": true,
       "capture_title": "在美国，课间休息正在消失，家长们行动了",
+      "error": ""
+    },
+    {
+      "title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
+      "summary": "这项旨在帮助控制保费的补贴计划将在2026年后终止，此举可能导致许多老年人明年面临更高的处方药保险费率。",
+      "link": "https://cn.wsj.com/articles/trump-administration-to-end-medicare-drug-plan-subsidy-2b4b3e6f",
+      "guid": "WP-WSJS-0003771169",
+      "pub_date": "Wed, 29 Jul 2026 02:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-26625530?size=1.501&width=1280",
+      "snapshot": "articles/trump-administration-to-end-medicare-drug-plan-s-ea898a15cad4.html",
+      "captured": true,
+      "capture_title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/trump-says-u-s-will-bomb-irans-power-plants-brid-1cda95503b58.html",
       "captured": true,
       "capture_title": "特朗普称若伊朗袭击船只，美国将轰炸其发电厂和桥梁",
-      "error": ""
-    },
-    {
-      "title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
-      "summary": "美国和以色列曾在战争初期试图摧毁伊朗的武器项目，如今德黑兰已恢复了部分武器项目。",
-      "link": "https://cn.wsj.com/articles/%E8%BF%91%E6%9C%9F%E8%A2%AD%E5%87%BB%E6%98%BE%E7%A4%BA%E4%BC%8A%E6%9C%97%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E6%88%98%E5%8A%9B%E4%BB%8D%E4%B8%8D%E5%8F%AF%E5%B0%8F%E8%A7%91-cf3d597b",
-      "guid": "WP-WSJS-0003753614",
-      "pub_date": "Wed, 22 Jul 2026 04:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-43017808?size=1.55&width=1280",
-      "snapshot": "articles/e8-bf-91-e6-9c-9f-e8-a2-ad-e5-87-bb-e6-98-be-e7--a90162d7b637.html",
-      "captured": true,
-      "capture_title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
       "error": ""
     }
   ]
