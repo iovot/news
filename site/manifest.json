@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T06:07:07.198966+00:00",
+  "generated_at": "2026-07-29T08:59:15.180015+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-61523006?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e8-81-94-e5-82-a8-e8-ae-ae-e6-81-af-e4--f99459f2bb08.html",
       "captured": true,
-      "capture_title": "美联储议息会议三大看点前瞻 - WSJ",
+      "capture_title": "美联储议息会议三大看点前瞻",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-91528247?size=1.501&width=1280",
       "snapshot": "articles/e9-92-88-e5-af-b9anthropic-e7-9a-84-e6-8a-b5-e5--d6f1c28a9fc3.html",
       "captured": true,
-      "capture_title": "针对Anthropic的抵制情绪正在硅谷积聚 - WSJ",
+      "capture_title": "针对Anthropic的抵制情绪正在硅谷积聚",
       "error": ""
     },
     {
@@ -125,18 +125,6 @@
       "error": ""
     },
     {
-      "title": "中国富豪借离岸架构积累财富的时代正在终结",
-      "summary": "中国正在重塑针对超级富豪的监管规则，以加强对其海外投资方式的管控。政府部门正向企业施压，要求它们放弃海外架构并在境内注册。",
-      "link": "https://cn.wsj.com/articles/chinas-tycoons-made-fortunes-offshore-now-the-party-is-over-57fe2cd0",
-      "guid": "WP-WSJS-0003765653",
-      "pub_date": "Mon, 27 Jul 2026 06:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-89100256?size=1.501&width=1280",
-      "snapshot": "articles/chinas-tycoons-made-fortunes-offshore-now-the-pa-2ba9b97d1be3.html",
-      "captured": true,
-      "capture_title": "中国富豪借离岸架构积累财富的时代正在终结",
-      "error": ""
-    },
-    {
       "title": "DSA的上升势头在民主党内引发恐慌",
       "summary": "DSA曾是边缘派别，如今却利用民众的不满情绪，施展出令人惊讶的政治力量。主流民主党人从中看到了“根本性威胁”。",
       "link": "https://cn.wsj.com/articles/democratic-socialists-mamdani-midterms-party-4e2d48d6",
@@ -145,7 +133,19 @@
       "image_url": "https://images.wsj.net/im-76077958?size=1.5&width=1280",
       "snapshot": "articles/democratic-socialists-mamdani-midterms-party-4e2-6cdfd4aa6de1.html",
       "captured": true,
-      "capture_title": "DSA的上升势头在民主党内引发恐慌 - WSJ",
+      "capture_title": "DSA的上升势头在民主党内引发恐慌",
+      "error": ""
+    },
+    {
+      "title": "一座地下核反应堆即将落地美国小镇，引发社区民意撕裂",
+      "summary": "初创公司Deep Fission计划在堪萨斯州小镇的地下约一英里处建造并运行商业“重力反应堆”。“建在这里是不错。但我们成了小白鼠，这不太妙。”",
+      "link": "https://cn.wsj.com/articles/an-underground-nuclear-reactor-is-coming-to-this-kansas-townand-dividing-locals-4c62a77b",
+      "guid": "WP-WSJS-0003771597",
+      "pub_date": "Wed, 29 Jul 2026 06:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-11980404?size=1.34&width=1280",
+      "snapshot": "articles/an-underground-nuclear-reactor-is-coming-to-this-ae5bb9dc5471.html",
+      "captured": true,
+      "capture_title": "一座地下核反应堆即将落地美国小镇，引发社区民意撕裂 - WSJ",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-89926822?size=1.571&width=1280",
       "snapshot": "articles/fords-sales-and-revenue-are-down-the-automaker-i-930f739ce4f0.html",
       "captured": true,
-      "capture_title": "福特销量与收入双双下滑，这家车企却并不担忧 - WSJ",
+      "capture_title": "福特销量与收入双双下滑，这家车企却并不担忧",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-25939058?size=1.499&width=1280",
       "snapshot": "articles/e6-91-a9-e6-a0-b9-e5-a3-ab-e4-b8-b9-e5-88-a9-e6--1065df9147e1.html",
       "captured": true,
-      "capture_title": "摩根士丹利房贷员工被施压为富裕客户批贷 - WSJ",
+      "capture_title": "摩根士丹利房贷员工被施压为富裕客户批贷",
       "error": ""
     },
     {
@@ -218,6 +218,18 @@
       "snapshot": "articles/trump-administration-to-end-medicare-drug-plan-s-ea898a15cad4.html",
       "captured": true,
       "capture_title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
+      "error": ""
+    },
+    {
+      "title": "中国富豪借离岸架构积累财富的时代正在终结",
+      "summary": "中国正在重塑针对超级富豪的监管规则，以加强对其海外投资方式的管控。政府部门正向企业施压，要求它们放弃海外架构并在境内注册。",
+      "link": "https://cn.wsj.com/articles/chinas-tycoons-made-fortunes-offshore-now-the-party-is-over-57fe2cd0",
+      "guid": "WP-WSJS-0003765653",
+      "pub_date": "Mon, 27 Jul 2026 06:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-89100256?size=1.501&width=1280",
+      "snapshot": "articles/chinas-tycoons-made-fortunes-offshore-now-the-pa-2ba9b97d1be3.html",
+      "captured": true,
+      "capture_title": "中国富豪借离岸架构积累财富的时代正在终结",
       "error": ""
     },
     {
@@ -281,18 +293,6 @@
       "error": ""
     },
     {
-      "title": "策略师：中国正赢得中东博弈，将推高金价、重创美元",
-      "summary": "面对美伊冲突，中国展现出强大韧性。一位策略师断言，在与美国的较量中，中国将集齐电力主导权、能源主导权和技术主导权这三重优势。",
-      "link": "https://cn.wsj.com/articles/%E7%AD%96%E7%95%A5%E5%B8%88-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%B5%A2%E5%BE%97%E4%B8%AD%E4%B8%9C%E5%8D%9A%E5%BC%88-%E5%B0%86%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7-%E9%87%8D%E5%88%9B%E7%BE%8E%E5%85%83-14e30402",
-      "guid": "WP-WSJS-0003765395",
-      "pub_date": "Mon, 27 Jul 2026 02:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-78456844?size=1.5&width=1280",
-      "snapshot": "articles/e7-ad-96-e7-95-a5-e5-b8-88--e4-b8-ad-e5-9b-bd-e6-d895d0b15cbf.html",
-      "captured": true,
-      "capture_title": "策略师：中国正赢得中东博弈，将推高金价、重创美元",
-      "error": ""
-    },
-    {
       "title": "在美国，课间休息正在消失，家长们行动了",
       "summary": "日益缩水的课间休息时间令美国家长感到忧虑，他们认为课间休息对于儿童的身心发展至关重要，纷纷呼吁恢复课间休息。",
       "link": "https://cn.wsj.com/articles/recess-is-disappearing-parents-are-pushing-to-bring-it-back-5fdef83c",
@@ -302,6 +302,18 @@
       "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
       "captured": true,
       "capture_title": "在美国，课间休息正在消失，家长们行动了",
+      "error": ""
+    },
+    {
+      "title": "策略师：中国正赢得中东博弈，将推高金价、重创美元",
+      "summary": "面对美伊冲突，中国展现出强大韧性。一位策略师断言，在与美国的较量中，中国将集齐电力主导权、能源主导权和技术主导权这三重优势。",
+      "link": "https://cn.wsj.com/articles/%E7%AD%96%E7%95%A5%E5%B8%88-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%B5%A2%E5%BE%97%E4%B8%AD%E4%B8%9C%E5%8D%9A%E5%BC%88-%E5%B0%86%E6%8E%A8%E9%AB%98%E9%87%91%E4%BB%B7-%E9%87%8D%E5%88%9B%E7%BE%8E%E5%85%83-14e30402",
+      "guid": "WP-WSJS-0003765395",
+      "pub_date": "Mon, 27 Jul 2026 02:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-78456844?size=1.5&width=1280",
+      "snapshot": "articles/e7-ad-96-e7-95-a5-e5-b8-88--e4-b8-ad-e5-9b-bd-e6-d895d0b15cbf.html",
+      "captured": true,
+      "capture_title": "策略师：中国正赢得中东博弈，将推高金价、重创美元",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e8-bf-91-e6-9c-9f-e8-a2-ad-e5-87-bb-e6-98-be-e7--a90162d7b637.html",
       "captured": true,
       "capture_title": "近期袭击显示伊朗弹道导弹战力仍不可小觑",
-      "error": ""
-    },
-    {
-      "title": "伊朗危机加剧，美联储加息概率上升，美股牛市面临考验",
-      "summary": "随着油价上涨，美债收益率逼近伊朗战争爆发以来的最高水平。美国股市的看涨逻辑突然显得更加脆弱。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%9C%BA%E5%8A%A0%E5%89%A7-%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%E4%B8%8A%E5%8D%87-%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%82%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-84b8dee2",
-      "guid": "WP-WSJS-0003756915",
-      "pub_date": "Thu, 23 Jul 2026 02:32:00 GMT",
-      "image_url": "https://images.mktw.net/im-84665103?size=1.86&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e5-8d-b1-e6-9c-ba-e5-8a-a0-e5--cb37b73abaca.html",
-      "captured": true,
-      "capture_title": "伊朗危机加剧，美联储加息概率上升，美股牛市面临考验",
       "error": ""
     }
   ]
