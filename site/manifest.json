@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T03:06:33.470833+00:00",
+  "generated_at": "2026-07-29T06:07:07.198966+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-45857456?size=1.778&width=1280",
       "snapshot": "articles/china-iran-us-war-5579963a-0f7d682d45ca.html",
       "captured": true,
-      "capture_title": "中国找到了获取中东石油的途径 - WSJ",
+      "capture_title": "中国找到了获取中东石油的途径",
       "error": ""
     },
     {
@@ -25,11 +25,23 @@
       "image_url": "https://images.wsj.net/im-77242036?size=1.501&width=1280",
       "snapshot": "articles/iran-launches-surprise-missile-attack-on-u-s-for-40d177e5e94a.html",
       "captured": true,
-      "capture_title": "伊朗对美军发动导弹突袭 - WSJ",
+      "capture_title": "伊朗对美军发动导弹突袭",
       "error": ""
     },
     {
-      "title": "对华担忧升温拖累美光股价重挫，或创11年来最差单月跌幅",
+      "title": "美联储议息会议三大看点前瞻",
+      "summary": "市场预期利率将维持不变，但美联储主席沃什的缄默态度使议息会议更难预测。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%81%94%E5%82%A8%E8%AE%AE%E6%81%AF%E4%BC%9A%E8%AE%AE%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9%E5%89%8D%E7%9E%BB-de9b04b3",
+      "guid": "WP-WSJS-0003771698",
+      "pub_date": "Wed, 29 Jul 2026 03:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-61523006?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e8-81-94-e5-82-a8-e8-ae-ae-e6-81-af-e4--f99459f2bb08.html",
+      "captured": true,
+      "capture_title": "美联储议息会议三大看点前瞻 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "对华担忧升温拖累美光股价重挫，或创11年来最大单月跌幅",
       "summary": "随着亚洲市场的最新动态波及海外，美光科技、闪迪等美国芯片股周二延续了大幅下跌的走势。",
       "link": "https://cn.wsj.com/articles/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-d2625e1d",
       "guid": "WP-WSJS-0003771194",
@@ -37,19 +49,19 @@
       "image_url": "https://images.mktw.net/im-00348993?size=1.44&width=1280",
       "snapshot": "articles/microns-stock-sinks-toward-worst-monthly-drop-in-64327ab1899c.html",
       "captured": true,
-      "capture_title": "对华担忧升温拖累美光股价重挫，或创11年来最差单月跌幅 - WSJ",
+      "capture_title": "对华担忧升温拖累美光股价重挫，或创11年来最大单月跌幅",
       "error": ""
     },
     {
-      "title": "沃什如愿迎来美联储“内部良性争论”",
-      "summary": "这位新任主席引发了一场关于美联储运作方式的辩论，这可能会考验他在美国经济问题上谨慎表态的做法。",
-      "link": "https://cn.wsj.com/articles/kevin-warsh-fed-chair-first-two-months-b034c374",
-      "guid": "WP-WSJS-0003768312",
-      "pub_date": "Tue, 28 Jul 2026 03:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-16779760?size=1.499&width=1280",
-      "snapshot": "articles/kevin-warsh-fed-chair-first-two-months-b034c374-524e9814077b.html",
+      "title": "日本熊本地震致商场坍塌；死亡人数升至13人",
+      "summary": "周二，日本南部发生强烈地震，震中位于科技重镇熊本县，台积电在此设有一家工厂。该地区已有逾20万人接到疏散指令。",
+      "link": "https://cn.wsj.com/articles/japanquake-leads-to-mall-collapse-trapping-people-inside-4f27fb6b",
+      "guid": "WP-WSJS-0003771129",
+      "pub_date": "Wed, 29 Jul 2026 02:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-30593949?size=1.78&width=1280",
+      "snapshot": "articles/japanquake-leads-to-mall-collapse-trapping-peopl-9ea4f6b3396d.html",
       "captured": true,
-      "capture_title": "沃什如愿迎来美联储“内部良性争论”",
+      "capture_title": "日本熊本地震致商场坍塌；死亡人数升至13人",
       "error": ""
     },
     {
@@ -65,18 +77,6 @@
       "error": ""
     },
     {
-      "title": "日本熊本地震致商场坍塌，有人员被困",
-      "summary": "日本南部周二发生6.8级强烈地震，一处永旺购物中心有人员被困。台积电在熊本县设厂，已疏散所有人员。",
-      "link": "https://cn.wsj.com/articles/japanquake-leads-to-mall-collapse-trapping-people-inside-4f27fb6b",
-      "guid": "WP-WSJS-0003771129",
-      "pub_date": "Tue, 28 Jul 2026 23:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-30593949?size=1.78&width=1280",
-      "snapshot": "articles/japanquake-leads-to-mall-collapse-trapping-peopl-9ea4f6b3396d.html",
-      "captured": true,
-      "capture_title": "日本熊本地震致商场坍塌，有人员被困 - WSJ",
-      "error": ""
-    },
-    {
       "title": "盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系",
       "summary": "特朗普施压卫生部长继续调查疫苗与自闭症的关联性，《华尔街日报》梳理重要看点。",
       "link": "https://cn.wsj.com/articles/the-key-points-of-tension-between-trump-and-rfk-jr-over-vaccines-6dfeb815",
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-42569060?size=1.501&width=1280",
       "snapshot": "articles/the-key-points-of-tension-between-trump-and-rfk--16dc6f2cb4e4.html",
       "captured": true,
-      "capture_title": "盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系 - WSJ",
+      "capture_title": "盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系",
       "error": ""
     },
     {
@@ -97,7 +97,19 @@
       "image_url": "https://images.wsj.net/im-84397782?size=1.5&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e8-bf-bd-e6-b1-82ai-e8-87-aa-e-3ea4631590a0.html",
       "captured": true,
-      "capture_title": "中国追求AI自主，股市却呈现另一种现实 - WSJ",
+      "capture_title": "中国追求AI自主，股市却呈现另一种现实",
+      "error": ""
+    },
+    {
+      "title": "针对Anthropic的抵制情绪正在硅谷积聚",
+      "summary": "这家AI先驱正面临来自初创公司创始人和研究人员日益加剧的不信任，原因在于其竞争策略、安全防护措施以及对开放权重模型缺乏支持。",
+      "link": "https://cn.wsj.com/articles/%E9%92%88%E5%AF%B9anthropic%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E6%AD%A3%E5%9C%A8%E7%A1%85%E8%B0%B7%E7%A7%AF%E8%81%9A-27b264c1",
+      "guid": "WP-WSJS-0003771665",
+      "pub_date": "Wed, 29 Jul 2026 03:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-91528247?size=1.501&width=1280",
+      "snapshot": "articles/e9-92-88-e5-af-b9anthropic-e7-9a-84-e6-8a-b5-e5--d6f1c28a9fc3.html",
+      "captured": true,
+      "capture_title": "针对Anthropic的抵制情绪正在硅谷积聚 - WSJ",
       "error": ""
     },
     {
@@ -109,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-29595526?size=1.501&width=1280",
       "snapshot": "articles/ai-e6-95-b0-e6-8d-ae-e4-b8-ad-e5-bf-83-e8-9e-8d--b3e092cf09f3.html",
       "captured": true,
-      "capture_title": "AI数据中心融资越来越贵，看看Meta就知道 - WSJ",
+      "capture_title": "AI数据中心融资越来越贵，看看Meta就知道",
       "error": ""
     },
     {
@@ -125,39 +137,15 @@
       "error": ""
     },
     {
-      "title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
-      "summary": "随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b",
-      "guid": "WP-WSJS-0003771148",
-      "pub_date": "Tue, 28 Jul 2026 23:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-93390603?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-a7-e5-8f-91-e4-bc-8a-e6-9c-97--e6-88-98-e4-141fc74605c8.html",
+      "title": "DSA的上升势头在民主党内引发恐慌",
+      "summary": "DSA曾是边缘派别，如今却利用民众的不满情绪，施展出令人惊讶的政治力量。主流民主党人从中看到了“根本性威胁”。",
+      "link": "https://cn.wsj.com/articles/democratic-socialists-mamdani-midterms-party-4e2d48d6",
+      "guid": "WP-WSJS-0003771821",
+      "pub_date": "Wed, 29 Jul 2026 05:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-76077958?size=1.5&width=1280",
+      "snapshot": "articles/democratic-socialists-mamdani-midterms-party-4e2-6cdfd4aa6de1.html",
       "captured": true,
-      "capture_title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
-      "summary": "降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。",
-      "link": "https://cn.wsj.com/articles/trump-apple-micron-china-chips-ccb1c333",
-      "guid": "WP-WSJS-0003765550",
-      "pub_date": "Mon, 27 Jul 2026 04:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-56511766?size=1.501&width=1280",
-      "snapshot": "articles/trump-apple-micron-china-chips-ccb1c333-b06195873c9d.html",
-      "captured": true,
-      "capture_title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
-      "error": ""
-    },
-    {
-      "title": "科技巨头股价反映出堪称奇迹的成本预期",
-      "summary": "分析师的模型假定企业将实现新的效率提升，但其中一些数字看上去好得令人难以置信。",
-      "link": "https://cn.wsj.com/articles/big-tech-stocks-are-pricing-in-a-miracle-on-costs-77999648",
-      "guid": "WP-WSJS-0003768828",
-      "pub_date": "Tue, 28 Jul 2026 11:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-16766542?size=1.499&width=1280",
-      "snapshot": "articles/big-tech-stocks-are-pricing-in-a-miracle-on-cost-fb9dda0c8a0b.html",
-      "captured": true,
-      "capture_title": "科技巨头股价反映出堪称奇迹的成本预期",
+      "capture_title": "DSA的上升势头在民主党内引发恐慌 - WSJ",
       "error": ""
     },
     {
@@ -173,6 +161,42 @@
       "error": ""
     },
     {
+      "title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
+      "summary": "随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。",
+      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b",
+      "guid": "WP-WSJS-0003771148",
+      "pub_date": "Tue, 28 Jul 2026 23:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-93390603?size=1.501&width=1280",
+      "snapshot": "articles/e5-a4-a7-e5-8f-91-e4-bc-8a-e6-9c-97--e6-88-98-e4-141fc74605c8.html",
+      "captured": true,
+      "capture_title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
+      "error": ""
+    },
+    {
+      "title": "福特销量与收入双双下滑，这家车企却并不担忧",
+      "summary": "高利润率越野SUV销量为福特汽车第二财季业绩提供了支撑，该公司还上调了全年利润预期。",
+      "link": "https://cn.wsj.com/articles/fords-sales-and-revenue-are-down-the-automaker-isnt-sweating-it-00405dff",
+      "guid": "WP-WSJS-0003771700",
+      "pub_date": "Wed, 29 Jul 2026 03:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-89926822?size=1.571&width=1280",
+      "snapshot": "articles/fords-sales-and-revenue-are-down-the-automaker-i-930f739ce4f0.html",
+      "captured": true,
+      "capture_title": "福特销量与收入双双下滑，这家车企却并不担忧 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "摩根士丹利房贷员工被施压为富裕客户批贷",
+      "summary": "房贷部门员工在质疑或拒绝贷款时面临强烈反对；摩根士丹利称并未“降低贷款审核标准”。",
+      "link": "https://cn.wsj.com/articles/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%E6%88%BF%E8%B4%B7%E5%91%98%E5%B7%A5%E5%8F%97%E5%8E%8B%E4%B8%BA%E5%AF%8C%E8%A3%95%E5%AE%A2%E6%88%B7%E6%89%B9%E8%B4%B7-8d4f3dce",
+      "guid": "WP-WSJS-0003771746",
+      "pub_date": "Wed, 29 Jul 2026 04:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-25939058?size=1.499&width=1280",
+      "snapshot": "articles/e6-91-a9-e6-a0-b9-e5-a3-ab-e4-b8-b9-e5-88-a9-e6--1065df9147e1.html",
+      "captured": true,
+      "capture_title": "摩根士丹利房贷员工被施压为富裕客户批贷 - WSJ",
+      "error": ""
+    },
+    {
       "title": "Visa将裁员2,600人，以顺应支付行业变局",
       "summary": "受影响的职位大部分集中在技术和产品团队，约占Visa员工总数的7%。",
       "link": "https://cn.wsj.com/articles/visa%E5%B0%86%E8%A3%81%E5%91%982-600%E4%BA%BA-%E4%BB%A5%E9%A1%BA%E5%BA%94%E6%94%AF%E4%BB%98%E8%A1%8C%E4%B8%9A%E5%8F%98%E5%B1%80-58e74218",
@@ -185,18 +209,6 @@
       "error": ""
     },
     {
-      "title": "在华销量暴跌后，保时捷拟再裁减5,000人",
-      "summary": "这是陷入困境的德国汽车业发出的最新警示信号。",
-      "link": "https://cn.wsj.com/articles/%E5%9C%A8%E5%8D%8E%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C%E5%90%8E-%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%8B%9F%E5%86%8D%E8%A3%81%E5%91%985-000%E4%BA%BA-5c56fa69",
-      "guid": "WP-WSJS-0003767870",
-      "pub_date": "Mon, 27 Jul 2026 23:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-07986397?size=1.501&width=1280",
-      "snapshot": "articles/e5-9c-a8-e5-8d-8e-e9-94-80-e9-87-8f-e6-9a-b4-e8--3367400dff61.html",
-      "captured": true,
-      "capture_title": "在华销量暴跌后，保时捷拟再裁减5,000人",
-      "error": ""
-    },
-    {
       "title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
       "summary": "这项旨在帮助控制保费的补贴计划将在2026年后终止，此举可能导致许多老年人明年面临更高的处方药保险费率。",
       "link": "https://cn.wsj.com/articles/trump-administration-to-end-medicare-drug-plan-subsidy-2b4b3e6f",
@@ -205,19 +217,19 @@
       "image_url": "https://images.wsj.net/im-26625530?size=1.501&width=1280",
       "snapshot": "articles/trump-administration-to-end-medicare-drug-plan-s-ea898a15cad4.html",
       "captured": true,
-      "capture_title": "特朗普政府将终止美国联邦医疗保险药物计划补贴 - WSJ",
+      "capture_title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
       "error": ""
     },
     {
-      "title": "失控模型与中国威胁：华盛顿陷入AI安全大恐慌",
-      "summary": "华盛顿要求约束AI的呼声愈演愈烈，科技行业内部则在为“谁来握紧缰绳”争夺主导权。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%B1%E6%8E%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%99%B7%E5%85%A5ai%E5%AE%89%E5%85%A8%E5%A4%A7%E6%81%90%E6%85%8C-82140f90",
-      "guid": "WP-WSJS-0003765279",
-      "pub_date": "Mon, 27 Jul 2026 01:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-55144883?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-b1-e6-8e-a7-e6-a8-a1-e5-9e-8b-e4-b8-8e-e4--48c310b8a07f.html",
+      "title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
+      "summary": "降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。",
+      "link": "https://cn.wsj.com/articles/trump-apple-micron-china-chips-ccb1c333",
+      "guid": "WP-WSJS-0003765550",
+      "pub_date": "Mon, 27 Jul 2026 04:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-56511766?size=1.501&width=1280",
+      "snapshot": "articles/trump-apple-micron-china-chips-ccb1c333-b06195873c9d.html",
       "captured": true,
-      "capture_title": "失控模型与中国威胁：华盛顿陷入AI安全大恐慌",
+      "capture_title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
       "error": ""
     },
     {
@@ -290,6 +302,54 @@
       "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
       "captured": true,
       "capture_title": "在美国，课间休息正在消失，家长们行动了",
+      "error": ""
+    },
+    {
+      "title": "沃什如愿迎来美联储“内部良性争论”",
+      "summary": "这位新任主席引发了一场关于美联储运作方式的辩论，这可能会考验他在美国经济问题上谨慎表态的做法。",
+      "link": "https://cn.wsj.com/articles/kevin-warsh-fed-chair-first-two-months-b034c374",
+      "guid": "WP-WSJS-0003768312",
+      "pub_date": "Tue, 28 Jul 2026 03:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-16779760?size=1.499&width=1280",
+      "snapshot": "articles/kevin-warsh-fed-chair-first-two-months-b034c374-524e9814077b.html",
+      "captured": true,
+      "capture_title": "沃什如愿迎来美联储“内部良性争论”",
+      "error": ""
+    },
+    {
+      "title": "科技巨头股价反映出堪称奇迹的成本预期",
+      "summary": "分析师的模型假定企业将实现新的效率提升，但其中一些数字看上去好得令人难以置信。",
+      "link": "https://cn.wsj.com/articles/big-tech-stocks-are-pricing-in-a-miracle-on-costs-77999648",
+      "guid": "WP-WSJS-0003768828",
+      "pub_date": "Tue, 28 Jul 2026 11:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-16766542?size=1.499&width=1280",
+      "snapshot": "articles/big-tech-stocks-are-pricing-in-a-miracle-on-cost-fb9dda0c8a0b.html",
+      "captured": true,
+      "capture_title": "科技巨头股价反映出堪称奇迹的成本预期",
+      "error": ""
+    },
+    {
+      "title": "在华销量暴跌后，保时捷拟再裁减5,000人",
+      "summary": "这是陷入困境的德国汽车业发出的最新警示信号。",
+      "link": "https://cn.wsj.com/articles/%E5%9C%A8%E5%8D%8E%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C%E5%90%8E-%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%8B%9F%E5%86%8D%E8%A3%81%E5%91%985-000%E4%BA%BA-5c56fa69",
+      "guid": "WP-WSJS-0003767870",
+      "pub_date": "Mon, 27 Jul 2026 23:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-07986397?size=1.501&width=1280",
+      "snapshot": "articles/e5-9c-a8-e5-8d-8e-e9-94-80-e9-87-8f-e6-9a-b4-e8--3367400dff61.html",
+      "captured": true,
+      "capture_title": "在华销量暴跌后，保时捷拟再裁减5,000人",
+      "error": ""
+    },
+    {
+      "title": "失控模型与中国威胁：华盛顿陷入AI安全大恐慌",
+      "summary": "华盛顿要求约束AI的呼声愈演愈烈，科技行业内部则在为“谁来握紧缰绳”争夺主导权。",
+      "link": "https://cn.wsj.com/articles/%E5%A4%B1%E6%8E%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%99%B7%E5%85%A5ai%E5%AE%89%E5%85%A8%E5%A4%A7%E6%81%90%E6%85%8C-82140f90",
+      "guid": "WP-WSJS-0003765279",
+      "pub_date": "Mon, 27 Jul 2026 01:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-55144883?size=1.501&width=1280",
+      "snapshot": "articles/e5-a4-b1-e6-8e-a7-e6-a8-a1-e5-9e-8b-e4-b8-8e-e4--48c310b8a07f.html",
+      "captured": true,
+      "capture_title": "失控模型与中国威胁：华盛顿陷入AI安全大恐慌",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e4-bc-8a-e6-9c-97-e5-8d-b1-e6-9c-ba-e5-8a-a0-e5--cb37b73abaca.html",
       "captured": true,
       "capture_title": "伊朗危机加剧，美联储加息概率上升，美股牛市面临考验",
-      "error": ""
-    },
-    {
-      "title": "谷歌云业务收入增长82%，但巨额AI支出致股价大跌",
-      "summary": "Alphabet将预估资本支出上调至1,950亿至2,050亿美元。尽管业绩良好，但投资者对其在AI基础设施上不断膨胀的支出以及负自由现金流忧心忡忡。",
-      "link": "https://cn.wsj.com/articles/alphabet-googl-q2-earnings-report-2026-stock-c9511fa5",
-      "guid": "WP-WSJS-0003756434",
-      "pub_date": "Thu, 23 Jul 2026 01:10:00 GMT",
-      "image_url": "https://images.wsj.net/im-12380590?size=1.333&width=1280",
-      "snapshot": "articles/alphabet-googl-q2-earnings-report-2026-stock-c95-72163cbe8152.html",
-      "captured": true,
-      "capture_title": "谷歌云业务收入增长82%，但巨额AI支出致股价大跌",
-      "error": ""
-    },
-    {
-      "title": "美国贸易代表格里尔：10%全球关税即将到期，替代方案尚未就绪",
-      "summary": "美国贸易代表不予说明提议的新关税能否在周五的最后期限前敲定。此外，格里尔还称《美加墨协定》的谈判可能持续至明年。",
-      "link": "https://cn.wsj.com/articles/u-s-trade-chief-work-remains-on-tariffs-to-replace-expiring-10-duty-cffeb18b",
-      "guid": "WP-WSJS-0003756530",
-      "pub_date": "Wed, 22 Jul 2026 23:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-29985986?size=1.5012106537530265&width=1280",
-      "snapshot": "articles/u-s-trade-chief-work-remains-on-tariffs-to-repla-219aa2ad9b04.html",
-      "captured": true,
-      "capture_title": "美国贸易代表格里尔：10%全球关税即将到期，替代方案尚未就绪",
-      "error": ""
-    },
-    {
-      "title": "沙特核协议：你需要了解的五件事",
-      "summary": "美国已同意向沙特提供一个民用核能项目，该项目可能包括在沙特境内进行铀浓缩。",
-      "link": "https://cn.wsj.com/articles/saudi-nuclear-deal-five-things-to-know-42166997",
-      "guid": "WP-WSJS-0003756591",
-      "pub_date": "Wed, 22 Jul 2026 23:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-03020572?size=1.501&width=1280",
-      "snapshot": "articles/saudi-nuclear-deal-five-things-to-know-42166997-b1e5271742d5.html",
-      "captured": true,
-      "capture_title": "沙特核协议：你需要了解的五件事",
-      "error": ""
-    },
-    {
-      "title": "中国车企欧洲6月销量激增",
-      "summary": "6月，欧洲纯电动汽车市场增长了51%。尽管老牌欧洲车企的绝对销量远超中国竞争对手，但比亚迪等中国车企的增长率要高得多。",
-      "link": "https://cn.wsj.com/articles/chinese-carmakers-log-surge-in-european-monthly-sales-28ca5186",
-      "guid": "WP-WSJS-0003757158",
-      "pub_date": "Thu, 23 Jul 2026 05:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-09672490?size=1.499&width=1280",
-      "snapshot": "articles/chinese-carmakers-log-surge-in-european-monthly--c6dfe7244e48.html",
-      "captured": true,
-      "capture_title": "中国车企欧洲6月销量激增",
-      "error": ""
-    },
-    {
-      "title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
-      "summary": "OpenAI周二披露，其正在测试的两个人工智能系统突破了“沙盒”环境，通过黑客手段连上互联网，并入侵了Hugging Face。",
-      "link": "https://cn.wsj.com/articles/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-57f662f6",
-      "guid": "WP-WSJS-0003753717",
-      "pub_date": "Wed, 22 Jul 2026 04:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-76172973?size=1.499&width=1280",
-      "snapshot": "articles/openai-models-escaped-and-hacked-a-company-in-cy-bc0ea6021065.html",
-      "captured": true,
-      "capture_title": "OpenAI安全测试中模型“越狱”，突破沙盒发起真实网络攻击",
       "error": ""
     }
   ]

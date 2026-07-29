@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 02:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 05:57:28 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 02:56:16 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 05:57:28 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,18 +42,25 @@
             <pubDate>Wed, 29 Jul 2026 02:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[对华担忧升温拖累美光股价重挫，或创11年来最差单月跌幅]]></title>
+            <title><![CDATA[美联储议息会议三大看点前瞻]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61523006?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>市场预期利率将维持不变，但美联储主席沃什的缄默态度使议息会议更难预测。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%81%94%E5%82%A8%E8%AE%AE%E6%81%AF%E4%BC%9A%E8%AE%AE%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9%E5%89%8D%E7%9E%BB-de9b04b3</link>
+            <guid isPermaLink="false">WP-WSJS-0003771698</guid>
+            <pubDate>Wed, 29 Jul 2026 03:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对华担忧升温拖累美光股价重挫，或创11年来最大单月跌幅]]></title>
             <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-00348993?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着亚洲市场的最新动态波及海外，美光科技、闪迪等美国芯片股周二延续了大幅下跌的走势。</p>]]></description>
             <link>https://cn.wsj.com/articles/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-d2625e1d</link>
             <guid isPermaLink="false">WP-WSJS-0003771194</guid>
             <pubDate>Tue, 28 Jul 2026 23:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沃什如愿迎来美联储“内部良性争论”]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-16779760?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位新任主席引发了一场关于美联储运作方式的辩论，这可能会考验他在美国经济问题上谨慎表态的做法。</p>]]></description>
-            <link>https://cn.wsj.com/articles/kevin-warsh-fed-chair-first-two-months-b034c374</link>
-            <guid isPermaLink="false">WP-WSJS-0003768312</guid>
-            <pubDate>Tue, 28 Jul 2026 03:37:00 GMT</pubDate>
+            <title><![CDATA[日本熊本地震致商场坍塌；死亡人数升至13人]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-30593949?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周二，日本南部发生强烈地震，震中位于科技重镇熊本县，台积电在此设有一家工厂。该地区已有逾20万人接到疏散指令。</p>]]></description>
+            <link>https://cn.wsj.com/articles/japanquake-leads-to-mall-collapse-trapping-people-inside-4f27fb6b</link>
+            <guid isPermaLink="false">WP-WSJS-0003771129</guid>
+            <pubDate>Wed, 29 Jul 2026 02:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[从斥责到赞赏：特朗普对泽连斯基态度缘何转变？]]></title>
@@ -61,13 +68,6 @@
             <link>https://cn.wsj.com/articles/%E4%BB%8E%E6%96%A5%E8%B4%A3%E5%88%B0%E8%B5%9E%E8%B5%8F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%80%81%E5%BA%A6%E7%BC%98%E4%BD%95%E8%BD%AC%E5%8F%98-49fa1b2b</link>
             <guid isPermaLink="false">WP-WSJS-0003768308</guid>
             <pubDate>Tue, 28 Jul 2026 03:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本熊本地震致商场坍塌，有人员被困]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-30593949?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本南部周二发生6.8级强烈地震，一处永旺购物中心有人员被困。台积电在熊本县设厂，已疏散所有人员。</p>]]></description>
-            <link>https://cn.wsj.com/articles/japanquake-leads-to-mall-collapse-trapping-people-inside-4f27fb6b</link>
-            <guid isPermaLink="false">WP-WSJS-0003771129</guid>
-            <pubDate>Tue, 28 Jul 2026 23:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系]]></title>
@@ -84,6 +84,13 @@
             <pubDate>Wed, 29 Jul 2026 02:47:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[针对Anthropic的抵制情绪正在硅谷积聚]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-91528247?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家AI先驱正面临来自初创公司创始人和研究人员日益加剧的不信任，原因在于其竞争策略、安全防护措施以及对开放权重模型缺乏支持。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%92%88%E5%AF%B9anthropic%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E6%AD%A3%E5%9C%A8%E7%A1%85%E8%B0%B7%E7%A7%AF%E8%81%9A-27b264c1</link>
+            <guid isPermaLink="false">WP-WSJS-0003771665</guid>
+            <pubDate>Wed, 29 Jul 2026 03:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI数据中心融资越来越贵，看看Meta就知道]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29595526?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>今年大型科技公司的发债狂潮已让债券投资者陷入审美疲劳，并推高了整个科技行业的资金成本。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%9E%8D%E8%B5%84%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5-%E7%9C%8B%E7%9C%8Bmeta%E5%B0%B1%E7%9F%A5%E9%81%93-23bccc9b</link>
@@ -98,25 +105,11 @@
             <pubDate>Mon, 27 Jul 2026 06:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93390603?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b</link>
-            <guid isPermaLink="false">WP-WSJS-0003771148</guid>
-            <pubDate>Tue, 28 Jul 2026 23:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果与美光掀起中国芯片游说战，特朗普陷入两难]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56511766?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-apple-micron-china-chips-ccb1c333</link>
-            <guid isPermaLink="false">WP-WSJS-0003765550</guid>
-            <pubDate>Mon, 27 Jul 2026 04:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科技巨头股价反映出堪称奇迹的成本预期]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-16766542?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>分析师的模型假定企业将实现新的效率提升，但其中一些数字看上去好得令人难以置信。</p>]]></description>
-            <link>https://cn.wsj.com/articles/big-tech-stocks-are-pricing-in-a-miracle-on-costs-77999648</link>
-            <guid isPermaLink="false">WP-WSJS-0003768828</guid>
-            <pubDate>Tue, 28 Jul 2026 11:17:00 GMT</pubDate>
+            <title><![CDATA[DSA的上升势头在民主党内引发恐慌]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-76077958?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>DSA曾是边缘派别，如今却利用民众的不满情绪，施展出令人惊讶的政治力量。主流民主党人从中看到了“根本性威胁”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/democratic-socialists-mamdani-midterms-party-4e2d48d6</link>
+            <guid isPermaLink="false">WP-WSJS-0003771821</guid>
+            <pubDate>Wed, 29 Jul 2026 05:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shein披露美国联邦贸易委员会正在调查其美国业务]]></title>
@@ -126,18 +119,32 @@
             <pubDate>Tue, 28 Jul 2026 23:22:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93390603?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b</link>
+            <guid isPermaLink="false">WP-WSJS-0003771148</guid>
+            <pubDate>Tue, 28 Jul 2026 23:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特销量与收入双双下滑，这家车企却并不担忧]]></title>
+            <description><![CDATA[<img width="1280" height="815" src="https://images.wsj.net/im-89926822?size=1.571&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高利润率越野SUV销量为福特汽车第二财季业绩提供了支撑，该公司还上调了全年利润预期。</p>]]></description>
+            <link>https://cn.wsj.com/articles/fords-sales-and-revenue-are-down-the-automaker-isnt-sweating-it-00405dff</link>
+            <guid isPermaLink="false">WP-WSJS-0003771700</guid>
+            <pubDate>Wed, 29 Jul 2026 03:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利房贷员工被施压为富裕客户批贷]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-25939058?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>房贷部门员工在质疑或拒绝贷款时面临强烈反对；摩根士丹利称并未“降低贷款审核标准”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%E6%88%BF%E8%B4%B7%E5%91%98%E5%B7%A5%E5%8F%97%E5%8E%8B%E4%B8%BA%E5%AF%8C%E8%A3%95%E5%AE%A2%E6%88%B7%E6%89%B9%E8%B4%B7-8d4f3dce</link>
+            <guid isPermaLink="false">WP-WSJS-0003771746</guid>
+            <pubDate>Wed, 29 Jul 2026 04:15:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Visa将裁员2,600人，以顺应支付行业变局]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44385888?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>受影响的职位大部分集中在技术和产品团队，约占Visa员工总数的7%。</p>]]></description>
             <link>https://cn.wsj.com/articles/visa%E5%B0%86%E8%A3%81%E5%91%982-600%E4%BA%BA-%E4%BB%A5%E9%A1%BA%E5%BA%94%E6%94%AF%E4%BB%98%E8%A1%8C%E4%B8%9A%E5%8F%98%E5%B1%80-58e74218</link>
             <guid isPermaLink="false">WP-WSJS-0003771131</guid>
             <pubDate>Tue, 28 Jul 2026 23:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在华销量暴跌后，保时捷拟再裁减5,000人]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-07986397?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是陷入困境的德国汽车业发出的最新警示信号。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%9C%A8%E5%8D%8E%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C%E5%90%8E-%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%8B%9F%E5%86%8D%E8%A3%81%E5%91%985-000%E4%BA%BA-5c56fa69</link>
-            <guid isPermaLink="false">WP-WSJS-0003767870</guid>
-            <pubDate>Mon, 27 Jul 2026 23:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普政府将终止美国联邦医疗保险药物计划补贴]]></title>
@@ -147,11 +154,11 @@
             <pubDate>Wed, 29 Jul 2026 02:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[失控模型与中国威胁：华盛顿陷入AI安全大恐慌]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-55144883?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>华盛顿要求约束AI的呼声愈演愈烈，科技行业内部则在为“谁来握紧缰绳”争夺主导权。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%A4%B1%E6%8E%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%99%B7%E5%85%A5ai%E5%AE%89%E5%85%A8%E5%A4%A7%E6%81%90%E6%85%8C-82140f90</link>
-            <guid isPermaLink="false">WP-WSJS-0003765279</guid>
-            <pubDate>Mon, 27 Jul 2026 01:23:00 GMT</pubDate>
+            <title><![CDATA[苹果与美光掀起中国芯片游说战，特朗普陷入两难]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56511766?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-apple-micron-china-chips-ccb1c333</link>
+            <guid isPermaLink="false">WP-WSJS-0003765550</guid>
+            <pubDate>Mon, 27 Jul 2026 04:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[谁是社媒营销新宠？只有几百粉丝的素人]]></title>
