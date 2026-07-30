@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:52:08.072645+00:00",
+  "generated_at": "2026-07-30T05:52:25.833231+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -21,11 +21,11 @@
       "summary": "周三晚间，美军开始实施针对伊朗的打击行动。此次打击行动令即将取得外交突破的希望化为泡影。",
       "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%91%A8%E4%BA%8C%E7%9A%84%E7%AA%81%E8%A2%AD%E8%A1%8C%E5%8A%A8%E5%AE%9E%E6%96%BD%E6%8A%A5%E5%A4%8D-e2ba1f11",
       "guid": "WP-WSJS-0003775511",
-      "pub_date": "Thu, 30 Jul 2026 02:03:00 GMT",
+      "pub_date": "Thu, 30 Jul 2026 04:15:00 GMT",
       "image_url": "https://images.wsj.net/im-21899088?size=1.499&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-af-b9-e4-bc-8a-e6-9c-97-e5--8ebdc0a49458.html",
       "captured": true,
-      "capture_title": "美国对伊朗周二的突袭行动实施报复 - WSJ",
+      "capture_title": "美国对伊朗周二的突袭行动实施报复",
       "error": ""
     },
     {
@@ -37,103 +37,43 @@
       "image_url": "https://images.wsj.net/im-37675591?size=1.499&width=1280",
       "snapshot": "articles/fed-holds-rates-steady-but-three-officials-voted-a89b7e9da274.html",
       "captured": true,
-      "capture_title": "美联储维持利率不变，但有三名官员投票支持加息 - WSJ",
+      "capture_title": "美联储维持利率不变，但有三名官员投票支持加息",
       "error": ""
     },
     {
-      "title": "SK海力士季度利润高达640亿美元，为何仍令芯片股投资者失望？",
+      "title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
       "summary": "周三，存储芯片制造商SK海力士公布的季度利润达到创纪录的640亿美元，但股价仍下跌近10%。",
       "link": "https://cn.wsj.com/articles/even-64-billion-in-quarterly-profit-is-a-disappointment-for-chip-investors-5a8ab57e",
       "guid": "WP-WSJS-0003775177",
-      "pub_date": "Thu, 30 Jul 2026 00:20:00 GMT",
+      "pub_date": "Thu, 30 Jul 2026 03:46:00 GMT",
       "image_url": "https://images.wsj.net/im-98440283?size=1.501&width=1280",
       "snapshot": "articles/even-64-billion-in-quarterly-profit-is-a-disappo-461958d305d7.html",
       "captured": true,
-      "capture_title": "SK海力士季度利润高达640亿美元，为何仍令芯片股投资者失望？ - WSJ",
+      "capture_title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
       "error": ""
     },
     {
-      "title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意",
-      "summary": "在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。",
-      "link": "https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20",
-      "guid": "WP-WSJS-0003775557",
-      "pub_date": "Thu, 30 Jul 2026 02:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-70123212?size=1.501&width=1280",
-      "snapshot": "articles/meta-stumbles-as-tech-investors-demand-better-an-fea878f366da.html",
-      "captured": true,
-      "capture_title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "微软利润激增31%，Azure云业务财年收入首破千亿美元大关",
-      "summary": "在截至6月份的财季，微软收入增长18%，达到900亿美元。这标志着该公司AI收入增长正在提速，并将继续在数据中心方面投入资金。",
-      "link": "https://cn.wsj.com/articles/microsoft-earnings-44fc4026",
-      "guid": "WP-WSJS-0003775163",
-      "pub_date": "Thu, 30 Jul 2026 00:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-08585800?size=1.501&width=1280",
-      "snapshot": "articles/microsoft-earnings-44fc4026-27900afc7796.html",
-      "captured": true,
-      "capture_title": "微软利润激增31%，Azure云业务财年收入首破千亿美元大关 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "福奇出席新冠听证会，多次援引第五修正案保持沉默",
-      "summary": "近期公开的私人日记为其应对这场危机的方式提供了新视角，福奇也因此面临参议员的质询。",
+      "title": "福奇出席新冠听证会，100多次援引第五修正案保持沉默",
+      "summary": "福奇在疫情期间的日记最近被公开，让外界对他处理这场危机的方式有了新认识，他也因此面临参议员的的尖锐质询。",
       "link": "https://cn.wsj.com/articles/%E7%A6%8F%E5%A5%87%E5%87%BA%E5%B8%AD%E6%96%B0%E5%86%A0%E5%90%AC%E8%AF%81%E4%BC%9A-%E5%A4%9A%E6%AC%A1%E6%8F%B4%E5%BC%95%E7%AC%AC%E4%BA%94%E4%BF%AE%E6%AD%A3%E6%A1%88%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98-d95e5d7d",
       "guid": "WP-WSJS-0003775139",
-      "pub_date": "Wed, 29 Jul 2026 23:58:00 GMT",
+      "pub_date": "Thu, 30 Jul 2026 02:52:00 GMT",
       "image_url": "https://images.wsj.net/im-52778895?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e7-a6-8f-e5-a5-87-e5-87-ba-e5-b8-ad-e6-96-b0-e5--8d53da1e1a92.html",
       "captured": true,
-      "capture_title": "福奇出席新冠听证会，多次援引第五修正案保持沉默 - WSJ",
+      "capture_title": "福奇出席新冠听证会，100多次援引第五修正案保持沉默 - WSJ",
       "error": ""
     },
     {
-      "title": "中国在与美国的太空竞赛中缩小卫星领域差距",
-      "summary": "北京方面逐步削弱美国的太空实力，并更清晰地掌握美军动向。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B%E4%B8%AD%E7%BC%A9%E5%B0%8F%E5%8D%AB%E6%98%9F%E9%A2%86%E5%9F%9F%E5%B7%AE%E8%B7%9D-515c775f",
-      "guid": "WP-WSJS-0003775422",
-      "pub_date": "Thu, 30 Jul 2026 02:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-43966282?size=2&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-9c-a8-e4-b8-8e-e7-be-8e-e5--141c1fbeab95.html",
+      "title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇",
+      "summary": "补充弹药库存与提升造船产能是特朗普政府的重中之重。爱国者导弹合同总值目前已近590亿美元。",
+      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%89%A9%E5%A4%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E8%AE%A2%E5%8D%95%E8%87%B3%E8%BF%91590%E4%BA%BF%E7%BE%8E%E5%85%83-62cc132f",
+      "guid": "WP-WSJS-0003775106",
+      "pub_date": "Thu, 30 Jul 2026 01:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-35784498?size=1.501&width=1280",
+      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-89-a9-e5--7e5c594ba448.html",
       "captured": true,
-      "capture_title": "中国在与美国的太空竞赛中缩小卫星领域差距 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中国找到了获取中东石油的途径",
-      "summary": "尽管中东两条航运咽喉要道因战事受阻，但中国与伊朗及其敌对国家均保持稳定伙伴关系，这让中国找到办法，继续从中东地区进口石油。",
-      "link": "https://cn.wsj.com/articles/china-iran-us-war-5579963a",
-      "guid": "WP-WSJS-0003771587",
-      "pub_date": "Wed, 29 Jul 2026 02:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-45857456?size=1.778&width=1280",
-      "snapshot": "articles/china-iran-us-war-5579963a-0f7d682d45ca.html",
-      "captured": true,
-      "capture_title": "中国找到了获取中东石油的途径",
-      "error": ""
-    },
-    {
-      "title": "针对Anthropic的抵制情绪正在硅谷积聚",
-      "summary": "这家AI先驱正面临来自初创公司创始人和研究人员日益加剧的不信任，原因在于其竞争策略、安全防护措施以及对开放权重模型缺乏支持。",
-      "link": "https://cn.wsj.com/articles/%E9%92%88%E5%AF%B9anthropic%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E6%AD%A3%E5%9C%A8%E7%A1%85%E8%B0%B7%E7%A7%AF%E8%81%9A-27b264c1",
-      "guid": "WP-WSJS-0003771665",
-      "pub_date": "Wed, 29 Jul 2026 03:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-91528247?size=1.501&width=1280",
-      "snapshot": "articles/e9-92-88-e5-af-b9anthropic-e7-9a-84-e6-8a-b5-e5--d6f1c28a9fc3.html",
-      "captured": true,
-      "capture_title": "针对Anthropic的抵制情绪正在硅谷积聚",
-      "error": ""
-    },
-    {
-      "title": "DSA的上升势头在民主党内引发恐慌",
-      "summary": "DSA曾是边缘派别，如今却利用民众的不满情绪，施展出令人惊讶的政治力量。主流民主党人从中看到了“根本性威胁”。",
-      "link": "https://cn.wsj.com/articles/democratic-socialists-mamdani-midterms-party-4e2d48d6",
-      "guid": "WP-WSJS-0003771821",
-      "pub_date": "Wed, 29 Jul 2026 05:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-76077958?size=1.5&width=1280",
-      "snapshot": "articles/democratic-socialists-mamdani-midterms-party-4e2-6cdfd4aa6de1.html",
-      "captured": true,
-      "capture_title": "DSA的上升势头在民主党内引发恐慌",
+      "capture_title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇",
       "error": ""
     },
     {
@@ -149,6 +89,66 @@
       "error": ""
     },
     {
+      "title": "中国在与美国的太空竞赛中缩小卫星领域差距",
+      "summary": "北京方面逐步削弱美国的太空实力，并更清晰地掌握美军动向。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B%E4%B8%AD%E7%BC%A9%E5%B0%8F%E5%8D%AB%E6%98%9F%E9%A2%86%E5%9F%9F%E5%B7%AE%E8%B7%9D-515c775f",
+      "guid": "WP-WSJS-0003775422",
+      "pub_date": "Thu, 30 Jul 2026 02:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-43966282?size=2&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-9c-a8-e4-b8-8e-e7-be-8e-e5--141c1fbeab95.html",
+      "captured": true,
+      "capture_title": "中国在与美国的太空竞赛中缩小卫星领域差距",
+      "error": ""
+    },
+    {
+      "title": "中国如何从大型石油公司的理想客户变成噩梦？",
+      "summary": "中国对自身石油消费的掌控力超出了所有人的想象，这将令石油公司的老板们感到不安。",
+      "link": "https://cn.wsj.com/articles/how-china-went-from-dream-customer-to-a-nightmare-for-big-oil-3637b2dd",
+      "guid": "WP-WSJS-0003775281",
+      "pub_date": "Thu, 30 Jul 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-31143927?size=1.778&width=1280",
+      "snapshot": "articles/how-china-went-from-dream-customer-to-a-nightmar-8df89cb6f82b.html",
+      "captured": true,
+      "capture_title": "中国如何从大型石油公司的理想客户变成噩梦？ - WSJ",
+      "error": ""
+    },
+    {
+      "title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意",
+      "summary": "在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。",
+      "link": "https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20",
+      "guid": "WP-WSJS-0003775557",
+      "pub_date": "Thu, 30 Jul 2026 02:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-70123212?size=1.501&width=1280",
+      "snapshot": "articles/meta-stumbles-as-tech-investors-demand-better-an-fea878f366da.html",
+      "captured": true,
+      "capture_title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意",
+      "error": ""
+    },
+    {
+      "title": "针对Anthropic的抵制情绪正在硅谷积聚",
+      "summary": "这家AI先驱正面临来自初创公司创始人和研究人员日益加剧的不信任，原因在于其竞争策略、安全防护措施以及对开放权重模型缺乏支持。",
+      "link": "https://cn.wsj.com/articles/%E9%92%88%E5%AF%B9anthropic%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E6%AD%A3%E5%9C%A8%E7%A1%85%E8%B0%B7%E7%A7%AF%E8%81%9A-27b264c1",
+      "guid": "WP-WSJS-0003771665",
+      "pub_date": "Wed, 29 Jul 2026 03:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-91528247?size=1.501&width=1280",
+      "snapshot": "articles/e9-92-88-e5-af-b9anthropic-e7-9a-84-e6-8a-b5-e5--d6f1c28a9fc3.html",
+      "captured": true,
+      "capture_title": "针对Anthropic的抵制情绪正在硅谷积聚",
+      "error": ""
+    },
+    {
+      "title": "JetZero翼身融合飞机设计能否挑战波音霸主地位？",
+      "summary": "美国初创公司JetZero正研发翼身融合客机Z4，试图打破波音在美国的垄断地位，并已获得美国进出口银行30亿美元的贷款支持。",
+      "link": "https://cn.wsj.com/articles/could-the-most-radical-plane-design-since-the-concorde-take-on-boeing-503bf9d3",
+      "guid": "WP-WSJS-0003775798",
+      "pub_date": "Thu, 30 Jul 2026 04:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-07396524?size=1.5&width=1280",
+      "snapshot": "articles/could-the-most-radical-plane-design-since-the-co-c8d70aa1bc7e.html",
+      "captured": true,
+      "capture_title": "JetZero翼身融合飞机设计能否挑战波音霸主地位？ - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国市场困境加剧之际，宝马拟裁员8,000人",
       "summary": "宝马在两个最重要的市场正面临越来越大的压力。在中国，激烈的竞争和不断萎缩的市场冲击了销量；在美国，更高的关税则削弱了利润。",
       "link": "https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3",
@@ -158,18 +158,6 @@
       "snapshot": "articles/bmw-to-cut-several-thousand-jobs-in-germany-via--1ce3c4e0ece6.html",
       "captured": true,
       "capture_title": "中国市场困境加剧之际，宝马拟裁员8,000人",
-      "error": ""
-    },
-    {
-      "title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇",
-      "summary": "补充弹药库存与提升造船产能是特朗普政府的重中之重。爱国者导弹合同总值目前已近590亿美元。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%89%A9%E5%A4%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E8%AE%A2%E5%8D%95%E8%87%B3%E8%BF%91590%E4%BA%BF%E7%BE%8E%E5%85%83-62cc132f",
-      "guid": "WP-WSJS-0003775106",
-      "pub_date": "Thu, 30 Jul 2026 01:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-35784498?size=1.501&width=1280",
-      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-89-a9-e5--7e5c594ba448.html",
-      "captured": true,
-      "capture_title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇 - WSJ",
       "error": ""
     },
     {
@@ -233,6 +221,18 @@
       "error": ""
     },
     {
+      "title": "DSA的上升势头在民主党内引发恐慌",
+      "summary": "DSA曾是边缘派别，如今却利用民众的不满情绪，施展出令人惊讶的政治力量。主流民主党人从中看到了“根本性威胁”。",
+      "link": "https://cn.wsj.com/articles/democratic-socialists-mamdani-midterms-party-4e2d48d6",
+      "guid": "WP-WSJS-0003771821",
+      "pub_date": "Wed, 29 Jul 2026 05:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-76077958?size=1.5&width=1280",
+      "snapshot": "articles/democratic-socialists-mamdani-midterms-party-4e2-6cdfd4aa6de1.html",
+      "captured": true,
+      "capture_title": "DSA的上升势头在民主党内引发恐慌",
+      "error": ""
+    },
+    {
       "title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
       "summary": "降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。",
       "link": "https://cn.wsj.com/articles/trump-apple-micron-china-chips-ccb1c333",
@@ -269,6 +269,66 @@
       "error": ""
     },
     {
+      "title": "俄罗斯如何将性暴力作为战争武器",
+      "summary": "有证据表明，对乌克兰男性实施性虐待现已成为俄罗斯的一项核心战术。",
+      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BD%9C%E4%B8%BA%E6%88%98%E4%BA%89%E6%AD%A6%E5%99%A8-dfda36a1",
+      "guid": "WP-WSJS-0003765511",
+      "pub_date": "Mon, 27 Jul 2026 04:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-79689691?size=0.75&width=1280",
+      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e5-a6-82-e4-bd-95-e5--fd6a71d0ad0f.html",
+      "captured": true,
+      "capture_title": "俄罗斯如何将性暴力作为战争武器",
+      "error": ""
+    },
+    {
+      "title": "AI助力“一人公司”崛起：单枪匹马也可年入百万美元",
+      "summary": "AI工具让创始人更容易单枪匹马地创业，而且许多人在公司发展壮大后依然保持这种单干状态。",
+      "link": "https://cn.wsj.com/articles/ai%E5%8A%A9%E5%8A%9B-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8-%E5%B4%9B%E8%B5%B7-%E5%8D%95%E6%9E%AA%E5%8C%B9%E9%A9%AC%E4%B9%9F%E5%8F%AF%E5%88%9B%E9%80%A0%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E8%90%A5%E6%94%B6-678305aa",
+      "guid": "WP-WSJS-0003775606",
+      "pub_date": "Thu, 30 Jul 2026 03:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-89847355?size=1.499&width=1280",
+      "snapshot": "articles/ai-e5-8a-a9-e5-8a-9b--e4-b8-80-e4-ba-ba-e5-85-ac-d25b39f58d54.html",
+      "captured": true,
+      "capture_title": "AI助力“一人公司”崛起：单枪匹马也可年入百万美元 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "在美国，课间休息正在消失，家长们行动了",
+      "summary": "日益缩水的课间休息时间令美国家长感到忧虑，他们认为课间休息对于儿童的身心发展至关重要，纷纷呼吁恢复课间休息。",
+      "link": "https://cn.wsj.com/articles/recess-is-disappearing-parents-are-pushing-to-bring-it-back-5fdef83c",
+      "guid": "WP-WSJS-0003768449",
+      "pub_date": "Tue, 28 Jul 2026 06:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-11132174?size=1.501&width=1280",
+      "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
+      "captured": true,
+      "capture_title": "在美国，课间休息正在消失，家长们行动了",
+      "error": ""
+    },
+    {
+      "title": "微软利润激增31%，Azure云业务财年收入首破千亿美元大关",
+      "summary": "在截至6月份的财季，微软收入增长18%，达到900亿美元。这标志着该公司AI收入增长正在提速，并将继续在数据中心方面投入资金。",
+      "link": "https://cn.wsj.com/articles/microsoft-earnings-44fc4026",
+      "guid": "WP-WSJS-0003775163",
+      "pub_date": "Thu, 30 Jul 2026 00:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-08585800?size=1.501&width=1280",
+      "snapshot": "articles/microsoft-earnings-44fc4026-27900afc7796.html",
+      "captured": true,
+      "capture_title": "微软利润激增31%，Azure云业务财年收入首破千亿美元大关 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国找到了获取中东石油的途径",
+      "summary": "尽管中东两条航运咽喉要道因战事受阻，但中国与伊朗及其敌对国家均保持稳定伙伴关系，这让中国找到办法，继续从中东地区进口石油。",
+      "link": "https://cn.wsj.com/articles/china-iran-us-war-5579963a",
+      "guid": "WP-WSJS-0003771587",
+      "pub_date": "Wed, 29 Jul 2026 02:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-45857456?size=1.778&width=1280",
+      "snapshot": "articles/china-iran-us-war-5579963a-0f7d682d45ca.html",
+      "captured": true,
+      "capture_title": "中国找到了获取中东石油的途径",
+      "error": ""
+    },
+    {
       "title": "谁是社媒营销新宠？只有几百粉丝的素人",
       "summary": "算法调整促使品牌将更多的网红营销预算投向粉丝量微小的新兴创作者。",
       "link": "https://cn.wsj.com/articles/%E8%B0%81%E6%98%AF%E7%A4%BE%E5%AA%92%E8%90%A5%E9%94%80%E6%96%B0%E5%AE%A0-%E5%8F%AA%E6%9C%89%E5%87%A0%E7%99%BE%E7%B2%89%E4%B8%9D%E7%9A%84%E7%B4%A0%E4%BA%BA-46e3f92e",
@@ -290,18 +350,6 @@
       "snapshot": "articles/e5-8f-88-e4-b8-80-e4-b8-aa-e6-b3-a1-e6-b2-ab-e8--789755badc6c.html",
       "captured": true,
       "capture_title": "又一个泡沫警告：股票跨市场溢价",
-      "error": ""
-    },
-    {
-      "title": "在美国，课间休息正在消失，家长们行动了",
-      "summary": "日益缩水的课间休息时间令美国家长感到忧虑，他们认为课间休息对于儿童的身心发展至关重要，纷纷呼吁恢复课间休息。",
-      "link": "https://cn.wsj.com/articles/recess-is-disappearing-parents-are-pushing-to-bring-it-back-5fdef83c",
-      "guid": "WP-WSJS-0003768449",
-      "pub_date": "Tue, 28 Jul 2026 06:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-11132174?size=1.501&width=1280",
-      "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
-      "captured": true,
-      "capture_title": "在美国，课间休息正在消失，家长们行动了",
       "error": ""
     },
     {
@@ -698,18 +746,6 @@
       "snapshot": "articles/e4-b9-8c-e5-85-8b-e5-85-b0-e6-89-93-e5-87-bb-e4--384f4a33cd43.html",
       "captured": true,
       "capture_title": "乌克兰打击伊朗对俄补给线，两场战争在里海交汇 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "俄罗斯如何将性暴力作为战争武器",
-      "summary": "有证据表明，对乌克兰男性实施性虐待现已成为俄罗斯的一项核心战术。",
-      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BD%9C%E4%B8%BA%E6%88%98%E4%BA%89%E6%AD%A6%E5%99%A8-dfda36a1",
-      "guid": "WP-WSJS-0003765511",
-      "pub_date": "Mon, 27 Jul 2026 04:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-79689691?size=0.75&width=1280",
-      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e5-a6-82-e4-bd-95-e5--fd6a71d0ad0f.html",
-      "captured": true,
-      "capture_title": "俄罗斯如何将性暴力作为战争武器",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/e9-9f-a9-e5-9b-bd-e8-8a-af-e7-89-87-e6-8e-8c-e9--cfdb3d938416.html",
       "captured": true,
       "capture_title": "韩国芯片掌门人的“世纪离婚”：AI狂潮中身家暴涨，前妻要求平分",
-      "error": ""
-    },
-    {
-      "title": "英特尔股价上涨，第二财季销售额飙升25%",
-      "summary": "在AI热潮下，英特尔第二财季财报远好于投资者预期，这家芯片制造商正乘着数据中心的强劲需求一路走高。",
-      "link": "https://cn.wsj.com/articles/intel-intc-q2-earnings-report-2026-stock-e75be01d",
-      "guid": "WP-WSJS-0003759939",
-      "pub_date": "Thu, 23 Jul 2026 23:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-16195510?size=1.501&width=1280",
-      "snapshot": "articles/intel-intc-q2-earnings-report-2026-stock-e75be01-8518b4aaf85c.html",
-      "captured": true,
-      "capture_title": "英特尔股价上涨，第二财季销售额飙升25%",
-      "error": ""
-    },
-    {
-      "title": "卡尼对特朗普软硬兼施，但均未奏效",
-      "summary": "尽管加拿大总理卡尼对美国做出了一系列让步，但到目前为止，这些退让却并没有安抚住华盛顿。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AF%E7%A1%AC%E5%85%BC%E6%96%BD-%E4%BD%86%E5%9D%87%E6%9C%AA%E5%A5%8F%E6%95%88-3217e83f",
-      "guid": "WP-WSJS-0003757115",
-      "pub_date": "Thu, 23 Jul 2026 05:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-14976235?size=1.499&width=1280",
-      "snapshot": "articles/e5-8d-a1-e5-b0-bc-e5-af-b9-e7-89-b9-e6-9c-97-e6--2c4362a30bf8.html",
-      "captured": true,
-      "capture_title": "卡尼对特朗普软硬兼施，但均未奏效",
-      "error": ""
-    },
-    {
-      "title": "越来越多人希望在婚前协议中加入“退出职场”触发条款",
-      "summary": "配偶当中全职在家照顾孩子的一方在离婚时可能会面临噩梦般的境地。越来越多的伴侣正在试图避免这种情况。",
-      "link": "https://cn.wsj.com/articles/%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%A4%AB%E5%A6%BB%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E4%B8%AD%E5%8A%A0%E5%85%A5-%E9%80%80%E5%87%BA%E8%81%8C%E5%9C%BA-%E8%A7%A6%E5%8F%91%E6%9D%A1%E6%AC%BE-0b2789c5",
-      "guid": "WP-WSJS-0003750680",
-      "pub_date": "Tue, 21 Jul 2026 05:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-11486132?size=1.501&width=1280",
-      "snapshot": "articles/e8-b6-8a-e6-9d-a5-e8-b6-8a-e5-a4-9a-e5-a4-ab-e5--30849ebfc553.html",
-      "captured": true,
-      "capture_title": "越来越多人希望在婚前协议中加入“退出职场”触发条款",
       "error": ""
     }
   ]
