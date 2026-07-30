@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 22:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 02:41:48 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 22:05:03 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 02:41:48 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,60 +28,67 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[中国找到了获取中东石油的途径]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-45857456?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管中东两条航运咽喉要道因战事受阻，但中国与伊朗及其敌对国家均保持稳定伙伴关系，这让中国找到办法，继续从中东地区进口石油。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-iran-us-war-5579963a</link>
-            <guid isPermaLink="false">WP-WSJS-0003771587</guid>
-            <pubDate>Wed, 29 Jul 2026 02:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗对美军发动导弹突袭]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77242036?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一名美国官员表示，伊朗对驻约旦美军发动了出人意料的弹道导弹袭击。这一暴力升级行动给美国总统特朗普带来了新的压力，迫使他全面重启战事。</p>]]></description>
-            <link>https://cn.wsj.com/articles/iran-launches-surprise-missile-attack-on-u-s-forces-39474571</link>
-            <guid isPermaLink="false">WP-WSJS-0003771292</guid>
-            <pubDate>Wed, 29 Jul 2026 02:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储议息会议三大看点前瞻]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61523006?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>市场预期利率将维持不变，但美联储主席沃什的缄默态度使议息会议更难预测。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%81%94%E5%82%A8%E8%AE%AE%E6%81%AF%E4%BC%9A%E8%AE%AE%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9%E5%89%8D%E7%9E%BB-de9b04b3</link>
-            <guid isPermaLink="false">WP-WSJS-0003771698</guid>
-            <pubDate>Wed, 29 Jul 2026 03:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对华担忧升温拖累美光股价重挫，或创11年来最大单月跌幅]]></title>
-            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-00348993?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着亚洲市场的最新动态波及海外，美光科技、闪迪等美国芯片股周二延续了大幅下跌的走势。</p>]]></description>
-            <link>https://cn.wsj.com/articles/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-d2625e1d</link>
-            <guid isPermaLink="false">WP-WSJS-0003771194</guid>
-            <pubDate>Tue, 28 Jul 2026 23:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本熊本地震致商场坍塌；死亡人数升至13人]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-30593949?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周二，日本南部发生强烈地震，震中位于科技重镇熊本县，台积电在此设有一家工厂。该地区已有逾20万人接到疏散指令。</p>]]></description>
-            <link>https://cn.wsj.com/articles/japanquake-leads-to-mall-collapse-trapping-people-inside-4f27fb6b</link>
-            <guid isPermaLink="false">WP-WSJS-0003771129</guid>
-            <pubDate>Wed, 29 Jul 2026 02:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[从斥责到赞赏：特朗普对泽连斯基态度缘何转变？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-00097524?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一位高级政府官员说，特朗普青睐胜利者，而在这位美国总统眼中，泽连斯基越来越像一位胜利者。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BB%8E%E6%96%A5%E8%B4%A3%E5%88%B0%E8%B5%9E%E8%B5%8F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%80%81%E5%BA%A6%E7%BC%98%E4%BD%95%E8%BD%AC%E5%8F%98-49fa1b2b</link>
-            <guid isPermaLink="false">WP-WSJS-0003768308</guid>
-            <pubDate>Tue, 28 Jul 2026 03:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-42569060?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普施压卫生部长继续调查疫苗与自闭症的关联性，《华尔街日报》梳理重要看点。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-key-points-of-tension-between-trump-and-rfk-jr-over-vaccines-6dfeb815</link>
-            <guid isPermaLink="false">WP-WSJS-0003771348</guid>
-            <pubDate>Wed, 29 Jul 2026 00:31:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[中国追求AI自主，股市却呈现另一种现实]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84397782?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国希望世界能像看待美国AI产业那样，来看待中国的AI产业。但就目前而言，中国市场依然在看外围的脸色。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%BF%BD%E6%B1%82ai%E8%87%AA%E4%B8%BB-%E8%82%A1%E5%B8%82%E5%8D%B4%E5%91%88%E7%8E%B0%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E-8ddacb8d</link>
             <guid isPermaLink="false">WP-WSJS-0003768484</guid>
             <pubDate>Wed, 29 Jul 2026 02:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国对伊朗周二的突袭行动实施报复]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-21899088?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周三晚间，美军开始实施针对伊朗的打击行动。此次打击行动令即将取得外交突破的希望化为泡影。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%91%A8%E4%BA%8C%E7%9A%84%E7%AA%81%E8%A2%AD%E8%A1%8C%E5%8A%A8%E5%AE%9E%E6%96%BD%E6%8A%A5%E5%A4%8D-e2ba1f11</link>
+            <guid isPermaLink="false">WP-WSJS-0003775511</guid>
+            <pubDate>Thu, 30 Jul 2026 02:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储维持利率不变，但有三名官员投票支持加息]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-37675591?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>三位地方联储行长主张加息，这一分歧凸显出，面对已连续五年高于目标的通胀，美联储内部要求采取行动的压力正日益加剧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/fed-holds-rates-steady-but-three-officials-voted-for-increase-0a7fbcd6</link>
+            <guid isPermaLink="false">WP-WSJS-0003775013</guid>
+            <pubDate>Wed, 29 Jul 2026 23:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SK海力士季度利润高达640亿美元，为何仍令芯片股投资者失望？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-98440283?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周三，存储芯片制造商SK海力士公布的季度利润达到创纪录的640亿美元，但股价仍下跌近10%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/even-64-billion-in-quarterly-profit-is-a-disappointment-for-chip-investors-5a8ab57e</link>
+            <guid isPermaLink="false">WP-WSJS-0003775177</guid>
+            <pubDate>Thu, 30 Jul 2026 00:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta股价大跌的背后：投资者对有关AI支出的答复不满意]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70123212?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。</p>]]></description>
+            <link>https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20</link>
+            <guid isPermaLink="false">WP-WSJS-0003775557</guid>
+            <pubDate>Thu, 30 Jul 2026 02:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软利润激增31%，Azure云业务财年收入首破千亿美元大关]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-08585800?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在截至6月份的财季，微软收入增长18%，达到900亿美元。这标志着该公司AI收入增长正在提速，并将继续在数据中心方面投入资金。</p>]]></description>
+            <link>https://cn.wsj.com/articles/microsoft-earnings-44fc4026</link>
+            <guid isPermaLink="false">WP-WSJS-0003775163</guid>
+            <pubDate>Thu, 30 Jul 2026 00:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福奇出席新冠听证会，多次援引第五修正案保持沉默]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-52778895?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>近期公开的私人日记为其应对这场危机的方式提供了新视角，福奇也因此面临参议员的质询。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%A6%8F%E5%A5%87%E5%87%BA%E5%B8%AD%E6%96%B0%E5%86%A0%E5%90%AC%E8%AF%81%E4%BC%9A-%E5%A4%9A%E6%AC%A1%E6%8F%B4%E5%BC%95%E7%AC%AC%E4%BA%94%E4%BF%AE%E6%AD%A3%E6%A1%88%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98-d95e5d7d</link>
+            <guid isPermaLink="false">WP-WSJS-0003775139</guid>
+            <pubDate>Wed, 29 Jul 2026 23:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国在与美国的太空竞赛中缩小卫星领域差距]]></title>
+            <description><![CDATA[<img width="1280" height="640" src="https://images.wsj.net/im-43966282?size=2&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北京方面逐步削弱美国的太空实力，并更清晰地掌握美军动向。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B%E4%B8%AD%E7%BC%A9%E5%B0%8F%E5%8D%AB%E6%98%9F%E9%A2%86%E5%9F%9F%E5%B7%AE%E8%B7%9D-515c775f</link>
+            <guid isPermaLink="false">WP-WSJS-0003775422</guid>
+            <pubDate>Thu, 30 Jul 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国找到了获取中东石油的途径]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-45857456?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管中东两条航运咽喉要道因战事受阻，但中国与伊朗及其敌对国家均保持稳定伙伴关系，这让中国找到办法，继续从中东地区进口石油。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-iran-us-war-5579963a</link>
+            <guid isPermaLink="false">WP-WSJS-0003771587</guid>
+            <pubDate>Wed, 29 Jul 2026 02:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[针对Anthropic的抵制情绪正在硅谷积聚]]></title>
@@ -91,13 +98,6 @@
             <pubDate>Wed, 29 Jul 2026 03:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI数据中心融资越来越贵，看看Meta就知道]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29595526?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>今年大型科技公司的发债狂潮已让债券投资者陷入审美疲劳，并推高了整个科技行业的资金成本。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%9E%8D%E8%B5%84%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5-%E7%9C%8B%E7%9C%8Bmeta%E5%B0%B1%E7%9F%A5%E9%81%93-23bccc9b</link>
-            <guid isPermaLink="false">WP-WSJS-0003771486</guid>
-            <pubDate>Wed, 29 Jul 2026 01:55:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DSA的上升势头在民主党内引发恐慌]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-76077958?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>DSA曾是边缘派别，如今却利用民众的不满情绪，施展出令人惊讶的政治力量。主流民主党人从中看到了“根本性威胁”。</p>]]></description>
             <link>https://cn.wsj.com/articles/democratic-socialists-mamdani-midterms-party-4e2d48d6</link>
@@ -105,18 +105,32 @@
             <pubDate>Wed, 29 Jul 2026 05:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一座地下核反应堆即将落地美国小镇，引发社区民意撕裂]]></title>
-            <description><![CDATA[<img width="1280" height="958" src="https://images.wsj.net/im-11980404?size=1.34&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>初创公司Deep Fission计划在堪萨斯州小镇的地下约一英里处建造并运行商业“重力反应堆”。“建在这里是不错。但我们成了小白鼠，这不太妙。”</p>]]></description>
-            <link>https://cn.wsj.com/articles/an-underground-nuclear-reactor-is-coming-to-this-kansas-townand-dividing-locals-4c62a77b</link>
-            <guid isPermaLink="false">WP-WSJS-0003771597</guid>
-            <pubDate>Wed, 29 Jul 2026 06:14:00 GMT</pubDate>
+            <title><![CDATA[日本熊本地震致商场坍塌；死亡人数升至13人]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-30593949?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周二，日本南部发生强烈地震，震中位于科技重镇熊本县，台积电在此设有一家工厂。该地区已有逾20万人接到疏散指令。</p>]]></description>
+            <link>https://cn.wsj.com/articles/japanquake-leads-to-mall-collapse-trapping-people-inside-4f27fb6b</link>
+            <guid isPermaLink="false">WP-WSJS-0003771129</guid>
+            <pubDate>Wed, 29 Jul 2026 02:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shein披露美国联邦贸易委员会正在调查其美国业务]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-03037858?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>创立于中国的快时尚零售商Shein称，FTC正在调查其美国的业务运营。这一披露出现在其向香港交易所提交的IPO相关文件中。</p>]]></description>
-            <link>https://cn.wsj.com/articles/shein-discloses-ftc-investigation-into-fast-fashion-retailers-u-s-operations-edae8478</link>
-            <guid isPermaLink="false">WP-WSJS-0003771106</guid>
-            <pubDate>Tue, 28 Jul 2026 23:22:00 GMT</pubDate>
+            <title><![CDATA[中国市场困境加剧之际，宝马拟裁员8,000人]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-24319197?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宝马在两个最重要的市场正面临越来越大的压力。在中国，激烈的竞争和不断萎缩的市场冲击了销量；在美国，更高的关税则削弱了利润。</p>]]></description>
+            <link>https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3</link>
+            <guid isPermaLink="false">WP-WSJS-0003772445</guid>
+            <pubDate>Wed, 29 Jul 2026 23:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-35784498?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>补充弹药库存与提升造船产能是特朗普政府的重中之重。爱国者导弹合同总值目前已近590亿美元。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%89%A9%E5%A4%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E8%AE%A2%E5%8D%95%E8%87%B3%E8%BF%91590%E4%BA%BF%E7%BE%8E%E5%85%83-62cc132f</link>
+            <guid isPermaLink="false">WP-WSJS-0003775106</guid>
+            <pubDate>Thu, 30 Jul 2026 01:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府将入股格芯1%，计划提供3亿美元资金]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61049000?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国商务部将入股格芯1%，并计划向该公司提供资金，用于开发数据中心所需的硅光子技术。</p>]]></description>
+            <link>https://cn.wsj.com/articles/us-government-to-take-1-stake-in-globalfoundaries-plans-to-grant-300-million-award-3bcd0a3a</link>
+            <guid isPermaLink="false">WP-WSJS-0003775233</guid>
+            <pubDate>Thu, 30 Jul 2026 00:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？]]></title>
@@ -126,11 +140,11 @@
             <pubDate>Tue, 28 Jul 2026 23:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宝马计划在德国裁减约8,000人]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-24319197?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宝马在德国雇用约8万人。</p>]]></description>
-            <link>https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3</link>
-            <guid isPermaLink="false">WP-WSJS-0003772445</guid>
-            <pubDate>Wed, 29 Jul 2026 11:52:00 GMT</pubDate>
+            <title><![CDATA[一座地下核反应堆即将落地美国小镇，引发社区民意撕裂]]></title>
+            <description><![CDATA[<img width="1280" height="958" src="https://images.wsj.net/im-11980404?size=1.34&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>初创公司Deep Fission计划在堪萨斯州小镇的地下约一英里处建造并运行商业“重力反应堆”。“建在这里是不错。但我们成了小白鼠，这不太妙。”</p>]]></description>
+            <link>https://cn.wsj.com/articles/an-underground-nuclear-reactor-is-coming-to-this-kansas-townand-dividing-locals-4c62a77b</link>
+            <guid isPermaLink="false">WP-WSJS-0003771597</guid>
+            <pubDate>Wed, 29 Jul 2026 06:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[福特销量与收入双双下滑，这家车企却并不担忧]]></title>
@@ -138,20 +152,6 @@
             <link>https://cn.wsj.com/articles/fords-sales-and-revenue-are-down-the-automaker-isnt-sweating-it-00405dff</link>
             <guid isPermaLink="false">WP-WSJS-0003771700</guid>
             <pubDate>Wed, 29 Jul 2026 03:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利房贷员工被施压为富裕客户批贷]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-25939058?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>房贷部门员工在质疑或拒绝贷款时面临强烈反对；摩根士丹利称并未“降低贷款审核标准”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%E6%88%BF%E8%B4%B7%E5%91%98%E5%B7%A5%E5%8F%97%E5%8E%8B%E4%B8%BA%E5%AF%8C%E8%A3%95%E5%AE%A2%E6%88%B7%E6%89%B9%E8%B4%B7-8d4f3dce</link>
-            <guid isPermaLink="false">WP-WSJS-0003771746</guid>
-            <pubDate>Wed, 29 Jul 2026 04:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visa将裁员2,600人，以顺应支付行业变局]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44385888?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>受影响的职位大部分集中在技术和产品团队，约占Visa员工总数的7%。</p>]]></description>
-            <link>https://cn.wsj.com/articles/visa%E5%B0%86%E8%A3%81%E5%91%982-600%E4%BA%BA-%E4%BB%A5%E9%A1%BA%E5%BA%94%E6%94%AF%E4%BB%98%E8%A1%8C%E4%B8%9A%E5%8F%98%E5%B1%80-58e74218</link>
-            <guid isPermaLink="false">WP-WSJS-0003771131</guid>
-            <pubDate>Tue, 28 Jul 2026 23:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国富豪借离岸架构积累财富的时代正在终结]]></title>
@@ -168,6 +168,20 @@
             <pubDate>Mon, 27 Jul 2026 04:42:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中美在珠峰竞逐无人机主导权]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-80365838?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>华盛顿正寻求在登山辅助技术“竞赛”中为美国技术赢得优势。但中国已经抢占了先机。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9C%A8%E7%8F%A0%E5%B3%B0%E7%AB%9E%E9%80%90%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%BB%E5%AF%BC%E6%9D%83-30163dba</link>
+            <guid isPermaLink="false">WP-WSJS-0003765413</guid>
+            <pubDate>Mon, 27 Jul 2026 03:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[从斥责到赞赏：特朗普对泽连斯基态度缘何转变？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-00097524?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一位高级政府官员说，特朗普青睐胜利者，而在这位美国总统眼中，泽连斯基越来越像一位胜利者。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BB%8E%E6%96%A5%E8%B4%A3%E5%88%B0%E8%B5%9E%E8%B5%8F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%80%81%E5%BA%A6%E7%BC%98%E4%BD%95%E8%BD%AC%E5%8F%98-49fa1b2b</link>
+            <guid isPermaLink="false">WP-WSJS-0003768308</guid>
+            <pubDate>Tue, 28 Jul 2026 03:24:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[谁是社媒营销新宠？只有几百粉丝的素人]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82373580?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>算法调整促使品牌将更多的网红营销预算投向粉丝量微小的新兴创作者。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%B0%81%E6%98%AF%E7%A4%BE%E5%AA%92%E8%90%A5%E9%94%80%E6%96%B0%E5%AE%A0-%E5%8F%AA%E6%9C%89%E5%87%A0%E7%99%BE%E7%B2%89%E4%B8%9D%E7%9A%84%E7%B4%A0%E4%BA%BA-46e3f92e</link>
@@ -180,20 +194,6 @@
             <link>https://cn.wsj.com/articles/%E5%8F%88%E4%B8%80%E4%B8%AA%E6%B3%A1%E6%B2%AB%E8%AD%A6%E5%91%8A-%E8%82%A1%E7%A5%A8%E8%B7%A8%E5%B8%82%E5%9C%BA%E6%BA%A2%E4%BB%B7-00028da4</link>
             <guid isPermaLink="false">WP-WSJS-0003765337</guid>
             <pubDate>Mon, 27 Jul 2026 02:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西方各国竞相将炸药生产迁回国内]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45966451?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北约各国正推进至少24个旨在将炸药或推进剂生产线迁回国内的新项目，其中仅美国阿肯色州就计划新建三家工厂。</p>]]></description>
-            <link>https://cn.wsj.com/articles/western-powers-race-to-bring-the-production-of-explosives-back-home-6943d65f</link>
-            <guid isPermaLink="false">WP-WSJS-0003768430</guid>
-            <pubDate>Tue, 28 Jul 2026 06:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中美在珠峰竞逐无人机主导权]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-80365838?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>华盛顿正寻求在登山辅助技术“竞赛”中为美国技术赢得优势。但中国已经抢占了先机。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9C%A8%E7%8F%A0%E5%B3%B0%E7%AB%9E%E9%80%90%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%BB%E5%AF%BC%E6%9D%83-30163dba</link>
-            <guid isPermaLink="false">WP-WSJS-0003765413</guid>
-            <pubDate>Mon, 27 Jul 2026 03:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[在美国，课间休息正在消失，家长们行动了]]></title>
