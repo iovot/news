@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:17:00.165456+00:00",
+  "generated_at": "2026-07-30T16:43:09.667411+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-37525309?size=1.333&width=1280",
       "snapshot": "articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d-66b9bab2dcd6.html",
       "captured": true,
-      "capture_title": "IBM宣称“量子优势”进入新时代 - WSJ",
+      "capture_title": "IBM宣称“量子优势”进入新时代",
       "error": ""
     },
     {
