@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-30T08:44:32.032745+00:00",
+  "generated_at": "2026-07-30T11:18:30.408107+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "中国对出台大规模刺激政策意愿不强，尽管增长面临逆风",
+      "summary": "中国最高领导层释放信号显示，下半年推出大规模刺激措施的意愿不强。尽管国内阻力不断加大，中国这个全球第二大经济体仍有望实现下调后的全年增长目标。",
+      "link": "https://cn.wsj.com/articles/china-signals-little-appetite-for-major-stimulus-despite-growth-headwinds-2afc71ba",
+      "guid": "WP-WSJS-0003776033",
+      "pub_date": "Thu, 30 Jul 2026 08:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-28095327?size=1.501&width=1280",
+      "snapshot": "articles/china-signals-little-appetite-for-major-stimulus-6d31cacdc920.html",
+      "captured": true,
+      "capture_title": "中国对出台大规模刺激政策意愿不强，尽管增长面临逆风 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国如何从大型石油公司的理想客户变成噩梦？",
+      "summary": "中国对自身石油消费的掌控力超出了所有人的想象，这将令石油公司的老板们感到不安。",
+      "link": "https://cn.wsj.com/articles/how-china-went-from-dream-customer-to-a-nightmare-for-big-oil-3637b2dd",
+      "guid": "WP-WSJS-0003775281",
+      "pub_date": "Thu, 30 Jul 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-31143927?size=1.778&width=1280",
+      "snapshot": "articles/how-china-went-from-dream-customer-to-a-nightmar-8df89cb6f82b.html",
+      "captured": true,
+      "capture_title": "中国如何从大型石油公司的理想客户变成噩梦？",
+      "error": ""
+    },
     {
       "title": "美国对伊朗周二的突袭行动实施报复",
       "summary": "周三晚间，美军开始实施针对伊朗的打击行动。此次打击行动令即将取得外交突破的希望化为泡影。",
@@ -17,39 +41,15 @@
       "error": ""
     },
     {
-      "title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
-      "summary": "周三，存储芯片制造商SK海力士公布的季度利润达到创纪录的640亿美元，但股价仍下跌近10%。",
-      "link": "https://cn.wsj.com/articles/even-64-billion-in-quarterly-profit-is-a-disappointment-for-chip-investors-5a8ab57e",
-      "guid": "WP-WSJS-0003775177",
-      "pub_date": "Thu, 30 Jul 2026 03:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-98440283?size=1.501&width=1280",
-      "snapshot": "articles/even-64-billion-in-quarterly-profit-is-a-disappo-461958d305d7.html",
+      "title": "俄罗斯空袭乌克兰造成至少八人死亡",
+      "summary": "乌克兰应急部门称，俄罗斯前夜对乌克兰多个城市发动空袭，造成至少八人死亡，其中包括儿童，另有50多人受伤。",
+      "link": "https://cn.wsj.com/articles/russian-airstrikes-kill-at-least-eight-in-ukraine-89f53808",
+      "guid": "WP-WSJS-0003776341",
+      "pub_date": "Thu, 30 Jul 2026 10:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-45784622?size=1.45&width=1280",
+      "snapshot": "articles/russian-airstrikes-kill-at-least-eight-in-ukrain-8be8127ad27c.html",
       "captured": true,
-      "capture_title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
-      "error": ""
-    },
-    {
-      "title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意",
-      "summary": "在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。",
-      "link": "https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20",
-      "guid": "WP-WSJS-0003775557",
-      "pub_date": "Thu, 30 Jul 2026 02:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-70123212?size=1.501&width=1280",
-      "snapshot": "articles/meta-stumbles-as-tech-investors-demand-better-an-fea878f366da.html",
-      "captured": true,
-      "capture_title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意",
-      "error": ""
-    },
-    {
-      "title": "美联储维持利率不变，但有三名官员投票支持加息",
-      "summary": "三位地方联储行长主张加息，这一分歧凸显出，面对已连续五年高于目标的通胀，美联储内部要求采取行动的压力正日益加剧。",
-      "link": "https://cn.wsj.com/articles/fed-holds-rates-steady-but-three-officials-voted-for-increase-0a7fbcd6",
-      "guid": "WP-WSJS-0003775013",
-      "pub_date": "Wed, 29 Jul 2026 23:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-37675591?size=1.499&width=1280",
-      "snapshot": "articles/fed-holds-rates-steady-but-three-officials-voted-a89b7e9da274.html",
-      "captured": true,
-      "capture_title": "美联储维持利率不变，但有三名官员投票支持加息",
+      "capture_title": "俄罗斯空袭乌克兰造成至少八人死亡 - WSJ",
       "error": ""
     },
     {
@@ -65,15 +65,15 @@
       "error": ""
     },
     {
-      "title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇",
-      "summary": "补充弹药库存与提升造船产能是特朗普政府的重中之重。爱国者导弹合同总值目前已近590亿美元。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%89%A9%E5%A4%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E8%AE%A2%E5%8D%95%E8%87%B3%E8%BF%91590%E4%BA%BF%E7%BE%8E%E5%85%83-62cc132f",
-      "guid": "WP-WSJS-0003775106",
-      "pub_date": "Thu, 30 Jul 2026 01:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-35784498?size=1.501&width=1280",
-      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-89-a9-e5--7e5c594ba448.html",
+      "title": "中国追求AI自主，股市却呈现另一种现实",
+      "summary": "中国希望世界能像看待美国AI产业那样，来看待中国的AI产业。但就目前而言，中国市场依然在看外围的脸色。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%BF%BD%E6%B1%82ai%E8%87%AA%E4%B8%BB-%E8%82%A1%E5%B8%82%E5%8D%B4%E5%91%88%E7%8E%B0%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E-8ddacb8d",
+      "guid": "WP-WSJS-0003768484",
+      "pub_date": "Wed, 29 Jul 2026 02:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-84397782?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e8-bf-bd-e6-b1-82ai-e8-87-aa-e-3ea4631590a0.html",
       "captured": true,
-      "capture_title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇",
+      "capture_title": "中国追求AI自主，股市却呈现另一种现实",
       "error": ""
     },
     {
@@ -89,27 +89,27 @@
       "error": ""
     },
     {
-      "title": "中国追求AI自主，股市却呈现另一种现实",
-      "summary": "中国希望世界能像看待美国AI产业那样，来看待中国的AI产业。但就目前而言，中国市场依然在看外围的脸色。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%BF%BD%E6%B1%82ai%E8%87%AA%E4%B8%BB-%E8%82%A1%E5%B8%82%E5%8D%B4%E5%91%88%E7%8E%B0%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E-8ddacb8d",
-      "guid": "WP-WSJS-0003768484",
-      "pub_date": "Wed, 29 Jul 2026 02:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-84397782?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e8-bf-bd-e6-b1-82ai-e8-87-aa-e-3ea4631590a0.html",
+      "title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
+      "summary": "周三，存储芯片制造商SK海力士公布的季度利润达到创纪录的640亿美元，但股价仍下跌近10%。",
+      "link": "https://cn.wsj.com/articles/even-64-billion-in-quarterly-profit-is-a-disappointment-for-chip-investors-5a8ab57e",
+      "guid": "WP-WSJS-0003775177",
+      "pub_date": "Thu, 30 Jul 2026 03:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-98440283?size=1.501&width=1280",
+      "snapshot": "articles/even-64-billion-in-quarterly-profit-is-a-disappo-461958d305d7.html",
       "captured": true,
-      "capture_title": "中国追求AI自主，股市却呈现另一种现实",
+      "capture_title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
       "error": ""
     },
     {
-      "title": "中国如何从大型石油公司的理想客户变成噩梦？",
-      "summary": "中国对自身石油消费的掌控力超出了所有人的想象，这将令石油公司的老板们感到不安。",
-      "link": "https://cn.wsj.com/articles/how-china-went-from-dream-customer-to-a-nightmare-for-big-oil-3637b2dd",
-      "guid": "WP-WSJS-0003775281",
-      "pub_date": "Thu, 30 Jul 2026 00:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-31143927?size=1.778&width=1280",
-      "snapshot": "articles/how-china-went-from-dream-customer-to-a-nightmar-8df89cb6f82b.html",
+      "title": "沃什淡化前瞻指引，市场质疑美联储抗通胀决心",
+      "summary": "分析人士表示，投资者从美联储主席沃什的表态中感受到，他对采取抗通胀所需的加息举措缺乏明确意愿，这引发了市场的疑虑。",
+      "link": "https://cn.wsj.com/articles/kevin-warsh-asked-the-market-to-speak-it-answered-34b9d50e",
+      "guid": "WP-WSJS-0003775989",
+      "pub_date": "Thu, 30 Jul 2026 07:57:00 GMT",
+      "image_url": "https://images.wsj.net/im-22042313?size=1&width=1280",
+      "snapshot": "articles/kevin-warsh-asked-the-market-to-speak-it-answere-0b4a4f07883f.html",
       "captured": true,
-      "capture_title": "中国如何从大型石油公司的理想客户变成噩梦？",
+      "capture_title": "沃什淡化前瞻指引，市场质疑美联储抗通胀决心 - WSJ",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-19943669?size=1.501&width=1280",
       "snapshot": "articles/the-quake-struck-japan-eighty-minutes-later-a-le-191284c5b5f4.html",
       "captured": true,
-      "capture_title": "日本强震80分钟后商场突发爆炸，致至少三人遇难 - WSJ",
+      "capture_title": "日本强震80分钟后商场突发爆炸，致至少三人遇难",
       "error": ""
     },
     {
@@ -149,6 +149,18 @@
       "error": ""
     },
     {
+      "title": "美国石油巨头重返委内瑞拉受阻",
+      "summary": "据知情人士透露，埃克森美孚、雪佛龙等大型石油公司正在争夺委内瑞拉少数最具吸引力的钻采区块，但它们与委内瑞拉领导层的部分谈判最近陷入了僵局。",
+      "link": "https://cn.wsj.com/articles/american-oil-majors-trying-to-get-into-venezuela-have-hit-a-wall-03979c20",
+      "guid": "WP-WSJS-0003776303",
+      "pub_date": "Thu, 30 Jul 2026 10:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-00567195?size=1.501&width=1280",
+      "snapshot": "articles/american-oil-majors-trying-to-get-into-venezuela-b8b8c289d059.html",
+      "captured": true,
+      "capture_title": "美国石油巨头重返委内瑞拉受阻 - WSJ",
+      "error": ""
+    },
+    {
       "title": "美国政府将入股格芯1%，计划提供3亿美元资金",
       "summary": "美国商务部将入股格芯1%，并计划向该公司提供资金，用于开发数据中心所需的硅光子技术。",
       "link": "https://cn.wsj.com/articles/us-government-to-take-1-stake-in-globalfoundaries-plans-to-grant-300-million-award-3bcd0a3a",
@@ -158,6 +170,18 @@
       "snapshot": "articles/us-government-to-take-1-stake-in-globalfoundarie-926deb11d77d.html",
       "captured": true,
       "capture_title": "美国政府将入股格芯1%，计划提供3亿美元资金 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意",
+      "summary": "在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。",
+      "link": "https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20",
+      "guid": "WP-WSJS-0003775557",
+      "pub_date": "Thu, 30 Jul 2026 02:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-70123212?size=1.501&width=1280",
+      "snapshot": "articles/meta-stumbles-as-tech-investors-demand-better-an-fea878f366da.html",
+      "captured": true,
+      "capture_title": "Meta股价大跌的背后：投资者对有关AI支出的答复不满意",
       "error": ""
     },
     {
@@ -185,30 +209,6 @@
       "error": ""
     },
     {
-      "title": "一座地下核反应堆即将落地美国小镇，引发社区民意撕裂",
-      "summary": "初创公司Deep Fission计划在堪萨斯州小镇的地下约一英里处建造并运行商业“重力反应堆”。“建在这里是不错。但我们成了小白鼠，这不太妙。”",
-      "link": "https://cn.wsj.com/articles/an-underground-nuclear-reactor-is-coming-to-this-kansas-townand-dividing-locals-4c62a77b",
-      "guid": "WP-WSJS-0003771597",
-      "pub_date": "Wed, 29 Jul 2026 06:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-11980404?size=1.34&width=1280",
-      "snapshot": "articles/an-underground-nuclear-reactor-is-coming-to-this-ae5bb9dc5471.html",
-      "captured": true,
-      "capture_title": "一座地下核反应堆即将落地美国小镇，引发社区民意撕裂",
-      "error": ""
-    },
-    {
-      "title": "福特销量与收入双双下滑，这家车企却并不担忧",
-      "summary": "高利润率越野SUV销量为福特汽车第二财季业绩提供了支撑，该公司还上调了全年利润预期。",
-      "link": "https://cn.wsj.com/articles/fords-sales-and-revenue-are-down-the-automaker-isnt-sweating-it-00405dff",
-      "guid": "WP-WSJS-0003771700",
-      "pub_date": "Wed, 29 Jul 2026 03:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-89926822?size=1.571&width=1280",
-      "snapshot": "articles/fords-sales-and-revenue-are-down-the-automaker-i-930f739ce4f0.html",
-      "captured": true,
-      "capture_title": "福特销量与收入双双下滑，这家车企却并不担忧",
-      "error": ""
-    },
-    {
       "title": "中国富豪借离岸架构积累财富的时代正在终结",
       "summary": "中国正在重塑针对超级富豪的监管规则，以加强对其海外投资方式的管控。政府部门正向企业施压，要求它们放弃海外架构并在境内注册。",
       "link": "https://cn.wsj.com/articles/chinas-tycoons-made-fortunes-offshore-now-the-party-is-over-57fe2cd0",
@@ -233,6 +233,18 @@
       "error": ""
     },
     {
+      "title": "一座地下核反应堆即将落地美国小镇，引发社区民意撕裂",
+      "summary": "初创公司Deep Fission计划在堪萨斯州小镇的地下约一英里处建造并运行商业“重力反应堆”。“建在这里是不错。但我们成了小白鼠，这不太妙。”",
+      "link": "https://cn.wsj.com/articles/an-underground-nuclear-reactor-is-coming-to-this-kansas-townand-dividing-locals-4c62a77b",
+      "guid": "WP-WSJS-0003771597",
+      "pub_date": "Wed, 29 Jul 2026 06:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-11980404?size=1.34&width=1280",
+      "snapshot": "articles/an-underground-nuclear-reactor-is-coming-to-this-ae5bb9dc5471.html",
+      "captured": true,
+      "capture_title": "一座地下核反应堆即将落地美国小镇，引发社区民意撕裂",
+      "error": ""
+    },
+    {
       "title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
       "summary": "降低美国消费物价和提高国内半导体产量，这两项美国总统特朗普的优先事项相互冲突。",
       "link": "https://cn.wsj.com/articles/trump-apple-micron-china-chips-ccb1c333",
@@ -254,18 +266,6 @@
       "snapshot": "articles/e4-b8-ad-e7-be-8e-e5-9c-a8-e7-8f-a0-e5-b3-b0-e7--87e27650f0e3.html",
       "captured": true,
       "capture_title": "中美在珠峰竞逐无人机主导权",
-      "error": ""
-    },
-    {
-      "title": "从斥责到赞赏：特朗普对泽连斯基态度缘何转变？",
-      "summary": "一位高级政府官员说，特朗普青睐胜利者，而在这位美国总统眼中，泽连斯基越来越像一位胜利者。",
-      "link": "https://cn.wsj.com/articles/%E4%BB%8E%E6%96%A5%E8%B4%A3%E5%88%B0%E8%B5%9E%E8%B5%8F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%80%81%E5%BA%A6%E7%BC%98%E4%BD%95%E8%BD%AC%E5%8F%98-49fa1b2b",
-      "guid": "WP-WSJS-0003768308",
-      "pub_date": "Tue, 28 Jul 2026 03:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-00097524?size=1.501&width=1280",
-      "snapshot": "articles/e4-bb-8e-e6-96-a5-e8-b4-a3-e5-88-b0-e8-b5-9e-e8--f4242aea30c1.html",
-      "captured": true,
-      "capture_title": "从斥责到赞赏：特朗普对泽连斯基态度缘何转变？",
       "error": ""
     },
     {
@@ -302,6 +302,54 @@
       "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
       "captured": true,
       "capture_title": "在美国，课间休息正在消失，家长们行动了",
+      "error": ""
+    },
+    {
+      "title": "美联储维持利率不变，但有三名官员投票支持加息",
+      "summary": "三位地方联储行长主张加息，这一分歧凸显出，面对已连续五年高于目标的通胀，美联储内部要求采取行动的压力正日益加剧。",
+      "link": "https://cn.wsj.com/articles/fed-holds-rates-steady-but-three-officials-voted-for-increase-0a7fbcd6",
+      "guid": "WP-WSJS-0003775013",
+      "pub_date": "Wed, 29 Jul 2026 23:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-37675591?size=1.499&width=1280",
+      "snapshot": "articles/fed-holds-rates-steady-but-three-officials-voted-a89b7e9da274.html",
+      "captured": true,
+      "capture_title": "美联储维持利率不变，但有三名官员投票支持加息",
+      "error": ""
+    },
+    {
+      "title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇",
+      "summary": "补充弹药库存与提升造船产能是特朗普政府的重中之重。爱国者导弹合同总值目前已近590亿美元。",
+      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%89%A9%E5%A4%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E8%AE%A2%E5%8D%95%E8%87%B3%E8%BF%91590%E4%BA%BF%E7%BE%8E%E5%85%83-62cc132f",
+      "guid": "WP-WSJS-0003775106",
+      "pub_date": "Thu, 30 Jul 2026 01:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-35784498?size=1.501&width=1280",
+      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-89-a9-e5--7e5c594ba448.html",
+      "captured": true,
+      "capture_title": "五角大楼划拨1,200亿美元，加速生产爱国者导弹和潜艇",
+      "error": ""
+    },
+    {
+      "title": "福特销量与收入双双下滑，这家车企却并不担忧",
+      "summary": "高利润率越野SUV销量为福特汽车第二财季业绩提供了支撑，该公司还上调了全年利润预期。",
+      "link": "https://cn.wsj.com/articles/fords-sales-and-revenue-are-down-the-automaker-isnt-sweating-it-00405dff",
+      "guid": "WP-WSJS-0003771700",
+      "pub_date": "Wed, 29 Jul 2026 03:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-89926822?size=1.571&width=1280",
+      "snapshot": "articles/fords-sales-and-revenue-are-down-the-automaker-i-930f739ce4f0.html",
+      "captured": true,
+      "capture_title": "福特销量与收入双双下滑，这家车企却并不担忧",
+      "error": ""
+    },
+    {
+      "title": "从斥责到赞赏：特朗普对泽连斯基态度缘何转变？",
+      "summary": "一位高级政府官员说，特朗普青睐胜利者，而在这位美国总统眼中，泽连斯基越来越像一位胜利者。",
+      "link": "https://cn.wsj.com/articles/%E4%BB%8E%E6%96%A5%E8%B4%A3%E5%88%B0%E8%B5%9E%E8%B5%8F-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%80%81%E5%BA%A6%E7%BC%98%E4%BD%95%E8%BD%AC%E5%8F%98-49fa1b2b",
+      "guid": "WP-WSJS-0003768308",
+      "pub_date": "Tue, 28 Jul 2026 03:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-00097524?size=1.501&width=1280",
+      "snapshot": "articles/e4-bb-8e-e6-96-a5-e8-b4-a3-e5-88-b0-e8-b5-9e-e8--f4242aea30c1.html",
+      "captured": true,
+      "capture_title": "从斥责到赞赏：特朗普对泽连斯基态度缘何转变？",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/drone-attacks-on-russias-biggest-online-retailer-e324a2a834a5.html",
       "captured": true,
       "capture_title": "俄罗斯版“亚马逊”遭乌克兰无人机攻击，中产阶级在家门口直面战争",
-      "error": ""
-    },
-    {
-      "title": "高频交易公司如何靠Trump Media推出的特快数据流掘金？",
-      "summary": "特朗普旗下的Truth Social正在向股市交易员出售极速访问其平台帖文的权限，在目前已签约的机构中，有五家是高频交易公司。",
-      "link": "https://cn.wsj.com/articles/how-wall-streets-bots-are-cashing-in-on-trumps-truth-social-posts-1db18f58",
-      "guid": "WP-WSJS-0003756916",
-      "pub_date": "Thu, 23 Jul 2026 03:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-39879103?size=1.501&width=1280",
-      "snapshot": "articles/how-wall-streets-bots-are-cashing-in-on-trumps-t-732a3e0ee030.html",
-      "captured": true,
-      "capture_title": "高频交易公司如何靠Trump Media推出的特快数据流掘金？",
-      "error": ""
-    },
-    {
-      "title": "西方抗衡中俄的隐性军备赛场：棉花",
-      "summary": "为了发射威力强大的弹药，军队需要从天然纤维中提取的爆炸性化学品，而这些天然纤维现在却突然出现短缺。",
-      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E6%8A%97%E8%A1%A1%E4%B8%AD%E4%BF%84%E7%9A%84%E9%9A%90%E6%80%A7%E5%86%9B%E5%A4%87%E8%B5%9B%E5%9C%BA-%E6%A3%89%E8%8A%B1-91aa0c11",
-      "guid": "WP-WSJS-0003750483",
-      "pub_date": "Tue, 21 Jul 2026 03:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-33174529?size=1.501&width=1280",
-      "snapshot": "articles/e8-a5-bf-e6-96-b9-e6-8a-97-e8-a1-a1-e4-b8-ad-e4--25af616acc7f.html",
-      "captured": true,
-      "capture_title": "西方抗衡中俄的隐性军备赛场：棉花",
-      "error": ""
-    },
-    {
-      "title": "伊朗战争迟迟看不到尽头，特朗普耐心渐失",
-      "summary": "一位高级政府官员称，总统特朗普对外交手段日益怀疑，并对德黑兰开启了“复仇模式”。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%BF%9F%E8%BF%9F%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%B0%BD%E5%A4%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%90%E5%BF%83%E6%B8%90%E5%A4%B1-2a8bb81b",
-      "guid": "WP-WSJS-0003760399",
-      "pub_date": "Fri, 24 Jul 2026 02:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-62910278?size=1.504&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e8-bf-9f-e8--6d81fd994086.html",
-      "captured": true,
-      "capture_title": "伊朗战争迟迟看不到尽头，特朗普耐心渐失",
-      "error": ""
-    },
-    {
-      "title": "特朗普为沙特核协议设新门槛：需与以色列关系正常化",
-      "summary": "美国总统特朗普表示，该协议能否落地，取决于沙特是否与以色列实现关系正常化。这一附加条件可能会使该协议的推进变得复杂。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E6%B2%99%E7%89%B9%E6%A0%B8%E5%8D%8F%E8%AE%AE%E8%AE%BE%E6%96%B0%E9%97%A8%E6%A7%9B-%E9%9C%80%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%B3%E7%B3%BB%E6%AD%A3%E5%B8%B8%E5%8C%96-5ceb0601",
-      "guid": "WP-WSJS-0003760022",
-      "pub_date": "Thu, 23 Jul 2026 23:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-42464660?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-ba-e6-b2-99-e7--74229649324a.html",
-      "captured": true,
-      "capture_title": "特朗普为沙特核协议设新门槛：需与以色列关系正常化",
       "error": ""
     }
   ]
