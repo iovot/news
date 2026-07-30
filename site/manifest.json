@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:18:30.408107+00:00",
+  "generated_at": "2026-07-30T14:17:00.165456+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-28095327?size=1.501&width=1280",
       "snapshot": "articles/china-signals-little-appetite-for-major-stimulus-6d31cacdc920.html",
       "captured": true,
-      "capture_title": "中国对出台大规模刺激政策意愿不强，尽管增长面临逆风 - WSJ",
+      "capture_title": "中国对出台大规模刺激政策意愿不强，尽管增长面临逆风",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-45784622?size=1.45&width=1280",
       "snapshot": "articles/russian-airstrikes-kill-at-least-eight-in-ukrain-8be8127ad27c.html",
       "captured": true,
-      "capture_title": "俄罗斯空袭乌克兰造成至少八人死亡 - WSJ",
+      "capture_title": "俄罗斯空袭乌克兰造成至少八人死亡",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-22042313?size=1&width=1280",
       "snapshot": "articles/kevin-warsh-asked-the-market-to-speak-it-answere-0b4a4f07883f.html",
       "captured": true,
-      "capture_title": "沃什淡化前瞻指引，市场质疑美联储抗通胀决心 - WSJ",
+      "capture_title": "沃什淡化前瞻指引，市场质疑美联储抗通胀决心",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-00567195?size=1.501&width=1280",
       "snapshot": "articles/american-oil-majors-trying-to-get-into-venezuela-b8b8c289d059.html",
       "captured": true,
-      "capture_title": "美国石油巨头重返委内瑞拉受阻 - WSJ",
+      "capture_title": "美国石油巨头重返委内瑞拉受阻",
       "error": ""
     },
     {
@@ -170,6 +170,18 @@
       "snapshot": "articles/us-government-to-take-1-stake-in-globalfoundarie-926deb11d77d.html",
       "captured": true,
       "capture_title": "美国政府将入股格芯1%，计划提供3亿美元资金 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "IBM宣称“量子优势”进入新时代",
+      "summary": "在经历历史性的股价暴跌后，“蓝色巨人”正加紧行动，以证明其量子计算业务能够实现盈利。",
+      "link": "https://cn.wsj.com/articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d",
+      "guid": "WP-WSJS-0003776420",
+      "pub_date": "Thu, 30 Jul 2026 11:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-37525309?size=1.333&width=1280",
+      "snapshot": "articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d-66b9bab2dcd6.html",
+      "captured": true,
+      "capture_title": "IBM宣称“量子优势”进入新时代 - WSJ",
       "error": ""
     },
     {
@@ -194,18 +206,6 @@
       "snapshot": "articles/bmw-to-cut-several-thousand-jobs-in-germany-via--1ce3c4e0ece6.html",
       "captured": true,
       "capture_title": "中国市场困境加剧之际，宝马拟裁员8,000人",
-      "error": ""
-    },
-    {
-      "title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
-      "summary": "随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b",
-      "guid": "WP-WSJS-0003771148",
-      "pub_date": "Tue, 28 Jul 2026 23:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-93390603?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-a7-e5-8f-91-e4-bc-8a-e6-9c-97--e6-88-98-e4-141fc74605c8.html",
-      "captured": true,
-      "capture_title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
       "error": ""
     },
     {
@@ -257,6 +257,18 @@
       "error": ""
     },
     {
+      "title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
+      "summary": "随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。",
+      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b",
+      "guid": "WP-WSJS-0003771148",
+      "pub_date": "Tue, 28 Jul 2026 23:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-93390603?size=1.501&width=1280",
+      "snapshot": "articles/e5-a4-a7-e5-8f-91-e4-bc-8a-e6-9c-97--e6-88-98-e4-141fc74605c8.html",
+      "captured": true,
+      "capture_title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
+      "error": ""
+    },
+    {
       "title": "中美在珠峰竞逐无人机主导权",
       "summary": "华盛顿正寻求在登山辅助技术“竞赛”中为美国技术赢得优势。但中国已经抢占了先机。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9C%A8%E7%8F%A0%E5%B3%B0%E7%AB%9E%E9%80%90%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%BB%E5%AF%BC%E6%9D%83-30163dba",
@@ -266,18 +278,6 @@
       "snapshot": "articles/e4-b8-ad-e7-be-8e-e5-9c-a8-e7-8f-a0-e5-b3-b0-e7--87e27650f0e3.html",
       "captured": true,
       "capture_title": "中美在珠峰竞逐无人机主导权",
-      "error": ""
-    },
-    {
-      "title": "俄罗斯如何将性暴力作为战争武器",
-      "summary": "有证据表明，对乌克兰男性实施性虐待现已成为俄罗斯的一项核心战术。",
-      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BD%9C%E4%B8%BA%E6%88%98%E4%BA%89%E6%AD%A6%E5%99%A8-dfda36a1",
-      "guid": "WP-WSJS-0003765511",
-      "pub_date": "Mon, 27 Jul 2026 04:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-79689691?size=0.75&width=1280",
-      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e5-a6-82-e4-bd-95-e5--fd6a71d0ad0f.html",
-      "captured": true,
-      "capture_title": "俄罗斯如何将性暴力作为战争武器",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
       "captured": true,
       "capture_title": "在美国，课间休息正在消失，家长们行动了",
+      "error": ""
+    },
+    {
+      "title": "俄罗斯如何将性暴力作为战争武器",
+      "summary": "有证据表明，对乌克兰男性实施性虐待现已成为俄罗斯的一项核心战术。",
+      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BD%9C%E4%B8%BA%E6%88%98%E4%BA%89%E6%AD%A6%E5%99%A8-dfda36a1",
+      "guid": "WP-WSJS-0003765511",
+      "pub_date": "Mon, 27 Jul 2026 04:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-79689691?size=0.75&width=1280",
+      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e5-a6-82-e4-bd-95-e5--fd6a71d0ad0f.html",
+      "captured": true,
+      "capture_title": "俄罗斯如何将性暴力作为战争武器",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/stop-the-trucks-inside-taco-bells-rush-to-contai-2c77e7387527.html",
       "captured": true,
       "capture_title": "拦下货车、深夜会议：塔可钟如何极限阻击环孢子虫疫情",
-      "error": ""
-    },
-    {
-      "title": "俄罗斯版“亚马逊”遭乌克兰无人机攻击，中产阶级在家门口直面战争",
-      "summary": "乌克兰的远程无人机袭击将战争带到了俄罗斯城市中产阶级的家门口，最近的行动袭击了该国最大电商Wildberries的物流枢纽。",
-      "link": "https://cn.wsj.com/articles/drone-attacks-on-russias-biggest-online-retailer-bring-war-home-to-middle-class-a4e7b469",
-      "guid": "WP-WSJS-0003760138",
-      "pub_date": "Fri, 24 Jul 2026 00:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-02536359?size=1.43&width=1280",
-      "snapshot": "articles/drone-attacks-on-russias-biggest-online-retailer-e324a2a834a5.html",
-      "captured": true,
-      "capture_title": "俄罗斯版“亚马逊”遭乌克兰无人机攻击，中产阶级在家门口直面战争",
       "error": ""
     }
   ]

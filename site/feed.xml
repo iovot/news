@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 11:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 14:11:47 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 11:11:35 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 14:11:47 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -126,6 +126,13 @@
             <pubDate>Thu, 30 Jul 2026 00:32:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[IBM宣称“量子优势”进入新时代]]></title>
+            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-37525309?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在经历历史性的股价暴跌后，“蓝色巨人”正加紧行动，以证明其量子计算业务能够实现盈利。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d</link>
+            <guid isPermaLink="false">WP-WSJS-0003776420</guid>
+            <pubDate>Thu, 30 Jul 2026 11:23:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meta股价大跌的背后：投资者对有关AI支出的答复不满意]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70123212?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。</p>]]></description>
             <link>https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20</link>
@@ -138,13 +145,6 @@
             <link>https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3</link>
             <guid isPermaLink="false">WP-WSJS-0003772445</guid>
             <pubDate>Wed, 29 Jul 2026 23:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93390603?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b</link>
-            <guid isPermaLink="false">WP-WSJS-0003771148</guid>
-            <pubDate>Tue, 28 Jul 2026 23:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国富豪借离岸架构积累财富的时代正在终结]]></title>
@@ -175,18 +175,18 @@
             <pubDate>Mon, 27 Jul 2026 04:42:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93390603?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b</link>
+            <guid isPermaLink="false">WP-WSJS-0003771148</guid>
+            <pubDate>Tue, 28 Jul 2026 23:45:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中美在珠峰竞逐无人机主导权]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-80365838?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>华盛顿正寻求在登山辅助技术“竞赛”中为美国技术赢得优势。但中国已经抢占了先机。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9C%A8%E7%8F%A0%E5%B3%B0%E7%AB%9E%E9%80%90%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%BB%E5%AF%BC%E6%9D%83-30163dba</link>
             <guid isPermaLink="false">WP-WSJS-0003765413</guid>
             <pubDate>Mon, 27 Jul 2026 03:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯如何将性暴力作为战争武器]]></title>
-            <description><![CDATA[<img width="1280" height="1707" src="https://images.wsj.net/im-79689691?size=0.75&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>有证据表明，对乌克兰男性实施性虐待现已成为俄罗斯的一项核心战术。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BD%9C%E4%B8%BA%E6%88%98%E4%BA%89%E6%AD%A6%E5%99%A8-dfda36a1</link>
-            <guid isPermaLink="false">WP-WSJS-0003765511</guid>
-            <pubDate>Mon, 27 Jul 2026 04:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI助力“一人公司”崛起：单枪匹马也可年入百万美元]]></title>
