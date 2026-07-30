@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 05:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 08:34:43 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 05:45:48 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 08:34:43 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,13 +28,6 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[中国追求AI自主，股市却呈现另一种现实]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84397782?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国希望世界能像看待美国AI产业那样，来看待中国的AI产业。但就目前而言，中国市场依然在看外围的脸色。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%BF%BD%E6%B1%82ai%E8%87%AA%E4%B8%BB-%E8%82%A1%E5%B8%82%E5%8D%B4%E5%91%88%E7%8E%B0%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E-8ddacb8d</link>
-            <guid isPermaLink="false">WP-WSJS-0003768484</guid>
-            <pubDate>Wed, 29 Jul 2026 02:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美国对伊朗周二的突袭行动实施报复]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-21899088?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周三晚间，美军开始实施针对伊朗的打击行动。此次打击行动令即将取得外交突破的希望化为泡影。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%91%A8%E4%BA%8C%E7%9A%84%E7%AA%81%E8%A2%AD%E8%A1%8C%E5%8A%A8%E5%AE%9E%E6%96%BD%E6%8A%A5%E5%A4%8D-e2ba1f11</link>
@@ -42,18 +35,25 @@
             <pubDate>Thu, 30 Jul 2026 04:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储维持利率不变，但有三名官员投票支持加息]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-37675591?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>三位地方联储行长主张加息，这一分歧凸显出，面对已连续五年高于目标的通胀，美联储内部要求采取行动的压力正日益加剧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/fed-holds-rates-steady-but-three-officials-voted-for-increase-0a7fbcd6</link>
-            <guid isPermaLink="false">WP-WSJS-0003775013</guid>
-            <pubDate>Wed, 29 Jul 2026 23:33:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-98440283?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周三，存储芯片制造商SK海力士公布的季度利润达到创纪录的640亿美元，但股价仍下跌近10%。</p>]]></description>
             <link>https://cn.wsj.com/articles/even-64-billion-in-quarterly-profit-is-a-disappointment-for-chip-investors-5a8ab57e</link>
             <guid isPermaLink="false">WP-WSJS-0003775177</guid>
             <pubDate>Thu, 30 Jul 2026 03:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta股价大跌的背后：投资者对有关AI支出的答复不满意]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70123212?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。</p>]]></description>
+            <link>https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20</link>
+            <guid isPermaLink="false">WP-WSJS-0003775557</guid>
+            <pubDate>Thu, 30 Jul 2026 02:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储维持利率不变，但有三名官员投票支持加息]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-37675591?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>三位地方联储行长主张加息，这一分歧凸显出，面对已连续五年高于目标的通胀，美联储内部要求采取行动的压力正日益加剧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/fed-holds-rates-steady-but-three-officials-voted-for-increase-0a7fbcd6</link>
+            <guid isPermaLink="false">WP-WSJS-0003775013</guid>
+            <pubDate>Wed, 29 Jul 2026 23:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[福奇出席新冠听证会，100多次援引第五修正案保持沉默]]></title>
@@ -70,18 +70,18 @@
             <pubDate>Thu, 30 Jul 2026 01:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本熊本地震致商场坍塌；死亡人数升至13人]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-30593949?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周二，日本南部发生强烈地震，震中位于科技重镇熊本县，台积电在此设有一家工厂。该地区已有逾20万人接到疏散指令。</p>]]></description>
-            <link>https://cn.wsj.com/articles/japanquake-leads-to-mall-collapse-trapping-people-inside-4f27fb6b</link>
-            <guid isPermaLink="false">WP-WSJS-0003771129</guid>
-            <pubDate>Wed, 29 Jul 2026 02:59:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[中国在与美国的太空竞赛中缩小卫星领域差距]]></title>
             <description><![CDATA[<img width="1280" height="640" src="https://images.wsj.net/im-43966282?size=2&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北京方面逐步削弱美国的太空实力，并更清晰地掌握美军动向。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B%E4%B8%AD%E7%BC%A9%E5%B0%8F%E5%8D%AB%E6%98%9F%E9%A2%86%E5%9F%9F%E5%B7%AE%E8%B7%9D-515c775f</link>
             <guid isPermaLink="false">WP-WSJS-0003775422</guid>
             <pubDate>Thu, 30 Jul 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国追求AI自主，股市却呈现另一种现实]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84397782?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国希望世界能像看待美国AI产业那样，来看待中国的AI产业。但就目前而言，中国市场依然在看外围的脸色。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%BF%BD%E6%B1%82ai%E8%87%AA%E4%B8%BB-%E8%82%A1%E5%B8%82%E5%8D%B4%E5%91%88%E7%8E%B0%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%B0%E5%AE%9E-8ddacb8d</link>
+            <guid isPermaLink="false">WP-WSJS-0003768484</guid>
+            <pubDate>Wed, 29 Jul 2026 02:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国如何从大型石油公司的理想客户变成噩梦？]]></title>
@@ -91,13 +91,6 @@
             <pubDate>Thu, 30 Jul 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meta股价大跌的背后：投资者对有关AI支出的答复不满意]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70123212?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在如何将巨额AI支出变现的问题上，Meta和微软释放出截然不同的信号，前者股价下跌，而后者股价上涨。</p>]]></description>
-            <link>https://cn.wsj.com/articles/meta-stumbles-as-tech-investors-demand-better-answers-on-ai-spending-6fb57f20</link>
-            <guid isPermaLink="false">WP-WSJS-0003775557</guid>
-            <pubDate>Thu, 30 Jul 2026 02:36:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[针对Anthropic的抵制情绪正在硅谷积聚]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-91528247?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家AI先驱正面临来自初创公司创始人和研究人员日益加剧的不信任，原因在于其竞争策略、安全防护措施以及对开放权重模型缺乏支持。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E9%92%88%E5%AF%B9anthropic%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E6%AD%A3%E5%9C%A8%E7%A1%85%E8%B0%B7%E7%A7%AF%E8%81%9A-27b264c1</link>
@@ -105,18 +98,18 @@
             <pubDate>Wed, 29 Jul 2026 03:17:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[日本强震80分钟后商场突发爆炸，致至少三人遇难]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-19943669?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据信共有28人在日本熊本此次地震中丧生。在经受住最初的剧烈摇晃后，80分钟后的爆炸导致永旺商场建筑物部分坍塌。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-quake-struck-japan-eighty-minutes-later-a-lethal-explosion-8b676f90</link>
+            <guid isPermaLink="false">WP-WSJS-0003775908</guid>
+            <pubDate>Thu, 30 Jul 2026 07:01:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JetZero翼身融合飞机设计能否挑战波音霸主地位？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-07396524?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国初创公司JetZero正研发翼身融合客机Z4，试图打破波音在美国的垄断地位，并已获得美国进出口银行30亿美元的贷款支持。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-05485693?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国初创公司JetZero正研发翼身融合客机Z4，试图打破波音在美国的垄断地位，并已获得美国进出口银行30亿美元的贷款支持。</p>]]></description>
             <link>https://cn.wsj.com/articles/could-the-most-radical-plane-design-since-the-concorde-take-on-boeing-503bf9d3</link>
             <guid isPermaLink="false">WP-WSJS-0003775798</guid>
             <pubDate>Thu, 30 Jul 2026 04:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国市场困境加剧之际，宝马拟裁员8,000人]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-24319197?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宝马在两个最重要的市场正面临越来越大的压力。在中国，激烈的竞争和不断萎缩的市场冲击了销量；在美国，更高的关税则削弱了利润。</p>]]></description>
-            <link>https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3</link>
-            <guid isPermaLink="false">WP-WSJS-0003772445</guid>
-            <pubDate>Wed, 29 Jul 2026 23:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国政府将入股格芯1%，计划提供3亿美元资金]]></title>
@@ -124,6 +117,13 @@
             <link>https://cn.wsj.com/articles/us-government-to-take-1-stake-in-globalfoundaries-plans-to-grant-300-million-award-3bcd0a3a</link>
             <guid isPermaLink="false">WP-WSJS-0003775233</guid>
             <pubDate>Thu, 30 Jul 2026 00:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国市场困境加剧之际，宝马拟裁员8,000人]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-24319197?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宝马在两个最重要的市场正面临越来越大的压力。在中国，激烈的竞争和不断萎缩的市场冲击了销量；在美国，更高的关税则削弱了利润。</p>]]></description>
+            <link>https://cn.wsj.com/articles/bmw-to-cut-several-thousand-jobs-in-germany-via-voluntary-severance-program-04b57dc3</link>
+            <guid isPermaLink="false">WP-WSJS-0003772445</guid>
+            <pubDate>Wed, 29 Jul 2026 23:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？]]></title>
