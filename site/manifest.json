@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T11:34:14.327537+00:00",
+  "generated_at": "2026-07-31T14:22:50.206027+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-14801?size=1.5&width=1280",
       "snapshot": "articles/e5-b0-8f-e7-b1-b3-e9-9b-86-e5-9b-a2-e8-82-a1-e4--eed9472b4bb0.html",
       "captured": true,
-      "capture_title": "小米集团股价下挫，新款SUV定价引发担忧 - WSJ",
+      "capture_title": "小米集团股价下挫，新款SUV定价引发担忧",
       "error": ""
     },
     {
@@ -197,6 +197,18 @@
       "error": ""
     },
     {
+      "title": "大型石油公司从能源市场动荡中获利丰厚",
+      "summary": "伊朗战争引发全球市场历史性错位，推动能源价格飙升之后，美国几家最大石油公司交出了异常强劲的季度业绩。",
+      "link": "https://cn.wsj.com/articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-2026-stock-1cf89287",
+      "guid": "WP-WSJS-0003780361",
+      "pub_date": "Fri, 31 Jul 2026 11:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-57532300?size=1.537&width=1280",
+      "snapshot": "articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-20-ddaf8603250f.html",
+      "captured": true,
+      "capture_title": "大型石油公司从能源市场动荡中获利丰厚 - WSJ",
+      "error": ""
+    },
+    {
       "title": "FIFA这项200亿美元计划正在撕裂全球足坛",
       "summary": "国际足联公布将把旗下最受欢迎赛事的商业权益剥离至一家非上市公司。此举引起强烈反弹，欧洲国家宣布将抵制包括世界杯在内的所有FIFA赛事。",
       "link": "https://cn.wsj.com/articles/fifa-world-cup-private-equity-infantino-kushner-13d8dea8",
@@ -206,18 +218,6 @@
       "snapshot": "articles/fifa-world-cup-private-equity-infantino-kushner--871279eb26f1.html",
       "captured": true,
       "capture_title": "FIFA这项200亿美元计划正在撕裂全球足坛",
-      "error": ""
-    },
-    {
-      "title": "IBM宣称“量子优势”进入新时代",
-      "summary": "在经历历史性的股价暴跌后，“蓝色巨人”正加紧行动，以证明其量子计算业务能够实现盈利。",
-      "link": "https://cn.wsj.com/articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d",
-      "guid": "WP-WSJS-0003776420",
-      "pub_date": "Thu, 30 Jul 2026 11:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-37525309?size=1.333&width=1280",
-      "snapshot": "articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d-66b9bab2dcd6.html",
-      "captured": true,
-      "capture_title": "IBM宣称“量子优势”进入新时代",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/e7-99-be-e4-b8-87-e5-b9-b4-e8-96-aa-e4-ba-ba-e6--81b848da75e4.html",
       "captured": true,
       "capture_title": "百万年薪人才争夺战：华尔街与硅谷抢20多岁的“数学天才”",
+      "error": ""
+    },
+    {
+      "title": "IBM宣称“量子优势”进入新时代",
+      "summary": "在经历历史性的股价暴跌后，“蓝色巨人”正加紧行动，以证明其量子计算业务能够实现盈利。",
+      "link": "https://cn.wsj.com/articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d",
+      "guid": "WP-WSJS-0003776420",
+      "pub_date": "Thu, 30 Jul 2026 11:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-37525309?size=1.333&width=1280",
+      "snapshot": "articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d-66b9bab2dcd6.html",
+      "captured": true,
+      "capture_title": "IBM宣称“量子优势”进入新时代",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-9b-a0-e8-b0-b7-e6--ee0c3cfff7c2.html",
       "captured": true,
       "capture_title": "特朗普在谷歌被罚后威胁对欧盟加征新关税 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国众议院民主党人是如何转向反对援助以色列的？",
-      "summary": "从领导层到千禧一代，民主党内部在以色列问题上的立场是如何转变的，又是谁引领了这一变化。",
-      "link": "https://cn.wsj.com/articles/israel-aid-vote-democrats-439c719e",
-      "guid": "WP-WSJS-0003765212",
-      "pub_date": "Mon, 27 Jul 2026 01:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-02776359?size=1.501&width=1280",
-      "snapshot": "articles/israel-aid-vote-democrats-439c719e-4dda6bc97cf9.html",
-      "captured": true,
-      "capture_title": "美国众议院民主党人是如何转向反对援助以色列的？ - WSJ",
       "error": ""
     }
   ]

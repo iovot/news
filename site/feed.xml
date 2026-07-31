@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 11:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 14:20:09 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 11:32:20 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 14:20:09 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -140,18 +140,18 @@
             <pubDate>Thu, 30 Jul 2026 23:31:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[大型石油公司从能源市场动荡中获利丰厚]]></title>
+            <description><![CDATA[<img width="1280" height="833" src="https://images.wsj.net/im-57532300?size=1.537&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗战争引发全球市场历史性错位，推动能源价格飙升之后，美国几家最大石油公司交出了异常强劲的季度业绩。</p>]]></description>
+            <link>https://cn.wsj.com/articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-2026-stock-1cf89287</link>
+            <guid isPermaLink="false">WP-WSJS-0003780361</guid>
+            <pubDate>Fri, 31 Jul 2026 11:03:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[FIFA这项200亿美元计划正在撕裂全球足坛]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-73187253?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>国际足联公布将把旗下最受欢迎赛事的商业权益剥离至一家非上市公司。此举引起强烈反弹，欧洲国家宣布将抵制包括世界杯在内的所有FIFA赛事。</p>]]></description>
             <link>https://cn.wsj.com/articles/fifa-world-cup-private-equity-infantino-kushner-13d8dea8</link>
             <guid isPermaLink="false">WP-WSJS-0003779377</guid>
             <pubDate>Fri, 31 Jul 2026 00:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM宣称“量子优势”进入新时代]]></title>
-            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-37525309?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在经历历史性的股价暴跌后，“蓝色巨人”正加紧行动，以证明其量子计算业务能够实现盈利。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ibm-claims-new-era-of-quantum-advantage-ade7b99d</link>
-            <guid isPermaLink="false">WP-WSJS-0003776420</guid>
-            <pubDate>Thu, 30 Jul 2026 11:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI助力“一人公司”崛起：单枪匹马也可年入百万美元]]></title>
