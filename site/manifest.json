@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T09:04:23.999129+00:00",
+  "generated_at": "2026-07-31T11:34:14.327537+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-42419052?size=1.643&width=1280",
       "snapshot": "articles/tesla-weighs-sale-of-china-business-to-pave-way--92356ed90572.html",
       "captured": true,
-      "capture_title": "特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路 - WSJ",
+      "capture_title": "特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-24059196?size=1.333&width=1280",
       "snapshot": "articles/panama-infuriated-china-now-its-paying-the-price-99668e632cb1.html",
       "captured": true,
-      "capture_title": "巴拿马正为激怒中国付出代价 - WSJ",
+      "capture_title": "巴拿马正为激怒中国付出代价",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-71153038?size=1.501&width=1280",
       "snapshot": "articles/u-s-says-hamas-has-agreed-to-broad-plan-to-disar-557f2c70cc37.html",
       "captured": true,
-      "capture_title": "美国称哈马斯已同意解除武装的总体计划 - WSJ",
+      "capture_title": "美国称哈马斯已同意解除武装的总体计划",
       "error": ""
     },
     {
@@ -109,7 +109,19 @@
       "image_url": "https://images.wsj.net/im-81266780?size=1.466&width=1280",
       "snapshot": "articles/situational-awareness-down-67-in-july-in-ai-stoc-84f5ad612b22.html",
       "captured": true,
-      "capture_title": "Situational Awareness 7月在AI股抛售潮中重挫67% - WSJ",
+      "capture_title": "Situational Awareness 7月在AI股抛售潮中重挫67%",
+      "error": ""
+    },
+    {
+      "title": "福奇如何从抗疫明星变为沉默证人",
+      "summary": "作为美国新冠疫情期间最著名的医学专家，福奇正面临着对其个人声誉的最大挑战。",
+      "link": "https://cn.wsj.com/articles/faucis-turn-from-pandemic-star-to-silent-witness-13bcb26d",
+      "guid": "WP-WSJS-0003779773",
+      "pub_date": "Fri, 31 Jul 2026 03:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-75222002?size=1.5&width=1280",
+      "snapshot": "articles/faucis-turn-from-pandemic-star-to-silent-witness-cb05c17e88e6.html",
+      "captured": true,
+      "capture_title": "福奇如何从抗疫明星变为沉默证人",
       "error": ""
     },
     {
@@ -121,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-24759563?size=1&width=1280",
       "snapshot": "articles/trump-donations-company-fundraising-af433826-7d0e50d1b6ac.html",
       "captured": true,
-      "capture_title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动 - WSJ",
+      "capture_title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动",
       "error": ""
     },
     {
@@ -134,18 +146,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e8-80-83-e8-99-91-e5-af-b9-e5--c7c6add061bd.html",
       "captured": true,
       "capture_title": "美国考虑对希望留美工作的外国毕业生收取10万美元费用",
-      "error": ""
-    },
-    {
-      "title": "福奇如何从抗疫明星变为沉默证人",
-      "summary": "作为美国新冠疫情期间最著名的医学专家，福奇正面临着对其个人声誉的最大挑战。",
-      "link": "https://cn.wsj.com/articles/faucis-turn-from-pandemic-star-to-silent-witness-13bcb26d",
-      "guid": "WP-WSJS-0003779773",
-      "pub_date": "Fri, 31 Jul 2026 03:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-75222002?size=1.5&width=1280",
-      "snapshot": "articles/faucis-turn-from-pandemic-star-to-silent-witness-cb05c17e88e6.html",
-      "captured": true,
-      "capture_title": "福奇如何从抗疫明星变为沉默证人 - WSJ",
       "error": ""
     },
     {
@@ -301,7 +301,7 @@
       "image_url": "https://images.wsj.net/im-46934796?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e7-99-be-e4-b8-87-e5-b9-b4-e8-96-aa-e4-ba-ba-e6--81b848da75e4.html",
       "captured": true,
-      "capture_title": "百万年薪人才争夺战：华尔街与硅谷抢20多岁的“数学天才” - WSJ",
+      "capture_title": "百万年薪人才争夺战：华尔街与硅谷抢20多岁的“数学天才”",
       "error": ""
     },
     {

@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 08:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 11:32:20 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 08:55:51 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 11:32:20 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -91,6 +91,13 @@
             <pubDate>Fri, 31 Jul 2026 07:25:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[福奇如何从抗疫明星变为沉默证人]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-75222002?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为美国新冠疫情期间最著名的医学专家，福奇正面临着对其个人声誉的最大挑战。</p>]]></description>
+            <link>https://cn.wsj.com/articles/faucis-turn-from-pandemic-star-to-silent-witness-13bcb26d</link>
+            <guid isPermaLink="false">WP-WSJS-0003779773</guid>
+            <pubDate>Fri, 31 Jul 2026 03:55:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[“老板要这笔钱”：起底特朗普史无前例的筹款行动]]></title>
             <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-24759563?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>绰号“黑暗公主”的梅雷迪思·奥罗克执行特朗普的意愿，设法为他的项目从企业手中获取数亿美元资金。</p>]]></description>
             <link>https://cn.wsj.com/articles/trump-donations-company-fundraising-af433826</link>
@@ -103,13 +110,6 @@
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%AF%B9%E5%B8%8C%E6%9C%9B%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%A4%96%E5%9B%BD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%94%B6%E5%8F%9610%E4%B8%87%E7%BE%8E%E5%85%83%E8%B4%B9%E7%94%A8-7b8cc97c</link>
             <guid isPermaLink="false">WP-WSJS-0003779285</guid>
             <pubDate>Thu, 30 Jul 2026 23:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福奇如何从抗疫明星变为沉默证人]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-75222002?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为美国新冠疫情期间最著名的医学专家，福奇正面临着对其个人声誉的最大挑战。</p>]]></description>
-            <link>https://cn.wsj.com/articles/faucis-turn-from-pandemic-star-to-silent-witness-13bcb26d</link>
-            <guid isPermaLink="false">WP-WSJS-0003779773</guid>
-            <pubDate>Fri, 31 Jul 2026 03:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[小米集团股价下挫，新款SUV定价引发担忧]]></title>
