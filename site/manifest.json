@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T03:29:06.379864+00:00",
+  "generated_at": "2026-08-01T08:31:13.488506+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-90566421?size=1.501&width=1280",
       "snapshot": "articles/trump-sours-on-diplomacy-vows-to-hit-iran-hard-c-1fd0cef73dcf.html",
       "captured": true,
-      "capture_title": "特朗普下令对伊朗发动新一轮袭击 - WSJ",
+      "capture_title": "特朗普下令对伊朗发动新一轮袭击",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-99570298?size=1.499&width=1280",
       "snapshot": "articles/amazon-and-apple-deliver-the-drama-to-close-a-tu-29d95bd4699f.html",
       "captured": true,
-      "capture_title": "亚马逊和苹果上演戏剧性一幕，为美股动荡7月画上句号 - WSJ",
+      "capture_title": "亚马逊和苹果上演戏剧性一幕，为美股动荡7月画上句号",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-82176998?size=1.501&width=1280",
       "snapshot": "articles/latest-gaza-peace-plan-runs-up-against-reality-2-7f09af60e1ee.html",
       "captured": true,
-      "capture_title": "最新加沙和平计划难敌现实 - WSJ",
+      "capture_title": "最新加沙和平计划难敌现实",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-68216905?size=1.501&width=1280",
       "snapshot": "articles/spain-rushes-to-control-border-after-tens-of-tho-2668155d0f10.html",
       "captured": true,
-      "capture_title": "数万移民涌入飞地休达，西班牙紧急加强边境管控 - WSJ",
+      "capture_title": "数万移民涌入飞地休达，西班牙紧急加强边境管控",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-53687211?size=1.502&width=1280",
       "snapshot": "articles/treasury-warns-banks-it-might-intervene-in-dolla-d874d8214879.html",
       "captured": true,
-      "capture_title": "美国财政部警告银行业：或将干预美元兑日圆汇率 - WSJ",
+      "capture_title": "美国财政部警告银行业：或将干预美元兑日圆汇率",
       "error": ""
     },
     {
