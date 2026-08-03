@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:29:00.782943+00:00",
+  "generated_at": "2026-08-03T09:59:20.905092+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-09338930?size=1.499&width=1276",
       "snapshot": "articles/u-s-allies-put-frictions-aside-showing-china-com-d66953e52e8e.html",
       "captured": true,
-      "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量 - WSJ",
+      "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-46771662?size=1.501&width=1280",
       "snapshot": "articles/trump-pivots-back-to-diplomacy-as-iran-victory-e-8ea5f214e994.html",
       "captured": true,
-      "capture_title": "对伊胜利难寻，特朗普重回外交路线 - WSJ",
+      "capture_title": "对伊胜利难寻，特朗普重回外交路线",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-21027007?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e8-82-a1-e6-93-85-e9-95-bf-e5-88-b6-e9--0d7e15ee026d.html",
       "captured": true,
-      "capture_title": "美股擅长制造泡沫，也能从容化解 - WSJ",
+      "capture_title": "美股擅长制造泡沫，也能从容化解",
       "error": ""
     },
     {
@@ -49,19 +49,31 @@
       "image_url": "https://images.wsj.net/im-34909188?size=1.501&width=1280",
       "snapshot": "articles/chinaprivate-manufacturing-gauge-shows-weaker-ac-c6fc3048a76f.html",
       "captured": true,
-      "capture_title": "中国7月民间制造业指数显示扩张势头放缓 - WSJ",
+      "capture_title": "中国7月民间制造业指数显示扩张势头放缓",
       "error": ""
     },
     {
-      "title": "美国科技巨头业绩引发严重估值分化",
-      "summary": "上周美国几家顶尖科技巨头的财报引发严重的股价分化，与此同时，美联储引发的债券抛售也加大了市场压力。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E5%BC%95%E5%8F%91%E4%B8%A5%E9%87%8D%E4%BC%B0%E5%80%BC%E5%88%86%E5%8C%96-7b91378b",
-      "guid": "WP-WSJS-0003785058",
-      "pub_date": "Mon, 03 Aug 2026 02:09:00 GMT",
-      "image_url": "https://images.wsj.net/im-74632558?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-a7-91-e6-8a-80-e5-b7-a8-e5--b2787e595abc.html",
+      "title": "失控AI发动黑客攻击，预示网络混乱新时代到来",
+      "summary": "OpenAI和Anthropic的模型发生“越狱”，印证了安全专家对AI风险的担忧。",
+      "link": "https://cn.wsj.com/articles/%E5%A4%B1%E6%8E%A7ai%E5%8F%91%E5%8A%A8%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-%E9%A2%84%E7%A4%BA%E7%BD%91%E7%BB%9C%E6%B7%B7%E4%B9%B1%E6%96%B0%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5-e7f140e7",
+      "guid": "WP-WSJS-0003785102",
+      "pub_date": "Mon, 03 Aug 2026 02:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-89414941?size=1.501&width=1280",
+      "snapshot": "articles/e5-a4-b1-e6-8e-a7ai-e5-8f-91-e5-8a-a8-e9-bb-91-e-9ae7a906149c.html",
       "captured": true,
-      "capture_title": "美国科技巨头业绩引发严重估值分化 - WSJ",
+      "capture_title": "失控AI发动黑客攻击，预示网络混乱新时代到来 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "克里姆林宫正威逼更多俄罗斯人赴乌克兰参战",
+      "summary": "手段越来越多地包括殴打和操纵。这也引发了俄罗斯分析人士和该国政治阶层猜测，这是否是新一轮征兵的前兆。",
+      "link": "https://cn.wsj.com/articles/%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E6%AD%A3%E5%A8%81%E9%80%BC%E6%9B%B4%E5%A4%9A%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E8%B5%B4%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%82%E6%88%98-31b9879a",
+      "guid": "WP-WSJS-0003785171",
+      "pub_date": "Mon, 03 Aug 2026 03:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-92560120?size=1.501&width=1280",
+      "snapshot": "articles/e5-85-8b-e9-87-8c-e5-a7-86-e6-9e-97-e5-ae-ab-e6--5e56ea8d4143.html",
+      "captured": true,
+      "capture_title": "克里姆林宫正威逼更多俄罗斯人赴乌克兰参战 - WSJ",
       "error": ""
     },
     {
@@ -77,15 +89,15 @@
       "error": ""
     },
     {
-      "title": "数万移民涌入飞地休达，西班牙紧急加强边境管控",
-      "summary": "混乱场面引发了外界的疑问：这些移民是否能进而前往欧洲其他地方。周五有迹象表明，由于过于拥挤，数千移民已返回摩洛哥。",
-      "link": "https://cn.wsj.com/articles/spain-rushes-to-control-border-after-tens-of-thousands-of-migrants-flood-into-exclave-4e57153d",
-      "guid": "WP-WSJS-0003783044",
-      "pub_date": "Sat, 01 Aug 2026 00:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-68216905?size=1.501&width=1280",
-      "snapshot": "articles/spain-rushes-to-control-border-after-tens-of-tho-2668155d0f10.html",
+      "title": "先放手发展，后落地监管：中国经济活力的悖论",
+      "summary": "在美国，监管往往会保护守成者，却压抑了创业热情。中国则先给初创企业留足成长空间，随后再对创始人出手整顿。",
+      "link": "https://cn.wsj.com/articles/move-fast-and-regulate-later-the-paradox-of-chinas-economic-dynamism-5338b026",
+      "guid": "WP-WSJS-0003785268",
+      "pub_date": "Mon, 03 Aug 2026 06:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-91914561?size=1.501&width=1280",
+      "snapshot": "articles/move-fast-and-regulate-later-the-paradox-of-chin-a8c81fa9afa6.html",
       "captured": true,
-      "capture_title": "数万移民涌入飞地休达，西班牙紧急加强边境管控",
+      "capture_title": "先放手发展，后落地监管：中国经济活力的悖论 - WSJ",
       "error": ""
     },
     {
@@ -97,19 +109,19 @@
       "image_url": "https://images.wsj.net/im-29899458?size=1.501&width=1280",
       "snapshot": "articles/the-race-to-build-an-american-alternative-to-che-524d7080305f.html",
       "captured": true,
-      "capture_title": "美国公司加紧打造中国低成本AI的替代品 - WSJ",
+      "capture_title": "美国公司加紧打造中国低成本AI的替代品",
       "error": ""
     },
     {
-      "title": "巴拿马正为激怒中国付出代价",
-      "summary": "在巴拿马撤销长和在巴拿马运河两端港口的经营权后，中国政府正采取措施对巴拿马施压。",
-      "link": "https://cn.wsj.com/articles/panama-infuriated-china-now-its-paying-the-price-2c884e5c",
-      "guid": "WP-WSJS-0003780041",
-      "pub_date": "Fri, 31 Jul 2026 07:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-24059196?size=1.333&width=1280",
-      "snapshot": "articles/panama-infuriated-china-now-its-paying-the-price-99668e632cb1.html",
+      "title": "佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案",
+      "summary": "一起涉及美中两地的复杂抚养权纠纷案，揭示了美国处于监管盲区的代孕产业在遇到变故时，无法为意向父母、代孕母亲及婴儿三方提供有效保障。",
+      "link": "https://cn.wsj.com/articles/a-florida-surrogate-a-father-in-china-and-the-babies-caught-between-bbdb23b2",
+      "guid": "WP-WSJS-0003785133",
+      "pub_date": "Mon, 03 Aug 2026 03:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-22428667?size=0.764&width=1280",
+      "snapshot": "articles/a-florida-surrogate-a-father-in-china-and-the-ba-3344cc2b8878.html",
       "captured": true,
-      "capture_title": "巴拿马正为激怒中国付出代价",
+      "capture_title": "佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案 - WSJ",
       "error": ""
     },
     {
@@ -125,6 +137,30 @@
       "error": ""
     },
     {
+      "title": "巴拿马正为激怒中国付出代价",
+      "summary": "在巴拿马撤销长和在巴拿马运河两端港口的经营权后，中国政府正采取措施对巴拿马施压。",
+      "link": "https://cn.wsj.com/articles/panama-infuriated-china-now-its-paying-the-price-2c884e5c",
+      "guid": "WP-WSJS-0003780041",
+      "pub_date": "Fri, 31 Jul 2026 07:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-24059196?size=1.333&width=1280",
+      "snapshot": "articles/panama-infuriated-china-now-its-paying-the-price-99668e632cb1.html",
+      "captured": true,
+      "capture_title": "巴拿马正为激怒中国付出代价",
+      "error": ""
+    },
+    {
+      "title": "OpenAI如何失去AI王冠——又欲如何重新夺回",
+      "summary": "当OpenAI将精力放在视频生成器、消费设备和芯片等一系列花哨项目上时，Anthropic开发出了一款大受欢迎的编程工具，并借此取得了领先地位。",
+      "link": "https://cn.wsj.com/articles/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-405345b4",
+      "guid": "WP-WSJS-0003785229",
+      "pub_date": "Mon, 03 Aug 2026 04:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-42618220?size=1.501&width=1280",
+      "snapshot": "articles/how-openai-lost-its-ai-crownand-the-fight-to-win-a929aced65b4.html",
+      "captured": true,
+      "capture_title": "OpenAI如何失去AI王冠——又欲如何重新夺回 - WSJ",
+      "error": ""
+    },
+    {
       "title": "新《蜘蛛侠》创好莱坞史上第二高首映纪录，中国成最大海外票仓",
       "summary": "该片北美首周末票房仅略低于《复仇者联盟4：终局之战》在2019年创下的纪录。中国以1.21亿美元的成绩成为《崭新之日》最大的海外票仓。",
       "link": "https://cn.wsj.com/articles/spider-man-box-office-record-2026-5acca09b",
@@ -133,31 +169,19 @@
       "image_url": "https://images.wsj.net/im-00491632?size=1.501&width=1280",
       "snapshot": "articles/spider-man-box-office-record-2026-5acca09b-40fa531a6205.html",
       "captured": true,
-      "capture_title": "新《蜘蛛侠》创好莱坞史上第二高首映纪录，中国成最大海外票仓 - WSJ",
+      "capture_title": "新《蜘蛛侠》创好莱坞史上第二高首映纪录，中国成最大海外票仓",
       "error": ""
     },
     {
-      "title": "美国考虑对希望留美工作的外国毕业生收取10万美元费用",
-      "summary": "若该计划付诸实施，将极大推进美国总统特朗普限制几乎所有形式合法移民的举措。此举将尤其影响硅谷、华尔街和大学。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%AF%B9%E5%B8%8C%E6%9C%9B%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%A4%96%E5%9B%BD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%94%B6%E5%8F%9610%E4%B8%87%E7%BE%8E%E5%85%83%E8%B4%B9%E7%94%A8-7b8cc97c",
-      "guid": "WP-WSJS-0003779285",
-      "pub_date": "Thu, 30 Jul 2026 23:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-64004635?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e8-80-83-e8-99-91-e5-af-b9-e5--c7c6add061bd.html",
-      "captured": true,
-      "capture_title": "美国考虑对希望留美工作的外国毕业生收取10万美元费用",
-      "error": ""
-    },
-    {
-      "title": "日本干预汇市支撑日圆，美国财政部参与其中",
-      "summary": "日本财务省在美国时间周五与美国财政部协同，入市干预买进日圆。",
+      "title": "美日联合干预汇市以提振日圆，为1998年以来首次",
+      "summary": "日本财务大臣片山皋月周一表示，日本财务省和美国财政部干预了市场以支撑日圆。日圆此前一直呈走弱趋势，日圆兑美元在上月底触及40年来的低点。",
       "link": "https://cn.wsj.com/articles/japan-intervened-to-support-yen-together-with-u-s-treasury-ce3f49c6",
       "guid": "WP-WSJS-0003785088",
-      "pub_date": "Mon, 03 Aug 2026 02:15:00 GMT",
+      "pub_date": "Mon, 03 Aug 2026 06:13:00 GMT",
       "image_url": "https://images.wsj.net/im-85103712?size=1.515&width=1280",
       "snapshot": "articles/japan-intervened-to-support-yen-together-with-u--fea5bae6b6c9.html",
       "captured": true,
-      "capture_title": "日本干预汇市支撑日圆，美国财政部参与其中 - WSJ",
+      "capture_title": "美日联合干预汇市以提振日圆，为1998年以来首次",
       "error": ""
     },
     {
@@ -181,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-51960240?size=1.501&width=1280",
       "snapshot": "articles/e6-ac-a7-e4-bd-a9-e5-85-8b-e5-8f-8a-e5-85-b6-e7--d127d951aa5f.html",
       "captured": true,
-      "capture_title": "欧佩克及其盟友连续第六次增产 - WSJ",
+      "capture_title": "欧佩克及其盟友连续第六次增产",
       "error": ""
     },
     {
@@ -193,19 +217,7 @@
       "image_url": "https://images.wsj.net/im-41367408?size=1.501&width=1280",
       "snapshot": "articles/security-flaw-placed-30-years-of-dna-evidence-at-e01b0764133b.html",
       "captured": true,
-      "capture_title": "安全漏洞致使全美30年来的DNA证据面临黑客攻击风险 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "大型石油公司从能源市场动荡中获利丰厚",
-      "summary": "伊朗战争引发全球市场历史性错位，推动能源价格飙升之后，美国几家最大石油公司交出了异常强劲的季度业绩。",
-      "link": "https://cn.wsj.com/articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-2026-stock-1cf89287",
-      "guid": "WP-WSJS-0003780361",
-      "pub_date": "Fri, 31 Jul 2026 11:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-57532300?size=1.537&width=1280",
-      "snapshot": "articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-20-ddaf8603250f.html",
-      "captured": true,
-      "capture_title": "大型石油公司从能源市场动荡中获利丰厚",
+      "capture_title": "安全漏洞致使全美30年来的DNA证据面临黑客攻击风险",
       "error": ""
     },
     {
@@ -278,6 +290,66 @@
       "snapshot": "articles/chinas-tycoons-made-fortunes-offshore-now-the-pa-2ba9b97d1be3.html",
       "captured": true,
       "capture_title": "中国富豪借离岸架构积累财富的时代正在终结",
+      "error": ""
+    },
+    {
+      "title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？",
+      "summary": "面对充斥着机器生成内容的社交动态，有哪些实用的建议。",
+      "link": "https://cn.wsj.com/articles/ai-slop-blurring-reality-podcast-36d44383",
+      "guid": "WP-WSJS-0003785175",
+      "pub_date": "Mon, 03 Aug 2026 03:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-38514513?size=1.501&width=1280",
+      "snapshot": "articles/ai-slop-blurring-reality-podcast-36d44383-3cfe798e4de0.html",
+      "captured": true,
+      "capture_title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？ - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国科技巨头业绩引发严重估值分化",
+      "summary": "上周美国几家顶尖科技巨头的财报引发严重的股价分化，与此同时，美联储引发的债券抛售也加大了市场压力。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E5%BC%95%E5%8F%91%E4%B8%A5%E9%87%8D%E4%BC%B0%E5%80%BC%E5%88%86%E5%8C%96-7b91378b",
+      "guid": "WP-WSJS-0003785058",
+      "pub_date": "Mon, 03 Aug 2026 02:09:00 GMT",
+      "image_url": "https://images.wsj.net/im-74632558?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-a7-91-e6-8a-80-e5-b7-a8-e5--b2787e595abc.html",
+      "captured": true,
+      "capture_title": "美国科技巨头业绩引发严重估值分化 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "数万移民涌入飞地休达，西班牙紧急加强边境管控",
+      "summary": "混乱场面引发了外界的疑问：这些移民是否能进而前往欧洲其他地方。周五有迹象表明，由于过于拥挤，数千移民已返回摩洛哥。",
+      "link": "https://cn.wsj.com/articles/spain-rushes-to-control-border-after-tens-of-thousands-of-migrants-flood-into-exclave-4e57153d",
+      "guid": "WP-WSJS-0003783044",
+      "pub_date": "Sat, 01 Aug 2026 00:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-68216905?size=1.501&width=1280",
+      "snapshot": "articles/spain-rushes-to-control-border-after-tens-of-tho-2668155d0f10.html",
+      "captured": true,
+      "capture_title": "数万移民涌入飞地休达，西班牙紧急加强边境管控",
+      "error": ""
+    },
+    {
+      "title": "美国考虑对希望留美工作的外国毕业生收取10万美元费用",
+      "summary": "若该计划付诸实施，将极大推进美国总统特朗普限制几乎所有形式合法移民的举措。此举将尤其影响硅谷、华尔街和大学。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%AF%B9%E5%B8%8C%E6%9C%9B%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%A4%96%E5%9B%BD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%94%B6%E5%8F%9610%E4%B8%87%E7%BE%8E%E5%85%83%E8%B4%B9%E7%94%A8-7b8cc97c",
+      "guid": "WP-WSJS-0003779285",
+      "pub_date": "Thu, 30 Jul 2026 23:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-64004635?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e8-80-83-e8-99-91-e5-af-b9-e5--c7c6add061bd.html",
+      "captured": true,
+      "capture_title": "美国考虑对希望留美工作的外国毕业生收取10万美元费用",
+      "error": ""
+    },
+    {
+      "title": "大型石油公司从能源市场动荡中获利丰厚",
+      "summary": "伊朗战争引发全球市场历史性错位，推动能源价格飙升之后，美国几家最大石油公司交出了异常强劲的季度业绩。",
+      "link": "https://cn.wsj.com/articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-2026-stock-1cf89287",
+      "guid": "WP-WSJS-0003780361",
+      "pub_date": "Fri, 31 Jul 2026 11:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-57532300?size=1.537&width=1280",
+      "snapshot": "articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-20-ddaf8603250f.html",
+      "captured": true,
+      "capture_title": "大型石油公司从能源市场动荡中获利丰厚",
       "error": ""
     },
     {
@@ -1130,78 +1202,6 @@
       "snapshot": "articles/ai-chatbot-in-person-social-interactions-d34700c-8e9d8a6932d1.html",
       "captured": true,
       "capture_title": "年轻人正让AI替他们说话，甚至在面对面交流时",
-      "error": ""
-    },
-    {
-      "title": "亲市场的中国前证监会副主席方星海被查",
-      "summary": "中国政府对中共官员的整肃，如今波及这位昔日明星证券监管官员。此时距离他退休已近两年。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%B2%E5%B8%82%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%89%8D%E8%AF%81%E7%9B%91%E4%BC%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5-f5a88b78",
-      "guid": "WP-WSJS-0003763419",
-      "pub_date": "Sat, 25 Jul 2026 01:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-28093395?size=1.501&width=1280",
-      "snapshot": "articles/e4-ba-b2-e5-b8-82-e5-9c-ba-e7-9a-84-e4-b8-ad-e5--6a012528df28.html",
-      "captured": true,
-      "capture_title": "亲市场的中国前证监会副主席方星海被查",
-      "error": ""
-    },
-    {
-      "title": "跑步、攀岩等运动风靡中国，带火高端运动服饰",
-      "summary": "“在中国，健康可以说是一种新财富，” 运动服饰行业的一位高管说。运动产业由此成为中国整体低迷的消费经济中为数不多的亮点之一。",
-      "link": "https://cn.wsj.com/articles/%E8%B7%91%E6%AD%A5-%E6%94%80%E5%B2%A9%E7%AD%89%E8%BF%90%E5%8A%A8%E9%A3%8E%E9%9D%A1%E4%B8%AD%E5%9B%BD-%E5%B8%A6%E7%81%AB%E9%AB%98%E7%AB%AF%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0-211f26ac",
-      "guid": "WP-WSJS-0003760491",
-      "pub_date": "Fri, 24 Jul 2026 04:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-39691510?size=1.501&width=1280",
-      "snapshot": "articles/e8-b7-91-e6-ad-a5--e6-94-80-e5-b2-a9-e7-ad-89-e8-1447c9d46041.html",
-      "captured": true,
-      "capture_title": "跑步、攀岩等运动风靡中国，带火高端运动服饰",
-      "error": ""
-    },
-    {
-      "title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
-      "summary": "在控制招聘一年后，从科技、运输到国防等领域，一些大公司如今表示，它们需要更多员工来协同AI开展工作。",
-      "link": "https://cn.wsj.com/articles/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-ffa273ab",
-      "guid": "WP-WSJS-0003765497",
-      "pub_date": "Mon, 27 Jul 2026 03:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-67531328?size=1.501&width=1280",
-      "snapshot": "articles/big-companies-are-starting-to-hire-again-defying-8f81265622b5.html",
-      "captured": true,
-      "capture_title": "大企业重新开始招聘，打破“AI将消灭就业”的预测",
-      "error": ""
-    },
-    {
-      "title": "新一轮热浪即将来袭，创纪录野火肆虐法国和西班牙",
-      "summary": "创纪录的野火继续在法国和西班牙大片地区失控蔓延，而预计从周三开始，新一轮热浪将席卷南欧。",
-      "link": "https://cn.wsj.com/articles/record-wildfires-sweep-france-and-spain-as-heat-wave-approaches-be87f1b8",
-      "guid": "WP-WSJS-0003767927",
-      "pub_date": "Mon, 27 Jul 2026 23:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-69775560?size=1.499&width=1280",
-      "snapshot": "articles/record-wildfires-sweep-france-and-spain-as-heat--8a4c93d2616a.html",
-      "captured": true,
-      "capture_title": "新一轮热浪即将来袭，创纪录野火肆虐法国和西班牙",
-      "error": ""
-    },
-    {
-      "title": "美国大城市正迅速流失儿童",
-      "summary": "随着全美生育率创下历史新低，美国各地18岁以下儿童数量正在下降，这种趋势在大城市尤为明显。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%AD%A3%E8%BF%85%E9%80%9F%E6%B5%81%E5%A4%B1%E5%84%BF%E7%AB%A5-76a3bbc0",
-      "guid": "WP-WSJS-0003765632",
-      "pub_date": "Mon, 27 Jul 2026 06:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-46733092?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-a4-a7-e5-9f-8e-e5-b8-82-e6--b033e5a423e8.html",
-      "captured": true,
-      "capture_title": "美国大城市正迅速流失儿童",
-      "error": ""
-    },
-    {
-      "title": "三大能源要道告急，全球经济突遭能源“锁喉”",
-      "summary": "由于中东冲突和俄乌战争，全球经济的能源供应突然同时在三个要道遭遇威胁：波斯湾、红海和黑海。",
-      "link": "https://cn.wsj.com/articles/global-economy-is-suddenly-fighting-an-energy-stranglehold-on-three-fronts-bddbaaa9",
-      "guid": "WP-WSJS-0003756883",
-      "pub_date": "Thu, 23 Jul 2026 02:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-25605246?size=1.499&width=1280",
-      "snapshot": "articles/global-economy-is-suddenly-fighting-an-energy-st-45112d018889.html",
-      "captured": true,
-      "capture_title": "三大能源要道告急，全球经济突遭能源“锁喉”",
       "error": ""
     }
   ]

@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 03:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 09:54:12 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 03:23:34 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 09:54:12 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -56,11 +56,18 @@
             <pubDate>Mon, 03 Aug 2026 02:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国科技巨头业绩引发严重估值分化]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-74632558?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>上周美国几家顶尖科技巨头的财报引发严重的股价分化，与此同时，美联储引发的债券抛售也加大了市场压力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E5%BC%95%E5%8F%91%E4%B8%A5%E9%87%8D%E4%BC%B0%E5%80%BC%E5%88%86%E5%8C%96-7b91378b</link>
-            <guid isPermaLink="false">WP-WSJS-0003785058</guid>
-            <pubDate>Mon, 03 Aug 2026 02:09:00 GMT</pubDate>
+            <title><![CDATA[失控AI发动黑客攻击，预示网络混乱新时代到来]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89414941?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI和Anthropic的模型发生“越狱”，印证了安全专家对AI风险的担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%A4%B1%E6%8E%A7ai%E5%8F%91%E5%8A%A8%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-%E9%A2%84%E7%A4%BA%E7%BD%91%E7%BB%9C%E6%B7%B7%E4%B9%B1%E6%96%B0%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5-e7f140e7</link>
+            <guid isPermaLink="false">WP-WSJS-0003785102</guid>
+            <pubDate>Mon, 03 Aug 2026 02:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫正威逼更多俄罗斯人赴乌克兰参战]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92560120?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>手段越来越多地包括殴打和操纵。这也引发了俄罗斯分析人士和该国政治阶层猜测，这是否是新一轮征兵的前兆。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E6%AD%A3%E5%A8%81%E9%80%BC%E6%9B%B4%E5%A4%9A%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E8%B5%B4%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%82%E6%88%98-31b9879a</link>
+            <guid isPermaLink="false">WP-WSJS-0003785171</guid>
+            <pubDate>Mon, 03 Aug 2026 03:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[最新加沙和平计划难敌现实]]></title>
@@ -70,11 +77,11 @@
             <pubDate>Sat, 01 Aug 2026 00:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[数万移民涌入飞地休达，西班牙紧急加强边境管控]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68216905?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>混乱场面引发了外界的疑问：这些移民是否能进而前往欧洲其他地方。周五有迹象表明，由于过于拥挤，数千移民已返回摩洛哥。</p>]]></description>
-            <link>https://cn.wsj.com/articles/spain-rushes-to-control-border-after-tens-of-thousands-of-migrants-flood-into-exclave-4e57153d</link>
-            <guid isPermaLink="false">WP-WSJS-0003783044</guid>
-            <pubDate>Sat, 01 Aug 2026 00:58:00 GMT</pubDate>
+            <title><![CDATA[先放手发展，后落地监管：中国经济活力的悖论]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-91914561?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在美国，监管往往会保护守成者，却压抑了创业热情。中国则先给初创企业留足成长空间，随后再对创始人出手整顿。</p>]]></description>
+            <link>https://cn.wsj.com/articles/move-fast-and-regulate-later-the-paradox-of-chinas-economic-dynamism-5338b026</link>
+            <guid isPermaLink="false">WP-WSJS-0003785268</guid>
+            <pubDate>Mon, 03 Aug 2026 06:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国公司加紧打造中国低成本AI的替代品]]></title>
@@ -84,11 +91,11 @@
             <pubDate>Mon, 03 Aug 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴拿马正为激怒中国付出代价]]></title>
-            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-24059196?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在巴拿马撤销长和在巴拿马运河两端港口的经营权后，中国政府正采取措施对巴拿马施压。</p>]]></description>
-            <link>https://cn.wsj.com/articles/panama-infuriated-china-now-its-paying-the-price-2c884e5c</link>
-            <guid isPermaLink="false">WP-WSJS-0003780041</guid>
-            <pubDate>Fri, 31 Jul 2026 07:20:00 GMT</pubDate>
+            <title><![CDATA[佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案]]></title>
+            <description><![CDATA[<img width="1280" height="1675" src="https://images.wsj.net/im-22428667?size=0.764&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一起涉及美中两地的复杂抚养权纠纷案，揭示了美国处于监管盲区的代孕产业在遇到变故时，无法为意向父母、代孕母亲及婴儿三方提供有效保障。</p>]]></description>
+            <link>https://cn.wsj.com/articles/a-florida-surrogate-a-father-in-china-and-the-babies-caught-between-bbdb23b2</link>
+            <guid isPermaLink="false">WP-WSJS-0003785133</guid>
+            <pubDate>Mon, 03 Aug 2026 03:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特斯拉考虑出售中国业务，为与SpaceX的潜在合并铺路]]></title>
@@ -98,6 +105,20 @@
             <pubDate>Sat, 01 Aug 2026 01:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[巴拿马正为激怒中国付出代价]]></title>
+            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-24059196?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在巴拿马撤销长和在巴拿马运河两端港口的经营权后，中国政府正采取措施对巴拿马施压。</p>]]></description>
+            <link>https://cn.wsj.com/articles/panama-infuriated-china-now-its-paying-the-price-2c884e5c</link>
+            <guid isPermaLink="false">WP-WSJS-0003780041</guid>
+            <pubDate>Fri, 31 Jul 2026 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI如何失去AI王冠——又欲如何重新夺回]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-42618220?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>当OpenAI将精力放在视频生成器、消费设备和芯片等一系列花哨项目上时，Anthropic开发出了一款大受欢迎的编程工具，并借此取得了领先地位。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-405345b4</link>
+            <guid isPermaLink="false">WP-WSJS-0003785229</guid>
+            <pubDate>Mon, 03 Aug 2026 04:55:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[新《蜘蛛侠》创好莱坞史上第二高首映纪录，中国成最大海外票仓]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-00491632?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该片北美首周末票房仅略低于《复仇者联盟4：终局之战》在2019年创下的纪录。中国以1.21亿美元的成绩成为《崭新之日》最大的海外票仓。</p>]]></description>
             <link>https://cn.wsj.com/articles/spider-man-box-office-record-2026-5acca09b</link>
@@ -105,18 +126,11 @@
             <pubDate>Mon, 03 Aug 2026 01:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国考虑对希望留美工作的外国毕业生收取10万美元费用]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-64004635?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>若该计划付诸实施，将极大推进美国总统特朗普限制几乎所有形式合法移民的举措。此举将尤其影响硅谷、华尔街和大学。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%AF%B9%E5%B8%8C%E6%9C%9B%E7%95%99%E7%BE%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%A4%96%E5%9B%BD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%94%B6%E5%8F%9610%E4%B8%87%E7%BE%8E%E5%85%83%E8%B4%B9%E7%94%A8-7b8cc97c</link>
-            <guid isPermaLink="false">WP-WSJS-0003779285</guid>
-            <pubDate>Thu, 30 Jul 2026 23:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本干预汇市支撑日圆，美国财政部参与其中]]></title>
-            <description><![CDATA[<img width="1280" height="845" src="https://images.wsj.net/im-85103712?size=1.515&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本财务省在美国时间周五与美国财政部协同，入市干预买进日圆。</p>]]></description>
+            <title><![CDATA[美日联合干预汇市以提振日圆，为1998年以来首次]]></title>
+            <description><![CDATA[<img width="1280" height="845" src="https://images.wsj.net/im-85103712?size=1.515&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本财务大臣片山皋月周一表示，日本财务省和美国财政部干预了市场以支撑日圆。日圆此前一直呈走弱趋势，日圆兑美元在上月底触及40年来的低点。</p>]]></description>
             <link>https://cn.wsj.com/articles/japan-intervened-to-support-yen-together-with-u-s-treasury-ce3f49c6</link>
             <guid isPermaLink="false">WP-WSJS-0003785088</guid>
-            <pubDate>Mon, 03 Aug 2026 02:15:00 GMT</pubDate>
+            <pubDate>Mon, 03 Aug 2026 06:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Situational Awareness 7月在AI股抛售潮中重挫67%]]></title>
@@ -138,13 +152,6 @@
             <link>https://cn.wsj.com/articles/security-flaw-placed-30-years-of-dna-evidence-at-risk-of-hacking-a972bc17</link>
             <guid isPermaLink="false">WP-WSJS-0003785072</guid>
             <pubDate>Mon, 03 Aug 2026 02:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大型石油公司从能源市场动荡中获利丰厚]]></title>
-            <description><![CDATA[<img width="1280" height="833" src="https://images.wsj.net/im-57532300?size=1.537&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗战争引发全球市场历史性错位，推动能源价格飙升之后，美国几家最大石油公司交出了异常强劲的季度业绩。</p>]]></description>
-            <link>https://cn.wsj.com/articles/exxonmobil-xom-chevron-cvx-2q-earnings-report-2026-stock-1cf89287</link>
-            <guid isPermaLink="false">WP-WSJS-0003780361</guid>
-            <pubDate>Fri, 31 Jul 2026 11:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“老板要这笔钱”：起底特朗普史无前例的筹款行动]]></title>
@@ -189,6 +196,13 @@
             <pubDate>Mon, 27 Jul 2026 06:56:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AI图片无处不在：它们如何影响大脑，我们又该如何应对？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-38514513?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>面对充斥着机器生成内容的社交动态，有哪些实用的建议。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai-slop-blurring-reality-podcast-36d44383</link>
+            <guid isPermaLink="false">WP-WSJS-0003785175</guid>
+            <pubDate>Mon, 03 Aug 2026 03:34:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[百万年薪人才争夺战：华尔街与硅谷抢20多岁的“数学天才”]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-46934796?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>多年来，顶尖量化交易机构一直用大型银行难以企及的丰厚薪酬招揽顶尖青年人才。如今，AI热潮正将这些薪酬数字推向新高。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%BA%BA%E6%89%8D%E4%BA%89%E5%A4%BA%E6%88%98-%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B8%8E%E7%A1%85%E8%B0%B7%E6%8A%A220%E5%A4%9A%E5%B2%81%E7%9A%84-%E6%95%B0%E5%AD%A6%E5%A4%A9%E6%89%8D-e002aee1</link>
@@ -201,13 +215,6 @@
             <link>https://cn.wsj.com/articles/ai%E5%8A%A9%E5%8A%9B-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8-%E5%B4%9B%E8%B5%B7-%E5%8D%95%E6%9E%AA%E5%8C%B9%E9%A9%AC%E4%B9%9F%E5%8F%AF%E5%88%9B%E9%80%A0%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E8%90%A5%E6%94%B6-678305aa</link>
             <guid isPermaLink="false">WP-WSJS-0003775606</guid>
             <pubDate>Thu, 30 Jul 2026 03:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯如何将性暴力作为战争武器]]></title>
-            <description><![CDATA[<img width="1280" height="1707" src="https://images.wsj.net/im-79689691?size=0.75&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>有证据表明，对乌克兰男性实施性虐待现已成为俄罗斯的一项核心战术。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BD%9C%E4%B8%BA%E6%88%98%E4%BA%89%E6%AD%A6%E5%99%A8-dfda36a1</link>
-            <guid isPermaLink="false">WP-WSJS-0003765511</guid>
-            <pubDate>Mon, 27 Jul 2026 04:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
