@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:52:05.906287+00:00",
+  "generated_at": "2026-08-03T17:12:02.816606+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-56998341?size=1.501&width=1280",
       "snapshot": "articles/summertime-blues-hit-chinas-factories-3e8655cc-82561ba15bc1.html",
       "captured": true,
-      "capture_title": "中国制造业遭遇“苦夏” - WSJ",
+      "capture_title": "中国制造业遭遇“苦夏”",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-31273447?size=1.499&width=1280",
       "snapshot": "articles/the-worries-that-drove-uncle-sam-to-buy-yen-0702-777a72c3ee69.html",
       "captured": true,
-      "capture_title": "美国买入日圆背后的深层担忧 - WSJ",
+      "capture_title": "美国买入日圆背后的深层担忧",
       "error": ""
     },
     {
