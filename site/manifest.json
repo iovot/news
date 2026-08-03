@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:59:20.905092+00:00",
+  "generated_at": "2026-08-03T14:52:05.906287+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -29,6 +29,18 @@
       "error": ""
     },
     {
+      "title": "中国制造业遭遇“苦夏”",
+      "summary": "尽管经济增长势头放缓，但中国政府几乎没有表现出采取大规模刺激措施的意愿。",
+      "link": "https://cn.wsj.com/articles/summertime-blues-hit-chinas-factories-3e8655cc",
+      "guid": "WP-WSJS-0003785620",
+      "pub_date": "Mon, 03 Aug 2026 10:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-56998341?size=1.501&width=1280",
+      "snapshot": "articles/summertime-blues-hit-chinas-factories-3e8655cc-82561ba15bc1.html",
+      "captured": true,
+      "capture_title": "中国制造业遭遇“苦夏” - WSJ",
+      "error": ""
+    },
+    {
       "title": "美股擅长制造泡沫，也能从容化解",
       "summary": "总有一天，会出现一场大规模的泡沫破裂，并拖累整个市场。但至少就目前而言，AI相关股票的回调影响，已几乎被其他领域的上涨完全抵消。",
       "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E6%93%85%E9%95%BF%E5%88%B6%E9%80%A0%E6%B3%A1%E6%B2%AB-%E4%B9%9F%E8%83%BD%E4%BB%8E%E5%AE%B9%E5%8C%96%E8%A7%A3-66214a2b",
@@ -41,18 +53,6 @@
       "error": ""
     },
     {
-      "title": "中国7月民间制造业指数显示扩张势头放缓",
-      "summary": "RatingDog通用制造业PMI显示制造业活动扩张步伐放缓，但仍处于扩张区间。这一走势与发出收缩信号的官方制造业调查基本一致。",
-      "link": "https://cn.wsj.com/articles/chinaprivate-manufacturing-gauge-shows-weaker-activity-growth-67e3201c",
-      "guid": "WP-WSJS-0003785111",
-      "pub_date": "Mon, 03 Aug 2026 02:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-34909188?size=1.501&width=1280",
-      "snapshot": "articles/chinaprivate-manufacturing-gauge-shows-weaker-ac-c6fc3048a76f.html",
-      "captured": true,
-      "capture_title": "中国7月民间制造业指数显示扩张势头放缓",
-      "error": ""
-    },
-    {
       "title": "失控AI发动黑客攻击，预示网络混乱新时代到来",
       "summary": "OpenAI和Anthropic的模型发生“越狱”，印证了安全专家对AI风险的担忧。",
       "link": "https://cn.wsj.com/articles/%E5%A4%B1%E6%8E%A7ai%E5%8F%91%E5%8A%A8%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-%E9%A2%84%E7%A4%BA%E7%BD%91%E7%BB%9C%E6%B7%B7%E4%B9%B1%E6%96%B0%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5-e7f140e7",
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-89414941?size=1.501&width=1280",
       "snapshot": "articles/e5-a4-b1-e6-8e-a7ai-e5-8f-91-e5-8a-a8-e9-bb-91-e-9ae7a906149c.html",
       "captured": true,
-      "capture_title": "失控AI发动黑客攻击，预示网络混乱新时代到来 - WSJ",
+      "capture_title": "失控AI发动黑客攻击，预示网络混乱新时代到来",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-92560120?size=1.501&width=1280",
       "snapshot": "articles/e5-85-8b-e9-87-8c-e5-a7-86-e6-9e-97-e5-ae-ab-e6--5e56ea8d4143.html",
       "captured": true,
-      "capture_title": "克里姆林宫正威逼更多俄罗斯人赴乌克兰参战 - WSJ",
+      "capture_title": "克里姆林宫正威逼更多俄罗斯人赴乌克兰参战",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-91914561?size=1.501&width=1280",
       "snapshot": "articles/move-fast-and-regulate-later-the-paradox-of-chin-a8c81fa9afa6.html",
       "captured": true,
-      "capture_title": "先放手发展，后落地监管：中国经济活力的悖论 - WSJ",
+      "capture_title": "先放手发展，后落地监管：中国经济活力的悖论",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-22428667?size=0.764&width=1280",
       "snapshot": "articles/a-florida-surrogate-a-father-in-china-and-the-ba-3344cc2b8878.html",
       "captured": true,
-      "capture_title": "佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案 - WSJ",
+      "capture_title": "佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案",
       "error": ""
     },
     {
@@ -157,7 +157,19 @@
       "image_url": "https://images.wsj.net/im-42618220?size=1.501&width=1280",
       "snapshot": "articles/how-openai-lost-its-ai-crownand-the-fight-to-win-a929aced65b4.html",
       "captured": true,
-      "capture_title": "OpenAI如何失去AI王冠——又欲如何重新夺回 - WSJ",
+      "capture_title": "OpenAI如何失去AI王冠——又欲如何重新夺回",
+      "error": ""
+    },
+    {
+      "title": "美国买入日圆背后的深层担忧",
+      "summary": "日圆疲软不仅是东京的问题，也是华盛顿的问题。",
+      "link": "https://cn.wsj.com/articles/the-worries-that-drove-uncle-sam-to-buy-yen-070299aa",
+      "guid": "WP-WSJS-0003785751",
+      "pub_date": "Mon, 03 Aug 2026 11:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-31273447?size=1.499&width=1280",
+      "snapshot": "articles/the-worries-that-drove-uncle-sam-to-buy-yen-0702-777a72c3ee69.html",
+      "captured": true,
+      "capture_title": "美国买入日圆背后的深层担忧 - WSJ",
       "error": ""
     },
     {
@@ -170,18 +182,6 @@
       "snapshot": "articles/spider-man-box-office-record-2026-5acca09b-40fa531a6205.html",
       "captured": true,
       "capture_title": "新《蜘蛛侠》创好莱坞史上第二高首映纪录，中国成最大海外票仓",
-      "error": ""
-    },
-    {
-      "title": "美日联合干预汇市以提振日圆，为1998年以来首次",
-      "summary": "日本财务大臣片山皋月周一表示，日本财务省和美国财政部干预了市场以支撑日圆。日圆此前一直呈走弱趋势，日圆兑美元在上月底触及40年来的低点。",
-      "link": "https://cn.wsj.com/articles/japan-intervened-to-support-yen-together-with-u-s-treasury-ce3f49c6",
-      "guid": "WP-WSJS-0003785088",
-      "pub_date": "Mon, 03 Aug 2026 06:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-85103712?size=1.515&width=1280",
-      "snapshot": "articles/japan-intervened-to-support-yen-together-with-u--fea5bae6b6c9.html",
-      "captured": true,
-      "capture_title": "美日联合干预汇市以提振日圆，为1998年以来首次",
       "error": ""
     },
     {
@@ -301,7 +301,31 @@
       "image_url": "https://images.wsj.net/im-38514513?size=1.501&width=1280",
       "snapshot": "articles/ai-slop-blurring-reality-podcast-36d44383-3cfe798e4de0.html",
       "captured": true,
-      "capture_title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？ - WSJ",
+      "capture_title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？",
+      "error": ""
+    },
+    {
+      "title": "中国7月民间制造业指数显示扩张势头放缓",
+      "summary": "RatingDog通用制造业PMI显示制造业活动扩张步伐放缓，但仍处于扩张区间。这一走势与发出收缩信号的官方制造业调查基本一致。",
+      "link": "https://cn.wsj.com/articles/chinaprivate-manufacturing-gauge-shows-weaker-activity-growth-67e3201c",
+      "guid": "WP-WSJS-0003785111",
+      "pub_date": "Mon, 03 Aug 2026 02:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-34909188?size=1.501&width=1280",
+      "snapshot": "articles/chinaprivate-manufacturing-gauge-shows-weaker-ac-c6fc3048a76f.html",
+      "captured": true,
+      "capture_title": "中国7月民间制造业指数显示扩张势头放缓",
+      "error": ""
+    },
+    {
+      "title": "美日联合干预汇市以提振日圆，为1998年以来首次",
+      "summary": "日本财务大臣片山皋月周一表示，日本财务省和美国财政部干预了市场以支撑日圆。日圆此前一直呈走弱趋势，日圆兑美元在上月底触及40年来的低点。",
+      "link": "https://cn.wsj.com/articles/japan-intervened-to-support-yen-together-with-u-s-treasury-ce3f49c6",
+      "guid": "WP-WSJS-0003785088",
+      "pub_date": "Mon, 03 Aug 2026 06:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-85103712?size=1.515&width=1280",
+      "snapshot": "articles/japan-intervened-to-support-yen-together-with-u--fea5bae6b6c9.html",
+      "captured": true,
+      "capture_title": "美日联合干预汇市以提振日圆，为1998年以来首次",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/chinapushes-back-on-new-u-s-tariffs-89f8cda9-dfe728cbea9c.html",
       "captured": true,
       "capture_title": "中国回击美国新关税措施",
-      "error": ""
-    },
-    {
-      "title": "纽约又一“商改住”项目施工被叫停",
-      "summary": "纽约市建筑局上周叫停了曼哈顿另一栋正在改建为公寓的办公楼施工，这是本月第二个被叫停的此类项目。此前，原辉瑞总部大楼被发现存在结构问题，两根立柱发生屈曲。",
-      "link": "https://cn.wsj.com/articles/new-york-city-halts-construction-at-another-office-to-residential-conversion-4ed583a4",
-      "guid": "WP-WSJS-0003768151",
-      "pub_date": "Tue, 28 Jul 2026 01:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-51361345?size=1.501&width=1280",
-      "snapshot": "articles/new-york-city-halts-construction-at-another-offi-f5b7e8fb5fdf.html",
-      "captured": true,
-      "capture_title": "纽约又一“商改住”项目施工被叫停",
-      "error": ""
-    },
-    {
-      "title": "年轻人正让AI替他们说话，甚至在面对面交流时",
-      "summary": "有一项任务比做家庭作业更令人头疼，那就是与人打交道。如今，越来越多的年轻人正开始依赖AI来处理这件事。",
-      "link": "https://cn.wsj.com/articles/ai-chatbot-in-person-social-interactions-d34700ca",
-      "guid": "WP-WSJS-0003765619",
-      "pub_date": "Mon, 27 Jul 2026 06:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-44099010?size=1.501&width=1280",
-      "snapshot": "articles/ai-chatbot-in-person-social-interactions-d34700c-8e9d8a6932d1.html",
-      "captured": true,
-      "capture_title": "年轻人正让AI替他们说话，甚至在面对面交流时",
       "error": ""
     }
   ]
