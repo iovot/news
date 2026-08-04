@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-04T05:58:38.417560+00:00",
+  "generated_at": "2026-08-04T08:48:33.829148+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "AI热潮正重塑美国经济，深刻程度超乎认知",
+      "summary": "美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。",
+      "link": "https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd",
+      "guid": "WP-WSJS-0003788187",
+      "pub_date": "Tue, 04 Aug 2026 02:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-73773958?size=1.5&width=1280",
+      "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
+      "captured": true,
+      "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知",
+      "error": ""
+    },
     {
       "title": "中国制造业遭遇“苦夏”",
       "summary": "尽管经济增长势头放缓，但中国政府几乎没有表现出采取大规模刺激措施的意愿。",
@@ -29,18 +41,6 @@
       "error": ""
     },
     {
-      "title": "AI热潮正重塑美国经济，深刻程度超乎认知",
-      "summary": "美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。",
-      "link": "https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd",
-      "guid": "WP-WSJS-0003788187",
-      "pub_date": "Tue, 04 Aug 2026 02:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-73773958?size=1.5&width=1280",
-      "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
-      "captured": true,
-      "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知 - WSJ",
-      "error": ""
-    },
-    {
       "title": "伊朗称没有与美国就霍尔木兹海峡问题进行谈判",
       "summary": "伊朗周一表示，与美国之间没有任何正在进行的谈判，也没有任何计划中的会议。不过，伊朗外交部承认，正继续与阿曼就霍尔木兹海峡问题进行谈判。",
       "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%B2%A1%E6%9C%89%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%B0%B1%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%97%AE%E9%A2%98%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4-e4ec383c",
@@ -50,18 +50,6 @@
       "snapshot": "articles/e4-bc-8a-e6-9c-97-e7-a7-b0-e6-b2-a1-e6-9c-89-e4--eda7361f64a8.html",
       "captured": true,
       "capture_title": "伊朗称没有与美国就霍尔木兹海峡问题进行谈判",
-      "error": ""
-    },
-    {
-      "title": "特朗普怒批石油巨头“赚太多”",
-      "summary": "美国总统特朗普称，雪佛龙和埃克森美孚“赚了太多钱”，应将部分利润回馈给公众。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4-%E8%B5%9A%E5%A4%AA%E5%A4%9A-cee4b9e5",
-      "guid": "WP-WSJS-0003787944",
-      "pub_date": "Mon, 03 Aug 2026 23:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-72416412?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-80-92-e6-89-b9-e7--3de95f05ee32.html",
-      "captured": true,
-      "capture_title": "特朗普怒批石油巨头“赚太多”",
       "error": ""
     },
     {
@@ -77,30 +65,6 @@
       "error": ""
     },
     {
-      "title": "反犹情绪加剧，纽约市针对犹太人的仇恨犯罪激增",
-      "summary": "纽约市长马姆达尼持反以色列观点并抨击内塔尼亚胡，纽约市犹太社区担心这让他们的自身安全受到威胁。",
-      "link": "https://cn.wsj.com/articles/hate-crimes-against-jewish-new-yorkers-surge-amid-heightened-antisemitism-b4d46fd1",
-      "guid": "WP-WSJS-0003788170",
-      "pub_date": "Tue, 04 Aug 2026 02:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-58590138?size=1.501&width=1280",
-      "snapshot": "articles/hate-crimes-against-jewish-new-yorkers-surge-ami-e5520f116324.html",
-      "captured": true,
-      "capture_title": "反犹情绪加剧，纽约市针对犹太人的仇恨犯罪激增",
-      "error": ""
-    },
-    {
-      "title": "美国与盟友搁置分歧，向中国展示联合海上力量",
-      "summary": "“环太平洋”军演规模和范围的不断扩大表明，尽管特朗普对合作伙伴提出批评，但美军正与其盟友开展更紧密的合作。",
-      "link": "https://cn.wsj.com/articles/u-s-allies-put-frictions-aside-showing-china-combined-naval-might-43d791da",
-      "guid": "WP-WSJS-0003785029",
-      "pub_date": "Mon, 03 Aug 2026 02:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-09338930?size=1.499&width=1276",
-      "snapshot": "articles/u-s-allies-put-frictions-aside-showing-china-com-d66953e52e8e.html",
-      "captured": true,
-      "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量",
-      "error": ""
-    },
-    {
       "title": "硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停",
       "summary": "巴拉吉·斯里尼瓦桑离开硅谷，在亚洲一座鬼城试水“网络建国孵化器”，随后该项目遭马来西亚政府勒令关闭。",
       "link": "https://cn.wsj.com/articles/%E7%A1%85%E8%B0%B7%E5%A4%A7%E4%BD%AC%E8%AF%95%E5%9B%BE%E5%9C%A8%E4%BA%9A%E6%B4%B2-%E5%BB%BA%E5%9B%BD-%E5%8D%B4%E6%83%A8%E9%81%AD%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%BC%BA%E5%88%B6%E5%8F%AB%E5%81%9C-d655586d",
@@ -109,7 +73,31 @@
       "image_url": "https://images.wsj.net/im-92011104?size=1.501&width=1280",
       "snapshot": "articles/e7-a1-85-e8-b0-b7-e5-a4-a7-e4-bd-ac-e8-af-95-e5--79f7da1433b6.html",
       "captured": true,
-      "capture_title": "硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停 - WSJ",
+      "capture_title": "硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停",
+      "error": ""
+    },
+    {
+      "title": "卡塔尔捐赠的“空军一号”与其他总统专机有何不同？",
+      "summary": "从激光武器到涂装配色，护送美国总统飞往世界各地是一门讲究细节的学问。",
+      "link": "https://cn.wsj.com/articles/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-d11eac27",
+      "guid": "WP-WSJS-0003788434",
+      "pub_date": "Tue, 04 Aug 2026 07:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-76555041?size=1&width=1280",
+      "snapshot": "articles/how-does-the-qatar-donated-air-force-one-compare-4d719387cff8.html",
+      "captured": true,
+      "capture_title": "卡塔尔捐赠的“空军一号”与其他总统专机有何不同？ - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国ICE如何将社交媒体武器化来压制批评声音",
+      "summary": "美国移民海关执法局表示，其监控项目旨在排查针对执法人员的威胁。但批评人士认为此举侵犯了言论自由。",
+      "link": "https://cn.wsj.com/articles/ice-surveillance-internet-critics-8566d93d",
+      "guid": "WP-WSJS-0003788350",
+      "pub_date": "Tue, 04 Aug 2026 06:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-94939391?size=1.5&width=1280",
+      "snapshot": "articles/ice-surveillance-internet-critics-8566d93d-05b22ef0dfb8.html",
+      "captured": true,
+      "capture_title": "美国ICE如何将社交媒体武器化来压制批评声音 - WSJ",
       "error": ""
     },
     {
@@ -149,6 +137,18 @@
       "error": ""
     },
     {
+      "title": "美国与盟友搁置分歧，向中国展示联合海上力量",
+      "summary": "“环太平洋”军演规模和范围的不断扩大表明，尽管特朗普对合作伙伴提出批评，但美军正与其盟友开展更紧密的合作。",
+      "link": "https://cn.wsj.com/articles/u-s-allies-put-frictions-aside-showing-china-combined-naval-might-43d791da",
+      "guid": "WP-WSJS-0003785029",
+      "pub_date": "Mon, 03 Aug 2026 02:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-09338930?size=1.499&width=1276",
+      "snapshot": "articles/u-s-allies-put-frictions-aside-showing-china-com-d66953e52e8e.html",
+      "captured": true,
+      "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量",
+      "error": ""
+    },
+    {
       "title": "退守本土后，惠而浦为何仍难逃“寒冬”？",
       "summary": "这家家电巨头将重心收缩至北美，却也将其命运与持续低迷的美国房地产市场紧密捆绑。",
       "link": "https://cn.wsj.com/articles/whirlpool-abandoned-its-global-ambitions-now-its-in-a-world-of-hurt-538bfafb",
@@ -158,6 +158,18 @@
       "snapshot": "articles/whirlpool-abandoned-its-global-ambitions-now-its-cbcc6d0126aa.html",
       "captured": true,
       "capture_title": "退守本土后，惠而浦为何仍难逃“寒冬”？",
+      "error": ""
+    },
+    {
+      "title": "今夏的身份象征：3.99美元的玻璃瓶装水",
+      "summary": "今年夏天，多金又关注健康的消费者都在喝主打没有微塑料的Loonen。但在微塑料无处不在的时代，究竟有没有饮用水品牌比自来水强呢？",
+      "link": "https://cn.wsj.com/articles/loonen-glass-bottled-water-microplastics-c0578b29",
+      "guid": "WP-WSJS-0003788371",
+      "pub_date": "Tue, 04 Aug 2026 06:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-14061506?size=1.778&width=1280",
+      "snapshot": "articles/loonen-glass-bottled-water-microplastics-c0578b2-0d57a9c72ae8.html",
+      "captured": true,
+      "capture_title": "3.99美元的玻璃瓶装水背后的微塑料焦虑 - WSJ",
       "error": ""
     },
     {
@@ -206,18 +218,6 @@
       "snapshot": "articles/palantir-lifts-guidance-as-revenue-nearly-double-23cee9b3d844.html",
       "captured": true,
       "capture_title": "Palantir股价飙升，收入近乎翻倍，公司上调业绩展望",
-      "error": ""
-    },
-    {
-      "title": "美国25个州就特朗普新关税措施提起诉讼",
-      "summary": "诉讼认为，本届政府仓促完成了法律规定的调查，并且未能证明新关税将有效打击全球供应链中的强迫劳动。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD25%E4%B8%AA%E5%B7%9E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC-637424f3",
-      "guid": "WP-WSJS-0003787863",
-      "pub_date": "Mon, 03 Aug 2026 23:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-72111762?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd25-e4-b8-aa-e5-b7-9e-e5-b0-b1-e-ee3eceede645.html",
-      "captured": true,
-      "capture_title": "美国25个州就特朗普新关税措施提起诉讼 - WSJ",
       "error": ""
     },
     {
@@ -281,18 +281,6 @@
       "error": ""
     },
     {
-      "title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动",
-      "summary": "绰号“黑暗公主”的梅雷迪思·奥罗克执行特朗普的意愿，设法为他的项目从企业手中获取数亿美元资金。",
-      "link": "https://cn.wsj.com/articles/trump-donations-company-fundraising-af433826",
-      "guid": "WP-WSJS-0003779748",
-      "pub_date": "Fri, 31 Jul 2026 03:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-24759563?size=1&width=1280",
-      "snapshot": "articles/trump-donations-company-fundraising-af433826-7d0e50d1b6ac.html",
-      "captured": true,
-      "capture_title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动",
-      "error": ""
-    },
-    {
       "title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？",
       "summary": "面对充斥着机器生成内容的社交动态，有哪些实用的建议。",
       "link": "https://cn.wsj.com/articles/ai-slop-blurring-reality-podcast-36d44383",
@@ -302,6 +290,66 @@
       "snapshot": "articles/ai-slop-blurring-reality-podcast-36d44383-3cfe798e4de0.html",
       "captured": true,
       "capture_title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？",
+      "error": ""
+    },
+    {
+      "title": "AI时代的爱情：聊天机器人接管线上约会",
+      "summary": "一些厌倦了“左滑右滑”的单身人士，正将目光投向AI红娘。",
+      "link": "https://cn.wsj.com/articles/ai%E6%97%B6%E4%BB%A3%E7%9A%84%E7%88%B1%E6%83%85-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A5%E7%AE%A1%E7%BA%BF%E4%B8%8A%E7%BA%A6%E4%BC%9A-260bfc4a",
+      "guid": "WP-WSJS-0003788426",
+      "pub_date": "Tue, 04 Aug 2026 06:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-35255131?size=1.5&width=1280",
+      "snapshot": "articles/ai-e6-97-b6-e4-bb-a3-e7-9a-84-e7-88-b1-e6-83-85--c90c110cdba3.html",
+      "captured": true,
+      "capture_title": "AI时代的爱情：聊天机器人接管线上约会 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普怒批石油巨头“赚太多”",
+      "summary": "美国总统特朗普称，雪佛龙和埃克森美孚“赚了太多钱”，应将部分利润回馈给公众。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4-%E8%B5%9A%E5%A4%AA%E5%A4%9A-cee4b9e5",
+      "guid": "WP-WSJS-0003787944",
+      "pub_date": "Mon, 03 Aug 2026 23:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-72416412?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-80-92-e6-89-b9-e7--3de95f05ee32.html",
+      "captured": true,
+      "capture_title": "特朗普怒批石油巨头“赚太多”",
+      "error": ""
+    },
+    {
+      "title": "反犹情绪加剧，纽约市针对犹太人的仇恨犯罪激增",
+      "summary": "纽约市长马姆达尼持反以色列观点并抨击内塔尼亚胡，纽约市犹太社区担心这让他们的自身安全受到威胁。",
+      "link": "https://cn.wsj.com/articles/hate-crimes-against-jewish-new-yorkers-surge-amid-heightened-antisemitism-b4d46fd1",
+      "guid": "WP-WSJS-0003788170",
+      "pub_date": "Tue, 04 Aug 2026 02:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-58590138?size=1.501&width=1280",
+      "snapshot": "articles/hate-crimes-against-jewish-new-yorkers-surge-ami-e5520f116324.html",
+      "captured": true,
+      "capture_title": "反犹情绪加剧，纽约市针对犹太人的仇恨犯罪激增",
+      "error": ""
+    },
+    {
+      "title": "美国25个州就特朗普新关税措施提起诉讼",
+      "summary": "诉讼认为，本届政府仓促完成了法律规定的调查，并且未能证明新关税将有效打击全球供应链中的强迫劳动。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD25%E4%B8%AA%E5%B7%9E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC-637424f3",
+      "guid": "WP-WSJS-0003787863",
+      "pub_date": "Mon, 03 Aug 2026 23:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-72111762?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd25-e4-b8-aa-e5-b7-9e-e5-b0-b1-e-ee3eceede645.html",
+      "captured": true,
+      "capture_title": "美国25个州就特朗普新关税措施提起诉讼 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动",
+      "summary": "绰号“黑暗公主”的梅雷迪思·奥罗克执行特朗普的意愿，设法为他的项目从企业手中获取数亿美元资金。",
+      "link": "https://cn.wsj.com/articles/trump-donations-company-fundraising-af433826",
+      "guid": "WP-WSJS-0003779748",
+      "pub_date": "Fri, 31 Jul 2026 03:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-24759563?size=1&width=1280",
+      "snapshot": "articles/trump-donations-company-fundraising-af433826-7d0e50d1b6ac.html",
+      "captured": true,
+      "capture_title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/shein-discloses-ftc-investigation-into-fast-fash-de61d89e2de3.html",
       "captured": true,
       "capture_title": "Shein披露美国联邦贸易委员会正在调查其美国业务",
-      "error": ""
-    },
-    {
-      "title": "摩根士丹利房贷员工被施压为富裕客户批贷",
-      "summary": "房贷部门员工在质疑或拒绝贷款时面临强烈反对；摩根士丹利称并未“降低贷款审核标准”。",
-      "link": "https://cn.wsj.com/articles/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%E6%88%BF%E8%B4%B7%E5%91%98%E5%B7%A5%E5%8F%97%E5%8E%8B%E4%B8%BA%E5%AF%8C%E8%A3%95%E5%AE%A2%E6%88%B7%E6%89%B9%E8%B4%B7-8d4f3dce",
-      "guid": "WP-WSJS-0003771746",
-      "pub_date": "Wed, 29 Jul 2026 04:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-25939058?size=1.499&width=1280",
-      "snapshot": "articles/e6-91-a9-e6-a0-b9-e5-a3-ab-e4-b8-b9-e5-88-a9-e6--1065df9147e1.html",
-      "captured": true,
-      "capture_title": "摩根士丹利房贷员工被施压为富裕客户批贷",
-      "error": ""
-    },
-    {
-      "title": "Visa将裁员2,600人，以顺应支付行业变局",
-      "summary": "受影响的职位大部分集中在技术和产品团队，约占Visa员工总数的7%。",
-      "link": "https://cn.wsj.com/articles/visa%E5%B0%86%E8%A3%81%E5%91%982-600%E4%BA%BA-%E4%BB%A5%E9%A1%BA%E5%BA%94%E6%94%AF%E4%BB%98%E8%A1%8C%E4%B8%9A%E5%8F%98%E5%B1%80-58e74218",
-      "guid": "WP-WSJS-0003771131",
-      "pub_date": "Tue, 28 Jul 2026 23:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-44385888?size=1.501&width=1280",
-      "snapshot": "articles/visa-e5-b0-86-e8-a3-81-e5-91-982-600-e4-ba-ba--e-e0685a9977de.html",
-      "captured": true,
-      "capture_title": "Visa将裁员2,600人，以顺应支付行业变局 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "西方各国竞相将炸药生产迁回国内",
-      "summary": "北约各国正推进至少24个旨在将炸药或推进剂生产线迁回国内的新项目，其中仅美国阿肯色州就计划新建三家工厂。",
-      "link": "https://cn.wsj.com/articles/western-powers-race-to-bring-the-production-of-explosives-back-home-6943d65f",
-      "guid": "WP-WSJS-0003768430",
-      "pub_date": "Tue, 28 Jul 2026 06:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-45966451?size=1.501&width=1280",
-      "snapshot": "articles/western-powers-race-to-bring-the-production-of-e-2a809f602f65.html",
-      "captured": true,
-      "capture_title": "西方各国竞相将炸药生产迁回国内",
-      "error": ""
-    },
-    {
-      "title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
-      "summary": "这项旨在帮助控制保费的补贴计划将在2026年后终止，此举可能导致许多老年人明年面临更高的处方药保险费率。",
-      "link": "https://cn.wsj.com/articles/trump-administration-to-end-medicare-drug-plan-subsidy-2b4b3e6f",
-      "guid": "WP-WSJS-0003771169",
-      "pub_date": "Wed, 29 Jul 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-26625530?size=1.501&width=1280",
-      "snapshot": "articles/trump-administration-to-end-medicare-drug-plan-s-ea898a15cad4.html",
-      "captured": true,
-      "capture_title": "特朗普政府将终止美国联邦医疗保险药物计划补贴",
       "error": ""
     }
   ]
