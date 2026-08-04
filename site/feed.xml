@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 08:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 11:28:12 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 08:44:37 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 11:28:12 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -33,6 +33,13 @@
             <link>https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd</link>
             <guid isPermaLink="false">WP-WSJS-0003788187</guid>
             <pubDate>Tue, 04 Aug 2026 02:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美台推进合作，应对特朗普言论与中国施压]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-50117821?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>台湾罕见提及美军在台协训，意在面对中国军事施压与特朗普言论引发的质疑时，对外传递美台防务合作稳固的明确信号。</p>]]></description>
+            <link>https://cn.wsj.com/articles/taiwan-us-military-training-china-2e3d86c0</link>
+            <guid isPermaLink="false">WP-WSJS-0003788777</guid>
+            <pubDate>Tue, 04 Aug 2026 10:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国制造业遭遇“苦夏”]]></title>
@@ -70,13 +77,6 @@
             <pubDate>Tue, 04 Aug 2026 03:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[卡塔尔捐赠的“空军一号”与其他总统专机有何不同？]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-76555041?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从激光武器到涂装配色，护送美国总统飞往世界各地是一门讲究细节的学问。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-d11eac27</link>
-            <guid isPermaLink="false">WP-WSJS-0003788434</guid>
-            <pubDate>Tue, 04 Aug 2026 07:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美国ICE如何将社交媒体武器化来压制批评声音]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-94939391?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国移民海关执法局表示，其监控项目旨在排查针对执法人员的威胁。但批评人士认为此举侵犯了言论自由。</p>]]></description>
             <link>https://cn.wsj.com/articles/ice-surveillance-internet-critics-8566d93d</link>
@@ -105,11 +105,11 @@
             <pubDate>Mon, 03 Aug 2026 03:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国与盟友搁置分歧，向中国展示联合海上力量]]></title>
-            <description><![CDATA[<img width="1276" height="851" src="https://images.wsj.net/im-09338930?size=1.499&width=1276" class="webfeedsFeaturedVisual" alt=""/><p>“环太平洋”军演规模和范围的不断扩大表明，尽管特朗普对合作伙伴提出批评，但美军正与其盟友开展更紧密的合作。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-allies-put-frictions-aside-showing-china-combined-naval-might-43d791da</link>
-            <guid isPermaLink="false">WP-WSJS-0003785029</guid>
-            <pubDate>Mon, 03 Aug 2026 02:35:00 GMT</pubDate>
+            <title><![CDATA[卡塔尔捐赠的“空军一号”与其他总统专机有何不同？]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-76555041?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从激光武器到涂装配色，护送美国总统飞往世界各地是一门讲究细节的学问。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-d11eac27</link>
+            <guid isPermaLink="false">WP-WSJS-0003788434</guid>
+            <pubDate>Tue, 04 Aug 2026 07:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[退守本土后，惠而浦为何仍难逃“寒冬”？]]></title>

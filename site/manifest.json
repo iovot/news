@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T08:48:33.829148+00:00",
+  "generated_at": "2026-08-04T11:30:41.819971+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -14,6 +14,18 @@
       "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
       "captured": true,
       "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知",
+      "error": ""
+    },
+    {
+      "title": "美台推进合作，应对特朗普言论与中国施压",
+      "summary": "台湾罕见提及美军在台协训，意在面对中国军事施压与特朗普言论引发的质疑时，对外传递美台防务合作稳固的明确信号。",
+      "link": "https://cn.wsj.com/articles/taiwan-us-military-training-china-2e3d86c0",
+      "guid": "WP-WSJS-0003788777",
+      "pub_date": "Tue, 04 Aug 2026 10:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-50117821?size=1.5&width=1280",
+      "snapshot": "articles/taiwan-us-military-training-china-2e3d86c0-a422e6817c07.html",
+      "captured": true,
+      "capture_title": "美台推进合作，应对特朗普言论与中国施压 - WSJ",
       "error": ""
     },
     {
@@ -77,18 +89,6 @@
       "error": ""
     },
     {
-      "title": "卡塔尔捐赠的“空军一号”与其他总统专机有何不同？",
-      "summary": "从激光武器到涂装配色，护送美国总统飞往世界各地是一门讲究细节的学问。",
-      "link": "https://cn.wsj.com/articles/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-d11eac27",
-      "guid": "WP-WSJS-0003788434",
-      "pub_date": "Tue, 04 Aug 2026 07:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-76555041?size=1&width=1280",
-      "snapshot": "articles/how-does-the-qatar-donated-air-force-one-compare-4d719387cff8.html",
-      "captured": true,
-      "capture_title": "卡塔尔捐赠的“空军一号”与其他总统专机有何不同？ - WSJ",
-      "error": ""
-    },
-    {
       "title": "美国ICE如何将社交媒体武器化来压制批评声音",
       "summary": "美国移民海关执法局表示，其监控项目旨在排查针对执法人员的威胁。但批评人士认为此举侵犯了言论自由。",
       "link": "https://cn.wsj.com/articles/ice-surveillance-internet-critics-8566d93d",
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-94939391?size=1.5&width=1280",
       "snapshot": "articles/ice-surveillance-internet-critics-8566d93d-05b22ef0dfb8.html",
       "captured": true,
-      "capture_title": "美国ICE如何将社交媒体武器化来压制批评声音 - WSJ",
+      "capture_title": "美国ICE如何将社交媒体武器化来压制批评声音",
       "error": ""
     },
     {
@@ -137,15 +137,15 @@
       "error": ""
     },
     {
-      "title": "美国与盟友搁置分歧，向中国展示联合海上力量",
-      "summary": "“环太平洋”军演规模和范围的不断扩大表明，尽管特朗普对合作伙伴提出批评，但美军正与其盟友开展更紧密的合作。",
-      "link": "https://cn.wsj.com/articles/u-s-allies-put-frictions-aside-showing-china-combined-naval-might-43d791da",
-      "guid": "WP-WSJS-0003785029",
-      "pub_date": "Mon, 03 Aug 2026 02:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-09338930?size=1.499&width=1276",
-      "snapshot": "articles/u-s-allies-put-frictions-aside-showing-china-com-d66953e52e8e.html",
+      "title": "卡塔尔捐赠的“空军一号”与其他总统专机有何不同？",
+      "summary": "从激光武器到涂装配色，护送美国总统飞往世界各地是一门讲究细节的学问。",
+      "link": "https://cn.wsj.com/articles/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-d11eac27",
+      "guid": "WP-WSJS-0003788434",
+      "pub_date": "Tue, 04 Aug 2026 07:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-76555041?size=1&width=1280",
+      "snapshot": "articles/how-does-the-qatar-donated-air-force-one-compare-4d719387cff8.html",
       "captured": true,
-      "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量",
+      "capture_title": "卡塔尔捐赠的“空军一号”与其他总统专机有何不同？",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-14061506?size=1.778&width=1280",
       "snapshot": "articles/loonen-glass-bottled-water-microplastics-c0578b2-0d57a9c72ae8.html",
       "captured": true,
-      "capture_title": "3.99美元的玻璃瓶装水背后的微塑料焦虑 - WSJ",
+      "capture_title": "今夏的身份象征：3.99美元的玻璃瓶装水",
       "error": ""
     },
     {
@@ -301,7 +301,19 @@
       "image_url": "https://images.wsj.net/im-35255131?size=1.5&width=1280",
       "snapshot": "articles/ai-e6-97-b6-e4-bb-a3-e7-9a-84-e7-88-b1-e6-83-85--c90c110cdba3.html",
       "captured": true,
-      "capture_title": "AI时代的爱情：聊天机器人接管线上约会 - WSJ",
+      "capture_title": "AI时代的爱情：聊天机器人接管线上约会",
+      "error": ""
+    },
+    {
+      "title": "美国与盟友搁置分歧，向中国展示联合海上力量",
+      "summary": "“环太平洋”军演规模和范围的不断扩大表明，尽管特朗普对合作伙伴提出批评，但美军正与其盟友开展更紧密的合作。",
+      "link": "https://cn.wsj.com/articles/u-s-allies-put-frictions-aside-showing-china-combined-naval-might-43d791da",
+      "guid": "WP-WSJS-0003785029",
+      "pub_date": "Mon, 03 Aug 2026 02:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-09338930?size=1.499&width=1276",
+      "snapshot": "articles/u-s-allies-put-frictions-aside-showing-china-com-d66953e52e8e.html",
+      "captured": true,
+      "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/ai-e6-95-b0-e6-8d-ae-e4-b8-ad-e5-bf-83-e8-9e-8d--b3e092cf09f3.html",
       "captured": true,
       "capture_title": "AI数据中心融资越来越贵，看看Meta就知道",
-      "error": ""
-    },
-    {
-      "title": "Shein披露美国联邦贸易委员会正在调查其美国业务",
-      "summary": "创立于中国的快时尚零售商Shein称，FTC正在调查其美国的业务运营。这一披露出现在其向香港交易所提交的IPO相关文件中。",
-      "link": "https://cn.wsj.com/articles/shein-discloses-ftc-investigation-into-fast-fashion-retailers-u-s-operations-edae8478",
-      "guid": "WP-WSJS-0003771106",
-      "pub_date": "Tue, 28 Jul 2026 23:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-03037858?size=1.501&width=1280",
-      "snapshot": "articles/shein-discloses-ftc-investigation-into-fast-fash-de61d89e2de3.html",
-      "captured": true,
-      "capture_title": "Shein披露美国联邦贸易委员会正在调查其美国业务",
       "error": ""
     }
   ]
