@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 11:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 14:19:00 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 11:24:30 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 14:19:00 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -56,18 +56,18 @@
             <pubDate>Wed, 05 Aug 2026 01:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI在测试中再次失控，这次还学会了欺骗]]></title>
-            <description><![CDATA[<img width="1280" height="956" src="https://images.wsj.net/im-00612931?size=1.339&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai-just-went-rogue-again-this-time-it-turned-to-deception-79af5991</link>
-            <guid isPermaLink="false">WP-WSJS-0003792077</guid>
-            <pubDate>Wed, 05 Aug 2026 03:02:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“地狱第七层”：众议员马克斯·米勒家庭纠纷冲击共和党选情]]></title>
             <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-49282263?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一场涉及一名众议员及其前岳父以及一位美国参议员的家庭纠纷震惊了国会山，并引发了不断升级的指控，带来了个人和政治两方面的后果。</p>]]></description>
             <link>https://cn.wsj.com/articles/the-seventh-level-of-hell-rep-max-millers-family-fight-roils-gop-election-hopes-1dc39c95</link>
             <guid isPermaLink="false">WP-WSJS-0003792037</guid>
             <pubDate>Wed, 05 Aug 2026 02:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI在测试中再次失控，这次还学会了欺骗]]></title>
+            <description><![CDATA[<img width="1280" height="956" src="https://images.wsj.net/im-00612931?size=1.339&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai-just-went-rogue-again-this-time-it-turned-to-deception-79af5991</link>
+            <guid isPermaLink="false">WP-WSJS-0003792077</guid>
+            <pubDate>Wed, 05 Aug 2026 03:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[俄罗斯袭击基辅及周边地区，造成17人死亡]]></title>
