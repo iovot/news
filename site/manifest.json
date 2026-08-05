@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:47:39.796627+00:00",
+  "generated_at": "2026-08-05T11:29:33.195633+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-17445769?size=1.501&width=1280",
       "snapshot": "articles/russian-attack-kills-17-in-ukraine-404ff932-e760cf6a3070.html",
       "captured": true,
-      "capture_title": "俄罗斯袭击基辅及周边地区，造成17人死亡 - WSJ",
+      "capture_title": "俄罗斯袭击基辅及周边地区，造成17人死亡",
       "error": ""
     },
     {
@@ -125,6 +125,18 @@
       "error": ""
     },
     {
+      "title": "在这款直播购物应用里，有人一路竞拍直至倾家荡产",
+      "summary": "直播购物应用Whatnot凭借极速竞拍和狂热的“拆卡”模式快速吸引用户，拍品涵盖稀有体育卡牌、时尚服饰、工具及食品等各类商品。",
+      "link": "https://cn.wsj.com/articles/whatnot-live-shopping-app-66981216",
+      "guid": "WP-WSJS-0003792580",
+      "pub_date": "Wed, 05 Aug 2026 09:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-85073882?size=1.5&width=1280",
+      "snapshot": "articles/whatnot-live-shopping-app-66981216-9268e1e064c0.html",
+      "captured": true,
+      "capture_title": "在这款直播购物应用里，有人一路竞拍直至倾家荡产 - WSJ",
+      "error": ""
+    },
+    {
       "title": "排解孤独的个人试验如何演变成一场社会运动？",
       "summary": "他带着一块牌子来到公园，邀请人们聊聊自己今天过得怎么样。六年过去了，他们依然在聊。",
       "link": "https://cn.wsj.com/articles/how-one-mans-cure-for-loneliness-started-a-movement-eea969d8",
@@ -134,18 +146,6 @@
       "snapshot": "articles/how-one-mans-cure-for-loneliness-started-a-movem-2497bf7869f3.html",
       "captured": true,
       "capture_title": "排解孤独的个人试验如何演变成一场社会运动？",
-      "error": ""
-    },
-    {
-      "title": "美国撤销巴西大使签证，两国外交争端升级",
-      "summary": "在巴西将于10月举行的总统大选前，双方因美国涉嫌干预选举的指控而引发的外交争端不断升级。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E5%B7%B4%E8%A5%BF%E5%A4%A7%E4%BD%BF%E7%AD%BE%E8%AF%81-%E4%B8%A4%E5%9B%BD%E5%A4%96%E4%BA%A4%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-ef6b03ef",
-      "guid": "WP-WSJS-0003791835",
-      "pub_date": "Wed, 05 Aug 2026 01:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-97992044?size=1.414&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-92-a4-e9-94-80-e5-b7-b4-e8--e31ad4ce8970.html",
-      "captured": true,
-      "capture_title": "美国撤销巴西大使签证，两国外交争端升级",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-85144423?size=1.501&width=1280",
       "snapshot": "articles/chineseoptical-module-stocks-fall-after-report-o-20138da68d1b.html",
       "captured": true,
-      "capture_title": "中国光模块股下跌，有报道称美国可能出台进口禁令 - WSJ",
+      "capture_title": "中国光模块股下跌，有报道称美国可能出台进口禁令",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/college-admissions-caltech-cheating-fraud-squad--c6dfa35519c2.html",
       "captured": true,
       "capture_title": "如果你在入学申请中造假，这支“打假小分队”定会揪出你",
+      "error": ""
+    },
+    {
+      "title": "美国撤销巴西大使签证，两国外交争端升级",
+      "summary": "在巴西将于10月举行的总统大选前，双方因美国涉嫌干预选举的指控而引发的外交争端不断升级。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E5%B7%B4%E8%A5%BF%E5%A4%A7%E4%BD%BF%E7%AD%BE%E8%AF%81-%E4%B8%A4%E5%9B%BD%E5%A4%96%E4%BA%A4%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-ef6b03ef",
+      "guid": "WP-WSJS-0003791835",
+      "pub_date": "Wed, 05 Aug 2026 01:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-97992044?size=1.414&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-92-a4-e9-94-80-e5-b7-b4-e8--e31ad4ce8970.html",
+      "captured": true,
+      "capture_title": "美国撤销巴西大使签证，两国外交争端升级",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/trump-apple-micron-china-chips-ccb1c333-b06195873c9d.html",
       "captured": true,
       "capture_title": "苹果与美光掀起中国芯片游说战，特朗普陷入两难",
-      "error": ""
-    },
-    {
-      "title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
-      "summary": "随着中东冲突扩大，汽油价格涨破每加仑4美元，这笔意外之财势必会加剧石油行业与其白宫盟友之间日益紧张的关系。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E5%8F%91%E4%BC%8A%E6%9C%97-%E6%88%98%E4%BA%89%E8%B4%A2-%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%BA%B2%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%80%92%E7%81%AB-6e7a6c7b",
-      "guid": "WP-WSJS-0003771148",
-      "pub_date": "Tue, 28 Jul 2026 23:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-93390603?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-a7-e5-8f-91-e4-bc-8a-e6-9c-97--e6-88-98-e4-141fc74605c8.html",
-      "captured": true,
-      "capture_title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
       "error": ""
     }
   ]
