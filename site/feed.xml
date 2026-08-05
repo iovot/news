@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 05:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 08:42:21 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 05:50:27 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 08:42:21 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -49,13 +49,6 @@
             <pubDate>Wed, 05 Aug 2026 03:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI测试中再次失控，这次还学会了欺骗]]></title>
-            <description><![CDATA[<img width="1280" height="956" src="https://images.wsj.net/im-00612931?size=1.339&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai-just-went-rogue-again-this-time-it-turned-to-deception-79af5991</link>
-            <guid isPermaLink="false">WP-WSJS-0003792077</guid>
-            <pubDate>Wed, 05 Aug 2026 03:02:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[图解美日联手提振日圆的五大原因]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69177632?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本担忧通胀，而美国不希望东京方面抛售美国国债。这是外汇市场一次历史性的干预行动。</p>]]></description>
             <link>https://cn.wsj.com/articles/five-charts-that-show-why-the-u-s-and-japan-teamed-up-to-buy-yen-ce3694ff</link>
@@ -63,11 +56,11 @@
             <pubDate>Wed, 05 Aug 2026 01:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国撤销巴西大使签证，两国外交争端升级]]></title>
-            <description><![CDATA[<img width="1280" height="905" src="https://images.wsj.net/im-97992044?size=1.414&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在巴西将于10月举行的总统大选前，双方因美国涉嫌干预选举的指控而引发的外交争端不断升级。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E5%B7%B4%E8%A5%BF%E5%A4%A7%E4%BD%BF%E7%AD%BE%E8%AF%81-%E4%B8%A4%E5%9B%BD%E5%A4%96%E4%BA%A4%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-ef6b03ef</link>
-            <guid isPermaLink="false">WP-WSJS-0003791835</guid>
-            <pubDate>Wed, 05 Aug 2026 01:13:00 GMT</pubDate>
+            <title><![CDATA[AI在测试中再次失控，这次还学会了欺骗]]></title>
+            <description><![CDATA[<img width="1280" height="956" src="https://images.wsj.net/im-00612931?size=1.339&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai-just-went-rogue-again-this-time-it-turned-to-deception-79af5991</link>
+            <guid isPermaLink="false">WP-WSJS-0003792077</guid>
+            <pubDate>Wed, 05 Aug 2026 03:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“地狱第七层”：众议员马克斯·米勒家庭纠纷冲击共和党选情]]></title>
@@ -75,6 +68,13 @@
             <link>https://cn.wsj.com/articles/the-seventh-level-of-hell-rep-max-millers-family-fight-roils-gop-election-hopes-1dc39c95</link>
             <guid isPermaLink="false">WP-WSJS-0003792037</guid>
             <pubDate>Wed, 05 Aug 2026 02:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯袭击基辅及周边地区，造成17人死亡]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-17445769?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>乌克兰政府表示，俄罗斯对乌克兰首都基辅及周边地区发动了猛烈的导弹和无人机袭击，造成至少17人死亡，另有44人受伤。</p>]]></description>
+            <link>https://cn.wsj.com/articles/russian-attack-kills-17-in-ukraine-404ff932</link>
+            <guid isPermaLink="false">WP-WSJS-0003792502</guid>
+            <pubDate>Wed, 05 Aug 2026 08:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美台关系更趋紧密，顶住中国与特朗普压力]]></title>
@@ -105,18 +105,11 @@
             <pubDate>Wed, 05 Aug 2026 01:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Situational Awareness爆仓背后的大佬背书与风控缺失]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84078171?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>早在Situational爆仓危机前，一些出资人就已经对该基金的高杠杆操作和信息披露不足问题表达了不满与担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-investing-heavyweights-that-backed-situational-awareness-before-it-blew-up-e3b46912</link>
-            <guid isPermaLink="false">WP-WSJS-0003791960</guid>
-            <pubDate>Wed, 05 Aug 2026 01:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI称苹果的商业秘密诉讼“草率”且“异常个人化”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70521124?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI强硬回击苹果公司关于其窃取商业机密的指控，称后者在员工离职后未能妥善保护文件，并否认其挖来的员工参与了此类盗窃行为。</p>]]></description>
-            <link>https://cn.wsj.com/articles/openai-calls-apples-trade-secret-suit-careless-and-oddly-personal-9ac464f9</link>
-            <guid isPermaLink="false">WP-WSJS-0003791565</guid>
-            <pubDate>Tue, 04 Aug 2026 23:19:00 GMT</pubDate>
+            <title><![CDATA[美国撤销巴西大使签证，两国外交争端升级]]></title>
+            <description><![CDATA[<img width="1280" height="905" src="https://images.wsj.net/im-97992044?size=1.414&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在巴西将于10月举行的总统大选前，双方因美国涉嫌干预选举的指控而引发的外交争端不断升级。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E5%B7%B4%E8%A5%BF%E5%A4%A7%E4%BD%BF%E7%AD%BE%E8%AF%81-%E4%B8%A4%E5%9B%BD%E5%A4%96%E4%BA%A4%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-ef6b03ef</link>
+            <guid isPermaLink="false">WP-WSJS-0003791835</guid>
+            <pubDate>Wed, 05 Aug 2026 01:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[好奇纸尿裤在华销售因社交媒体风波受挫]]></title>
@@ -126,6 +119,20 @@
             <pubDate>Wed, 05 Aug 2026 03:29:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国光模块股下跌，有报道称美国可能出台进口禁令]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-85144423?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在有报道称美国可能禁止进口中国新型光学元件后，中国光收发器制造商股价走低，这无疑是对中国人工智能硬件类股市场情绪的又一次打击。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chineseoptical-module-stocks-fall-after-report-of-possible-u-s-import-ban-8a7529d8</link>
+            <guid isPermaLink="false">WP-WSJS-0003792438</guid>
+            <pubDate>Wed, 05 Aug 2026 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Situational Awareness爆仓背后的大佬背书与风控缺失]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84078171?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>早在Situational爆仓危机前，一些出资人就已经对该基金的高杠杆操作和信息披露不足问题表达了不满与担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-investing-heavyweights-that-backed-situational-awareness-before-it-blew-up-e3b46912</link>
+            <guid isPermaLink="false">WP-WSJS-0003791960</guid>
+            <pubDate>Wed, 05 Aug 2026 01:59:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[通用汽车与上汽将合资伙伴关系延长20年]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-48921298?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举巩固了这家美国汽车制造商对中国市场的承诺。西方汽车制造商一直在寻求与中国同行建立合作伙伴关系，以此来利用中国技术。</p>]]></description>
             <link>https://cn.wsj.com/articles/gm-chinas-saic-extend-joint-venture-partnership-for-20-years-daa61023</link>
@@ -133,18 +140,18 @@
             <pubDate>Wed, 05 Aug 2026 05:43:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[OpenAI称苹果的商业秘密诉讼“草率”且“异常个人化”]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70521124?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI强硬回击苹果公司关于其窃取商业机密的指控，称后者在员工离职后未能妥善保护文件，并否认其挖来的员工参与了此类盗窃行为。</p>]]></description>
+            <link>https://cn.wsj.com/articles/openai-calls-apples-trade-secret-suit-careless-and-oddly-personal-9ac464f9</link>
+            <guid isPermaLink="false">WP-WSJS-0003791565</guid>
+            <pubDate>Tue, 04 Aug 2026 23:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[芯片公司利润飙升，投资者为何仍不满意？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-20858753?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管半导体行业利润飙升144%，但费城半导体指数较6月份创下的纪录高位回落约17%，一度跌入熊市区域。</p>]]></description>
             <link>https://cn.wsj.com/articles/even-big-profits-arent-enough-to-keep-chip-investors-happy-e9cdfc35</link>
             <guid isPermaLink="false">WP-WSJS-0003791787</guid>
             <pubDate>Wed, 05 Aug 2026 00:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国股市曾是全球最热市场，如今已成空头围猎场]]></title>
-            <description><![CDATA[<img width="1280" height="883" src="https://images.mktw.net/im-21246498?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>花旗分析师报告揭示了韩国市场情绪向看跌加速转变的程度。他写道，目前空头头寸已触及三年高点，一场逼空行情正在酝酿。</p>]]></description>
-            <link>https://cn.wsj.com/articles/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-south-korea-6f4a32f8</link>
-            <guid isPermaLink="false">WP-WSJS-0003792188</guid>
-            <pubDate>Wed, 05 Aug 2026 03:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案]]></title>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:59:34.247858+00:00",
+  "generated_at": "2026-08-05T08:47:39.796627+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,19 +37,7 @@
       "image_url": "https://images.wsj.net/im-98283500?size=1.553&width=1280",
       "snapshot": "articles/iran-strait-of-hormuz-trump-talks-8cbeeb33-4ba53de03e4e.html",
       "captured": true,
-      "capture_title": "伊朗正将全部筹码押向霍尔木兹海峡 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "AI测试中再次失控，这次还学会了欺骗",
-      "summary": "在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。",
-      "link": "https://cn.wsj.com/articles/ai-just-went-rogue-again-this-time-it-turned-to-deception-79af5991",
-      "guid": "WP-WSJS-0003792077",
-      "pub_date": "Wed, 05 Aug 2026 03:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-00612931?size=1.339&width=1280",
-      "snapshot": "articles/ai-just-went-rogue-again-this-time-it-turned-to--f7cbed2be29e.html",
-      "captured": true,
-      "capture_title": "AI测试中再次失控，这次还学会了欺骗 - WSJ",
+      "capture_title": "伊朗正将全部筹码押向霍尔木兹海峡",
       "error": ""
     },
     {
@@ -61,19 +49,19 @@
       "image_url": "https://images.wsj.net/im-69177632?size=1.501&width=1280",
       "snapshot": "articles/five-charts-that-show-why-the-u-s-and-japan-team-6195b7e5daa2.html",
       "captured": true,
-      "capture_title": "图解美日联手提振日圆的五大原因 - WSJ",
+      "capture_title": "图解美日联手提振日圆的五大原因",
       "error": ""
     },
     {
-      "title": "美国撤销巴西大使签证，两国外交争端升级",
-      "summary": "在巴西将于10月举行的总统大选前，双方因美国涉嫌干预选举的指控而引发的外交争端不断升级。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E5%B7%B4%E8%A5%BF%E5%A4%A7%E4%BD%BF%E7%AD%BE%E8%AF%81-%E4%B8%A4%E5%9B%BD%E5%A4%96%E4%BA%A4%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-ef6b03ef",
-      "guid": "WP-WSJS-0003791835",
-      "pub_date": "Wed, 05 Aug 2026 01:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-97992044?size=1.414&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-92-a4-e9-94-80-e5-b7-b4-e8--e31ad4ce8970.html",
+      "title": "AI在测试中再次失控，这次还学会了欺骗",
+      "summary": "在英国政府背景研究机构的测试中，OpenAI与Anthropic旗下系统擅自越权且展现出欺骗行为。",
+      "link": "https://cn.wsj.com/articles/ai-just-went-rogue-again-this-time-it-turned-to-deception-79af5991",
+      "guid": "WP-WSJS-0003792077",
+      "pub_date": "Wed, 05 Aug 2026 03:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-00612931?size=1.339&width=1280",
+      "snapshot": "articles/ai-just-went-rogue-again-this-time-it-turned-to--f7cbed2be29e.html",
       "captured": true,
-      "capture_title": "美国撤销巴西大使签证，两国外交争端升级",
+      "capture_title": "AI在测试中再次失控，这次还学会了欺骗",
       "error": ""
     },
     {
@@ -86,6 +74,18 @@
       "snapshot": "articles/the-seventh-level-of-hell-rep-max-millers-family-21ad9fa1a3c0.html",
       "captured": true,
       "capture_title": "“地狱第七层”：众议员马克斯·米勒家庭纠纷冲击共和党选情",
+      "error": ""
+    },
+    {
+      "title": "俄罗斯袭击基辅及周边地区，造成17人死亡",
+      "summary": "乌克兰政府表示，俄罗斯对乌克兰首都基辅及周边地区发动了猛烈的导弹和无人机袭击，造成至少17人死亡，另有44人受伤。",
+      "link": "https://cn.wsj.com/articles/russian-attack-kills-17-in-ukraine-404ff932",
+      "guid": "WP-WSJS-0003792502",
+      "pub_date": "Wed, 05 Aug 2026 08:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-17445769?size=1.501&width=1280",
+      "snapshot": "articles/russian-attack-kills-17-in-ukraine-404ff932-e760cf6a3070.html",
+      "captured": true,
+      "capture_title": "俄罗斯袭击基辅及周边地区，造成17人死亡 - WSJ",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-75629609?size=1.26&width=1280",
       "snapshot": "articles/us-marine-corp-drones-f9ff65fc-4bcb4ef95ef9.html",
       "captured": true,
-      "capture_title": "美国海军陆战队正加紧部署数千架攻击型无人机 - WSJ",
+      "capture_title": "美国海军陆战队正加紧部署数千架攻击型无人机",
       "error": ""
     },
     {
@@ -137,27 +137,15 @@
       "error": ""
     },
     {
-      "title": "Situational Awareness爆仓背后的大佬背书与风控缺失",
-      "summary": "早在Situational爆仓危机前，一些出资人就已经对该基金的高杠杆操作和信息披露不足问题表达了不满与担忧。",
-      "link": "https://cn.wsj.com/articles/the-investing-heavyweights-that-backed-situational-awareness-before-it-blew-up-e3b46912",
-      "guid": "WP-WSJS-0003791960",
-      "pub_date": "Wed, 05 Aug 2026 01:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-84078171?size=1.501&width=1280",
-      "snapshot": "articles/the-investing-heavyweights-that-backed-situation-7ecfd4a47bdc.html",
+      "title": "美国撤销巴西大使签证，两国外交争端升级",
+      "summary": "在巴西将于10月举行的总统大选前，双方因美国涉嫌干预选举的指控而引发的外交争端不断升级。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E5%B7%B4%E8%A5%BF%E5%A4%A7%E4%BD%BF%E7%AD%BE%E8%AF%81-%E4%B8%A4%E5%9B%BD%E5%A4%96%E4%BA%A4%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-ef6b03ef",
+      "guid": "WP-WSJS-0003791835",
+      "pub_date": "Wed, 05 Aug 2026 01:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-97992044?size=1.414&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-92-a4-e9-94-80-e5-b7-b4-e8--e31ad4ce8970.html",
       "captured": true,
-      "capture_title": "Situational Awareness爆仓背后的大佬背书与风控缺失",
-      "error": ""
-    },
-    {
-      "title": "OpenAI称苹果的商业秘密诉讼“草率”且“异常个人化”",
-      "summary": "OpenAI强硬回击苹果公司关于其窃取商业机密的指控，称后者在员工离职后未能妥善保护文件，并否认其挖来的员工参与了此类盗窃行为。",
-      "link": "https://cn.wsj.com/articles/openai-calls-apples-trade-secret-suit-careless-and-oddly-personal-9ac464f9",
-      "guid": "WP-WSJS-0003791565",
-      "pub_date": "Tue, 04 Aug 2026 23:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-70521124?size=1.501&width=1280",
-      "snapshot": "articles/openai-calls-apples-trade-secret-suit-careless-a-7c3d2a626345.html",
-      "captured": true,
-      "capture_title": "OpenAI称苹果的商业秘密诉讼“草率”且“异常个人化”",
+      "capture_title": "美国撤销巴西大使签证，两国外交争端升级",
       "error": ""
     },
     {
@@ -173,6 +161,30 @@
       "error": ""
     },
     {
+      "title": "中国光模块股下跌，有报道称美国可能出台进口禁令",
+      "summary": "在有报道称美国可能禁止进口中国新型光学元件后，中国光收发器制造商股价走低，这无疑是对中国人工智能硬件类股市场情绪的又一次打击。",
+      "link": "https://cn.wsj.com/articles/chineseoptical-module-stocks-fall-after-report-of-possible-u-s-import-ban-8a7529d8",
+      "guid": "WP-WSJS-0003792438",
+      "pub_date": "Wed, 05 Aug 2026 07:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-85144423?size=1.501&width=1280",
+      "snapshot": "articles/chineseoptical-module-stocks-fall-after-report-o-20138da68d1b.html",
+      "captured": true,
+      "capture_title": "中国光模块股下跌，有报道称美国可能出台进口禁令 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "Situational Awareness爆仓背后的大佬背书与风控缺失",
+      "summary": "早在Situational爆仓危机前，一些出资人就已经对该基金的高杠杆操作和信息披露不足问题表达了不满与担忧。",
+      "link": "https://cn.wsj.com/articles/the-investing-heavyweights-that-backed-situational-awareness-before-it-blew-up-e3b46912",
+      "guid": "WP-WSJS-0003791960",
+      "pub_date": "Wed, 05 Aug 2026 01:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-84078171?size=1.501&width=1280",
+      "snapshot": "articles/the-investing-heavyweights-that-backed-situation-7ecfd4a47bdc.html",
+      "captured": true,
+      "capture_title": "Situational Awareness爆仓背后的大佬背书与风控缺失",
+      "error": ""
+    },
+    {
       "title": "通用汽车与上汽将合资伙伴关系延长20年",
       "summary": "此举巩固了这家美国汽车制造商对中国市场的承诺。西方汽车制造商一直在寻求与中国同行建立合作伙伴关系，以此来利用中国技术。",
       "link": "https://cn.wsj.com/articles/gm-chinas-saic-extend-joint-venture-partnership-for-20-years-daa61023",
@@ -181,7 +193,19 @@
       "image_url": "https://images.wsj.net/im-48921298?size=1.501&width=1280",
       "snapshot": "articles/gm-chinas-saic-extend-joint-venture-partnership--7d9785998c74.html",
       "captured": true,
-      "capture_title": "通用汽车与上汽将合资伙伴关系延长20年 - WSJ",
+      "capture_title": "通用汽车与上汽将合资伙伴关系延长20年",
+      "error": ""
+    },
+    {
+      "title": "OpenAI称苹果的商业秘密诉讼“草率”且“异常个人化”",
+      "summary": "OpenAI强硬回击苹果公司关于其窃取商业机密的指控，称后者在员工离职后未能妥善保护文件，并否认其挖来的员工参与了此类盗窃行为。",
+      "link": "https://cn.wsj.com/articles/openai-calls-apples-trade-secret-suit-careless-and-oddly-personal-9ac464f9",
+      "guid": "WP-WSJS-0003791565",
+      "pub_date": "Tue, 04 Aug 2026 23:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-70521124?size=1.501&width=1280",
+      "snapshot": "articles/openai-calls-apples-trade-secret-suit-careless-a-7c3d2a626345.html",
+      "captured": true,
+      "capture_title": "OpenAI称苹果的商业秘密诉讼“草率”且“异常个人化”",
       "error": ""
     },
     {
@@ -194,18 +218,6 @@
       "snapshot": "articles/even-big-profits-arent-enough-to-keep-chip-inves-99d966def972.html",
       "captured": true,
       "capture_title": "芯片公司利润飙升，投资者为何仍不满意？",
-      "error": ""
-    },
-    {
-      "title": "韩国股市曾是全球最热市场，如今已成空头围猎场",
-      "summary": "花旗分析师报告揭示了韩国市场情绪向看跌加速转变的程度。他写道，目前空头头寸已触及三年高点，一场逼空行情正在酝酿。",
-      "link": "https://cn.wsj.com/articles/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-south-korea-6f4a32f8",
-      "guid": "WP-WSJS-0003792188",
-      "pub_date": "Wed, 05 Aug 2026 03:57:00 GMT",
-      "image_url": "https://images.mktw.net/im-21246498?size=1.45&width=1280",
-      "snapshot": "articles/what-was-the-worlds-hottest-stock-market-is-now--24c7c1294f46.html",
-      "captured": true,
-      "capture_title": "韩国股市曾是全球最热市场，如今已成空头围猎场 - WSJ",
       "error": ""
     },
     {
@@ -241,7 +253,7 @@
       "image_url": "https://images.wsj.net/im-61655709?size=1.501&width=1280",
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
-      "capture_title": "航空公司真的不想让你买最便宜的机票 - WSJ",
+      "capture_title": "航空公司真的不想让你买最便宜的机票",
       "error": ""
     },
     {
@@ -289,7 +301,19 @@
       "image_url": "https://images.wsj.net/im-71830416?size=1.333&width=1280",
       "snapshot": "articles/college-admissions-caltech-cheating-fraud-squad--c6dfa35519c2.html",
       "captured": true,
-      "capture_title": "如果你在入学申请中造假，加州理工学院这支“打假小分队”定会揪出你 - WSJ",
+      "capture_title": "如果你在入学申请中造假，这支“打假小分队”定会揪出你",
+      "error": ""
+    },
+    {
+      "title": "韩国股市曾是全球最热市场，如今已成空头围猎场",
+      "summary": "花旗分析师报告揭示了韩国市场情绪向看跌加速转变的程度。他写道，目前空头头寸已触及三年高点，一场逼空行情正在酝酿。",
+      "link": "https://cn.wsj.com/articles/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-south-korea-6f4a32f8",
+      "guid": "WP-WSJS-0003792188",
+      "pub_date": "Wed, 05 Aug 2026 03:57:00 GMT",
+      "image_url": "https://images.mktw.net/im-21246498?size=1.45&width=1280",
+      "snapshot": "articles/what-was-the-worlds-hottest-stock-market-is-now--24c7c1294f46.html",
+      "captured": true,
+      "capture_title": "韩国股市曾是全球最热市场，如今已成空头围猎场 - WSJ",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/e5-a4-a7-e5-8f-91-e4-bc-8a-e6-9c-97--e6-88-98-e4-141fc74605c8.html",
       "captured": true,
       "capture_title": "大发伊朗“战争财”，石油巨头能否躲过特朗普的怒火？",
-      "error": ""
-    },
-    {
-      "title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
-      "summary": "周三，存储芯片制造商SK海力士公布的季度利润达到创纪录的640亿美元，但股价仍下跌近10%。",
-      "link": "https://cn.wsj.com/articles/even-64-billion-in-quarterly-profit-is-a-disappointment-for-chip-investors-5a8ab57e",
-      "guid": "WP-WSJS-0003775177",
-      "pub_date": "Thu, 30 Jul 2026 03:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-98440283?size=1.501&width=1280",
-      "snapshot": "articles/even-64-billion-in-quarterly-profit-is-a-disappo-461958d305d7.html",
-      "captured": true,
-      "capture_title": "SK海力士季度利润达640亿美元，为何仍令芯片股投资者失望？",
-      "error": ""
-    },
-    {
-      "title": "在美国，课间休息正在消失，家长们行动了",
-      "summary": "日益缩水的课间休息时间令美国家长感到忧虑，他们认为课间休息对于儿童的身心发展至关重要，纷纷呼吁恢复课间休息。",
-      "link": "https://cn.wsj.com/articles/recess-is-disappearing-parents-are-pushing-to-bring-it-back-5fdef83c",
-      "guid": "WP-WSJS-0003768449",
-      "pub_date": "Tue, 28 Jul 2026 06:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-11132174?size=1.501&width=1280",
-      "snapshot": "articles/recess-is-disappearing-parents-are-pushing-to-br-999e88d0a5ff.html",
-      "captured": true,
-      "capture_title": "在美国，课间休息正在消失，家长们行动了",
       "error": ""
     }
   ]
