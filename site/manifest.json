@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:08:30.633616+00:00",
+  "generated_at": "2026-08-06T08:54:41.376851+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-65508134?size=1.501&width=1280",
       "snapshot": "articles/taiwan-tests-war-plans-to-thwart-chinese-invasio-9aba76cd0d01.html",
       "captured": true,
-      "capture_title": "台湾演练旨在挫败中国入侵的作战计划 - WSJ",
+      "capture_title": "台湾演练旨在挫败中国入侵的作战计划",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-34631537?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-9c-a8-e6-b2-83-e4--d776d36269c6.html",
       "captured": true,
-      "capture_title": "特朗普在沃什就任美联储主席后频繁与他通话 - WSJ",
+      "capture_title": "特朗普在沃什就任美联储主席后频繁与他通话",
       "error": ""
     },
     {
@@ -86,6 +86,18 @@
       "snapshot": "articles/e8-b0-88-e5-88-a4-e4-ba-ba-e5-91-98-e6-8e-a5-e8--63adab3815d0.html",
       "captured": true,
       "capture_title": "谈判人员接近与伊朗达成重开霍尔木兹海峡的协议",
+      "error": ""
+    },
+    {
+      "title": "联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？",
+      "summary": "洛嘎的自焚行为震动并凝聚了原本已四分五裂、士气低落的全球流亡藏人群体。",
+      "link": "https://cn.wsj.com/articles/-tibetan-activist-set-himself-on-fire-outside-the-u-n-and-united-his-cause-04f3e4eb",
+      "guid": "WP-WSJS-0003796361",
+      "pub_date": "Thu, 06 Aug 2026 06:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-94955510?size=1.501&width=1280",
+      "snapshot": "articles/tibetan-activist-set-himself-on-fire-outside-the-c26df2184d08.html",
+      "captured": true,
+      "capture_title": "联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？ - WSJ",
       "error": ""
     },
     {
@@ -113,18 +125,6 @@
       "error": ""
     },
     {
-      "title": "参议院小组称已获取福奇新冠疫情中使用的手机数据副本",
-      "summary": "一参议院委员会定于周四表决，是否因福奇上周拒绝回答问题而认定其藐视该委员会。",
-      "link": "https://cn.wsj.com/articles/anthony-fauci-covid-phone-senate-e65ab3b4",
-      "guid": "WP-WSJS-0003795773",
-      "pub_date": "Thu, 06 Aug 2026 00:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-34248218?size=1&width=1280",
-      "snapshot": "articles/anthony-fauci-covid-phone-senate-e65ab3b4-d42956da8fa2.html",
-      "captured": true,
-      "capture_title": "参议院小组称已获取福奇新冠疫情中使用的手机数据副本",
-      "error": ""
-    },
-    {
       "title": "习近平想要强势人民币，中国经济却在拖后腿",
       "summary": "习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。",
       "link": "https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5",
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-91582437?size=1.5&width=1280",
       "snapshot": "articles/spacex-ipo-spv-investors-ebd857dd-abd4d2793cce.html",
       "captured": true,
-      "capture_title": "这些散户“持有”的SpaceX股票为何在套现前不翼而飞？ - WSJ",
+      "capture_title": "这些散户“持有”的SpaceX股票为何在套现前不翼而飞？",
       "error": ""
     },
     {
@@ -161,15 +161,15 @@
       "error": ""
     },
     {
-      "title": "他曾斥资复兴底特律市中心，如今又想重塑城市天际线",
-      "summary": "吉尔伯特希望在底特律滨河区建一个滨河公园、一个娱乐区、多栋公寓楼，以及一条连接河流与市中心的步行道。",
-      "link": "https://cn.wsj.com/articles/%E4%BB%96%E6%9B%BE%E6%96%A5%E8%B5%84%E5%A4%8D%E5%85%B4%E5%BA%95%E7%89%B9%E5%BE%8B%E5%B8%82%E4%B8%AD%E5%BF%83-%E5%A6%82%E4%BB%8A%E5%8F%88%E6%83%B3%E9%87%8D%E5%A1%91%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF-6f232751",
-      "guid": "WP-WSJS-0003796093",
-      "pub_date": "Thu, 06 Aug 2026 03:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-61445899?size=1.8&width=1280",
-      "snapshot": "articles/e4-bb-96-e6-9b-be-e6-96-a5-e8-b5-84-e5-a4-8d-e5--8cfd3a78e458.html",
+      "title": "参议院小组称已获取福奇新冠疫情中使用的手机数据副本",
+      "summary": "一参议院委员会定于周四表决，是否因福奇上周拒绝回答问题而认定其藐视该委员会。",
+      "link": "https://cn.wsj.com/articles/anthony-fauci-covid-phone-senate-e65ab3b4",
+      "guid": "WP-WSJS-0003795773",
+      "pub_date": "Thu, 06 Aug 2026 00:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-34248218?size=1&width=1280",
+      "snapshot": "articles/anthony-fauci-covid-phone-senate-e65ab3b4-d42956da8fa2.html",
       "captured": true,
-      "capture_title": "他曾斥资复兴底特律市中心，如今又想重塑城市天际线 - WSJ",
+      "capture_title": "参议院小组称已获取福奇新冠疫情中使用的手机数据副本",
       "error": ""
     },
     {
@@ -185,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "香港保险与银行股下跌，有报道称中国对境外保单收益征税",
+      "summary": "香港市场大型保险公司和银行股走低，此前有媒体报道称，中国内地税务机关已开始对部分境外保单收益征收个人所得税。",
+      "link": "https://cn.wsj.com/articles/hongkong-insurer-bank-stocks-fall-after-report-of-china-tax-on-offshore-products-b82a5ef3",
+      "guid": "WP-WSJS-0003796503",
+      "pub_date": "Thu, 06 Aug 2026 08:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-69167616?size=1.499&width=1280",
+      "snapshot": "articles/hongkong-insurer-bank-stocks-fall-after-report-o-44f7b938d024.html",
+      "captured": true,
+      "capture_title": "香港保险与银行股下跌，有报道称中国对境外保单收益征税 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国AI初创公司MiniMax纳入沪深港通后股价大涨",
       "summary": "在被纳入沪深港通交易机制的首日，稀宇科技股价大涨。",
       "link": "https://cn.wsj.com/articles/minimaxshares-jump-as-mainland-chinese-investors-gain-access-698c897f",
@@ -197,6 +209,42 @@
       "error": ""
     },
     {
+      "title": "他曾斥资复兴底特律市中心，如今又想重塑城市天际线",
+      "summary": "吉尔伯特希望在底特律滨河区建一个滨河公园、一个娱乐区、多栋公寓楼，以及一条连接河流与市中心的步行道。",
+      "link": "https://cn.wsj.com/articles/%E4%BB%96%E6%9B%BE%E6%96%A5%E8%B5%84%E5%A4%8D%E5%85%B4%E5%BA%95%E7%89%B9%E5%BE%8B%E5%B8%82%E4%B8%AD%E5%BF%83-%E5%A6%82%E4%BB%8A%E5%8F%88%E6%83%B3%E9%87%8D%E5%A1%91%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF-6f232751",
+      "guid": "WP-WSJS-0003796093",
+      "pub_date": "Thu, 06 Aug 2026 03:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-61445899?size=1.8&width=1280",
+      "snapshot": "articles/e4-bb-96-e6-9b-be-e6-96-a5-e8-b5-84-e5-a4-8d-e5--8cfd3a78e458.html",
+      "captured": true,
+      "capture_title": "他曾斥资复兴底特律市中心，如今又想重塑城市天际线",
+      "error": ""
+    },
+    {
+      "title": "探秘品客生产线：AI如何让每一片薯片都完美",
+      "summary": "薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。",
+      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01",
+      "guid": "WP-WSJS-0003795878",
+      "pub_date": "Thu, 06 Aug 2026 01:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-45838981?size=1.501&width=1280",
+      "snapshot": "articles/e6-8e-a2-e7-a7-98-e5-93-81-e5-ae-a2-e7-94-9f-e4--3a4b181d40c0.html",
+      "captured": true,
+      "capture_title": "探秘品客生产线：AI如何让每一片薯片都完美",
+      "error": ""
+    },
+    {
+      "title": "诺和诺德如何痛失GLP-1减肥药市场领先地位",
+      "summary": "丹麦药企诺和诺德研发出了全球有史以来最赚钱的新药。但美国的礼来公司后来居上，掌控了GLP-1减肥药市场。",
+      "link": "https://cn.wsj.com/articles/how-ozempic-maker-novo-nordisk-blew-its-lead-in-glp-1-weight-loss-drugs-can-europe-compete-in-the-high-stakes-global-economy-c1d0d604",
+      "guid": "WP-WSJS-0003796353",
+      "pub_date": "Thu, 06 Aug 2026 06:15:00 GMT",
+      "image_url": "https://images.mktw.net/im-49353990?size=1.44&width=1280",
+      "snapshot": "articles/how-ozempic-maker-novo-nordisk-blew-its-lead-in--4e6deb972f6c.html",
+      "captured": true,
+      "capture_title": "诺和诺德如何痛失GLP-1减肥药市场领先地位 - WSJ",
+      "error": ""
+    },
+    {
       "title": "美国各航司抵制ICE在机场加强移民执法",
       "summary": "联邦执法人员利用航班乘客名单逮捕签证过期的旅客，引发有关安全与执法规程的抗议。",
       "link": "https://cn.wsj.com/articles/airlines-push-back-against-ice-enforcement-at-airports-bf23f62f",
@@ -205,19 +253,31 @@
       "image_url": "https://images.wsj.net/im-40232145?size=1.501&width=1280",
       "snapshot": "articles/airlines-push-back-against-ice-enforcement-at-ai-cf0995fbb526.html",
       "captured": true,
-      "capture_title": "美国各航司抵制ICE在机场加强移民执法 - WSJ",
+      "capture_title": "美国各航司抵制ICE在机场加强移民执法",
       "error": ""
     },
     {
-      "title": "前高管吹哨引发检方调查：摩根大通涉嫌处理欺诈案不当",
-      "summary": "举报人称，在客户资金遭窃的欺诈案件中，摩根大通拒付给客户的超1亿美元赔偿款项，且未能妥善报告或管理可疑的金融活动。",
-      "link": "https://cn.wsj.com/articles/prosecutors-probed-whistleblower-claims-that-jpmorgan-mishandled-fraud-cases-b3fc9cd2",
-      "guid": "WP-WSJS-0003796056",
-      "pub_date": "Thu, 06 Aug 2026 02:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-43362050?size=1.499&width=1280",
-      "snapshot": "articles/prosecutors-probed-whistleblower-claims-that-jpm-7d30447d11db.html",
+      "title": "图解美日联手提振日圆的五大原因",
+      "summary": "日本担忧通胀，而美国不希望东京方面抛售美国国债。这是外汇市场一次历史性的干预行动。",
+      "link": "https://cn.wsj.com/articles/five-charts-that-show-why-the-u-s-and-japan-teamed-up-to-buy-yen-ce3694ff",
+      "guid": "WP-WSJS-0003791854",
+      "pub_date": "Wed, 05 Aug 2026 01:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-69177632?size=1.501&width=1280",
+      "snapshot": "articles/five-charts-that-show-why-the-u-s-and-japan-team-6195b7e5daa2.html",
       "captured": true,
-      "capture_title": "前高管吹哨引发检方调查：摩根大通涉嫌处理欺诈案不当",
+      "capture_title": "图解美日联手提振日圆的五大原因",
+      "error": ""
+    },
+    {
+      "title": "AI热潮正重塑美国经济，深刻程度超乎认知",
+      "summary": "美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。",
+      "link": "https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd",
+      "guid": "WP-WSJS-0003788187",
+      "pub_date": "Tue, 04 Aug 2026 02:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-73773958?size=1.5&width=1280",
+      "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
+      "captured": true,
+      "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知",
       "error": ""
     },
     {
@@ -230,6 +290,30 @@
       "snapshot": "articles/whatnot-live-shopping-app-66981216-9268e1e064c0.html",
       "captured": true,
       "capture_title": "在这款直播购物应用里，有人一路竞拍直至倾家荡产",
+      "error": ""
+    },
+    {
+      "title": "硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停",
+      "summary": "巴拉吉·斯里尼瓦桑离开硅谷，在亚洲一座鬼城试水“网络建国孵化器”，随后该项目遭马来西亚政府勒令关闭。",
+      "link": "https://cn.wsj.com/articles/%E7%A1%85%E8%B0%B7%E5%A4%A7%E4%BD%AC%E8%AF%95%E5%9B%BE%E5%9C%A8%E4%BA%9A%E6%B4%B2-%E5%BB%BA%E5%9B%BD-%E5%8D%B4%E6%83%A8%E9%81%AD%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%BC%BA%E5%88%B6%E5%8F%AB%E5%81%9C-d655586d",
+      "guid": "WP-WSJS-0003788269",
+      "pub_date": "Tue, 04 Aug 2026 03:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-92011104?size=1.501&width=1280",
+      "snapshot": "articles/e7-a1-85-e8-b0-b7-e5-a4-a7-e4-bd-ac-e8-af-95-e5--79f7da1433b6.html",
+      "captured": true,
+      "capture_title": "硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停",
+      "error": ""
+    },
+    {
+      "title": "前高管吹哨引发检方调查：摩根大通涉嫌处理欺诈案不当",
+      "summary": "举报人称，在客户资金遭窃的欺诈案件中，摩根大通拒付给客户的超1亿美元赔偿款项，且未能妥善报告或管理可疑的金融活动。",
+      "link": "https://cn.wsj.com/articles/prosecutors-probed-whistleblower-claims-that-jpmorgan-mishandled-fraud-cases-b3fc9cd2",
+      "guid": "WP-WSJS-0003796056",
+      "pub_date": "Thu, 06 Aug 2026 02:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-43362050?size=1.499&width=1280",
+      "snapshot": "articles/prosecutors-probed-whistleblower-claims-that-jpm-7d30447d11db.html",
+      "captured": true,
+      "capture_title": "前高管吹哨引发检方调查：摩根大通涉嫌处理欺诈案不当",
       "error": ""
     },
     {
@@ -257,30 +341,6 @@
       "error": ""
     },
     {
-      "title": "AI热潮正重塑美国经济，深刻程度超乎认知",
-      "summary": "美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。",
-      "link": "https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd",
-      "guid": "WP-WSJS-0003788187",
-      "pub_date": "Tue, 04 Aug 2026 02:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-73773958?size=1.5&width=1280",
-      "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
-      "captured": true,
-      "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知",
-      "error": ""
-    },
-    {
-      "title": "图解美日联手提振日圆的五大原因",
-      "summary": "日本担忧通胀，而美国不希望东京方面抛售美国国债。这是外汇市场一次历史性的干预行动。",
-      "link": "https://cn.wsj.com/articles/five-charts-that-show-why-the-u-s-and-japan-teamed-up-to-buy-yen-ce3694ff",
-      "guid": "WP-WSJS-0003791854",
-      "pub_date": "Wed, 05 Aug 2026 01:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-69177632?size=1.501&width=1280",
-      "snapshot": "articles/five-charts-that-show-why-the-u-s-and-japan-team-6195b7e5daa2.html",
-      "captured": true,
-      "capture_title": "图解美日联手提振日圆的五大原因",
-      "error": ""
-    },
-    {
       "title": "航空公司真的不想让你买最便宜的机票",
       "summary": "没有任何附加服务的基础经济舱一直都有诸多限制，如今规矩更是越来越多。",
       "link": "https://cn.wsj.com/articles/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%83%B3%E8%AE%A9%E4%BD%A0%E4%B9%B0%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E6%9C%BA%E7%A5%A8-870c45d7",
@@ -290,18 +350,6 @@
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
       "capture_title": "航空公司真的不想让你买最便宜的机票",
-      "error": ""
-    },
-    {
-      "title": "硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停",
-      "summary": "巴拉吉·斯里尼瓦桑离开硅谷，在亚洲一座鬼城试水“网络建国孵化器”，随后该项目遭马来西亚政府勒令关闭。",
-      "link": "https://cn.wsj.com/articles/%E7%A1%85%E8%B0%B7%E5%A4%A7%E4%BD%AC%E8%AF%95%E5%9B%BE%E5%9C%A8%E4%BA%9A%E6%B4%B2-%E5%BB%BA%E5%9B%BD-%E5%8D%B4%E6%83%A8%E9%81%AD%E5%BD%93%E5%9C%B0%E6%94%BF%E5%BA%9C%E5%BC%BA%E5%88%B6%E5%8F%AB%E5%81%9C-d655586d",
-      "guid": "WP-WSJS-0003788269",
-      "pub_date": "Tue, 04 Aug 2026 03:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-92011104?size=1.501&width=1280",
-      "snapshot": "articles/e7-a1-85-e8-b0-b7-e5-a4-a7-e4-bd-ac-e8-af-95-e5--79f7da1433b6.html",
-      "captured": true,
-      "capture_title": "硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停",
       "error": ""
     },
     {
@@ -386,18 +434,6 @@
       "snapshot": "articles/loonen-glass-bottled-water-microplastics-c0578b2-0d57a9c72ae8.html",
       "captured": true,
       "capture_title": "今夏的身份象征：3.99美元的玻璃瓶装水",
-      "error": ""
-    },
-    {
-      "title": "探秘品客生产线：AI如何让每一片薯片都完美",
-      "summary": "薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。",
-      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01",
-      "guid": "WP-WSJS-0003795878",
-      "pub_date": "Thu, 06 Aug 2026 01:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-45838981?size=1.501&width=1280",
-      "snapshot": "articles/e6-8e-a2-e7-a7-98-e5-93-81-e5-ae-a2-e7-94-9f-e4--3a4b181d40c0.html",
-      "captured": true,
-      "capture_title": "探秘品客生产线：AI如何让每一片薯片都完美 - WSJ",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/amazon-and-apple-deliver-the-drama-to-close-a-tu-29d95bd4699f.html",
       "captured": true,
       "capture_title": "亚马逊和苹果上演戏剧性一幕，为美股动荡7月画上句号",
-      "error": ""
-    },
-    {
-      "title": "Anthropic AI模型测试期间曾入侵三家公司",
-      "summary": "继OpenAI公开失控模型入侵事件后，Anthropic的入侵事件必将进一步加剧人们对强大AI模型潜在危害的担忧。",
-      "link": "https://cn.wsj.com/articles/anthropic-ai-models-hacked-three-companies-during-tests-a03eb6e6",
-      "guid": "WP-WSJS-0003779244",
-      "pub_date": "Fri, 31 Jul 2026 00:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-13724221?size=1.468&width=1280",
-      "snapshot": "articles/anthropic-ai-models-hacked-three-companies-durin-47ff0369d7cf.html",
-      "captured": true,
-      "capture_title": "Anthropic AI模型测试期间曾入侵三家公司",
-      "error": ""
-    },
-    {
-      "title": "中国对出台大规模刺激政策意愿不强，尽管增长面临逆风",
-      "summary": "中国最高领导层释放信号显示，下半年推出大规模刺激措施的意愿不强。尽管国内阻力不断加大，中国这个全球第二大经济体仍有望实现下调后的全年增长目标。",
-      "link": "https://cn.wsj.com/articles/china-signals-little-appetite-for-major-stimulus-despite-growth-headwinds-2afc71ba",
-      "guid": "WP-WSJS-0003776033",
-      "pub_date": "Thu, 30 Jul 2026 08:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-28095327?size=1.501&width=1280",
-      "snapshot": "articles/china-signals-little-appetite-for-major-stimulus-6d31cacdc920.html",
-      "captured": true,
-      "capture_title": "中国对出台大规模刺激政策意愿不强，尽管增长面临逆风",
-      "error": ""
-    },
-    {
-      "title": "美国财政部警告银行业：或将干预美元兑日圆汇率",
-      "summary": "据知情人士透露，美国财政部已通知多家银行，可能于周五进场进行汇率交易。投资者猜测，国际社会可能正协调行动推动日圆兑美元走强，日本官方也参与其中。",
-      "link": "https://cn.wsj.com/articles/treasury-warns-banks-it-might-intervene-in-dollar-yen-exchange-rate-75d73b94",
-      "guid": "WP-WSJS-0003783068",
-      "pub_date": "Sat, 01 Aug 2026 01:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-53687211?size=1.502&width=1280",
-      "snapshot": "articles/treasury-warns-banks-it-might-intervene-in-dolla-d874d8214879.html",
-      "captured": true,
-      "capture_title": "美国财政部警告银行业：或将干预美元兑日圆汇率",
       "error": ""
     }
   ]

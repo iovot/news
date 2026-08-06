@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 05:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 08:44:02 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 05:54:20 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 08:44:02 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -77,6 +77,13 @@
             <pubDate>Wed, 05 Aug 2026 23:41:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-94955510?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>洛嘎的自焚行为震动并凝聚了原本已四分五裂、士气低落的全球流亡藏人群体。</p>]]></description>
+            <link>https://cn.wsj.com/articles/-tibetan-activist-set-himself-on-fire-outside-the-u-n-and-united-his-cause-04f3e4eb</link>
+            <guid isPermaLink="false">WP-WSJS-0003796361</guid>
+            <pubDate>Thu, 06 Aug 2026 06:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[普京调整俄军指挥层，试图打破乌克兰战场僵局]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-48701360?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>普京任命了一位新成立的无人机作战部队负责人，并对一批其他指挥官的职位进行了调整。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%99%AE%E4%BA%AC%E8%B0%83%E6%95%B4%E4%BF%84%E5%86%9B%E6%8C%87%E6%8C%A5%E5%B1%82-%E8%AF%95%E5%9B%BE%E6%89%93%E7%A0%B4%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E5%9C%BA%E5%83%B5%E5%B1%80-78d99e3a</link>
@@ -89,13 +96,6 @@
             <link>https://cn.wsj.com/articles/pollsters-predicted-a-blowout-in-michigan-primary-they-were-wrong-b78339f2</link>
             <guid isPermaLink="false">WP-WSJS-0003795946</guid>
             <pubDate>Thu, 06 Aug 2026 01:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[参议院小组称已获取福奇新冠疫情中使用的手机数据副本]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-34248218?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一参议院委员会定于周四表决，是否因福奇上周拒绝回答问题而认定其藐视该委员会。</p>]]></description>
-            <link>https://cn.wsj.com/articles/anthony-fauci-covid-phone-senate-e65ab3b4</link>
-            <guid isPermaLink="false">WP-WSJS-0003795773</guid>
-            <pubDate>Thu, 06 Aug 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[习近平想要强势人民币，中国经济却在拖后腿]]></title>
@@ -119,11 +119,11 @@
             <pubDate>Wed, 05 Aug 2026 23:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[他曾斥资复兴底特律市中心，如今又想重塑城市天际线]]></title>
-            <description><![CDATA[<img width="1280" height="711" src="https://images.wsj.net/im-61445899?size=1.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>吉尔伯特希望在底特律滨河区建一个滨河公园、一个娱乐区、多栋公寓楼，以及一条连接河流与市中心的步行道。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BB%96%E6%9B%BE%E6%96%A5%E8%B5%84%E5%A4%8D%E5%85%B4%E5%BA%95%E7%89%B9%E5%BE%8B%E5%B8%82%E4%B8%AD%E5%BF%83-%E5%A6%82%E4%BB%8A%E5%8F%88%E6%83%B3%E9%87%8D%E5%A1%91%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF-6f232751</link>
-            <guid isPermaLink="false">WP-WSJS-0003796093</guid>
-            <pubDate>Thu, 06 Aug 2026 03:35:00 GMT</pubDate>
+            <title><![CDATA[参议院小组称已获取福奇新冠疫情中使用的手机数据副本]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-34248218?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一参议院委员会定于周四表决，是否因福奇上周拒绝回答问题而认定其藐视该委员会。</p>]]></description>
+            <link>https://cn.wsj.com/articles/anthony-fauci-covid-phone-senate-e65ab3b4</link>
+            <guid isPermaLink="false">WP-WSJS-0003795773</guid>
+            <pubDate>Thu, 06 Aug 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[加拿大艾伯塔省省长的终极豪赌：脱加公投]]></title>
@@ -133,11 +133,39 @@
             <pubDate>Thu, 06 Aug 2026 02:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[香港保险与银行股下跌，有报道称中国对境外保单收益征税]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-69167616?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>香港市场大型保险公司和银行股走低，此前有媒体报道称，中国内地税务机关已开始对部分境外保单收益征收个人所得税。</p>]]></description>
+            <link>https://cn.wsj.com/articles/hongkong-insurer-bank-stocks-fall-after-report-of-china-tax-on-offshore-products-b82a5ef3</link>
+            <guid isPermaLink="false">WP-WSJS-0003796503</guid>
+            <pubDate>Thu, 06 Aug 2026 08:35:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国AI初创公司MiniMax纳入沪深港通后股价大涨]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-09402040?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在被纳入沪深港通交易机制的首日，稀宇科技股价大涨。</p>]]></description>
             <link>https://cn.wsj.com/articles/minimaxshares-jump-as-mainland-chinese-investors-gain-access-698c897f</link>
             <guid isPermaLink="false">WP-WSJS-0003796197</guid>
             <pubDate>Thu, 06 Aug 2026 04:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[他曾斥资复兴底特律市中心，如今又想重塑城市天际线]]></title>
+            <description><![CDATA[<img width="1280" height="711" src="https://images.wsj.net/im-61445899?size=1.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>吉尔伯特希望在底特律滨河区建一个滨河公园、一个娱乐区、多栋公寓楼，以及一条连接河流与市中心的步行道。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BB%96%E6%9B%BE%E6%96%A5%E8%B5%84%E5%A4%8D%E5%85%B4%E5%BA%95%E7%89%B9%E5%BE%8B%E5%B8%82%E4%B8%AD%E5%BF%83-%E5%A6%82%E4%BB%8A%E5%8F%88%E6%83%B3%E9%87%8D%E5%A1%91%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF-6f232751</link>
+            <guid isPermaLink="false">WP-WSJS-0003796093</guid>
+            <pubDate>Thu, 06 Aug 2026 03:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[探秘品客生产线：AI如何让每一片薯片都完美]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45838981?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01</link>
+            <guid isPermaLink="false">WP-WSJS-0003795878</guid>
+            <pubDate>Thu, 06 Aug 2026 01:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺和诺德如何痛失GLP-1减肥药市场领先地位]]></title>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-49353990?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>丹麦药企诺和诺德研发出了全球有史以来最赚钱的新药。但美国的礼来公司后来居上，掌控了GLP-1减肥药市场。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-ozempic-maker-novo-nordisk-blew-its-lead-in-glp-1-weight-loss-drugs-can-europe-compete-in-the-high-stakes-global-economy-c1d0d604</link>
+            <guid isPermaLink="false">WP-WSJS-0003796353</guid>
+            <pubDate>Thu, 06 Aug 2026 06:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国各航司抵制ICE在机场加强移民执法]]></title>
@@ -147,32 +175,11 @@
             <pubDate>Thu, 06 Aug 2026 03:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[前高管吹哨引发检方调查：摩根大通涉嫌处理欺诈案不当]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-43362050?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>举报人称，在客户资金遭窃的欺诈案件中，摩根大通拒付给客户的超1亿美元赔偿款项，且未能妥善报告或管理可疑的金融活动。</p>]]></description>
-            <link>https://cn.wsj.com/articles/prosecutors-probed-whistleblower-claims-that-jpmorgan-mishandled-fraud-cases-b3fc9cd2</link>
-            <guid isPermaLink="false">WP-WSJS-0003796056</guid>
-            <pubDate>Thu, 06 Aug 2026 02:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在这款直播购物应用里，有人一路竞拍直至倾家荡产]]></title>
-            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-85073882?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>直播购物应用Whatnot凭借极速竞拍和狂热的“拆卡”模式快速吸引用户，拍品涵盖稀有体育卡牌、时尚服饰、工具及食品等各类商品。</p>]]></description>
-            <link>https://cn.wsj.com/articles/whatnot-live-shopping-app-66981216</link>
-            <guid isPermaLink="false">WP-WSJS-0003792580</guid>
-            <pubDate>Wed, 05 Aug 2026 09:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因凡蒂诺在紧急会议后保住FIFA主席职位]]></title>
-            <description><![CDATA[<img width="1280" height="808" src="https://images.wsj.net/im-79653554?size=1.584&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位全球足球掌门人在摩洛哥召集了高级管理团队开会；此前他刚遭到FIFA秘书长和首席运营官的公开批评。</p>]]></description>
-            <link>https://cn.wsj.com/articles/infantinosurvives-as-fifa-president-after-emergency-meeting-93503019</link>
-            <guid isPermaLink="false">WP-WSJS-0003795899</guid>
-            <pubDate>Thu, 06 Aug 2026 01:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车与上汽将合资伙伴关系延长20年]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-48921298?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举巩固了这家美国汽车制造商对中国市场的承诺。西方汽车制造商一直在寻求与中国同行建立合作伙伴关系，以此来利用中国技术。</p>]]></description>
-            <link>https://cn.wsj.com/articles/gm-chinas-saic-extend-joint-venture-partnership-for-20-years-daa61023</link>
-            <guid isPermaLink="false">WP-WSJS-0003792305</guid>
-            <pubDate>Wed, 05 Aug 2026 05:43:00 GMT</pubDate>
+            <title><![CDATA[图解美日联手提振日圆的五大原因]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69177632?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本担忧通胀，而美国不希望东京方面抛售美国国债。这是外汇市场一次历史性的干预行动。</p>]]></description>
+            <link>https://cn.wsj.com/articles/five-charts-that-show-why-the-u-s-and-japan-teamed-up-to-buy-yen-ce3694ff</link>
+            <guid isPermaLink="false">WP-WSJS-0003791854</guid>
+            <pubDate>Wed, 05 Aug 2026 01:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI热潮正重塑美国经济，深刻程度超乎认知]]></title>
@@ -182,18 +189,11 @@
             <pubDate>Tue, 04 Aug 2026 02:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[图解美日联手提振日圆的五大原因]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69177632?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本担忧通胀，而美国不希望东京方面抛售美国国债。这是外汇市场一次历史性的干预行动。</p>]]></description>
-            <link>https://cn.wsj.com/articles/five-charts-that-show-why-the-u-s-and-japan-teamed-up-to-buy-yen-ce3694ff</link>
-            <guid isPermaLink="false">WP-WSJS-0003791854</guid>
-            <pubDate>Wed, 05 Aug 2026 01:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[航空公司真的不想让你买最便宜的机票]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61655709?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>没有任何附加服务的基础经济舱一直都有诸多限制，如今规矩更是越来越多。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%83%B3%E8%AE%A9%E4%BD%A0%E4%B9%B0%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E6%9C%BA%E7%A5%A8-870c45d7</link>
-            <guid isPermaLink="false">WP-WSJS-0003792069</guid>
-            <pubDate>Wed, 05 Aug 2026 03:00:00 GMT</pubDate>
+            <title><![CDATA[在这款直播购物应用里，有人一路竞拍直至倾家荡产]]></title>
+            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-85073882?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>直播购物应用Whatnot凭借极速竞拍和狂热的“拆卡”模式快速吸引用户，拍品涵盖稀有体育卡牌、时尚服饰、工具及食品等各类商品。</p>]]></description>
+            <link>https://cn.wsj.com/articles/whatnot-live-shopping-app-66981216</link>
+            <guid isPermaLink="false">WP-WSJS-0003792580</guid>
+            <pubDate>Wed, 05 Aug 2026 09:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[硅谷大佬试图在亚洲“建国”，却遭当地政府强制叫停]]></title>
@@ -217,11 +217,11 @@
             <pubDate>Wed, 05 Aug 2026 01:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[探秘品客生产线：AI如何让每一片薯片都完美]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45838981?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01</link>
-            <guid isPermaLink="false">WP-WSJS-0003795878</guid>
-            <pubDate>Thu, 06 Aug 2026 01:14:00 GMT</pubDate>
+            <title><![CDATA[航空公司真的不想让你买最便宜的机票]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61655709?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>没有任何附加服务的基础经济舱一直都有诸多限制，如今规矩更是越来越多。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%83%B3%E8%AE%A9%E4%BD%A0%E4%B9%B0%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E6%9C%BA%E7%A5%A8-870c45d7</link>
+            <guid isPermaLink="false">WP-WSJS-0003792069</guid>
+            <pubDate>Wed, 05 Aug 2026 03:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案]]></title>
