@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 11:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 14:22:23 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 11:27:16 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 14:22:23 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -145,6 +145,13 @@
             <link>https://cn.wsj.com/articles/%E4%BB%96%E6%9B%BE%E6%96%A5%E8%B5%84%E5%A4%8D%E5%85%B4%E5%BA%95%E7%89%B9%E5%BE%8B%E5%B8%82%E4%B8%AD%E5%BF%83-%E5%A6%82%E4%BB%8A%E5%8F%88%E6%83%B3%E9%87%8D%E5%A1%91%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF-6f232751</link>
             <guid isPermaLink="false">WP-WSJS-0003796093</guid>
             <pubDate>Thu, 06 Aug 2026 03:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[软银集团第一财季净利润超预期，受在英特尔和字节跳动的持股提振]]></title>
+            <description><![CDATA[<img width="1280" height="841" src="https://images.wsj.net/im-95862556?size=1.522&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>愿景基金业务的利润较上年同期大幅下降。</p>]]></description>
+            <link>https://cn.wsj.com/articles/softbank-group-reports-lower-quarterly-profit-4afa9d07</link>
+            <guid isPermaLink="false">WP-WSJS-0003796844</guid>
+            <pubDate>Thu, 06 Aug 2026 11:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[探秘品客生产线：AI如何让每一片薯片都完美]]></title>

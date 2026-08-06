@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T11:36:35.893192+00:00",
+  "generated_at": "2026-08-06T14:32:57.943153+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -206,6 +206,18 @@
       "snapshot": "articles/e4-bb-96-e6-9b-be-e6-96-a5-e8-b5-84-e5-a4-8d-e5--8cfd3a78e458.html",
       "captured": true,
       "capture_title": "他曾斥资复兴底特律市中心，如今又想重塑城市天际线",
+      "error": ""
+    },
+    {
+      "title": "软银集团第一财季净利润超预期，受在英特尔和字节跳动的持股提振",
+      "summary": "愿景基金业务的利润较上年同期大幅下降。",
+      "link": "https://cn.wsj.com/articles/softbank-group-reports-lower-quarterly-profit-4afa9d07",
+      "guid": "WP-WSJS-0003796844",
+      "pub_date": "Thu, 06 Aug 2026 11:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-95862556?size=1.522&width=1280",
+      "snapshot": "articles/softbank-group-reports-lower-quarterly-profit-4a-6cb6a9f002fe.html",
+      "captured": true,
+      "capture_title": "软银集团第一财季净利润超预期，受在英特尔和字节跳动的持股提振 - WSJ",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/trump-sours-on-diplomacy-vows-to-hit-iran-hard-c-1fd0cef73dcf.html",
       "captured": true,
       "capture_title": "特朗普下令对伊朗发动新一轮袭击",
-      "error": ""
-    },
-    {
-      "title": "亚马逊和苹果上演戏剧性一幕，为美股动荡7月画上句号",
-      "summary": "周五，亚马逊股价大涨，为纳指注入了足够动能，盘面上涨1%，盖过了苹果股价下挫的影响。标普500指数上涨0.7%，道指上涨0.5%。",
-      "link": "https://cn.wsj.com/articles/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-a5f792af",
-      "guid": "WP-WSJS-0003782992",
-      "pub_date": "Sat, 01 Aug 2026 00:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-99570298?size=1.499&width=1280",
-      "snapshot": "articles/amazon-and-apple-deliver-the-drama-to-close-a-tu-29d95bd4699f.html",
-      "captured": true,
-      "capture_title": "亚马逊和苹果上演戏剧性一幕，为美股动荡7月画上句号",
       "error": ""
     }
   ]
