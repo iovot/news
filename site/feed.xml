@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 08:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 11:27:16 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 08:44:02 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 11:27:16 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -70,18 +70,18 @@
             <pubDate>Thu, 06 Aug 2026 03:07:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[香港保险与银行股下跌，有报道称中国对境外保单收益征税]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-69167616?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>香港市场大型保险公司和银行股走低，此前有媒体报道称，中国内地税务机关已开始对部分境外保单收益征收个人所得税。</p>]]></description>
+            <link>https://cn.wsj.com/articles/hongkong-insurer-bank-stocks-fall-after-report-of-china-tax-on-offshore-products-b82a5ef3</link>
+            <guid isPermaLink="false">WP-WSJS-0003796503</guid>
+            <pubDate>Thu, 06 Aug 2026 08:35:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[谈判人员接近与伊朗达成重开霍尔木兹海峡的协议]]></title>
             <description><![CDATA[<img width="1280" height="829" src="https://images.wsj.net/im-17232991?size=1.544&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>根据该草案，德黑兰将有权监督进入波斯湾的船只，但不得征收通行费或服务费。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%B0%88%E5%88%A4%E4%BA%BA%E5%91%98%E6%8E%A5%E8%BF%91%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E5%8D%8F%E8%AE%AE-ec8f93dc</link>
             <guid isPermaLink="false">WP-WSJS-0003795598</guid>
             <pubDate>Wed, 05 Aug 2026 23:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-94955510?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>洛嘎的自焚行为震动并凝聚了原本已四分五裂、士气低落的全球流亡藏人群体。</p>]]></description>
-            <link>https://cn.wsj.com/articles/-tibetan-activist-set-himself-on-fire-outside-the-u-n-and-united-his-cause-04f3e4eb</link>
-            <guid isPermaLink="false">WP-WSJS-0003796361</guid>
-            <pubDate>Thu, 06 Aug 2026 06:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[普京调整俄军指挥层，试图打破乌克兰战场僵局]]></title>
@@ -112,6 +112,13 @@
             <pubDate>Thu, 06 Aug 2026 05:35:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-94955510?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>洛嘎的自焚行为震动并凝聚了原本已四分五裂、士气低落的全球流亡藏人群体。</p>]]></description>
+            <link>https://cn.wsj.com/articles/-tibetan-activist-set-himself-on-fire-outside-the-u-n-and-united-his-cause-04f3e4eb</link>
+            <guid isPermaLink="false">WP-WSJS-0003796361</guid>
+            <pubDate>Thu, 06 Aug 2026 06:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[谷歌改组AI领导层，资深首席科学家加入离职潮]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41360130?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>谷歌此前已经历了一波人事变动，在发布能与Anthropic和OpenAI的顶级产品相媲美的模型方面也遭遇了延迟。</p>]]></description>
             <link>https://cn.wsj.com/articles/googleoverhauls-ai-leadership-as-longtime-chief-scientist-joins-wave-of-exits-jeff-dean-81b2a2de</link>
@@ -119,25 +126,11 @@
             <pubDate>Wed, 05 Aug 2026 23:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[参议院小组称已获取福奇新冠疫情中使用的手机数据副本]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-34248218?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一参议院委员会定于周四表决，是否因福奇上周拒绝回答问题而认定其藐视该委员会。</p>]]></description>
-            <link>https://cn.wsj.com/articles/anthony-fauci-covid-phone-senate-e65ab3b4</link>
-            <guid isPermaLink="false">WP-WSJS-0003795773</guid>
-            <pubDate>Thu, 06 Aug 2026 00:14:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[加拿大艾伯塔省省长的终极豪赌：脱加公投]]></title>
             <description><![CDATA[<img width="1280" height="927" src="https://images.wsj.net/im-24759050?size=1.381&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>丹妮尔·史密斯表示，她反对艾伯塔省脱离加拿大，尽管她为一场公投铺平了道路。加拿大高度依赖艾伯塔的油气收入。</p>]]></description>
             <link>https://cn.wsj.com/articles/canada-alberta-independence-vote-022d47bf</link>
             <guid isPermaLink="false">WP-WSJS-0003795996</guid>
             <pubDate>Thu, 06 Aug 2026 02:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港保险与银行股下跌，有报道称中国对境外保单收益征税]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-69167616?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>香港市场大型保险公司和银行股走低，此前有媒体报道称，中国内地税务机关已开始对部分境外保单收益征收个人所得税。</p>]]></description>
-            <link>https://cn.wsj.com/articles/hongkong-insurer-bank-stocks-fall-after-report-of-china-tax-on-offshore-products-b82a5ef3</link>
-            <guid isPermaLink="false">WP-WSJS-0003796503</guid>
-            <pubDate>Thu, 06 Aug 2026 08:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国AI初创公司MiniMax纳入沪深港通后股价大涨]]></title>
