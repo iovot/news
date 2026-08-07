@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 10:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 13:13:10 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 10:04:36 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 13:13:10 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[中国出口增长保持强劲，尽管美中紧张关系再度升温]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92449789?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>受全球对AI产品持续强劲的需求推动，中国7月份出口同比增长23.9%，不过增幅较6月份的27.0%略有回落。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-export-growth-remains-robust-despite-renewed-u-s-tensions-ac34a9bd</link>
-            <guid isPermaLink="false">WP-WSJS-0003800039</guid>
-            <pubDate>Fri, 07 Aug 2026 03:33:00 GMT</pubDate>
+            <title><![CDATA[中国的新出口引擎：为全球工厂供货]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39271509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80</link>
+            <guid isPermaLink="false">WP-WSJS-0003800460</guid>
+            <pubDate>Fri, 07 Aug 2026 10:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普将对太阳能电池板及组件征收15%关税并设定最低限价]]></title>
@@ -84,18 +84,18 @@
             <pubDate>Fri, 07 Aug 2026 03:17:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号]]></title>
+            <description><![CDATA[<img width="1280" height="797" src="https://images.wsj.net/im-94381158?size=1.606&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>朝鲜本周试射弹道导弹引发了与日本的新摩擦，这是平壤与美国印太盟友之间军事紧张局势不断升温的最新例证。</p>]]></description>
+            <link>https://cn.wsj.com/articles/pyongyang-missile-test-signals-growing-conflict-between-north-korea-and-u-s-allies-aeb39f9a</link>
+            <guid isPermaLink="false">WP-WSJS-0003800587</guid>
+            <pubDate>Fri, 07 Aug 2026 11:10:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[习近平想要强势人民币，中国经济却在拖后腿]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-631417?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。</p>]]></description>
             <link>https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5</link>
             <guid isPermaLink="false">WP-WSJS-0003792000</guid>
             <pubDate>Wed, 05 Aug 2026 02:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-47374668?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>福奇在上周的参议院听证会中引用超百次第五修正案，拒绝回答议员们就其如何应对新冠疫情提出的问题。</p>]]></description>
-            <link>https://cn.wsj.com/articles/senate-panel-votes-to-hold-fauci-in-contempt-for-refusing-to-answer-questions-05f5816d</link>
-            <guid isPermaLink="false">WP-WSJS-0003799450</guid>
-            <pubDate>Thu, 06 Aug 2026 23:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？]]></title>

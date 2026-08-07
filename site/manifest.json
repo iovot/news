@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-07T10:16:54.507839+00:00",
+  "generated_at": "2026-08-07T13:26:42.106388+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "中国出口增长保持强劲，尽管美中紧张关系再度升温",
-      "summary": "受全球对AI产品持续强劲的需求推动，中国7月份出口同比增长23.9%，不过增幅较6月份的27.0%略有回落。",
-      "link": "https://cn.wsj.com/articles/chinas-export-growth-remains-robust-despite-renewed-u-s-tensions-ac34a9bd",
-      "guid": "WP-WSJS-0003800039",
-      "pub_date": "Fri, 07 Aug 2026 03:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-92449789?size=1.501&width=1280",
-      "snapshot": "articles/chinas-export-growth-remains-robust-despite-rene-326a594b1b0e.html",
+      "title": "中国的新出口引擎：为全球工厂供货",
+      "summary": "中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。",
+      "link": "https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80",
+      "guid": "WP-WSJS-0003800460",
+      "pub_date": "Fri, 07 Aug 2026 10:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-39271509?size=1.5&width=1280",
+      "snapshot": "articles/chinas-new-export-engine-supplying-the-factories-eb5715fdc204.html",
       "captured": true,
-      "capture_title": "中国出口增长保持强劲，尽管美中紧张关系再度升温",
+      "capture_title": "中国的新出口引擎：为全球工厂供货 - WSJ",
       "error": ""
     },
     {
@@ -101,6 +101,18 @@
       "error": ""
     },
     {
+      "title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号",
+      "summary": "朝鲜本周试射弹道导弹引发了与日本的新摩擦，这是平壤与美国印太盟友之间军事紧张局势不断升温的最新例证。",
+      "link": "https://cn.wsj.com/articles/pyongyang-missile-test-signals-growing-conflict-between-north-korea-and-u-s-allies-aeb39f9a",
+      "guid": "WP-WSJS-0003800587",
+      "pub_date": "Fri, 07 Aug 2026 11:10:00 GMT",
+      "image_url": "https://images.wsj.net/im-94381158?size=1.606&width=1280",
+      "snapshot": "articles/pyongyang-missile-test-signals-growing-conflict--f2cd89a4bccc.html",
+      "captured": true,
+      "capture_title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号 - WSJ",
+      "error": ""
+    },
+    {
       "title": "习近平想要强势人民币，中国经济却在拖后腿",
       "summary": "习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。",
       "link": "https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5",
@@ -110,18 +122,6 @@
       "snapshot": "articles/xi-wants-a-strong-looking-yuan-chinas-economy-ke-9c8aa1e0eae2.html",
       "captured": true,
       "capture_title": "习近平想要强势人民币，中国经济却在拖后腿",
-      "error": ""
-    },
-    {
-      "title": "因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会",
-      "summary": "福奇在上周的参议院听证会中引用超百次第五修正案，拒绝回答议员们就其如何应对新冠疫情提出的问题。",
-      "link": "https://cn.wsj.com/articles/senate-panel-votes-to-hold-fauci-in-contempt-for-refusing-to-answer-questions-05f5816d",
-      "guid": "WP-WSJS-0003799450",
-      "pub_date": "Thu, 06 Aug 2026 23:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-47374668?size=1.501&width=1280",
-      "snapshot": "articles/senate-panel-votes-to-hold-fauci-in-contempt-for-cf429ef794f2.html",
-      "captured": true,
-      "capture_title": "因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-51444739?size=1.5&width=1280",
       "snapshot": "articles/china-senvision-commissions-giant-renewable-powe-aa7f1acad309.html",
       "captured": true,
-      "capture_title": "远景大型可再生能源AI数据中心投产 - WSJ",
+      "capture_title": "远景大型可再生能源AI数据中心投产",
       "error": ""
     },
     {
@@ -302,6 +302,30 @@
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
       "capture_title": "航空公司真的不想让你买最便宜的机票",
+      "error": ""
+    },
+    {
+      "title": "中国出口增长保持强劲，尽管美中紧张关系再度升温",
+      "summary": "受全球对AI产品持续强劲的需求推动，中国7月份出口同比增长23.9%，不过增幅较6月份的27.0%略有回落。",
+      "link": "https://cn.wsj.com/articles/chinas-export-growth-remains-robust-despite-renewed-u-s-tensions-ac34a9bd",
+      "guid": "WP-WSJS-0003800039",
+      "pub_date": "Fri, 07 Aug 2026 03:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-92449789?size=1.501&width=1280",
+      "snapshot": "articles/chinas-export-growth-remains-robust-despite-rene-326a594b1b0e.html",
+      "captured": true,
+      "capture_title": "中国出口增长保持强劲，尽管美中紧张关系再度升温",
+      "error": ""
+    },
+    {
+      "title": "因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会",
+      "summary": "福奇在上周的参议院听证会中引用超百次第五修正案，拒绝回答议员们就其如何应对新冠疫情提出的问题。",
+      "link": "https://cn.wsj.com/articles/senate-panel-votes-to-hold-fauci-in-contempt-for-refusing-to-answer-questions-05f5816d",
+      "guid": "WP-WSJS-0003799450",
+      "pub_date": "Thu, 06 Aug 2026 23:32:00 GMT",
+      "image_url": "https://images.wsj.net/im-47374668?size=1.501&width=1280",
+      "snapshot": "articles/senate-panel-votes-to-hold-fauci-in-contempt-for-cf429ef794f2.html",
+      "captured": true,
+      "capture_title": "因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd25-e4-b8-aa-e5-b7-9e-e5-b0-b1-e-ee3eceede645.html",
       "captured": true,
       "capture_title": "美国25个州就特朗普新关税措施提起诉讼 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动",
-      "summary": "绰号“黑暗公主”的梅雷迪思·奥罗克执行特朗普的意愿，设法为他的项目从企业手中获取数亿美元资金。",
-      "link": "https://cn.wsj.com/articles/trump-donations-company-fundraising-af433826",
-      "guid": "WP-WSJS-0003779748",
-      "pub_date": "Fri, 31 Jul 2026 03:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-24759563?size=1&width=1280",
-      "snapshot": "articles/trump-donations-company-fundraising-af433826-7d0e50d1b6ac.html",
-      "captured": true,
-      "capture_title": "“老板要这笔钱”：起底特朗普史无前例的筹款行动",
-      "error": ""
-    },
-    {
-      "title": "如何布局AI发债浪潮？",
-      "summary": "科技巨头想要发行期限长达几十年的债券，但投资者有更好的选择。",
-      "link": "https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E5%B8%83%E5%B1%80ai%E5%8F%91%E5%80%BA%E6%B5%AA%E6%BD%AE-9956923c",
-      "guid": "WP-WSJS-0003788044",
-      "pub_date": "Tue, 04 Aug 2026 01:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-70769101?size=1.501&width=1280",
-      "snapshot": "articles/e5-a6-82-e4-bd-95-e5-b8-83-e5-b1-80ai-e5-8f-91-e-0d42d9db1c3d.html",
-      "captured": true,
-      "capture_title": "如何布局AI发债浪潮？ - WSJ",
       "error": ""
     }
   ]
