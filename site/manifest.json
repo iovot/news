@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:26:42.106388+00:00",
+  "generated_at": "2026-08-07T16:12:17.144054+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-39271509?size=1.5&width=1280",
       "snapshot": "articles/chinas-new-export-engine-supplying-the-factories-eb5715fdc204.html",
       "captured": true,
-      "capture_title": "中国的新出口引擎：为全球工厂供货 - WSJ",
+      "capture_title": "中国的新出口引擎：为全球工厂供货",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-94381158?size=1.606&width=1280",
       "snapshot": "articles/pyongyang-missile-test-signals-growing-conflict--f2cd89a4bccc.html",
       "captured": true,
-      "capture_title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号 - WSJ",
+      "capture_title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号",
       "error": ""
     },
     {
