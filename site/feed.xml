@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 04:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 07:22:47 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 04:58:14 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 07:22:47 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -84,11 +84,11 @@
             <pubDate>Fri, 07 Aug 2026 03:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普不满美军弹药库存报道，下令严查泄密事件]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21794108?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此前媒体已连续数周报道美军在伊朗战事中弹药耗损严重。特朗普下令对五角大楼泄密事件展开调查，担忧此类报道会削弱对伊外交立场。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-74f1aa9a</link>
-            <guid isPermaLink="false">WP-WSJS-0003799959</guid>
-            <pubDate>Fri, 07 Aug 2026 02:55:00 GMT</pubDate>
+            <title><![CDATA[习近平想要强势人民币，中国经济却在拖后腿]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-631417?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。</p>]]></description>
+            <link>https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5</link>
+            <guid isPermaLink="false">WP-WSJS-0003792000</guid>
+            <pubDate>Wed, 05 Aug 2026 02:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会]]></title>
@@ -96,13 +96,6 @@
             <link>https://cn.wsj.com/articles/senate-panel-votes-to-hold-fauci-in-contempt-for-refusing-to-answer-questions-05f5816d</link>
             <guid isPermaLink="false">WP-WSJS-0003799450</guid>
             <pubDate>Thu, 06 Aug 2026 23:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台湾演练旨在挫败中国入侵的作战计划]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65508134?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>台湾今年的“汉光”演习将检验为抵御中国军队而制定的新计划和战术，包括从美国和伊朗战争中汲取的经验教训。</p>]]></description>
-            <link>https://cn.wsj.com/articles/taiwan-tests-war-plans-to-thwart-chinese-invasion-ee1495b0</link>
-            <guid isPermaLink="false">WP-WSJS-0003796167</guid>
-            <pubDate>Thu, 06 Aug 2026 03:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？]]></title>
@@ -119,6 +112,13 @@
             <pubDate>Fri, 07 Aug 2026 00:49:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[台湾演练旨在挫败中国入侵的作战计划]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65508134?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>台湾今年的“汉光”演习将检验为抵御中国军队而制定的新计划和战术，包括从美国和伊朗战争中汲取的经验教训。</p>]]></description>
+            <link>https://cn.wsj.com/articles/taiwan-tests-war-plans-to-thwart-chinese-invasion-ee1495b0</link>
+            <guid isPermaLink="false">WP-WSJS-0003796167</guid>
+            <pubDate>Thu, 06 Aug 2026 03:51:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[热狗华丽转身：从平民美食卖到100美元]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-35530394?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高级配料、奢华的摆盘和超大份量正将热狗推向高级料理的行列。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%83%AD%E7%8B%97%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%8E%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F%E5%8D%96%E5%88%B0100%E7%BE%8E%E5%85%83-db33992b</link>
@@ -126,11 +126,18 @@
             <pubDate>Fri, 07 Aug 2026 04:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[习近平想要强势人民币，中国经济却在拖后腿]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-631417?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。</p>]]></description>
-            <link>https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5</link>
-            <guid isPermaLink="false">WP-WSJS-0003792000</guid>
-            <pubDate>Wed, 05 Aug 2026 02:29:00 GMT</pubDate>
+            <title><![CDATA[医生反感患者用AI解读化验单，但根本拦不住]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97709687?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据一项民意调查，大约三分之一的成年人会向AI聊天机器人寻求健康建议，19%的人专门使用AI来解读实验室数据或医学检查报告。 这导致医生不得不去纠正错误的指导意见。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8C%BB%E7%94%9F%E5%8F%8D%E6%84%9F%E6%82%A3%E8%80%85%E7%94%A8ai%E8%A7%A3%E8%AF%BB%E5%8C%96%E9%AA%8C%E5%8D%95-%E4%BD%86%E6%A0%B9%E6%9C%AC%E6%8B%A6%E4%B8%8D%E4%BD%8F-27c22bca</link>
+            <guid isPermaLink="false">WP-WSJS-0003799860</guid>
+            <pubDate>Fri, 07 Aug 2026 02:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db</link>
+            <guid isPermaLink="false">WP-WSJS-0003800148</guid>
+            <pubDate>Fri, 07 Aug 2026 06:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI最新的骇人里程碑：生成新病毒]]></title>
@@ -140,18 +147,18 @@
             <pubDate>Fri, 07 Aug 2026 03:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[金价走出阴霾强势突破，是否有望再创新高？]]></title>
-            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-23207750?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对于担心通胀与美联储政策的投资者而言，金矿股不失为一个优质的配置标的。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%87%91%E4%BB%B7%E8%B5%B0%E5%87%BA%E9%98%B4%E9%9C%BE%E5%BC%BA%E5%8A%BF%E7%AA%81%E7%A0%B4-%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%9B%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-2db2ef19</link>
-            <guid isPermaLink="false">WP-WSJS-0003799831</guid>
-            <pubDate>Fri, 07 Aug 2026 01:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美国能源行业响起新口号：“炼油，炼油，炼油”]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41729715?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在全球燃油供应面临困境之际，美国燃油厂商的产能已达极限。</p>]]></description>
             <link>https://cn.wsj.com/articles/refine-baby-refine-is-the-energy-industrys-new-mantra-c683e48b</link>
             <guid isPermaLink="false">WP-WSJS-0003800071</guid>
             <pubDate>Fri, 07 Aug 2026 04:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金价走出阴霾强势突破，是否有望再创新高？]]></title>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-23207750?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对于担心通胀与美联储政策的投资者而言，金矿股不失为一个优质的配置标的。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%87%91%E4%BB%B7%E8%B5%B0%E5%87%BA%E9%98%B4%E9%9C%BE%E5%BC%BA%E5%8A%BF%E7%AA%81%E7%A0%B4-%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%9B%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-2db2ef19</link>
+            <guid isPermaLink="false">WP-WSJS-0003799831</guid>
+            <pubDate>Fri, 07 Aug 2026 01:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[宇树科技拟通过上海IPO筹资9亿美元]]></title>
@@ -166,13 +173,6 @@
             <link>https://cn.wsj.com/articles/hongkong-insurer-bank-stocks-fall-after-report-of-china-tax-on-offshore-products-b82a5ef3</link>
             <guid isPermaLink="false">WP-WSJS-0003796503</guid>
             <pubDate>Thu, 06 Aug 2026 08:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[存储芯片股遭抛售之际美光股价逆势上扬]]></title>
-            <description><![CDATA[<img width="1280" height="895" src="https://images.mktw.net/im-54177591?size=1.43&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周四，尽管闪迪和西部数据等存储芯片股走低，美光科技却收复了盘中失地。</p>]]></description>
-            <link>https://cn.wsj.com/articles/microns-stock-claws-back-to-buck-the-memory-chip-selloff-ac0fd8e4</link>
-            <guid isPermaLink="false">WP-WSJS-0003799390</guid>
-            <pubDate>Thu, 06 Aug 2026 23:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[加拿大艾伯塔省省长的终极豪赌：脱加公投]]></title>
@@ -217,11 +217,11 @@
             <pubDate>Tue, 04 Aug 2026 02:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[医生反感患者用AI解读化验单，但根本拦不住]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97709687?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据一项民意调查，大约三分之一的成年人会向AI聊天机器人寻求健康建议，19%的人专门使用AI来解读实验室数据或医学检查报告。 这导致医生不得不去纠正错误的指导意见。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8C%BB%E7%94%9F%E5%8F%8D%E6%84%9F%E6%82%A3%E8%80%85%E7%94%A8ai%E8%A7%A3%E8%AF%BB%E5%8C%96%E9%AA%8C%E5%8D%95-%E4%BD%86%E6%A0%B9%E6%9C%AC%E6%8B%A6%E4%B8%8D%E4%BD%8F-27c22bca</link>
-            <guid isPermaLink="false">WP-WSJS-0003799860</guid>
-            <pubDate>Fri, 07 Aug 2026 02:24:00 GMT</pubDate>
+            <title><![CDATA[“直升机父母”正在插手成年子女的职业生涯]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-05043049?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>那些在孩子童年和大学期间一直紧盯着孩子的焦虑父母，在子女长大成人后还是继续担当掌舵人。他们会陪孩子参加求职面试，替孩子联系雇主。</p>]]></description>
+            <link>https://cn.wsj.com/articles/helicopter-parents-adult-children-careers-720848dc</link>
+            <guid isPermaLink="false">WP-WSJS-0003800146</guid>
+            <pubDate>Fri, 07 Aug 2026 06:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案]]></title>

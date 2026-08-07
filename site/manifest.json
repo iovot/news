@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:14:03.415890+00:00",
+  "generated_at": "2026-08-07T07:34:13.153805+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-92449789?size=1.501&width=1280",
       "snapshot": "articles/chinas-export-growth-remains-robust-despite-rene-326a594b1b0e.html",
       "captured": true,
-      "capture_title": "中国出口增长保持强劲，尽管美中紧张关系再度升温 - WSJ",
+      "capture_title": "中国出口增长保持强劲，尽管美中紧张关系再度升温",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-79322638?size=1.501&width=1280",
       "snapshot": "articles/can-irans-diminished-diplomats-deliver-a-hormuz--25a00b7f5b52.html",
       "captured": true,
-      "capture_title": "伊朗强硬派势力壮大，被削弱的外交官还能促成霍尔木兹海峡解封协议吗？ - WSJ",
+      "capture_title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-55913376?size=1.501&width=1280",
       "snapshot": "articles/meta-e8-a2-ab-e5-8b-92-e4-bb-a4-e6-94-af-e4-bb-9-a7ecf3df2c29.html",
       "captured": true,
-      "capture_title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害 - WSJ",
+      "capture_title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
       "error": ""
     },
     {
@@ -97,19 +97,19 @@
       "image_url": "https://images.wsj.net/im-82561755?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e6-83-85-e6-8a-a5-e9-83-a8-e9-97-a8-e9--47be8e754861.html",
       "captured": true,
-      "capture_title": "美情报部门预警：普京或发动有限攻击试探北约决心 - WSJ",
+      "capture_title": "美情报部门预警：普京或发动有限攻击试探北约决心",
       "error": ""
     },
     {
-      "title": "特朗普不满美军弹药库存报道，下令严查泄密事件",
-      "summary": "此前媒体已连续数周报道美军在伊朗战事中弹药耗损严重。特朗普下令对五角大楼泄密事件展开调查，担忧此类报道会削弱对伊外交立场。",
-      "link": "https://cn.wsj.com/articles/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-74f1aa9a",
-      "guid": "WP-WSJS-0003799959",
-      "pub_date": "Fri, 07 Aug 2026 02:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-21794108?size=1.501&width=1280",
-      "snapshot": "articles/trump-orders-leak-probe-after-venting-about-medi-25d44f1d5535.html",
+      "title": "习近平想要强势人民币，中国经济却在拖后腿",
+      "summary": "习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。",
+      "link": "https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5",
+      "guid": "WP-WSJS-0003792000",
+      "pub_date": "Wed, 05 Aug 2026 02:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-631417?size=1.501&width=1280",
+      "snapshot": "articles/xi-wants-a-strong-looking-yuan-chinas-economy-ke-9c8aa1e0eae2.html",
       "captured": true,
-      "capture_title": "特朗普不满美军弹药库存报道，下令严查泄密事件 - WSJ",
+      "capture_title": "习近平想要强势人民币，中国经济却在拖后腿",
       "error": ""
     },
     {
@@ -122,18 +122,6 @@
       "snapshot": "articles/senate-panel-votes-to-hold-fauci-in-contempt-for-cf429ef794f2.html",
       "captured": true,
       "capture_title": "因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会",
-      "error": ""
-    },
-    {
-      "title": "台湾演练旨在挫败中国入侵的作战计划",
-      "summary": "台湾今年的“汉光”演习将检验为抵御中国军队而制定的新计划和战术，包括从美国和伊朗战争中汲取的经验教训。",
-      "link": "https://cn.wsj.com/articles/taiwan-tests-war-plans-to-thwart-chinese-invasion-ee1495b0",
-      "guid": "WP-WSJS-0003796167",
-      "pub_date": "Thu, 06 Aug 2026 03:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-65508134?size=1.501&width=1280",
-      "snapshot": "articles/taiwan-tests-war-plans-to-thwart-chinese-invasio-9aba76cd0d01.html",
-      "captured": true,
-      "capture_title": "台湾演练旨在挫败中国入侵的作战计划",
       "error": ""
     },
     {
@@ -157,7 +145,19 @@
       "image_url": "https://images.wsj.net/im-56447714?size=1.501&width=1280",
       "snapshot": "articles/spacex-e8-8e-b7-e5-bf-a0-e5-ae-9e-e4-bf-a1-e5-be-abc8c235c660.html",
       "captured": true,
-      "capture_title": "SpaceX获忠实信徒力挺，天量股票解禁股价不跌反涨 - WSJ",
+      "capture_title": "SpaceX获忠实信徒力挺，天量股票解禁股价不跌反涨",
+      "error": ""
+    },
+    {
+      "title": "台湾演练旨在挫败中国入侵的作战计划",
+      "summary": "台湾今年的“汉光”演习将检验为抵御中国军队而制定的新计划和战术，包括从美国和伊朗战争中汲取的经验教训。",
+      "link": "https://cn.wsj.com/articles/taiwan-tests-war-plans-to-thwart-chinese-invasion-ee1495b0",
+      "guid": "WP-WSJS-0003796167",
+      "pub_date": "Thu, 06 Aug 2026 03:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-65508134?size=1.501&width=1280",
+      "snapshot": "articles/taiwan-tests-war-plans-to-thwart-chinese-invasio-9aba76cd0d01.html",
+      "captured": true,
+      "capture_title": "台湾演练旨在挫败中国入侵的作战计划",
       "error": ""
     },
     {
@@ -169,19 +169,31 @@
       "image_url": "https://images.wsj.net/im-35530394?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e7-83-ad-e7-8b-97-e5-8d-8e-e4-b8-bd-e8-bd-ac-e8--97aa128db039.html",
       "captured": true,
-      "capture_title": "热狗华丽转身：从平民美食卖到100美元 - WSJ",
+      "capture_title": "热狗华丽转身：从平民美食卖到100美元",
       "error": ""
     },
     {
-      "title": "习近平想要强势人民币，中国经济却在拖后腿",
-      "summary": "习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。",
-      "link": "https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5",
-      "guid": "WP-WSJS-0003792000",
-      "pub_date": "Wed, 05 Aug 2026 02:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-631417?size=1.501&width=1280",
-      "snapshot": "articles/xi-wants-a-strong-looking-yuan-chinas-economy-ke-9c8aa1e0eae2.html",
+      "title": "医生反感患者用AI解读化验单，但根本拦不住",
+      "summary": "据一项民意调查，大约三分之一的成年人会向AI聊天机器人寻求健康建议，19%的人专门使用AI来解读实验室数据或医学检查报告。 这导致医生不得不去纠正错误的指导意见。",
+      "link": "https://cn.wsj.com/articles/%E5%8C%BB%E7%94%9F%E5%8F%8D%E6%84%9F%E6%82%A3%E8%80%85%E7%94%A8ai%E8%A7%A3%E8%AF%BB%E5%8C%96%E9%AA%8C%E5%8D%95-%E4%BD%86%E6%A0%B9%E6%9C%AC%E6%8B%A6%E4%B8%8D%E4%BD%8F-27c22bca",
+      "guid": "WP-WSJS-0003799860",
+      "pub_date": "Fri, 07 Aug 2026 02:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-97709687?size=1.501&width=1280",
+      "snapshot": "articles/e5-8c-bb-e7-94-9f-e5-8f-8d-e6-84-9f-e6-82-a3-e8--e5cca27a28a3.html",
       "captured": true,
-      "capture_title": "习近平想要强势人民币，中国经济却在拖后腿",
+      "capture_title": "医生反感患者用AI解读化验单，但根本拦不住 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
+      "summary": "生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。",
+      "link": "https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db",
+      "guid": "WP-WSJS-0003800148",
+      "pub_date": "Fri, 07 Aug 2026 06:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280",
+      "snapshot": "articles/e7-9b-b4-e9-9d-a2ai--e6-9c-ab-e6-97-a5--e5-86-b2-ddac9a657557.html",
+      "captured": true,
+      "capture_title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变 - WSJ",
       "error": ""
     },
     {
@@ -193,19 +205,7 @@
       "image_url": "https://images.wsj.net/im-46498762?size=1.5053763440860215&width=1280",
       "snapshot": "articles/the-latest-scary-sounding-ai-milestone-a-brand-n-d6edbd11a3b6.html",
       "captured": true,
-      "capture_title": "AI最新的骇人里程碑：生成新病毒 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "金价走出阴霾强势突破，是否有望再创新高？",
-      "summary": "对于担心通胀与美联储政策的投资者而言，金矿股不失为一个优质的配置标的。",
-      "link": "https://cn.wsj.com/articles/%E9%87%91%E4%BB%B7%E8%B5%B0%E5%87%BA%E9%98%B4%E9%9C%BE%E5%BC%BA%E5%8A%BF%E7%AA%81%E7%A0%B4-%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%9B%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-2db2ef19",
-      "guid": "WP-WSJS-0003799831",
-      "pub_date": "Fri, 07 Aug 2026 01:49:00 GMT",
-      "image_url": "https://images.mktw.net/im-23207750?size=1.44&width=1280",
-      "snapshot": "articles/e9-87-91-e4-bb-b7-e8-b5-b0-e5-87-ba-e9-98-b4-e9--298f76d0d3e7.html",
-      "captured": true,
-      "capture_title": "金价走出阴霾强势突破，是否有望再创新高？ - WSJ",
+      "capture_title": "AI最新的骇人里程碑：生成新病毒",
       "error": ""
     },
     {
@@ -217,7 +217,19 @@
       "image_url": "https://images.wsj.net/im-41729715?size=1.501&width=1280",
       "snapshot": "articles/refine-baby-refine-is-the-energy-industrys-new-m-2c443d476725.html",
       "captured": true,
-      "capture_title": "美国能源行业响起新口号：“炼油，炼油，炼油” - WSJ",
+      "capture_title": "美国能源行业响起新口号：“炼油，炼油，炼油”",
+      "error": ""
+    },
+    {
+      "title": "金价走出阴霾强势突破，是否有望再创新高？",
+      "summary": "对于担心通胀与美联储政策的投资者而言，金矿股不失为一个优质的配置标的。",
+      "link": "https://cn.wsj.com/articles/%E9%87%91%E4%BB%B7%E8%B5%B0%E5%87%BA%E9%98%B4%E9%9C%BE%E5%BC%BA%E5%8A%BF%E7%AA%81%E7%A0%B4-%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%9B%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-2db2ef19",
+      "guid": "WP-WSJS-0003799831",
+      "pub_date": "Fri, 07 Aug 2026 01:49:00 GMT",
+      "image_url": "https://images.mktw.net/im-23207750?size=1.44&width=1280",
+      "snapshot": "articles/e9-87-91-e4-bb-b7-e8-b5-b0-e5-87-ba-e9-98-b4-e9--298f76d0d3e7.html",
+      "captured": true,
+      "capture_title": "金价走出阴霾强势突破，是否有望再创新高？",
       "error": ""
     },
     {
@@ -242,18 +254,6 @@
       "snapshot": "articles/hongkong-insurer-bank-stocks-fall-after-report-o-44f7b938d024.html",
       "captured": true,
       "capture_title": "传中国对境外保单收益征税，香港保险与银行股下跌",
-      "error": ""
-    },
-    {
-      "title": "存储芯片股遭抛售之际美光股价逆势上扬",
-      "summary": "周四，尽管闪迪和西部数据等存储芯片股走低，美光科技却收复了盘中失地。",
-      "link": "https://cn.wsj.com/articles/microns-stock-claws-back-to-buck-the-memory-chip-selloff-ac0fd8e4",
-      "guid": "WP-WSJS-0003799390",
-      "pub_date": "Thu, 06 Aug 2026 23:19:00 GMT",
-      "image_url": "https://images.mktw.net/im-54177591?size=1.43&width=1280",
-      "snapshot": "articles/microns-stock-claws-back-to-buck-the-memory-chip-2af76cdb771d.html",
-      "captured": true,
-      "capture_title": "存储芯片股遭抛售之际美光股价逆势上扬",
       "error": ""
     },
     {
@@ -302,6 +302,30 @@
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
       "capture_title": "航空公司真的不想让你买最便宜的机票",
+      "error": ""
+    },
+    {
+      "title": "特朗普不满美军弹药库存报道，下令严查泄密事件",
+      "summary": "此前媒体已连续数周报道美军在伊朗战事中弹药耗损严重。特朗普下令对五角大楼泄密事件展开调查，担忧此类报道会削弱对伊外交立场。",
+      "link": "https://cn.wsj.com/articles/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-74f1aa9a",
+      "guid": "WP-WSJS-0003799959",
+      "pub_date": "Fri, 07 Aug 2026 02:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-21794108?size=1.501&width=1280",
+      "snapshot": "articles/trump-orders-leak-probe-after-venting-about-medi-25d44f1d5535.html",
+      "captured": true,
+      "capture_title": "特朗普不满美军弹药库存报道，下令严查泄密事件 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "存储芯片股遭抛售之际美光股价逆势上扬",
+      "summary": "周四，尽管闪迪和西部数据等存储芯片股走低，美光科技却收复了盘中失地。",
+      "link": "https://cn.wsj.com/articles/microns-stock-claws-back-to-buck-the-memory-chip-selloff-ac0fd8e4",
+      "guid": "WP-WSJS-0003799390",
+      "pub_date": "Thu, 06 Aug 2026 23:19:00 GMT",
+      "image_url": "https://images.mktw.net/im-54177591?size=1.43&width=1280",
+      "snapshot": "articles/microns-stock-claws-back-to-buck-the-memory-chip-2af76cdb771d.html",
+      "captured": true,
+      "capture_title": "存储芯片股遭抛售之际美光股价逆势上扬",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/trump-pivots-back-to-diplomacy-as-iran-victory-e-8ea5f214e994.html",
       "captured": true,
       "capture_title": "对伊胜利难寻，特朗普重回外交路线",
-      "error": ""
-    },
-    {
-      "title": "最新加沙和平计划难敌现实",
-      "summary": "美国称哈马斯已同意解除武装的总体计划，但仅一天后，以色列和哈马斯就在协议具体内容以及应由哪方率先行动的问题上显现分歧。",
-      "link": "https://cn.wsj.com/articles/latest-gaza-peace-plan-runs-up-against-reality-238d9c12",
-      "guid": "WP-WSJS-0003783008",
-      "pub_date": "Sat, 01 Aug 2026 00:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-82176998?size=1.501&width=1280",
-      "snapshot": "articles/latest-gaza-peace-plan-runs-up-against-reality-2-7f09af60e1ee.html",
-      "captured": true,
-      "capture_title": "最新加沙和平计划难敌现实",
-      "error": ""
-    },
-    {
-      "title": "美国买入日圆背后的深层担忧",
-      "summary": "日圆疲软不仅是东京的问题，也是华盛顿的问题。",
-      "link": "https://cn.wsj.com/articles/the-worries-that-drove-uncle-sam-to-buy-yen-070299aa",
-      "guid": "WP-WSJS-0003785751",
-      "pub_date": "Mon, 03 Aug 2026 11:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-31273447?size=1.499&width=1280",
-      "snapshot": "articles/the-worries-that-drove-uncle-sam-to-buy-yen-0702-777a72c3ee69.html",
-      "captured": true,
-      "capture_title": "美国买入日圆背后的深层担忧",
       "error": ""
     }
   ]
