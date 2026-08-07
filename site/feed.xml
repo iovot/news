@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 07:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 10:04:36 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 07:22:47 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 10:04:36 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -119,13 +119,6 @@
             <pubDate>Thu, 06 Aug 2026 03:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[热狗华丽转身：从平民美食卖到100美元]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-35530394?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高级配料、奢华的摆盘和超大份量正将热狗推向高级料理的行列。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%83%AD%E7%8B%97%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%8E%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F%E5%8D%96%E5%88%B0100%E7%BE%8E%E5%85%83-db33992b</link>
-            <guid isPermaLink="false">WP-WSJS-0003800038</guid>
-            <pubDate>Fri, 07 Aug 2026 04:23:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[医生反感患者用AI解读化验单，但根本拦不住]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97709687?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据一项民意调查，大约三分之一的成年人会向AI聊天机器人寻求健康建议，19%的人专门使用AI来解读实验室数据或医学检查报告。 这导致医生不得不去纠正错误的指导意见。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%8C%BB%E7%94%9F%E5%8F%8D%E6%84%9F%E6%82%A3%E8%80%85%E7%94%A8ai%E8%A7%A3%E8%AF%BB%E5%8C%96%E9%AA%8C%E5%8D%95-%E4%BD%86%E6%A0%B9%E6%9C%AC%E6%8B%A6%E4%B8%8D%E4%BD%8F-27c22bca</link>
@@ -161,6 +154,20 @@
             <pubDate>Fri, 07 Aug 2026 01:49:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[远景大型可再生能源AI数据中心投产]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-51444739?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国绿色科技公司远景在内蒙古投产一座由可再生能源供电的大型数据中心，以应对日益高涨的AI算力基础设施需求。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-senvision-commissions-giant-renewable-powered-ai-data-center-eb4345f0</link>
+            <guid isPermaLink="false">WP-WSJS-0003800318</guid>
+            <pubDate>Fri, 07 Aug 2026 08:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SK海力士拟投资380亿美元扩大韩国芯片产能]]></title>
+            <description><![CDATA[<img width="1280" height="906" src="https://images.wsj.net/im-46931804?size=1.413&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮推动需求不断增长之际，该公司正寻求提高产量以满足需求。</p>]]></description>
+            <link>https://cn.wsj.com/articles/sk-hynix-to-invest-38-billion-on-expansion-of-chip-production-capacity-549dff6e</link>
+            <guid isPermaLink="false">WP-WSJS-0003800399</guid>
+            <pubDate>Fri, 07 Aug 2026 09:41:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[宇树科技拟通过上海IPO筹资9亿美元]]></title>
             <description><![CDATA[<img width="1280" height="815" src="https://images.wsj.net/im-99044805?size=1.57&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宇树科技已将其上海IPO发行价定为每股人民币150.8元，成为首家在内地市场上市的人形机器人企业。</p>]]></description>
             <link>https://cn.wsj.com/articles/china-sunitree-to-raise-900-million-in-shanghai-initial-public-offering-22fd4174</link>
@@ -168,11 +175,11 @@
             <pubDate>Fri, 07 Aug 2026 03:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[传中国对境外保单收益征税，香港保险与银行股下跌]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-69167616?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>香港市场大型保险公司和银行股走低，此前有媒体报道称，中国内地税务机关已开始对部分境外保单收益征收个人所得税。</p>]]></description>
-            <link>https://cn.wsj.com/articles/hongkong-insurer-bank-stocks-fall-after-report-of-china-tax-on-offshore-products-b82a5ef3</link>
-            <guid isPermaLink="false">WP-WSJS-0003796503</guid>
-            <pubDate>Thu, 06 Aug 2026 08:35:00 GMT</pubDate>
+            <title><![CDATA[热狗华丽转身：从平民美食卖到100美元]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-35530394?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高级配料、奢华的摆盘和超大份量正将热狗推向高级料理的行列。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%83%AD%E7%8B%97%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%8E%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F%E5%8D%96%E5%88%B0100%E7%BE%8E%E5%85%83-db33992b</link>
+            <guid isPermaLink="false">WP-WSJS-0003800038</guid>
+            <pubDate>Fri, 07 Aug 2026 04:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[加拿大艾伯塔省省长的终极豪赌：脱加公投]]></title>
@@ -187,13 +194,6 @@
             <link>https://cn.wsj.com/articles/googleoverhauls-ai-leadership-as-longtime-chief-scientist-joins-wave-of-exits-jeff-dean-81b2a2de</link>
             <guid isPermaLink="false">WP-WSJS-0003795533</guid>
             <pubDate>Wed, 05 Aug 2026 23:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普在沃什就任美联储主席后频繁与他通话]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34631537?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这种总统与美联储主席保持直接沟通的做法打破了近年来的惯例，也引发了针对美联储独立性的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%B2%83%E4%BB%80%E5%B0%B1%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%90%8E%E9%A2%91%E7%B9%81%E4%B8%8E%E4%BB%96%E9%80%9A%E8%AF%9D-96edff0e</link>
-            <guid isPermaLink="false">WP-WSJS-0003796089</guid>
-            <pubDate>Thu, 06 Aug 2026 03:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[航空公司真的不想让你买最便宜的机票]]></title>
