@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:53:15.104978+00:00",
+  "generated_at": "2026-08-08T02:06:28.919386+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,6 +17,18 @@
       "error": ""
     },
     {
+      "title": "特朗普政府将向电池和材料公司提供20亿美元资金",
+      "summary": "此举是美国政府为摆脱对中国供应商的依赖而推出的一系列财政支持举措中的最新一项。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%86%E5%90%91%E7%94%B5%E6%B1%A0%E5%92%8C%E6%9D%90%E6%96%99%E5%85%AC%E5%8F%B8%E6%8F%90%E4%BE%9B20%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E9%87%91-256b0d0b",
+      "guid": "WP-WSJS-0003803180",
+      "pub_date": "Sat, 08 Aug 2026 01:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-99151112?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--5f7fbbf97e4b.html",
+      "captured": true,
+      "capture_title": "特朗普政府将向电池和材料公司提供20亿美元资金 - WSJ",
+      "error": ""
+    },
+    {
       "title": "特朗普将对太阳能电池板及组件征收15%关税并设定最低限价",
       "summary": "特朗普政府此举旨在削弱中国对太阳能系统和半导体关键材料的市场控制。",
       "link": "https://cn.wsj.com/articles/trump-to-impose-15-tariff-set-minimum-prices-on-solar-panels-and-components-24a8167d",
@@ -26,18 +38,6 @@
       "snapshot": "articles/trump-to-impose-15-tariff-set-minimum-prices-on--6328e1c714d8.html",
       "captured": true,
       "capture_title": "特朗普将对太阳能电池板及组件征收15%关税并设定最低限价",
-      "error": ""
-    },
-    {
-      "title": "中国对Palo Alto Networks产品启动网络安全审查",
-      "summary": "在中国官方宣布针对美国近期限制措施的一系列反制举措一天后，中方对派拓公司在华销售的产品实施审查。",
-      "link": "https://cn.wsj.com/articles/chinalaunches-cybersecurity-probe-into-palo-alto-networks-products-f52d766d",
-      "guid": "WP-WSJS-0003796673",
-      "pub_date": "Thu, 06 Aug 2026 10:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-86147461?size=1.501&width=1280",
-      "snapshot": "articles/chinalaunches-cybersecurity-probe-into-palo-alto-1663c17186d9.html",
-      "captured": true,
-      "capture_title": "中国对Palo Alto Networks产品启动网络安全审查 - WSJ",
       "error": ""
     },
     {
@@ -53,39 +53,27 @@
       "error": ""
     },
     {
-      "title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
-      "summary": "伊朗强硬派势力不断壮大，他们破坏重新开放霍尔木兹海峡协议的风险增加。调解人担心伊朗谈判代表缺乏确保协议得到遵守的影响力。",
-      "link": "https://cn.wsj.com/articles/can-irans-diminished-diplomats-deliver-a-hormuz-deal-20afefd3",
-      "guid": "WP-WSJS-0003799864",
-      "pub_date": "Fri, 07 Aug 2026 02:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-79322638?size=1.501&width=1280",
-      "snapshot": "articles/can-irans-diminished-diplomats-deliver-a-hormuz--25a00b7f5b52.html",
+      "title": "就业报告缓解加息担忧后，美股创下新高",
+      "summary": "疲软就业报告缓解了对9月加息的担忧，标普500指数上涨0.6%，创下年内第26个历史新高。道指上涨0.3%。纳指涨1.3%。",
+      "link": "https://cn.wsj.com/articles/%E5%B0%B1%E4%B8%9A%E6%8A%A5%E5%91%8A%E7%BC%93%E8%A7%A3%E5%8A%A0%E6%81%AF%E6%8B%85%E5%BF%A7%E5%90%8E-%E7%BE%8E%E8%82%A1%E5%88%9B%E4%B8%8B%E6%96%B0%E9%AB%98-4ab566eb",
+      "guid": "WP-WSJS-0003803091",
+      "pub_date": "Sat, 08 Aug 2026 00:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-01654908?size=1.501&width=1280",
+      "snapshot": "articles/e5-b0-b1-e4-b8-9a-e6-8a-a5-e5-91-8a-e7-bc-93-e8--f027c90eee14.html",
       "captured": true,
-      "capture_title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
+      "capture_title": "就业报告缓解加息担忧后，美股创下新高 - WSJ",
       "error": ""
     },
     {
-      "title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
-      "summary": "法官周四表示，除了陪审团此前裁定的3.75亿美元民事罚款外，Meta还必须新设立一个规模达5.67亿美元的补救基金。",
-      "link": "https://cn.wsj.com/articles/meta%E8%A2%AB%E5%8B%92%E4%BB%A4%E6%94%AF%E4%BB%989-42%E4%BA%BF%E7%BE%8E%E5%85%83-%E4%BB%A5%E8%A1%A5%E6%95%91%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AF%B9%E5%84%BF%E7%AB%A5%E9%80%A0%E6%88%90%E7%9A%84%E4%BC%A4%E5%AE%B3-80cc9bd6",
-      "guid": "WP-WSJS-0003799747",
-      "pub_date": "Fri, 07 Aug 2026 01:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-55913376?size=1.501&width=1280",
-      "snapshot": "articles/meta-e8-a2-ab-e5-8b-92-e4-bb-a4-e6-94-af-e4-bb-9-a7ecf3df2c29.html",
+      "title": "SpaceX股价再涨15.8%，首个禁售期届满",
+      "summary": "SpaceX股价继周四天量股票解禁不跌反涨6.1%后，周五收盘继续大涨15.8%，报每股133.11美元，这距离其135美元的IPO价格仅差几美元。",
+      "link": "https://cn.wsj.com/articles/spacex%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E6%9C%9F%E5%B1%8A%E6%BB%A1-%E8%82%A1%E4%BB%B7%E5%86%8D%E6%B6%A815-8-09cc22fc",
+      "guid": "WP-WSJS-0003803153",
+      "pub_date": "Sat, 08 Aug 2026 01:23:00 GMT",
+      "image_url": "https://images.mktw.net/im-00481430?size=1.44&width=1280",
+      "snapshot": "articles/spacex-e9-a6-96-e4-b8-aa-e7-a6-81-e5-94-ae-e6-9c-ad928d8f0510.html",
       "captured": true,
-      "capture_title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
-      "error": ""
-    },
-    {
-      "title": "特朗普签署针对出生公民权的行政令",
-      "summary": "这两项行政命令旨在扩大不符合出生公民权资格的人群范围，并禁止游客单纯为赴美产子而入境。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E9%92%88%E5%AF%B9%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83%E7%9A%84%E8%A1%8C%E6%94%BF%E4%BB%A4-5c774c90",
-      "guid": "WP-WSJS-0003799386",
-      "pub_date": "Fri, 07 Aug 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-67328766?size=1.499&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-ad-be-e7-bd-b2-e9--a1b117ff0404.html",
-      "captured": true,
-      "capture_title": "特朗普签署针对出生公民权的行政令",
+      "capture_title": "SpaceX股价再涨15.8%，首个禁售期届满 - WSJ",
       "error": ""
     },
     {
@@ -101,27 +89,39 @@
       "error": ""
     },
     {
-      "title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号",
-      "summary": "朝鲜本周试射弹道导弹引发了与日本的新摩擦，这是平壤与美国印太盟友之间军事紧张局势不断升温的最新例证。",
-      "link": "https://cn.wsj.com/articles/pyongyang-missile-test-signals-growing-conflict-between-north-korea-and-u-s-allies-aeb39f9a",
-      "guid": "WP-WSJS-0003800587",
-      "pub_date": "Fri, 07 Aug 2026 11:10:00 GMT",
-      "image_url": "https://images.wsj.net/im-94381158?size=1.606&width=1280",
-      "snapshot": "articles/pyongyang-missile-test-signals-growing-conflict--f2cd89a4bccc.html",
+      "title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
+      "summary": "伊朗强硬派势力不断壮大，他们破坏重新开放霍尔木兹海峡协议的风险增加。调解人担心伊朗谈判代表缺乏确保协议得到遵守的影响力。",
+      "link": "https://cn.wsj.com/articles/can-irans-diminished-diplomats-deliver-a-hormuz-deal-20afefd3",
+      "guid": "WP-WSJS-0003799864",
+      "pub_date": "Fri, 07 Aug 2026 02:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-79322638?size=1.501&width=1280",
+      "snapshot": "articles/can-irans-diminished-diplomats-deliver-a-hormuz--25a00b7f5b52.html",
       "captured": true,
-      "capture_title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号",
+      "capture_title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
       "error": ""
     },
     {
-      "title": "习近平想要强势人民币，中国经济却在拖后腿",
-      "summary": "习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。",
-      "link": "https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5",
-      "guid": "WP-WSJS-0003792000",
-      "pub_date": "Wed, 05 Aug 2026 02:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-631417?size=1.501&width=1280",
-      "snapshot": "articles/xi-wants-a-strong-looking-yuan-chinas-economy-ke-9c8aa1e0eae2.html",
+      "title": "特朗普签署针对出生公民权的行政令",
+      "summary": "这两项行政命令旨在扩大不符合出生公民权资格的人群范围，并禁止游客单纯为赴美产子而入境。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E9%92%88%E5%AF%B9%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83%E7%9A%84%E8%A1%8C%E6%94%BF%E4%BB%A4-5c774c90",
+      "guid": "WP-WSJS-0003799386",
+      "pub_date": "Fri, 07 Aug 2026 02:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-67328766?size=1.499&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-ad-be-e7-bd-b2-e9--a1b117ff0404.html",
       "captured": true,
-      "capture_title": "习近平想要强势人民币，中国经济却在拖后腿",
+      "capture_title": "特朗普签署针对出生公民权的行政令",
+      "error": ""
+    },
+    {
+      "title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
+      "summary": "法官周四表示，除了陪审团此前裁定的3.75亿美元民事罚款外，Meta还必须新设立一个规模达5.67亿美元的补救基金。",
+      "link": "https://cn.wsj.com/articles/meta%E8%A2%AB%E5%8B%92%E4%BB%A4%E6%94%AF%E4%BB%989-42%E4%BA%BF%E7%BE%8E%E5%85%83-%E4%BB%A5%E8%A1%A5%E6%95%91%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AF%B9%E5%84%BF%E7%AB%A5%E9%80%A0%E6%88%90%E7%9A%84%E4%BC%A4%E5%AE%B3-80cc9bd6",
+      "guid": "WP-WSJS-0003799747",
+      "pub_date": "Fri, 07 Aug 2026 01:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-55913376?size=1.501&width=1280",
+      "snapshot": "articles/meta-e8-a2-ab-e5-8b-92-e4-bb-a4-e6-94-af-e4-bb-9-a7ecf3df2c29.html",
+      "captured": true,
+      "capture_title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
       "error": ""
     },
     {
@@ -137,18 +137,6 @@
       "error": ""
     },
     {
-      "title": "SpaceX获忠实信徒力挺，天量股票解禁股价不跌反涨",
-      "summary": "禁售期结束导致多达9.12亿股股票涌入市场，但SpaceX股价周四仍上涨6.1%。",
-      "link": "https://cn.wsj.com/articles/spacex%E8%8E%B7%E5%BF%A0%E5%AE%9E%E4%BF%A1%E5%BE%92%E5%8A%9B%E6%8C%BA-%E5%A4%A9%E9%87%8F%E8%82%A1%E7%A5%A8%E8%A7%A3%E7%A6%81%E8%82%A1%E4%BB%B7%E4%B8%8D%E8%B7%8C%E5%8F%8D%E6%B6%A8-5abc8e7b",
-      "guid": "WP-WSJS-0003799686",
-      "pub_date": "Fri, 07 Aug 2026 00:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-56447714?size=1.501&width=1280",
-      "snapshot": "articles/spacex-e8-8e-b7-e5-bf-a0-e5-ae-9e-e4-bf-a1-e5-be-abc8c235c660.html",
-      "captured": true,
-      "capture_title": "SpaceX获忠实信徒力挺，天量股票解禁股价不跌反涨",
-      "error": ""
-    },
-    {
       "title": "台湾演练旨在挫败中国入侵的作战计划",
       "summary": "台湾今年的“汉光”演习将检验为抵御中国军队而制定的新计划和战术，包括从美国和伊朗战争中汲取的经验教训。",
       "link": "https://cn.wsj.com/articles/taiwan-tests-war-plans-to-thwart-chinese-invasion-ee1495b0",
@@ -158,6 +146,18 @@
       "snapshot": "articles/taiwan-tests-war-plans-to-thwart-chinese-invasio-9aba76cd0d01.html",
       "captured": true,
       "capture_title": "台湾演练旨在挫败中国入侵的作战计划",
+      "error": ""
+    },
+    {
+      "title": "习近平想要强势人民币，中国经济却在拖后腿",
+      "summary": "习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。",
+      "link": "https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5",
+      "guid": "WP-WSJS-0003792000",
+      "pub_date": "Wed, 05 Aug 2026 02:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-631417?size=1.501&width=1280",
+      "snapshot": "articles/xi-wants-a-strong-looking-yuan-chinas-economy-ke-9c8aa1e0eae2.html",
+      "captured": true,
+      "capture_title": "习近平想要强势人民币，中国经济却在拖后腿",
       "error": ""
     },
     {
@@ -209,15 +209,15 @@
       "error": ""
     },
     {
-      "title": "金价走出阴霾强势突破，是否有望再创新高？",
-      "summary": "对于担心通胀与美联储政策的投资者而言，金矿股不失为一个优质的配置标的。",
-      "link": "https://cn.wsj.com/articles/%E9%87%91%E4%BB%B7%E8%B5%B0%E5%87%BA%E9%98%B4%E9%9C%BE%E5%BC%BA%E5%8A%BF%E7%AA%81%E7%A0%B4-%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%9B%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-2db2ef19",
-      "guid": "WP-WSJS-0003799831",
-      "pub_date": "Fri, 07 Aug 2026 01:49:00 GMT",
-      "image_url": "https://images.mktw.net/im-23207750?size=1.44&width=1280",
-      "snapshot": "articles/e9-87-91-e4-bb-b7-e8-b5-b0-e5-87-ba-e9-98-b4-e9--298f76d0d3e7.html",
+      "title": "中国对Palo Alto Networks产品启动网络安全审查",
+      "summary": "在中国官方宣布针对美国近期限制措施的一系列反制举措一天后，中方对派拓公司在华销售的产品实施审查。",
+      "link": "https://cn.wsj.com/articles/chinalaunches-cybersecurity-probe-into-palo-alto-networks-products-f52d766d",
+      "guid": "WP-WSJS-0003796673",
+      "pub_date": "Thu, 06 Aug 2026 10:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-86147461?size=1.501&width=1280",
+      "snapshot": "articles/chinalaunches-cybersecurity-probe-into-palo-alto-1663c17186d9.html",
       "captured": true,
-      "capture_title": "金价走出阴霾强势突破，是否有望再创新高？",
+      "capture_title": "中国对Palo Alto Networks产品启动网络安全审查 - WSJ",
       "error": ""
     },
     {
@@ -302,6 +302,42 @@
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
       "capture_title": "航空公司真的不想让你买最便宜的机票",
+      "error": ""
+    },
+    {
+      "title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号",
+      "summary": "朝鲜本周试射弹道导弹引发了与日本的新摩擦，这是平壤与美国印太盟友之间军事紧张局势不断升温的最新例证。",
+      "link": "https://cn.wsj.com/articles/pyongyang-missile-test-signals-growing-conflict-between-north-korea-and-u-s-allies-aeb39f9a",
+      "guid": "WP-WSJS-0003800587",
+      "pub_date": "Fri, 07 Aug 2026 11:10:00 GMT",
+      "image_url": "https://images.wsj.net/im-94381158?size=1.606&width=1280",
+      "snapshot": "articles/pyongyang-missile-test-signals-growing-conflict--f2cd89a4bccc.html",
+      "captured": true,
+      "capture_title": "朝鲜试射导弹，释放该国与美国盟友冲突加剧的信号",
+      "error": ""
+    },
+    {
+      "title": "SpaceX获忠实信徒力挺，天量股票解禁股价不跌反涨",
+      "summary": "禁售期结束导致多达9.12亿股股票涌入市场，但SpaceX股价周四仍上涨6.1%。",
+      "link": "https://cn.wsj.com/articles/spacex%E8%8E%B7%E5%BF%A0%E5%AE%9E%E4%BF%A1%E5%BE%92%E5%8A%9B%E6%8C%BA-%E5%A4%A9%E9%87%8F%E8%82%A1%E7%A5%A8%E8%A7%A3%E7%A6%81%E8%82%A1%E4%BB%B7%E4%B8%8D%E8%B7%8C%E5%8F%8D%E6%B6%A8-5abc8e7b",
+      "guid": "WP-WSJS-0003799686",
+      "pub_date": "Fri, 07 Aug 2026 00:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-56447714?size=1.501&width=1280",
+      "snapshot": "articles/spacex-e8-8e-b7-e5-bf-a0-e5-ae-9e-e4-bf-a1-e5-be-abc8c235c660.html",
+      "captured": true,
+      "capture_title": "SpaceX获忠实信徒力挺，天量股票解禁股价不跌反涨",
+      "error": ""
+    },
+    {
+      "title": "金价走出阴霾强势突破，是否有望再创新高？",
+      "summary": "对于担心通胀与美联储政策的投资者而言，金矿股不失为一个优质的配置标的。",
+      "link": "https://cn.wsj.com/articles/%E9%87%91%E4%BB%B7%E8%B5%B0%E5%87%BA%E9%98%B4%E9%9C%BE%E5%BC%BA%E5%8A%BF%E7%AA%81%E7%A0%B4-%E6%98%AF%E5%90%A6%E6%9C%89%E6%9C%9B%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-2db2ef19",
+      "guid": "WP-WSJS-0003799831",
+      "pub_date": "Fri, 07 Aug 2026 01:49:00 GMT",
+      "image_url": "https://images.mktw.net/im-23207750?size=1.44&width=1280",
+      "snapshot": "articles/e9-87-91-e4-bb-b7-e8-b5-b0-e5-87-ba-e9-98-b4-e9--298f76d0d3e7.html",
+      "captured": true,
+      "capture_title": "金价走出阴霾强势突破，是否有望再创新高？",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/u-s-allies-put-frictions-aside-showing-china-com-d66953e52e8e.html",
       "captured": true,
       "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量",
-      "error": ""
-    },
-    {
-      "title": "特朗普怒批石油巨头“赚太多”",
-      "summary": "美国总统特朗普称，雪佛龙和埃克森美孚“赚了太多钱”，应将部分利润回馈给公众。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4-%E8%B5%9A%E5%A4%AA%E5%A4%9A-cee4b9e5",
-      "guid": "WP-WSJS-0003787944",
-      "pub_date": "Mon, 03 Aug 2026 23:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-72416412?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-80-92-e6-89-b9-e7--3de95f05ee32.html",
-      "captured": true,
-      "capture_title": "特朗普怒批石油巨头“赚太多”",
-      "error": ""
-    },
-    {
-      "title": "反犹情绪加剧，纽约市针对犹太人的仇恨犯罪激增",
-      "summary": "纽约市长马姆达尼持反以色列观点并抨击内塔尼亚胡，纽约市犹太社区担心这让他们的自身安全受到威胁。",
-      "link": "https://cn.wsj.com/articles/hate-crimes-against-jewish-new-yorkers-surge-amid-heightened-antisemitism-b4d46fd1",
-      "guid": "WP-WSJS-0003788170",
-      "pub_date": "Tue, 04 Aug 2026 02:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-58590138?size=1.501&width=1280",
-      "snapshot": "articles/hate-crimes-against-jewish-new-yorkers-surge-ami-e5520f116324.html",
-      "captured": true,
-      "capture_title": "反犹情绪加剧，纽约市针对犹太人的仇恨犯罪激增",
-      "error": ""
-    },
-    {
-      "title": "美国25个州就特朗普新关税措施提起诉讼",
-      "summary": "诉讼认为，本届政府仓促完成了法律规定的调查，并且未能证明新关税将有效打击全球供应链中的强迫劳动。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD25%E4%B8%AA%E5%B7%9E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC-637424f3",
-      "guid": "WP-WSJS-0003787863",
-      "pub_date": "Mon, 03 Aug 2026 23:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-72111762?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd25-e4-b8-aa-e5-b7-9e-e5-b0-b1-e-ee3eceede645.html",
-      "captured": true,
-      "capture_title": "美国25个州就特朗普新关税措施提起诉讼 - WSJ",
       "error": ""
     }
   ]
