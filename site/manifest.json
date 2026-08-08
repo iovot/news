@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:51:21.638091+00:00",
+  "generated_at": "2026-08-08T13:04:13.846949+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -30,7 +30,7 @@
     },
     {
       "title": "SpaceX股价再涨15.8%，首个禁售期届满",
-      "summary": "继周四天量股票解禁不跌反涨6.1%后，SpaceX股价周五再涨15.8%，报每股133.11美元，距其135美元的IPO价格仅差几美元。",
+      "summary": "继周四天量股票解禁不跌反涨6.1%后，SpaceX股价再涨15.8%，报133.11美元，距135美元的IPO价格仅差几美元。",
       "link": "https://cn.wsj.com/articles/spacex%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E6%9C%9F%E5%B1%8A%E6%BB%A1-%E8%82%A1%E4%BB%B7%E5%86%8D%E6%B6%A815-8-09cc22fc",
       "guid": "WP-WSJS-0003803153",
       "pub_date": "Sat, 08 Aug 2026 01:23:00 GMT",
@@ -91,13 +91,13 @@
     {
       "title": "摆脱对华依赖？美国初创公司正押注钠电池",
       "summary": "与传统的锂基电池相比，新型钠基电池可能更便宜、更耐用、更安全、更可靠。",
-      "link": "https://cn.wsj.com/articles/%E6%91%86%E8%84%B1%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96-%E7%BE%8E%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%8A%BC%E6%B3%A8%E9%92%A0%E7%94%B5%E6%B1%A0-874796a3",
+      "link": "https://cn.wsj.com/articles/china-free-batteries-made-from-salt-are-finally-here-874796a3",
       "guid": "WP-WSJS-0003803315",
       "pub_date": "Sat, 08 Aug 2026 04:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-01825102?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e6-91-86-e8-84-b1-e5-af-b9-e5-8d-8e-e4-be-9d-e8--0e17decc2b5f.html",
+      "image_url": "https://images.wsj.net/im-33992010?size=1.499&width=1280",
+      "snapshot": "articles/china-free-batteries-made-from-salt-are-finally--0e17decc2b5f.html",
       "captured": true,
-      "capture_title": "摆脱对华依赖？美国初创公司正押注钠电池",
+      "capture_title": "摆脱对华依赖？美国初创公司正押注钠电池 - WSJ",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/helicopter-parents-adult-children-careers-720848-e9892d63ef60.html",
       "captured": true,
       "capture_title": "“直升机父母”正在插手成年子女的职业生涯",
+      "error": ""
+    },
+    {
+      "title": "摆脱对华依赖？美国初创公司正押注钠电池",
+      "summary": "与传统的锂基电池相比，新型钠基电池可能更便宜、更耐用、更安全、更可靠。",
+      "link": "https://cn.wsj.com/articles/%E6%91%86%E8%84%B1%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96-%E7%BE%8E%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%8A%BC%E6%B3%A8%E9%92%A0%E7%94%B5%E6%B1%A0-874796a3",
+      "guid": "WP-WSJS-0003803315",
+      "pub_date": "Sat, 08 Aug 2026 04:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-01825102?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e6-91-86-e8-84-b1-e5-af-b9-e5-8d-8e-e4-be-9d-e8--0e17decc2b5f.html",
+      "captured": true,
+      "capture_title": "摆脱对华依赖？美国初创公司正押注钠电池",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/big-fashion-brands-try-on-a-new-trend-selling-se-c5484c964520.html",
       "captured": true,
       "capture_title": "时尚巨头试水新潮流：销售二手服装",
-      "error": ""
-    },
-    {
-      "title": "Palantir股价飙升，收入近乎翻倍，公司上调业绩展望",
-      "summary": "Palantir在盘后交易中上涨逾13%，此前该公司上调了全年业绩展望。CEO卡普将第二财季业绩形容为“超乎寻常”，称公司总收入同比增长93%。",
-      "link": "https://cn.wsj.com/articles/palantir-lifts-guidance-as-revenue-nearly-doubles-e40b8011",
-      "guid": "WP-WSJS-0003787874",
-      "pub_date": "Mon, 03 Aug 2026 23:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-722757?size=1.501&width=1280",
-      "snapshot": "articles/palantir-lifts-guidance-as-revenue-nearly-double-23cee9b3d844.html",
-      "captured": true,
-      "capture_title": "Palantir股价飙升，收入近乎翻倍，公司上调业绩展望",
       "error": ""
     }
   ]
