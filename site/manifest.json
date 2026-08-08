@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:28:37.373160+00:00",
+  "generated_at": "2026-08-08T07:15:45.910628+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,63 +17,15 @@
       "error": ""
     },
     {
-      "title": "特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖",
-      "summary": "此举是美国政府为摆脱对中国供应商的依赖而推出的一系列财政支持举措中的最新一项。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%86%E5%90%91%E7%94%B5%E6%B1%A0%E5%92%8C%E6%9D%90%E6%96%99%E5%85%AC%E5%8F%B8%E6%8F%90%E4%BE%9B20%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E9%87%91-256b0d0b",
-      "guid": "WP-WSJS-0003803180",
-      "pub_date": "Sat, 08 Aug 2026 01:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-99151112?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--5f7fbbf97e4b.html",
+      "title": "美国7月就业岗位意外减少2.3万，失业率小幅回落",
+      "summary": "美国就业市场7月份出现就业岗位流失，这一意外萎缩，可能会在美国经济正面临高通胀之际，引发外界对其基本面实力的新一轮质疑。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD7%E6%9C%88%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D%E6%84%8F%E5%A4%96%E5%87%8F%E5%B0%912-3%E4%B8%87-%E5%A4%B1%E4%B8%9A%E7%8E%87%E5%B0%8F%E5%B9%85%E5%9B%9E%E8%90%BD-f4a9b642",
+      "guid": "WP-WSJS-0003803110",
+      "pub_date": "Sat, 08 Aug 2026 00:32:00 GMT",
+      "image_url": "https://images.wsj.net/im-19180473?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd7-e6-9c-88-e5-b0-b1-e4-b8-9a-e5-e1f5cf4c0090.html",
       "captured": true,
-      "capture_title": "特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖",
-      "error": ""
-    },
-    {
-      "title": "特朗普将对太阳能电池板及组件征收15%关税并设定最低限价",
-      "summary": "特朗普政府此举旨在削弱中国对太阳能系统和半导体关键材料的市场控制。",
-      "link": "https://cn.wsj.com/articles/trump-to-impose-15-tariff-set-minimum-prices-on-solar-panels-and-components-24a8167d",
-      "guid": "WP-WSJS-0003799431",
-      "pub_date": "Thu, 06 Aug 2026 23:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-59983833?size=1.333&width=1280",
-      "snapshot": "articles/trump-to-impose-15-tariff-set-minimum-prices-on--6328e1c714d8.html",
-      "captured": true,
-      "capture_title": "特朗普将对太阳能电池板及组件征收15%关税并设定最低限价",
-      "error": ""
-    },
-    {
-      "title": "中国将加强对美无人机出口管制",
-      "summary": "中国商务部表示，对列入《中华人民共和国两用物项出口管制清单》的无人机及其关键零部件、相关技术对美国出口，逐案从严审核。",
-      "link": "https://cn.wsj.com/articles/chinato-strengthen-curbs-on-drone-exports-to-u-s-0a2515b5",
-      "guid": "WP-WSJS-0003792676",
-      "pub_date": "Wed, 05 Aug 2026 10:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-86309895?size=1.501&width=1280",
-      "snapshot": "articles/chinato-strengthen-curbs-on-drone-exports-to-u-s-e7f2452436c5.html",
-      "captured": true,
-      "capture_title": "中国将加强对美无人机出口管制 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "就业报告缓解加息担忧后，美股创下新高",
-      "summary": "疲软就业报告缓解了对9月加息的担忧，标普500指数上涨0.6%，创下年内第26个历史新高。道指上涨0.3%。纳指涨1.3%。",
-      "link": "https://cn.wsj.com/articles/%E5%B0%B1%E4%B8%9A%E6%8A%A5%E5%91%8A%E7%BC%93%E8%A7%A3%E5%8A%A0%E6%81%AF%E6%8B%85%E5%BF%A7%E5%90%8E-%E7%BE%8E%E8%82%A1%E5%88%9B%E4%B8%8B%E6%96%B0%E9%AB%98-4ab566eb",
-      "guid": "WP-WSJS-0003803091",
-      "pub_date": "Sat, 08 Aug 2026 00:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-01654908?size=1.501&width=1280",
-      "snapshot": "articles/e5-b0-b1-e4-b8-9a-e6-8a-a5-e5-91-8a-e7-bc-93-e8--f027c90eee14.html",
-      "captured": true,
-      "capture_title": "就业报告缓解加息担忧后，美股创下新高",
-      "error": ""
-    },
-    {
-      "title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
-      "summary": "OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。",
-      "link": "https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e",
-      "guid": "WP-WSJS-0003803221",
-      "pub_date": "Sat, 08 Aug 2026 02:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-24887404?size=1.501&width=1280",
-      "snapshot": "articles/openai-e5-9b-a0-e7-bd-91-e7-bb-9c-e5-ae-89-e5-85-a739754e5b08.html",
-      "captured": true,
-      "capture_title": "OpenAI因网络安全担忧暂停Astra模型的部分研发 - WSJ",
+      "capture_title": "美国7月就业岗位意外减少2.3万，失业率小幅回落 - WSJ",
       "error": ""
     },
     {
@@ -101,8 +53,20 @@
       "error": ""
     },
     {
+      "title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
+      "summary": "OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。",
+      "link": "https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e",
+      "guid": "WP-WSJS-0003803221",
+      "pub_date": "Sat, 08 Aug 2026 02:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-24887404?size=1.501&width=1280",
+      "snapshot": "articles/openai-e5-9b-a0-e7-bd-91-e7-bb-9c-e5-ae-89-e5-85-a739754e5b08.html",
+      "captured": true,
+      "capture_title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
+      "error": ""
+    },
+    {
       "title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
-      "summary": "伊朗强硬派势力不断壮大，他们破坏重新开放霍尔木兹海峡协议的风险增加。调解人担心伊朗谈判代表缺乏确保协议得到遵守的影响力。",
+      "summary": "调解人担心，在德黑兰强硬派的施压下，伊朗外交官即使达成协议，也缺乏确保协议得到遵守的影响力。",
       "link": "https://cn.wsj.com/articles/can-irans-diminished-diplomats-deliver-a-hormuz-deal-20afefd3",
       "guid": "WP-WSJS-0003799864",
       "pub_date": "Fri, 07 Aug 2026 02:30:00 GMT",
@@ -113,15 +77,15 @@
       "error": ""
     },
     {
-      "title": "特朗普签署针对出生公民权的行政令",
-      "summary": "这两项行政命令旨在扩大不符合出生公民权资格的人群范围，并禁止游客单纯为赴美产子而入境。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E9%92%88%E5%AF%B9%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83%E7%9A%84%E8%A1%8C%E6%94%BF%E4%BB%A4-5c774c90",
-      "guid": "WP-WSJS-0003799386",
-      "pub_date": "Fri, 07 Aug 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-67328766?size=1.499&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-ad-be-e7-bd-b2-e9--a1b117ff0404.html",
+      "title": "特朗普再次试图解雇美联储理事莉莎·库克",
+      "summary": "特朗普高级助手在致莉莎·库克的信中称，鉴于相关指控，总统正“考虑解除你的职务”，并要求她在8月底前做出书面回应。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%AF%95%E5%9B%BE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E8%8E%89%E8%8E%8E-%E5%BA%93%E5%85%8B-9283cd1f",
+      "guid": "WP-WSJS-0003803250",
+      "pub_date": "Sat, 08 Aug 2026 02:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-01191074?size=1&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-86-8d-e6-ac-a1-e8--30d2cf0c5730.html",
       "captured": true,
-      "capture_title": "特朗普签署针对出生公民权的行政令",
+      "capture_title": "特朗普再次试图解雇美联储理事莉莎·库克 - WSJ",
       "error": ""
     },
     {
@@ -134,6 +98,18 @@
       "snapshot": "articles/tibetan-activist-set-himself-on-fire-outside-the-c26df2184d08.html",
       "captured": true,
       "capture_title": "联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？",
+      "error": ""
+    },
+    {
+      "title": "摆脱对华依赖？美国初创公司正押注钠电池",
+      "summary": "与传统的锂基电池相比，新型钠基电池可能更便宜、更耐用、更安全、更可靠。",
+      "link": "https://cn.wsj.com/articles/%E6%91%86%E8%84%B1%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96-%E7%BE%8E%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%8A%BC%E6%B3%A8%E9%92%A0%E7%94%B5%E6%B1%A0-874796a3",
+      "guid": "WP-WSJS-0003803315",
+      "pub_date": "Sat, 08 Aug 2026 04:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-01825102?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e6-91-86-e8-84-b1-e5-af-b9-e5-8d-8e-e4-be-9d-e8--0e17decc2b5f.html",
+      "captured": true,
+      "capture_title": "摆脱对华依赖？美国初创公司正押注钠电池 - WSJ",
       "error": ""
     },
     {
@@ -170,18 +146,6 @@
       "snapshot": "articles/e5-8c-bb-e7-94-9f-e5-8f-8d-e6-84-9f-e6-82-a3-e8--e5cca27a28a3.html",
       "captured": true,
       "capture_title": "医生反感患者用AI解读化验单，但根本拦不住",
-      "error": ""
-    },
-    {
-      "title": "特朗普再次试图解雇美联储理事莉莎·库克",
-      "summary": "特朗普的一名高级助手本周致信莉莎·库克，称鉴于相关指控，总统正“考虑解除你的职务”，并要求她在8月底前做出书面回应。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%AF%95%E5%9B%BE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E8%8E%89%E8%8E%8E-%E5%BA%93%E5%85%8B-9283cd1f",
-      "guid": "WP-WSJS-0003803250",
-      "pub_date": "Sat, 08 Aug 2026 02:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-01191074?size=1&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-86-8d-e6-ac-a1-e8--30d2cf0c5730.html",
-      "captured": true,
-      "capture_title": "特朗普再次试图解雇美联储理事莉莎·库克 - WSJ",
       "error": ""
     },
     {
@@ -302,6 +266,102 @@
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
       "capture_title": "航空公司真的不想让你买最便宜的机票",
+      "error": ""
+    },
+    {
+      "title": "AI热潮正重塑美国经济，深刻程度超乎认知",
+      "summary": "美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。",
+      "link": "https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd",
+      "guid": "WP-WSJS-0003788187",
+      "pub_date": "Tue, 04 Aug 2026 02:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-73773958?size=1.5&width=1280",
+      "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
+      "captured": true,
+      "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知",
+      "error": ""
+    },
+    {
+      "title": "探秘品客生产线：AI如何让每一片薯片都完美",
+      "summary": "薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。",
+      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01",
+      "guid": "WP-WSJS-0003795878",
+      "pub_date": "Thu, 06 Aug 2026 01:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-45838981?size=1.501&width=1280",
+      "snapshot": "articles/e6-8e-a2-e7-a7-98-e5-93-81-e5-ae-a2-e7-94-9f-e4--3a4b181d40c0.html",
+      "captured": true,
+      "capture_title": "探秘品客生产线：AI如何让每一片薯片都完美",
+      "error": ""
+    },
+    {
+      "title": "“直升机父母”正在插手成年子女的职业生涯",
+      "summary": "那些在孩子童年和大学期间一直紧盯着孩子的焦虑父母，在子女长大成人后还是继续担当掌舵人。他们会陪孩子参加求职面试，替孩子联系雇主。",
+      "link": "https://cn.wsj.com/articles/helicopter-parents-adult-children-careers-720848dc",
+      "guid": "WP-WSJS-0003800146",
+      "pub_date": "Fri, 07 Aug 2026 06:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-05043049?size=1.501&width=1280",
+      "snapshot": "articles/helicopter-parents-adult-children-careers-720848-e9892d63ef60.html",
+      "captured": true,
+      "capture_title": "“直升机父母”正在插手成年子女的职业生涯 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖",
+      "summary": "此举是美国政府为摆脱对中国供应商的依赖而推出的一系列财政支持举措中的最新一项。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%86%E5%90%91%E7%94%B5%E6%B1%A0%E5%92%8C%E6%9D%90%E6%96%99%E5%85%AC%E5%8F%B8%E6%8F%90%E4%BE%9B20%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E9%87%91-256b0d0b",
+      "guid": "WP-WSJS-0003803180",
+      "pub_date": "Sat, 08 Aug 2026 01:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-99151112?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--5f7fbbf97e4b.html",
+      "captured": true,
+      "capture_title": "特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖",
+      "error": ""
+    },
+    {
+      "title": "特朗普将对太阳能电池板及组件征收15%关税并设定最低限价",
+      "summary": "特朗普政府此举旨在削弱中国对太阳能系统和半导体关键材料的市场控制。",
+      "link": "https://cn.wsj.com/articles/trump-to-impose-15-tariff-set-minimum-prices-on-solar-panels-and-components-24a8167d",
+      "guid": "WP-WSJS-0003799431",
+      "pub_date": "Thu, 06 Aug 2026 23:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-59983833?size=1.333&width=1280",
+      "snapshot": "articles/trump-to-impose-15-tariff-set-minimum-prices-on--6328e1c714d8.html",
+      "captured": true,
+      "capture_title": "特朗普将对太阳能电池板及组件征收15%关税并设定最低限价",
+      "error": ""
+    },
+    {
+      "title": "中国将加强对美无人机出口管制",
+      "summary": "中国商务部表示，对列入《中华人民共和国两用物项出口管制清单》的无人机及其关键零部件、相关技术对美国出口，逐案从严审核。",
+      "link": "https://cn.wsj.com/articles/chinato-strengthen-curbs-on-drone-exports-to-u-s-0a2515b5",
+      "guid": "WP-WSJS-0003792676",
+      "pub_date": "Wed, 05 Aug 2026 10:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-86309895?size=1.501&width=1280",
+      "snapshot": "articles/chinato-strengthen-curbs-on-drone-exports-to-u-s-e7f2452436c5.html",
+      "captured": true,
+      "capture_title": "中国将加强对美无人机出口管制 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "就业报告缓解加息担忧后，美股创下新高",
+      "summary": "疲软就业报告缓解了对9月加息的担忧，标普500指数上涨0.6%，创下年内第26个历史新高。道指上涨0.3%。纳指涨1.3%。",
+      "link": "https://cn.wsj.com/articles/%E5%B0%B1%E4%B8%9A%E6%8A%A5%E5%91%8A%E7%BC%93%E8%A7%A3%E5%8A%A0%E6%81%AF%E6%8B%85%E5%BF%A7%E5%90%8E-%E7%BE%8E%E8%82%A1%E5%88%9B%E4%B8%8B%E6%96%B0%E9%AB%98-4ab566eb",
+      "guid": "WP-WSJS-0003803091",
+      "pub_date": "Sat, 08 Aug 2026 00:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-01654908?size=1.501&width=1280",
+      "snapshot": "articles/e5-b0-b1-e4-b8-9a-e6-8a-a5-e5-91-8a-e7-bc-93-e8--f027c90eee14.html",
+      "captured": true,
+      "capture_title": "就业报告缓解加息担忧后，美股创下新高",
+      "error": ""
+    },
+    {
+      "title": "特朗普签署针对出生公民权的行政令",
+      "summary": "这两项行政命令旨在扩大不符合出生公民权资格的人群范围，并禁止游客单纯为赴美产子而入境。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E9%92%88%E5%AF%B9%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83%E7%9A%84%E8%A1%8C%E6%94%BF%E4%BB%A4-5c774c90",
+      "guid": "WP-WSJS-0003799386",
+      "pub_date": "Fri, 07 Aug 2026 02:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-67328766?size=1.499&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-ad-be-e7-bd-b2-e9--a1b117ff0404.html",
+      "captured": true,
+      "capture_title": "特朗普签署针对出生公民权的行政令",
       "error": ""
     },
     {
@@ -545,18 +605,6 @@
       "error": ""
     },
     {
-      "title": "探秘品客生产线：AI如何让每一片薯片都完美",
-      "summary": "薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。",
-      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01",
-      "guid": "WP-WSJS-0003795878",
-      "pub_date": "Thu, 06 Aug 2026 01:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-45838981?size=1.501&width=1280",
-      "snapshot": "articles/e6-8e-a2-e7-a7-98-e5-93-81-e5-ae-a2-e7-94-9f-e4--3a4b181d40c0.html",
-      "captured": true,
-      "capture_title": "探秘品客生产线：AI如何让每一片薯片都完美",
-      "error": ""
-    },
-    {
       "title": "他曾斥资复兴底特律市中心，如今又想重塑城市天际线",
       "summary": "吉尔伯特希望在底特律滨河区建一个滨河公园、一个娱乐区、多栋公寓楼，以及一条连接河流与市中心的步行道。",
       "link": "https://cn.wsj.com/articles/%E4%BB%96%E6%9B%BE%E6%96%A5%E8%B5%84%E5%A4%8D%E5%85%B4%E5%BA%95%E7%89%B9%E5%BE%8B%E5%B8%82%E4%B8%AD%E5%BF%83-%E5%A6%82%E4%BB%8A%E5%8F%88%E6%83%B3%E9%87%8D%E5%A1%91%E5%9F%8E%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF-6f232751",
@@ -578,18 +626,6 @@
       "snapshot": "articles/five-charts-that-show-why-the-u-s-and-japan-team-6195b7e5daa2.html",
       "captured": true,
       "capture_title": "图解美日联手提振日圆的五大原因",
-      "error": ""
-    },
-    {
-      "title": "AI热潮正重塑美国经济，深刻程度超乎认知",
-      "summary": "美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。",
-      "link": "https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd",
-      "guid": "WP-WSJS-0003788187",
-      "pub_date": "Tue, 04 Aug 2026 02:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-73773958?size=1.5&width=1280",
-      "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
-      "captured": true,
-      "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/palantir-lifts-guidance-as-revenue-nearly-double-23cee9b3d844.html",
       "captured": true,
       "capture_title": "Palantir股价飙升，收入近乎翻倍，公司上调业绩展望",
-      "error": ""
-    },
-    {
-      "title": "美股擅长制造泡沫，也能从容化解",
-      "summary": "总有一天，会出现一场大规模的泡沫破裂，并拖累整个市场。但至少就目前而言，AI相关股票的回调影响，已几乎被其他领域的上涨完全抵消。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E6%93%85%E9%95%BF%E5%88%B6%E9%80%A0%E6%B3%A1%E6%B2%AB-%E4%B9%9F%E8%83%BD%E4%BB%8E%E5%AE%B9%E5%8C%96%E8%A7%A3-66214a2b",
-      "guid": "WP-WSJS-0003785011",
-      "pub_date": "Mon, 03 Aug 2026 01:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-21027007?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e8-82-a1-e6-93-85-e9-95-bf-e5-88-b6-e9--0d7e15ee026d.html",
-      "captured": true,
-      "capture_title": "美股擅长制造泡沫，也能从容化解",
-      "error": ""
-    },
-    {
-      "title": "克里姆林宫正威逼更多俄罗斯人赴乌克兰参战",
-      "summary": "手段越来越多地包括殴打和操纵。这也引发了俄罗斯分析人士和该国政治阶层猜测，这是否是新一轮征兵的前兆。",
-      "link": "https://cn.wsj.com/articles/%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E6%AD%A3%E5%A8%81%E9%80%BC%E6%9B%B4%E5%A4%9A%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E8%B5%B4%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%82%E6%88%98-31b9879a",
-      "guid": "WP-WSJS-0003785171",
-      "pub_date": "Mon, 03 Aug 2026 03:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-92560120?size=1.501&width=1280",
-      "snapshot": "articles/e5-85-8b-e9-87-8c-e5-a7-86-e6-9e-97-e5-ae-ab-e6--5e56ea8d4143.html",
-      "captured": true,
-      "capture_title": "克里姆林宫正威逼更多俄罗斯人赴乌克兰参战",
-      "error": ""
-    },
-    {
-      "title": "失控AI发动黑客攻击，预示网络混乱新时代到来",
-      "summary": "OpenAI和Anthropic的模型发生“越狱”，印证了安全专家对AI风险的担忧。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%B1%E6%8E%A7ai%E5%8F%91%E5%8A%A8%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-%E9%A2%84%E7%A4%BA%E7%BD%91%E7%BB%9C%E6%B7%B7%E4%B9%B1%E6%96%B0%E6%97%B6%E4%BB%A3%E5%88%B0%E6%9D%A5-e7f140e7",
-      "guid": "WP-WSJS-0003785102",
-      "pub_date": "Mon, 03 Aug 2026 02:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-89414941?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-b1-e6-8e-a7ai-e5-8f-91-e5-8a-a8-e9-bb-91-e-9ae7a906149c.html",
-      "captured": true,
-      "capture_title": "失控AI发动黑客攻击，预示网络混乱新时代到来",
       "error": ""
     }
   ]
