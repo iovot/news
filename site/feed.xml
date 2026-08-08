@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 01:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 04:13:43 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 01:53:35 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 04:13:43 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,7 +35,7 @@
             <pubDate>Fri, 07 Aug 2026 10:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普政府将向电池和材料公司提供20亿美元资金]]></title>
+            <title><![CDATA[特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99151112?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举是美国政府为摆脱对中国供应商的依赖而推出的一系列财政支持举措中的最新一项。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%86%E5%90%91%E7%94%B5%E6%B1%A0%E5%92%8C%E6%9D%90%E6%96%99%E5%85%AC%E5%8F%B8%E6%8F%90%E4%BE%9B20%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E9%87%91-256b0d0b</link>
             <guid isPermaLink="false">WP-WSJS-0003803180</guid>
@@ -63,8 +63,15 @@
             <pubDate>Sat, 08 Aug 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[OpenAI因网络安全担忧暂停Astra模型的部分研发]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-24887404?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。</p>]]></description>
+            <link>https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e</link>
+            <guid isPermaLink="false">WP-WSJS-0003803221</guid>
+            <pubDate>Sat, 08 Aug 2026 02:18:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SpaceX股价再涨15.8%，首个禁售期届满]]></title>
-            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-00481430?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX股价继周四天量股票解禁不跌反涨6.1%后，周五收盘继续大涨15.8%，报每股133.11美元，这距离其135美元的IPO价格仅差几美元。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-00481430?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX股价继周四天量股票解禁不跌反涨6.1%后，周五收盘继续大涨15.8%，报每股133.11美元，距离其135美元的IPO价格仅差几美元。</p>]]></description>
             <link>https://cn.wsj.com/articles/spacex%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E6%9C%9F%E5%B1%8A%E6%BB%A1-%E8%82%A1%E4%BB%B7%E5%86%8D%E6%B6%A815-8-09cc22fc</link>
             <guid isPermaLink="false">WP-WSJS-0003803153</guid>
             <pubDate>Sat, 08 Aug 2026 01:23:00 GMT</pubDate>
@@ -89,13 +96,6 @@
             <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E9%92%88%E5%AF%B9%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83%E7%9A%84%E8%A1%8C%E6%94%BF%E4%BB%A4-5c774c90</link>
             <guid isPermaLink="false">WP-WSJS-0003799386</guid>
             <pubDate>Fri, 07 Aug 2026 02:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-55913376?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>法官周四表示，除了陪审团此前裁定的3.75亿美元民事罚款外，Meta还必须新设立一个规模达5.67亿美元的补救基金。</p>]]></description>
-            <link>https://cn.wsj.com/articles/meta%E8%A2%AB%E5%8B%92%E4%BB%A4%E6%94%AF%E4%BB%989-42%E4%BA%BF%E7%BE%8E%E5%85%83-%E4%BB%A5%E8%A1%A5%E6%95%91%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AF%B9%E5%84%BF%E7%AB%A5%E9%80%A0%E6%88%90%E7%9A%84%E4%BC%A4%E5%AE%B3-80cc9bd6</link>
-            <guid isPermaLink="false">WP-WSJS-0003799747</guid>
-            <pubDate>Fri, 07 Aug 2026 01:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？]]></title>
@@ -126,11 +126,11 @@
             <pubDate>Fri, 07 Aug 2026 02:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db</link>
-            <guid isPermaLink="false">WP-WSJS-0003800148</guid>
-            <pubDate>Fri, 07 Aug 2026 06:33:00 GMT</pubDate>
+            <title><![CDATA[特朗普再次试图解雇美联储理事莉莎·库克]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-01191074?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普的一名高级助手本周致信莉莎·库克，称鉴于相关指控，总统正“考虑解除你的职务”，并要求她在8月底前做出书面回应。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%AF%95%E5%9B%BE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E8%8E%89%E8%8E%8E-%E5%BA%93%E5%85%8B-9283cd1f</link>
+            <guid isPermaLink="false">WP-WSJS-0003803250</guid>
+            <pubDate>Sat, 08 Aug 2026 02:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI最新的骇人里程碑：生成新病毒]]></title>
@@ -182,18 +182,18 @@
             <pubDate>Fri, 07 Aug 2026 04:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db</link>
+            <guid isPermaLink="false">WP-WSJS-0003800148</guid>
+            <pubDate>Fri, 07 Aug 2026 06:33:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[加拿大艾伯塔省省长的终极豪赌：脱加公投]]></title>
             <description><![CDATA[<img width="1280" height="927" src="https://images.wsj.net/im-24759050?size=1.381&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>丹妮尔·史密斯表示，她反对艾伯塔省脱离加拿大，尽管她为一场公投铺平了道路。加拿大高度依赖艾伯塔的油气收入。</p>]]></description>
             <link>https://cn.wsj.com/articles/canada-alberta-independence-vote-022d47bf</link>
             <guid isPermaLink="false">WP-WSJS-0003795996</guid>
             <pubDate>Thu, 06 Aug 2026 02:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌改组AI领导层，资深首席科学家加入离职潮]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41360130?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>谷歌此前已经历了一波人事变动，在发布能与Anthropic和OpenAI的顶级产品相媲美的模型方面也遭遇了延迟。</p>]]></description>
-            <link>https://cn.wsj.com/articles/googleoverhauls-ai-leadership-as-longtime-chief-scientist-joins-wave-of-exits-jeff-dean-81b2a2de</link>
-            <guid isPermaLink="false">WP-WSJS-0003795533</guid>
-            <pubDate>Wed, 05 Aug 2026 23:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[航空公司真的不想让你买最便宜的机票]]></title>
@@ -203,18 +203,18 @@
             <pubDate>Wed, 05 Aug 2026 03:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[探秘品客生产线：AI如何让每一片薯片都完美]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45838981?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01</link>
-            <guid isPermaLink="false">WP-WSJS-0003795878</guid>
-            <pubDate>Thu, 06 Aug 2026 01:14:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AI热潮正重塑美国经济，深刻程度超乎认知]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-73773958?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国经济正把越来越多的鸡蛋放进人工智能这个篮子里。AI影响着从资本投资到购买一部iPhone所需花费的方方面面。</p>]]></description>
             <link>https://cn.wsj.com/articles/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-ad28e6bd</link>
             <guid isPermaLink="false">WP-WSJS-0003788187</guid>
             <pubDate>Tue, 04 Aug 2026 02:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[探秘品客生产线：AI如何让每一片薯片都完美]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45838981?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01</link>
+            <guid isPermaLink="false">WP-WSJS-0003795878</guid>
+            <pubDate>Thu, 06 Aug 2026 01:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“直升机父母”正在插手成年子女的职业生涯]]></title>

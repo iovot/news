@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:06:28.919386+00:00",
+  "generated_at": "2026-08-08T04:28:37.373160+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,7 +17,7 @@
       "error": ""
     },
     {
-      "title": "特朗普政府将向电池和材料公司提供20亿美元资金",
+      "title": "特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖",
       "summary": "此举是美国政府为摆脱对中国供应商的依赖而推出的一系列财政支持举措中的最新一项。",
       "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%86%E5%90%91%E7%94%B5%E6%B1%A0%E5%92%8C%E6%9D%90%E6%96%99%E5%85%AC%E5%8F%B8%E6%8F%90%E4%BE%9B20%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E9%87%91-256b0d0b",
       "guid": "WP-WSJS-0003803180",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-99151112?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--5f7fbbf97e4b.html",
       "captured": true,
-      "capture_title": "特朗普政府将向电池和材料公司提供20亿美元资金 - WSJ",
+      "capture_title": "特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖",
       "error": ""
     },
     {
@@ -61,12 +61,24 @@
       "image_url": "https://images.wsj.net/im-01654908?size=1.501&width=1280",
       "snapshot": "articles/e5-b0-b1-e4-b8-9a-e6-8a-a5-e5-91-8a-e7-bc-93-e8--f027c90eee14.html",
       "captured": true,
-      "capture_title": "就业报告缓解加息担忧后，美股创下新高 - WSJ",
+      "capture_title": "就业报告缓解加息担忧后，美股创下新高",
+      "error": ""
+    },
+    {
+      "title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
+      "summary": "OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。",
+      "link": "https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e",
+      "guid": "WP-WSJS-0003803221",
+      "pub_date": "Sat, 08 Aug 2026 02:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-24887404?size=1.501&width=1280",
+      "snapshot": "articles/openai-e5-9b-a0-e7-bd-91-e7-bb-9c-e5-ae-89-e5-85-a739754e5b08.html",
+      "captured": true,
+      "capture_title": "OpenAI因网络安全担忧暂停Astra模型的部分研发 - WSJ",
       "error": ""
     },
     {
       "title": "SpaceX股价再涨15.8%，首个禁售期届满",
-      "summary": "SpaceX股价继周四天量股票解禁不跌反涨6.1%后，周五收盘继续大涨15.8%，报每股133.11美元，这距离其135美元的IPO价格仅差几美元。",
+      "summary": "SpaceX股价继周四天量股票解禁不跌反涨6.1%后，周五收盘继续大涨15.8%，报每股133.11美元，距离其135美元的IPO价格仅差几美元。",
       "link": "https://cn.wsj.com/articles/spacex%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E6%9C%9F%E5%B1%8A%E6%BB%A1-%E8%82%A1%E4%BB%B7%E5%86%8D%E6%B6%A815-8-09cc22fc",
       "guid": "WP-WSJS-0003803153",
       "pub_date": "Sat, 08 Aug 2026 01:23:00 GMT",
@@ -110,18 +122,6 @@
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-ad-be-e7-bd-b2-e9--a1b117ff0404.html",
       "captured": true,
       "capture_title": "特朗普签署针对出生公民权的行政令",
-      "error": ""
-    },
-    {
-      "title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
-      "summary": "法官周四表示，除了陪审团此前裁定的3.75亿美元民事罚款外，Meta还必须新设立一个规模达5.67亿美元的补救基金。",
-      "link": "https://cn.wsj.com/articles/meta%E8%A2%AB%E5%8B%92%E4%BB%A4%E6%94%AF%E4%BB%989-42%E4%BA%BF%E7%BE%8E%E5%85%83-%E4%BB%A5%E8%A1%A5%E6%95%91%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AF%B9%E5%84%BF%E7%AB%A5%E9%80%A0%E6%88%90%E7%9A%84%E4%BC%A4%E5%AE%B3-80cc9bd6",
-      "guid": "WP-WSJS-0003799747",
-      "pub_date": "Fri, 07 Aug 2026 01:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-55913376?size=1.501&width=1280",
-      "snapshot": "articles/meta-e8-a2-ab-e5-8b-92-e4-bb-a4-e6-94-af-e4-bb-9-a7ecf3df2c29.html",
-      "captured": true,
-      "capture_title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
       "error": ""
     },
     {
@@ -173,15 +173,15 @@
       "error": ""
     },
     {
-      "title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
-      "summary": "生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。",
-      "link": "https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db",
-      "guid": "WP-WSJS-0003800148",
-      "pub_date": "Fri, 07 Aug 2026 06:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280",
-      "snapshot": "articles/e7-9b-b4-e9-9d-a2ai--e6-9c-ab-e6-97-a5--e5-86-b2-ddac9a657557.html",
+      "title": "特朗普再次试图解雇美联储理事莉莎·库克",
+      "summary": "特朗普的一名高级助手本周致信莉莎·库克，称鉴于相关指控，总统正“考虑解除你的职务”，并要求她在8月底前做出书面回应。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%AF%95%E5%9B%BE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E8%8E%89%E8%8E%8E-%E5%BA%93%E5%85%8B-9283cd1f",
+      "guid": "WP-WSJS-0003803250",
+      "pub_date": "Sat, 08 Aug 2026 02:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-01191074?size=1&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-86-8d-e6-ac-a1-e8--30d2cf0c5730.html",
       "captured": true,
-      "capture_title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
+      "capture_title": "特朗普再次试图解雇美联储理事莉莎·库克 - WSJ",
       "error": ""
     },
     {
@@ -269,6 +269,18 @@
       "error": ""
     },
     {
+      "title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
+      "summary": "生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。",
+      "link": "https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db",
+      "guid": "WP-WSJS-0003800148",
+      "pub_date": "Fri, 07 Aug 2026 06:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280",
+      "snapshot": "articles/e7-9b-b4-e9-9d-a2ai--e6-9c-ab-e6-97-a5--e5-86-b2-ddac9a657557.html",
+      "captured": true,
+      "capture_title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
+      "error": ""
+    },
+    {
       "title": "加拿大艾伯塔省省长的终极豪赌：脱加公投",
       "summary": "丹妮尔·史密斯表示，她反对艾伯塔省脱离加拿大，尽管她为一场公投铺平了道路。加拿大高度依赖艾伯塔的油气收入。",
       "link": "https://cn.wsj.com/articles/canada-alberta-independence-vote-022d47bf",
@@ -281,18 +293,6 @@
       "error": ""
     },
     {
-      "title": "谷歌改组AI领导层，资深首席科学家加入离职潮",
-      "summary": "谷歌此前已经历了一波人事变动，在发布能与Anthropic和OpenAI的顶级产品相媲美的模型方面也遭遇了延迟。",
-      "link": "https://cn.wsj.com/articles/googleoverhauls-ai-leadership-as-longtime-chief-scientist-joins-wave-of-exits-jeff-dean-81b2a2de",
-      "guid": "WP-WSJS-0003795533",
-      "pub_date": "Wed, 05 Aug 2026 23:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-41360130?size=1.501&width=1280",
-      "snapshot": "articles/googleoverhauls-ai-leadership-as-longtime-chief--bffabb5c22c6.html",
-      "captured": true,
-      "capture_title": "谷歌改组AI领导层，资深首席科学家加入离职潮",
-      "error": ""
-    },
-    {
       "title": "航空公司真的不想让你买最便宜的机票",
       "summary": "没有任何附加服务的基础经济舱一直都有诸多限制，如今规矩更是越来越多。",
       "link": "https://cn.wsj.com/articles/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%83%B3%E8%AE%A9%E4%BD%A0%E4%B9%B0%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E6%9C%BA%E7%A5%A8-870c45d7",
@@ -302,6 +302,30 @@
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
       "capture_title": "航空公司真的不想让你买最便宜的机票",
+      "error": ""
+    },
+    {
+      "title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
+      "summary": "法官周四表示，除了陪审团此前裁定的3.75亿美元民事罚款外，Meta还必须新设立一个规模达5.67亿美元的补救基金。",
+      "link": "https://cn.wsj.com/articles/meta%E8%A2%AB%E5%8B%92%E4%BB%A4%E6%94%AF%E4%BB%989-42%E4%BA%BF%E7%BE%8E%E5%85%83-%E4%BB%A5%E8%A1%A5%E6%95%91%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AF%B9%E5%84%BF%E7%AB%A5%E9%80%A0%E6%88%90%E7%9A%84%E4%BC%A4%E5%AE%B3-80cc9bd6",
+      "guid": "WP-WSJS-0003799747",
+      "pub_date": "Fri, 07 Aug 2026 01:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-55913376?size=1.501&width=1280",
+      "snapshot": "articles/meta-e8-a2-ab-e5-8b-92-e4-bb-a4-e6-94-af-e4-bb-9-a7ecf3df2c29.html",
+      "captured": true,
+      "capture_title": "Meta被勒令支付9.42亿美元，以补救社交媒体对儿童造成的伤害",
+      "error": ""
+    },
+    {
+      "title": "谷歌改组AI领导层，资深首席科学家加入离职潮",
+      "summary": "谷歌此前已经历了一波人事变动，在发布能与Anthropic和OpenAI的顶级产品相媲美的模型方面也遭遇了延迟。",
+      "link": "https://cn.wsj.com/articles/googleoverhauls-ai-leadership-as-longtime-chief-scientist-joins-wave-of-exits-jeff-dean-81b2a2de",
+      "guid": "WP-WSJS-0003795533",
+      "pub_date": "Wed, 05 Aug 2026 23:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-41360130?size=1.501&width=1280",
+      "snapshot": "articles/googleoverhauls-ai-leadership-as-longtime-chief--bffabb5c22c6.html",
+      "captured": true,
+      "capture_title": "谷歌改组AI领导层，资深首席科学家加入离职潮",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/e5-a4-b1-e6-8e-a7ai-e5-8f-91-e5-8a-a8-e9-bb-91-e-9ae7a906149c.html",
       "captured": true,
       "capture_title": "失控AI发动黑客攻击，预示网络混乱新时代到来",
-      "error": ""
-    },
-    {
-      "title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？",
-      "summary": "面对充斥着机器生成内容的社交动态，有哪些实用的建议。",
-      "link": "https://cn.wsj.com/articles/ai-slop-blurring-reality-podcast-36d44383",
-      "guid": "WP-WSJS-0003785175",
-      "pub_date": "Mon, 03 Aug 2026 03:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-38514513?size=1.501&width=1280",
-      "snapshot": "articles/ai-slop-blurring-reality-podcast-36d44383-3cfe798e4de0.html",
-      "captured": true,
-      "capture_title": "AI图片无处不在：它们如何影响大脑，我们又该如何应对？",
-      "error": ""
-    },
-    {
-      "title": "美国与盟友搁置分歧，向中国展示联合海上力量",
-      "summary": "“环太平洋”军演规模和范围的不断扩大表明，尽管特朗普对合作伙伴提出批评，但美军正与其盟友开展更紧密的合作。",
-      "link": "https://cn.wsj.com/articles/u-s-allies-put-frictions-aside-showing-china-combined-naval-might-43d791da",
-      "guid": "WP-WSJS-0003785029",
-      "pub_date": "Mon, 03 Aug 2026 02:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-09338930?size=1.499&width=1276",
-      "snapshot": "articles/u-s-allies-put-frictions-aside-showing-china-com-d66953e52e8e.html",
-      "captured": true,
-      "capture_title": "美国与盟友搁置分歧，向中国展示联合海上力量",
       "error": ""
     }
   ]
