@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:43:30.342066+00:00",
+  "generated_at": "2026-08-10T16:03:27.507565+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-60183419?size=1.499&width=1280",
       "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e6-ad-a3-e5--6e0694ef4802.html",
       "captured": true,
-      "capture_title": "伊朗战争正助力中国电动汽车颠覆全球汽车市场 - WSJ",
+      "capture_title": "伊朗战争正助力中国电动汽车颠覆全球汽车市场",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-82697931?size=1.501&width=1280",
       "snapshot": "articles/e6-89-8e-e5-85-8b-e4-bc-af-e6-a0-bc-e5-8f-91-e8--ae6afa860d84.html",
       "captured": true,
-      "capture_title": "扎克伯格发表6,500字长文阐述新AI愿景 - WSJ",
+      "capture_title": "扎克伯格发表6,500字长文阐述新AI愿景",
       "error": ""
     },
     {
