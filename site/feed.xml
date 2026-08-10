@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 02:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 04:42:23 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 02:05:46 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 04:42:23 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,46 +28,39 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[中国的新出口引擎：为全球工厂供货]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39271509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80</link>
-            <guid isPermaLink="false">WP-WSJS-0003800460</guid>
-            <pubDate>Fri, 07 Aug 2026 10:51:00 GMT</pubDate>
+            <title><![CDATA[古巴石油告急，正借力中国发展光伏]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-06639848?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>转向可再生能源帮助古巴抵御了来自华盛顿日益增长的压力。随着这个岛国的能源危机日益加深，中国企业提供的太阳能电池板在古巴各地涌现。</p>]]></description>
+            <link>https://cn.wsj.com/articles/cuba-china-solar-power-0c18f842</link>
+            <guid isPermaLink="false">WP-WSJS-0003804858</guid>
+            <pubDate>Mon, 10 Aug 2026 01:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国出口增长保持强劲，尽管美中紧张关系再度升温]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92449789?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>受全球对AI产品持续强劲的需求推动，中国7月份出口同比增长23.9%，不过增幅较6月份的27.0%略有回落。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-export-growth-remains-robust-despite-renewed-u-s-tensions-ac34a9bd</link>
-            <guid isPermaLink="false">WP-WSJS-0003800039</guid>
-            <pubDate>Fri, 07 Aug 2026 03:33:00 GMT</pubDate>
+            <title><![CDATA[苹果正测试中国长鑫存储芯片，以应对供应困境]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-97877759?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士透露，苹果已在iPhone和MacBook等产品线上测试中国长鑫的存储芯片，并就零部件供应事宜与长鑫进行了初步谈判。</p>]]></description>
+            <link>https://cn.wsj.com/articles/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-cxmt-5846bd0b</link>
+            <guid isPermaLink="false">WP-WSJS-0003804965</guid>
+            <pubDate>Mon, 10 Aug 2026 02:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国7月通胀降温幅度超预期]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-83721955?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国上月消费者价格和出厂价格增长放缓且幅度超出预期，这凸显出国内需求依然疲软，同时也反映了极端天气及油价下跌带来的影响。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-inflation-cools-more-than-expected-in-july-7a334b3a</link>
-            <guid isPermaLink="false">WP-WSJS-0003804708</guid>
-            <pubDate>Sun, 09 Aug 2026 23:21:00 GMT</pubDate>
+            <title><![CDATA[台湾因军事演习下调网速，但民众反应淡定]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49013668?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>台湾上周推送紧急警报，旨在提醒公众防范中国发动攻击的情况下可能出现的断网风险。但许多民众似乎对网络降速演练并不在意，或并不知情。</p>]]></description>
+            <link>https://cn.wsj.com/articles/taiwan-war-drills-internet-speed-207817dd</link>
+            <guid isPermaLink="false">WP-WSJS-0003805006</guid>
+            <pubDate>Mon, 10 Aug 2026 03:27:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[关于中国出口热潮，你需要了解的三件事]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92449789?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>今年中国出口激增，在推动经济增长的同时，也可能加剧与贸易伙伴的紧张关系。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-export-growth-remains-robust-despite-renewed-u-s-tensions-04823787</link>
-            <guid isPermaLink="false">WP-WSJS-0003804705</guid>
-            <pubDate>Sun, 09 Aug 2026 23:17:00 GMT</pubDate>
+            <title><![CDATA[特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34245981?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>德黑兰方面提出了要求美方做出重大让步的新条件，而就在几天前，白宫还曾对外释放信号，称有望达成一项旨在恢复商业通航的协议。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-strait-of-hormuz-opening-iran-negotiations-a24eedac</link>
+            <guid isPermaLink="false">WP-WSJS-0003804922</guid>
+            <pubDate>Mon, 10 Aug 2026 02:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗要求美国撤军以开放霍尔木兹海峡]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-77932388?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗一名高级官员为开放霍尔木兹海峡提出了一系列苛刻要求，同时阿联酋表示伊朗对其一艘船只发动了导弹袭击。</p>]]></description>
-            <link>https://cn.wsj.com/articles/irandemands-u-s-withdrawal-to-open-hormuz-e7915661</link>
-            <guid isPermaLink="false">WP-WSJS-0003804752</guid>
-            <pubDate>Sun, 09 Aug 2026 23:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[强劲财报助推美股延续创纪录涨势]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36243135?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国一些最大公司的强劲财报正推动主要指数创下新高，这在一定程度上缓解了人们对AI支出和通胀压力的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/blockbuster-earnings-bolster-stocks-record-run-bbbb3534</link>
-            <guid isPermaLink="false">WP-WSJS-0003804763</guid>
-            <pubDate>Mon, 10 Aug 2026 00:03:00 GMT</pubDate>
+            <title><![CDATA[生活成本焦虑发酵，共和党“经济牌”失灵]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-858616?size=1.5005861664712778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656</link>
+            <guid isPermaLink="false">WP-WSJS-0003805043</guid>
+            <pubDate>Mon, 10 Aug 2026 04:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[亨特透露拜登癌症已扩散至“骨骼及其他部位”]]></title>
@@ -77,32 +70,11 @@
             <pubDate>Mon, 10 Aug 2026 00:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国7月就业岗位意外减少2.3万，失业率小幅回落]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-19180473?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国就业市场7月份出现就业岗位流失，这一意外萎缩，可能会在美国经济正面临高通胀之际，引发外界对其基本面实力的新一轮质疑。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD7%E6%9C%88%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D%E6%84%8F%E5%A4%96%E5%87%8F%E5%B0%912-3%E4%B8%87-%E5%A4%B1%E4%B8%9A%E7%8E%87%E5%B0%8F%E5%B9%85%E5%9B%9E%E8%90%BD-f4a9b642</link>
-            <guid isPermaLink="false">WP-WSJS-0003803110</guid>
-            <pubDate>Sat, 08 Aug 2026 00:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美情报部门预警：普京或发动有限攻击试探北约决心]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82561755?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国此前曾评估认为，只要普京仍在乌克兰作战，就不会去挑衅北约成员国。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E6%83%85%E6%8A%A5%E9%83%A8%E9%97%A8%E9%A2%84%E8%AD%A6-%E6%99%AE%E4%BA%AC%E6%88%96%E5%8F%91%E5%8A%A8%E6%9C%89%E9%99%90%E6%94%BB%E5%87%BB%E8%AF%95%E6%8E%A2%E5%8C%97%E7%BA%A6%E5%86%B3%E5%BF%83-03f69a0c</link>
-            <guid isPermaLink="false">WP-WSJS-0003799958</guid>
-            <pubDate>Fri, 07 Aug 2026 03:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普再次试图解雇美联储理事莉莎·库克]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-01191074?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普高级助手在致莉莎·库克的信中称，鉴于相关指控，总统正“考虑解除你的职务”，并要求她在8月底前做出书面回应。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%AF%95%E5%9B%BE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E8%8E%89%E8%8E%8E-%E5%BA%93%E5%85%8B-9283cd1f</link>
-            <guid isPermaLink="false">WP-WSJS-0003803250</guid>
-            <pubDate>Sat, 08 Aug 2026 02:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[古巴石油告急，正借力中国发展光伏]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-06639848?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>转向可再生能源帮助古巴抵御了来自华盛顿日益增长的压力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/cuba-china-solar-power-0c18f842</link>
-            <guid isPermaLink="false">WP-WSJS-0003804858</guid>
-            <pubDate>Mon, 10 Aug 2026 01:53:00 GMT</pubDate>
+            <title><![CDATA[强劲财报助推美股延续创纪录涨势]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36243135?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国一些最大公司的强劲财报正推动主要指数创下新高，这在一定程度上缓解了人们对AI支出和通胀压力的担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/blockbuster-earnings-bolster-stocks-record-run-bbbb3534</link>
+            <guid isPermaLink="false">WP-WSJS-0003804763</guid>
+            <pubDate>Mon, 10 Aug 2026 00:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[富途遭中国政府整顿，亿万富豪李华事业受阻]]></title>
@@ -110,6 +82,20 @@
             <link>https://cn.wsj.com/articles/this-billionaire-became-chinas-charles-schwab-then-beijing-cracked-down-5ee91325</link>
             <guid isPermaLink="false">WP-WSJS-0003804861</guid>
             <pubDate>Mon, 10 Aug 2026 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国的新出口引擎：为全球工厂供货]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39271509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80</link>
+            <guid isPermaLink="false">WP-WSJS-0003800460</guid>
+            <pubDate>Fri, 07 Aug 2026 10:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推销SpaceX的梦想容易，如今马斯克必须顶住高压]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70808617?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX在上周经历高达3,000亿美元的市值剧烈波动，使马斯克重新陷入艰难的“实干模式”：他必须努力兑现此前IPO时所许下的高远承诺。</p>]]></description>
+            <link>https://cn.wsj.com/articles/selling-the-dream-of-spacex-was-the-easy-part-now-elon-musk-has-to-hang-on-28cbf1a9</link>
+            <guid isPermaLink="false">WP-WSJS-0003804987</guid>
+            <pubDate>Mon, 10 Aug 2026 03:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[摆脱对华依赖？美国初创公司正押注钠电池]]></title>
@@ -126,11 +112,18 @@
             <pubDate>Sat, 08 Aug 2026 02:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[台湾演练旨在挫败中国入侵的作战计划]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65508134?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>台湾今年的“汉光”演习将检验为抵御中国军队而制定的新计划和战术，包括从美国和伊朗战争中汲取的经验教训。</p>]]></description>
-            <link>https://cn.wsj.com/articles/taiwan-tests-war-plans-to-thwart-chinese-invasion-ee1495b0</link>
-            <guid isPermaLink="false">WP-WSJS-0003796167</guid>
-            <pubDate>Thu, 06 Aug 2026 03:51:00 GMT</pubDate>
+            <title><![CDATA[伯克希尔哈撒韦换帅后开始动用巨额现金储备]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-52497616?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伯克希尔第二季度利润增长逾一倍，新CEO阿贝尔动用了部分庞大的现金储备，回购公司股票，并且三年多来首次出现股票买入额超过卖出额。</p>]]></description>
+            <link>https://cn.wsj.com/articles/berkshire-hathaway-earnings-q2-2026-brk-a-stock-1084060c</link>
+            <guid isPermaLink="false">WP-WSJS-0003804740</guid>
+            <pubDate>Sun, 09 Aug 2026 23:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私募信贷面临的压力日益加剧，尽管业内持乐观基调]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-91361873?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》的一项分析显示，违约率正触及近期高点，对贷款健康状况的内部评估预示着未来的日子将更加艰难。</p>]]></description>
+            <link>https://cn.wsj.com/articles/private-credit-is-under-growing-strain-despite-industrys-upbeat-tone-282c4984</link>
+            <guid isPermaLink="false">WP-WSJS-0003804960</guid>
+            <pubDate>Mon, 10 Aug 2026 02:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]></title>
@@ -138,13 +131,6 @@
             <link>https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db</link>
             <guid isPermaLink="false">WP-WSJS-0003800148</guid>
             <pubDate>Fri, 07 Aug 2026 06:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦换帅后开始动用巨额现金储备]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-52497616?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伯克希尔第二季度利润增长逾一倍，新CEO阿贝尔动用了部分庞大的现金储备，回购公司股票，并且三年多来首次出现股票买入额超过卖出额。</p>]]></description>
-            <link>https://cn.wsj.com/articles/berkshire-hathaway-earnings-q2-2026-brk-a-stock-1084060c</link>
-            <guid isPermaLink="false">WP-WSJS-0003804740</guid>
-            <pubDate>Sun, 09 Aug 2026 23:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国陆军向私营企业开放试验场，以助力打破武器瓶颈]]></title>
@@ -166,13 +152,6 @@
             <link>https://cn.wsj.com/articles/china-sunitree-to-raise-900-million-in-shanghai-initial-public-offering-22fd4174</link>
             <guid isPermaLink="false">WP-WSJS-0003800022</guid>
             <pubDate>Fri, 07 Aug 2026 03:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国对Palo Alto Networks产品启动网络安全审查]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-86147461?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在中国官方宣布针对美国近期限制措施的一系列反制举措一天后，中方对派拓公司在华销售的产品实施审查。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinalaunches-cybersecurity-probe-into-palo-alto-networks-products-f52d766d</link>
-            <guid isPermaLink="false">WP-WSJS-0003796673</guid>
-            <pubDate>Thu, 06 Aug 2026 10:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[习近平想要强势人民币，中国经济却在拖后腿]]></title>
