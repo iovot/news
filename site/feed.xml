@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 04:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 07:49:14 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 04:42:23 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 07:49:14 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -56,18 +56,18 @@
             <pubDate>Mon, 10 Aug 2026 02:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[生活成本焦虑发酵，共和党“经济牌”失灵]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-858616?size=1.5005861664712778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656</link>
-            <guid isPermaLink="false">WP-WSJS-0003805043</guid>
-            <pubDate>Mon, 10 Aug 2026 04:26:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[亨特透露拜登癌症已扩散至“骨骼及其他部位”]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-54137438?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>拜登的儿子采访时称，“这非常痛苦，在很多方面都极其折磨人。”83岁的老拜登正准备出版一部关于其总统任期的回忆录。</p>]]></description>
             <link>https://cn.wsj.com/articles/hunter-bidens-comments-on-dads-cancer-shed-new-light-on-ex-presidents-life-a5cdc06c</link>
             <guid isPermaLink="false">WP-WSJS-0003804777</guid>
             <pubDate>Mon, 10 Aug 2026 00:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生活成本焦虑发酵，共和党“经济牌”失灵]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-74579614?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656</link>
+            <guid isPermaLink="false">WP-WSJS-0003805043</guid>
+            <pubDate>Mon, 10 Aug 2026 04:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[强劲财报助推美股延续创纪录涨势]]></title>
@@ -112,6 +112,20 @@
             <pubDate>Sat, 08 Aug 2026 02:18:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[私募信贷基金的流动性如何？这取决于你如何定义“流动性”]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-18819815?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>私营信贷基金经理对该指标的报告方式各异，部分人甚至通过激进的计算手法来对外展示实力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-liquid-are-private-credit-funds-it-depends-how-you-define-liquidity-9a2833b8</link>
+            <guid isPermaLink="false">WP-WSJS-0003805139</guid>
+            <pubDate>Mon, 10 Aug 2026 06:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩尔线程计划在香港进行IPO]]></title>
+            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-39086981?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>摩尔线程计划在香港上市，这令寻求利用香港市场获得新资本的中国芯片公司又多了一家。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chineseai-chip-maker-moore-threads-planning-hong-kong-ipo-51d08965</link>
+            <guid isPermaLink="false">WP-WSJS-0003805103</guid>
+            <pubDate>Mon, 10 Aug 2026 05:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[伯克希尔哈撒韦换帅后开始动用巨额现金储备]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-52497616?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伯克希尔第二季度利润增长逾一倍，新CEO阿贝尔动用了部分庞大的现金储备，回购公司股票，并且三年多来首次出现股票买入额超过卖出额。</p>]]></description>
             <link>https://cn.wsj.com/articles/berkshire-hathaway-earnings-q2-2026-brk-a-stock-1084060c</link>
@@ -138,20 +152,6 @@
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B%E5%90%91%E7%A7%81%E8%90%A5%E4%BC%81%E4%B8%9A%E5%BC%80%E6%94%BE%E8%AF%95%E9%AA%8C%E5%9C%BA-%E4%BB%A5%E5%8A%A9%E5%8A%9B%E6%89%93%E7%A0%B4%E6%AD%A6%E5%99%A8%E7%93%B6%E9%A2%88-e2e93990</link>
             <guid isPermaLink="false">WP-WSJS-0003803255</guid>
             <pubDate>Sat, 08 Aug 2026 02:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[远景大型可再生能源AI数据中心投产]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-51444739?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国绿色科技公司远景在内蒙古投产一座由可再生能源供电的大型数据中心，以应对日益高涨的AI算力基础设施需求。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-senvision-commissions-giant-renewable-powered-ai-data-center-eb4345f0</link>
-            <guid isPermaLink="false">WP-WSJS-0003800318</guid>
-            <pubDate>Fri, 07 Aug 2026 08:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宇树科技拟通过上海IPO筹资9亿美元]]></title>
-            <description><![CDATA[<img width="1280" height="815" src="https://images.wsj.net/im-99044805?size=1.57&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宇树科技已将其上海IPO发行价定为每股人民币150.8元，成为首家在内地市场上市的人形机器人企业。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-sunitree-to-raise-900-million-in-shanghai-initial-public-offering-22fd4174</link>
-            <guid isPermaLink="false">WP-WSJS-0003800022</guid>
-            <pubDate>Fri, 07 Aug 2026 03:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[习近平想要强势人民币，中国经济却在拖后腿]]></title>
@@ -196,11 +196,11 @@
             <pubDate>Wed, 05 Aug 2026 03:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[热狗华丽转身：从平民美食卖到100美元]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-35530394?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高级配料、奢华的摆盘和超大份量正将热狗推向高级料理的行列。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%83%AD%E7%8B%97%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%8E%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F%E5%8D%96%E5%88%B0100%E7%BE%8E%E5%85%83-db33992b</link>
-            <guid isPermaLink="false">WP-WSJS-0003800038</guid>
-            <pubDate>Fri, 07 Aug 2026 04:23:00 GMT</pubDate>
+            <title><![CDATA[美国人正周游世界，势不可挡]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-94467081?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在强劲经济推动下，曾经喜欢宅家的美国人正转变为热情的国际旅行者；富裕银发一族和追求社交媒体热潮的新世代还在迅速涌入那些鲜为人知的目的地。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-rise-of-the-unstoppable-american-tourist-fc401473</link>
+            <guid isPermaLink="false">WP-WSJS-0003805024</guid>
+            <pubDate>Mon, 10 Aug 2026 04:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[探秘品客生产线：AI如何让每一片薯片都完美]]></title>
@@ -210,11 +210,11 @@
             <pubDate>Thu, 06 Aug 2026 01:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[佛州代孕母亲、中国生父与夹缝中的婴儿：一起跨国抚养权纠纷案]]></title>
-            <description><![CDATA[<img width="1280" height="1675" src="https://images.wsj.net/im-22428667?size=0.764&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一起涉及美中两地的复杂抚养权纠纷案，揭示了美国处于监管盲区的代孕产业在遇到变故时，无法为意向父母、代孕母亲及婴儿三方提供有效保障。</p>]]></description>
-            <link>https://cn.wsj.com/articles/a-florida-surrogate-a-father-in-china-and-the-babies-caught-between-bbdb23b2</link>
-            <guid isPermaLink="false">WP-WSJS-0003785133</guid>
-            <pubDate>Mon, 03 Aug 2026 03:23:00 GMT</pubDate>
+            <title><![CDATA[热狗华丽转身：从平民美食卖到100美元]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-35530394?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高级配料、奢华的摆盘和超大份量正将热狗推向高级料理的行列。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%83%AD%E7%8B%97%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%8E%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F%E5%8D%96%E5%88%B0100%E7%BE%8E%E5%85%83-db33992b</link>
+            <guid isPermaLink="false">WP-WSJS-0003800038</guid>
+            <pubDate>Fri, 07 Aug 2026 04:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:47:19.242157+00:00",
+  "generated_at": "2026-08-10T07:52:32.816079+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-97877759?size=1.499&width=1280",
       "snapshot": "articles/apple-tests-chinese-memory-chips-as-supply-squee-0047d6e00712.html",
       "captured": true,
-      "capture_title": "苹果正测试中国长鑫存储芯片，以应对供应困境 - WSJ",
+      "capture_title": "苹果正测试中国长鑫存储芯片，以应对供应困境",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-49013668?size=1.501&width=1280",
       "snapshot": "articles/taiwan-war-drills-internet-speed-207817dd-1810b689b04b.html",
       "captured": true,
-      "capture_title": "台湾因军事演习下调网速，但民众反应淡定 - WSJ",
+      "capture_title": "台湾因军事演习下调网速，但民众反应淡定",
       "error": ""
     },
     {
@@ -49,19 +49,7 @@
       "image_url": "https://images.wsj.net/im-34245981?size=1.501&width=1280",
       "snapshot": "articles/trump-strait-of-hormuz-opening-iran-negotiations-949a1080a78c.html",
       "captured": true,
-      "capture_title": "特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "生活成本焦虑发酵，共和党“经济牌”失灵",
-      "summary": "对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。",
-      "link": "https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656",
-      "guid": "WP-WSJS-0003805043",
-      "pub_date": "Mon, 10 Aug 2026 04:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-858616?size=1.5005861664712778&width=1280",
-      "snapshot": "articles/e7-94-9f-e6-b4-bb-e6-88-90-e6-9c-ac-e7-84-a6-e8--83c32446eb2d.html",
-      "captured": true,
-      "capture_title": "生活成本焦虑发酵，共和党“经济牌”失灵 - WSJ",
+      "capture_title": "特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算",
       "error": ""
     },
     {
@@ -74,6 +62,18 @@
       "snapshot": "articles/hunter-bidens-comments-on-dads-cancer-shed-new-l-3392fbfcca32.html",
       "captured": true,
       "capture_title": "亨特透露拜登癌症已扩散至“骨骼及其他部位”",
+      "error": ""
+    },
+    {
+      "title": "生活成本焦虑发酵，共和党“经济牌”失灵",
+      "summary": "对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。",
+      "link": "https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656",
+      "guid": "WP-WSJS-0003805043",
+      "pub_date": "Mon, 10 Aug 2026 04:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-74579614?size=1.5&width=1280",
+      "snapshot": "articles/e7-94-9f-e6-b4-bb-e6-88-90-e6-9c-ac-e7-84-a6-e8--83c32446eb2d.html",
+      "captured": true,
+      "capture_title": "生活成本焦虑发酵，共和党“经济牌”失灵",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-70808617?size=1.501&width=1280",
       "snapshot": "articles/selling-the-dream-of-spacex-was-the-easy-part-no-c715b15327fd.html",
       "captured": true,
-      "capture_title": "推销SpaceX的梦想容易，如今马斯克必须顶住高压 - WSJ",
+      "capture_title": "推销SpaceX的梦想容易，如今马斯克必须顶住高压",
       "error": ""
     },
     {
@@ -149,6 +149,30 @@
       "error": ""
     },
     {
+      "title": "私募信贷基金的流动性如何？这取决于你如何定义“流动性”",
+      "summary": "私营信贷基金经理对该指标的报告方式各异，部分人甚至通过激进的计算手法来对外展示实力。",
+      "link": "https://cn.wsj.com/articles/how-liquid-are-private-credit-funds-it-depends-how-you-define-liquidity-9a2833b8",
+      "guid": "WP-WSJS-0003805139",
+      "pub_date": "Mon, 10 Aug 2026 06:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-18819815?size=1&width=1280",
+      "snapshot": "articles/how-liquid-are-private-credit-funds-it-depends-h-12aa3cbbf84e.html",
+      "captured": true,
+      "capture_title": "私募信贷基金的流动性如何？这取决于你如何定义“流动性” - WSJ",
+      "error": ""
+    },
+    {
+      "title": "摩尔线程计划在香港进行IPO",
+      "summary": "摩尔线程计划在香港上市，这令寻求利用香港市场获得新资本的中国芯片公司又多了一家。",
+      "link": "https://cn.wsj.com/articles/chineseai-chip-maker-moore-threads-planning-hong-kong-ipo-51d08965",
+      "guid": "WP-WSJS-0003805103",
+      "pub_date": "Mon, 10 Aug 2026 05:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-39086981?size=1.33&width=1280",
+      "snapshot": "articles/chineseai-chip-maker-moore-threads-planning-hong-2e1db3a34c62.html",
+      "captured": true,
+      "capture_title": "摩尔线程计划在香港进行IPO - WSJ",
+      "error": ""
+    },
+    {
       "title": "伯克希尔哈撒韦换帅后开始动用巨额现金储备",
       "summary": "伯克希尔第二季度利润增长逾一倍，新CEO阿贝尔动用了部分庞大的现金储备，回购公司股票，并且三年多来首次出现股票买入额超过卖出额。",
       "link": "https://cn.wsj.com/articles/berkshire-hathaway-earnings-q2-2026-brk-a-stock-1084060c",
@@ -169,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-91361873?size=1.5&width=1280",
       "snapshot": "articles/private-credit-is-under-growing-strain-despite-i-d4e2a241d012.html",
       "captured": true,
-      "capture_title": "私募信贷面临的压力日益加剧，尽管业内持乐观基调 - WSJ",
+      "capture_title": "私募信贷面临的压力日益加剧，尽管业内持乐观基调",
       "error": ""
     },
     {
@@ -194,30 +218,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e9-99-86-e5-86-9b-e5-90-91-e7--478840916ead.html",
       "captured": true,
       "capture_title": "美国陆军向私营企业开放试验场，以助力打破武器瓶颈",
-      "error": ""
-    },
-    {
-      "title": "远景大型可再生能源AI数据中心投产",
-      "summary": "中国绿色科技公司远景在内蒙古投产一座由可再生能源供电的大型数据中心，以应对日益高涨的AI算力基础设施需求。",
-      "link": "https://cn.wsj.com/articles/china-senvision-commissions-giant-renewable-powered-ai-data-center-eb4345f0",
-      "guid": "WP-WSJS-0003800318",
-      "pub_date": "Fri, 07 Aug 2026 08:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-51444739?size=1.5&width=1280",
-      "snapshot": "articles/china-senvision-commissions-giant-renewable-powe-aa7f1acad309.html",
-      "captured": true,
-      "capture_title": "远景大型可再生能源AI数据中心投产",
-      "error": ""
-    },
-    {
-      "title": "宇树科技拟通过上海IPO筹资9亿美元",
-      "summary": "宇树科技已将其上海IPO发行价定为每股人民币150.8元，成为首家在内地市场上市的人形机器人企业。",
-      "link": "https://cn.wsj.com/articles/china-sunitree-to-raise-900-million-in-shanghai-initial-public-offering-22fd4174",
-      "guid": "WP-WSJS-0003800022",
-      "pub_date": "Fri, 07 Aug 2026 03:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-99044805?size=1.57&width=1280",
-      "snapshot": "articles/china-sunitree-to-raise-900-million-in-shanghai--1d252f7145e2.html",
-      "captured": true,
-      "capture_title": "宇树科技拟通过上海IPO筹资9亿美元",
       "error": ""
     },
     {
@@ -290,6 +290,42 @@
       "snapshot": "articles/e8-88-aa-e7-a9-ba-e5-85-ac-e5-8f-b8-e7-9c-9f-e7--a95ad1349ab6.html",
       "captured": true,
       "capture_title": "航空公司真的不想让你买最便宜的机票",
+      "error": ""
+    },
+    {
+      "title": "美国人正周游世界，势不可挡",
+      "summary": "在强劲经济推动下，曾经喜欢宅家的美国人正转变为热情的国际旅行者；富裕银发一族和追求社交媒体热潮的新世代还在迅速涌入那些鲜为人知的目的地。",
+      "link": "https://cn.wsj.com/articles/the-rise-of-the-unstoppable-american-tourist-fc401473",
+      "guid": "WP-WSJS-0003805024",
+      "pub_date": "Mon, 10 Aug 2026 04:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-94467081?size=1&width=1280",
+      "snapshot": "articles/the-rise-of-the-unstoppable-american-tourist-fc4-9c164ac7d48d.html",
+      "captured": true,
+      "capture_title": "美国人正周游世界，势不可挡 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "远景大型可再生能源AI数据中心投产",
+      "summary": "中国绿色科技公司远景在内蒙古投产一座由可再生能源供电的大型数据中心，以应对日益高涨的AI算力基础设施需求。",
+      "link": "https://cn.wsj.com/articles/china-senvision-commissions-giant-renewable-powered-ai-data-center-eb4345f0",
+      "guid": "WP-WSJS-0003800318",
+      "pub_date": "Fri, 07 Aug 2026 08:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-51444739?size=1.5&width=1280",
+      "snapshot": "articles/china-senvision-commissions-giant-renewable-powe-aa7f1acad309.html",
+      "captured": true,
+      "capture_title": "远景大型可再生能源AI数据中心投产",
+      "error": ""
+    },
+    {
+      "title": "宇树科技拟通过上海IPO筹资9亿美元",
+      "summary": "宇树科技已将其上海IPO发行价定为每股人民币150.8元，成为首家在内地市场上市的人形机器人企业。",
+      "link": "https://cn.wsj.com/articles/china-sunitree-to-raise-900-million-in-shanghai-initial-public-offering-22fd4174",
+      "guid": "WP-WSJS-0003800022",
+      "pub_date": "Fri, 07 Aug 2026 03:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-99044805?size=1.57&width=1280",
+      "snapshot": "articles/china-sunitree-to-raise-900-million-in-shanghai--1d252f7145e2.html",
+      "captured": true,
+      "capture_title": "宇树科技拟通过上海IPO筹资9亿美元",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-92-a4-e9-94-80-e5-b7-b4-e8--e31ad4ce8970.html",
       "captured": true,
       "capture_title": "美国撤销巴西大使签证，两国外交争端升级",
-      "error": ""
-    },
-    {
-      "title": "韩国股市曾是全球最热市场，如今已成空头围猎场",
-      "summary": "花旗分析师报告揭示了韩国市场情绪向看跌加速转变的程度。他写道，目前空头头寸已触及三年高点，一场逼空行情正在酝酿。",
-      "link": "https://cn.wsj.com/articles/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-south-korea-6f4a32f8",
-      "guid": "WP-WSJS-0003792188",
-      "pub_date": "Wed, 05 Aug 2026 03:57:00 GMT",
-      "image_url": "https://images.mktw.net/im-21246498?size=1.45&width=1280",
-      "snapshot": "articles/what-was-the-worlds-hottest-stock-market-is-now--24c7c1294f46.html",
-      "captured": true,
-      "capture_title": "韩国股市曾是全球最热市场，如今已成空头围猎场 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "先放手发展，后落地监管：中国经济活力的悖论",
-      "summary": "在美国，监管往往会保护守成者，却压抑了创业热情。中国则先给初创企业留足成长空间，随后再对创始人出手整顿。",
-      "link": "https://cn.wsj.com/articles/move-fast-and-regulate-later-the-paradox-of-chinas-economic-dynamism-5338b026",
-      "guid": "WP-WSJS-0003785268",
-      "pub_date": "Mon, 03 Aug 2026 06:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-91914561?size=1.501&width=1280",
-      "snapshot": "articles/move-fast-and-regulate-later-the-paradox-of-chin-a8c81fa9afa6.html",
-      "captured": true,
-      "capture_title": "先放手发展，后落地监管：中国经济活力的悖论",
-      "error": ""
-    },
-    {
-      "title": "新一轮袭击后霍尔木兹海峡开放前景不明",
-      "summary": "又有一艘船只在穿越霍尔木兹海峡时遇袭，而旨在重开该航道的谈判因收费问题陷入僵局。美国财长贝森特此前表示，美伊可能在周三前达成协议。",
-      "link": "https://cn.wsj.com/articles/%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A2%AD%E5%87%BB%E5%90%8E%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%BC%80%E6%94%BE%E5%89%8D%E6%99%AF%E4%B8%8D%E6%98%8E-03cd3543",
-      "guid": "WP-WSJS-0003791566",
-      "pub_date": "Tue, 04 Aug 2026 23:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-51480344?size=1.501&width=1280",
-      "snapshot": "articles/e6-96-b0-e4-b8-80-e8-bd-ae-e8-a2-ad-e5-87-bb-e5--2b015f007dbe.html",
-      "captured": true,
-      "capture_title": "新一轮袭击后霍尔木兹海峡开放前景不明 - WSJ",
       "error": ""
     }
   ]
