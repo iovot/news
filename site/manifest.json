@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:23:52.711769+00:00",
+  "generated_at": "2026-08-10T13:43:30.342066+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-37090372?size=1.435&width=1280",
       "snapshot": "articles/e5-86-85-e9-ac-bc--e6-b3-84-e9-9c-b2-e5-ae-98-e6-f03e78317e83.html",
       "captured": true,
-      "capture_title": "“内鬼”泄露官方机密以谋私利，中国反腐面临隐患 - WSJ",
+      "capture_title": "“内鬼”泄露官方机密以谋私利，中国反腐面临隐患",
       "error": ""
     },
     {
@@ -26,6 +26,18 @@
       "snapshot": "articles/apple-tests-chinese-memory-chips-as-supply-squee-0047d6e00712.html",
       "captured": true,
       "capture_title": "苹果正测试中国长鑫存储芯片，以应对供应困境",
+      "error": ""
+    },
+    {
+      "title": "中国的新出口引擎：为全球工厂供货",
+      "summary": "中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。",
+      "link": "https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80",
+      "guid": "WP-WSJS-0003800460",
+      "pub_date": "Fri, 07 Aug 2026 10:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-39271509?size=1.5&width=1280",
+      "snapshot": "articles/chinas-new-export-engine-supplying-the-factories-eb5715fdc204.html",
+      "captured": true,
+      "capture_title": "中国的新出口引擎：为全球工厂供货",
       "error": ""
     },
     {
@@ -65,18 +77,6 @@
       "error": ""
     },
     {
-      "title": "生活成本焦虑发酵，共和党“经济牌”失灵",
-      "summary": "对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。",
-      "link": "https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656",
-      "guid": "WP-WSJS-0003805043",
-      "pub_date": "Mon, 10 Aug 2026 04:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-74579614?size=1.5&width=1280",
-      "snapshot": "articles/e7-94-9f-e6-b4-bb-e6-88-90-e6-9c-ac-e7-84-a6-e8--83c32446eb2d.html",
-      "captured": true,
-      "capture_title": "生活成本焦虑发酵，共和党“经济牌”失灵",
-      "error": ""
-    },
-    {
       "title": "强劲财报助推美股延续创纪录涨势",
       "summary": "美国一些最大公司的强劲财报正推动主要指数创下新高，这在一定程度上缓解了人们对AI支出和通胀压力的担忧。",
       "link": "https://cn.wsj.com/articles/blockbuster-earnings-bolster-stocks-record-run-bbbb3534",
@@ -113,18 +113,6 @@
       "error": ""
     },
     {
-      "title": "中国的新出口引擎：为全球工厂供货",
-      "summary": "中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。",
-      "link": "https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80",
-      "guid": "WP-WSJS-0003800460",
-      "pub_date": "Fri, 07 Aug 2026 10:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-39271509?size=1.5&width=1280",
-      "snapshot": "articles/chinas-new-export-engine-supplying-the-factories-eb5715fdc204.html",
-      "captured": true,
-      "capture_title": "中国的新出口引擎：为全球工厂供货",
-      "error": ""
-    },
-    {
       "title": "三星堆失落文明谜团重重，正重塑对中华文明起源的认知",
       "summary": "三星堆祭祀坑发掘数十年后，那些造型奇异的神兽和神秘的面具依然令中国为之着迷。",
       "link": "https://cn.wsj.com/articles/%E4%B8%89%E6%98%9F%E5%A0%86%E5%A4%B1%E8%90%BD%E6%96%87%E6%98%8E%E8%B0%9C%E5%9B%A2%E9%87%8D%E9%87%8D-%E6%AD%A3%E9%87%8D%E5%A1%91%E5%AF%B9%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E8%B5%B7%E6%BA%90%E7%9A%84%E8%AE%A4%E7%9F%A5-d52bf9e9",
@@ -133,19 +121,31 @@
       "image_url": "https://images.wsj.net/im-07697130?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-89-e6-98-9f-e5-a0-86-e5-a4-b1-e8-90-bd-e6--573294bd78dc.html",
       "captured": true,
-      "capture_title": "三星堆失落文明谜团重重，正重塑对中华文明起源的认知 - WSJ",
+      "capture_title": "三星堆失落文明谜团重重，正重塑对中华文明起源的认知",
       "error": ""
     },
     {
-      "title": "推销SpaceX的梦想容易，如今马斯克必须顶住高压",
-      "summary": "SpaceX在上周经历高达3,000亿美元的市值剧烈波动，使马斯克重新陷入艰难的“实干模式”：他必须努力兑现此前IPO时所许下的高远承诺。",
-      "link": "https://cn.wsj.com/articles/selling-the-dream-of-spacex-was-the-easy-part-now-elon-musk-has-to-hang-on-28cbf1a9",
-      "guid": "WP-WSJS-0003804987",
-      "pub_date": "Mon, 10 Aug 2026 03:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-70808617?size=1.501&width=1280",
-      "snapshot": "articles/selling-the-dream-of-spacex-was-the-easy-part-no-c715b15327fd.html",
+      "title": "伊朗战争正助力中国电动汽车颠覆全球汽车市场",
+      "summary": "2026年上半年，中国电动汽车出口量同比飙升120%。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%AD%A3%E5%8A%A9%E5%8A%9B%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A2%A0%E8%A6%86%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA-45b2d42b",
+      "guid": "WP-WSJS-0003805542",
+      "pub_date": "Mon, 10 Aug 2026 11:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-60183419?size=1.499&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e6-ad-a3-e5--6e0694ef4802.html",
       "captured": true,
-      "capture_title": "推销SpaceX的梦想容易，如今马斯克必须顶住高压",
+      "capture_title": "伊朗战争正助力中国电动汽车颠覆全球汽车市场 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "扎克伯格发表6,500字长文阐述新AI愿景",
+      "summary": "扎克伯格的计划包括发布更多开放权重模型，并设立一项基金以投资Meta数据中心所在的社区。",
+      "link": "https://cn.wsj.com/articles/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8F%91%E8%A1%A86-500%E5%AD%97%E9%95%BF%E6%96%87%E9%98%90%E8%BF%B0%E6%96%B0ai%E6%84%BF%E6%99%AF-0709fa0b",
+      "guid": "WP-WSJS-0003805580",
+      "pub_date": "Mon, 10 Aug 2026 11:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-82697931?size=1.501&width=1280",
+      "snapshot": "articles/e6-89-8e-e5-85-8b-e4-bc-af-e6-a0-bc-e5-8f-91-e8--ae6afa860d84.html",
+      "captured": true,
+      "capture_title": "扎克伯格发表6,500字长文阐述新AI愿景 - WSJ",
       "error": ""
     },
     {
@@ -158,6 +158,18 @@
       "snapshot": "articles/china-free-batteries-made-from-salt-are-finally--0e17decc2b5f.html",
       "captured": true,
       "capture_title": "摆脱对华依赖？美国初创公司正押注钠电池",
+      "error": ""
+    },
+    {
+      "title": "推销SpaceX的梦想容易，如今马斯克必须顶住高压",
+      "summary": "SpaceX在上周经历高达3,000亿美元的市值剧烈波动，使马斯克重新陷入艰难的“实干模式”：他必须努力兑现此前IPO时所许下的高远承诺。",
+      "link": "https://cn.wsj.com/articles/selling-the-dream-of-spacex-was-the-easy-part-now-elon-musk-has-to-hang-on-28cbf1a9",
+      "guid": "WP-WSJS-0003804987",
+      "pub_date": "Mon, 10 Aug 2026 03:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-70808617?size=1.501&width=1280",
+      "snapshot": "articles/selling-the-dream-of-spacex-was-the-easy-part-no-c715b15327fd.html",
+      "captured": true,
+      "capture_title": "推销SpaceX的梦想容易，如今马斯克必须顶住高压",
       "error": ""
     },
     {
@@ -194,30 +206,6 @@
       "snapshot": "articles/chineseai-chip-maker-moore-threads-planning-hong-2e1db3a34c62.html",
       "captured": true,
       "capture_title": "摩尔线程计划在香港进行IPO",
-      "error": ""
-    },
-    {
-      "title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
-      "summary": "OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。",
-      "link": "https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e",
-      "guid": "WP-WSJS-0003803221",
-      "pub_date": "Sat, 08 Aug 2026 02:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-24887404?size=1.501&width=1280",
-      "snapshot": "articles/openai-e5-9b-a0-e7-bd-91-e7-bb-9c-e5-ae-89-e5-85-a739754e5b08.html",
-      "captured": true,
-      "capture_title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
-      "error": ""
-    },
-    {
-      "title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
-      "summary": "生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。",
-      "link": "https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db",
-      "guid": "WP-WSJS-0003800148",
-      "pub_date": "Fri, 07 Aug 2026 06:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280",
-      "snapshot": "articles/e7-9b-b4-e9-9d-a2ai--e6-9c-ab-e6-97-a5--e5-86-b2-ddac9a657557.html",
-      "captured": true,
-      "capture_title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
       "error": ""
     },
     {
@@ -302,6 +290,54 @@
       "snapshot": "articles/the-rise-of-the-unstoppable-american-tourist-fc4-9c164ac7d48d.html",
       "captured": true,
       "capture_title": "美国人正周游世界，势不可挡",
+      "error": ""
+    },
+    {
+      "title": "探秘品客生产线：AI如何让每一片薯片都完美",
+      "summary": "薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。",
+      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01",
+      "guid": "WP-WSJS-0003795878",
+      "pub_date": "Thu, 06 Aug 2026 01:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-45838981?size=1.501&width=1280",
+      "snapshot": "articles/e6-8e-a2-e7-a7-98-e5-93-81-e5-ae-a2-e7-94-9f-e4--3a4b181d40c0.html",
+      "captured": true,
+      "capture_title": "探秘品客生产线：AI如何让每一片薯片都完美",
+      "error": ""
+    },
+    {
+      "title": "生活成本焦虑发酵，共和党“经济牌”失灵",
+      "summary": "对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。",
+      "link": "https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656",
+      "guid": "WP-WSJS-0003805043",
+      "pub_date": "Mon, 10 Aug 2026 04:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-74579614?size=1.5&width=1280",
+      "snapshot": "articles/e7-94-9f-e6-b4-bb-e6-88-90-e6-9c-ac-e7-84-a6-e8--83c32446eb2d.html",
+      "captured": true,
+      "capture_title": "生活成本焦虑发酵，共和党“经济牌”失灵",
+      "error": ""
+    },
+    {
+      "title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
+      "summary": "OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。",
+      "link": "https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e",
+      "guid": "WP-WSJS-0003803221",
+      "pub_date": "Sat, 08 Aug 2026 02:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-24887404?size=1.501&width=1280",
+      "snapshot": "articles/openai-e5-9b-a0-e7-bd-91-e7-bb-9c-e5-ae-89-e5-85-a739754e5b08.html",
+      "captured": true,
+      "capture_title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
+      "error": ""
+    },
+    {
+      "title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
+      "summary": "生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。",
+      "link": "https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db",
+      "guid": "WP-WSJS-0003800148",
+      "pub_date": "Fri, 07 Aug 2026 06:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280",
+      "snapshot": "articles/e7-9b-b4-e9-9d-a2ai--e6-9c-ab-e6-97-a5--e5-86-b2-ddac9a657557.html",
+      "captured": true,
+      "capture_title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
       "error": ""
     },
     {
@@ -554,18 +590,6 @@
       "snapshot": "articles/the-ai-boom-is-transforming-the-american-economy-6e75938f760e.html",
       "captured": true,
       "capture_title": "AI热潮正重塑美国经济，深刻程度超乎认知",
-      "error": ""
-    },
-    {
-      "title": "探秘品客生产线：AI如何让每一片薯片都完美",
-      "summary": "薯片品牌品客的欧洲制造商Kellanova表示，一个新的AI项目可能是提升这款经典薯片生产工艺的关键。",
-      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01",
-      "guid": "WP-WSJS-0003795878",
-      "pub_date": "Thu, 06 Aug 2026 01:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-45838981?size=1.501&width=1280",
-      "snapshot": "articles/e6-8e-a2-e7-a7-98-e5-93-81-e5-ae-a2-e7-94-9f-e4--3a4b181d40c0.html",
-      "captured": true,
-      "capture_title": "探秘品客生产线：AI如何让每一片薯片都完美",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/openai-calls-apples-trade-secret-suit-careless-a-7c3d2a626345.html",
       "captured": true,
       "capture_title": "OpenAI称苹果的商业秘密诉讼“草率”且“异常个人化”",
-      "error": ""
-    },
-    {
-      "title": "芯片公司利润飙升，投资者为何仍不满意？",
-      "summary": "尽管半导体行业利润飙升144%，但费城半导体指数较6月份创下的纪录高位回落约17%，一度跌入熊市区域。",
-      "link": "https://cn.wsj.com/articles/even-big-profits-arent-enough-to-keep-chip-investors-happy-e9cdfc35",
-      "guid": "WP-WSJS-0003791787",
-      "pub_date": "Wed, 05 Aug 2026 00:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-20858753?size=1.501&width=1280",
-      "snapshot": "articles/even-big-profits-arent-enough-to-keep-chip-inves-99d966def972.html",
-      "captured": true,
-      "capture_title": "芯片公司利润飙升，投资者为何仍不满意？",
-      "error": ""
-    },
-    {
-      "title": "美国ICE如何将社交媒体武器化来压制批评声音",
-      "summary": "美国移民海关执法局表示，其监控项目旨在排查针对执法人员的威胁。但批评人士认为此举侵犯了言论自由。",
-      "link": "https://cn.wsj.com/articles/ice-surveillance-internet-critics-8566d93d",
-      "guid": "WP-WSJS-0003788350",
-      "pub_date": "Tue, 04 Aug 2026 06:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-94939391?size=1.5&width=1280",
-      "snapshot": "articles/ice-surveillance-internet-critics-8566d93d-05b22ef0dfb8.html",
-      "captured": true,
-      "capture_title": "美国ICE如何将社交媒体武器化来压制批评声音",
       "error": ""
     }
   ]

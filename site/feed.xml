@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 10:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 13:36:33 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 10:20:52 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 13:36:33 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,6 +42,13 @@
             <pubDate>Mon, 10 Aug 2026 02:40:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国的新出口引擎：为全球工厂供货]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39271509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80</link>
+            <guid isPermaLink="false">WP-WSJS-0003800460</guid>
+            <pubDate>Fri, 07 Aug 2026 10:51:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[台湾因军事演习下调网速，但民众反应淡定]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49013668?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>台湾上周推送紧急警报，旨在提醒公众防范中国发动攻击的情况下可能出现的断网风险。但许多民众似乎对网络降速演练并不在意，或并不知情。</p>]]></description>
             <link>https://cn.wsj.com/articles/taiwan-war-drills-internet-speed-207817dd</link>
@@ -61,13 +68,6 @@
             <link>https://cn.wsj.com/articles/hunter-bidens-comments-on-dads-cancer-shed-new-light-on-ex-presidents-life-a5cdc06c</link>
             <guid isPermaLink="false">WP-WSJS-0003804777</guid>
             <pubDate>Mon, 10 Aug 2026 00:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[生活成本焦虑发酵，共和党“经济牌”失灵]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-74579614?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对生活成本的担忧正在削弱共和党善于管理经济的形象，从而使民主党获得优势。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E7%84%A6%E8%99%91%E5%8F%91%E9%85%B5-%E5%85%B1%E5%92%8C%E5%85%9A-%E7%BB%8F%E6%B5%8E%E7%89%8C-%E5%A4%B1%E7%81%B5-347e2656</link>
-            <guid isPermaLink="false">WP-WSJS-0003805043</guid>
-            <pubDate>Mon, 10 Aug 2026 04:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[强劲财报助推美股延续创纪录涨势]]></title>
@@ -91,13 +91,6 @@
             <pubDate>Mon, 10 Aug 2026 01:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国的新出口引擎：为全球工厂供货]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39271509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国不再仅仅是廉价消费品的生产国，如今正出口更多支撑全球制造业的高附加值产品。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-new-export-engine-supplying-the-factories-of-the-world-af964d80</link>
-            <guid isPermaLink="false">WP-WSJS-0003800460</guid>
-            <pubDate>Fri, 07 Aug 2026 10:51:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[三星堆失落文明谜团重重，正重塑对中华文明起源的认知]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-07697130?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>三星堆祭祀坑发掘数十年后，那些造型奇异的神兽和神秘的面具依然令中国为之着迷。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%89%E6%98%9F%E5%A0%86%E5%A4%B1%E8%90%BD%E6%96%87%E6%98%8E%E8%B0%9C%E5%9B%A2%E9%87%8D%E9%87%8D-%E6%AD%A3%E9%87%8D%E5%A1%91%E5%AF%B9%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E8%B5%B7%E6%BA%90%E7%9A%84%E8%AE%A4%E7%9F%A5-d52bf9e9</link>
@@ -105,11 +98,18 @@
             <pubDate>Mon, 10 Aug 2026 09:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[推销SpaceX的梦想容易，如今马斯克必须顶住高压]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70808617?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX在上周经历高达3,000亿美元的市值剧烈波动，使马斯克重新陷入艰难的“实干模式”：他必须努力兑现此前IPO时所许下的高远承诺。</p>]]></description>
-            <link>https://cn.wsj.com/articles/selling-the-dream-of-spacex-was-the-easy-part-now-elon-musk-has-to-hang-on-28cbf1a9</link>
-            <guid isPermaLink="false">WP-WSJS-0003804987</guid>
-            <pubDate>Mon, 10 Aug 2026 03:07:00 GMT</pubDate>
+            <title><![CDATA[伊朗战争正助力中国电动汽车颠覆全球汽车市场]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-60183419?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>2026年上半年，中国电动汽车出口量同比飙升120%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%AD%A3%E5%8A%A9%E5%8A%9B%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A2%A0%E8%A6%86%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA-45b2d42b</link>
+            <guid isPermaLink="false">WP-WSJS-0003805542</guid>
+            <pubDate>Mon, 10 Aug 2026 11:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[扎克伯格发表6,500字长文阐述新AI愿景]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82697931?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>扎克伯格的计划包括发布更多开放权重模型，并设立一项基金以投资Meta数据中心所在的社区。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8F%91%E8%A1%A86-500%E5%AD%97%E9%95%BF%E6%96%87%E9%98%90%E8%BF%B0%E6%96%B0ai%E6%84%BF%E6%99%AF-0709fa0b</link>
+            <guid isPermaLink="false">WP-WSJS-0003805580</guid>
+            <pubDate>Mon, 10 Aug 2026 11:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[摆脱对华依赖？美国初创公司正押注钠电池]]></title>
@@ -117,6 +117,13 @@
             <link>https://cn.wsj.com/articles/china-free-batteries-made-from-salt-are-finally-here-874796a3</link>
             <guid isPermaLink="false">WP-WSJS-0003803315</guid>
             <pubDate>Sat, 08 Aug 2026 04:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推销SpaceX的梦想容易，如今马斯克必须顶住高压]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70808617?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX在上周经历高达3,000亿美元的市值剧烈波动，使马斯克重新陷入艰难的“实干模式”：他必须努力兑现此前IPO时所许下的高远承诺。</p>]]></description>
+            <link>https://cn.wsj.com/articles/selling-the-dream-of-spacex-was-the-easy-part-now-elon-musk-has-to-hang-on-28cbf1a9</link>
+            <guid isPermaLink="false">WP-WSJS-0003804987</guid>
+            <pubDate>Mon, 10 Aug 2026 03:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[伯克希尔哈撒韦换帅后开始动用巨额现金储备]]></title>
@@ -138,20 +145,6 @@
             <link>https://cn.wsj.com/articles/chineseai-chip-maker-moore-threads-planning-hong-kong-ipo-51d08965</link>
             <guid isPermaLink="false">WP-WSJS-0003805103</guid>
             <pubDate>Mon, 10 Aug 2026 05:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI因网络安全担忧暂停Astra模型的部分研发]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-24887404?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。</p>]]></description>
-            <link>https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e</link>
-            <guid isPermaLink="false">WP-WSJS-0003803221</guid>
-            <pubDate>Sat, 08 Aug 2026 02:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db</link>
-            <guid isPermaLink="false">WP-WSJS-0003800148</guid>
-            <pubDate>Fri, 07 Aug 2026 06:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[习近平想要强势人民币，中国经济却在拖后腿]]></title>
