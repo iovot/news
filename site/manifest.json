@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:54:46.114222+00:00",
+  "generated_at": "2026-08-12T07:41:09.921113+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -29,15 +29,15 @@
       "error": ""
     },
     {
-      "title": "美军向一艘冲破美国对伊朗封锁的船只开火",
-      "summary": "在特朗普政府试图从经济上打压伊朗政权之际，此举加大了执法力度。",
-      "link": "https://cn.wsj.com/articles/u-s-fires-on-ship-breaking-its-blockade-of-iran-683fbce9",
-      "guid": "WP-WSJS-0003810299",
-      "pub_date": "Tue, 11 Aug 2026 23:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-36788967?size=1.501&width=1280",
-      "snapshot": "articles/u-s-fires-on-ship-breaking-its-blockade-of-iran--1ff85289b649.html",
+      "title": "华尔街和英伟达为何要为AI热潮打造另类融资渠道",
+      "summary": "参与其中的高管称赞这是一种新的资产类别；批评人士则对使用芯片作为抵押品感到担忧。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%92%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A6%81%E4%B8%BAai%E7%83%AD%E6%BD%AE%E6%89%93%E9%80%A0%E5%8F%A6%E7%B1%BB%E8%9E%8D%E8%B5%84%E6%B8%A0%E9%81%93-9e85bb82",
+      "guid": "WP-WSJS-0003810939",
+      "pub_date": "Wed, 12 Aug 2026 04:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-60950296?size=1.501&width=1280",
+      "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e5-92-8c-e8-8b-b1-e4--03a3fe89fa50.html",
       "captured": true,
-      "capture_title": "美军向一艘冲破美国对伊朗封锁的船只开火",
+      "capture_title": "华尔街和英伟达为何要为AI热潮打造另类融资渠道",
       "error": ""
     },
     {
@@ -101,18 +101,6 @@
       "error": ""
     },
     {
-      "title": "华尔街和英伟达为何要为AI热潮打造另类融资渠道",
-      "summary": "参与其中的高管称赞这是一种新的资产类别；批评人士则对使用芯片作为抵押品感到担忧。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%92%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A6%81%E4%B8%BAai%E7%83%AD%E6%BD%AE%E6%89%93%E9%80%A0%E5%8F%A6%E7%B1%BB%E8%9E%8D%E8%B5%84%E6%B8%A0%E9%81%93-9e85bb82",
-      "guid": "WP-WSJS-0003810939",
-      "pub_date": "Wed, 12 Aug 2026 04:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-60950296?size=1.501&width=1280",
-      "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e5-92-8c-e8-8b-b1-e4--03a3fe89fa50.html",
-      "captured": true,
-      "capture_title": "华尔街和英伟达为何要为AI热潮打造另类融资渠道 - WSJ",
-      "error": ""
-    },
-    {
       "title": "马姆达尼与纽约的“蜜月期”宣告结束",
       "summary": "纽约市长正面临“第二居所税”落地引发的混乱局面，而他与地方政界人士的关系也日益紧张。",
       "link": "https://cn.wsj.com/articles/%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E4%B8%8E%E7%BA%BD%E7%BA%A6%E7%9A%84-%E8%9C%9C%E6%9C%88%E6%9C%9F-%E5%AE%A3%E5%91%8A%E7%BB%93%E6%9D%9F-79d37f5c",
@@ -121,7 +109,19 @@
       "image_url": "https://images.wsj.net/im-34460471?size=1.499&width=1280",
       "snapshot": "articles/e9-a9-ac-e5-a7-86-e8-be-be-e5-b0-bc-e4-b8-8e-e7--ecfd4cf20a0f.html",
       "captured": true,
-      "capture_title": "马姆达尼与纽约的“蜜月期”宣告结束 - WSJ",
+      "capture_title": "马姆达尼与纽约的“蜜月期”宣告结束",
+      "error": ""
+    },
+    {
+      "title": "世界足坛陷入公开内战",
+      "summary": "在欧洲和北美洲的体育官员实质上呼吁国际足联主席詹尼·因凡蒂诺下台之后，世界足坛正陷入一场可能持续数月之久的权力拉锯战。",
+      "link": "https://cn.wsj.com/articles/fifa-gianni-infantino-d2ec4c64",
+      "guid": "WP-WSJS-0003810745",
+      "pub_date": "Wed, 12 Aug 2026 02:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-73025144?size=1.504&width=1280",
+      "snapshot": "articles/fifa-gianni-infantino-d2ec4c64-5b1ec8032d2f.html",
+      "captured": true,
+      "capture_title": "世界足坛陷入公开内战",
       "error": ""
     },
     {
@@ -149,18 +149,6 @@
       "error": ""
     },
     {
-      "title": "世界足坛陷入公开内战",
-      "summary": "在欧洲和北美洲的体育官员实质上呼吁国际足联主席詹尼·因凡蒂诺下台之后，世界足坛正陷入一场可能持续数月之久的权力拉锯战。",
-      "link": "https://cn.wsj.com/articles/fifa-gianni-infantino-d2ec4c64",
-      "guid": "WP-WSJS-0003810745",
-      "pub_date": "Wed, 12 Aug 2026 02:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-73025144?size=1.504&width=1280",
-      "snapshot": "articles/fifa-gianni-infantino-d2ec4c64-5b1ec8032d2f.html",
-      "captured": true,
-      "capture_title": "世界足坛陷入公开内战 - WSJ",
-      "error": ""
-    },
-    {
       "title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
       "summary": "卡痛叶产品一直打着缓解疼痛、抗疲劳和助眠的天然疗法旗号进行营销。这种在全美各地加油站、烟草店和便利店合法销售的产品已与多起药物过量死伤事件有关，正引发美国公共卫生危机。",
       "link": "https://cn.wsj.com/articles/a-herbal-product-sold-at-gas-stations-is-being-blamed-for-an-addiction-crisis-53d2af71",
@@ -169,7 +157,31 @@
       "image_url": "https://images.wsj.net/im-25515066?size=1.501&width=1280",
       "snapshot": "articles/a-herbal-product-sold-at-gas-stations-is-being-b-d9cd0bd3c3ae.html",
       "captured": true,
-      "capture_title": "“天然毒品”卡痛叶被指引发美国成瘾危机 - WSJ",
+      "capture_title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
+      "error": ""
+    },
+    {
+      "title": "把日常健康数据喂给AI的“数据极客”",
+      "summary": "从备战马拉松到排解职场焦虑，健康狂热者正将个人数据接入聊天机器人，打造极致个性化的专属教练。",
+      "link": "https://cn.wsj.com/articles/%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%81%A5%E5%BA%B7%E6%95%B0%E6%8D%AE%E5%96%82%E7%BB%99ai%E7%9A%84-%E6%95%B0%E6%8D%AE%E6%9E%81%E5%AE%A2-0a7652df",
+      "guid": "WP-WSJS-0003810988",
+      "pub_date": "Wed, 12 Aug 2026 05:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-06442262?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e6-8a-8a-e6-97-a5-e5-b8-b8-e5-81-a5-e5-ba-b7-e6--58e05a039776.html",
+      "captured": true,
+      "capture_title": "把日常健康数据喂给AI的“数据极客” - WSJ",
+      "error": ""
+    },
+    {
+      "title": "Manus发布公告：即将恢复作为独立公司运营",
+      "summary": "Manus在官网发布通知表示部分用户数据将被删除，并称这是Manus与Meta分拆的一部分。",
+      "link": "https://cn.wsj.com/articles/aistart-up-manus-to-soon-resume-operating-as-an-independent-company-d74bfb2e",
+      "guid": "WP-WSJS-0003811027",
+      "pub_date": "Wed, 12 Aug 2026 05:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-23416712?size=1.501&width=1280",
+      "snapshot": "articles/aistart-up-manus-to-soon-resume-operating-as-an--a735f016486c.html",
+      "captured": true,
+      "capture_title": "Manus发布公告：即将恢复作为独立公司运营 - WSJ",
       "error": ""
     },
     {
@@ -206,18 +218,6 @@
       "snapshot": "articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-fc29627c682b.html",
       "captured": true,
       "capture_title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
-      "error": ""
-    },
-    {
-      "title": "为防范“影子违约”，私募信贷公司收紧贷款优惠条款",
-      "summary": "在软件公司Medallia的倒闭事件震惊私募信贷行业、并最终由债权人接管之前，该公司已将其激增至约28亿美元的债务利息支付推迟了大约四年。",
-      "link": "https://cn.wsj.com/articles/private-credit-firms-clamp-down-on-loan-sweeteners-in-fear-of-shadow-defaults-06e23540",
-      "guid": "WP-WSJS-0003810436",
-      "pub_date": "Tue, 11 Aug 2026 23:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-13844193?size=1.501&width=1280",
-      "snapshot": "articles/private-credit-firms-clamp-down-on-loan-sweetene-4eaaf335c679.html",
-      "captured": true,
-      "capture_title": "为防范“影子违约”，私募信贷公司收紧贷款优惠条款",
       "error": ""
     },
     {
@@ -301,7 +301,31 @@
       "image_url": "https://images.wsj.net/im-37228444?size=1.78&width=1280",
       "snapshot": "articles/europe-has-a-new-passport-systemand-its-driving--9221c78eebc8.html",
       "captured": true,
-      "capture_title": "欧洲启用新护照系统，旅客抓狂了 - WSJ",
+      "capture_title": "欧洲启用新护照系统，旅客抓狂了",
+      "error": ""
+    },
+    {
+      "title": "美军向一艘冲破美国对伊朗封锁的船只开火",
+      "summary": "在特朗普政府试图从经济上打压伊朗政权之际，此举加大了执法力度。",
+      "link": "https://cn.wsj.com/articles/u-s-fires-on-ship-breaking-its-blockade-of-iran-683fbce9",
+      "guid": "WP-WSJS-0003810299",
+      "pub_date": "Tue, 11 Aug 2026 23:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-36788967?size=1.501&width=1280",
+      "snapshot": "articles/u-s-fires-on-ship-breaking-its-blockade-of-iran--1ff85289b649.html",
+      "captured": true,
+      "capture_title": "美军向一艘冲破美国对伊朗封锁的船只开火",
+      "error": ""
+    },
+    {
+      "title": "为防范“影子违约”，私募信贷公司收紧贷款优惠条款",
+      "summary": "在软件公司Medallia的倒闭事件震惊私募信贷行业、并最终由债权人接管之前，该公司已将其激增至约28亿美元的债务利息支付推迟了大约四年。",
+      "link": "https://cn.wsj.com/articles/private-credit-firms-clamp-down-on-loan-sweeteners-in-fear-of-shadow-defaults-06e23540",
+      "guid": "WP-WSJS-0003810436",
+      "pub_date": "Tue, 11 Aug 2026 23:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-13844193?size=1.501&width=1280",
+      "snapshot": "articles/private-credit-firms-clamp-down-on-loan-sweetene-4eaaf335c679.html",
+      "captured": true,
+      "capture_title": "为防范“影子违约”，私募信贷公司收紧贷款优惠条款",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-9c-a8-e6-b2-83-e4--d776d36269c6.html",
       "captured": true,
       "capture_title": "特朗普在沃什就任美联储主席后频繁与他通话",
-      "error": ""
-    },
-    {
-      "title": "特朗普不满美军弹药库存报道，下令严查泄密事件",
-      "summary": "此前媒体已连续数周报道美军在伊朗战事中弹药耗损严重。特朗普下令对五角大楼泄密事件展开调查，担忧此类报道会削弱对伊外交立场。",
-      "link": "https://cn.wsj.com/articles/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-74f1aa9a",
-      "guid": "WP-WSJS-0003799959",
-      "pub_date": "Fri, 07 Aug 2026 02:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-21794108?size=1.501&width=1280",
-      "snapshot": "articles/trump-orders-leak-probe-after-venting-about-medi-25d44f1d5535.html",
-      "captured": true,
-      "capture_title": "特朗普不满美军弹药库存报道，下令严查泄密事件 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "存储芯片股遭抛售之际美光股价逆势上扬",
-      "summary": "周四，尽管闪迪和西部数据等存储芯片股走低，美光科技却收复了盘中失地。",
-      "link": "https://cn.wsj.com/articles/microns-stock-claws-back-to-buck-the-memory-chip-selloff-ac0fd8e4",
-      "guid": "WP-WSJS-0003799390",
-      "pub_date": "Thu, 06 Aug 2026 23:19:00 GMT",
-      "image_url": "https://images.mktw.net/im-54177591?size=1.43&width=1280",
-      "snapshot": "articles/microns-stock-claws-back-to-buck-the-memory-chip-2af76cdb771d.html",
-      "captured": true,
-      "capture_title": "存储芯片股遭抛售之际美光股价逆势上扬",
       "error": ""
     }
   ]
