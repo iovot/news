@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:21:33.481871+00:00",
+  "generated_at": "2026-08-12T16:02:03.110592+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-31303176?size=1.501&width=1280",
       "snapshot": "articles/ai-e6-94-af-e5-87-ba-e6-89-93-e6-96-ad-e8-85-be--cb72437d7b53.html",
       "captured": true,
-      "capture_title": "AI支出打断腾讯两位数利润增长势头 - WSJ",
+      "capture_title": "AI支出打断腾讯两位数利润增长势头",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-71096183?size=1.4965986394557824&width=1280",
       "snapshot": "articles/stubhub-e5-ae-a2-e6-88-b7-e4-b9-b0-e7-a5-a8-e5-b-435f41a287eb.html",
       "captured": true,
-      "capture_title": "StubHub客户买票已费尽周折，退款更是一场硬仗 - WSJ",
+      "capture_title": "StubHub客户买票已费尽周折，退款更是一场硬仗",
       "error": ""
     },
     {
