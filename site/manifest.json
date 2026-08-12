@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:11:11.520891+00:00",
+  "generated_at": "2026-08-12T13:21:33.481871+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -105,7 +105,7 @@
       "summary": "纽约市长正面临“第二居所税”落地引发的混乱局面，而他与地方政界人士的关系也日益紧张。",
       "link": "https://cn.wsj.com/articles/%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E4%B8%8E%E7%BA%BD%E7%BA%A6%E7%9A%84-%E8%9C%9C%E6%9C%88%E6%9C%9F-%E5%AE%A3%E5%91%8A%E7%BB%93%E6%9D%9F-79d37f5c",
       "guid": "WP-WSJS-0003810766",
-      "pub_date": "Wed, 12 Aug 2026 02:26:00 GMT",
+      "pub_date": "Wed, 12 Aug 2026 11:31:00 GMT",
       "image_url": "https://images.wsj.net/im-34460471?size=1.499&width=1280",
       "snapshot": "articles/e9-a9-ac-e5-a7-86-e8-be-be-e5-b0-bc-e4-b8-8e-e7--ecfd4cf20a0f.html",
       "captured": true,
@@ -149,6 +149,30 @@
       "error": ""
     },
     {
+      "title": "AI支出打断腾讯两位数利润增长势头",
+      "summary": "腾讯第二季度净利润同比增长0.7%，不及市场预期；调整后净利润则增长9%。  这家中国公司表示，今年其AI支出将增长逾一倍。",
+      "link": "https://cn.wsj.com/articles/ai%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4-343cf60d",
+      "guid": "WP-WSJS-0003811474",
+      "pub_date": "Wed, 12 Aug 2026 11:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-31303176?size=1.501&width=1280",
+      "snapshot": "articles/ai-e6-94-af-e5-87-ba-e6-89-93-e6-96-ad-e8-85-be--cb72437d7b53.html",
+      "captured": true,
+      "capture_title": "AI支出打断腾讯两位数利润增长势头 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "StubHub客户买票已费尽周折，退款更是一场硬仗",
+      "summary": "StubHub让曾被黄牛党垄断的二手票务行业走向了合法化。如今，该平台却因退款流程漫长、球迷在世界杯比赛期间拿不到票无法入场观赛而屡遭投诉。",
+      "link": "https://cn.wsj.com/articles/stubhub%E5%AE%A2%E6%88%B7%E4%B9%B0%E7%A5%A8%E5%B7%B2%E8%B4%B9%E5%B0%BD%E5%91%A8%E6%8A%98-%E9%80%80%E6%AC%BE%E6%9B%B4%E6%98%AF%E4%B8%80%E5%9C%BA%E7%A1%AC%E4%BB%97-5927f75c",
+      "guid": "WP-WSJS-0003811286",
+      "pub_date": "Wed, 12 Aug 2026 10:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-71096183?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/stubhub-e5-ae-a2-e6-88-b7-e4-b9-b0-e7-a5-a8-e5-b-435f41a287eb.html",
+      "captured": true,
+      "capture_title": "StubHub客户买票已费尽周折，退款更是一场硬仗 - WSJ",
+      "error": ""
+    },
+    {
       "title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
       "summary": "卡痛叶产品一直打着缓解疼痛、抗疲劳和助眠的天然疗法旗号进行营销。这种在全美各地加油站、烟草店和便利店合法销售的产品已与多起药物过量死伤事件有关，正引发美国公共卫生危机。",
       "link": "https://cn.wsj.com/articles/a-herbal-product-sold-at-gas-stations-is-being-blamed-for-an-addiction-crisis-53d2af71",
@@ -158,18 +182,6 @@
       "snapshot": "articles/a-herbal-product-sold-at-gas-stations-is-being-b-d9cd0bd3c3ae.html",
       "captured": true,
       "capture_title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
-      "error": ""
-    },
-    {
-      "title": "把日常健康数据喂给AI的“数据极客”",
-      "summary": "从备战马拉松到排解职场焦虑，健康狂热者正将个人数据接入聊天机器人，打造极致个性化的专属教练。",
-      "link": "https://cn.wsj.com/articles/%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%81%A5%E5%BA%B7%E6%95%B0%E6%8D%AE%E5%96%82%E7%BB%99ai%E7%9A%84-%E6%95%B0%E6%8D%AE%E6%9E%81%E5%AE%A2-0a7652df",
-      "guid": "WP-WSJS-0003810988",
-      "pub_date": "Wed, 12 Aug 2026 05:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-06442262?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e6-8a-8a-e6-97-a5-e5-b8-b8-e5-81-a5-e5-ba-b7-e6--58e05a039776.html",
-      "captured": true,
-      "capture_title": "把日常健康数据喂给AI的“数据极客”",
       "error": ""
     },
     {
@@ -209,18 +221,6 @@
       "error": ""
     },
     {
-      "title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
-      "summary": "合资企业将生产用于智能手机的下一代图像传感器，预计将于2029年启动量产。",
-      "link": "https://cn.wsj.com/articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-joint-venture-10216e7a",
-      "guid": "WP-WSJS-0003810390",
-      "pub_date": "Tue, 11 Aug 2026 23:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-63158131?size=1.501&width=1280",
-      "snapshot": "articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-fc29627c682b.html",
-      "captured": true,
-      "capture_title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
-      "error": ""
-    },
-    {
       "title": "三星堆失落文明谜团重重，正重塑对中华文明起源的认知",
       "summary": "三星堆祭祀坑发掘数十年后，那些造型奇异的神兽和神秘的面具依然令中国为之着迷。",
       "link": "https://cn.wsj.com/articles/%E4%B8%89%E6%98%9F%E5%A0%86%E5%A4%B1%E8%90%BD%E6%96%87%E6%98%8E%E8%B0%9C%E5%9B%A2%E9%87%8D%E9%87%8D-%E6%AD%A3%E9%87%8D%E5%A1%91%E5%AF%B9%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E8%B5%B7%E6%BA%90%E7%9A%84%E8%AE%A4%E7%9F%A5-d52bf9e9",
@@ -257,15 +257,15 @@
       "error": ""
     },
     {
-      "title": "美国人正周游世界，势不可挡",
-      "summary": "在强劲经济推动下，曾经喜欢宅家的美国人正转变为热情的国际旅行者；富裕银发一族和追求社交媒体热潮的新世代还在迅速涌入那些鲜为人知的目的地。",
-      "link": "https://cn.wsj.com/articles/the-rise-of-the-unstoppable-american-tourist-fc401473",
-      "guid": "WP-WSJS-0003805024",
-      "pub_date": "Mon, 10 Aug 2026 04:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-94467081?size=1&width=1280",
-      "snapshot": "articles/the-rise-of-the-unstoppable-american-tourist-fc4-9c164ac7d48d.html",
+      "title": "把日常健康数据喂给AI的“数据极客”",
+      "summary": "从备战马拉松到排解职场焦虑，健康狂热者正将个人数据接入聊天机器人，打造极致个性化的专属教练。",
+      "link": "https://cn.wsj.com/articles/%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%81%A5%E5%BA%B7%E6%95%B0%E6%8D%AE%E5%96%82%E7%BB%99ai%E7%9A%84-%E6%95%B0%E6%8D%AE%E6%9E%81%E5%AE%A2-0a7652df",
+      "guid": "WP-WSJS-0003810988",
+      "pub_date": "Wed, 12 Aug 2026 05:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-06442262?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e6-8a-8a-e6-97-a5-e5-b8-b8-e5-81-a5-e5-ba-b7-e6--58e05a039776.html",
       "captured": true,
-      "capture_title": "美国人正周游世界，势不可挡",
+      "capture_title": "把日常健康数据喂给AI的“数据极客”",
       "error": ""
     },
     {
@@ -302,6 +302,30 @@
       "snapshot": "articles/europe-has-a-new-passport-systemand-its-driving--9221c78eebc8.html",
       "captured": true,
       "capture_title": "欧洲启用新护照系统，旅客抓狂了",
+      "error": ""
+    },
+    {
+      "title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
+      "summary": "合资企业将生产用于智能手机的下一代图像传感器，预计将于2029年启动量产。",
+      "link": "https://cn.wsj.com/articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-joint-venture-10216e7a",
+      "guid": "WP-WSJS-0003810390",
+      "pub_date": "Tue, 11 Aug 2026 23:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-63158131?size=1.501&width=1280",
+      "snapshot": "articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-fc29627c682b.html",
+      "captured": true,
+      "capture_title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
+      "error": ""
+    },
+    {
+      "title": "美国人正周游世界，势不可挡",
+      "summary": "在强劲经济推动下，曾经喜欢宅家的美国人正转变为热情的国际旅行者；富裕银发一族和追求社交媒体热潮的新世代还在迅速涌入那些鲜为人知的目的地。",
+      "link": "https://cn.wsj.com/articles/the-rise-of-the-unstoppable-american-tourist-fc401473",
+      "guid": "WP-WSJS-0003805024",
+      "pub_date": "Mon, 10 Aug 2026 04:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-94467081?size=1&width=1280",
+      "snapshot": "articles/the-rise-of-the-unstoppable-american-tourist-fc4-9c164ac7d48d.html",
+      "captured": true,
+      "capture_title": "美国人正周游世界，势不可挡",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/senate-panel-votes-to-hold-fauci-in-contempt-for-cf429ef794f2.html",
       "captured": true,
       "capture_title": "因拒绝回答问题，福奇被参议院一委员会投票认定藐视国会",
-      "error": ""
-    },
-    {
-      "title": "传中国对境外保单收益征税，香港保险与银行股下跌",
-      "summary": "香港市场大型保险公司和银行股走低，此前有媒体报道称，中国内地税务机关已开始对部分境外保单收益征收个人所得税。",
-      "link": "https://cn.wsj.com/articles/hongkong-insurer-bank-stocks-fall-after-report-of-china-tax-on-offshore-products-b82a5ef3",
-      "guid": "WP-WSJS-0003796503",
-      "pub_date": "Thu, 06 Aug 2026 08:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-69167616?size=1.499&width=1280",
-      "snapshot": "articles/hongkong-insurer-bank-stocks-fall-after-report-o-44f7b938d024.html",
-      "captured": true,
-      "capture_title": "传中国对境外保单收益征税，香港保险与银行股下跌",
-      "error": ""
-    },
-    {
-      "title": "特朗普在沃什就任美联储主席后频繁与他通话",
-      "summary": "这种总统与美联储主席保持直接沟通的做法打破了近年来的惯例，也引发了针对美联储独立性的担忧。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%B2%83%E4%BB%80%E5%B0%B1%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%90%8E%E9%A2%91%E7%B9%81%E4%B8%8E%E4%BB%96%E9%80%9A%E8%AF%9D-96edff0e",
-      "guid": "WP-WSJS-0003796089",
-      "pub_date": "Thu, 06 Aug 2026 03:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-34631537?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-9c-a8-e6-b2-83-e4--d776d36269c6.html",
-      "captured": true,
-      "capture_title": "特朗普在沃什就任美联储主席后频繁与他通话",
       "error": ""
     }
   ]
