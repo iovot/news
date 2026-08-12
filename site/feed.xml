@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 02:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 04:50:43 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 02:14:01 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 04:50:43 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,13 +42,6 @@
             <pubDate>Wed, 12 Aug 2026 01:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[策略师：美股即将迎来历史上表现强劲的行情窗口期]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-59683041?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>部分投资者担忧这轮由AI驱动的牛市可能已成强弩之末，但在一位技术策略师看来，下一轮为期18个月的强劲行情才刚刚开始。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%AD%96%E7%95%A5%E5%B8%88-%E7%BE%8E%E8%82%A1%E5%8D%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%8E%86%E5%8F%B2%E6%80%A7%E5%BC%BA%E5%8A%BF%E5%91%A8%E6%9C%9F-c831f5dd</link>
-            <guid isPermaLink="false">WP-WSJS-0003810708</guid>
-            <pubDate>Wed, 12 Aug 2026 02:07:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美军向一艘冲破美国对伊朗封锁的船只开火]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36788967?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在特朗普政府试图从经济上打压伊朗政权之际，此举加大了执法力度。</p>]]></description>
             <link>https://cn.wsj.com/articles/u-s-fires-on-ship-breaking-its-blockade-of-iran-683fbce9</link>
@@ -60,14 +53,14 @@
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-24438617?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>上个月，特朗普从“空军一号”上被转移至一架军机，秘密离开土耳其。此前美方获悉情报，伊朗行动正对“空军一号”构成威胁。</p>]]></description>
             <link>https://cn.wsj.com/articles/trump-was-secretly-transferred-to-military-jet-amid-threats-to-air-force-one-b18921bc</link>
             <guid isPermaLink="false">WP-WSJS-0003810305</guid>
-            <pubDate>Tue, 11 Aug 2026 23:24:00 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 02:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马姆达尼对阵亚马逊：纽约新法案拟叫停快递员外包模式]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-80196102?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>马姆达尼为代表低薪工人向大公司发起挑战，近日又出新招。他支持一项法案，该法案将强制要求亚马逊、联邦快递等公司直接雇佣配送员。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mamdani-takes-on-amazon-in-new-battle-over-new-yorks-delivery-workers-67c1e6c1</link>
-            <guid isPermaLink="false">WP-WSJS-0003810376</guid>
-            <pubDate>Tue, 11 Aug 2026 23:53:00 GMT</pubDate>
+            <title><![CDATA[德国高级将领称俄罗斯正以混合攻击试探北约的防御能力]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-24631122?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>德国最高军事官员称，尽管俄罗斯同时还在乌克兰作战，但俄罗斯“已经在调整其经济和军事，为与西方的更广泛冲突做准备”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/top-german-general-says-russia-is-probing-nato-defenses-with-hybrid-attacks-69fdd6de</link>
+            <guid isPermaLink="false">WP-WSJS-0003810399</guid>
+            <pubDate>Tue, 11 Aug 2026 23:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[参议员达琳·格雷厄姆得票未过半，将进入共和党决选]]></title>
@@ -77,11 +70,32 @@
             <pubDate>Wed, 12 Aug 2026 01:52:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[叙利亚判处前独裁者巴沙尔·阿萨德死刑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96219963?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿萨德于2024年12月被赶下台后流亡俄罗斯，他与他的兄弟马赫尔一同被缺席定罪。</p>]]></description>
+            <link>https://cn.wsj.com/articles/syria-sentences-former-dictator-bashar-al-assad-to-death-4b81711b</link>
+            <guid isPermaLink="false">WP-WSJS-0003810342</guid>
+            <pubDate>Tue, 11 Aug 2026 23:38:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-81941011?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宇树科技即将成为中国内地首家人形机器人上市公司，并正乘着机器人热潮的东风，准备在资本市场大举融资。</p>]]></description>
             <link>https://cn.wsj.com/articles/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-517af8f1</link>
             <guid isPermaLink="false">WP-WSJS-0003810556</guid>
             <pubDate>Wed, 12 Aug 2026 01:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华尔街和英伟达为何要为AI热潮打造另类融资渠道]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60950296?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>参与其中的高管称赞这是一种新的资产类别；批评人士则对使用芯片作为抵押品感到担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%92%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%BA%E4%BD%95%E8%A6%81%E4%B8%BAai%E7%83%AD%E6%BD%AE%E6%89%93%E9%80%A0%E5%8F%A6%E7%B1%BB%E8%9E%8D%E8%B5%84%E6%B8%A0%E9%81%93-9e85bb82</link>
+            <guid isPermaLink="false">WP-WSJS-0003810939</guid>
+            <pubDate>Wed, 12 Aug 2026 04:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马姆达尼与纽约的“蜜月期”宣告结束]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-34460471?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>纽约市长正面临“第二居所税”落地引发的混乱局面，而他与地方政界人士的关系也日益紧张。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E4%B8%8E%E7%BA%BD%E7%BA%A6%E7%9A%84-%E8%9C%9C%E6%9C%88%E6%9C%9F-%E5%AE%A3%E5%91%8A%E7%BB%93%E6%9D%9F-79d37f5c</link>
+            <guid isPermaLink="false">WP-WSJS-0003810766</guid>
+            <pubDate>Wed, 12 Aug 2026 02:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬]]></title>
@@ -98,18 +112,18 @@
             <pubDate>Mon, 10 Aug 2026 08:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[叙利亚判处前独裁者巴沙尔·阿萨德死刑]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96219963?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿萨德于2024年12月被赶下台后流亡俄罗斯，他与他的兄弟马赫尔一同被缺席定罪。</p>]]></description>
-            <link>https://cn.wsj.com/articles/syria-sentences-former-dictator-bashar-al-assad-to-death-4b81711b</link>
-            <guid isPermaLink="false">WP-WSJS-0003810342</guid>
-            <pubDate>Tue, 11 Aug 2026 23:38:00 GMT</pubDate>
+            <title><![CDATA[世界足坛陷入公开内战]]></title>
+            <description><![CDATA[<img width="1280" height="851" src="https://images.wsj.net/im-73025144?size=1.504&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在欧洲和北美洲的体育官员实质上呼吁国际足联主席詹尼·因凡蒂诺下台之后，世界足坛正陷入一场可能持续数月之久的权力拉锯战。</p>]]></description>
+            <link>https://cn.wsj.com/articles/fifa-gianni-infantino-d2ec4c64</link>
+            <guid isPermaLink="false">WP-WSJS-0003810745</guid>
+            <pubDate>Wed, 12 Aug 2026 02:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国高级将领称俄罗斯正以混合攻击试探北约的防御能力]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-24631122?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>德国最高军事官员称，尽管俄罗斯同时还在乌克兰作战，但俄罗斯“已经在调整其经济和军事，为与西方的更广泛冲突做准备”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/top-german-general-says-russia-is-probing-nato-defenses-with-hybrid-attacks-69fdd6de</link>
-            <guid isPermaLink="false">WP-WSJS-0003810399</guid>
-            <pubDate>Tue, 11 Aug 2026 23:48:00 GMT</pubDate>
+            <title><![CDATA[“天然毒品”卡痛叶被指引发美国成瘾危机]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-25515066?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卡痛叶产品一直打着缓解疼痛、抗疲劳和助眠的天然疗法旗号进行营销。这种在全美各地加油站、烟草店和便利店合法销售的产品已与多起药物过量死伤事件有关，正引发美国公共卫生危机。</p>]]></description>
+            <link>https://cn.wsj.com/articles/a-herbal-product-sold-at-gas-stations-is-being-blamed-for-an-addiction-crisis-53d2af71</link>
+            <guid isPermaLink="false">WP-WSJS-0003810807</guid>
+            <pubDate>Wed, 12 Aug 2026 02:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国房贷之王亏损6亿美元，被迫寻求救助]]></title>
@@ -126,25 +140,18 @@
             <pubDate>Wed, 12 Aug 2026 00:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[为防范“影子违约”，私募信贷公司收紧贷款优惠条款]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-13844193?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在软件公司Medallia的倒闭事件震惊私募信贷行业、并最终由债权人接管之前，该公司已将其激增至约28亿美元的债务利息支付推迟了大约四年。</p>]]></description>
-            <link>https://cn.wsj.com/articles/private-credit-firms-clamp-down-on-loan-sweeteners-in-fear-of-shadow-defaults-06e23540</link>
-            <guid isPermaLink="false">WP-WSJS-0003810436</guid>
-            <pubDate>Tue, 11 Aug 2026 23:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生科技指数将迎重大调整，AI将提升为独立主题]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-643512?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家香港指数编制公司周一发布了一份公开咨询文件。文件显示，恒生科技指数此次调整旨在扩大科技主题覆盖范围，并增加成分股数量，以反映快速演变的科技格局。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%81%92%E7%94%9F%E7%A7%91%E6%8A%80%E6%8C%87%E6%95%B0%E5%B0%86%E8%BF%8E%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4-ai%E7%AD%89%E6%8F%90%E5%8D%87%E4%B8%BA%E7%8B%AC%E7%AB%8B%E4%B8%BB%E9%A2%98-f0cb8c7e</link>
-            <guid isPermaLink="false">WP-WSJS-0003808267</guid>
-            <pubDate>Tue, 11 Aug 2026 11:31:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[索尼与台积电将斥资47亿美元组建图像传感器合资企业]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-63158131?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>合资企业将生产用于智能手机的下一代图像传感器，预计将于2029年启动量产。</p>]]></description>
             <link>https://cn.wsj.com/articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-joint-venture-10216e7a</link>
             <guid isPermaLink="false">WP-WSJS-0003810390</guid>
             <pubDate>Tue, 11 Aug 2026 23:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为防范“影子违约”，私募信贷公司收紧贷款优惠条款]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-13844193?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在软件公司Medallia的倒闭事件震惊私募信贷行业、并最终由债权人接管之前，该公司已将其激增至约28亿美元的债务利息支付推迟了大约四年。</p>]]></description>
+            <link>https://cn.wsj.com/articles/private-credit-firms-clamp-down-on-loan-sweeteners-in-fear-of-shadow-defaults-06e23540</link>
+            <guid isPermaLink="false">WP-WSJS-0003810436</guid>
+            <pubDate>Tue, 11 Aug 2026 23:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[三星堆失落文明谜团重重，正重塑对中华文明起源的认知]]></title>
@@ -189,6 +196,13 @@
             <pubDate>Mon, 10 Aug 2026 01:53:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[欧洲启用新护照系统，旅客抓狂了]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-37228444?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>欧盟全新的电子出入境系统可谓一团糟，尽管偶尔也能正常运转。</p>]]></description>
+            <link>https://cn.wsj.com/articles/europe-has-a-new-passport-systemand-its-driving-travelers-crazy-e1f6ad08</link>
+            <guid isPermaLink="false">WP-WSJS-0003810834</guid>
+            <pubDate>Wed, 12 Aug 2026 03:07:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[当一名保姆不够用时，“CEO式育儿”的父母雇佣整个团队]]></title>
             <description><![CDATA[<img width="1080" height="718" src="https://images.wsj.net/im-30161503?size=1.5053763440860215&width=1080" class="webfeedsFeaturedVisual" alt=""/><p>有些富裕的父母豪掷逾25万美元，为孩子配备一整个服务团队，从而将传统的育儿职责外包出去。父母们表示这能腾出时间让他们与孩子度过更有意义的时光。</p>]]></description>
             <link>https://cn.wsj.com/articles/ceo-parent-nanny-assistant-teams-hiring-408a87c2</link>
@@ -201,13 +215,6 @@
             <link>https://cn.wsj.com/articles/%E6%8E%A2%E7%A7%98%E5%93%81%E5%AE%A2%E7%94%9F%E4%BA%A7%E7%BA%BF-ai%E5%A6%82%E4%BD%95%E8%AE%A9%E6%AF%8F%E4%B8%80%E7%89%87%E8%96%AF%E7%89%87%E9%83%BD%E5%AE%8C%E7%BE%8E-7ad42d01</link>
             <guid isPermaLink="false">WP-WSJS-0003795878</guid>
             <pubDate>Thu, 06 Aug 2026 01:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热狗华丽转身：从平民美食卖到100美元]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-35530394?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高级配料、奢华的摆盘和超大份量正将热狗推向高级料理的行列。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%83%AD%E7%8B%97%E5%8D%8E%E4%B8%BD%E8%BD%AC%E8%BA%AB-%E4%BB%8E%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F%E5%8D%96%E5%88%B0100%E7%BE%8E%E5%85%83-db33992b</link>
-            <guid isPermaLink="false">WP-WSJS-0003800038</guid>
-            <pubDate>Fri, 07 Aug 2026 04:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
