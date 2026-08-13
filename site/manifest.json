@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:01:07.945714+00:00",
+  "generated_at": "2026-08-13T07:44:15.728162+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,15 +17,27 @@
       "error": ""
     },
     {
-      "title": "战火烧向全球又一个咽喉要道：黑海",
-      "summary": "俄罗斯加大对粮食运输的袭击力度，乌克兰则袭击油轮，全球市场神经紧绷。",
-      "link": "https://cn.wsj.com/articles/war-is-squeezing-another-global-chokepoint-the-black-sea-059d6948",
-      "guid": "WP-WSJS-0003813790",
-      "pub_date": "Thu, 13 Aug 2026 01:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-16842068?size=1.501&width=1280",
-      "snapshot": "articles/war-is-squeezing-another-global-chokepoint-the-b-839a2dee9582.html",
+      "title": "中国式审查正渗入美国AI模型的回答中",
+      "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
+      "link": "https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6",
+      "guid": "WP-WSJS-0003814045",
+      "pub_date": "Thu, 13 Aug 2026 03:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-26081712?size=1.402&width=1280",
+      "snapshot": "articles/chinese-censorship-is-leaking-into-answers-from--a62cf82baf2a.html",
       "captured": true,
-      "capture_title": "战火烧向全球又一个咽喉要道：黑海",
+      "capture_title": "中国式审查正渗入美国AI模型的回答中",
+      "error": ""
+    },
+    {
+      "title": "中国央行承诺提供政策支持",
+      "summary": "但未透露更多细节。经济学家表示，中国央行此番表态呼应了上个月中共中央政治局会议的精神。这进一步强化了外界关于政府不会出台重大宽松举措的预期。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E6%89%BF%E8%AF%BA%E6%8F%90%E4%BE%9B%E6%94%BF%E7%AD%96%E6%94%AF%E6%8C%81-34d92eae",
+      "guid": "WP-WSJS-0003814109",
+      "pub_date": "Thu, 13 Aug 2026 04:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-10698827?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-a4-ae-e8-a1-8c-e6-89-bf-e8--1dfe172db858.html",
+      "captured": true,
+      "capture_title": "中国央行承诺提供政策支持 - WSJ",
       "error": ""
     },
     {
@@ -41,18 +53,6 @@
       "error": ""
     },
     {
-      "title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
-      "summary": "顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。",
-      "link": "https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb",
-      "guid": "WP-WSJS-0003813755",
-      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-13314707?size=1.419&width=1280",
-      "snapshot": "articles/wealth-management-has-a-3-trillion-problem-inves-cfd364f0a600.html",
-      "captured": true,
-      "capture_title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
-      "error": ""
-    },
-    {
       "title": "美乌军队在演习中展开对决：乌克兰无人机胜出",
       "summary": "这次惨败带来了乌克兰战场上关于短程无人机的教训。这类无人机主导了俄罗斯和乌克兰之间的冲突。",
       "link": "https://cn.wsj.com/articles/u-s-and-ukrainian-forces-went-head-to-head-in-an-exercise-ukraines-drones-won-7d83bbdb",
@@ -65,15 +65,15 @@
       "error": ""
     },
     {
-      "title": "CoreWeave股价大涨提振AI交易",
-      "summary": "CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。",
-      "link": "https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789",
-      "guid": "WP-WSJS-0003813557",
-      "pub_date": "Wed, 12 Aug 2026 23:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-96446143?size=1.499&width=1280",
-      "snapshot": "articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-571c9d5f954b.html",
+      "title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
+      "summary": "顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。",
+      "link": "https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb",
+      "guid": "WP-WSJS-0003813755",
+      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-13314707?size=1.419&width=1280",
+      "snapshot": "articles/wealth-management-has-a-3-trillion-problem-inves-cfd364f0a600.html",
       "captured": true,
-      "capture_title": "CoreWeave股价大涨提振AI交易",
+      "capture_title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
       "error": ""
     },
     {
@@ -89,6 +89,18 @@
       "error": ""
     },
     {
+      "title": "重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财",
+      "summary": "《华尔街日报》历时一年的调查发现，盗用的身份、AI工具以及美国本土的同谋正在为金正恩政权提供资金。",
+      "link": "https://cn.wsj.com/articles/%E9%87%8D%E7%A3%85%E8%B0%83%E6%9F%A5-%E6%8F%AD%E7%A7%98%E6%9C%9D%E9%B2%9C%E7%89%B9%E5%B7%A5%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E5%85%A5%E8%81%8C%E7%BE%8E%E4%BC%81%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E6%95%9B%E8%B4%A2-8826a4e5",
+      "guid": "WP-WSJS-0003814132",
+      "pub_date": "Thu, 13 Aug 2026 05:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-38488495?size=1.778&width=1280",
+      "snapshot": "articles/e9-87-8d-e7-a3-85-e8-b0-83-e6-9f-a5--e6-8f-ad-e7-7f20ccd5c68a.html",
+      "captured": true,
+      "capture_title": "重磅调查纪录片：揭秘朝鲜特工如何远程入职美企为金正恩敛财 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国下一个经济雄心：成为穆斯林世界的“超级工厂”",
       "summary": "中国出口商正跨步迈入清真食品、化妆品及时尚产业，然而若想在这个巨大市场中取得成功，取决于一种比廉价商品更难打造的东西：信任。",
       "link": "https://cn.wsj.com/articles/chinasnext-economic-ambition-workshop-for-the-muslim-world-73ec9e75",
@@ -97,43 +109,19 @@
       "image_url": "https://images.mktw.net/im-92791734?size=1.46&width=1280",
       "snapshot": "articles/chinasnext-economic-ambition-workshop-for-the-mu-e0d67970668e.html",
       "captured": true,
-      "capture_title": "中国下一个经济雄心：成为穆斯林世界的“超级工厂” - WSJ",
+      "capture_title": "中国下一个经济雄心：成为穆斯林世界的“超级工厂”",
       "error": ""
     },
     {
-      "title": "中国式审查正渗入美国AI模型的回答中",
-      "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
-      "link": "https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6",
-      "guid": "WP-WSJS-0003814045",
-      "pub_date": "Thu, 13 Aug 2026 03:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-26081712?size=1.402&width=1280",
-      "snapshot": "articles/chinese-censorship-is-leaking-into-answers-from--a62cf82baf2a.html",
+      "title": "战火烧向全球又一个咽喉要道：黑海",
+      "summary": "俄罗斯加大对粮食运输的袭击力度，乌克兰则袭击油轮，全球市场神经紧绷。",
+      "link": "https://cn.wsj.com/articles/war-is-squeezing-another-global-chokepoint-the-black-sea-059d6948",
+      "guid": "WP-WSJS-0003813790",
+      "pub_date": "Thu, 13 Aug 2026 01:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-16842068?size=1.501&width=1280",
+      "snapshot": "articles/war-is-squeezing-another-global-chokepoint-the-b-839a2dee9582.html",
       "captured": true,
-      "capture_title": "中国式审查正渗入美国AI模型的回答中 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
-      "summary": "一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。",
-      "link": "https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e",
-      "guid": "WP-WSJS-0003813992",
-      "pub_date": "Thu, 13 Aug 2026 03:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-84691352?size=1.501&width=1280",
-      "snapshot": "articles/how-trumps-ruse-to-evade-an-iranian-threat-unfol-02f8731d654a.html",
-      "captured": true,
-      "capture_title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "AI支出打断腾讯两位数利润增长势头",
-      "summary": "腾讯第二季度净利润同比增长0.7%，不及市场预期；调整后净利润则增长9%。  这家中国公司表示，今年其AI支出将增长逾一倍。",
-      "link": "https://cn.wsj.com/articles/ai%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4-343cf60d",
-      "guid": "WP-WSJS-0003811474",
-      "pub_date": "Wed, 12 Aug 2026 11:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-31303176?size=1.501&width=1280",
-      "snapshot": "articles/ai-e6-94-af-e5-87-ba-e6-89-93-e6-96-ad-e8-85-be--cb72437d7b53.html",
-      "captured": true,
-      "capture_title": "AI支出打断腾讯两位数利润增长势头",
+      "capture_title": "战火烧向全球又一个咽喉要道：黑海",
       "error": ""
     },
     {
@@ -146,6 +134,18 @@
       "snapshot": "articles/will-taiwan-fight-china-just-ask-its-people-26eb-f861e84ae022.html",
       "captured": true,
       "capture_title": "台湾会与中国一战吗？听听台湾民众怎么说",
+      "error": ""
+    },
+    {
+      "title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
+      "summary": "一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。",
+      "link": "https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e",
+      "guid": "WP-WSJS-0003813992",
+      "pub_date": "Thu, 13 Aug 2026 03:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-84691352?size=1.501&width=1280",
+      "snapshot": "articles/how-trumps-ruse-to-evade-an-iranian-threat-unfol-02f8731d654a.html",
+      "captured": true,
+      "capture_title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
       "error": ""
     },
     {
@@ -173,6 +173,30 @@
       "error": ""
     },
     {
+      "title": "AI支出打断腾讯两位数利润增长势头",
+      "summary": "腾讯第二季度净利润同比增长0.7%，不及市场预期；调整后净利润则增长9%。  这家中国公司表示，今年其AI支出将增长逾一倍。",
+      "link": "https://cn.wsj.com/articles/ai%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4-343cf60d",
+      "guid": "WP-WSJS-0003811474",
+      "pub_date": "Wed, 12 Aug 2026 11:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-31303176?size=1.501&width=1280",
+      "snapshot": "articles/ai-e6-94-af-e5-87-ba-e6-89-93-e6-96-ad-e8-85-be--cb72437d7b53.html",
+      "captured": true,
+      "capture_title": "AI支出打断腾讯两位数利润增长势头",
+      "error": ""
+    },
+    {
+      "title": "CoreWeave股价大涨提振AI交易",
+      "summary": "CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。",
+      "link": "https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789",
+      "guid": "WP-WSJS-0003813557",
+      "pub_date": "Wed, 12 Aug 2026 23:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-96446143?size=1.499&width=1280",
+      "snapshot": "articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-571c9d5f954b.html",
+      "captured": true,
+      "capture_title": "CoreWeave股价大涨提振AI交易",
+      "error": ""
+    },
+    {
       "title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
       "summary": "由迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳牵头的财团已同意收购洛杉矶湖人队的控股权。该球队现管理者马克·沃尔特的商业帝国目前正被调查。",
       "link": "https://cn.wsj.com/articles/lakers-iger-kushner-walter-f6612952",
@@ -182,18 +206,6 @@
       "snapshot": "articles/lakers-iger-kushner-walter-f6612952-19d95a5217e8.html",
       "captured": true,
       "capture_title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
-      "error": ""
-    },
-    {
-      "title": "谷歌人事大地震前夕，Deepmind哈萨比斯曾提议设立AI监督机构",
-      "summary": "在卸任Deepmind CEO的前几周，哈萨比斯曾与其他AI实验室负责人以及贝森特等特朗普政府官员讨论成立一个新的独立行业安全机构。",
-      "link": "https://cn.wsj.com/articles/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-afd49ddb",
-      "guid": "WP-WSJS-0003814057",
-      "pub_date": "Thu, 13 Aug 2026 03:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-22377074?size=1.25&width=1280",
-      "snapshot": "articles/deepminds-hassabis-pitched-ai-oversight-body-bef-0f2fbf1923a0.html",
-      "captured": true,
-      "capture_title": "谷歌人事大地震前夕，Deepmind哈萨比斯曾提议设立AI监督机构 - WSJ",
       "error": ""
     },
     {
@@ -209,27 +221,15 @@
       "error": ""
     },
     {
-      "title": "特朗普因Truth Social向交易员提供高速实时数据流而遭起诉",
-      "summary": "近期推出的Truth Social帖子“抢先看”服务已有10多家客户付费签约。",
-      "link": "https://cn.wsj.com/articles/trump-sued-over-truth-social-s-real-time-feed-for-traders-c25d0145",
-      "guid": "WP-WSJS-0003813618",
-      "pub_date": "Wed, 12 Aug 2026 23:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-78261251?size=2&width=1280",
-      "snapshot": "articles/trump-sued-over-truth-social-s-real-time-feed-fo-6dc349661882.html",
+      "title": "“内鬼”泄露官方机密以谋私利，中国反腐面临隐患",
+      "summary": "中共官方已对这一现象表示警惕，并试图追查泄密者。腐败案件信息的泄露也引发了人们对习近平反腐效能的质疑。",
+      "link": "https://cn.wsj.com/articles/%E5%86%85%E9%AC%BC-%E6%B3%84%E9%9C%B2%E5%AE%98%E6%96%B9%E6%9C%BA%E5%AF%86%E4%BB%A5%E8%B0%8B%E7%A7%81%E5%88%A9-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E9%9D%A2%E4%B8%B4%E9%9A%90%E6%82%A3-30973621",
+      "guid": "WP-WSJS-0003805247",
+      "pub_date": "Mon, 10 Aug 2026 08:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-37090372?size=1.435&width=1280",
+      "snapshot": "articles/e5-86-85-e9-ac-bc--e6-b3-84-e9-9c-b2-e5-ae-98-e6-f03e78317e83.html",
       "captured": true,
-      "capture_title": "特朗普因Truth Social向交易员提供高速实时数据流而遭起诉 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
-      "summary": "卡痛叶产品一直打着缓解疼痛、抗疲劳和助眠的天然疗法旗号进行营销。这种在全美各地加油站、烟草店和便利店合法销售的产品已与多起药物过量死伤事件有关，正引发美国公共卫生危机。",
-      "link": "https://cn.wsj.com/articles/a-herbal-product-sold-at-gas-stations-is-being-blamed-for-an-addiction-crisis-53d2af71",
-      "guid": "WP-WSJS-0003810807",
-      "pub_date": "Wed, 12 Aug 2026 02:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-25515066?size=1.501&width=1280",
-      "snapshot": "articles/a-herbal-product-sold-at-gas-stations-is-being-b-d9cd0bd3c3ae.html",
-      "captured": true,
-      "capture_title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
+      "capture_title": "“内鬼”泄露官方机密以谋私利，中国反腐面临隐患",
       "error": ""
     },
     {
@@ -245,30 +245,6 @@
       "error": ""
     },
     {
-      "title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
-      "summary": "宇树科技即将成为中国内地首家人形机器人上市公司，并正乘着机器人热潮的东风，准备在资本市场大举融资。",
-      "link": "https://cn.wsj.com/articles/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-517af8f1",
-      "guid": "WP-WSJS-0003810556",
-      "pub_date": "Wed, 12 Aug 2026 01:13:00 GMT",
-      "image_url": "https://images.mktw.net/im-81941011?size=1.5&width=1280",
-      "snapshot": "articles/unitrees-ipo-may-be-just-the-beginning-of-an-inv-f80c95f6f2da.html",
-      "captured": true,
-      "capture_title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
-      "error": ""
-    },
-    {
-      "title": "“内鬼”泄露官方机密以谋私利，中国反腐面临隐患",
-      "summary": "中共官方已对这一现象表示警惕，并试图追查泄密者。腐败案件信息的泄露也引发了人们对习近平反腐效能的质疑。",
-      "link": "https://cn.wsj.com/articles/%E5%86%85%E9%AC%BC-%E6%B3%84%E9%9C%B2%E5%AE%98%E6%96%B9%E6%9C%BA%E5%AF%86%E4%BB%A5%E8%B0%8B%E7%A7%81%E5%88%A9-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E9%9D%A2%E4%B8%B4%E9%9A%90%E6%82%A3-30973621",
-      "guid": "WP-WSJS-0003805247",
-      "pub_date": "Mon, 10 Aug 2026 08:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-37090372?size=1.435&width=1280",
-      "snapshot": "articles/e5-86-85-e9-ac-bc--e6-b3-84-e9-9c-b2-e5-ae-98-e6-f03e78317e83.html",
-      "captured": true,
-      "capture_title": "“内鬼”泄露官方机密以谋私利，中国反腐面临隐患",
-      "error": ""
-    },
-    {
       "title": "三星堆失落文明谜团重重，正重塑对中华文明起源的认知",
       "summary": "三星堆祭祀坑发掘数十年后，那些造型奇异的神兽和神秘的面具依然令中国为之着迷。",
       "link": "https://cn.wsj.com/articles/%E4%B8%89%E6%98%9F%E5%A0%86%E5%A4%B1%E8%90%BD%E6%96%87%E6%98%8E%E8%B0%9C%E5%9B%A2%E9%87%8D%E9%87%8D-%E6%AD%A3%E9%87%8D%E5%A1%91%E5%AF%B9%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%E8%B5%B7%E6%BA%90%E7%9A%84%E8%AE%A4%E7%9F%A5-d52bf9e9",
@@ -281,15 +257,39 @@
       "error": ""
     },
     {
-      "title": "把日常健康数据喂给AI的“数据极客”",
-      "summary": "从备战马拉松到排解职场焦虑，健康狂热者正将个人数据接入聊天机器人，打造极致个性化的专属教练。",
-      "link": "https://cn.wsj.com/articles/%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%81%A5%E5%BA%B7%E6%95%B0%E6%8D%AE%E5%96%82%E7%BB%99ai%E7%9A%84-%E6%95%B0%E6%8D%AE%E6%9E%81%E5%AE%A2-0a7652df",
-      "guid": "WP-WSJS-0003810988",
-      "pub_date": "Wed, 12 Aug 2026 05:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-06442262?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e6-8a-8a-e6-97-a5-e5-b8-b8-e5-81-a5-e5-ba-b7-e6--58e05a039776.html",
+      "title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
+      "summary": "卡痛叶产品一直打着缓解疼痛、抗疲劳和助眠的天然疗法旗号进行营销。这种在全美各地加油站、烟草店和便利店合法销售的产品已与多起药物过量死伤事件有关，正引发美国公共卫生危机。",
+      "link": "https://cn.wsj.com/articles/a-herbal-product-sold-at-gas-stations-is-being-blamed-for-an-addiction-crisis-53d2af71",
+      "guid": "WP-WSJS-0003810807",
+      "pub_date": "Wed, 12 Aug 2026 02:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-25515066?size=1.501&width=1280",
+      "snapshot": "articles/a-herbal-product-sold-at-gas-stations-is-being-b-d9cd0bd3c3ae.html",
       "captured": true,
-      "capture_title": "把日常健康数据喂给AI的“数据极客”",
+      "capture_title": "“天然毒品”卡痛叶被指引发美国成瘾危机",
+      "error": ""
+    },
+    {
+      "title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
+      "summary": "宇树科技即将成为中国内地首家人形机器人上市公司，并正乘着机器人热潮的东风，准备在资本市场大举融资。",
+      "link": "https://cn.wsj.com/articles/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-517af8f1",
+      "guid": "WP-WSJS-0003810556",
+      "pub_date": "Wed, 12 Aug 2026 01:13:00 GMT",
+      "image_url": "https://images.mktw.net/im-81941011?size=1.5&width=1280",
+      "snapshot": "articles/unitrees-ipo-may-be-just-the-beginning-of-an-inv-f80c95f6f2da.html",
+      "captured": true,
+      "capture_title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
+      "error": ""
+    },
+    {
+      "title": "欧洲启用新护照系统，旅客抓狂了",
+      "summary": "欧盟全新的电子出入境系统可谓一团糟，尽管偶尔也能正常运转。",
+      "link": "https://cn.wsj.com/articles/europe-has-a-new-passport-systemand-its-driving-travelers-crazy-e1f6ad08",
+      "guid": "WP-WSJS-0003810834",
+      "pub_date": "Wed, 12 Aug 2026 03:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-37228444?size=1.78&width=1280",
+      "snapshot": "articles/europe-has-a-new-passport-systemand-its-driving--9221c78eebc8.html",
+      "captured": true,
+      "capture_title": "欧洲启用新护照系统，旅客抓狂了",
       "error": ""
     },
     {
@@ -302,6 +302,42 @@
       "snapshot": "articles/forget-about-fetching-coffee-this-summer-the-int-2c52dcff78d4.html",
       "captured": true,
       "capture_title": "告别端茶倒水，实习生今夏开始挑大梁",
+      "error": ""
+    },
+    {
+      "title": "谷歌人事大地震前夕，Deepmind哈萨比斯曾提议设立AI监督机构",
+      "summary": "在卸任Deepmind CEO的前几周，哈萨比斯曾与其他AI实验室负责人以及贝森特等特朗普政府官员讨论成立一个新的独立行业安全机构。",
+      "link": "https://cn.wsj.com/articles/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-afd49ddb",
+      "guid": "WP-WSJS-0003814057",
+      "pub_date": "Thu, 13 Aug 2026 03:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-22377074?size=1.25&width=1280",
+      "snapshot": "articles/deepminds-hassabis-pitched-ai-oversight-body-bef-0f2fbf1923a0.html",
+      "captured": true,
+      "capture_title": "谷歌人事大地震前夕，Deepmind哈萨比斯曾提议设立AI监督机构 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普因Truth Social向交易员提供高速实时数据流而遭起诉",
+      "summary": "近期推出的Truth Social帖子“抢先看”服务已有10多家客户付费签约。",
+      "link": "https://cn.wsj.com/articles/trump-sued-over-truth-social-s-real-time-feed-for-traders-c25d0145",
+      "guid": "WP-WSJS-0003813618",
+      "pub_date": "Wed, 12 Aug 2026 23:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-78261251?size=2&width=1280",
+      "snapshot": "articles/trump-sued-over-truth-social-s-real-time-feed-fo-6dc349661882.html",
+      "captured": true,
+      "capture_title": "特朗普因Truth Social向交易员提供高速实时数据流而遭起诉 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "把日常健康数据喂给AI的“数据极客”",
+      "summary": "从备战马拉松到排解职场焦虑，健康狂热者正将个人数据接入聊天机器人，打造极致个性化的专属教练。",
+      "link": "https://cn.wsj.com/articles/%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%81%A5%E5%BA%B7%E6%95%B0%E6%8D%AE%E5%96%82%E7%BB%99ai%E7%9A%84-%E6%95%B0%E6%8D%AE%E6%9E%81%E5%AE%A2-0a7652df",
+      "guid": "WP-WSJS-0003810988",
+      "pub_date": "Wed, 12 Aug 2026 05:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-06442262?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e6-8a-8a-e6-97-a5-e5-b8-b8-e5-81-a5-e5-ba-b7-e6--58e05a039776.html",
+      "captured": true,
+      "capture_title": "把日常健康数据喂给AI的“数据极客”",
       "error": ""
     },
     {
@@ -518,18 +554,6 @@
       "snapshot": "articles/cuba-china-solar-power-0c18f842-3c7130c0aecb.html",
       "captured": true,
       "capture_title": "古巴石油告急，正借力中国发展光伏",
-      "error": ""
-    },
-    {
-      "title": "欧洲启用新护照系统，旅客抓狂了",
-      "summary": "欧盟全新的电子出入境系统可谓一团糟，尽管偶尔也能正常运转。",
-      "link": "https://cn.wsj.com/articles/europe-has-a-new-passport-systemand-its-driving-travelers-crazy-e1f6ad08",
-      "guid": "WP-WSJS-0003810834",
-      "pub_date": "Wed, 12 Aug 2026 03:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-37228444?size=1.78&width=1280",
-      "snapshot": "articles/europe-has-a-new-passport-systemand-its-driving--9221c78eebc8.html",
-      "captured": true,
-      "capture_title": "欧洲启用新护照系统，旅客抓狂了",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/taiwan-tests-war-plans-to-thwart-chinese-invasio-9aba76cd0d01.html",
       "captured": true,
       "capture_title": "台湾演练旨在挫败中国入侵的作战计划",
-      "error": ""
-    },
-    {
-      "title": "中国对Palo Alto Networks产品启动网络安全审查",
-      "summary": "在中国官方宣布针对美国近期限制措施的一系列反制举措一天后，中方对派拓公司在华销售的产品实施审查。",
-      "link": "https://cn.wsj.com/articles/chinalaunches-cybersecurity-probe-into-palo-alto-networks-products-f52d766d",
-      "guid": "WP-WSJS-0003796673",
-      "pub_date": "Thu, 06 Aug 2026 10:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-86147461?size=1.501&width=1280",
-      "snapshot": "articles/chinalaunches-cybersecurity-probe-into-palo-alto-1663c17186d9.html",
-      "captured": true,
-      "capture_title": "中国对Palo Alto Networks产品启动网络安全审查 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "SpaceX股价再涨15.8%，首个禁售期届满",
-      "summary": "继周四天量股票解禁不跌反涨6.1%后，SpaceX股价再涨15.8%，报133.11美元，距135美元的IPO价格仅差几美元。",
-      "link": "https://cn.wsj.com/articles/spacex%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E6%9C%9F%E5%B1%8A%E6%BB%A1-%E8%82%A1%E4%BB%B7%E5%86%8D%E6%B6%A815-8-09cc22fc",
-      "guid": "WP-WSJS-0003803153",
-      "pub_date": "Sat, 08 Aug 2026 01:23:00 GMT",
-      "image_url": "https://images.mktw.net/im-00481430?size=1.44&width=1280",
-      "snapshot": "articles/spacex-e9-a6-96-e4-b8-aa-e7-a6-81-e5-94-ae-e6-9c-ad928d8f0510.html",
-      "captured": true,
-      "capture_title": "SpaceX股价再涨15.8%，首个禁售期届满",
       "error": ""
     }
   ]
