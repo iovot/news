@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:22:56.093574+00:00",
+  "generated_at": "2026-08-13T16:02:13.091105+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-07948120?size=1.45&width=1280",
       "snapshot": "articles/e6-97-a0-e5-b0-b1-e4-b8-9a-e7-b9-81-e8-8d-a3--e6-9a6b77368e4f.html",
       "captured": true,
-      "capture_title": "“无就业繁荣”时代已经到来 - WSJ",
+      "capture_title": "“无就业繁荣”时代已经到来",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-11992620?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e8-8a-af-e5-9b-bd-e9-99-85-e7-ac-ac-e4--7a643a7021e0.html",
       "captured": true,
-      "capture_title": "中芯国际第二季度净利润和收入双双激增 - WSJ",
+      "capture_title": "中芯国际第二季度净利润和收入双双激增",
       "error": ""
     },
     {
