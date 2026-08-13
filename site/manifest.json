@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:29:40.467333+00:00",
+  "generated_at": "2026-08-13T05:01:07.945714+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-130282?size=0.755&width=1280",
       "snapshot": "articles/zhu-rongji-engineer-of-chinas-economic-overhaul--0ec49fb6cd58.html",
       "captured": true,
-      "capture_title": "中国经济改革的工程师朱镕基去世，终年97岁 - WSJ",
+      "capture_title": "中国经济改革的工程师朱镕基去世，终年97岁",
       "error": ""
     },
     {
@@ -25,31 +25,7 @@
       "image_url": "https://images.wsj.net/im-16842068?size=1.501&width=1280",
       "snapshot": "articles/war-is-squeezing-another-global-chokepoint-the-b-839a2dee9582.html",
       "captured": true,
-      "capture_title": "战火烧向全球又一个咽喉要道：黑海 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
-      "summary": "顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。",
-      "link": "https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb",
-      "guid": "WP-WSJS-0003813755",
-      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-13314707?size=1.419&width=1280",
-      "snapshot": "articles/wealth-management-has-a-3-trillion-problem-inves-cfd364f0a600.html",
-      "captured": true,
-      "capture_title": "财富管理行业面临3万亿美元难题：投资者持有太多现金 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "CoreWeave股价大涨提振AI交易",
-      "summary": "CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。",
-      "link": "https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789",
-      "guid": "WP-WSJS-0003813557",
-      "pub_date": "Wed, 12 Aug 2026 23:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-96446143?size=1.499&width=1280",
-      "snapshot": "articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-571c9d5f954b.html",
-      "captured": true,
-      "capture_title": "CoreWeave股价大涨提振AI交易 - WSJ",
+      "capture_title": "战火烧向全球又一个咽喉要道：黑海",
       "error": ""
     },
     {
@@ -61,43 +37,19 @@
       "image_url": "https://images.wsj.net/im-87601455?size=0.749&width=1280",
       "snapshot": "articles/white-house-press-secretary-karoline-leavitt-to--3e3578ef6670.html",
       "captured": true,
-      "capture_title": "白宫新闻秘书卡罗琳·莱维特将卸任 - WSJ",
+      "capture_title": "白宫新闻秘书卡罗琳·莱维特将卸任",
       "error": ""
     },
     {
-      "title": "墨西哥在贸易谈判中推动美国降低北美汽车关税",
-      "summary": "墨西哥在修订《美墨加协定》的谈判中提出新方案，希望扩大汽车中可享受免税待遇的部分，并降低北美汽车的最高名义关税。",
-      "link": "https://cn.wsj.com/articles/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-cdaa0a99",
-      "guid": "WP-WSJS-0003813941",
-      "pub_date": "Thu, 13 Aug 2026 02:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-15461456?size=1.501&width=1280",
-      "snapshot": "articles/mexico-pushes-for-lower-auto-tariffs-in-trade-ta-a474e76de16e.html",
+      "title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
+      "summary": "顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。",
+      "link": "https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb",
+      "guid": "WP-WSJS-0003813755",
+      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-13314707?size=1.419&width=1280",
+      "snapshot": "articles/wealth-management-has-a-3-trillion-problem-inves-cfd364f0a600.html",
       "captured": true,
-      "capture_title": "在《美墨加协定》贸易谈判中，墨西哥推动美国降低北美汽车关税 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国7月份同比通胀率小幅降至3.4%",
-      "summary": "基础通胀相对温和的涨幅，可能会缓解美联储在9月份加息的紧迫压力。",
-      "link": "https://cn.wsj.com/articles/cpi-inflation-report-july-2026-e7abdab4",
-      "guid": "WP-WSJS-0003813620",
-      "pub_date": "Thu, 13 Aug 2026 00:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-34721805?size=1.5&width=1280",
-      "snapshot": "articles/cpi-inflation-report-july-2026-e7abdab4-a629347241f6.html",
-      "captured": true,
-      "capture_title": "美国7月份同比通胀率小幅降至3.4% - WSJ",
-      "error": ""
-    },
-    {
-      "title": "台湾会与中国一战吗？听听台湾民众怎么说",
-      "summary": "五位台湾人探讨了这个民主岛屿在中国阴影下的未来。",
-      "link": "https://cn.wsj.com/articles/will-taiwan-fight-china-just-ask-its-people-26ebf1fd",
-      "guid": "WP-WSJS-0003807829",
-      "pub_date": "Tue, 11 Aug 2026 04:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-21140475?size=1.5&width=1280",
-      "snapshot": "articles/will-taiwan-fight-china-just-ask-its-people-26eb-f861e84ae022.html",
-      "captured": true,
-      "capture_title": "台湾会与中国一战吗？听听台湾民众怎么说",
+      "capture_title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
       "error": ""
     },
     {
@@ -109,19 +61,67 @@
       "image_url": "https://images.wsj.net/im-35434169?size=1.501&width=1280",
       "snapshot": "articles/u-s-and-ukrainian-forces-went-head-to-head-in-an-ab40fedaf6aa.html",
       "captured": true,
-      "capture_title": "美乌军队在演习中展开对决：乌克兰无人机胜出 - WSJ",
+      "capture_title": "美乌军队在演习中展开对决：乌克兰无人机胜出",
       "error": ""
     },
     {
-      "title": "马姆达尼与纽约的“蜜月期”宣告结束",
-      "summary": "纽约市长正面临“第二居所税”落地引发的混乱局面，而他与地方政界人士的关系也日益紧张。",
-      "link": "https://cn.wsj.com/articles/%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E4%B8%8E%E7%BA%BD%E7%BA%A6%E7%9A%84-%E8%9C%9C%E6%9C%88%E6%9C%9F-%E5%AE%A3%E5%91%8A%E7%BB%93%E6%9D%9F-79d37f5c",
-      "guid": "WP-WSJS-0003810766",
-      "pub_date": "Wed, 12 Aug 2026 11:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-34460471?size=1.499&width=1280",
-      "snapshot": "articles/e9-a9-ac-e5-a7-86-e8-be-be-e5-b0-bc-e4-b8-8e-e7--ecfd4cf20a0f.html",
+      "title": "CoreWeave股价大涨提振AI交易",
+      "summary": "CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。",
+      "link": "https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789",
+      "guid": "WP-WSJS-0003813557",
+      "pub_date": "Wed, 12 Aug 2026 23:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-96446143?size=1.499&width=1280",
+      "snapshot": "articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-571c9d5f954b.html",
       "captured": true,
-      "capture_title": "马姆达尼与纽约的“蜜月期”宣告结束",
+      "capture_title": "CoreWeave股价大涨提振AI交易",
+      "error": ""
+    },
+    {
+      "title": "墨西哥在贸易谈判中推动美国降低北美汽车关税",
+      "summary": "墨西哥在修订《美墨加协定》的谈判中提出新方案，希望扩大汽车中可享受免税待遇的部分，并降低北美汽车的最高名义关税。",
+      "link": "https://cn.wsj.com/articles/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-cdaa0a99",
+      "guid": "WP-WSJS-0003813941",
+      "pub_date": "Thu, 13 Aug 2026 02:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-15461456?size=1.501&width=1280",
+      "snapshot": "articles/mexico-pushes-for-lower-auto-tariffs-in-trade-ta-a474e76de16e.html",
+      "captured": true,
+      "capture_title": "墨西哥在贸易谈判中推动美国降低北美汽车关税",
+      "error": ""
+    },
+    {
+      "title": "中国下一个经济雄心：成为穆斯林世界的“超级工厂”",
+      "summary": "中国出口商正跨步迈入清真食品、化妆品及时尚产业，然而若想在这个巨大市场中取得成功，取决于一种比廉价商品更难打造的东西：信任。",
+      "link": "https://cn.wsj.com/articles/chinasnext-economic-ambition-workshop-for-the-muslim-world-73ec9e75",
+      "guid": "WP-WSJS-0003814075",
+      "pub_date": "Thu, 13 Aug 2026 04:06:00 GMT",
+      "image_url": "https://images.mktw.net/im-92791734?size=1.46&width=1280",
+      "snapshot": "articles/chinasnext-economic-ambition-workshop-for-the-mu-e0d67970668e.html",
+      "captured": true,
+      "capture_title": "中国下一个经济雄心：成为穆斯林世界的“超级工厂” - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国式审查正渗入美国AI模型的回答中",
+      "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
+      "link": "https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6",
+      "guid": "WP-WSJS-0003814045",
+      "pub_date": "Thu, 13 Aug 2026 03:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-26081712?size=1.402&width=1280",
+      "snapshot": "articles/chinese-censorship-is-leaking-into-answers-from--a62cf82baf2a.html",
+      "captured": true,
+      "capture_title": "中国式审查正渗入美国AI模型的回答中 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
+      "summary": "一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。",
+      "link": "https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e",
+      "guid": "WP-WSJS-0003813992",
+      "pub_date": "Thu, 13 Aug 2026 03:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-84691352?size=1.501&width=1280",
+      "snapshot": "articles/how-trumps-ruse-to-evade-an-iranian-threat-unfol-02f8731d654a.html",
+      "captured": true,
+      "capture_title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？ - WSJ",
       "error": ""
     },
     {
@@ -137,27 +137,15 @@
       "error": ""
     },
     {
-      "title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
-      "summary": "由迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳牵头的财团已同意收购洛杉矶湖人队的控股权。该球队现管理者马克·沃尔特的商业帝国目前正被调查。",
-      "link": "https://cn.wsj.com/articles/lakers-iger-kushner-walter-f6612952",
-      "guid": "WP-WSJS-0003813586",
-      "pub_date": "Wed, 12 Aug 2026 23:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-44555940?size=1.501&width=1280",
-      "snapshot": "articles/lakers-iger-kushner-walter-f6612952-19d95a5217e8.html",
+      "title": "台湾会与中国一战吗？听听台湾民众怎么说",
+      "summary": "五位台湾人探讨了这个民主岛屿在中国阴影下的未来。",
+      "link": "https://cn.wsj.com/articles/will-taiwan-fight-china-just-ask-its-people-26ebf1fd",
+      "guid": "WP-WSJS-0003807829",
+      "pub_date": "Tue, 11 Aug 2026 04:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-21140475?size=1.5&width=1280",
+      "snapshot": "articles/will-taiwan-fight-china-just-ask-its-people-26eb-f861e84ae022.html",
       "captured": true,
-      "capture_title": "洛杉矶湖人队被迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳收购，交易价值将达创纪录的125亿美元 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "路易威登的下一款新品？古董保时捷",
-      "summary": "该时尚品牌与Singer合作，改造了两辆经典跑车。",
-      "link": "https://cn.wsj.com/articles/singer-louis-vuitton-porsche-a9282644",
-      "guid": "WP-WSJS-0003813750",
-      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-38763152?size=1.501&width=1280",
-      "snapshot": "articles/singer-louis-vuitton-porsche-a9282644-69cef4bf786d.html",
-      "captured": true,
-      "capture_title": "路易威登的下一款新品？古董保时捷 - WSJ",
+      "capture_title": "台湾会与中国一战吗？听听台湾民众怎么说",
       "error": ""
     },
     {
@@ -169,7 +157,43 @@
       "image_url": "https://images.wsj.net/im-64790231?size=1.5&width=1280",
       "snapshot": "articles/chinesesmartphone-maker-honor-introduces-robot-p-8d85b1d5688c.html",
       "captured": true,
-      "capture_title": "荣耀发布具备AI功能的“机器人手机” - WSJ",
+      "capture_title": "荣耀发布具备AI功能的“机器人手机”",
+      "error": ""
+    },
+    {
+      "title": "路易威登的下一款新品？古董保时捷",
+      "summary": "该时尚品牌与Singer合作，改造了两辆经典跑车。",
+      "link": "https://cn.wsj.com/articles/singer-louis-vuitton-porsche-a9282644",
+      "guid": "WP-WSJS-0003813750",
+      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-38763152?size=1.501&width=1280",
+      "snapshot": "articles/singer-louis-vuitton-porsche-a9282644-69cef4bf786d.html",
+      "captured": true,
+      "capture_title": "路易威登的下一款新品？古董保时捷",
+      "error": ""
+    },
+    {
+      "title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
+      "summary": "由迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳牵头的财团已同意收购洛杉矶湖人队的控股权。该球队现管理者马克·沃尔特的商业帝国目前正被调查。",
+      "link": "https://cn.wsj.com/articles/lakers-iger-kushner-walter-f6612952",
+      "guid": "WP-WSJS-0003813586",
+      "pub_date": "Wed, 12 Aug 2026 23:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-44555940?size=1.501&width=1280",
+      "snapshot": "articles/lakers-iger-kushner-walter-f6612952-19d95a5217e8.html",
+      "captured": true,
+      "capture_title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
+      "error": ""
+    },
+    {
+      "title": "谷歌人事大地震前夕，Deepmind哈萨比斯曾提议设立AI监督机构",
+      "summary": "在卸任Deepmind CEO的前几周，哈萨比斯曾与其他AI实验室负责人以及贝森特等特朗普政府官员讨论成立一个新的独立行业安全机构。",
+      "link": "https://cn.wsj.com/articles/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-afd49ddb",
+      "guid": "WP-WSJS-0003814057",
+      "pub_date": "Thu, 13 Aug 2026 03:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-22377074?size=1.25&width=1280",
+      "snapshot": "articles/deepminds-hassabis-pitched-ai-oversight-body-bef-0f2fbf1923a0.html",
+      "captured": true,
+      "capture_title": "谷歌人事大地震前夕，Deepmind哈萨比斯曾提议设立AI监督机构 - WSJ",
       "error": ""
     },
     {
@@ -181,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-50220704?size=1.333&width=1280",
       "snapshot": "articles/apple-in-talks-to-pay-publishers-to-improve-ai-p-09876e0ab3f9.html",
       "captured": true,
-      "capture_title": "苹果洽谈向出版商付费，以改进AI驱动的Siri - WSJ",
+      "capture_title": "苹果洽谈向出版商付费，以改进AI驱动的Siri",
       "error": ""
     },
     {
@@ -194,18 +218,6 @@
       "snapshot": "articles/trump-sued-over-truth-social-s-real-time-feed-fo-6dc349661882.html",
       "captured": true,
       "capture_title": "特朗普因Truth Social向交易员提供高速实时数据流而遭起诉 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "StubHub客户买票已费尽周折，退款更是一场硬仗",
-      "summary": "StubHub让曾被黄牛党垄断的二手票务行业走向了合法化。如今，该平台却因退款流程漫长、球迷在世界杯比赛期间拿不到票无法入场观赛而屡遭投诉。",
-      "link": "https://cn.wsj.com/articles/stubhub%E5%AE%A2%E6%88%B7%E4%B9%B0%E7%A5%A8%E5%B7%B2%E8%B4%B9%E5%B0%BD%E5%91%A8%E6%8A%98-%E9%80%80%E6%AC%BE%E6%9B%B4%E6%98%AF%E4%B8%80%E5%9C%BA%E7%A1%AC%E4%BB%97-5927f75c",
-      "guid": "WP-WSJS-0003811286",
-      "pub_date": "Wed, 12 Aug 2026 10:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-71096183?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/stubhub-e5-ae-a2-e6-88-b7-e4-b9-b0-e7-a5-a8-e5-b-435f41a287eb.html",
-      "captured": true,
-      "capture_title": "StubHub客户买票已费尽周折，退款更是一场硬仗",
       "error": ""
     },
     {
@@ -281,7 +293,7 @@
       "error": ""
     },
     {
-      "title": "告别端茶倒水，今年夏天实习生开始挑大梁",
+      "title": "告别端茶倒水，实习生今夏开始挑大梁",
       "summary": "随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。",
       "link": "https://cn.wsj.com/articles/forget-about-fetching-coffee-this-summer-the-interns-are-running-the-show-85865847",
       "guid": "WP-WSJS-0003813935",
@@ -289,7 +301,43 @@
       "image_url": "https://images.wsj.net/im-49478180?size=1.778&width=1280",
       "snapshot": "articles/forget-about-fetching-coffee-this-summer-the-int-2c52dcff78d4.html",
       "captured": true,
-      "capture_title": "告别端茶倒水，今年夏天实习生开始挑大梁 - WSJ",
+      "capture_title": "告别端茶倒水，实习生今夏开始挑大梁",
+      "error": ""
+    },
+    {
+      "title": "美国7月份同比通胀率小幅降至3.4%",
+      "summary": "基础通胀相对温和的涨幅，可能会缓解美联储在9月份加息的紧迫压力。",
+      "link": "https://cn.wsj.com/articles/cpi-inflation-report-july-2026-e7abdab4",
+      "guid": "WP-WSJS-0003813620",
+      "pub_date": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-34721805?size=1.5&width=1280",
+      "snapshot": "articles/cpi-inflation-report-july-2026-e7abdab4-a629347241f6.html",
+      "captured": true,
+      "capture_title": "美国7月份同比通胀率小幅降至3.4% - WSJ",
+      "error": ""
+    },
+    {
+      "title": "马姆达尼与纽约的“蜜月期”宣告结束",
+      "summary": "纽约市长正面临“第二居所税”落地引发的混乱局面，而他与地方政界人士的关系也日益紧张。",
+      "link": "https://cn.wsj.com/articles/%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E4%B8%8E%E7%BA%BD%E7%BA%A6%E7%9A%84-%E8%9C%9C%E6%9C%88%E6%9C%9F-%E5%AE%A3%E5%91%8A%E7%BB%93%E6%9D%9F-79d37f5c",
+      "guid": "WP-WSJS-0003810766",
+      "pub_date": "Wed, 12 Aug 2026 11:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-34460471?size=1.499&width=1280",
+      "snapshot": "articles/e9-a9-ac-e5-a7-86-e8-be-be-e5-b0-bc-e4-b8-8e-e7--ecfd4cf20a0f.html",
+      "captured": true,
+      "capture_title": "马姆达尼与纽约的“蜜月期”宣告结束",
+      "error": ""
+    },
+    {
+      "title": "StubHub客户买票已费尽周折，退款更是一场硬仗",
+      "summary": "StubHub让曾被黄牛党垄断的二手票务行业走向了合法化。如今，该平台却因退款流程漫长、球迷在世界杯比赛期间拿不到票无法入场观赛而屡遭投诉。",
+      "link": "https://cn.wsj.com/articles/stubhub%E5%AE%A2%E6%88%B7%E4%B9%B0%E7%A5%A8%E5%B7%B2%E8%B4%B9%E5%B0%BD%E5%91%A8%E6%8A%98-%E9%80%80%E6%AC%BE%E6%9B%B4%E6%98%AF%E4%B8%80%E5%9C%BA%E7%A1%AC%E4%BB%97-5927f75c",
+      "guid": "WP-WSJS-0003811286",
+      "pub_date": "Wed, 12 Aug 2026 10:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-71096183?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/stubhub-e5-ae-a2-e6-88-b7-e4-b9-b0-e7-a5-a8-e5-b-435f41a287eb.html",
+      "captured": true,
+      "capture_title": "StubHub客户买票已费尽周折，退款更是一场硬仗",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/spacex-e9-a6-96-e4-b8-aa-e7-a6-81-e5-94-ae-e6-9c-ad928d8f0510.html",
       "captured": true,
       "capture_title": "SpaceX股价再涨15.8%，首个禁售期届满",
-      "error": ""
-    },
-    {
-      "title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
-      "summary": "调解人担心，在德黑兰强硬派的施压下，伊朗外交官即使达成协议，也缺乏确保协议得到遵守的影响力。",
-      "link": "https://cn.wsj.com/articles/can-irans-diminished-diplomats-deliver-a-hormuz-deal-20afefd3",
-      "guid": "WP-WSJS-0003799864",
-      "pub_date": "Fri, 07 Aug 2026 02:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-79322638?size=1.501&width=1280",
-      "snapshot": "articles/can-irans-diminished-diplomats-deliver-a-hormuz--25a00b7f5b52.html",
-      "captured": true,
-      "capture_title": "伊朗强硬派崛起，被削弱的外交官还能促成海峡解封协议吗？",
-      "error": ""
-    },
-    {
-      "title": "医生反感患者用AI解读化验单，但根本拦不住",
-      "summary": "据一项民意调查，大约三分之一的成年人会向AI聊天机器人寻求健康建议，19%的人专门使用AI来解读实验室数据或医学检查报告。 这导致医生不得不去纠正错误的指导意见。",
-      "link": "https://cn.wsj.com/articles/%E5%8C%BB%E7%94%9F%E5%8F%8D%E6%84%9F%E6%82%A3%E8%80%85%E7%94%A8ai%E8%A7%A3%E8%AF%BB%E5%8C%96%E9%AA%8C%E5%8D%95-%E4%BD%86%E6%A0%B9%E6%9C%AC%E6%8B%A6%E4%B8%8D%E4%BD%8F-27c22bca",
-      "guid": "WP-WSJS-0003799860",
-      "pub_date": "Fri, 07 Aug 2026 02:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-97709687?size=1.501&width=1280",
-      "snapshot": "articles/e5-8c-bb-e7-94-9f-e5-8f-8d-e6-84-9f-e6-82-a3-e8--e5cca27a28a3.html",
-      "captured": true,
-      "capture_title": "医生反感患者用AI解读化验单，但根本拦不住",
-      "error": ""
-    },
-    {
-      "title": "AI最新的骇人里程碑：生成新病毒",
-      "summary": "AI模型失控风险引发警惕，但研究者称AI模型创造新病毒的实验或可用于对抗耐药细菌。",
-      "link": "https://cn.wsj.com/articles/the-latest-scary-sounding-ai-milestone-a-brand-new-virus-67cc1360",
-      "guid": "WP-WSJS-0003800003",
-      "pub_date": "Fri, 07 Aug 2026 03:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-46498762?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/the-latest-scary-sounding-ai-milestone-a-brand-n-d6edbd11a3b6.html",
-      "captured": true,
-      "capture_title": "AI最新的骇人里程碑：生成新病毒",
-      "error": ""
-    },
-    {
-      "title": "美国能源行业响起新口号：“炼油，炼油，炼油”",
-      "summary": "在全球燃油供应面临困境之际，美国燃油厂商的产能已达极限。",
-      "link": "https://cn.wsj.com/articles/refine-baby-refine-is-the-energy-industrys-new-mantra-c683e48b",
-      "guid": "WP-WSJS-0003800071",
-      "pub_date": "Fri, 07 Aug 2026 04:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-41729715?size=1.501&width=1280",
-      "snapshot": "articles/refine-baby-refine-is-the-energy-industrys-new-m-2c443d476725.html",
-      "captured": true,
-      "capture_title": "美国能源行业响起新口号：“炼油，炼油，炼油”",
       "error": ""
     }
   ]
