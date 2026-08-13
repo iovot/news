@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 10:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 13:20:58 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 10:12:07 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 13:20:58 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,13 +28,6 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[中国经济改革的工程师朱镕基去世，终年97岁]]></title>
-            <description><![CDATA[<img width="1280" height="1695" src="https://images.wsj.net/im-130282?size=0.755&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位前总理曾引领中国向西方市场原则靠拢，并推动中国加入世界贸易组织。</p>]]></description>
-            <link>https://cn.wsj.com/articles/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-aeab0b84</link>
-            <guid isPermaLink="false">WP-WSJS-0003813905</guid>
-            <pubDate>Thu, 13 Aug 2026 02:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[中国式审查正渗入美国AI模型的回答中]]></title>
             <description><![CDATA[<img width="1280" height="913" src="https://images.wsj.net/im-26081712?size=1.402&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。</p>]]></description>
             <link>https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6</link>
@@ -49,11 +42,25 @@
             <pubDate>Thu, 13 Aug 2026 04:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[“无就业繁荣”时代已经到来]]></title>
+            <description><![CDATA[<img width="1280" height="883" src="https://images.wsj.net/im-07948120?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>股市认为美国经济正在加速，但招聘活动并未跟上。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%97%A0%E5%B0%B1%E4%B8%9A%E7%B9%81%E8%8D%A3-%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5-1d734b4a</link>
+            <guid isPermaLink="false">WP-WSJS-0003814487</guid>
+            <pubDate>Thu, 13 Aug 2026 11:02:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[白宫新闻秘书卡罗琳·莱维特将卸任]]></title>
-            <description><![CDATA[<img width="1280" height="1709" src="https://images.wsj.net/im-87601455?size=0.749&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>白宫新闻秘书、特朗普最亲密的顾问之一卡罗琳·莱维特将于本月底离职。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="1709" src="https://images.wsj.net/im-87601455?size=0.749&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>莱维特自特朗普第一个任期起就为他工作，一直是总统最坚定的捍卫者之一。</p>]]></description>
             <link>https://cn.wsj.com/articles/white-house-press-secretary-karoline-leavitt-to-step-down-6f8fc0c5</link>
             <guid isPermaLink="false">WP-WSJS-0003813562</guid>
             <pubDate>Wed, 12 Aug 2026 23:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[战火烧向全球又一个咽喉要道：黑海]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-16842068?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>俄罗斯加大对粮食运输的袭击力度，乌克兰则袭击油轮，全球市场神经紧绷。</p>]]></description>
+            <link>https://cn.wsj.com/articles/war-is-squeezing-another-global-chokepoint-the-black-sea-059d6948</link>
+            <guid isPermaLink="false">WP-WSJS-0003813790</guid>
+            <pubDate>Thu, 13 Aug 2026 01:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美乌军队在演习中展开对决：乌克兰无人机胜出]]></title>
@@ -61,20 +68,6 @@
             <link>https://cn.wsj.com/articles/u-s-and-ukrainian-forces-went-head-to-head-in-an-exercise-ukraines-drones-won-7d83bbdb</link>
             <guid isPermaLink="false">WP-WSJS-0003813699</guid>
             <pubDate>Thu, 13 Aug 2026 10:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[财富管理行业面临3万亿美元难题：投资者持有太多现金]]></title>
-            <description><![CDATA[<img width="1280" height="902" src="https://images.wsj.net/im-13314707?size=1.419&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。</p>]]></description>
-            <link>https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb</link>
-            <guid isPermaLink="false">WP-WSJS-0003813755</guid>
-            <pubDate>Thu, 13 Aug 2026 00:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥在贸易谈判中推动美国降低北美汽车关税]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15461456?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>墨西哥在修订《美墨加协定》的谈判中提出新方案，希望扩大汽车中可享受免税待遇的部分，并降低北美汽车的最高名义关税。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-cdaa0a99</link>
-            <guid isPermaLink="false">WP-WSJS-0003813941</guid>
-            <pubDate>Thu, 13 Aug 2026 02:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财]]></title>
@@ -91,11 +84,11 @@
             <pubDate>Thu, 13 Aug 2026 04:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[战火烧向全球又一个咽喉要道：黑海]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-16842068?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>俄罗斯加大对粮食运输的袭击力度，乌克兰则袭击油轮，全球市场神经紧绷。</p>]]></description>
-            <link>https://cn.wsj.com/articles/war-is-squeezing-another-global-chokepoint-the-black-sea-059d6948</link>
-            <guid isPermaLink="false">WP-WSJS-0003813790</guid>
-            <pubDate>Thu, 13 Aug 2026 01:15:00 GMT</pubDate>
+            <title><![CDATA[中国经济改革的工程师朱镕基去世，终年97岁]]></title>
+            <description><![CDATA[<img width="1280" height="1695" src="https://images.wsj.net/im-130282?size=0.755&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位前总理曾引领中国向西方市场原则靠拢，并推动中国加入世界贸易组织。</p>]]></description>
+            <link>https://cn.wsj.com/articles/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-aeab0b84</link>
+            <guid isPermaLink="false">WP-WSJS-0003813905</guid>
+            <pubDate>Thu, 13 Aug 2026 02:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[台湾会与中国一战吗？听听台湾民众怎么说]]></title>
@@ -112,6 +105,20 @@
             <pubDate>Thu, 13 Aug 2026 03:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中芯国际第二季度净利润和收入双双激增]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11992620?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104</link>
+            <guid isPermaLink="false">WP-WSJS-0003814645</guid>
+            <pubDate>Thu, 13 Aug 2026 11:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财富管理行业面临3万亿美元难题：投资者持有太多现金]]></title>
+            <description><![CDATA[<img width="1280" height="902" src="https://images.wsj.net/im-13314707?size=1.419&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。</p>]]></description>
+            <link>https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb</link>
+            <guid isPermaLink="false">WP-WSJS-0003813755</guid>
+            <pubDate>Thu, 13 Aug 2026 00:41:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[荣耀发布具备AI功能的“机器人手机”]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-64790231?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>荣耀周三发布了一款名为“Robot Phone”的产品，该设备背面配备了一个可从机身展开的摄像头，起售价为人民币9,999元。</p>]]></description>
             <link>https://cn.wsj.com/articles/chinesesmartphone-maker-honor-introduces-robot-phone-with-ai-functions-d880b8fc</link>
@@ -126,32 +133,11 @@
             <pubDate>Thu, 13 Aug 2026 00:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI支出打断腾讯两位数利润增长势头]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-31303176?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>腾讯第二季度净利润同比增长0.7%，不及市场预期；调整后净利润则增长9%。  这家中国公司表示，今年其AI支出将增长逾一倍。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4-343cf60d</link>
-            <guid isPermaLink="false">WP-WSJS-0003811474</guid>
-            <pubDate>Wed, 12 Aug 2026 11:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoreWeave股价大涨提振AI交易]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-96446143?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。</p>]]></description>
-            <link>https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789</link>
-            <guid isPermaLink="false">WP-WSJS-0003813557</guid>
-            <pubDate>Wed, 12 Aug 2026 23:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44555940?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>由迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳牵头的财团已同意收购洛杉矶湖人队的控股权。该球队现管理者马克·沃尔特的商业帝国目前正被调查。</p>]]></description>
-            <link>https://cn.wsj.com/articles/lakers-iger-kushner-walter-f6612952</link>
-            <guid isPermaLink="false">WP-WSJS-0003813586</guid>
-            <pubDate>Wed, 12 Aug 2026 23:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果洽谈向出版商付费，以改进AI驱动的Siri]]></title>
-            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-50220704?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士表示，苹果公司提议的新多年期协议将使其能够获取即时新闻和资讯，为预计今年晚些时候推出的Siri AI提供支持。</p>]]></description>
-            <link>https://cn.wsj.com/articles/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-e8f06427</link>
-            <guid isPermaLink="false">WP-WSJS-0003813575</guid>
-            <pubDate>Wed, 12 Aug 2026 23:26:00 GMT</pubDate>
+            <title><![CDATA[墨西哥在贸易谈判中推动美国降低北美汽车关税]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15461456?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>墨西哥在修订《美墨加协定》的谈判中提出新方案，希望扩大汽车中可享受免税待遇的部分，并降低北美汽车的最高名义关税。</p>]]></description>
+            <link>https://cn.wsj.com/articles/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-cdaa0a99</link>
+            <guid isPermaLink="false">WP-WSJS-0003813941</guid>
+            <pubDate>Thu, 13 Aug 2026 02:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“内鬼”泄露官方机密以谋私利，中国反腐面临隐患]]></title>

@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-08-13T10:12:08.968506+00:00",
+  "generated_at": "2026-08-13T13:22:56.093574+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
-    {
-      "title": "中国经济改革的工程师朱镕基去世，终年97岁",
-      "summary": "这位前总理曾引领中国向西方市场原则靠拢，并推动中国加入世界贸易组织。",
-      "link": "https://cn.wsj.com/articles/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-aeab0b84",
-      "guid": "WP-WSJS-0003813905",
-      "pub_date": "Thu, 13 Aug 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-130282?size=0.755&width=1280",
-      "snapshot": "articles/zhu-rongji-engineer-of-chinas-economic-overhaul--0ec49fb6cd58.html",
-      "captured": true,
-      "capture_title": "中国经济改革的工程师朱镕基去世，终年97岁",
-      "error": ""
-    },
     {
       "title": "中国式审查正渗入美国AI模型的回答中",
       "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
@@ -41,8 +29,20 @@
       "error": ""
     },
     {
+      "title": "“无就业繁荣”时代已经到来",
+      "summary": "股市认为美国经济正在加速，但招聘活动并未跟上。",
+      "link": "https://cn.wsj.com/articles/%E6%97%A0%E5%B0%B1%E4%B8%9A%E7%B9%81%E8%8D%A3-%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5-1d734b4a",
+      "guid": "WP-WSJS-0003814487",
+      "pub_date": "Thu, 13 Aug 2026 11:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-07948120?size=1.45&width=1280",
+      "snapshot": "articles/e6-97-a0-e5-b0-b1-e4-b8-9a-e7-b9-81-e8-8d-a3--e6-9a6b77368e4f.html",
+      "captured": true,
+      "capture_title": "“无就业繁荣”时代已经到来 - WSJ",
+      "error": ""
+    },
+    {
       "title": "白宫新闻秘书卡罗琳·莱维特将卸任",
-      "summary": "白宫新闻秘书、特朗普最亲密的顾问之一卡罗琳·莱维特将于本月底离职。",
+      "summary": "莱维特自特朗普第一个任期起就为他工作，一直是总统最坚定的捍卫者之一。",
       "link": "https://cn.wsj.com/articles/white-house-press-secretary-karoline-leavitt-to-step-down-6f8fc0c5",
       "guid": "WP-WSJS-0003813562",
       "pub_date": "Wed, 12 Aug 2026 23:20:00 GMT",
@@ -50,6 +50,18 @@
       "snapshot": "articles/white-house-press-secretary-karoline-leavitt-to--3e3578ef6670.html",
       "captured": true,
       "capture_title": "白宫新闻秘书卡罗琳·莱维特将卸任",
+      "error": ""
+    },
+    {
+      "title": "战火烧向全球又一个咽喉要道：黑海",
+      "summary": "俄罗斯加大对粮食运输的袭击力度，乌克兰则袭击油轮，全球市场神经紧绷。",
+      "link": "https://cn.wsj.com/articles/war-is-squeezing-another-global-chokepoint-the-black-sea-059d6948",
+      "guid": "WP-WSJS-0003813790",
+      "pub_date": "Thu, 13 Aug 2026 01:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-16842068?size=1.501&width=1280",
+      "snapshot": "articles/war-is-squeezing-another-global-chokepoint-the-b-839a2dee9582.html",
+      "captured": true,
+      "capture_title": "战火烧向全球又一个咽喉要道：黑海",
       "error": ""
     },
     {
@@ -62,30 +74,6 @@
       "snapshot": "articles/u-s-and-ukrainian-forces-went-head-to-head-in-an-ab40fedaf6aa.html",
       "captured": true,
       "capture_title": "美乌军队在演习中展开对决：乌克兰无人机胜出",
-      "error": ""
-    },
-    {
-      "title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
-      "summary": "顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。",
-      "link": "https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb",
-      "guid": "WP-WSJS-0003813755",
-      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-13314707?size=1.419&width=1280",
-      "snapshot": "articles/wealth-management-has-a-3-trillion-problem-inves-cfd364f0a600.html",
-      "captured": true,
-      "capture_title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
-      "error": ""
-    },
-    {
-      "title": "墨西哥在贸易谈判中推动美国降低北美汽车关税",
-      "summary": "墨西哥在修订《美墨加协定》的谈判中提出新方案，希望扩大汽车中可享受免税待遇的部分，并降低北美汽车的最高名义关税。",
-      "link": "https://cn.wsj.com/articles/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-cdaa0a99",
-      "guid": "WP-WSJS-0003813941",
-      "pub_date": "Thu, 13 Aug 2026 02:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-15461456?size=1.501&width=1280",
-      "snapshot": "articles/mexico-pushes-for-lower-auto-tariffs-in-trade-ta-a474e76de16e.html",
-      "captured": true,
-      "capture_title": "墨西哥在贸易谈判中推动美国降低北美汽车关税",
       "error": ""
     },
     {
@@ -113,15 +101,15 @@
       "error": ""
     },
     {
-      "title": "战火烧向全球又一个咽喉要道：黑海",
-      "summary": "俄罗斯加大对粮食运输的袭击力度，乌克兰则袭击油轮，全球市场神经紧绷。",
-      "link": "https://cn.wsj.com/articles/war-is-squeezing-another-global-chokepoint-the-black-sea-059d6948",
-      "guid": "WP-WSJS-0003813790",
-      "pub_date": "Thu, 13 Aug 2026 01:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-16842068?size=1.501&width=1280",
-      "snapshot": "articles/war-is-squeezing-another-global-chokepoint-the-b-839a2dee9582.html",
+      "title": "中国经济改革的工程师朱镕基去世，终年97岁",
+      "summary": "这位前总理曾引领中国向西方市场原则靠拢，并推动中国加入世界贸易组织。",
+      "link": "https://cn.wsj.com/articles/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-aeab0b84",
+      "guid": "WP-WSJS-0003813905",
+      "pub_date": "Thu, 13 Aug 2026 02:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-130282?size=0.755&width=1280",
+      "snapshot": "articles/zhu-rongji-engineer-of-chinas-economic-overhaul--0ec49fb6cd58.html",
       "captured": true,
-      "capture_title": "战火烧向全球又一个咽喉要道：黑海",
+      "capture_title": "中国经济改革的工程师朱镕基去世，终年97岁",
       "error": ""
     },
     {
@@ -149,6 +137,30 @@
       "error": ""
     },
     {
+      "title": "中芯国际第二季度净利润和收入双双激增",
+      "summary": "随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104",
+      "guid": "WP-WSJS-0003814645",
+      "pub_date": "Thu, 13 Aug 2026 11:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-11992620?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e8-8a-af-e5-9b-bd-e9-99-85-e7-ac-ac-e4--7a643a7021e0.html",
+      "captured": true,
+      "capture_title": "中芯国际第二季度净利润和收入双双激增 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
+      "summary": "顾问们正在推销债券和其他投资，但许多人更愿意将现金留在货币市场基金中。",
+      "link": "https://cn.wsj.com/articles/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-d942d2cb",
+      "guid": "WP-WSJS-0003813755",
+      "pub_date": "Thu, 13 Aug 2026 00:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-13314707?size=1.419&width=1280",
+      "snapshot": "articles/wealth-management-has-a-3-trillion-problem-inves-cfd364f0a600.html",
+      "captured": true,
+      "capture_title": "财富管理行业面临3万亿美元难题：投资者持有太多现金",
+      "error": ""
+    },
+    {
       "title": "荣耀发布具备AI功能的“机器人手机”",
       "summary": "荣耀周三发布了一款名为“Robot Phone”的产品，该设备背面配备了一个可从机身展开的摄像头，起售价为人民币9,999元。",
       "link": "https://cn.wsj.com/articles/chinesesmartphone-maker-honor-introduces-robot-phone-with-ai-functions-d880b8fc",
@@ -173,51 +185,15 @@
       "error": ""
     },
     {
-      "title": "AI支出打断腾讯两位数利润增长势头",
-      "summary": "腾讯第二季度净利润同比增长0.7%，不及市场预期；调整后净利润则增长9%。  这家中国公司表示，今年其AI支出将增长逾一倍。",
-      "link": "https://cn.wsj.com/articles/ai%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4-343cf60d",
-      "guid": "WP-WSJS-0003811474",
-      "pub_date": "Wed, 12 Aug 2026 11:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-31303176?size=1.501&width=1280",
-      "snapshot": "articles/ai-e6-94-af-e5-87-ba-e6-89-93-e6-96-ad-e8-85-be--cb72437d7b53.html",
+      "title": "墨西哥在贸易谈判中推动美国降低北美汽车关税",
+      "summary": "墨西哥在修订《美墨加协定》的谈判中提出新方案，希望扩大汽车中可享受免税待遇的部分，并降低北美汽车的最高名义关税。",
+      "link": "https://cn.wsj.com/articles/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-cdaa0a99",
+      "guid": "WP-WSJS-0003813941",
+      "pub_date": "Thu, 13 Aug 2026 02:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-15461456?size=1.501&width=1280",
+      "snapshot": "articles/mexico-pushes-for-lower-auto-tariffs-in-trade-ta-a474e76de16e.html",
       "captured": true,
-      "capture_title": "AI支出打断腾讯两位数利润增长势头",
-      "error": ""
-    },
-    {
-      "title": "CoreWeave股价大涨提振AI交易",
-      "summary": "CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。",
-      "link": "https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789",
-      "guid": "WP-WSJS-0003813557",
-      "pub_date": "Wed, 12 Aug 2026 23:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-96446143?size=1.499&width=1280",
-      "snapshot": "articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-571c9d5f954b.html",
-      "captured": true,
-      "capture_title": "CoreWeave股价大涨提振AI交易",
-      "error": ""
-    },
-    {
-      "title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
-      "summary": "由迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳牵头的财团已同意收购洛杉矶湖人队的控股权。该球队现管理者马克·沃尔特的商业帝国目前正被调查。",
-      "link": "https://cn.wsj.com/articles/lakers-iger-kushner-walter-f6612952",
-      "guid": "WP-WSJS-0003813586",
-      "pub_date": "Wed, 12 Aug 2026 23:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-44555940?size=1.501&width=1280",
-      "snapshot": "articles/lakers-iger-kushner-walter-f6612952-19d95a5217e8.html",
-      "captured": true,
-      "capture_title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
-      "error": ""
-    },
-    {
-      "title": "苹果洽谈向出版商付费，以改进AI驱动的Siri",
-      "summary": "知情人士表示，苹果公司提议的新多年期协议将使其能够获取即时新闻和资讯，为预计今年晚些时候推出的Siri AI提供支持。",
-      "link": "https://cn.wsj.com/articles/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-e8f06427",
-      "guid": "WP-WSJS-0003813575",
-      "pub_date": "Wed, 12 Aug 2026 23:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-50220704?size=1.333&width=1280",
-      "snapshot": "articles/apple-in-talks-to-pay-publishers-to-improve-ai-p-09876e0ab3f9.html",
-      "captured": true,
-      "capture_title": "苹果洽谈向出版商付费，以改进AI驱动的Siri",
+      "capture_title": "墨西哥在贸易谈判中推动美国降低北美汽车关税",
       "error": ""
     },
     {
@@ -305,6 +281,78 @@
       "error": ""
     },
     {
+      "title": "当一名保姆不够用时，“CEO式育儿”的父母雇佣整个团队",
+      "summary": "有些富裕的父母豪掷逾25万美元，为孩子配备一整个服务团队，从而将传统的育儿职责外包出去。父母们表示这能腾出时间让他们与孩子度过更有意义的时光。",
+      "link": "https://cn.wsj.com/articles/ceo-parent-nanny-assistant-teams-hiring-408a87c2",
+      "guid": "WP-WSJS-0003807782",
+      "pub_date": "Tue, 11 Aug 2026 03:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-30161503?size=1.5053763440860215&width=1080",
+      "snapshot": "articles/ceo-parent-nanny-assistant-teams-hiring-408a87c2-66a4dbd92517.html",
+      "captured": true,
+      "capture_title": "当一名保姆不够用时，“CEO式育儿”的父母雇佣整个团队",
+      "error": ""
+    },
+    {
+      "title": "美国人正周游世界，势不可挡",
+      "summary": "在强劲经济推动下，曾经喜欢宅家的美国人正转变为热情的国际旅行者；富裕银发一族和追求社交媒体热潮的新世代还在迅速涌入那些鲜为人知的目的地。",
+      "link": "https://cn.wsj.com/articles/the-rise-of-the-unstoppable-american-tourist-fc401473",
+      "guid": "WP-WSJS-0003805024",
+      "pub_date": "Mon, 10 Aug 2026 04:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-94467081?size=1&width=1280",
+      "snapshot": "articles/the-rise-of-the-unstoppable-american-tourist-fc4-9c164ac7d48d.html",
+      "captured": true,
+      "capture_title": "美国人正周游世界，势不可挡",
+      "error": ""
+    },
+    {
+      "title": "AI支出打断腾讯两位数利润增长势头",
+      "summary": "腾讯第二季度净利润同比增长0.7%，不及市场预期；调整后净利润则增长9%。  这家中国公司表示，今年其AI支出将增长逾一倍。",
+      "link": "https://cn.wsj.com/articles/ai%E6%94%AF%E5%87%BA%E6%89%93%E6%96%AD%E8%85%BE%E8%AE%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4-343cf60d",
+      "guid": "WP-WSJS-0003811474",
+      "pub_date": "Wed, 12 Aug 2026 11:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-31303176?size=1.501&width=1280",
+      "snapshot": "articles/ai-e6-94-af-e5-87-ba-e6-89-93-e6-96-ad-e8-85-be--cb72437d7b53.html",
+      "captured": true,
+      "capture_title": "AI支出打断腾讯两位数利润增长势头",
+      "error": ""
+    },
+    {
+      "title": "CoreWeave股价大涨提振AI交易",
+      "summary": "CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。",
+      "link": "https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789",
+      "guid": "WP-WSJS-0003813557",
+      "pub_date": "Wed, 12 Aug 2026 23:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-96446143?size=1.499&width=1280",
+      "snapshot": "articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-571c9d5f954b.html",
+      "captured": true,
+      "capture_title": "CoreWeave股价大涨提振AI交易",
+      "error": ""
+    },
+    {
+      "title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
+      "summary": "由迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳牵头的财团已同意收购洛杉矶湖人队的控股权。该球队现管理者马克·沃尔特的商业帝国目前正被调查。",
+      "link": "https://cn.wsj.com/articles/lakers-iger-kushner-walter-f6612952",
+      "guid": "WP-WSJS-0003813586",
+      "pub_date": "Wed, 12 Aug 2026 23:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-44555940?size=1.501&width=1280",
+      "snapshot": "articles/lakers-iger-kushner-walter-f6612952-19d95a5217e8.html",
+      "captured": true,
+      "capture_title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
+      "error": ""
+    },
+    {
+      "title": "苹果洽谈向出版商付费，以改进AI驱动的Siri",
+      "summary": "知情人士表示，苹果公司提议的新多年期协议将使其能够获取即时新闻和资讯，为预计今年晚些时候推出的Siri AI提供支持。",
+      "link": "https://cn.wsj.com/articles/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-e8f06427",
+      "guid": "WP-WSJS-0003813575",
+      "pub_date": "Wed, 12 Aug 2026 23:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-50220704?size=1.333&width=1280",
+      "snapshot": "articles/apple-in-talks-to-pay-publishers-to-improve-ai-p-09876e0ab3f9.html",
+      "captured": true,
+      "capture_title": "苹果洽谈向出版商付费，以改进AI驱动的Siri",
+      "error": ""
+    },
+    {
       "title": "谷歌人事大地震前夕，Deepmind哈萨比斯曾提议设立AI监督机构",
       "summary": "在卸任Deepmind CEO的前几周，哈萨比斯曾与其他AI实验室负责人以及贝森特等特朗普政府官员讨论成立一个新的独立行业安全机构。",
       "link": "https://cn.wsj.com/articles/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-afd49ddb",
@@ -374,18 +422,6 @@
       "snapshot": "articles/stubhub-e5-ae-a2-e6-88-b7-e4-b9-b0-e7-a5-a8-e5-b-435f41a287eb.html",
       "captured": true,
       "capture_title": "StubHub客户买票已费尽周折，退款更是一场硬仗",
-      "error": ""
-    },
-    {
-      "title": "当一名保姆不够用时，“CEO式育儿”的父母雇佣整个团队",
-      "summary": "有些富裕的父母豪掷逾25万美元，为孩子配备一整个服务团队，从而将传统的育儿职责外包出去。父母们表示这能腾出时间让他们与孩子度过更有意义的时光。",
-      "link": "https://cn.wsj.com/articles/ceo-parent-nanny-assistant-teams-hiring-408a87c2",
-      "guid": "WP-WSJS-0003807782",
-      "pub_date": "Tue, 11 Aug 2026 03:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-30161503?size=1.5053763440860215&width=1080",
-      "snapshot": "articles/ceo-parent-nanny-assistant-teams-hiring-408a87c2-66a4dbd92517.html",
-      "captured": true,
-      "capture_title": "当一名保姆不够用时，“CEO式育儿”的父母雇佣整个团队",
       "error": ""
     },
     {
@@ -566,18 +602,6 @@
       "snapshot": "articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-fc29627c682b.html",
       "captured": true,
       "capture_title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
-      "error": ""
-    },
-    {
-      "title": "美国人正周游世界，势不可挡",
-      "summary": "在强劲经济推动下，曾经喜欢宅家的美国人正转变为热情的国际旅行者；富裕银发一族和追求社交媒体热潮的新世代还在迅速涌入那些鲜为人知的目的地。",
-      "link": "https://cn.wsj.com/articles/the-rise-of-the-unstoppable-american-tourist-fc401473",
-      "guid": "WP-WSJS-0003805024",
-      "pub_date": "Mon, 10 Aug 2026 04:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-94467081?size=1&width=1280",
-      "snapshot": "articles/the-rise-of-the-unstoppable-american-tourist-fc4-9c164ac7d48d.html",
-      "captured": true,
-      "capture_title": "美国人正周游世界，势不可挡",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e6-83-85-e6-8a-a5-e9-83-a8-e9-97-a8-e9--47be8e754861.html",
       "captured": true,
       "capture_title": "美情报部门预警：普京或发动有限攻击试探北约决心",
-      "error": ""
-    },
-    {
-      "title": "特朗普再次试图解雇美联储理事莉莎·库克",
-      "summary": "特朗普高级助手在致莉莎·库克的信中称，鉴于相关指控，总统正“考虑解除你的职务”，并要求她在8月底前做出书面回应。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E8%AF%95%E5%9B%BE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E8%8E%89%E8%8E%8E-%E5%BA%93%E5%85%8B-9283cd1f",
-      "guid": "WP-WSJS-0003803250",
-      "pub_date": "Sat, 08 Aug 2026 02:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-01191074?size=1&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-86-8d-e6-ac-a1-e8--30d2cf0c5730.html",
-      "captured": true,
-      "capture_title": "特朗普再次试图解雇美联储理事莉莎·库克",
-      "error": ""
-    },
-    {
-      "title": "台湾演练旨在挫败中国入侵的作战计划",
-      "summary": "台湾今年的“汉光”演习将检验为抵御中国军队而制定的新计划和战术，包括从美国和伊朗战争中汲取的经验教训。",
-      "link": "https://cn.wsj.com/articles/taiwan-tests-war-plans-to-thwart-chinese-invasion-ee1495b0",
-      "guid": "WP-WSJS-0003796167",
-      "pub_date": "Thu, 06 Aug 2026 03:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-65508134?size=1.501&width=1280",
-      "snapshot": "articles/taiwan-tests-war-plans-to-thwart-chinese-invasio-9aba76cd0d01.html",
-      "captured": true,
-      "capture_title": "台湾演练旨在挫败中国入侵的作战计划",
       "error": ""
     }
   ]
