@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:19:41.915328+00:00",
+  "generated_at": "2026-08-14T04:56:27.387044+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,67 +37,19 @@
       "image_url": "https://images.wsj.net/im-90178258?size=1.548&width=1280",
       "snapshot": "articles/russia-japan-putin-kuril-islands-3243997a-d2f3e1e62176.html",
       "captured": true,
-      "capture_title": "普京访问争议岛屿，日本面临的压力加剧 - WSJ",
+      "capture_title": "普京访问争议岛屿，日本面临的压力加剧",
       "error": ""
     },
     {
-      "title": "伊朗战争局势紧张之际，美国向中东派遣新航母接替“林肯号”",
-      "summary": "“乔治·华盛顿”号航母将接替已部署超过250天的“亚伯拉罕·林肯”号航母。外界对“林肯”号航母上的生活条件以及伊朗战争期间官兵所承受的压力日益担忧。",
-      "link": "https://cn.wsj.com/articles/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-c3f96739",
-      "guid": "WP-WSJS-0003816686",
-      "pub_date": "Thu, 13 Aug 2026 23:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-58451597?size=1.778&width=1280",
-      "snapshot": "articles/u-s-sending-fresh-aircraft-carrier-to-middle-eas-7f7ecba98e37.html",
+      "title": "台湾强化海巡力量武装，为台海冲突做准备",
+      "summary": "通过部署反舰导弹和举行海军演习，台北加强了防御能力并加大威慑北京的力度。",
+      "link": "https://cn.wsj.com/articles/taiwan-weaponizes-coast-guard-to-prepare-for-battle-with-china-4a746258",
+      "guid": "WP-WSJS-0003817045",
+      "pub_date": "Fri, 14 Aug 2026 03:01:00 GMT",
+      "image_url": "https://images.wsj.net/im-96615871?size=1.501&width=1280",
+      "snapshot": "articles/taiwan-weaponizes-coast-guard-to-prepare-for-bat-58425d41d6f6.html",
       "captured": true,
-      "capture_title": "伊朗战争局势紧张之际，美国向中东派遣新航母接替“林肯号” - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
-      "summary": "美国海军和业界高层多年来一直反对恢复使用蒸汽弹射系统。",
-      "link": "https://cn.wsj.com/articles/trump-orders-navy-to-restore-old-technology-in-aircraft-carriers-costing-billions-48be110b",
-      "guid": "WP-WSJS-0003816723",
-      "pub_date": "Thu, 13 Aug 2026 23:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-47517692?size=1.499&width=1280",
-      "snapshot": "articles/trump-orders-navy-to-restore-old-technology-in-a-292eba79adf9.html",
-      "captured": true,
-      "capture_title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中芯国际第二季度净利润和收入双双激增",
-      "summary": "随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104",
-      "guid": "WP-WSJS-0003814645",
-      "pub_date": "Thu, 13 Aug 2026 11:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-11992620?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e8-8a-af-e5-9b-bd-e9-99-85-e7-ac-ac-e4--7a643a7021e0.html",
-      "captured": true,
-      "capture_title": "中芯国际第二季度净利润和收入双双激增",
-      "error": ""
-    },
-    {
-      "title": "中国央行承诺提供政策支持",
-      "summary": "央行未透露更多细节，这进一步强化了外界关于中国政府不会出台重大宽松举措的预期。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E6%89%BF%E8%AF%BA%E6%8F%90%E4%BE%9B%E6%94%BF%E7%AD%96%E6%94%AF%E6%8C%81-34d92eae",
-      "guid": "WP-WSJS-0003814109",
-      "pub_date": "Thu, 13 Aug 2026 04:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-10698827?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-a4-ae-e8-a1-8c-e6-89-bf-e8--1dfe172db858.html",
-      "captured": true,
-      "capture_title": "中国央行承诺提供政策支持",
-      "error": ""
-    },
-    {
-      "title": "重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财",
-      "summary": "《华尔街日报》历时一年的调查发现，盗用的身份、AI工具以及美国本土的同谋正在为金正恩政权提供资金。",
-      "link": "https://cn.wsj.com/articles/%E9%87%8D%E7%A3%85%E8%B0%83%E6%9F%A5-%E6%8F%AD%E7%A7%98%E6%9C%9D%E9%B2%9C%E7%89%B9%E5%B7%A5%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E5%85%A5%E8%81%8C%E7%BE%8E%E4%BC%81%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E6%95%9B%E8%B4%A2-8826a4e5",
-      "guid": "WP-WSJS-0003814132",
-      "pub_date": "Thu, 13 Aug 2026 05:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-38488495?size=1.778&width=1280",
-      "snapshot": "articles/e9-87-8d-e7-a3-85-e8-b0-83-e6-9f-a5--e6-8f-ad-e7-7f20ccd5c68a.html",
-      "captured": true,
-      "capture_title": "重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财",
+      "capture_title": "台湾强化海巡力量武装，为台海冲突做准备 - WSJ",
       "error": ""
     },
     {
@@ -113,6 +65,78 @@
       "error": ""
     },
     {
+      "title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
+      "summary": "美国海军和业界高层多年来一直反对恢复使用蒸汽弹射系统。",
+      "link": "https://cn.wsj.com/articles/trump-orders-navy-to-restore-old-technology-in-aircraft-carriers-costing-billions-48be110b",
+      "guid": "WP-WSJS-0003816723",
+      "pub_date": "Fri, 14 Aug 2026 03:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-47517692?size=1.499&width=1280",
+      "snapshot": "articles/trump-orders-navy-to-restore-old-technology-in-a-292eba79adf9.html",
+      "captured": true,
+      "capture_title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
+      "error": ""
+    },
+    {
+      "title": "伊朗战争局势紧张之际，美国向中东派遣新航母接替“林肯号”",
+      "summary": "“乔治·华盛顿”号航母将接替已部署超过250天的“亚伯拉罕·林肯”号航母。外界对“林肯”号航母上的生活条件以及伊朗战争期间官兵所承受的压力日益担忧。",
+      "link": "https://cn.wsj.com/articles/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-c3f96739",
+      "guid": "WP-WSJS-0003816686",
+      "pub_date": "Thu, 13 Aug 2026 23:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-58451597?size=1.778&width=1280",
+      "snapshot": "articles/u-s-sending-fresh-aircraft-carrier-to-middle-eas-7f7ecba98e37.html",
+      "captured": true,
+      "capture_title": "伊朗战争局势紧张之际，美国向中东派遣新航母接替“林肯号”",
+      "error": ""
+    },
+    {
+      "title": "中国汽车出口激增，运输船一船难求",
+      "summary": "随着国内需求下滑，中国汽车正涌入海外市场，给航运业带来考验。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%80%E8%88%B9%E9%9A%BE%E6%B1%82-cba46894",
+      "guid": "WP-WSJS-0003817156",
+      "pub_date": "Fri, 14 Aug 2026 04:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-50682055?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e5-87-ba-e5--44ad5826d7d4.html",
+      "captured": true,
+      "capture_title": "中国汽车出口激增，运输船一船难求 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财",
+      "summary": "《华尔街日报》历时一年的调查发现，盗用的身份、AI工具以及美国本土的同谋正在为金正恩政权提供资金。",
+      "link": "https://cn.wsj.com/articles/%E9%87%8D%E7%A3%85%E8%B0%83%E6%9F%A5-%E6%8F%AD%E7%A7%98%E6%9C%9D%E9%B2%9C%E7%89%B9%E5%B7%A5%E5%A6%82%E4%BD%95%E8%BF%9C%E7%A8%8B%E5%85%A5%E8%81%8C%E7%BE%8E%E4%BC%81%E4%B8%BA%E9%87%91%E6%AD%A3%E6%81%A9%E6%95%9B%E8%B4%A2-8826a4e5",
+      "guid": "WP-WSJS-0003814132",
+      "pub_date": "Thu, 13 Aug 2026 05:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-38488495?size=1.778&width=1280",
+      "snapshot": "articles/e9-87-8d-e7-a3-85-e8-b0-83-e6-9f-a5--e6-8f-ad-e7-7f20ccd5c68a.html",
+      "captured": true,
+      "capture_title": "重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财",
+      "error": ""
+    },
+    {
+      "title": "特朗普与马斯克如何修复了曾看似无可挽回的关系",
+      "summary": "鉴于中期选举对特朗普和马斯克而言都利害攸关，马斯克计划斥资至少1亿美元帮助共和党人。知情人士称，两人已恢复交流，讨论AI、中国以及国际局势。",
+      "link": "https://cn.wsj.com/articles/trump-elon-musk-relationship-2dde2fa4",
+      "guid": "WP-WSJS-0003817058",
+      "pub_date": "Fri, 14 Aug 2026 03:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-71583735?size=1.501&width=1280",
+      "snapshot": "articles/trump-elon-musk-relationship-2dde2fa4-d4d0ee6e58e4.html",
+      "captured": true,
+      "capture_title": "特朗普与马斯克如何修复了曾看似无可挽回的关系 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致",
+      "summary": "28岁的莱维特与总统不仅口吻一致，有时似乎连想法也如出一辙。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BC%BA-%E5%98%B4%E6%9B%BF-%E8%8E%B1%E7%BB%B4%E7%89%B9%E8%BE%9E%E8%81%8C-%E6%9B%BE%E5%B0%86%E4%B8%BA%E6%80%BB%E7%BB%9F%E8%BE%A9%E6%8A%A4%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4-29756345",
+      "guid": "WP-WSJS-0003817001",
+      "pub_date": "Fri, 14 Aug 2026 02:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-65161526?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-9c-80-e5-bc-ba--e5-f9947f7e5e8e.html",
+      "captured": true,
+      "capture_title": "特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国经济改革的工程师朱镕基去世，终年97岁",
       "summary": "这位前总理曾引领中国向西方市场原则靠拢，并推动中国加入世界贸易组织。",
       "link": "https://cn.wsj.com/articles/zhu-rongji-engineer-of-chinas-economic-overhaul-dies-at-97-aeab0b84",
@@ -125,27 +149,39 @@
       "error": ""
     },
     {
-      "title": "台湾会与中国一战吗？听听台湾民众怎么说",
-      "summary": "五位台湾人探讨了这个民主岛屿在中国阴影下的未来。",
-      "link": "https://cn.wsj.com/articles/will-taiwan-fight-china-just-ask-its-people-26ebf1fd",
-      "guid": "WP-WSJS-0003807829",
-      "pub_date": "Tue, 11 Aug 2026 04:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-21140475?size=1.5&width=1280",
-      "snapshot": "articles/will-taiwan-fight-china-just-ask-its-people-26eb-f861e84ae022.html",
+      "title": "电动汽车先驱马斯克开始拥抱化石燃料",
+      "summary": "SpaceX披露计划在得克萨斯州格赖姆斯县建设一座天然气发电厂。在田纳西州和密西西比州的其他园区，马斯克正依靠数十台燃气轮机为数据中心供电。",
+      "link": "https://cn.wsj.com/articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-fcdb5485",
+      "guid": "WP-WSJS-0003816845",
+      "pub_date": "Fri, 14 Aug 2026 00:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-38499279?size=1.501&width=1280",
+      "snapshot": "articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-n-d0b3ee5b9b6e.html",
       "captured": true,
-      "capture_title": "台湾会与中国一战吗？听听台湾民众怎么说",
+      "capture_title": "电动汽车先驱马斯克开始拥抱化石燃料",
       "error": ""
     },
     {
-      "title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼料将就联邦案件认罪",
-      "summary": "据知情人士透露，路易吉·曼吉奥尼料将于周五在曼哈顿一家联邦法院对跟踪骚扰指控认罪。他涉嫌在2024年于曼哈顿杀害UnitedHealthcare首席执行官布莱恩·汤普森。",
-      "link": "https://cn.wsj.com/articles/luigi-mangione-is-expected-to-plead-guilty-in-federal-case-639342c8",
-      "guid": "WP-WSJS-0003816713",
-      "pub_date": "Thu, 13 Aug 2026 23:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-63615165?size=1.501&width=1280",
-      "snapshot": "articles/luigi-mangione-is-expected-to-plead-guilty-in-fe-499d25c614d2.html",
+      "title": "卡斯特罗百年诞辰庆典难掩古巴国内现实苦难",
+      "summary": "古巴正与外国共产党政要一同庆祝卡斯特罗百年诞辰，但会议大厅之外，整个国家经济已陷入崩溃。",
+      "link": "https://cn.wsj.com/articles/cuba-throws-a-birthday-bash-for-fidel-as-his-legacy-lies-in-ruins-b711f6e6",
+      "guid": "WP-WSJS-0003817006",
+      "pub_date": "Fri, 14 Aug 2026 02:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-93729563?size=1.504&width=1280",
+      "snapshot": "articles/cuba-throws-a-birthday-bash-for-fidel-as-his-leg-5c70cb32f4ca.html",
       "captured": true,
-      "capture_title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼料将就联邦案件认罪 - WSJ",
+      "capture_title": "卡斯特罗百年诞辰庆典难掩古巴国内现实苦难 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中芯国际第二季度净利润和收入双双激增",
+      "summary": "随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104",
+      "guid": "WP-WSJS-0003814645",
+      "pub_date": "Thu, 13 Aug 2026 11:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-11992620?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e8-8a-af-e5-9b-bd-e9-99-85-e7-ac-ac-e4--7a643a7021e0.html",
+      "captured": true,
+      "capture_title": "中芯国际第二季度净利润和收入双双激增",
       "error": ""
     },
     {
@@ -157,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-15413357?size=1.501&width=1280",
       "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
       "captured": true,
-      "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来 - WSJ",
+      "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
       "error": ""
     },
     {
@@ -169,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-69112689?size=1.29&width=1280",
       "snapshot": "articles/polestar-dealer-claims-automaker-orchestrated-it-02db6fd1faee.html",
       "captured": true,
-      "capture_title": "美经销商起诉极星，控其“自导自演”在美禁令 - WSJ",
+      "capture_title": "美经销商起诉极星，控其“自导自演”在美禁令",
       "error": ""
     },
     {
@@ -181,19 +217,7 @@
       "image_url": "https://images.wsj.net/im-69933983?size=1.501&width=1280",
       "snapshot": "articles/bill-ackman-calls-his-new-funds-slumping-stock-p-75d2259e118c.html",
       "captured": true,
-      "capture_title": "比尔·阿克曼称其新基金股价下跌“简直荒谬” - WSJ",
-      "error": ""
-    },
-    {
-      "title": "电动汽车先驱马斯克开始拥抱化石燃料",
-      "summary": "SpaceX披露计划在得克萨斯州格赖姆斯县建设一座天然气发电厂。在田纳西州和密西西比州的其他园区，马斯克正依靠数十台燃气轮机为数据中心供电。",
-      "link": "https://cn.wsj.com/articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-fcdb5485",
-      "guid": "WP-WSJS-0003816845",
-      "pub_date": "Fri, 14 Aug 2026 00:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-38499279?size=1.501&width=1280",
-      "snapshot": "articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-n-d0b3ee5b9b6e.html",
-      "captured": true,
-      "capture_title": "电动汽车先驱马斯克开始拥抱化石燃料 - WSJ",
+      "capture_title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
       "error": ""
     },
     {
@@ -269,18 +293,6 @@
       "error": ""
     },
     {
-      "title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
-      "summary": "宇树科技即将成为中国内地首家人形机器人上市公司，并正乘着机器人热潮的东风，准备在资本市场大举融资。",
-      "link": "https://cn.wsj.com/articles/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-517af8f1",
-      "guid": "WP-WSJS-0003810556",
-      "pub_date": "Wed, 12 Aug 2026 01:13:00 GMT",
-      "image_url": "https://images.mktw.net/im-81941011?size=1.5&width=1280",
-      "snapshot": "articles/unitrees-ipo-may-be-just-the-beginning-of-an-inv-f80c95f6f2da.html",
-      "captured": true,
-      "capture_title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
-      "error": ""
-    },
-    {
       "title": "告别端茶倒水，实习生今夏开始挑大梁",
       "summary": "随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。",
       "link": "https://cn.wsj.com/articles/forget-about-fetching-coffee-this-summer-the-interns-are-running-the-show-85865847",
@@ -290,6 +302,54 @@
       "snapshot": "articles/forget-about-fetching-coffee-this-summer-the-int-2c52dcff78d4.html",
       "captured": true,
       "capture_title": "告别端茶倒水，实习生今夏开始挑大梁",
+      "error": ""
+    },
+    {
+      "title": "中国央行承诺提供政策支持",
+      "summary": "央行未透露更多细节，这进一步强化了外界关于中国政府不会出台重大宽松举措的预期。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E6%89%BF%E8%AF%BA%E6%8F%90%E4%BE%9B%E6%94%BF%E7%AD%96%E6%94%AF%E6%8C%81-34d92eae",
+      "guid": "WP-WSJS-0003814109",
+      "pub_date": "Thu, 13 Aug 2026 04:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-10698827?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-a4-ae-e8-a1-8c-e6-89-bf-e8--1dfe172db858.html",
+      "captured": true,
+      "capture_title": "中国央行承诺提供政策支持",
+      "error": ""
+    },
+    {
+      "title": "台湾会与中国一战吗？听听台湾民众怎么说",
+      "summary": "五位台湾人探讨了这个民主岛屿在中国阴影下的未来。",
+      "link": "https://cn.wsj.com/articles/will-taiwan-fight-china-just-ask-its-people-26ebf1fd",
+      "guid": "WP-WSJS-0003807829",
+      "pub_date": "Tue, 11 Aug 2026 04:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-21140475?size=1.5&width=1280",
+      "snapshot": "articles/will-taiwan-fight-china-just-ask-its-people-26eb-f861e84ae022.html",
+      "captured": true,
+      "capture_title": "台湾会与中国一战吗？听听台湾民众怎么说",
+      "error": ""
+    },
+    {
+      "title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼料将就联邦案件认罪",
+      "summary": "据知情人士透露，路易吉·曼吉奥尼料将于周五在曼哈顿一家联邦法院对跟踪骚扰指控认罪。他涉嫌在2024年于曼哈顿杀害UnitedHealthcare首席执行官布莱恩·汤普森。",
+      "link": "https://cn.wsj.com/articles/luigi-mangione-is-expected-to-plead-guilty-in-federal-case-639342c8",
+      "guid": "WP-WSJS-0003816713",
+      "pub_date": "Thu, 13 Aug 2026 23:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-63615165?size=1.501&width=1280",
+      "snapshot": "articles/luigi-mangione-is-expected-to-plead-guilty-in-fe-499d25c614d2.html",
+      "captured": true,
+      "capture_title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼料将就联邦案件认罪 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
+      "summary": "宇树科技即将成为中国内地首家人形机器人上市公司，并正乘着机器人热潮的东风，准备在资本市场大举融资。",
+      "link": "https://cn.wsj.com/articles/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-517af8f1",
+      "guid": "WP-WSJS-0003810556",
+      "pub_date": "Wed, 12 Aug 2026 01:13:00 GMT",
+      "image_url": "https://images.mktw.net/im-81941011?size=1.5&width=1280",
+      "snapshot": "articles/unitrees-ipo-may-be-just-the-beginning-of-an-inv-f80c95f6f2da.html",
+      "captured": true,
+      "capture_title": "宇树IPO或只是前奏，人形机器人股票的投资热潮还在后头",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e7-94-9f-e6-b4-bb-e6-88-90-e6-9c-ac-e7-84-a6-e8--83c32446eb2d.html",
       "captured": true,
       "capture_title": "生活成本焦虑发酵，共和党“经济牌”失灵",
-      "error": ""
-    },
-    {
-      "title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
-      "summary": "OpenAI称，公司正在继续对Astra进行基准测试和评估，但已暂停该模型不符合更高安全要求的内部工作。",
-      "link": "https://cn.wsj.com/articles/openai%E5%9B%A0%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E6%9A%82%E5%81%9C%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E5%88%86%E7%A0%94%E5%8F%91-aac56b4e",
-      "guid": "WP-WSJS-0003803221",
-      "pub_date": "Sat, 08 Aug 2026 02:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-24887404?size=1.501&width=1280",
-      "snapshot": "articles/openai-e5-9b-a0-e7-bd-91-e7-bb-9c-e5-ae-89-e5-85-a739754e5b08.html",
-      "captured": true,
-      "capture_title": "OpenAI因网络安全担忧暂停Astra模型的部分研发",
-      "error": ""
-    },
-    {
-      "title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
-      "summary": "生成式AI正在碾压曾经蓬勃发展的软件即服务行业；“你必须破釜沉舟，从零开始”。",
-      "link": "https://cn.wsj.com/articles/%E7%9B%B4%E9%9D%A2ai-%E6%9C%AB%E6%97%A5-%E5%86%B2%E5%87%BB-%E6%98%94%E6%97%A5%E6%98%8E%E6%98%9F%E8%BD%AF%E4%BB%B6%E4%BC%81%E4%B8%9A%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%E6%B1%82%E5%8F%98-95b065db",
-      "guid": "WP-WSJS-0003800148",
-      "pub_date": "Fri, 07 Aug 2026 06:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-89047937?size=1.5012345679012347&width=1280",
-      "snapshot": "articles/e7-9b-b4-e9-9d-a2ai--e6-9c-ab-e6-97-a5--e5-86-b2-ddac9a657557.html",
-      "captured": true,
-      "capture_title": "直面AI“末日”冲击，昔日明星软件企业破釜沉舟求变",
-      "error": ""
-    },
-    {
-      "title": "私募信贷基金的流动性如何？这取决于你如何定义“流动性”",
-      "summary": "私营信贷基金经理对该指标的报告方式各异，部分人甚至通过激进的计算手法来对外展示实力。",
-      "link": "https://cn.wsj.com/articles/how-liquid-are-private-credit-funds-it-depends-how-you-define-liquidity-9a2833b8",
-      "guid": "WP-WSJS-0003805139",
-      "pub_date": "Mon, 10 Aug 2026 06:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-18819815?size=1&width=1280",
-      "snapshot": "articles/how-liquid-are-private-credit-funds-it-depends-h-12aa3cbbf84e.html",
-      "captured": true,
-      "capture_title": "私募信贷基金的流动性如何？这取决于你如何定义“流动性” - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国陆军向私营企业开放试验场，以助力打破武器瓶颈",
-      "summary": "试验场使企业能够在战场条件下测试其武器的性能，从而加快向军方供应武器的进程。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B%E5%90%91%E7%A7%81%E8%90%A5%E4%BC%81%E4%B8%9A%E5%BC%80%E6%94%BE%E8%AF%95%E9%AA%8C%E5%9C%BA-%E4%BB%A5%E5%8A%A9%E5%8A%9B%E6%89%93%E7%A0%B4%E6%AD%A6%E5%99%A8%E7%93%B6%E9%A2%88-e2e93990",
-      "guid": "WP-WSJS-0003803255",
-      "pub_date": "Sat, 08 Aug 2026 02:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-90334788?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e9-99-86-e5-86-9b-e5-90-91-e7--478840916ead.html",
-      "captured": true,
-      "capture_title": "美国陆军向私营企业开放试验场，以助力打破武器瓶颈",
-      "error": ""
-    },
-    {
-      "title": "远景大型可再生能源AI数据中心投产",
-      "summary": "中国绿色科技公司远景在内蒙古投产一座由可再生能源供电的大型数据中心，以应对日益高涨的AI算力基础设施需求。",
-      "link": "https://cn.wsj.com/articles/china-senvision-commissions-giant-renewable-powered-ai-data-center-eb4345f0",
-      "guid": "WP-WSJS-0003800318",
-      "pub_date": "Fri, 07 Aug 2026 08:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-51444739?size=1.5&width=1280",
-      "snapshot": "articles/china-senvision-commissions-giant-renewable-powe-aa7f1acad309.html",
-      "captured": true,
-      "capture_title": "远景大型可再生能源AI数据中心投产",
       "error": ""
     }
   ]
