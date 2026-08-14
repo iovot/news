@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 21:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 02:14:02 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 21:51:39 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 02:14:02 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,39 +35,46 @@
             <pubDate>Thu, 13 Aug 2026 03:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国央行承诺提供政策支持]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10698827?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>但未透露更多细节。经济学家表示，中国央行此番表态呼应了上个月中共中央政治局会议的精神。这进一步强化了外界关于政府不会出台重大宽松举措的预期。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E6%89%BF%E8%AF%BA%E6%8F%90%E4%BE%9B%E6%94%BF%E7%AD%96%E6%94%AF%E6%8C%81-34d92eae</link>
-            <guid isPermaLink="false">WP-WSJS-0003814109</guid>
-            <pubDate>Thu, 13 Aug 2026 04:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“无就业繁荣”时代已经到来]]></title>
+            <title><![CDATA[“无就业”繁荣时代已经到来]]></title>
             <description><![CDATA[<img width="1280" height="883" src="https://images.wsj.net/im-07948120?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>股市认为美国经济正在加速，但招聘活动并未跟上。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%97%A0%E5%B0%B1%E4%B8%9A%E7%B9%81%E8%8D%A3-%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5-1d734b4a</link>
             <guid isPermaLink="false">WP-WSJS-0003814487</guid>
             <pubDate>Thu, 13 Aug 2026 11:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫新闻秘书卡罗琳·莱维特将卸任]]></title>
-            <description><![CDATA[<img width="1280" height="1709" src="https://images.wsj.net/im-87601455?size=0.749&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>莱维特自特朗普第一个任期起就为他工作，一直是总统最坚定的捍卫者之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/white-house-press-secretary-karoline-leavitt-to-step-down-6f8fc0c5</link>
-            <guid isPermaLink="false">WP-WSJS-0003813562</guid>
-            <pubDate>Wed, 12 Aug 2026 23:20:00 GMT</pubDate>
+            <title><![CDATA[普京访问争议岛屿，日本面临的压力加剧]]></title>
+            <description><![CDATA[<img width="1280" height="827" src="https://images.wsj.net/im-90178258?size=1.548&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此次岛屿争端是日本与中国、俄罗斯和朝鲜之间关系紧张的最新迹象。</p>]]></description>
+            <link>https://cn.wsj.com/articles/russia-japan-putin-kuril-islands-3243997a</link>
+            <guid isPermaLink="false">WP-WSJS-0003816790</guid>
+            <pubDate>Fri, 14 Aug 2026 00:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[战火烧向全球又一个咽喉要道：黑海]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-16842068?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>俄罗斯加大对粮食运输的袭击力度，乌克兰则袭击油轮，全球市场神经紧绷。</p>]]></description>
-            <link>https://cn.wsj.com/articles/war-is-squeezing-another-global-chokepoint-the-black-sea-059d6948</link>
-            <guid isPermaLink="false">WP-WSJS-0003813790</guid>
-            <pubDate>Thu, 13 Aug 2026 01:15:00 GMT</pubDate>
+            <title><![CDATA[伊朗战争局势紧张之际，美国向中东派遣新航母接替“林肯号”]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-58451597?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“乔治·华盛顿”号航母将接替已部署超过250天的“亚伯拉罕·林肯”号航母。外界对“林肯”号航母上的生活条件以及伊朗战争期间官兵所承受的压力日益担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-c3f96739</link>
+            <guid isPermaLink="false">WP-WSJS-0003816686</guid>
+            <pubDate>Thu, 13 Aug 2026 23:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美乌军队在演习中展开对决：乌克兰无人机胜出]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-35434169?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这次惨败带来了乌克兰战场上关于短程无人机的教训。这类无人机主导了俄罗斯和乌克兰之间的冲突。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-and-ukrainian-forces-went-head-to-head-in-an-exercise-ukraines-drones-won-7d83bbdb</link>
-            <guid isPermaLink="false">WP-WSJS-0003813699</guid>
-            <pubDate>Thu, 13 Aug 2026 10:09:00 GMT</pubDate>
+            <title><![CDATA[特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-47517692?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国海军和业界高层多年来一直反对恢复使用蒸汽弹射系统。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-orders-navy-to-restore-old-technology-in-aircraft-carriers-costing-billions-48be110b</link>
+            <guid isPermaLink="false">WP-WSJS-0003816723</guid>
+            <pubDate>Thu, 13 Aug 2026 23:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中芯国际第二季度净利润和收入双双激增]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11992620?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104</link>
+            <guid isPermaLink="false">WP-WSJS-0003814645</guid>
+            <pubDate>Thu, 13 Aug 2026 11:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国央行承诺提供政策支持]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10698827?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>央行未透露更多细节，这进一步强化了外界关于中国政府不会出台重大宽松举措的预期。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E6%89%BF%E8%AF%BA%E6%8F%90%E4%BE%9B%E6%94%BF%E7%AD%96%E6%94%AF%E6%8C%81-34d92eae</link>
+            <guid isPermaLink="false">WP-WSJS-0003814109</guid>
+            <pubDate>Thu, 13 Aug 2026 04:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财]]></title>
@@ -98,18 +105,39 @@
             <pubDate>Tue, 11 Aug 2026 04:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84691352?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e</link>
-            <guid isPermaLink="false">WP-WSJS-0003813992</guid>
-            <pubDate>Thu, 13 Aug 2026 03:28:00 GMT</pubDate>
+            <title><![CDATA[UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼料将就联邦案件认罪]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-63615165?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据知情人士透露，路易吉·曼吉奥尼料将于周五在曼哈顿一家联邦法院对跟踪骚扰指控认罪。他涉嫌在2024年于曼哈顿杀害UnitedHealthcare首席执行官布莱恩·汤普森。</p>]]></description>
+            <link>https://cn.wsj.com/articles/luigi-mangione-is-expected-to-plead-guilty-in-federal-case-639342c8</link>
+            <guid isPermaLink="false">WP-WSJS-0003816713</guid>
+            <pubDate>Thu, 13 Aug 2026 23:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中芯国际第二季度净利润和收入双双激增]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11992620?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104</link>
-            <guid isPermaLink="false">WP-WSJS-0003814645</guid>
-            <pubDate>Thu, 13 Aug 2026 11:21:00 GMT</pubDate>
+            <title><![CDATA[湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15413357?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。</p>]]></description>
+            <link>https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0</link>
+            <guid isPermaLink="false">WP-WSJS-0003816815</guid>
+            <pubDate>Fri, 14 Aug 2026 00:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美经销商起诉极星，控其“自导自演”在美禁令]]></title>
+            <description><![CDATA[<img width="1280" height="992" src="https://images.wsj.net/im-69112689?size=1.29&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中资车企极星最大的美国经销商之一本周提起诉讼，指控该车企“精心策划”了近期美国政府对其下达的禁令，以此作为其意图退出美国市场的“幌子”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/polestar-dealer-claims-automaker-orchestrated-its-u-s-ban-in-lawsuit-3388a2b9</link>
+            <guid isPermaLink="false">WP-WSJS-0003816826</guid>
+            <pubDate>Fri, 14 Aug 2026 00:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比尔·阿克曼称其新基金股价下跌“简直荒谬”]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69933983?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>比尔·阿克曼的选股基金今年以来落后于整体市场。他寄望于重塑投资组合，包括新押注Netflix和Visa等公司，以帮助扭转局面。</p>]]></description>
+            <link>https://cn.wsj.com/articles/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-5284109f</link>
+            <guid isPermaLink="false">WP-WSJS-0003816789</guid>
+            <pubDate>Thu, 13 Aug 2026 23:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[电动汽车先驱马斯克开始拥抱化石燃料]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-38499279?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX披露计划在得克萨斯州格赖姆斯县建设一座天然气发电厂。在田纳西州和密西西比州的其他园区，马斯克正依靠数十台燃气轮机为数据中心供电。</p>]]></description>
+            <link>https://cn.wsj.com/articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-fcdb5485</link>
+            <guid isPermaLink="false">WP-WSJS-0003816845</guid>
+            <pubDate>Fri, 14 Aug 2026 00:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[财富管理行业面临3万亿美元难题：投资者持有太多现金]]></title>
@@ -119,32 +147,18 @@
             <pubDate>Thu, 13 Aug 2026 00:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[荣耀发布具备AI功能的“机器人手机”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-64790231?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>荣耀周三发布了一款名为“Robot Phone”的产品，该设备背面配备了一个可从机身展开的摄像头，起售价为人民币9,999元。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinesesmartphone-maker-honor-introduces-robot-phone-with-ai-functions-d880b8fc</link>
-            <guid isPermaLink="false">WP-WSJS-0003813655</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路易威登的下一款新品？古董保时捷]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-38763152?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该时尚品牌与Singer合作，改造了两辆经典跑车。</p>]]></description>
-            <link>https://cn.wsj.com/articles/singer-louis-vuitton-porsche-a9282644</link>
-            <guid isPermaLink="false">WP-WSJS-0003813750</guid>
-            <pubDate>Thu, 13 Aug 2026 00:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥在贸易谈判中推动美国降低北美汽车关税]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15461456?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>墨西哥在修订《美墨加协定》的谈判中提出新方案，希望扩大汽车中可享受免税待遇的部分，并降低北美汽车的最高名义关税。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-cdaa0a99</link>
-            <guid isPermaLink="false">WP-WSJS-0003813941</guid>
-            <pubDate>Thu, 13 Aug 2026 02:14:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“内鬼”泄露官方机密以谋私利，中国反腐面临隐患]]></title>
             <description><![CDATA[<img width="1280" height="892" src="https://images.wsj.net/im-37090372?size=1.435&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中共官方已对这一现象表示警惕，并试图追查泄密者。腐败案件信息的泄露也引发了人们对习近平反腐效能的质疑。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%86%85%E9%AC%BC-%E6%B3%84%E9%9C%B2%E5%AE%98%E6%96%B9%E6%9C%BA%E5%AF%86%E4%BB%A5%E8%B0%8B%E7%A7%81%E5%88%A9-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E9%9D%A2%E4%B8%B4%E9%9A%90%E6%82%A3-30973621</link>
             <guid isPermaLink="false">WP-WSJS-0003805247</guid>
             <pubDate>Mon, 10 Aug 2026 08:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84691352?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e</link>
+            <guid isPermaLink="false">WP-WSJS-0003813992</guid>
+            <pubDate>Thu, 13 Aug 2026 03:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬]]></title>
@@ -173,13 +187,6 @@
             <link>https://cn.wsj.com/articles/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-517af8f1</link>
             <guid isPermaLink="false">WP-WSJS-0003810556</guid>
             <pubDate>Wed, 12 Aug 2026 01:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲启用新护照系统，旅客抓狂了]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-37228444?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>欧盟全新的电子出入境系统可谓一团糟，尽管偶尔也能正常运转。</p>]]></description>
-            <link>https://cn.wsj.com/articles/europe-has-a-new-passport-systemand-its-driving-travelers-crazy-e1f6ad08</link>
-            <guid isPermaLink="false">WP-WSJS-0003810834</guid>
-            <pubDate>Wed, 12 Aug 2026 03:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[告别端茶倒水，实习生今夏开始挑大梁]]></title>
