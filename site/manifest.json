@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:13:13.885310+00:00",
+  "generated_at": "2026-08-14T13:21:23.726478+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -14,6 +14,30 @@
       "snapshot": "articles/chinese-censorship-is-leaking-into-answers-from--a62cf82baf2a.html",
       "captured": true,
       "capture_title": "中国式审查正渗入美国AI模型的回答中",
+      "error": ""
+    },
+    {
+      "title": "白宫称中国通过转运商品规避数百亿美元关税",
+      "summary": "白宫报告称，非法转运导致美国每年损失约190亿至260亿美元的关税收入，并指出包括加拿大和欧盟在内的盟友为这种规避行为提供了便利。",
+      "link": "https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E8%BD%AC%E8%BF%90%E5%95%86%E5%93%81%E8%A7%84%E9%81%BF%E6%95%B0%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E-97ea6704",
+      "guid": "WP-WSJS-0003817563",
+      "pub_date": "Fri, 14 Aug 2026 10:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-52323305?size=1.501&width=1280",
+      "snapshot": "articles/e7-99-bd-e5-ae-ab-e7-a7-b0-e4-b8-ad-e5-9b-bd-e9--516b2746f574.html",
+      "captured": true,
+      "capture_title": "白宫称中国通过转运商品规避数百亿美元关税 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国7月新增贷款意外下降",
+      "summary": "这在一定程度上反映了季节性因素，但也表明，在中国房地产市场长达数年的低迷态势延续之际，信贷需求依然疲软。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD7%E6%9C%88%E6%96%B0%E5%A2%9E%E8%B4%B7%E6%AC%BE%E6%84%8F%E5%A4%96%E4%B8%8B%E9%99%8D-e52195ff",
+      "guid": "WP-WSJS-0003817681",
+      "pub_date": "Fri, 14 Aug 2026 11:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-10678017?size=1.502&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd7-e6-9c-88-e6-96-b0-e5-a2-9e-e8-0b0f43ac2c16.html",
+      "captured": true,
+      "capture_title": "中国7月新增贷款意外下降 - WSJ",
       "error": ""
     },
     {
@@ -53,30 +77,6 @@
       "error": ""
     },
     {
-      "title": "特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国",
-      "summary": "关税将根据无人机的性能和原产地实行分级。此举旨在对抗中国在商用无人机市场的主导地位，并将生产线迁回美国。",
-      "link": "https://cn.wsj.com/articles/trump-announces-drone-tariffs-to-protect-national-security-bolster-u-s-supply-chains-01dce4e8",
-      "guid": "WP-WSJS-0003817231",
-      "pub_date": "Fri, 14 Aug 2026 05:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-06412072?size=1.501&width=1280",
-      "snapshot": "articles/trump-announces-drone-tariffs-to-protect-nationa-f064c2303a07.html",
-      "captured": true,
-      "capture_title": "特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国",
-      "error": ""
-    },
-    {
-      "title": "“无就业”繁荣时代已经到来",
-      "summary": "股市认为美国经济正在加速，但招聘活动并未跟上。",
-      "link": "https://cn.wsj.com/articles/%E6%97%A0%E5%B0%B1%E4%B8%9A%E7%B9%81%E8%8D%A3-%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5-1d734b4a",
-      "guid": "WP-WSJS-0003814487",
-      "pub_date": "Thu, 13 Aug 2026 11:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-07948120?size=1.45&width=1280",
-      "snapshot": "articles/e6-97-a0-e5-b0-b1-e4-b8-9a-e7-b9-81-e8-8d-a3--e6-9a6b77368e4f.html",
-      "captured": true,
-      "capture_title": "“无就业”繁荣时代已经到来",
-      "error": ""
-    },
-    {
       "title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
       "summary": "卡米·克拉克曾创办自称“革命性”的色情公司并向爱泼斯坦寻求投资，如今她虽保持低调，却是Anthropic首席执行官达里奥·阿莫迪的关键顾问。",
       "link": "https://cn.wsj.com/articles/%E8%BF%9Eclaude%E9%83%BD%E7%9F%A5%E4%B9%8B%E7%94%9A%E5%B0%91-anthropic-ceo%E7%9A%84%E7%A5%9E%E7%A7%98%E5%A6%BB%E5%AD%90%E5%8F%8A%E5%85%B6%E5%B9%95%E5%90%8E%E5%BD%B1%E5%93%8D%E5%8A%9B-c9e2d6cd",
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-16459452?size=1.84&width=1280",
       "snapshot": "articles/e7-9b-98-e7-82-b9-e9-87-8d-e5-a1-91-e4-bf-84-e4--f0fa6dd79117.html",
       "captured": true,
-      "capture_title": "盘点重塑俄乌战争的战场创新技术 - WSJ",
+      "capture_title": "盘点重塑俄乌战争的战场创新技术",
       "error": ""
     },
     {
@@ -173,18 +173,6 @@
       "error": ""
     },
     {
-      "title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
-      "summary": "湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。",
-      "link": "https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0",
-      "guid": "WP-WSJS-0003816815",
-      "pub_date": "Fri, 14 Aug 2026 00:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-15413357?size=1.501&width=1280",
-      "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
-      "captured": true,
-      "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
-      "error": ""
-    },
-    {
       "title": "美经销商起诉极星，控其“自导自演”在美禁令",
       "summary": "中资车企极星最大的美国经销商之一本周提起诉讼，指控该车企“精心策划”了近期美国政府对其下达的禁令，以此作为其意图退出美国市场的“幌子”。",
       "link": "https://cn.wsj.com/articles/polestar-dealer-claims-automaker-orchestrated-its-u-s-ban-in-lawsuit-3388a2b9",
@@ -197,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
+      "summary": "湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。",
+      "link": "https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0",
+      "guid": "WP-WSJS-0003816815",
+      "pub_date": "Fri, 14 Aug 2026 00:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-15413357?size=1.501&width=1280",
+      "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
+      "captured": true,
+      "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
+      "error": ""
+    },
+    {
       "title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
       "summary": "比尔·阿克曼的选股基金今年以来落后于整体市场。他寄望于重塑投资组合，包括新押注Netflix和Visa等公司，以帮助扭转局面。",
       "link": "https://cn.wsj.com/articles/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-5284109f",
@@ -206,6 +206,18 @@
       "snapshot": "articles/bill-ackman-calls-his-new-funds-slumping-stock-p-75d2259e118c.html",
       "captured": true,
       "capture_title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
+      "error": ""
+    },
+    {
+      "title": "“无就业”繁荣时代已经到来",
+      "summary": "股市认为美国经济正在加速，但招聘活动并未跟上。",
+      "link": "https://cn.wsj.com/articles/%E6%97%A0%E5%B0%B1%E4%B8%9A%E7%B9%81%E8%8D%A3-%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5-1d734b4a",
+      "guid": "WP-WSJS-0003814487",
+      "pub_date": "Thu, 13 Aug 2026 11:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-07948120?size=1.45&width=1280",
+      "snapshot": "articles/e6-97-a0-e5-b0-b1-e4-b8-9a-e7-b9-81-e8-8d-a3--e6-9a6b77368e4f.html",
+      "captured": true,
+      "capture_title": "“无就业”繁荣时代已经到来",
       "error": ""
     },
     {
@@ -269,6 +281,18 @@
       "error": ""
     },
     {
+      "title": "真有“神经系统失调”这回事吗？",
+      "summary": "“神经系统失调”——这个被健康养生行业塑造出来的“假想敌”——催生了一个小众产业。",
+      "link": "https://cn.wsj.com/articles/the-algorithm-says-my-nervous-system-is-dysregulated-heres-why-im-skeptical-71b61067",
+      "guid": "WP-WSJS-0003817234",
+      "pub_date": "Fri, 14 Aug 2026 05:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-46269917?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/the-algorithm-says-my-nervous-system-is-dysregul-792ac3a8528b.html",
+      "captured": true,
+      "capture_title": "真有“神经系统失调”这回事吗？",
+      "error": ""
+    },
+    {
       "title": "特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬",
       "summary": "马斯克的特斯拉薪酬方案中有一项特殊条款，可在并购发生时免除高额业绩目标。",
       "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E8%8B%A5%E5%B9%B6%E5%85%A5spacex-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%82%E4%BD%95%E8%B5%B0%E6%8D%B7%E5%BE%84%E8%A7%A3%E9%94%81%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC-bb49eca6",
@@ -281,15 +305,15 @@
       "error": ""
     },
     {
-      "title": "真有“神经系统失调”这回事吗？",
-      "summary": "“神经系统失调”——这个被健康养生行业塑造出来的“假想敌”——催生了一个小众产业。",
-      "link": "https://cn.wsj.com/articles/the-algorithm-says-my-nervous-system-is-dysregulated-heres-why-im-skeptical-71b61067",
-      "guid": "WP-WSJS-0003817234",
-      "pub_date": "Fri, 14 Aug 2026 05:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-46269917?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/the-algorithm-says-my-nervous-system-is-dysregul-792ac3a8528b.html",
+      "title": "特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国",
+      "summary": "关税将根据无人机的性能和原产地实行分级。此举旨在对抗中国在商用无人机市场的主导地位，并将生产线迁回美国。",
+      "link": "https://cn.wsj.com/articles/trump-announces-drone-tariffs-to-protect-national-security-bolster-u-s-supply-chains-01dce4e8",
+      "guid": "WP-WSJS-0003817231",
+      "pub_date": "Fri, 14 Aug 2026 05:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-06412072?size=1.501&width=1280",
+      "snapshot": "articles/trump-announces-drone-tariffs-to-protect-nationa-f064c2303a07.html",
       "captured": true,
-      "capture_title": "真有“神经系统失调”这回事吗？",
+      "capture_title": "特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/hunter-bidens-comments-on-dads-cancer-shed-new-l-3392fbfcca32.html",
       "captured": true,
       "capture_title": "亨特透露拜登癌症已扩散至“骨骼及其他部位”",
-      "error": ""
-    },
-    {
-      "title": "强劲财报助推美股延续创纪录涨势",
-      "summary": "美国一些最大公司的强劲财报正推动主要指数创下新高，这在一定程度上缓解了人们对AI支出和通胀压力的担忧。",
-      "link": "https://cn.wsj.com/articles/blockbuster-earnings-bolster-stocks-record-run-bbbb3534",
-      "guid": "WP-WSJS-0003804763",
-      "pub_date": "Mon, 10 Aug 2026 00:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-36243135?size=1.501&width=1280",
-      "snapshot": "articles/blockbuster-earnings-bolster-stocks-record-run-b-ac47958b32f4.html",
-      "captured": true,
-      "capture_title": "强劲财报助推美股延续创纪录涨势",
-      "error": ""
-    },
-    {
-      "title": "扎克伯格发表6,500字长文阐述新AI愿景",
-      "summary": "扎克伯格的计划包括发布更多开放权重模型，并设立一项基金以投资Meta数据中心所在的社区。",
-      "link": "https://cn.wsj.com/articles/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E5%8F%91%E8%A1%A86-500%E5%AD%97%E9%95%BF%E6%96%87%E9%98%90%E8%BF%B0%E6%96%B0ai%E6%84%BF%E6%99%AF-0709fa0b",
-      "guid": "WP-WSJS-0003805580",
-      "pub_date": "Mon, 10 Aug 2026 11:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-82697931?size=1.501&width=1280",
-      "snapshot": "articles/e6-89-8e-e5-85-8b-e4-bc-af-e6-a0-bc-e5-8f-91-e8--ae6afa860d84.html",
-      "captured": true,
-      "capture_title": "扎克伯格发表6,500字长文阐述新AI愿景",
       "error": ""
     }
   ]

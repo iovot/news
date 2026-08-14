@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 10:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 13:15:35 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 10:07:53 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 13:15:35 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,20 @@
             <pubDate>Thu, 13 Aug 2026 03:22:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[白宫称中国通过转运商品规避数百亿美元关税]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52323305?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>白宫报告称，非法转运导致美国每年损失约190亿至260亿美元的关税收入，并指出包括加拿大和欧盟在内的盟友为这种规避行为提供了便利。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E8%BD%AC%E8%BF%90%E5%95%86%E5%93%81%E8%A7%84%E9%81%BF%E6%95%B0%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E-97ea6704</link>
+            <guid isPermaLink="false">WP-WSJS-0003817563</guid>
+            <pubDate>Fri, 14 Aug 2026 10:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国7月新增贷款意外下降]]></title>
+            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-10678017?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这在一定程度上反映了季节性因素，但也表明，在中国房地产市场长达数年的低迷态势延续之际，信贷需求依然疲软。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD7%E6%9C%88%E6%96%B0%E5%A2%9E%E8%B4%B7%E6%AC%BE%E6%84%8F%E5%A4%96%E4%B8%8B%E9%99%8D-e52195ff</link>
+            <guid isPermaLink="false">WP-WSJS-0003817681</guid>
+            <pubDate>Fri, 14 Aug 2026 11:41:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65161526?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>28岁的莱维特与总统不仅口吻一致，有时似乎连想法也如出一辙。特朗普表示理解并尊重她的决定，并称莱维特将继续担任他的核心外部顾问之一。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BC%BA-%E5%98%B4%E6%9B%BF-%E8%8E%B1%E7%BB%B4%E7%89%B9%E8%BE%9E%E8%81%8C-%E6%9B%BE%E5%B0%86%E4%B8%BA%E6%80%BB%E7%BB%9F%E8%BE%A9%E6%8A%A4%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4-29756345</link>
@@ -54,20 +68,6 @@
             <link>https://cn.wsj.com/articles/trump-orders-navy-to-restore-old-technology-in-aircraft-carriers-costing-billions-48be110b</link>
             <guid isPermaLink="false">WP-WSJS-0003816723</guid>
             <pubDate>Fri, 14 Aug 2026 03:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-06412072?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>关税将根据无人机的性能和原产地实行分级。此举旨在对抗中国在商用无人机市场的主导地位，并将生产线迁回美国。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-announces-drone-tariffs-to-protect-national-security-bolster-u-s-supply-chains-01dce4e8</link>
-            <guid isPermaLink="false">WP-WSJS-0003817231</guid>
-            <pubDate>Fri, 14 Aug 2026 05:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“无就业”繁荣时代已经到来]]></title>
-            <description><![CDATA[<img width="1280" height="883" src="https://images.wsj.net/im-07948120?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>股市认为美国经济正在加速，但招聘活动并未跟上。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%97%A0%E5%B0%B1%E4%B8%9A%E7%B9%81%E8%8D%A3-%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5-1d734b4a</link>
-            <guid isPermaLink="false">WP-WSJS-0003814487</guid>
-            <pubDate>Thu, 13 Aug 2026 11:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力]]></title>
@@ -126,13 +126,6 @@
             <pubDate>Thu, 13 Aug 2026 11:21:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15413357?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。</p>]]></description>
-            <link>https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0</link>
-            <guid isPermaLink="false">WP-WSJS-0003816815</guid>
-            <pubDate>Fri, 14 Aug 2026 00:04:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美经销商起诉极星，控其“自导自演”在美禁令]]></title>
             <description><![CDATA[<img width="1280" height="992" src="https://images.wsj.net/im-69112689?size=1.29&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中资车企极星最大的美国经销商之一本周提起诉讼，指控该车企“精心策划”了近期美国政府对其下达的禁令，以此作为其意图退出美国市场的“幌子”。</p>]]></description>
             <link>https://cn.wsj.com/articles/polestar-dealer-claims-automaker-orchestrated-its-u-s-ban-in-lawsuit-3388a2b9</link>
@@ -140,11 +133,25 @@
             <pubDate>Fri, 14 Aug 2026 00:11:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15413357?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。</p>]]></description>
+            <link>https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0</link>
+            <guid isPermaLink="false">WP-WSJS-0003816815</guid>
+            <pubDate>Fri, 14 Aug 2026 00:04:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[比尔·阿克曼称其新基金股价下跌“简直荒谬”]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69933983?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>比尔·阿克曼的选股基金今年以来落后于整体市场。他寄望于重塑投资组合，包括新押注Netflix和Visa等公司，以帮助扭转局面。</p>]]></description>
             <link>https://cn.wsj.com/articles/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-5284109f</link>
             <guid isPermaLink="false">WP-WSJS-0003816789</guid>
             <pubDate>Thu, 13 Aug 2026 23:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“无就业”繁荣时代已经到来]]></title>
+            <description><![CDATA[<img width="1280" height="883" src="https://images.wsj.net/im-07948120?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>股市认为美国经济正在加速，但招聘活动并未跟上。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%97%A0%E5%B0%B1%E4%B8%9A%E7%B9%81%E8%8D%A3-%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5-1d734b4a</link>
+            <guid isPermaLink="false">WP-WSJS-0003814487</guid>
+            <pubDate>Thu, 13 Aug 2026 11:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[重磅调查：揭秘朝鲜特工如何远程入职美企为金正恩敛财]]></title>
@@ -182,13 +189,6 @@
             <pubDate>Thu, 13 Aug 2026 03:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69462502?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>马斯克的特斯拉薪酬方案中有一项特殊条款，可在并购发生时免除高额业绩目标。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E8%8B%A5%E5%B9%B6%E5%85%A5spacex-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%82%E4%BD%95%E8%B5%B0%E6%8D%B7%E5%BE%84%E8%A7%A3%E9%94%81%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC-bb49eca6</link>
-            <guid isPermaLink="false">WP-WSJS-0003807873</guid>
-            <pubDate>Tue, 11 Aug 2026 05:42:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[真有“神经系统失调”这回事吗？]]></title>
             <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-46269917?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“神经系统失调”——这个被健康养生行业塑造出来的“假想敌”——催生了一个小众产业。</p>]]></description>
             <link>https://cn.wsj.com/articles/the-algorithm-says-my-nervous-system-is-dysregulated-heres-why-im-skeptical-71b61067</link>
@@ -196,18 +196,18 @@
             <pubDate>Fri, 14 Aug 2026 05:35:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69462502?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>马斯克的特斯拉薪酬方案中有一项特殊条款，可在并购发生时免除高额业绩目标。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E8%8B%A5%E5%B9%B6%E5%85%A5spacex-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%82%E4%BD%95%E8%B5%B0%E6%8D%B7%E5%BE%84%E8%A7%A3%E9%94%81%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC-bb49eca6</link>
+            <guid isPermaLink="false">WP-WSJS-0003807873</guid>
+            <pubDate>Tue, 11 Aug 2026 05:42:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[告别端茶倒水，实习生今夏开始挑大梁]]></title>
             <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-49478180?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。</p>]]></description>
             <link>https://cn.wsj.com/articles/forget-about-fetching-coffee-this-summer-the-interns-are-running-the-show-85865847</link>
             <guid isPermaLink="false">WP-WSJS-0003813935</guid>
             <pubDate>Thu, 13 Aug 2026 02:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当一名保姆不够用时，“CEO式育儿”的父母雇佣整个团队]]></title>
-            <description><![CDATA[<img width="1080" height="718" src="https://images.wsj.net/im-30161503?size=1.5053763440860215&width=1080" class="webfeedsFeaturedVisual" alt=""/><p>有些富裕的父母豪掷逾25万美元，为孩子配备一整个服务团队，从而将传统的育儿职责外包出去。父母们表示这能腾出时间让他们与孩子度过更有意义的时光。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ceo-parent-nanny-assistant-teams-hiring-408a87c2</link>
-            <guid isPermaLink="false">WP-WSJS-0003807782</guid>
-            <pubDate>Tue, 11 Aug 2026 03:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
