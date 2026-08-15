@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:49:57.082890+00:00",
+  "generated_at": "2026-08-15T06:48:04.927392+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-12867671?size=1.333&width=1280",
       "snapshot": "articles/luigi-mangione-pleads-guilty-to-federal-charges--9c5f65ddcc5d.html",
       "captured": true,
-      "capture_title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼就联邦指控认罪 - WSJ",
+      "capture_title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼就联邦指控认罪",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-38629628?size=1.501&width=1280",
       "snapshot": "articles/trump-familys-world-liberty-financial-gets-preli-15535f470c22.html",
       "captured": true,
-      "capture_title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行 - WSJ",
+      "capture_title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行",
       "error": ""
     },
     {
@@ -181,19 +181,31 @@
       "image_url": "https://images.wsj.net/im-96473568?size=1.501&width=1280",
       "snapshot": "articles/stripe-advent-in-talks-to-buy-paypal-ce884510-52f553980d28.html",
       "captured": true,
-      "capture_title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜 - WSJ",
+      "capture_title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜",
       "error": ""
     },
     {
-      "title": "电动汽车先驱马斯克开始拥抱化石燃料",
-      "summary": "SpaceX披露计划在得克萨斯州格赖姆斯县建设一座天然气发电厂。在田纳西州和密西西比州的其他园区，马斯克正依靠数十台燃气轮机为数据中心供电。",
-      "link": "https://cn.wsj.com/articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-fcdb5485",
-      "guid": "WP-WSJS-0003816845",
-      "pub_date": "Fri, 14 Aug 2026 00:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-38499279?size=1.501&width=1280",
-      "snapshot": "articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-n-d0b3ee5b9b6e.html",
+      "title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权",
+      "summary": "这笔交易标志着贝佐斯首次涉足体育球队所有权领域，但他不会在这家足球俱乐部董事会获得席位。",
+      "link": "https://cn.wsj.com/articles/jeff-bezos-bets-on-sports-with-7-billion-liverpool-deal-8e11b9ac",
+      "guid": "WP-WSJS-0003820455",
+      "pub_date": "Sat, 15 Aug 2026 04:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-11165030?size=1.501&width=1280",
+      "snapshot": "articles/jeff-bezos-bets-on-sports-with-7-billion-liverpo-0e800b052bdf.html",
       "captured": true,
-      "capture_title": "电动汽车先驱马斯克开始拥抱化石燃料",
+      "capture_title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "摩根大通因监管担忧终止与Polymarket的银行业务关系",
+      "summary": "据知情人士透露，出于监管方面的担忧，摩根大通去年10月终止了与预测市场Polymarket的银行业务关系。",
+      "link": "https://cn.wsj.com/articles/jpmorgan-ended-banking-relationship-with-polymarket-over-regulatory-concerns-897c7db5",
+      "guid": "WP-WSJS-0003820451",
+      "pub_date": "Sat, 15 Aug 2026 03:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-66638465?size=1.501&width=1280",
+      "snapshot": "articles/jpmorgan-ended-banking-relationship-with-polymar-2aa3b631fa51.html",
+      "captured": true,
+      "capture_title": "摩根大通因监管担忧终止与Polymarket的银行业务关系 - WSJ",
       "error": ""
     },
     {
@@ -290,6 +302,18 @@
       "snapshot": "articles/e7-89-b9-e6-96-af-e6-8b-89-e8-8b-a5-e5-b9-b6-e5--073e7de5d0d8.html",
       "captured": true,
       "capture_title": "特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬",
+      "error": ""
+    },
+    {
+      "title": "电动汽车先驱马斯克开始拥抱化石燃料",
+      "summary": "SpaceX披露计划在得克萨斯州格赖姆斯县建设一座天然气发电厂。在田纳西州和密西西比州的其他园区，马斯克正依靠数十台燃气轮机为数据中心供电。",
+      "link": "https://cn.wsj.com/articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-fcdb5485",
+      "guid": "WP-WSJS-0003816845",
+      "pub_date": "Fri, 14 Aug 2026 00:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-38499279?size=1.501&width=1280",
+      "snapshot": "articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-n-d0b3ee5b9b6e.html",
+      "captured": true,
+      "capture_title": "电动汽车先驱马斯克开始拥抱化石燃料",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/selling-the-dream-of-spacex-was-the-easy-part-no-c715b15327fd.html",
       "captured": true,
       "capture_title": "推销SpaceX的梦想容易，如今马斯克必须顶住高压",
-      "error": ""
-    },
-    {
-      "title": "特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算",
-      "summary": "德黑兰方面提出了要求美方做出重大让步的新条件，而就在几天前，白宫还曾对外释放信号，称有望达成一项旨在恢复商业通航的协议。",
-      "link": "https://cn.wsj.com/articles/trump-strait-of-hormuz-opening-iran-negotiations-a24eedac",
-      "guid": "WP-WSJS-0003804922",
-      "pub_date": "Mon, 10 Aug 2026 02:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-34245981?size=1.501&width=1280",
-      "snapshot": "articles/trump-strait-of-hormuz-opening-iran-negotiations-949a1080a78c.html",
-      "captured": true,
-      "capture_title": "特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算",
-      "error": ""
-    },
-    {
-      "title": "台湾因军事演习下调网速，但民众反应淡定",
-      "summary": "台湾上周推送紧急警报，旨在提醒公众防范中国发动攻击的情况下可能出现的断网风险。但许多民众似乎对网络降速演练并不在意，或并不知情。",
-      "link": "https://cn.wsj.com/articles/taiwan-war-drills-internet-speed-207817dd",
-      "guid": "WP-WSJS-0003805006",
-      "pub_date": "Mon, 10 Aug 2026 03:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-49013668?size=1.501&width=1280",
-      "snapshot": "articles/taiwan-war-drills-internet-speed-207817dd-1810b689b04b.html",
-      "captured": true,
-      "capture_title": "台湾因军事演习下调网速，但民众反应淡定",
       "error": ""
     }
   ]

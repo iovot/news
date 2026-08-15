@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 03:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 06:44:34 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 03:43:03 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 06:44:34 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -133,11 +133,18 @@
             <pubDate>Sat, 15 Aug 2026 02:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[电动汽车先驱马斯克开始拥抱化石燃料]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-38499279?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX披露计划在得克萨斯州格赖姆斯县建设一座天然气发电厂。在田纳西州和密西西比州的其他园区，马斯克正依靠数十台燃气轮机为数据中心供电。</p>]]></description>
-            <link>https://cn.wsj.com/articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-fcdb5485</link>
-            <guid isPermaLink="false">WP-WSJS-0003816845</guid>
-            <pubDate>Fri, 14 Aug 2026 00:26:00 GMT</pubDate>
+            <title><![CDATA[贝佐斯参与的财团收购利物浦足球俱乐部的少数股权]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11165030?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这笔交易标志着贝佐斯首次涉足体育球队所有权领域，但他不会在这家足球俱乐部董事会获得席位。</p>]]></description>
+            <link>https://cn.wsj.com/articles/jeff-bezos-bets-on-sports-with-7-billion-liverpool-deal-8e11b9ac</link>
+            <guid isPermaLink="false">WP-WSJS-0003820455</guid>
+            <pubDate>Sat, 15 Aug 2026 04:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通因监管担忧终止与Polymarket的银行业务关系]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-66638465?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据知情人士透露，出于监管方面的担忧，摩根大通去年10月终止了与预测市场Polymarket的银行业务关系。</p>]]></description>
+            <link>https://cn.wsj.com/articles/jpmorgan-ended-banking-relationship-with-polymarket-over-regulatory-concerns-897c7db5</link>
+            <guid isPermaLink="false">WP-WSJS-0003820451</guid>
+            <pubDate>Sat, 15 Aug 2026 03:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致]]></title>
