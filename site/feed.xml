@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 01:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 03:43:03 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 01:26:00 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 03:43:03 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -56,18 +56,18 @@
             <pubDate>Sat, 15 Aug 2026 00:51:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼就联邦指控认罪]]></title>
+            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-12867671?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>路易吉·曼吉奥尼就UnitedHealthcare高管布莱恩·汤普森之死涉及的联邦跟踪骚扰指控认罪。</p>]]></description>
+            <link>https://cn.wsj.com/articles/luigi-mangione-pleads-guilty-to-federal-charges-in-killing-of-insurance-executive-98355abb</link>
+            <guid isPermaLink="false">WP-WSJS-0003820314</guid>
+            <pubDate>Sat, 15 Aug 2026 01:25:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国7月新增贷款意外下降]]></title>
             <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-10678017?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这在一定程度上反映了季节性因素，但也表明，在中国房地产市场长达数年的低迷态势延续之际，信贷需求依然疲软。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD7%E6%9C%88%E6%96%B0%E5%A2%9E%E8%B4%B7%E6%AC%BE%E6%84%8F%E5%A4%96%E4%B8%8B%E9%99%8D-e52195ff</link>
             <guid isPermaLink="false">WP-WSJS-0003817681</guid>
             <pubDate>Fri, 14 Aug 2026 11:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65161526?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>28岁的莱维特与总统不仅口吻一致，有时似乎连想法也如出一辙。特朗普表示理解并尊重她的决定，并称莱维特将继续担任他的核心外部顾问之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BC%BA-%E5%98%B4%E6%9B%BF-%E8%8E%B1%E7%BB%B4%E7%89%B9%E8%BE%9E%E8%81%8C-%E6%9B%BE%E5%B0%86%E4%B8%BA%E6%80%BB%E7%BB%9F%E8%BE%A9%E6%8A%A4%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4-29756345</link>
-            <guid isPermaLink="false">WP-WSJS-0003817001</guid>
-            <pubDate>Fri, 14 Aug 2026 02:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力]]></title>
@@ -105,6 +105,13 @@
             <pubDate>Thu, 13 Aug 2026 04:06:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元]]></title>
+            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-39341467?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据知情人士透露，华尔街交易巨头Jane Street在7月份亏损约150亿美元，部分原因是受到对冲基金Situational Awareness陷入困境的拖累。</p>]]></description>
+            <link>https://cn.wsj.com/articles/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-bfc76385</link>
+            <guid isPermaLink="false">WP-WSJS-0003820271</guid>
+            <pubDate>Sat, 15 Aug 2026 00:42:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DeepSeek将AI模型价格上调三倍]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-39632385?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>DeepSeek上调旗舰V4系列模型的价格，不过其最新价格仍远低于竞争对手。此次提价将于8月16日生效。</p>]]></description>
             <link>https://cn.wsj.com/articles/deepseek%E5%B0%86ai%E6%A8%A1%E5%9E%8B%E4%BB%B7%E6%A0%BC%E4%B8%8A%E8%B0%83%E4%B8%89%E5%80%8D-81ce8413</link>
@@ -112,11 +119,18 @@
             <pubDate>Fri, 14 Aug 2026 05:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元]]></title>
-            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-39341467?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据知情人士透露，华尔街交易巨头Jane Street在7月份亏损约150亿美元，部分原因是受到对冲基金Situational Awareness陷入困境的拖累。</p>]]></description>
-            <link>https://cn.wsj.com/articles/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-bfc76385</link>
-            <guid isPermaLink="false">WP-WSJS-0003820271</guid>
-            <pubDate>Sat, 15 Aug 2026 00:42:00 GMT</pubDate>
+            <title><![CDATA[特朗普家族旗下World Liberty Financial获初步批准设立信托银行]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-38629628?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>获得最终批准后，World Liberty Trust将作为一家联邦特许国家信托银行运营。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-a09444c7</link>
+            <guid isPermaLink="false">WP-WSJS-0003820382</guid>
+            <pubDate>Sat, 15 Aug 2026 02:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96473568?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士表示，Stripe和安宏资本曾在7月份提议以每股60.50美元的价格收购PayPal，但PayPal认为这一报价偏低。此后双方一直在就提高报价展开谈判。</p>]]></description>
+            <link>https://cn.wsj.com/articles/stripe-advent-in-talks-to-buy-paypal-ce884510</link>
+            <guid isPermaLink="false">WP-WSJS-0003820393</guid>
+            <pubDate>Sat, 15 Aug 2026 02:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[电动汽车先驱马斯克开始拥抱化石燃料]]></title>
@@ -126,25 +140,11 @@
             <pubDate>Fri, 14 Aug 2026 00:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中芯国际第二季度净利润和收入双双激增]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11992620?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104</link>
-            <guid isPermaLink="false">WP-WSJS-0003814645</guid>
-            <pubDate>Thu, 13 Aug 2026 11:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美经销商起诉极星，控其“自导自演”在美禁令]]></title>
-            <description><![CDATA[<img width="1280" height="992" src="https://images.wsj.net/im-69112689?size=1.29&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中资车企极星最大的美国经销商之一本周提起诉讼，指控该车企“精心策划”了近期美国政府对其下达的禁令，以此作为其意图退出美国市场的“幌子”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/polestar-dealer-claims-automaker-orchestrated-its-u-s-ban-in-lawsuit-3388a2b9</link>
-            <guid isPermaLink="false">WP-WSJS-0003816826</guid>
-            <pubDate>Fri, 14 Aug 2026 00:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15413357?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。</p>]]></description>
-            <link>https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0</link>
-            <guid isPermaLink="false">WP-WSJS-0003816815</guid>
-            <pubDate>Fri, 14 Aug 2026 00:04:00 GMT</pubDate>
+            <title><![CDATA[特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65161526?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>28岁的莱维特与总统不仅口吻一致，有时似乎连想法也如出一辙。特朗普表示理解并尊重她的决定，并称莱维特将继续担任他的核心外部顾问之一。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BC%BA-%E5%98%B4%E6%9B%BF-%E8%8E%B1%E7%BB%B4%E7%89%B9%E8%BE%9E%E8%81%8C-%E6%9B%BE%E5%B0%86%E4%B8%BA%E6%80%BB%E7%BB%9F%E8%BE%A9%E6%8A%A4%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4-29756345</link>
+            <guid isPermaLink="false">WP-WSJS-0003817001</guid>
+            <pubDate>Fri, 14 Aug 2026 02:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“无就业”繁荣时代已经到来]]></title>
@@ -180,13 +180,6 @@
             <link>https://cn.wsj.com/articles/%E5%86%85%E9%AC%BC-%E6%B3%84%E9%9C%B2%E5%AE%98%E6%96%B9%E6%9C%BA%E5%AF%86%E4%BB%A5%E8%B0%8B%E7%A7%81%E5%88%A9-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E9%9D%A2%E4%B8%B4%E9%9A%90%E6%82%A3-30973621</link>
             <guid isPermaLink="false">WP-WSJS-0003805247</guid>
             <pubDate>Mon, 10 Aug 2026 08:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84691352?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e</link>
-            <guid isPermaLink="false">WP-WSJS-0003813992</guid>
-            <pubDate>Thu, 13 Aug 2026 03:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[真有“神经系统失调”这回事吗？]]></title>

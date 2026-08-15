@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:32:50.827719+00:00",
+  "generated_at": "2026-08-15T03:49:57.082890+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-60828728?size=1.499&width=1280",
       "snapshot": "articles/s-p-500-logs-third-consecutive-weekly-gain-6492a-2ad2562611a9.html",
       "captured": true,
-      "capture_title": "标普500指数连续第三周上涨 - WSJ",
+      "capture_title": "标普500指数连续第三周上涨",
       "error": ""
     },
     {
@@ -49,7 +49,19 @@
       "image_url": "https://images.wsj.net/im-48930638?size=1.501&width=1280",
       "snapshot": "articles/trump-downplays-concerns-about-conditions-on-the-75026f94d83a.html",
       "captured": true,
-      "capture_title": "特朗普淡化外界对“林肯”号航母生活条件的担忧 - WSJ",
+      "capture_title": "特朗普淡化外界对“林肯”号航母生活条件的担忧",
+      "error": ""
+    },
+    {
+      "title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼就联邦指控认罪",
+      "summary": "路易吉·曼吉奥尼就UnitedHealthcare高管布莱恩·汤普森之死涉及的联邦跟踪骚扰指控认罪。",
+      "link": "https://cn.wsj.com/articles/luigi-mangione-pleads-guilty-to-federal-charges-in-killing-of-insurance-executive-98355abb",
+      "guid": "WP-WSJS-0003820314",
+      "pub_date": "Sat, 15 Aug 2026 01:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-12867671?size=1.333&width=1280",
+      "snapshot": "articles/luigi-mangione-pleads-guilty-to-federal-charges--9c5f65ddcc5d.html",
+      "captured": true,
+      "capture_title": "UnitedHealthcare高管枪杀案嫌疑人曼吉奥尼就联邦指控认罪 - WSJ",
       "error": ""
     },
     {
@@ -62,18 +74,6 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd7-e6-9c-88-e6-96-b0-e5-a2-9e-e8-0b0f43ac2c16.html",
       "captured": true,
       "capture_title": "中国7月新增贷款意外下降",
-      "error": ""
-    },
-    {
-      "title": "特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致",
-      "summary": "28岁的莱维特与总统不仅口吻一致，有时似乎连想法也如出一辙。特朗普表示理解并尊重她的决定，并称莱维特将继续担任他的核心外部顾问之一。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BC%BA-%E5%98%B4%E6%9B%BF-%E8%8E%B1%E7%BB%B4%E7%89%B9%E8%BE%9E%E8%81%8C-%E6%9B%BE%E5%B0%86%E4%B8%BA%E6%80%BB%E7%BB%9F%E8%BE%A9%E6%8A%A4%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4-29756345",
-      "guid": "WP-WSJS-0003817001",
-      "pub_date": "Fri, 14 Aug 2026 02:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-65161526?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-9c-80-e5-bc-ba--e5-f9947f7e5e8e.html",
-      "captured": true,
-      "capture_title": "特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致",
       "error": ""
     },
     {
@@ -137,6 +137,18 @@
       "error": ""
     },
     {
+      "title": "受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元",
+      "summary": "据知情人士透露，华尔街交易巨头Jane Street在7月份亏损约150亿美元，部分原因是受到对冲基金Situational Awareness陷入困境的拖累。",
+      "link": "https://cn.wsj.com/articles/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-bfc76385",
+      "guid": "WP-WSJS-0003820271",
+      "pub_date": "Sat, 15 Aug 2026 00:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-39341467?size=1.25&width=1280",
+      "snapshot": "articles/jane-street-suffers-loss-of-about-15-billion-due-0ea652cc21c2.html",
+      "captured": true,
+      "capture_title": "受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元",
+      "error": ""
+    },
+    {
       "title": "DeepSeek将AI模型价格上调三倍",
       "summary": "DeepSeek上调旗舰V4系列模型的价格，不过其最新价格仍远低于竞争对手。此次提价将于8月16日生效。",
       "link": "https://cn.wsj.com/articles/deepseek%E5%B0%86ai%E6%A8%A1%E5%9E%8B%E4%BB%B7%E6%A0%BC%E4%B8%8A%E8%B0%83%E4%B8%89%E5%80%8D-81ce8413",
@@ -149,15 +161,27 @@
       "error": ""
     },
     {
-      "title": "受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元",
-      "summary": "据知情人士透露，华尔街交易巨头Jane Street在7月份亏损约150亿美元，部分原因是受到对冲基金Situational Awareness陷入困境的拖累。",
-      "link": "https://cn.wsj.com/articles/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-bfc76385",
-      "guid": "WP-WSJS-0003820271",
-      "pub_date": "Sat, 15 Aug 2026 00:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-39341467?size=1.25&width=1280",
-      "snapshot": "articles/jane-street-suffers-loss-of-about-15-billion-due-0ea652cc21c2.html",
+      "title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行",
+      "summary": "获得最终批准后，World Liberty Trust将作为一家联邦特许国家信托银行运营。",
+      "link": "https://cn.wsj.com/articles/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-a09444c7",
+      "guid": "WP-WSJS-0003820382",
+      "pub_date": "Sat, 15 Aug 2026 02:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-38629628?size=1.501&width=1280",
+      "snapshot": "articles/trump-familys-world-liberty-financial-gets-preli-15535f470c22.html",
       "captured": true,
-      "capture_title": "受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元 - WSJ",
+      "capture_title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜",
+      "summary": "知情人士表示，Stripe和安宏资本曾在7月份提议以每股60.50美元的价格收购PayPal，但PayPal认为这一报价偏低。此后双方一直在就提高报价展开谈判。",
+      "link": "https://cn.wsj.com/articles/stripe-advent-in-talks-to-buy-paypal-ce884510",
+      "guid": "WP-WSJS-0003820393",
+      "pub_date": "Sat, 15 Aug 2026 02:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-96473568?size=1.501&width=1280",
+      "snapshot": "articles/stripe-advent-in-talks-to-buy-paypal-ce884510-52f553980d28.html",
+      "captured": true,
+      "capture_title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜 - WSJ",
       "error": ""
     },
     {
@@ -173,39 +197,15 @@
       "error": ""
     },
     {
-      "title": "中芯国际第二季度净利润和收入双双激增",
-      "summary": "随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104",
-      "guid": "WP-WSJS-0003814645",
-      "pub_date": "Thu, 13 Aug 2026 11:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-11992620?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e8-8a-af-e5-9b-bd-e9-99-85-e7-ac-ac-e4--7a643a7021e0.html",
+      "title": "特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致",
+      "summary": "28岁的莱维特与总统不仅口吻一致，有时似乎连想法也如出一辙。特朗普表示理解并尊重她的决定，并称莱维特将继续担任他的核心外部顾问之一。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BC%BA-%E5%98%B4%E6%9B%BF-%E8%8E%B1%E7%BB%B4%E7%89%B9%E8%BE%9E%E8%81%8C-%E6%9B%BE%E5%B0%86%E4%B8%BA%E6%80%BB%E7%BB%9F%E8%BE%A9%E6%8A%A4%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4-29756345",
+      "guid": "WP-WSJS-0003817001",
+      "pub_date": "Fri, 14 Aug 2026 02:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-65161526?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-9c-80-e5-bc-ba--e5-f9947f7e5e8e.html",
       "captured": true,
-      "capture_title": "中芯国际第二季度净利润和收入双双激增",
-      "error": ""
-    },
-    {
-      "title": "美经销商起诉极星，控其“自导自演”在美禁令",
-      "summary": "中资车企极星最大的美国经销商之一本周提起诉讼，指控该车企“精心策划”了近期美国政府对其下达的禁令，以此作为其意图退出美国市场的“幌子”。",
-      "link": "https://cn.wsj.com/articles/polestar-dealer-claims-automaker-orchestrated-its-u-s-ban-in-lawsuit-3388a2b9",
-      "guid": "WP-WSJS-0003816826",
-      "pub_date": "Fri, 14 Aug 2026 00:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-69112689?size=1.29&width=1280",
-      "snapshot": "articles/polestar-dealer-claims-automaker-orchestrated-it-02db6fd1faee.html",
-      "captured": true,
-      "capture_title": "美经销商起诉极星，控其“自导自演”在美禁令",
-      "error": ""
-    },
-    {
-      "title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
-      "summary": "湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。",
-      "link": "https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0",
-      "guid": "WP-WSJS-0003816815",
-      "pub_date": "Fri, 14 Aug 2026 00:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-15413357?size=1.501&width=1280",
-      "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
-      "captured": true,
-      "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
+      "capture_title": "特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致",
       "error": ""
     },
     {
@@ -269,18 +269,6 @@
       "error": ""
     },
     {
-      "title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
-      "summary": "一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。",
-      "link": "https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e",
-      "guid": "WP-WSJS-0003813992",
-      "pub_date": "Thu, 13 Aug 2026 03:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-84691352?size=1.501&width=1280",
-      "snapshot": "articles/how-trumps-ruse-to-evade-an-iranian-threat-unfol-02f8731d654a.html",
-      "captured": true,
-      "capture_title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
-      "error": ""
-    },
-    {
       "title": "真有“神经系统失调”这回事吗？",
       "summary": "“神经系统失调”——这个被健康养生行业塑造出来的“假想敌”——催生了一个小众产业。",
       "link": "https://cn.wsj.com/articles/the-algorithm-says-my-nervous-system-is-dysregulated-heres-why-im-skeptical-71b61067",
@@ -302,6 +290,66 @@
       "snapshot": "articles/e7-89-b9-e6-96-af-e6-8b-89-e8-8b-a5-e5-b9-b6-e5--073e7de5d0d8.html",
       "captured": true,
       "capture_title": "特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬",
+      "error": ""
+    },
+    {
+      "title": "告别端茶倒水，实习生今夏开始挑大梁",
+      "summary": "随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。",
+      "link": "https://cn.wsj.com/articles/forget-about-fetching-coffee-this-summer-the-interns-are-running-the-show-85865847",
+      "guid": "WP-WSJS-0003813935",
+      "pub_date": "Thu, 13 Aug 2026 02:10:00 GMT",
+      "image_url": "https://images.wsj.net/im-49478180?size=1.778&width=1280",
+      "snapshot": "articles/forget-about-fetching-coffee-this-summer-the-int-2c52dcff78d4.html",
+      "captured": true,
+      "capture_title": "告别端茶倒水，实习生今夏开始挑大梁",
+      "error": ""
+    },
+    {
+      "title": "中芯国际第二季度净利润和收入双双激增",
+      "summary": "随着AI驱动的需求挤压全球产能，传统和特色半导体订单强劲，让中芯国际获益。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E5%8F%8C%E5%8F%8C%E6%BF%80%E5%A2%9E-5c4cb104",
+      "guid": "WP-WSJS-0003814645",
+      "pub_date": "Thu, 13 Aug 2026 11:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-11992620?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e8-8a-af-e5-9b-bd-e9-99-85-e7-ac-ac-e4--7a643a7021e0.html",
+      "captured": true,
+      "capture_title": "中芯国际第二季度净利润和收入双双激增",
+      "error": ""
+    },
+    {
+      "title": "美经销商起诉极星，控其“自导自演”在美禁令",
+      "summary": "中资车企极星最大的美国经销商之一本周提起诉讼，指控该车企“精心策划”了近期美国政府对其下达的禁令，以此作为其意图退出美国市场的“幌子”。",
+      "link": "https://cn.wsj.com/articles/polestar-dealer-claims-automaker-orchestrated-its-u-s-ban-in-lawsuit-3388a2b9",
+      "guid": "WP-WSJS-0003816826",
+      "pub_date": "Fri, 14 Aug 2026 00:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-69112689?size=1.29&width=1280",
+      "snapshot": "articles/polestar-dealer-claims-automaker-orchestrated-it-02db6fd1faee.html",
+      "captured": true,
+      "capture_title": "美经销商起诉极星，控其“自导自演”在美禁令",
+      "error": ""
+    },
+    {
+      "title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
+      "summary": "湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。",
+      "link": "https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0",
+      "guid": "WP-WSJS-0003816815",
+      "pub_date": "Fri, 14 Aug 2026 00:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-15413357?size=1.501&width=1280",
+      "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
+      "captured": true,
+      "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
+      "error": ""
+    },
+    {
+      "title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
+      "summary": "一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。",
+      "link": "https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e",
+      "guid": "WP-WSJS-0003813992",
+      "pub_date": "Thu, 13 Aug 2026 03:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-84691352?size=1.501&width=1280",
+      "snapshot": "articles/how-trumps-ruse-to-evade-an-iranian-threat-unfol-02f8731d654a.html",
+      "captured": true,
+      "capture_title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
       "error": ""
     },
     {
@@ -350,18 +398,6 @@
       "snapshot": "articles/trump-announces-drone-tariffs-to-protect-nationa-f064c2303a07.html",
       "captured": true,
       "capture_title": "特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国",
-      "error": ""
-    },
-    {
-      "title": "告别端茶倒水，实习生今夏开始挑大梁",
-      "summary": "随着AI接管琐碎任务，实习生们正肩负起牵头项目等更大责任。",
-      "link": "https://cn.wsj.com/articles/forget-about-fetching-coffee-this-summer-the-interns-are-running-the-show-85865847",
-      "guid": "WP-WSJS-0003813935",
-      "pub_date": "Thu, 13 Aug 2026 02:10:00 GMT",
-      "image_url": "https://images.wsj.net/im-49478180?size=1.778&width=1280",
-      "snapshot": "articles/forget-about-fetching-coffee-this-summer-the-int-2c52dcff78d4.html",
-      "captured": true,
-      "capture_title": "告别端茶倒水，实习生今夏开始挑大梁",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/taiwan-war-drills-internet-speed-207817dd-1810b689b04b.html",
       "captured": true,
       "capture_title": "台湾因军事演习下调网速，但民众反应淡定",
-      "error": ""
-    },
-    {
-      "title": "伯克希尔哈撒韦换帅后开始动用巨额现金储备",
-      "summary": "伯克希尔第二季度利润增长逾一倍，新CEO阿贝尔动用了部分庞大的现金储备，回购公司股票，并且三年多来首次出现股票买入额超过卖出额。",
-      "link": "https://cn.wsj.com/articles/berkshire-hathaway-earnings-q2-2026-brk-a-stock-1084060c",
-      "guid": "WP-WSJS-0003804740",
-      "pub_date": "Sun, 09 Aug 2026 23:52:00 GMT",
-      "image_url": "https://images.wsj.net/im-52497616?size=1.499&width=1280",
-      "snapshot": "articles/berkshire-hathaway-earnings-q2-2026-brk-a-stock--0204e0594b63.html",
-      "captured": true,
-      "capture_title": "伯克希尔哈撒韦换帅后开始动用巨额现金储备",
-      "error": ""
-    },
-    {
-      "title": "习近平想要强势人民币，中国经济却在拖后腿",
-      "summary": "习近平不喜欢疲软的人民币，但单凭领导人的个人偏好，还不足以改变人民币汇率较其真实价值被低估的现状——这并非中国增长模式中的系统漏洞，而是其固有特性。",
-      "link": "https://cn.wsj.com/articles/xi-wants-a-strong-looking-yuan-chinas-economy-keeps-holding-it-down-a88a5af5",
-      "guid": "WP-WSJS-0003792000",
-      "pub_date": "Wed, 05 Aug 2026 02:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-631417?size=1.501&width=1280",
-      "snapshot": "articles/xi-wants-a-strong-looking-yuan-chinas-economy-ke-9c8aa1e0eae2.html",
-      "captured": true,
-      "capture_title": "习近平想要强势人民币，中国经济却在拖后腿",
-      "error": ""
-    },
-    {
-      "title": "联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？",
-      "summary": "洛嘎的自焚行为震动并凝聚了原本已四分五裂、士气低落的全球流亡藏人群体。",
-      "link": "https://cn.wsj.com/articles/-tibetan-activist-set-himself-on-fire-outside-the-u-n-and-united-his-cause-04f3e4eb",
-      "guid": "WP-WSJS-0003796361",
-      "pub_date": "Thu, 06 Aug 2026 06:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-94955510?size=1.501&width=1280",
-      "snapshot": "articles/tibetan-activist-set-himself-on-fire-outside-the-c26df2184d08.html",
-      "captured": true,
-      "capture_title": "联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？",
       "error": ""
     }
   ]
