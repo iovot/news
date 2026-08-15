@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:48:04.927392+00:00",
+  "generated_at": "2026-08-15T09:29:38.787458+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-39632385?size=1.499&width=1280",
       "snapshot": "articles/deepseek-e5-b0-86ai-e6-a8-a1-e5-9e-8b-e4-bb-b7-e-e4fa6dbe9dec.html",
       "captured": true,
-      "capture_title": "DeepSeek将AI模型价格上调三倍 - WSJ",
+      "capture_title": "DeepSeek将AI模型价格上调三倍",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-11165030?size=1.501&width=1280",
       "snapshot": "articles/jeff-bezos-bets-on-sports-with-7-billion-liverpo-0e800b052bdf.html",
       "captured": true,
-      "capture_title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权 - WSJ",
+      "capture_title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-66638465?size=1.501&width=1280",
       "snapshot": "articles/jpmorgan-ended-banking-relationship-with-polymar-2aa3b631fa51.html",
       "captured": true,
-      "capture_title": "摩根大通因监管担忧终止与Polymarket的银行业务关系 - WSJ",
+      "capture_title": "摩根大通因监管担忧终止与Polymarket的银行业务关系",
       "error": ""
     },
     {
