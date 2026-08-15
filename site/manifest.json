@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:34:01.938798+00:00",
+  "generated_at": "2026-08-15T01:32:50.827719+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -29,6 +29,30 @@
       "error": ""
     },
     {
+      "title": "标普500指数连续第三周上涨",
+      "summary": "标普500指数在周四创下收盘历史新高后周五下跌0.2%。道指下跌0.2%。纳指走低0.3%。",
+      "link": "https://cn.wsj.com/articles/s-p-500-logs-third-consecutive-weekly-gain-6492a432",
+      "guid": "WP-WSJS-0003820257",
+      "pub_date": "Sat, 15 Aug 2026 00:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-60828728?size=1.499&width=1280",
+      "snapshot": "articles/s-p-500-logs-third-consecutive-weekly-gain-6492a-2ad2562611a9.html",
+      "captured": true,
+      "capture_title": "标普500指数连续第三周上涨 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普淡化外界对“林肯”号航母生活条件的担忧",
+      "summary": "“亚伯拉罕·林肯”号航母已连续部署超过250天。特朗普还表示，海军在中东的漫长部署“还远远不够”。",
+      "link": "https://cn.wsj.com/articles/trump-downplays-concerns-about-conditions-on-the-uss-abraham-lincoln-d13cda7f",
+      "guid": "WP-WSJS-0003820287",
+      "pub_date": "Sat, 15 Aug 2026 00:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-48930638?size=1.501&width=1280",
+      "snapshot": "articles/trump-downplays-concerns-about-conditions-on-the-75026f94d83a.html",
+      "captured": true,
+      "capture_title": "特朗普淡化外界对“林肯”号航母生活条件的担忧 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国7月新增贷款意外下降",
       "summary": "这在一定程度上反映了季节性因素，但也表明，在中国房地产市场长达数年的低迷态势延续之际，信贷需求依然疲软。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD7%E6%9C%88%E6%96%B0%E5%A2%9E%E8%B4%B7%E6%AC%BE%E6%84%8F%E5%A4%96%E4%B8%8B%E9%99%8D-e52195ff",
@@ -50,30 +74,6 @@
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-9c-80-e5-bc-ba--e5-f9947f7e5e8e.html",
       "captured": true,
       "capture_title": "特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致",
-      "error": ""
-    },
-    {
-      "title": "台湾强化海巡力量武装，为台海冲突做准备",
-      "summary": "通过部署反舰导弹和举行海军演习，台北加强了防御能力并加大威慑北京的力度。",
-      "link": "https://cn.wsj.com/articles/taiwan-weaponizes-coast-guard-to-prepare-for-battle-with-china-4a746258",
-      "guid": "WP-WSJS-0003817045",
-      "pub_date": "Fri, 14 Aug 2026 03:01:00 GMT",
-      "image_url": "https://images.wsj.net/im-96615871?size=1.501&width=1280",
-      "snapshot": "articles/taiwan-weaponizes-coast-guard-to-prepare-for-bat-58425d41d6f6.html",
-      "captured": true,
-      "capture_title": "台湾强化海巡力量武装，为台海冲突做准备",
-      "error": ""
-    },
-    {
-      "title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
-      "summary": "美国海军和业界高层多年来一直反对恢复使用蒸汽弹射系统。",
-      "link": "https://cn.wsj.com/articles/trump-orders-navy-to-restore-old-technology-in-aircraft-carriers-costing-billions-48be110b",
-      "guid": "WP-WSJS-0003816723",
-      "pub_date": "Fri, 14 Aug 2026 03:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-47517692?size=1.499&width=1280",
-      "snapshot": "articles/trump-orders-navy-to-restore-old-technology-in-a-292eba79adf9.html",
-      "captured": true,
-      "capture_title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
       "error": ""
     },
     {
@@ -149,6 +149,18 @@
       "error": ""
     },
     {
+      "title": "受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元",
+      "summary": "据知情人士透露，华尔街交易巨头Jane Street在7月份亏损约150亿美元，部分原因是受到对冲基金Situational Awareness陷入困境的拖累。",
+      "link": "https://cn.wsj.com/articles/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-bfc76385",
+      "guid": "WP-WSJS-0003820271",
+      "pub_date": "Sat, 15 Aug 2026 00:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-39341467?size=1.25&width=1280",
+      "snapshot": "articles/jane-street-suffers-loss-of-about-15-billion-due-0ea652cc21c2.html",
+      "captured": true,
+      "capture_title": "受Situational Awareness困境拖累，Jane Street单月亏损约150亿美元 - WSJ",
+      "error": ""
+    },
+    {
       "title": "电动汽车先驱马斯克开始拥抱化石燃料",
       "summary": "SpaceX披露计划在得克萨斯州格赖姆斯县建设一座天然气发电厂。在田纳西州和密西西比州的其他园区，马斯克正依靠数十台燃气轮机为数据中心供电。",
       "link": "https://cn.wsj.com/articles/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels-fcdb5485",
@@ -194,18 +206,6 @@
       "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
       "captured": true,
       "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
-      "error": ""
-    },
-    {
-      "title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
-      "summary": "比尔·阿克曼的选股基金今年以来落后于整体市场。他寄望于重塑投资组合，包括新押注Netflix和Visa等公司，以帮助扭转局面。",
-      "link": "https://cn.wsj.com/articles/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-5284109f",
-      "guid": "WP-WSJS-0003816789",
-      "pub_date": "Thu, 13 Aug 2026 23:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-69933983?size=1.501&width=1280",
-      "snapshot": "articles/bill-ackman-calls-his-new-funds-slumping-stock-p-75d2259e118c.html",
-      "captured": true,
-      "capture_title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
       "error": ""
     },
     {
@@ -302,6 +302,42 @@
       "snapshot": "articles/e7-89-b9-e6-96-af-e6-8b-89-e8-8b-a5-e5-b9-b6-e5--073e7de5d0d8.html",
       "captured": true,
       "capture_title": "特斯拉若并入SpaceX，马斯克如何走捷径解锁万亿薪酬",
+      "error": ""
+    },
+    {
+      "title": "台湾强化海巡力量武装，为台海冲突做准备",
+      "summary": "通过部署反舰导弹和举行海军演习，台北加强了防御能力并加大威慑北京的力度。",
+      "link": "https://cn.wsj.com/articles/taiwan-weaponizes-coast-guard-to-prepare-for-battle-with-china-4a746258",
+      "guid": "WP-WSJS-0003817045",
+      "pub_date": "Fri, 14 Aug 2026 03:01:00 GMT",
+      "image_url": "https://images.wsj.net/im-96615871?size=1.501&width=1280",
+      "snapshot": "articles/taiwan-weaponizes-coast-guard-to-prepare-for-bat-58425d41d6f6.html",
+      "captured": true,
+      "capture_title": "台湾强化海巡力量武装，为台海冲突做准备",
+      "error": ""
+    },
+    {
+      "title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
+      "summary": "美国海军和业界高层多年来一直反对恢复使用蒸汽弹射系统。",
+      "link": "https://cn.wsj.com/articles/trump-orders-navy-to-restore-old-technology-in-aircraft-carriers-costing-billions-48be110b",
+      "guid": "WP-WSJS-0003816723",
+      "pub_date": "Fri, 14 Aug 2026 03:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-47517692?size=1.499&width=1280",
+      "snapshot": "articles/trump-orders-navy-to-restore-old-technology-in-a-292eba79adf9.html",
+      "captured": true,
+      "capture_title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
+      "error": ""
+    },
+    {
+      "title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
+      "summary": "比尔·阿克曼的选股基金今年以来落后于整体市场。他寄望于重塑投资组合，包括新押注Netflix和Visa等公司，以帮助扭转局面。",
+      "link": "https://cn.wsj.com/articles/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-5284109f",
+      "guid": "WP-WSJS-0003816789",
+      "pub_date": "Thu, 13 Aug 2026 23:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-69933983?size=1.501&width=1280",
+      "snapshot": "articles/bill-ackman-calls-his-new-funds-slumping-stock-p-75d2259e118c.html",
+      "captured": true,
+      "capture_title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/tibetan-activist-set-himself-on-fire-outside-the-c26df2184d08.html",
       "captured": true,
       "capture_title": "联合国总部外自焚，一位藏人如何重新凝聚一场政治运动？",
-      "error": ""
-    },
-    {
-      "title": "“直升机父母”正在插手成年子女的职业生涯",
-      "summary": "那些在孩子童年和大学期间一直紧盯着孩子的焦虑父母，在子女长大成人后还是继续担当掌舵人。他们会陪孩子参加求职面试，替孩子联系雇主。",
-      "link": "https://cn.wsj.com/articles/helicopter-parents-adult-children-careers-720848dc",
-      "guid": "WP-WSJS-0003800146",
-      "pub_date": "Fri, 07 Aug 2026 06:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-05043049?size=1.501&width=1280",
-      "snapshot": "articles/helicopter-parents-adult-children-careers-720848-e9892d63ef60.html",
-      "captured": true,
-      "capture_title": "“直升机父母”正在插手成年子女的职业生涯",
-      "error": ""
-    },
-    {
-      "title": "这些散户“持有”的SpaceX股票为何在套现前不翼而飞？",
-      "summary": "SPV基金宣称能提供这家火箭公司IPO前的投资“敞口”。但投资者后来被告知，股票在挂牌交易前就已抛售，预期收益大打折扣。",
-      "link": "https://cn.wsj.com/articles/spacex-ipo-spv-investors-ebd857dd",
-      "guid": "WP-WSJS-0003796284",
-      "pub_date": "Thu, 06 Aug 2026 05:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-91582437?size=1.5&width=1280",
-      "snapshot": "articles/spacex-ipo-spv-investors-ebd857dd-abd4d2793cce.html",
-      "captured": true,
-      "capture_title": "这些散户“持有”的SpaceX股票为何在套现前不翼而飞？",
-      "error": ""
-    },
-    {
-      "title": "亨特透露拜登癌症已扩散至“骨骼及其他部位”",
-      "summary": "拜登的儿子采访时称，“这非常痛苦，在很多方面都极其折磨人。”83岁的老拜登正准备出版一部关于其总统任期的回忆录。",
-      "link": "https://cn.wsj.com/articles/hunter-bidens-comments-on-dads-cancer-shed-new-light-on-ex-presidents-life-a5cdc06c",
-      "guid": "WP-WSJS-0003804777",
-      "pub_date": "Mon, 10 Aug 2026 00:12:00 GMT",
-      "image_url": "https://images.wsj.net/im-54137438?size=1.501&width=1280",
-      "snapshot": "articles/hunter-bidens-comments-on-dads-cancer-shed-new-l-3392fbfcca32.html",
-      "captured": true,
-      "capture_title": "亨特透露拜登癌症已扩散至“骨骼及其他部位”",
       "error": ""
     }
   ]
