@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:33:31.484574+00:00",
+  "generated_at": "2026-08-17T03:58:03.902980+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,19 @@
       "image_url": "https://images.wsj.net/im-57908459?size=1.501&width=1280",
       "snapshot": "articles/apple-china-memory-chip-plan-94881495-0f5ce53cff45.html",
       "captured": true,
-      "capture_title": "美国敦促苹果公司不要购买中国存储芯片 - WSJ",
+      "capture_title": "美国敦促苹果公司不要购买中国存储芯片",
+      "error": ""
+    },
+    {
+      "title": "伊朗秘密筹划，准备升级战争",
+      "summary": "截获的通讯记录及其他情报显示，伊朗强硬派领导层正进行战略调整，旨在让美国及其地区盟友付出更大代价。",
+      "link": "https://cn.wsj.com/articles/iran-plan-escalate-war-8533ea09",
+      "guid": "WP-WSJS-0003822023",
+      "pub_date": "Mon, 17 Aug 2026 03:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-45609640?size=1.62&width=1280",
+      "snapshot": "articles/iran-plan-escalate-war-8533ea09-65150da05192.html",
+      "captured": true,
+      "capture_title": "伊朗秘密筹划，准备升级战争 - WSJ",
       "error": ""
     },
     {
@@ -29,18 +41,6 @@
       "error": ""
     },
     {
-      "title": "中国汽车出口激增，运输船一船难求",
-      "summary": "随着国内需求下滑，中国汽车正涌入海外市场，给航运业带来考验。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%80%E8%88%B9%E9%9A%BE%E6%B1%82-cba46894",
-      "guid": "WP-WSJS-0003817156",
-      "pub_date": "Fri, 14 Aug 2026 04:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-50682055?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e5-87-ba-e5--44ad5826d7d4.html",
-      "captured": true,
-      "capture_title": "中国汽车出口激增，运输船一船难求",
-      "error": ""
-    },
-    {
       "title": "特朗普下令缩减美韩联合军演规模",
       "summary": "特朗普称自己与朝鲜领导人金正恩关系“非常好”。",
       "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%E8%A7%84%E6%A8%A1-42c0d3e8",
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-19632662?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8b-e4-bb-a4-e7--4bf910422ee2.html",
       "captured": true,
-      "capture_title": "特朗普下令缩减美韩联合军演规模 - WSJ",
+      "capture_title": "特朗普下令缩减美韩联合军演规模",
       "error": ""
     },
     {
@@ -61,19 +61,31 @@
       "image_url": "https://images.wsj.net/im-79831127?size=1.501&width=1280",
       "snapshot": "articles/nato-jets-down-suspected-russian-drone-over-roma-1cc0956b9034.html",
       "captured": true,
-      "capture_title": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机 - WSJ",
+      "capture_title": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
       "error": ""
     },
     {
-      "title": "印第安纳州遭遇历史性洪水，至少六人死亡",
-      "summary": "连日降雨导致该州白河水位突破110年来的最高纪录。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E5%B7%9E%E9%81%AD%E9%81%87%E5%8E%86%E5%8F%B2%E6%80%A7%E6%B4%AA%E6%B0%B4-%E8%87%B3%E5%B0%91%E5%85%AD%E4%BA%BA%E6%AD%BB%E4%BA%A1-256a9e14",
-      "guid": "WP-WSJS-0003821818",
-      "pub_date": "Mon, 17 Aug 2026 00:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-49565625?size=1.501&width=1280",
-      "snapshot": "articles/e5-8d-b0-e7-ac-ac-e5-ae-89-e7-ba-b3-e5-b7-9e-e9--4a6aa9580ef5.html",
+      "title": "央行陷入周而复始的危机循环",
+      "summary": "决策者充当起“最后做市商”，却也在不断放大杠杆与风险。",
+      "link": "https://cn.wsj.com/articles/%E5%A4%AE%E8%A1%8C%E9%99%B7%E5%85%A5%E5%91%A8%E8%80%8C%E5%A4%8D%E5%A7%8B%E7%9A%84%E5%8D%B1%E6%9C%BA%E5%BE%AA%E7%8E%AF-aa611cea",
+      "guid": "WP-WSJS-0003821903",
+      "pub_date": "Mon, 17 Aug 2026 01:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-49419877?size=1.501&width=1280",
+      "snapshot": "articles/e5-a4-ae-e8-a1-8c-e9-99-b7-e5-85-a5-e5-91-a8-e8--05eef176fe0f.html",
       "captured": true,
-      "capture_title": "印第安纳州遭遇历史性洪水，至少六人死亡 - WSJ",
+      "capture_title": "央行陷入周而复始的危机循环 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国撤销墨西哥前总统之子的签证，两国关系趋于紧张",
+      "summary": "墨西哥现任领导人辛鲍姆称，美国此举是对墨西哥执政党出于政治动机的攻击，是美国干涉墨西哥的最新企图。",
+      "link": "https://cn.wsj.com/articles/u-s-cancels-visa-for-son-of-former-mexican-president-straining-ties-4e1fb915",
+      "guid": "WP-WSJS-0003821950",
+      "pub_date": "Mon, 17 Aug 2026 01:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-08649720?size=1.501&width=1280",
+      "snapshot": "articles/u-s-cancels-visa-for-son-of-former-mexican-presi-153b755d8998.html",
+      "captured": true,
+      "capture_title": "美国撤销墨西哥前总统之子的签证，两国关系趋于紧张 - WSJ",
       "error": ""
     },
     {
@@ -85,19 +97,7 @@
       "image_url": "https://images.wsj.net/im-94985996?size=1.5&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-bc-80-e9-80-9a-e9-a6-96-e6--25514b2707bd.html",
       "captured": true,
-      "capture_title": "中国开通首条穿越北极的定期货运航线 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "英伟达缩减OpenAI数据中心2,500亿美元担保计划",
-      "summary": "英伟达和OpenAI接近达成为俄亥俄州大型数据中心园区提供融资的协议，但知情人士称，双方已重新调整交易结构。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8Fopenai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%832-500%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8B%85%E4%BF%9D%E8%AE%A1%E5%88%92-c3fe30fd",
-      "guid": "WP-WSJS-0003821747",
-      "pub_date": "Sun, 16 Aug 2026 23:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-47127562?size=1.501&width=1280",
-      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e7-bc-a9-e5-87-8fopen-7196ea50db2c.html",
-      "captured": true,
-      "capture_title": "英伟达缩减OpenAI数据中心2,500亿美元担保计划 - WSJ",
+      "capture_title": "中国开通首条穿越北极的定期货运航线",
       "error": ""
     },
     {
@@ -110,6 +110,18 @@
       "snapshot": "articles/e8-bf-9eclaude-e9-83-bd-e7-9f-a5-e4-b9-8b-e7-94--7d72d6c447a4.html",
       "captured": true,
       "capture_title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
+      "error": ""
+    },
+    {
+      "title": "中国汽车出口激增，运输船一船难求",
+      "summary": "随着国内需求下滑，中国汽车正涌入海外市场，给航运业带来考验。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%80%E8%88%B9%E9%9A%BE%E6%B1%82-cba46894",
+      "guid": "WP-WSJS-0003817156",
+      "pub_date": "Fri, 14 Aug 2026 04:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-50682055?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e5-87-ba-e5--44ad5826d7d4.html",
+      "captured": true,
+      "capture_title": "中国汽车出口激增，运输船一船难求",
       "error": ""
     },
     {
@@ -137,6 +149,42 @@
       "error": ""
     },
     {
+      "title": "英伟达缩减OpenAI数据中心2,500亿美元担保计划",
+      "summary": "英伟达和OpenAI接近达成为俄亥俄州大型数据中心园区提供融资的协议，但知情人士称，双方已重新调整交易结构。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8Fopenai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%832-500%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8B%85%E4%BF%9D%E8%AE%A1%E5%88%92-c3fe30fd",
+      "guid": "WP-WSJS-0003821747",
+      "pub_date": "Sun, 16 Aug 2026 23:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-47127562?size=1.501&width=1280",
+      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e7-bc-a9-e5-87-8fopen-7196ea50db2c.html",
+      "captured": true,
+      "capture_title": "英伟达缩减OpenAI数据中心2,500亿美元担保计划",
+      "error": ""
+    },
+    {
+      "title": "福特与通用的暗中较量：谁才是“最具美国属性”的汽车制造商",
+      "summary": "美国的贸易战让该国两家最大的汽车制造商围绕进口商品、电池等方面的优惠关税展开了较量。",
+      "link": "https://cn.wsj.com/articles/gm-ford-tariffs-7c29db97",
+      "guid": "WP-WSJS-0003821970",
+      "pub_date": "Mon, 17 Aug 2026 02:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-49226759?size=1.501&width=1280",
+      "snapshot": "articles/gm-ford-tariffs-7c29db97-da52f1d2cb34.html",
+      "captured": true,
+      "capture_title": "福特与通用的暗中较量：谁才是“最具美国属性”的汽车制造商 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "迪士尼的最大“现金牛”，其实是ESPN体育电视网",
+      "summary": "来自ESPN的庞大现金流不仅帮助迪士尼打造了钢铁侠和巴斯光年等经典角色，还为香港和上海的迪士尼园区提供了资金。",
+      "link": "https://cn.wsj.com/articles/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9A%84%E6%9C%80%E5%A4%A7-%E7%8E%B0%E9%87%91%E7%89%9B-%E5%85%B6%E5%AE%9E%E6%98%AFespn%E4%BD%93%E8%82%B2%E7%94%B5%E8%A7%86%E7%BD%91-1235da40",
+      "guid": "WP-WSJS-0003821961",
+      "pub_date": "Mon, 17 Aug 2026 02:06:00 GMT",
+      "image_url": "https://images.wsj.net/im-11638793?size=1.25&width=1280",
+      "snapshot": "articles/e8-bf-aa-e5-a3-ab-e5-b0-bc-e7-9a-84-e6-9c-80-e5--18da8ccbeb1e.html",
+      "captured": true,
+      "capture_title": "迪士尼的最大“现金牛”，其实是ESPN体育电视网 - WSJ",
+      "error": ""
+    },
+    {
       "title": "道奇队老板沃尔特旗下四家关联公司成为检方调查焦点",
       "summary": "知情人士称，沃尔特旗下保险公司发放的贷款资金，曾流经据称由这四家实体各自控制的公司。",
       "link": "https://cn.wsj.com/articles/%E9%81%93%E5%A5%87%E9%98%9F%E8%80%81%E6%9D%BF%E6%B2%83%E5%B0%94%E7%89%B9%E6%97%97%E4%B8%8B%E5%9B%9B%E5%AE%B6%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E6%88%90%E4%B8%BA%E6%A3%80%E6%96%B9%E8%B0%83%E6%9F%A5%E7%84%A6%E7%82%B9-5931e9bf",
@@ -145,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-76565674?size=1.441&width=1280",
       "snapshot": "articles/e9-81-93-e5-a5-87-e9-98-9f-e8-80-81-e6-9d-bf-e6--febe6638abc6.html",
       "captured": true,
-      "capture_title": "道奇队老板沃尔特旗下四家关联公司成为检方调查焦点 - WSJ",
+      "capture_title": "道奇队老板沃尔特旗下四家关联公司成为检方调查焦点",
       "error": ""
     },
     {
@@ -170,42 +218,6 @@
       "snapshot": "articles/deepseek-e5-b0-86ai-e6-a8-a1-e5-9e-8b-e4-bb-b7-e-e4fa6dbe9dec.html",
       "captured": true,
       "capture_title": "DeepSeek将AI模型价格上调三倍",
-      "error": ""
-    },
-    {
-      "title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行",
-      "summary": "获得最终批准后，World Liberty Trust将作为一家联邦特许国家信托银行运营。",
-      "link": "https://cn.wsj.com/articles/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-a09444c7",
-      "guid": "WP-WSJS-0003820382",
-      "pub_date": "Sat, 15 Aug 2026 02:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-38629628?size=1.501&width=1280",
-      "snapshot": "articles/trump-familys-world-liberty-financial-gets-preli-15535f470c22.html",
-      "captured": true,
-      "capture_title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行",
-      "error": ""
-    },
-    {
-      "title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜",
-      "summary": "知情人士表示，Stripe和安宏资本曾在7月份提议以每股60.50美元的价格收购PayPal，但PayPal认为这一报价偏低。此后双方一直在就提高报价展开谈判。",
-      "link": "https://cn.wsj.com/articles/stripe-advent-in-talks-to-buy-paypal-ce884510",
-      "guid": "WP-WSJS-0003820393",
-      "pub_date": "Sat, 15 Aug 2026 02:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-96473568?size=1.501&width=1280",
-      "snapshot": "articles/stripe-advent-in-talks-to-buy-paypal-ce884510-52f553980d28.html",
-      "captured": true,
-      "capture_title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜",
-      "error": ""
-    },
-    {
-      "title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权",
-      "summary": "这笔交易标志着贝佐斯首次涉足体育球队所有权领域，但他不会在这家足球俱乐部董事会获得席位。",
-      "link": "https://cn.wsj.com/articles/jeff-bezos-bets-on-sports-with-7-billion-liverpool-deal-8e11b9ac",
-      "guid": "WP-WSJS-0003820455",
-      "pub_date": "Sat, 15 Aug 2026 04:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-11165030?size=1.501&width=1280",
-      "snapshot": "articles/jeff-bezos-bets-on-sports-with-7-billion-liverpo-0e800b052bdf.html",
-      "captured": true,
-      "capture_title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权",
       "error": ""
     },
     {
@@ -290,6 +302,54 @@
       "snapshot": "articles/the-algorithm-says-my-nervous-system-is-dysregul-792ac3a8528b.html",
       "captured": true,
       "capture_title": "真有“神经系统失调”这回事吗？",
+      "error": ""
+    },
+    {
+      "title": "印第安纳州遭遇历史性洪水，至少六人死亡",
+      "summary": "连日降雨导致该州白河水位突破110年来的最高纪录。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E5%B7%9E%E9%81%AD%E9%81%87%E5%8E%86%E5%8F%B2%E6%80%A7%E6%B4%AA%E6%B0%B4-%E8%87%B3%E5%B0%91%E5%85%AD%E4%BA%BA%E6%AD%BB%E4%BA%A1-256a9e14",
+      "guid": "WP-WSJS-0003821818",
+      "pub_date": "Mon, 17 Aug 2026 00:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-49565625?size=1.501&width=1280",
+      "snapshot": "articles/e5-8d-b0-e7-ac-ac-e5-ae-89-e7-ba-b3-e5-b7-9e-e9--4a6aa9580ef5.html",
+      "captured": true,
+      "capture_title": "印第安纳州遭遇历史性洪水，至少六人死亡 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行",
+      "summary": "获得最终批准后，World Liberty Trust将作为一家联邦特许国家信托银行运营。",
+      "link": "https://cn.wsj.com/articles/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-a09444c7",
+      "guid": "WP-WSJS-0003820382",
+      "pub_date": "Sat, 15 Aug 2026 02:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-38629628?size=1.501&width=1280",
+      "snapshot": "articles/trump-familys-world-liberty-financial-gets-preli-15535f470c22.html",
+      "captured": true,
+      "capture_title": "特朗普家族旗下World Liberty Financial获初步批准设立信托银行",
+      "error": ""
+    },
+    {
+      "title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜",
+      "summary": "知情人士表示，Stripe和安宏资本曾在7月份提议以每股60.50美元的价格收购PayPal，但PayPal认为这一报价偏低。此后双方一直在就提高报价展开谈判。",
+      "link": "https://cn.wsj.com/articles/stripe-advent-in-talks-to-buy-paypal-ce884510",
+      "guid": "WP-WSJS-0003820393",
+      "pub_date": "Sat, 15 Aug 2026 02:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-96473568?size=1.501&width=1280",
+      "snapshot": "articles/stripe-advent-in-talks-to-buy-paypal-ce884510-52f553980d28.html",
+      "captured": true,
+      "capture_title": "PayPal正与包括Stripe与安宏资本在内的财团洽谈出售事宜",
+      "error": ""
+    },
+    {
+      "title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权",
+      "summary": "这笔交易标志着贝佐斯首次涉足体育球队所有权领域，但他不会在这家足球俱乐部董事会获得席位。",
+      "link": "https://cn.wsj.com/articles/jeff-bezos-bets-on-sports-with-7-billion-liverpool-deal-8e11b9ac",
+      "guid": "WP-WSJS-0003820455",
+      "pub_date": "Sat, 15 Aug 2026 04:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-11165030?size=1.501&width=1280",
+      "snapshot": "articles/jeff-bezos-bets-on-sports-with-7-billion-liverpo-0e800b052bdf.html",
+      "captured": true,
+      "capture_title": "贝佐斯参与的财团收购利物浦足球俱乐部的少数股权",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/retail-traders-crypto-cash-71df8903-93316371f48b.html",
       "captured": true,
       "capture_title": "AI交易如何抢走加密货币的风头？",
-      "error": ""
-    },
-    {
-      "title": "通胀报告或将检验沃什的强硬表态",
-      "summary": "美联储主席凯文·沃什设想中的美联储，利率决策不会受最新月度数据左右。然而，这一构想恐怕还得再等等。",
-      "link": "https://cn.wsj.com/articles/inflation-reports-could-test-warshs-tough-talk-63344a30",
-      "guid": "WP-WSJS-0003807659",
-      "pub_date": "Tue, 11 Aug 2026 01:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-35146286?size=1.499&width=1280",
-      "snapshot": "articles/inflation-reports-could-test-warshs-tough-talk-6-b0d485f40fe1.html",
-      "captured": true,
-      "capture_title": "通胀报告或将检验沃什的强硬表态",
-      "error": ""
-    },
-    {
-      "title": "特朗普签署行政令削减儿童疫苗接种，再次抛出无科学依据的自闭症关联论",
-      "summary": "由白宫直接出台如此详尽的疫苗政策，即使并非史无前例，也实属罕见。",
-      "link": "https://cn.wsj.com/articles/trump-signs-order-to-reduce-childhood-vaccines-repeats-unfounded-autism-link-5b30b0f7",
-      "guid": "WP-WSJS-0003807475",
-      "pub_date": "Tue, 11 Aug 2026 00:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-72453783?size=1.501&width=1280",
-      "snapshot": "articles/trump-signs-order-to-reduce-childhood-vaccines-r-a16e1c2b24ec.html",
-      "captured": true,
-      "capture_title": "特朗普签署行政令削减儿童疫苗接种，再次抛出无科学依据的自闭症关联论",
-      "error": ""
-    },
-    {
-      "title": "民主社会主义者Francesca Hong在威斯康星州初选中领先，引发民主党建制派担忧",
-      "summary": "威斯康星州内外的民主党人正为这个战场州周二的初选感到焦虑不安。“很多人担心的不只是这个党派，还有这个国家的发展走向。”",
-      "link": "https://cn.wsj.com/articles/democratic-socialist-francesca-hongs-wisconsin-primary-lead-alarms-establishment-democrats-0dc6a23e",
-      "guid": "WP-WSJS-0003807819",
-      "pub_date": "Tue, 11 Aug 2026 03:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-58683224?size=1.501&width=1280",
-      "snapshot": "articles/democratic-socialist-francesca-hongs-wisconsin-p-782c9150f3e2.html",
-      "captured": true,
-      "capture_title": "民主社会主义者Francesca Hong在威斯康星州初选中领先，引发民主党建制派担忧",
-      "error": ""
-    },
-    {
-      "title": "贝森特的债券市场成绩单已不如从前亮眼",
-      "summary": "经过干预和日圆最初的强劲上涨之后，市场对日圆的态度已重回“观望”。",
-      "link": "https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E7%9A%84%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E6%88%90%E7%BB%A9%E5%8D%95%E5%B7%B2%E4%B8%8D%E5%A6%82%E4%BB%8E%E5%89%8D%E4%BA%AE%E7%9C%BC-366c6aff",
-      "guid": "WP-WSJS-0003808055",
-      "pub_date": "Tue, 11 Aug 2026 10:15:00 GMT",
-      "image_url": "https://images.mktw.net/im-88171097?size=1.5&width=1280",
-      "snapshot": "articles/e8-b4-9d-e6-a3-ae-e7-89-b9-e7-9a-84-e5-80-ba-e5--7fccd4c21767.html",
-      "captured": true,
-      "capture_title": "贝森特的债券市场成绩单已不如从前亮眼",
-      "error": ""
-    },
-    {
-      "title": "英伟达与华尔街多家机构达成AI融资协议，目标规模达5,000亿美元",
-      "summary": "Apollo Global Management、黑石集团、贝莱德等公司都参与了这项交易。",
-      "link": "https://cn.wsj.com/articles/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-a98d4e32",
-      "guid": "WP-WSJS-0003807380",
-      "pub_date": "Mon, 10 Aug 2026 23:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-13521010?size=1.501&width=1280",
-      "snapshot": "articles/nvidia-wall-street-firms-strike-ai-financing-dea-376cd7abce36.html",
-      "captured": true,
-      "capture_title": "英伟达与华尔街多家机构达成AI融资协议，目标规模达5,000亿美元",
       "error": ""
     }
   ]
