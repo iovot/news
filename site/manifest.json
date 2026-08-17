@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:10:39.995124+00:00",
+  "generated_at": "2026-08-17T09:51:32.386716+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-37150253?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e7-be-8e-e5-86-9b-e4-bc-8a-e6-9c-97-e6-88-98-e4--48df2da93ad9.html",
       "captured": true,
-      "capture_title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注 - WSJ",
+      "capture_title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-85441217?size=1.501&width=1280",
       "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e7-8e-b0-e7--5adfb67f0c84.html",
       "captured": true,
-      "capture_title": "伊朗战争现状：经济施压下的“胆小鬼博弈” - WSJ",
+      "capture_title": "伊朗战争现状：经济施压下的“胆小鬼博弈”",
       "error": ""
     },
     {
@@ -49,12 +49,24 @@
       "image_url": "https://images.wsj.net/im-70974489?size=1.501&width=1280",
       "snapshot": "articles/iran-says-pilots-missing-after-a-brazen-bombing--8665883ca73e.html",
       "captured": true,
-      "capture_title": "伊朗称卡塔尔关押了其执行任务后失踪的飞行员 - WSJ",
+      "capture_title": "伊朗称卡塔尔关押了其执行任务后失踪的飞行员",
+      "error": ""
+    },
+    {
+      "title": "中国7月经济活动进一步放缓",
+      "summary": "中国7月社会消费品零售总额同比增速放缓至0.6%，7月工业增加值同比增速放缓至4.5%，且增速均不及预期。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD7%E6%9C%88%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%94%BE%E7%BC%93-4d4f84ba",
+      "guid": "WP-WSJS-0003822219",
+      "pub_date": "Mon, 17 Aug 2026 07:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-49343210?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd7-e6-9c-88-e7-bb-8f-e6-b5-8e-e6-430b6f3613fd.html",
+      "captured": true,
+      "capture_title": "中国7月经济活动进一步放缓 - WSJ",
       "error": ""
     },
     {
       "title": "美国敦促苹果公司不要购买中国存储芯片",
-      "summary": "美国商务部长卢特尼克敦促苹果公司寻找其他解决方案，以应对存储芯片供应短缺问题。",
+      "summary": "美国商务部长敦促苹果公司寻找其他解决方案，以应对存储芯片供应短缺问题。",
       "link": "https://cn.wsj.com/articles/apple-china-memory-chip-plan-94881495",
       "guid": "WP-WSJS-0003821876",
       "pub_date": "Mon, 17 Aug 2026 00:59:00 GMT",
@@ -81,23 +93,11 @@
       "summary": "特朗普称自己与朝鲜领导人金正恩关系“非常好”。",
       "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%E8%A7%84%E6%A8%A1-42c0d3e8",
       "guid": "WP-WSJS-0003821805",
-      "pub_date": "Mon, 17 Aug 2026 00:46:00 GMT",
+      "pub_date": "Mon, 17 Aug 2026 08:18:00 GMT",
       "image_url": "https://images.wsj.net/im-19632662?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8b-e4-bb-a4-e7--4bf910422ee2.html",
       "captured": true,
       "capture_title": "特朗普下令缩减美韩联合军演规模",
-      "error": ""
-    },
-    {
-      "title": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
-      "summary": "周日，北约战机击落了一架进入罗马尼亚领空的无人机，该无人机疑似来自俄罗斯。这是北约三天内第二次在其领空击落无人机。",
-      "link": "https://cn.wsj.com/articles/nato-jets-down-suspected-russian-drone-over-romania-713d8aa9",
-      "guid": "WP-WSJS-0003821793",
-      "pub_date": "Mon, 17 Aug 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-79831127?size=1.501&width=1280",
-      "snapshot": "articles/nato-jets-down-suspected-russian-drone-over-roma-1cc0956b9034.html",
-      "captured": true,
-      "capture_title": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-64498777?size=1.499&width=1280",
       "snapshot": "articles/trumps-ballroom-was-his-dream-of-beauty-and-spac-d51d1851549e.html",
       "captured": true,
-      "capture_title": "白宫宴会厅曾是特朗普的美学和空间之梦，如今却成了“军事综合体” - WSJ",
+      "capture_title": "白宫宴会厅曾是特朗普的美学和空间之梦，如今却成了“军事综合体”",
       "error": ""
     },
     {
@@ -137,15 +137,27 @@
       "error": ""
     },
     {
+      "title": "重创俄军的乌克兰无人机出自一位90后家具设计师之手",
+      "summary": "34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。",
+      "link": "https://cn.wsj.com/articles/ukraine-fire-point-ceo-iryna-terekh-drones-da9d5d32",
+      "guid": "WP-WSJS-0003822212",
+      "pub_date": "Mon, 17 Aug 2026 08:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-67654444?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/ukraine-fire-point-ceo-iryna-terekh-drones-da9d5-a0967fe5f7ee.html",
+      "captured": true,
+      "capture_title": "重创俄军的乌克兰无人机出自一位90后家具设计师之手 - WSJ",
+      "error": ""
+    },
+    {
       "title": "科技巨头的AI支出或比表面看起来还要高出3万亿美元",
-      "summary": "在大型科技公司的AI基础设施巨额资本支出中，大量财务义务并未反映在资产负债表上。",
+      "summary": "在科技巨头的AI基础设施巨额资本支出中，大量财务义务并未反映在资产负债表上。",
       "link": "https://cn.wsj.com/articles/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-7b441f8e",
       "guid": "WP-WSJS-0003821974",
       "pub_date": "Mon, 17 Aug 2026 03:22:00 GMT",
       "image_url": "https://images.wsj.net/im-52545122?size=1.5&width=1280",
       "snapshot": "articles/why-big-techs-ai-spending-is-3-trillion-higher-t-9baf8be200d7.html",
       "captured": true,
-      "capture_title": "科技巨头的AI支出或比表面看起来还要高出3万亿美元 - WSJ",
+      "capture_title": "科技巨头的AI支出或比表面看起来还要高出3万亿美元",
       "error": ""
     },
     {
@@ -161,18 +173,6 @@
       "error": ""
     },
     {
-      "title": "中国式审查正渗入美国AI模型的回答中",
-      "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
-      "link": "https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6",
-      "guid": "WP-WSJS-0003814045",
-      "pub_date": "Thu, 13 Aug 2026 03:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-26081712?size=1.402&width=1280",
-      "snapshot": "articles/chinese-censorship-is-leaking-into-answers-from--a62cf82baf2a.html",
-      "captured": true,
-      "capture_title": "中国式审查正渗入美国AI模型的回答中",
-      "error": ""
-    },
-    {
       "title": "50万人争夺583个岗位：印度青年狂卷“考公”热潮",
       "summary": "许多印度年轻人很难寻找到一份好工作，这一挑战正演变为日益严重的政治与经济问题。",
       "link": "https://cn.wsj.com/articles/500-000-applicants-583-jobs-the-frantic-scramble-for-work-in-india-3bc8828d",
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-16600229?size=1.501&width=1280",
       "snapshot": "articles/500-000-applicants-583-jobs-the-frantic-scramble-e58821d71407.html",
       "captured": true,
-      "capture_title": "50万人争夺583个岗位：印度青年狂卷“考公”热潮 - WSJ",
+      "capture_title": "50万人争夺583个岗位：印度青年狂卷“考公”热潮",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-56528398?size=1.501&width=1280",
       "snapshot": "articles/alibaba-to-sell-videogame-business-for-at-least--f7d8b9148c6f.html",
       "captured": true,
-      "capture_title": "阿里巴巴将以至少15亿美元出售游戏业务 - WSJ",
+      "capture_title": "阿里巴巴将以至少15亿美元出售游戏业务",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-81522867?size=1.5&width=1280",
       "snapshot": "articles/e9-9f-a9-e5-a6-86-e9-a3-8e-e9-9d-a1-e5-85-a8-e7--fccb7fe7edc9.html",
       "captured": true,
-      "capture_title": "韩妆风靡全球，珀莱雅力推“中式美妆”出海追赶 - WSJ",
+      "capture_title": "韩妆风靡全球，珀莱雅力推“中式美妆”出海追赶",
       "error": ""
     },
     {
@@ -253,7 +253,19 @@
       "image_url": "https://images.wsj.net/im-09007315?size=1.499&width=1280",
       "snapshot": "articles/berkshire-adds-to-alphabet-stake-buys-homebuilde-79ff2f84ad1f.html",
       "captured": true,
-      "capture_title": "伯克希尔哈撒韦增持Alphabet，清仓Constellation Brands - WSJ",
+      "capture_title": "伯克希尔哈撒韦增持Alphabet，清仓Constellation Brands",
+      "error": ""
+    },
+    {
+      "title": "中国式审查正渗入美国AI模型的回答中",
+      "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
+      "link": "https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6",
+      "guid": "WP-WSJS-0003814045",
+      "pub_date": "Thu, 13 Aug 2026 03:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-26081712?size=1.402&width=1280",
+      "snapshot": "articles/chinese-censorship-is-leaking-into-answers-from--a62cf82baf2a.html",
+      "captured": true,
+      "capture_title": "中国式审查正渗入美国AI模型的回答中",
       "error": ""
     },
     {
@@ -290,6 +302,18 @@
       "snapshot": "articles/trump-elon-musk-relationship-2dde2fa4-d4d0ee6e58e4.html",
       "captured": true,
       "capture_title": "特朗普与马斯克如何修复了曾看似无可挽回的关系",
+      "error": ""
+    },
+    {
+      "title": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
+      "summary": "周日，北约战机击落了一架进入罗马尼亚领空的无人机，该无人机疑似来自俄罗斯。这是北约三天内第二次在其领空击落无人机。",
+      "link": "https://cn.wsj.com/articles/nato-jets-down-suspected-russian-drone-over-romania-713d8aa9",
+      "guid": "WP-WSJS-0003821793",
+      "pub_date": "Mon, 17 Aug 2026 00:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-79831127?size=1.501&width=1280",
+      "snapshot": "articles/nato-jets-down-suspected-russian-drone-over-roma-1cc0956b9034.html",
+      "captured": true,
+      "capture_title": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/cuba-china-solar-power-0c18f842-3c7130c0aecb.html",
       "captured": true,
       "capture_title": "古巴石油告急，正借力中国发展光伏",
-      "error": ""
-    },
-    {
-      "title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
-      "summary": "合资企业将生产用于智能手机的下一代图像传感器，预计将于2029年启动量产。",
-      "link": "https://cn.wsj.com/articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-joint-venture-10216e7a",
-      "guid": "WP-WSJS-0003810390",
-      "pub_date": "Tue, 11 Aug 2026 23:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-63158131?size=1.501&width=1280",
-      "snapshot": "articles/sony-group-tsmc-to-form-4-7-billion-image-sensor-fc29627c682b.html",
-      "captured": true,
-      "capture_title": "索尼与台积电将斥资47亿美元组建图像传感器合资企业",
-      "error": ""
-    },
-    {
-      "title": "美军向一艘冲破美国对伊朗封锁的船只开火",
-      "summary": "在特朗普政府试图从经济上打压伊朗政权之际，此举加大了执法力度。",
-      "link": "https://cn.wsj.com/articles/u-s-fires-on-ship-breaking-its-blockade-of-iran-683fbce9",
-      "guid": "WP-WSJS-0003810299",
-      "pub_date": "Tue, 11 Aug 2026 23:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-36788967?size=1.501&width=1280",
-      "snapshot": "articles/u-s-fires-on-ship-breaking-its-blockade-of-iran--1ff85289b649.html",
-      "captured": true,
-      "capture_title": "美军向一艘冲破美国对伊朗封锁的船只开火",
       "error": ""
     }
   ]
