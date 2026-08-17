@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-17T09:51:32.386716+00:00",
+  "generated_at": "2026-08-17T12:57:36.847802+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "这家庞大的中国炼油厂如何成为伊朗资金生命线",
+      "summary": "恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。",
+      "link": "https://cn.wsj.com/articles/%E8%BF%99%E5%AE%B6%E5%BA%9E%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%8E%82%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%8A%E6%9C%97%E8%B5%84%E9%87%91%E7%94%9F%E5%91%BD%E7%BA%BF-e3fe2979",
+      "guid": "WP-WSJS-0003822384",
+      "pub_date": "Mon, 17 Aug 2026 10:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-12940852?size=1.78&width=1280",
+      "snapshot": "articles/e8-bf-99-e5-ae-b6-e5-ba-9e-e5-a4-a7-e7-9a-84-e4--2faddc370eee.html",
+      "captured": true,
+      "capture_title": "这家庞大的中国炼油厂如何成为伊朗资金生命线 - WSJ",
+      "error": ""
+    },
     {
       "title": "伊朗秘密筹划，准备升级战争",
       "summary": "截获的通讯记录及其他情报显示，伊朗强硬派领导层正进行战略调整，旨在让美国及其地区盟友付出更大代价。",
@@ -14,18 +26,6 @@
       "snapshot": "articles/iran-plan-escalate-war-8533ea09-65150da05192.html",
       "captured": true,
       "capture_title": "伊朗秘密筹划，准备升级战争",
-      "error": ""
-    },
-    {
-      "title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注",
-      "summary": "在库珀视察林肯号之际，有报道称，在长达九个月未靠港休整后，该舰生活条件恶劣。 库珀说。“历史将把这次部署记录为现代作战强度最大、影响最深远的部署之一。”",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%8C%87%E6%8C%A5%E5%AE%98%E8%A7%86%E5%AF%9F%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D-%E6%AD%A4%E5%89%8D%E8%88%B0%E4%B8%8A%E7%94%9F%E6%B4%BB%E6%9D%A1%E4%BB%B6%E5%BC%95%E5%85%B3%E6%B3%A8-4a601c35",
-      "guid": "WP-WSJS-0003822040",
-      "pub_date": "Mon, 17 Aug 2026 04:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-37150253?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-86-9b-e4-bc-8a-e6-9c-97-e6-88-98-e4--48df2da93ad9.html",
-      "captured": true,
-      "capture_title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注",
       "error": ""
     },
     {
@@ -41,15 +41,15 @@
       "error": ""
     },
     {
-      "title": "伊朗称卡塔尔关押了其执行任务后失踪的飞行员",
-      "summary": "卡塔尔否认了这一指控。此前，在伊朗冲突爆发仅三天后，卡塔尔称击落了两架伊朗战机，有三人始终下落不明。",
-      "link": "https://cn.wsj.com/articles/iran-says-pilots-missing-after-a-brazen-bombing-run-are-prisoners-in-qatar-be672d61",
-      "guid": "WP-WSJS-0003821946",
-      "pub_date": "Mon, 17 Aug 2026 01:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-70974489?size=1.501&width=1280",
-      "snapshot": "articles/iran-says-pilots-missing-after-a-brazen-bombing--8665883ca73e.html",
+      "title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注",
+      "summary": "在库珀视察林肯号之际，有报道称，在长达九个月未靠港休整后，该舰生活条件恶劣。 库珀说。“历史将把这次部署记录为现代作战强度最大、影响最深远的部署之一。”",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%8C%87%E6%8C%A5%E5%AE%98%E8%A7%86%E5%AF%9F%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D-%E6%AD%A4%E5%89%8D%E8%88%B0%E4%B8%8A%E7%94%9F%E6%B4%BB%E6%9D%A1%E4%BB%B6%E5%BC%95%E5%85%B3%E6%B3%A8-4a601c35",
+      "guid": "WP-WSJS-0003822040",
+      "pub_date": "Mon, 17 Aug 2026 04:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-37150253?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-86-9b-e4-bc-8a-e6-9c-97-e6-88-98-e4--48df2da93ad9.html",
       "captured": true,
-      "capture_title": "伊朗称卡塔尔关押了其执行任务后失踪的飞行员",
+      "capture_title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注",
       "error": ""
     },
     {
@@ -137,18 +137,6 @@
       "error": ""
     },
     {
-      "title": "重创俄军的乌克兰无人机出自一位90后家具设计师之手",
-      "summary": "34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。",
-      "link": "https://cn.wsj.com/articles/ukraine-fire-point-ceo-iryna-terekh-drones-da9d5d32",
-      "guid": "WP-WSJS-0003822212",
-      "pub_date": "Mon, 17 Aug 2026 08:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-67654444?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/ukraine-fire-point-ceo-iryna-terekh-drones-da9d5-a0967fe5f7ee.html",
-      "captured": true,
-      "capture_title": "重创俄军的乌克兰无人机出自一位90后家具设计师之手 - WSJ",
-      "error": ""
-    },
-    {
       "title": "科技巨头的AI支出或比表面看起来还要高出3万亿美元",
       "summary": "在科技巨头的AI基础设施巨额资本支出中，大量财务义务并未反映在资产负债表上。",
       "link": "https://cn.wsj.com/articles/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-7b441f8e",
@@ -158,6 +146,18 @@
       "snapshot": "articles/why-big-techs-ai-spending-is-3-trillion-higher-t-9baf8be200d7.html",
       "captured": true,
       "capture_title": "科技巨头的AI支出或比表面看起来还要高出3万亿美元",
+      "error": ""
+    },
+    {
+      "title": "重创俄军的乌克兰无人机出自一位90后家具设计师之手",
+      "summary": "34岁的伊琳娜·捷列赫曾是一位长椅设计师，如今则是乌克兰最大私营防务公司Fire Point的首席执行官。",
+      "link": "https://cn.wsj.com/articles/ukraine-fire-point-ceo-iryna-terekh-drones-da9d5d32",
+      "guid": "WP-WSJS-0003822212",
+      "pub_date": "Mon, 17 Aug 2026 08:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-67654444?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/ukraine-fire-point-ceo-iryna-terekh-drones-da9d5-a0967fe5f7ee.html",
+      "captured": true,
+      "capture_title": "重创俄军的乌克兰无人机出自一位90后家具设计师之手",
       "error": ""
     },
     {
@@ -185,15 +185,15 @@
       "error": ""
     },
     {
-      "title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
-      "summary": "卡米·克拉克曾创办自称“革命性”的色情公司并向爱泼斯坦寻求投资，如今她虽保持低调，却是Anthropic首席执行官达里奥·阿莫迪的关键顾问。",
-      "link": "https://cn.wsj.com/articles/%E8%BF%9Eclaude%E9%83%BD%E7%9F%A5%E4%B9%8B%E7%94%9A%E5%B0%91-anthropic-ceo%E7%9A%84%E7%A5%9E%E7%A7%98%E5%A6%BB%E5%AD%90%E5%8F%8A%E5%85%B6%E5%B9%95%E5%90%8E%E5%BD%B1%E5%93%8D%E5%8A%9B-c9e2d6cd",
-      "guid": "WP-WSJS-0003817256",
-      "pub_date": "Mon, 17 Aug 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-54715303?size=1.499&width=1280",
-      "snapshot": "articles/e8-bf-9eclaude-e9-83-bd-e7-9f-a5-e4-b9-8b-e7-94--7d72d6c447a4.html",
+      "title": "盘点TikTok上满天飞的理财“秘籍”",
+      "summary": "我们查看了212个提供理财建议的账号，累计观看内容近50个小时。梳理出了几类典型账号。",
+      "link": "https://cn.wsj.com/articles/%E7%9B%98%E7%82%B9tiktok%E4%B8%8A%E6%BB%A1%E5%A4%A9%E9%A3%9E%E7%9A%84%E7%90%86%E8%B4%A2-%E7%A7%98%E7%B1%8D-62c99b98",
+      "guid": "WP-WSJS-0003822270",
+      "pub_date": "Mon, 17 Aug 2026 09:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-19952565?size=1.501&width=1280",
+      "snapshot": "articles/e7-9b-98-e7-82-b9tiktok-e4-b8-8a-e6-bb-a1-e5-a4--f64d8bb7be49.html",
       "captured": true,
-      "capture_title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
+      "capture_title": "盘点TikTok上满天飞的理财“秘籍” - WSJ",
       "error": ""
     },
     {
@@ -257,6 +257,18 @@
       "error": ""
     },
     {
+      "title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
+      "summary": "卡米·克拉克曾创办自称“革命性”的色情公司并向爱泼斯坦寻求投资，如今她虽保持低调，却是Anthropic首席执行官达里奥·阿莫迪的关键顾问。",
+      "link": "https://cn.wsj.com/articles/%E8%BF%9Eclaude%E9%83%BD%E7%9F%A5%E4%B9%8B%E7%94%9A%E5%B0%91-anthropic-ceo%E7%9A%84%E7%A5%9E%E7%A7%98%E5%A6%BB%E5%AD%90%E5%8F%8A%E5%85%B6%E5%B9%95%E5%90%8E%E5%BD%B1%E5%93%8D%E5%8A%9B-c9e2d6cd",
+      "guid": "WP-WSJS-0003817256",
+      "pub_date": "Mon, 17 Aug 2026 00:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-54715303?size=1.499&width=1280",
+      "snapshot": "articles/e8-bf-9eclaude-e9-83-bd-e7-9f-a5-e4-b9-8b-e7-94--7d72d6c447a4.html",
+      "captured": true,
+      "capture_title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
+      "error": ""
+    },
+    {
       "title": "中国式审查正渗入美国AI模型的回答中",
       "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
       "link": "https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6",
@@ -290,6 +302,18 @@
       "snapshot": "articles/chinasnext-economic-ambition-workshop-for-the-mu-e0d67970668e.html",
       "captured": true,
       "capture_title": "中国下一个经济雄心：成为穆斯林世界的“超级工厂”",
+      "error": ""
+    },
+    {
+      "title": "伊朗称卡塔尔关押了其执行任务后失踪的飞行员",
+      "summary": "卡塔尔否认了这一指控。此前，在伊朗冲突爆发仅三天后，卡塔尔称击落了两架伊朗战机，有三人始终下落不明。",
+      "link": "https://cn.wsj.com/articles/iran-says-pilots-missing-after-a-brazen-bombing-run-are-prisoners-in-qatar-be672d61",
+      "guid": "WP-WSJS-0003821946",
+      "pub_date": "Mon, 17 Aug 2026 01:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-70974489?size=1.501&width=1280",
+      "snapshot": "articles/iran-says-pilots-missing-after-a-brazen-bombing--8665883ca73e.html",
+      "captured": true,
+      "capture_title": "伊朗称卡塔尔关押了其执行任务后失踪的飞行员",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/this-billionaire-became-chinas-charles-schwab-th-7717fb219dc2.html",
       "captured": true,
       "capture_title": "富途遭中国政府整顿，亿万富豪李华事业受阻",
-      "error": ""
-    },
-    {
-      "title": "芯片工程师突然成为韩国婚恋市场“香饽饽”",
-      "summary": "科技繁荣热潮推高了半导体行业单身男女在婚恋市场上的身价。得益于高达六位数的丰厚奖金，三星和SK海力士的工程师成了韩国婚恋市场上的香饽饽。",
-      "link": "https://cn.wsj.com/articles/memory-chip-engineers-stock-bonus-samsung-sk-hynix-e64f0c1d",
-      "guid": "WP-WSJS-0003807713",
-      "pub_date": "Tue, 11 Aug 2026 02:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-28273784?size=1.5&width=1280",
-      "snapshot": "articles/memory-chip-engineers-stock-bonus-samsung-sk-hyn-187ac123911c.html",
-      "captured": true,
-      "capture_title": "芯片工程师突然成为韩国婚恋市场“香饽饽”",
-      "error": ""
-    },
-    {
-      "title": "古巴石油告急，正借力中国发展光伏",
-      "summary": "转向可再生能源帮助古巴抵御了来自华盛顿日益增长的压力。随着这个岛国的能源危机日益加深，中国企业提供的太阳能电池板在古巴各地涌现。",
-      "link": "https://cn.wsj.com/articles/cuba-china-solar-power-0c18f842",
-      "guid": "WP-WSJS-0003804858",
-      "pub_date": "Mon, 10 Aug 2026 01:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-06639848?size=1.5&width=1280",
-      "snapshot": "articles/cuba-china-solar-power-0c18f842-3c7130c0aecb.html",
-      "captured": true,
-      "capture_title": "古巴石油告急，正借力中国发展光伏",
       "error": ""
     }
   ]
