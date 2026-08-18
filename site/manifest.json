@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:58:50.903019+00:00",
+  "generated_at": "2026-08-18T09:46:04.693303+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-85339809?size=1.501&width=1280",
       "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-94-af-e6-8c-81-e7-9a-84-e8--a7e6c1af631e.html",
       "captured": true,
-      "capture_title": "伊朗支持的胡塞武装对红海咽喉要道沿岸构成威胁 - WSJ",
+      "capture_title": "伊朗支持的胡塞武装对红海咽喉要道沿岸构成威胁",
       "error": ""
     },
     {
@@ -53,6 +53,30 @@
       "error": ""
     },
     {
+      "title": "中国7月经济活动进一步放缓",
+      "summary": "中国7月社会消费品零售总额同比增速放缓至0.6%，7月工业增加值同比增速放缓至4.5%，且增速均不及预期。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD7%E6%9C%88%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%94%BE%E7%BC%93-4d4f84ba",
+      "guid": "WP-WSJS-0003822219",
+      "pub_date": "Mon, 17 Aug 2026 07:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-49343210?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd7-e6-9c-88-e7-bb-8f-e6-b5-8e-e6-430b6f3613fd.html",
+      "captured": true,
+      "capture_title": "中国7月经济活动进一步放缓 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "宇树科技IPO可能标志着中国机器人行业迈入新时代",
+      "summary": "宇树科技将于周三在上海科创板正式挂牌上市。这有望在中国机器人行业掀起一场融资狂潮。",
+      "link": "https://cn.wsj.com/articles/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80ipo%E5%8F%AF%E8%83%BD%E6%A0%87%E5%BF%97%E7%9D%80%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E4%B8%9A%E8%BF%88%E5%85%A5%E6%96%B0%E6%97%B6%E4%BB%A3-88955ebd",
+      "guid": "WP-WSJS-0003824617",
+      "pub_date": "Tue, 18 Aug 2026 08:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-57527187?size=1.501&width=1280",
+      "snapshot": "articles/e5-ae-87-e6-a0-91-e7-a7-91-e6-8a-80ipo-e5-8f-af--cd0dcd3c8857.html",
+      "captured": true,
+      "capture_title": "宇树科技IPO可能标志着中国机器人行业迈入新时代 - WSJ",
+      "error": ""
+    },
+    {
       "title": "SpaceX股价上扬，英伟达、谷歌及哈佛大学重仓",
       "summary": "SpaceX上市之初，一些知名投资方的持仓曾录得可观的账面收益，但此后该股走势波折。",
       "link": "https://cn.wsj.com/articles/spacex%E4%BC%B0%E5%80%BC%E4%B8%8A%E6%89%AC-%E8%8B%B1%E4%BC%9F%E8%BE%BE-%E8%B0%B7%E6%AD%8C%E5%8F%8A%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E9%87%8D%E4%BB%93%E6%8A%AB%E9%9C%B2-325eb6e3",
@@ -74,30 +98,6 @@
       "snapshot": "articles/openai-e5-9c-a8-e8-8b-b1-e4-bc-9f-e8-be-be-e6-94-bd3cc98d8487.html",
       "captured": true,
       "capture_title": "OpenAI在英伟达支持下敲定俄亥俄州巨型数据中心租约",
-      "error": ""
-    },
-    {
-      "title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
-      "summary": "从Anthropic股份出售传闻，到异常的期权动向，交易人士察觉到了麻烦并迅速采取行动。",
-      "link": "https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1",
-      "guid": "WP-WSJS-0003824198",
-      "pub_date": "Tue, 18 Aug 2026 01:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-81266780?size=1.466&width=1280",
-      "snapshot": "articles/how-wall-street-sussed-out-that-situational-awar-9b7eb5722fed.html",
-      "captured": true,
-      "capture_title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
-      "error": ""
-    },
-    {
-      "title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
-      "summary": "安聪慧将接替李书福担任吉利汽车董事会主席。安聪慧是吉利的一位资深高管，一直负责该公司的豪华品牌。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%85%88%E9%A9%B1%E6%9D%8E%E4%B9%A6%E7%A6%8F%E8%BE%9E%E4%BB%BB%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD-b881eea3",
-      "guid": "WP-WSJS-0003824133",
-      "pub_date": "Tue, 18 Aug 2026 00:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-94603234?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e4-b8-9a-e5--a2af8c1b2dbc.html",
-      "captured": true,
-      "capture_title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
       "error": ""
     },
     {
@@ -125,15 +125,15 @@
       "error": ""
     },
     {
-      "title": "中国7月经济活动进一步放缓",
-      "summary": "中国7月社会消费品零售总额同比增速放缓至0.6%，7月工业增加值同比增速放缓至4.5%，且增速均不及预期。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD7%E6%9C%88%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%A8%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%94%BE%E7%BC%93-4d4f84ba",
-      "guid": "WP-WSJS-0003822219",
-      "pub_date": "Mon, 17 Aug 2026 07:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-49343210?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd7-e6-9c-88-e7-bb-8f-e6-b5-8e-e6-430b6f3613fd.html",
+      "title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
+      "summary": "从Anthropic股份出售传闻，到异常的期权动向，交易人士察觉到了麻烦并迅速采取行动。",
+      "link": "https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1",
+      "guid": "WP-WSJS-0003824198",
+      "pub_date": "Tue, 18 Aug 2026 01:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-81266780?size=1.466&width=1280",
+      "snapshot": "articles/how-wall-street-sussed-out-that-situational-awar-9b7eb5722fed.html",
       "captured": true,
-      "capture_title": "中国7月经济活动进一步放缓 - WSJ",
+      "capture_title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-25541666?size=1.78&width=1280",
       "snapshot": "articles/see-how-europes-rivers-are-drying-up-and-threate-b45a39be9e40.html",
       "captured": true,
-      "capture_title": "图解欧洲河流的缺水危机及经济影响 - WSJ",
+      "capture_title": "图解欧洲河流的缺水危机及经济影响",
       "error": ""
     },
     {
@@ -185,15 +185,27 @@
       "error": ""
     },
     {
-      "title": "仓库正越来越多地使用机器人",
-      "summary": "劳动力成本上升和快速送货需求正促使企业推进订单履行自动化。",
-      "link": "https://cn.wsj.com/articles/%E4%BB%93%E5%BA%93%E6%AD%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA-13bedd9b",
-      "guid": "WP-WSJS-0003824110",
-      "pub_date": "Tue, 18 Aug 2026 00:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-68502006?size=1.524&width=1280",
-      "snapshot": "articles/e4-bb-93-e5-ba-93-e6-ad-a3-e8-b6-8a-e6-9d-a5-e8--907e916ef776.html",
+      "title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
+      "summary": "安聪慧将接替李书福担任吉利汽车董事会主席。安聪慧是吉利的一位资深高管，一直负责该公司的豪华品牌。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%85%88%E9%A9%B1%E6%9D%8E%E4%B9%A6%E7%A6%8F%E8%BE%9E%E4%BB%BB%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD-b881eea3",
+      "guid": "WP-WSJS-0003824133",
+      "pub_date": "Tue, 18 Aug 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-94603234?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e4-b8-9a-e5--a2af8c1b2dbc.html",
       "captured": true,
-      "capture_title": "仓库正越来越多地使用机器人",
+      "capture_title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
+      "error": ""
+    },
+    {
+      "title": "一张隐秘交易网如何将道奇队老板卷入联邦调查",
+      "summary": "沃尔特惯用的一套资本运作手法眼下正受到政府部门审查：他利用自己控制的保险公司发放贷款，为旗下其他投资输血。",
+      "link": "https://cn.wsj.com/articles/walter-dodgers-lakers-investigation-e3a2252a",
+      "guid": "WP-WSJS-0003824502",
+      "pub_date": "Tue, 18 Aug 2026 05:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-48565055?size=1.499&width=1280",
+      "snapshot": "articles/walter-dodgers-lakers-investigation-e3a2252a-5b040484db23.html",
+      "captured": true,
+      "capture_title": "一张隐秘交易网如何将道奇队老板卷入联邦调查",
       "error": ""
     },
     {
@@ -218,18 +230,6 @@
       "snapshot": "articles/e8-b0-b7-e6-ad-8c-e8-ae-a1-e5-88-922027-e5-b9-b4-194f2f77406c.html",
       "captured": true,
       "capture_title": "谷歌计划2027年停止在中国生产Pixel产品 -《日本经济新闻》 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "一张隐秘交易网如何将道奇队老板卷入联邦调查",
-      "summary": "沃尔特惯用的一套资本运作手法眼下正受到政府部门审查：他利用自己控制的保险公司发放贷款，为旗下其他投资输血。",
-      "link": "https://cn.wsj.com/articles/walter-dodgers-lakers-investigation-e3a2252a",
-      "guid": "WP-WSJS-0003824502",
-      "pub_date": "Tue, 18 Aug 2026 05:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-48565055?size=1.499&width=1280",
-      "snapshot": "articles/walter-dodgers-lakers-investigation-e3a2252a-5b040484db23.html",
-      "captured": true,
-      "capture_title": "一张隐秘交易网如何将道奇队老板卷入联邦调查 - WSJ",
       "error": ""
     },
     {
@@ -265,7 +265,19 @@
       "image_url": "https://images.wsj.net/im-27500106?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e6-88-91-e4-b8-ba-e4-bd-95-e8-a6-81-e6-b1-82-e8--af9decec4532.html",
       "captured": true,
-      "capture_title": "我为何要求聊天机器人别再对我过度谄媚 - WSJ",
+      "capture_title": "我为何要求聊天机器人别再对我过度谄媚",
+      "error": ""
+    },
+    {
+      "title": "英国街头站立饮酒面临整顿，酒客怒怼“扫兴官僚”",
+      "summary": "伦敦的官僚们想让酒客坐下来喝酒，而不是一帮一伙地聚在酒吧门口痛饮，但这种想法却威胁到英国人夏季的一大乐趣。全国上下群情激愤。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E5%9B%BD%E8%A1%97%E5%A4%B4%E7%AB%99%E7%AB%8B%E9%A5%AE%E9%85%92%E9%9D%A2%E4%B8%B4%E6%95%B4%E9%A1%BF-%E9%85%92%E5%AE%A2%E6%80%92%E6%80%BC-%E6%89%AB%E5%85%B4%E5%AE%98%E5%83%9A-34cf304d",
+      "guid": "WP-WSJS-0003824496",
+      "pub_date": "Tue, 18 Aug 2026 06:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-10147501?size=1.501&width=1280",
+      "snapshot": "articles/e8-8b-b1-e5-9b-bd-e8-a1-97-e5-a4-b4-e7-ab-99-e7--dc723f86a693.html",
+      "captured": true,
+      "capture_title": "英国街头站立饮酒面临整顿，酒客怒怼“扫兴官僚” - WSJ",
       "error": ""
     },
     {
@@ -290,6 +302,18 @@
       "snapshot": "articles/e8-bf-9eclaude-e9-83-bd-e7-9f-a5-e4-b9-8b-e7-94--7d72d6c447a4.html",
       "captured": true,
       "capture_title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
+      "error": ""
+    },
+    {
+      "title": "仓库正越来越多地使用机器人",
+      "summary": "劳动力成本上升和快速送货需求正促使企业推进订单履行自动化。",
+      "link": "https://cn.wsj.com/articles/%E4%BB%93%E5%BA%93%E6%AD%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA-13bedd9b",
+      "guid": "WP-WSJS-0003824110",
+      "pub_date": "Tue, 18 Aug 2026 00:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-68502006?size=1.524&width=1280",
+      "snapshot": "articles/e4-bb-93-e5-ba-93-e6-ad-a3-e8-b6-8a-e6-9d-a5-e8--907e916ef776.html",
+      "captured": true,
+      "capture_title": "仓库正越来越多地使用机器人",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/ai-e6-94-af-e5-87-ba-e6-89-93-e6-96-ad-e8-85-be--cb72437d7b53.html",
       "captured": true,
       "capture_title": "AI支出打断腾讯两位数利润增长势头",
-      "error": ""
-    },
-    {
-      "title": "CoreWeave股价大涨提振AI交易",
-      "summary": "CoreWeave的股价时常受到投资者对AI交易热潮变化不定的情绪所左右。周三，这家AI云公司自己引领了一波新的市场风潮。",
-      "link": "https://cn.wsj.com/articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-34c86789",
-      "guid": "WP-WSJS-0003813557",
-      "pub_date": "Wed, 12 Aug 2026 23:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-96446143?size=1.499&width=1280",
-      "snapshot": "articles/coreweave-stock-surge-gives-the-ai-trade-a-boost-571c9d5f954b.html",
-      "captured": true,
-      "capture_title": "CoreWeave股价大涨提振AI交易",
-      "error": ""
-    },
-    {
-      "title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
-      "summary": "由迪士尼前CEO鲍勃·艾格和特朗普女婿弟弟约书亚·库什纳牵头的财团已同意收购洛杉矶湖人队的控股权。该球队现管理者马克·沃尔特的商业帝国目前正被调查。",
-      "link": "https://cn.wsj.com/articles/lakers-iger-kushner-walter-f6612952",
-      "guid": "WP-WSJS-0003813586",
-      "pub_date": "Wed, 12 Aug 2026 23:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-44555940?size=1.501&width=1280",
-      "snapshot": "articles/lakers-iger-kushner-walter-f6612952-19d95a5217e8.html",
-      "captured": true,
-      "capture_title": "洛杉矶湖人队再换老板，交易价值将达创纪录的125亿美元",
       "error": ""
     }
   ]
