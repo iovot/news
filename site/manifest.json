@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:58:21.746886+00:00",
+  "generated_at": "2026-08-19T07:02:42.376584+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -42,7 +42,7 @@
     },
     {
       "title": "宇树科技IPO可能标志着中国机器人行业迈入新时代",
-      "summary": "宇树科技将于周三在上海科创板正式挂牌上市。这有望在中国机器人行业掀起一场融资狂潮。",
+      "summary": "宇树科技周三在上海科创板正式挂牌上市。这有望在中国机器人行业掀起一场融资狂潮。",
       "link": "https://cn.wsj.com/articles/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80ipo%E5%8F%AF%E8%83%BD%E6%A0%87%E5%BF%97%E7%9D%80%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E4%B8%9A%E8%BF%88%E5%85%A5%E6%96%B0%E6%97%B6%E4%BB%A3-88955ebd",
       "guid": "WP-WSJS-0003824617",
       "pub_date": "Tue, 18 Aug 2026 08:26:00 GMT",
@@ -53,15 +53,15 @@
       "error": ""
     },
     {
-      "title": "OpenAI第二季度收入增长乏力，增速逊于Anthropic",
-      "summary": "OpenAI收入较第一季度增长18%至67亿美元，但亏损进一步扩大。而Anthropic同期收入增长逾一倍，还实现了小幅营业利润。",
-      "link": "https://cn.wsj.com/articles/openai%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E5%A2%9E%E9%95%BF%E4%B9%8F%E5%8A%9B-%E8%A1%A8%E7%8E%B0%E9%80%8A%E4%BA%8Eanthropic-b97fcc9a",
-      "guid": "WP-WSJS-0003826918",
-      "pub_date": "Wed, 19 Aug 2026 00:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-90960290?size=1.499&width=1280",
-      "snapshot": "articles/openai-e4-ba-8c-e5-ad-a3-e5-ba-a6-e8-90-a5-e6-94-532afd8dbe64.html",
+      "title": "西班牙海外飞地休达陷入新一轮移民困局",
+      "summary": "据估计，约有5,000人目前正挤在休达这片飞地各处冒出的露天简易营地中。",
+      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B5%B7%E5%A4%96%E9%A3%9E%E5%9C%B0%E4%BC%91%E8%BE%BE%E9%99%B7%E5%85%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E7%A7%BB%E6%B0%91%E5%9B%B0%E5%B1%80-1bb2a709",
+      "guid": "WP-WSJS-0003827559",
+      "pub_date": "Wed, 19 Aug 2026 05:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-75924692?size=1.501&width=1280",
+      "snapshot": "articles/e8-a5-bf-e7-8f-ad-e7-89-99-e6-b5-b7-e5-a4-96-e9--840b9d45e36e.html",
       "captured": true,
-      "capture_title": "OpenAI第二季度收入增长乏力，增速逊于Anthropic",
+      "capture_title": "西班牙海外飞地休达陷入新一轮移民困局 - WSJ",
       "error": ""
     },
     {
@@ -77,18 +77,6 @@
       "error": ""
     },
     {
-      "title": "美国中期选举临近，两党性丑闻不断发酵",
-      "summary": "虽然民主党和共和党的成员都面临调查，但外界认为共和党席位面临的风险更大。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E4%B8%B4%E8%BF%91-%E4%B8%A4%E5%85%9A%E6%80%A7%E4%B8%91%E9%97%BB%E4%B8%8D%E6%96%AD%E5%8F%91%E9%85%B5-c7ac94f4",
-      "guid": "WP-WSJS-0003827322",
-      "pub_date": "Wed, 19 Aug 2026 02:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-24222592?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-b8-ad-e6-9c-9f-e9-80-89-e4--f8ab4782bc53.html",
-      "captured": true,
-      "capture_title": "美国中期选举临近，两党性丑闻不断发酵 - WSJ",
-      "error": ""
-    },
-    {
       "title": "中国悼念前总理“朱老板”，但须按中共的规矩来",
       "summary": "习近平宣告继承朱镕基主导经济开放的政治遗产，同时压制了公众对那个官员更敢开口、控制相对宽松的时代的记忆。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%82%BC%E5%BF%B5%E5%89%8D%E6%80%BB%E7%90%86-%E6%9C%B1%E8%80%81%E6%9D%BF-%E4%BD%86%E9%A1%BB%E6%8C%89%E4%B8%AD%E5%85%B1%E7%9A%84%E8%A7%84%E7%9F%A9%E6%9D%A5-148d755f",
@@ -97,7 +85,31 @@
       "image_url": "https://images.wsj.net/im-64970248?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-82-bc-e5-bf-b5-e5-89-8d-e6--cfc351c18ee7.html",
       "captured": true,
-      "capture_title": "中国悼念前总理“朱老板”，但须按中共的规矩来 - WSJ",
+      "capture_title": "中国悼念前总理“朱老板”，但须按中共的规矩来",
+      "error": ""
+    },
+    {
+      "title": "送玉米卷、砸支票：科技巨头紧急行动平息AI抵制浪潮",
+      "summary": "科技巨头正通过举办社区“开放日”、承诺提供就业保障以及丰厚资金，全力赢取美国草根阶层对建设数据中心的支持。",
+      "link": "https://cn.wsj.com/articles/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-5c8717d2",
+      "guid": "WP-WSJS-0003827425",
+      "pub_date": "Wed, 19 Aug 2026 04:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-48414340?size=1.501&width=1280",
+      "snapshot": "articles/inside-big-techs-frantic-race-to-quell-the-growi-1d7d01b02879.html",
+      "captured": true,
+      "capture_title": "送玉米卷、砸支票：科技巨头紧急行动平息AI抵制浪潮 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
+      "summary": "总统行政助理娜塔莉·哈普已成为美国政坛左右两派都极度关注的人物。只要在恰当的时机给哈普发条短信，就能打通接触特朗普的渠道。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%A2%E5%BD%B1%E4%B8%8D%E7%A6%BB%E7%9A%84%E5%A5%B3%E5%8A%A9%E6%89%8B%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%88%E8%B5%84-c321e846",
+      "guid": "WP-WSJS-0003827522",
+      "pub_date": "Wed, 19 Aug 2026 04:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-74597637?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-8e-e7-89-b9-e6-9c-97-e6-99-ae-e5-bd-a2-e5--35eb4d17c3ed.html",
+      "captured": true,
+      "capture_title": "与特朗普形影不离的助手如何成为华盛顿热议焦点 - WSJ",
       "error": ""
     },
     {
@@ -109,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-21645787?size=1.499&width=1280",
       "snapshot": "articles/e6-8f-ad-e7-a7-98-e7-be-8e-e5-9b-bd-e4-b8-80-e4--438e3ffb5437.html",
       "captured": true,
-      "capture_title": "揭秘美国一代人以来首座核反应堆的建设攻关 - WSJ",
+      "capture_title": "揭秘美国一代人以来首座核反应堆的建设攻关",
       "error": ""
     },
     {
@@ -125,6 +137,18 @@
       "error": ""
     },
     {
+      "title": "减肥神药时代，食品巨头打响“味蕾保卫战”",
+      "summary": "随着GLP-1类药物威胁到数以百亿美元计的销售额，美国的包装食品生产商正尝试各种方法，试图重新征服那些“食欲不振”的消费者。",
+      "link": "https://cn.wsj.com/articles/packaged-food-weight-loss-drugs-50587d2f",
+      "guid": "WP-WSJS-0003827570",
+      "pub_date": "Wed, 19 Aug 2026 05:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-24347010?size=0.8&width=1280",
+      "snapshot": "articles/packaged-food-weight-loss-drugs-50587d2f-c53622e7a995.html",
+      "captured": true,
+      "capture_title": "减肥神药时代，食品巨头打响“味蕾保卫战” - WSJ",
+      "error": ""
+    },
+    {
       "title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
       "summary": "从Anthropic股份出售传闻，到异常的期权动向，交易人士察觉到了麻烦并迅速采取行动。",
       "link": "https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1",
@@ -137,15 +161,15 @@
       "error": ""
     },
     {
-      "title": "新一轮拨款动荡逼近，美国科学家争相寻求私人资本",
-      "summary": "华盛顿正在酝酿的新政策有可能再次颠覆大学等研究机构的拨款机制。许多科学家正转而争取基金会和私营公司的支持，或者缩减团队规模。",
-      "link": "https://cn.wsj.com/articles/science-research-funding-grants-nih-trump-universities-843268ce",
-      "guid": "WP-WSJS-0003827207",
-      "pub_date": "Wed, 19 Aug 2026 01:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-46764063?size=1.333&width=1280",
-      "snapshot": "articles/science-research-funding-grants-nih-trump-univer-6c5bddc37d24.html",
+      "title": "估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才",
+      "summary": "Etched由三位20岁出头的哈佛大学辍学生共同创立，凭借一款四个月前还只是个构想的产品，迅速筹集了近20亿美元资金，还获得Jane Street青睐。",
+      "link": "https://cn.wsj.com/articles/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-42d7d2d9",
+      "guid": "WP-WSJS-0003827268",
+      "pub_date": "Wed, 19 Aug 2026 01:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-03627216?size=1.499&width=1280",
+      "snapshot": "articles/a-21-billion-kids-in-chips-startup-is-scooping-u-221d115cdc5c.html",
       "captured": true,
-      "capture_title": "特朗普政府新政或再颠覆拨款机制，美国科学家争相寻求私人资本 - WSJ",
+      "capture_title": "估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才",
       "error": ""
     },
     {
@@ -157,19 +181,19 @@
       "image_url": "https://images.wsj.net/im-61825404?size=1.501&width=1280",
       "snapshot": "articles/e4-bc-81-e4-b8-9a-e6-ad-a3-e5-9c-a8-e9-87-8f-e5--4e5cc82f5d73.html",
       "captured": true,
-      "capture_title": "企业正在量子技术上投入巨资 - WSJ",
+      "capture_title": "企业正在量子技术上投入巨资",
       "error": ""
     },
     {
-      "title": "估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才",
-      "summary": "Etched由三位20岁出头的哈佛大学辍学生共同创立，凭借一款四个月前还只是个构想的产品，迅速筹集了近20亿美元资金，还获得Jane Street青睐。",
-      "link": "https://cn.wsj.com/articles/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-42d7d2d9",
-      "guid": "WP-WSJS-0003827268",
-      "pub_date": "Wed, 19 Aug 2026 01:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-03627216?size=1.499&width=1280",
-      "snapshot": "articles/a-21-billion-kids-in-chips-startup-is-scooping-u-221d115cdc5c.html",
+      "title": "新一轮拨款动荡逼近，美国科学家争相寻求私人资本",
+      "summary": "华盛顿正在酝酿的新政策有可能再次颠覆大学等研究机构的拨款机制。许多科学家正转而争取基金会和私营公司的支持，或者缩减团队规模。",
+      "link": "https://cn.wsj.com/articles/science-research-funding-grants-nih-trump-universities-843268ce",
+      "guid": "WP-WSJS-0003827207",
+      "pub_date": "Wed, 19 Aug 2026 01:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-46764063?size=1.333&width=1280",
+      "snapshot": "articles/science-research-funding-grants-nih-trump-univer-6c5bddc37d24.html",
       "captured": true,
-      "capture_title": "估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才 - WSJ",
+      "capture_title": "新一轮拨款动荡逼近，美国科学家争相寻求私人资本",
       "error": ""
     },
     {
@@ -185,39 +209,15 @@
       "error": ""
     },
     {
-      "title": "小米季度业绩再现疲态，存储成本及竞争压力拖累利润",
-      "summary": "小米集团表示，受零部件成本上升和销售疲软的拖累，在截至6月的三个月里，其整体毛利率从上年同期的22.5%降至19.8%。",
-      "link": "https://cn.wsj.com/articles/%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D20-5-25eb2a72",
-      "guid": "WP-WSJS-0003824961",
-      "pub_date": "Wed, 19 Aug 2026 00:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-58009967?size=1.501&width=1280",
-      "snapshot": "articles/e5-b0-8f-e7-b1-b3-e9-9b-86-e5-9b-a2-e7-ac-ac-e4--442609670116.html",
+      "title": "有钱有闲能折腾：美国老年人正推动全球旅游热潮",
+      "summary": "随着“婴儿潮”一代纷纷踏上旅途，旅游业也随之调整，推出更优质的住宿、更轻松的徒步路线和行李寄送服务。",
+      "link": "https://cn.wsj.com/articles/%E6%9C%89%E9%92%B1%E6%9C%89%E9%97%B2%E8%83%BD%E6%8A%98%E8%85%BE-%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B9%B4%E4%BA%BA%E6%AD%A3%E6%8E%A8%E5%8A%A8%E5%85%A8%E7%90%83%E6%97%85%E6%B8%B8%E7%83%AD%E6%BD%AE-5ad3319a",
+      "guid": "WP-WSJS-0003824487",
+      "pub_date": "Tue, 18 Aug 2026 05:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-54357782?size=1.501&width=1280",
+      "snapshot": "articles/e6-9c-89-e9-92-b1-e6-9c-89-e9-97-b2-e8-83-bd-e6--52bc18338cb5.html",
       "captured": true,
-      "capture_title": "小米季度业绩再现疲态，存储成本及竞争压力拖累利润",
-      "error": ""
-    },
-    {
-      "title": "Meta儿童安全案在加州开庭，或将改写Instagram前景",
-      "summary": "此案由美国四州的总检察长联合发起，指控Meta违反了州级消费者权益保护法以及保护儿童网络安全的联邦法规。",
-      "link": "https://cn.wsj.com/articles/meta%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8%E6%A1%88%E5%9C%A8%E5%8A%A0%E5%B7%9E%E5%BC%80%E5%BA%AD-%E6%88%96%E5%B0%86%E6%94%B9%E5%86%99instagram%E5%89%8D%E6%99%AF-19d22903",
-      "guid": "WP-WSJS-0003827000",
-      "pub_date": "Tue, 18 Aug 2026 23:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-36599458?size=1.499&width=1280",
-      "snapshot": "articles/meta-e5-84-bf-e7-ab-a5-e5-ae-89-e5-85-a8-e6-a1-8-0447db46dfda.html",
-      "captured": true,
-      "capture_title": "Meta儿童安全案在加州开庭，或将改写Instagram前景",
-      "error": ""
-    },
-    {
-      "title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
-      "summary": "安聪慧将接替李书福担任吉利汽车董事会主席。安聪慧是吉利的一位资深高管，一直负责该公司的豪华品牌。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%85%88%E9%A9%B1%E6%9D%8E%E4%B9%A6%E7%A6%8F%E8%BE%9E%E4%BB%BB%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD-b881eea3",
-      "guid": "WP-WSJS-0003824133",
-      "pub_date": "Tue, 18 Aug 2026 00:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-94603234?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e4-b8-9a-e5--a2af8c1b2dbc.html",
-      "captured": true,
-      "capture_title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
+      "capture_title": "有钱有闲能折腾：美国老年人正推动全球旅游热潮",
       "error": ""
     },
     {
@@ -281,6 +281,18 @@
       "error": ""
     },
     {
+      "title": "每个人都向往希腊跳岛游——直到他们坐上“呕吐彗星”",
+      "summary": "穿梭于风景如画的希腊群岛的高速客轮，让一些游客经历了漫长曲折的奥德赛之旅。他们说，自己从来没有晕船晕得这么厉害。",
+      "link": "https://cn.wsj.com/articles/%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E5%90%91%E5%BE%80%E5%B8%8C%E8%85%8A%E8%B7%B3%E5%B2%9B%E6%B8%B8-%E7%9B%B4%E5%88%B0%E4%BB%96%E4%BB%AC%E5%9D%90%E4%B8%8A-%E5%91%95%E5%90%90%E5%BD%97%E6%98%9F-203289a0",
+      "guid": "WP-WSJS-0003827575",
+      "pub_date": "Wed, 19 Aug 2026 05:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-56499914?size=1.5053763440860215&width=918",
+      "snapshot": "articles/e6-af-8f-e4-b8-aa-e4-ba-ba-e9-83-bd-e5-90-91-e5--2fc81d806593.html",
+      "captured": true,
+      "capture_title": "每个人都向往希腊跳岛游——直到他们坐上“呕吐彗星” - WSJ",
+      "error": ""
+    },
+    {
       "title": "英国街头站立饮酒面临整顿，酒客怒怼“扫兴官僚”",
       "summary": "伦敦的官僚们想让酒客坐下来喝酒，而不是一帮一伙地聚在酒吧门口痛饮，但这种想法却威胁到英国人夏季的一大乐趣。全国上下群情激愤。",
       "link": "https://cn.wsj.com/articles/%E8%8B%B1%E5%9B%BD%E8%A1%97%E5%A4%B4%E7%AB%99%E7%AB%8B%E9%A5%AE%E9%85%92%E9%9D%A2%E4%B8%B4%E6%95%B4%E9%A1%BF-%E9%85%92%E5%AE%A2%E6%80%92%E6%80%BC-%E6%89%AB%E5%85%B4%E5%AE%98%E5%83%9A-34cf304d",
@@ -293,15 +305,63 @@
       "error": ""
     },
     {
-      "title": "有钱有闲能折腾：美国老年人正推动全球旅游热潮",
-      "summary": "随着“婴儿潮”一代纷纷踏上旅途，旅游业也随之调整，推出更优质的住宿、更轻松的徒步路线和行李寄送服务。",
-      "link": "https://cn.wsj.com/articles/%E6%9C%89%E9%92%B1%E6%9C%89%E9%97%B2%E8%83%BD%E6%8A%98%E8%85%BE-%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B9%B4%E4%BA%BA%E6%AD%A3%E6%8E%A8%E5%8A%A8%E5%85%A8%E7%90%83%E6%97%85%E6%B8%B8%E7%83%AD%E6%BD%AE-5ad3319a",
-      "guid": "WP-WSJS-0003824487",
-      "pub_date": "Tue, 18 Aug 2026 05:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-54357782?size=1.501&width=1280",
-      "snapshot": "articles/e6-9c-89-e9-92-b1-e6-9c-89-e9-97-b2-e8-83-bd-e6--52bc18338cb5.html",
+      "title": "OpenAI第二季度收入增长乏力，增速逊于Anthropic",
+      "summary": "OpenAI收入较第一季度增长18%至67亿美元，但亏损进一步扩大。而Anthropic同期收入增长逾一倍，还实现了小幅营业利润。",
+      "link": "https://cn.wsj.com/articles/openai%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E5%A2%9E%E9%95%BF%E4%B9%8F%E5%8A%9B-%E8%A1%A8%E7%8E%B0%E9%80%8A%E4%BA%8Eanthropic-b97fcc9a",
+      "guid": "WP-WSJS-0003826918",
+      "pub_date": "Wed, 19 Aug 2026 00:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-90960290?size=1.499&width=1280",
+      "snapshot": "articles/openai-e4-ba-8c-e5-ad-a3-e5-ba-a6-e8-90-a5-e6-94-532afd8dbe64.html",
       "captured": true,
-      "capture_title": "有钱有闲能折腾：美国老年人正推动全球旅游热潮",
+      "capture_title": "OpenAI第二季度收入增长乏力，增速逊于Anthropic",
+      "error": ""
+    },
+    {
+      "title": "美国中期选举临近，两党性丑闻不断发酵",
+      "summary": "虽然民主党和共和党的成员都面临调查，但外界认为共和党席位面临的风险更大。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E4%B8%B4%E8%BF%91-%E4%B8%A4%E5%85%9A%E6%80%A7%E4%B8%91%E9%97%BB%E4%B8%8D%E6%96%AD%E5%8F%91%E9%85%B5-c7ac94f4",
+      "guid": "WP-WSJS-0003827322",
+      "pub_date": "Wed, 19 Aug 2026 02:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-24222592?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-b8-ad-e6-9c-9f-e9-80-89-e4--f8ab4782bc53.html",
+      "captured": true,
+      "capture_title": "美国中期选举临近，两党性丑闻不断发酵 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "小米季度业绩再现疲态，存储成本及竞争压力拖累利润",
+      "summary": "小米集团表示，受零部件成本上升和销售疲软的拖累，在截至6月的三个月里，其整体毛利率从上年同期的22.5%降至19.8%。",
+      "link": "https://cn.wsj.com/articles/%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D20-5-25eb2a72",
+      "guid": "WP-WSJS-0003824961",
+      "pub_date": "Wed, 19 Aug 2026 00:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-58009967?size=1.501&width=1280",
+      "snapshot": "articles/e5-b0-8f-e7-b1-b3-e9-9b-86-e5-9b-a2-e7-ac-ac-e4--442609670116.html",
+      "captured": true,
+      "capture_title": "小米季度业绩再现疲态，存储成本及竞争压力拖累利润",
+      "error": ""
+    },
+    {
+      "title": "Meta儿童安全案在加州开庭，或将改写Instagram前景",
+      "summary": "此案由美国四州的总检察长联合发起，指控Meta违反了州级消费者权益保护法以及保护儿童网络安全的联邦法规。",
+      "link": "https://cn.wsj.com/articles/meta%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8%E6%A1%88%E5%9C%A8%E5%8A%A0%E5%B7%9E%E5%BC%80%E5%BA%AD-%E6%88%96%E5%B0%86%E6%94%B9%E5%86%99instagram%E5%89%8D%E6%99%AF-19d22903",
+      "guid": "WP-WSJS-0003827000",
+      "pub_date": "Tue, 18 Aug 2026 23:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-36599458?size=1.499&width=1280",
+      "snapshot": "articles/meta-e5-84-bf-e7-ab-a5-e5-ae-89-e5-85-a8-e6-a1-8-0447db46dfda.html",
+      "captured": true,
+      "capture_title": "Meta儿童安全案在加州开庭，或将改写Instagram前景",
+      "error": ""
+    },
+    {
+      "title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
+      "summary": "安聪慧将接替李书福担任吉利汽车董事会主席。安聪慧是吉利的一位资深高管，一直负责该公司的豪华品牌。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%85%88%E9%A9%B1%E6%9D%8E%E4%B9%A6%E7%A6%8F%E8%BE%9E%E4%BB%BB%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%B8%BB%E5%B8%AD-b881eea3",
+      "guid": "WP-WSJS-0003824133",
+      "pub_date": "Tue, 18 Aug 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-94603234?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e4-b8-9a-e5--a2af8c1b2dbc.html",
+      "captured": true,
+      "capture_title": "中国汽车业先驱李书福辞任吉利汽车董事会主席",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
       "captured": true,
       "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
-      "error": ""
-    },
-    {
-      "title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
-      "summary": "一些美国官员认为该计划不切实际，但总统的安全团队容不得半点闪失。",
-      "link": "https://cn.wsj.com/articles/how-trumps-ruse-to-evade-an-iranian-threat-unfolded-on-the-tarmac-in-turkey-e10d256e",
-      "guid": "WP-WSJS-0003813992",
-      "pub_date": "Thu, 13 Aug 2026 03:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-84691352?size=1.501&width=1280",
-      "snapshot": "articles/how-trumps-ruse-to-evade-an-iranian-threat-unfol-02f8731d654a.html",
-      "captured": true,
-      "capture_title": "停机坪上“金蝉脱壳”：特朗普如何避开伊朗威胁？",
-      "error": ""
-    },
-    {
-      "title": "台湾强化海巡力量武装，为台海冲突做准备",
-      "summary": "通过部署反舰导弹和举行海军演习，台北加强了防御能力并加大威慑北京的力度。",
-      "link": "https://cn.wsj.com/articles/taiwan-weaponizes-coast-guard-to-prepare-for-battle-with-china-4a746258",
-      "guid": "WP-WSJS-0003817045",
-      "pub_date": "Fri, 14 Aug 2026 03:01:00 GMT",
-      "image_url": "https://images.wsj.net/im-96615871?size=1.501&width=1280",
-      "snapshot": "articles/taiwan-weaponizes-coast-guard-to-prepare-for-bat-58425d41d6f6.html",
-      "captured": true,
-      "capture_title": "台湾强化海巡力量武装，为台海冲突做准备",
-      "error": ""
-    },
-    {
-      "title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
-      "summary": "美国海军和业界高层多年来一直反对恢复使用蒸汽弹射系统。",
-      "link": "https://cn.wsj.com/articles/trump-orders-navy-to-restore-old-technology-in-aircraft-carriers-costing-billions-48be110b",
-      "guid": "WP-WSJS-0003816723",
-      "pub_date": "Fri, 14 Aug 2026 03:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-47517692?size=1.499&width=1280",
-      "snapshot": "articles/trump-orders-navy-to-restore-old-technology-in-a-292eba79adf9.html",
-      "captured": true,
-      "capture_title": "特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元",
-      "error": ""
-    },
-    {
-      "title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
-      "summary": "比尔·阿克曼的选股基金今年以来落后于整体市场。他寄望于重塑投资组合，包括新押注Netflix和Visa等公司，以帮助扭转局面。",
-      "link": "https://cn.wsj.com/articles/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-5284109f",
-      "guid": "WP-WSJS-0003816789",
-      "pub_date": "Thu, 13 Aug 2026 23:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-69933983?size=1.501&width=1280",
-      "snapshot": "articles/bill-ackman-calls-his-new-funds-slumping-stock-p-75d2259e118c.html",
-      "captured": true,
-      "capture_title": "比尔·阿克曼称其新基金股价下跌“简直荒谬”",
-      "error": ""
-    },
-    {
-      "title": "特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国",
-      "summary": "关税将根据无人机的性能和原产地实行分级。此举旨在对抗中国在商用无人机市场的主导地位，并将生产线迁回美国。",
-      "link": "https://cn.wsj.com/articles/trump-announces-drone-tariffs-to-protect-national-security-bolster-u-s-supply-chains-01dce4e8",
-      "guid": "WP-WSJS-0003817231",
-      "pub_date": "Fri, 14 Aug 2026 05:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-06412072?size=1.501&width=1280",
-      "snapshot": "articles/trump-announces-drone-tariffs-to-protect-nationa-f064c2303a07.html",
-      "captured": true,
-      "capture_title": "特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国",
       "error": ""
     }
   ]
