@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 06:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:38:38 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 06:54:54 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 09:38:38 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,13 @@
             <pubDate>Wed, 19 Aug 2026 00:58:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[宇树上市首日股价暴涨，投资者大举押注机器人产业]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-14062028?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宇树科技开盘后股价飙升至发行价的六倍多，投资者视其为中国抢占机器人产业高地的领军企业。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-0959643a</link>
+            <guid isPermaLink="false">WP-WSJS-0003827645</guid>
+            <pubDate>Wed, 19 Aug 2026 06:55:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[特朗普暂停对部分加拿大产品加征50%关税]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-02702611?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普表示，暂停对来自加拿大的某些商品征收50%的关税，为期三天。他称加拿大和美国已经达成贸易协议。</p>]]></description>
             <link>https://cn.wsj.com/articles/trump-pauses-50-tariff-on-some-canadian-products-ba3cd89c</link>
@@ -47,13 +54,6 @@
             <link>https://cn.wsj.com/articles/%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E9%81%AD%E9%81%87%E9%87%8D%E6%8C%AB-%E5%8D%8E%E5%B0%94%E8%A1%97%E9%A2%84%E8%AE%A1%E6%8A%9B%E5%94%AE%E6%BD%AE%E7%9F%AD%E6%9C%9F%E9%9A%BE%E6%AD%A2-0e32e835</link>
             <guid isPermaLink="false">WP-WSJS-0003826872</guid>
             <pubDate>Tue, 18 Aug 2026 23:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宇树科技IPO可能标志着中国机器人行业迈入新时代]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57527187?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>宇树科技周三在上海科创板正式挂牌上市。这有望在中国机器人行业掀起一场融资狂潮。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80ipo%E5%8F%AF%E8%83%BD%E6%A0%87%E5%BF%97%E7%9D%80%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E4%B8%9A%E8%BF%88%E5%85%A5%E6%96%B0%E6%97%B6%E4%BB%A3-88955ebd</link>
-            <guid isPermaLink="false">WP-WSJS-0003824617</guid>
-            <pubDate>Tue, 18 Aug 2026 08:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[西班牙海外飞地休达陷入新一轮移民困局]]></title>
@@ -77,6 +77,13 @@
             <pubDate>Wed, 19 Aug 2026 01:42:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[与特朗普形影不离的助手如何成为华盛顿热议焦点]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-74597637?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>总统行政助理娜塔莉·哈普已成为美国政坛左右两派都极度关注的人物。只要在恰当的时机给哈普发条短信，就能打通接触特朗普的渠道。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%A2%E5%BD%B1%E4%B8%8D%E7%A6%BB%E7%9A%84%E5%A5%B3%E5%8A%A9%E6%89%8B%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%88%E8%B5%84-c321e846</link>
+            <guid isPermaLink="false">WP-WSJS-0003827522</guid>
+            <pubDate>Wed, 19 Aug 2026 04:35:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[送玉米卷、砸支票：科技巨头紧急行动平息AI抵制浪潮]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-48414340?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>科技巨头正通过举办社区“开放日”、承诺提供就业保障以及丰厚资金，全力赢取美国草根阶层对建设数据中心的支持。</p>]]></description>
             <link>https://cn.wsj.com/articles/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-5c8717d2</link>
@@ -84,11 +91,11 @@
             <pubDate>Wed, 19 Aug 2026 04:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[与特朗普形影不离的助手如何成为华盛顿热议焦点]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-74597637?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>总统行政助理娜塔莉·哈普已成为美国政坛左右两派都极度关注的人物。只要在恰当的时机给哈普发条短信，就能打通接触特朗普的渠道。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%A2%E5%BD%B1%E4%B8%8D%E7%A6%BB%E7%9A%84%E5%A5%B3%E5%8A%A9%E6%89%8B%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%88%E8%B5%84-c321e846</link>
-            <guid isPermaLink="false">WP-WSJS-0003827522</guid>
-            <pubDate>Wed, 19 Aug 2026 04:35:00 GMT</pubDate>
+            <title><![CDATA[这家庞大的中国炼油厂如何成为伊朗资金生命线]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-12940852?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%BF%99%E5%AE%B6%E5%BA%9E%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%8E%82%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%8A%E6%9C%97%E8%B5%84%E9%87%91%E7%94%9F%E5%91%BD%E7%BA%BF-e3fe2979</link>
+            <guid isPermaLink="false">WP-WSJS-0003822384</guid>
+            <pubDate>Mon, 17 Aug 2026 10:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[揭秘美国一代人以来首座核反应堆的建设攻关]]></title>
@@ -98,11 +105,11 @@
             <pubDate>Wed, 19 Aug 2026 01:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[这家庞大的中国炼油厂如何成为伊朗资金生命线]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-12940852?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%BF%99%E5%AE%B6%E5%BA%9E%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%8E%82%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%8A%E6%9C%97%E8%B5%84%E9%87%91%E7%94%9F%E5%91%BD%E7%BA%BF-e3fe2979</link>
-            <guid isPermaLink="false">WP-WSJS-0003822384</guid>
-            <pubDate>Mon, 17 Aug 2026 10:39:00 GMT</pubDate>
+            <title><![CDATA[估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-03627216?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Etched由三位20岁出头的哈佛大学辍学生共同创立，凭借一款四个月前还只是个构想的产品，迅速筹集了近20亿美元资金，还获得Jane Street青睐。</p>]]></description>
+            <link>https://cn.wsj.com/articles/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-42d7d2d9</link>
+            <guid isPermaLink="false">WP-WSJS-0003827268</guid>
+            <pubDate>Wed, 19 Aug 2026 01:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[减肥神药时代，食品巨头打响“味蕾保卫战”]]></title>
@@ -117,13 +124,6 @@
             <link>https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1</link>
             <guid isPermaLink="false">WP-WSJS-0003824198</guid>
             <pubDate>Tue, 18 Aug 2026 01:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-03627216?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Etched由三位20岁出头的哈佛大学辍学生共同创立，凭借一款四个月前还只是个构想的产品，迅速筹集了近20亿美元资金，还获得Jane Street青睐。</p>]]></description>
-            <link>https://cn.wsj.com/articles/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent-42d7d2d9</link>
-            <guid isPermaLink="false">WP-WSJS-0003827268</guid>
-            <pubDate>Wed, 19 Aug 2026 01:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[企业正在量子技术上投入巨资]]></title>

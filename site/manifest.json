@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:02:42.376584+00:00",
+  "generated_at": "2026-08-19T09:43:40.588626+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -14,6 +14,18 @@
       "snapshot": "articles/trump-pushes-for-kim-jong-un-meeting-this-year-f-e2f5742e1de5.html",
       "captured": true,
       "capture_title": "特朗普正推动年内与金正恩会晤",
+      "error": ""
+    },
+    {
+      "title": "宇树上市首日股价暴涨，投资者大举押注机器人产业",
+      "summary": "宇树科技开盘后股价飙升至发行价的六倍多，投资者视其为中国抢占机器人产业高地的领军企业。",
+      "link": "https://cn.wsj.com/articles/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-0959643a",
+      "guid": "WP-WSJS-0003827645",
+      "pub_date": "Wed, 19 Aug 2026 06:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-14062028?size=1.501&width=1280",
+      "snapshot": "articles/chinas-unitree-soars-in-debut-as-investors-bet-b-8418adbdda4c.html",
+      "captured": true,
+      "capture_title": "宇树上市首日股价暴涨，投资者大举押注机器人产业 - WSJ",
       "error": ""
     },
     {
@@ -41,18 +53,6 @@
       "error": ""
     },
     {
-      "title": "宇树科技IPO可能标志着中国机器人行业迈入新时代",
-      "summary": "宇树科技周三在上海科创板正式挂牌上市。这有望在中国机器人行业掀起一场融资狂潮。",
-      "link": "https://cn.wsj.com/articles/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80ipo%E5%8F%AF%E8%83%BD%E6%A0%87%E5%BF%97%E7%9D%80%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E4%B8%9A%E8%BF%88%E5%85%A5%E6%96%B0%E6%97%B6%E4%BB%A3-88955ebd",
-      "guid": "WP-WSJS-0003824617",
-      "pub_date": "Tue, 18 Aug 2026 08:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-57527187?size=1.501&width=1280",
-      "snapshot": "articles/e5-ae-87-e6-a0-91-e7-a7-91-e6-8a-80ipo-e5-8f-af--cd0dcd3c8857.html",
-      "captured": true,
-      "capture_title": "宇树科技IPO可能标志着中国机器人行业迈入新时代",
-      "error": ""
-    },
-    {
       "title": "西班牙海外飞地休达陷入新一轮移民困局",
       "summary": "据估计，约有5,000人目前正挤在休达这片飞地各处冒出的露天简易营地中。",
       "link": "https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B5%B7%E5%A4%96%E9%A3%9E%E5%9C%B0%E4%BC%91%E8%BE%BE%E9%99%B7%E5%85%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E7%A7%BB%E6%B0%91%E5%9B%B0%E5%B1%80-1bb2a709",
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-75924692?size=1.501&width=1280",
       "snapshot": "articles/e8-a5-bf-e7-8f-ad-e7-89-99-e6-b5-b7-e5-a4-96-e9--840b9d45e36e.html",
       "captured": true,
-      "capture_title": "西班牙海外飞地休达陷入新一轮移民困局 - WSJ",
+      "capture_title": "西班牙海外飞地休达陷入新一轮移民困局",
       "error": ""
     },
     {
@@ -89,18 +89,6 @@
       "error": ""
     },
     {
-      "title": "送玉米卷、砸支票：科技巨头紧急行动平息AI抵制浪潮",
-      "summary": "科技巨头正通过举办社区“开放日”、承诺提供就业保障以及丰厚资金，全力赢取美国草根阶层对建设数据中心的支持。",
-      "link": "https://cn.wsj.com/articles/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-5c8717d2",
-      "guid": "WP-WSJS-0003827425",
-      "pub_date": "Wed, 19 Aug 2026 04:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-48414340?size=1.501&width=1280",
-      "snapshot": "articles/inside-big-techs-frantic-race-to-quell-the-growi-1d7d01b02879.html",
-      "captured": true,
-      "capture_title": "送玉米卷、砸支票：科技巨头紧急行动平息AI抵制浪潮 - WSJ",
-      "error": ""
-    },
-    {
       "title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
       "summary": "总统行政助理娜塔莉·哈普已成为美国政坛左右两派都极度关注的人物。只要在恰当的时机给哈普发条短信，就能打通接触特朗普的渠道。",
       "link": "https://cn.wsj.com/articles/%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%A2%E5%BD%B1%E4%B8%8D%E7%A6%BB%E7%9A%84%E5%A5%B3%E5%8A%A9%E6%89%8B%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%88%E8%B5%84-c321e846",
@@ -109,19 +97,19 @@
       "image_url": "https://images.wsj.net/im-74597637?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-8e-e7-89-b9-e6-9c-97-e6-99-ae-e5-bd-a2-e5--35eb4d17c3ed.html",
       "captured": true,
-      "capture_title": "与特朗普形影不离的助手如何成为华盛顿热议焦点 - WSJ",
+      "capture_title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
       "error": ""
     },
     {
-      "title": "揭秘美国一代人以来首座核反应堆的建设攻关",
-      "summary": "在爱达荷国家实验室，再度兴起的原子能热正与AI狂热碰撞出火花。Oklo等公司希望推动一场AI革命与核能复兴，为未来几十年的美国经济提供动力。",
-      "link": "https://cn.wsj.com/articles/%E6%8F%AD%E7%A7%98%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BB%A3%E4%BA%BA%E4%BB%A5%E6%9D%A5%E9%A6%96%E5%BA%A7%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%9A%84%E5%BB%BA%E8%AE%BE%E6%94%BB%E5%85%B3-a9157198",
-      "guid": "WP-WSJS-0003827189",
-      "pub_date": "Wed, 19 Aug 2026 01:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-21645787?size=1.499&width=1280",
-      "snapshot": "articles/e6-8f-ad-e7-a7-98-e7-be-8e-e5-9b-bd-e4-b8-80-e4--438e3ffb5437.html",
+      "title": "送玉米卷、砸支票：科技巨头紧急行动平息AI抵制浪潮",
+      "summary": "科技巨头正通过举办社区“开放日”、承诺提供就业保障以及丰厚资金，全力赢取美国草根阶层对建设数据中心的支持。",
+      "link": "https://cn.wsj.com/articles/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-5c8717d2",
+      "guid": "WP-WSJS-0003827425",
+      "pub_date": "Wed, 19 Aug 2026 04:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-48414340?size=1.501&width=1280",
+      "snapshot": "articles/inside-big-techs-frantic-race-to-quell-the-growi-1d7d01b02879.html",
       "captured": true,
-      "capture_title": "揭秘美国一代人以来首座核反应堆的建设攻关",
+      "capture_title": "送玉米卷、砸支票：科技巨头紧急行动平息AI抵制浪潮",
       "error": ""
     },
     {
@@ -137,27 +125,15 @@
       "error": ""
     },
     {
-      "title": "减肥神药时代，食品巨头打响“味蕾保卫战”",
-      "summary": "随着GLP-1类药物威胁到数以百亿美元计的销售额，美国的包装食品生产商正尝试各种方法，试图重新征服那些“食欲不振”的消费者。",
-      "link": "https://cn.wsj.com/articles/packaged-food-weight-loss-drugs-50587d2f",
-      "guid": "WP-WSJS-0003827570",
-      "pub_date": "Wed, 19 Aug 2026 05:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-24347010?size=0.8&width=1280",
-      "snapshot": "articles/packaged-food-weight-loss-drugs-50587d2f-c53622e7a995.html",
+      "title": "揭秘美国一代人以来首座核反应堆的建设攻关",
+      "summary": "在爱达荷国家实验室，再度兴起的原子能热正与AI狂热碰撞出火花。Oklo等公司希望推动一场AI革命与核能复兴，为未来几十年的美国经济提供动力。",
+      "link": "https://cn.wsj.com/articles/%E6%8F%AD%E7%A7%98%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BB%A3%E4%BA%BA%E4%BB%A5%E6%9D%A5%E9%A6%96%E5%BA%A7%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%9A%84%E5%BB%BA%E8%AE%BE%E6%94%BB%E5%85%B3-a9157198",
+      "guid": "WP-WSJS-0003827189",
+      "pub_date": "Wed, 19 Aug 2026 01:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-21645787?size=1.499&width=1280",
+      "snapshot": "articles/e6-8f-ad-e7-a7-98-e7-be-8e-e5-9b-bd-e4-b8-80-e4--438e3ffb5437.html",
       "captured": true,
-      "capture_title": "减肥神药时代，食品巨头打响“味蕾保卫战” - WSJ",
-      "error": ""
-    },
-    {
-      "title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
-      "summary": "从Anthropic股份出售传闻，到异常的期权动向，交易人士察觉到了麻烦并迅速采取行动。",
-      "link": "https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1",
-      "guid": "WP-WSJS-0003824198",
-      "pub_date": "Tue, 18 Aug 2026 01:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-81266780?size=1.466&width=1280",
-      "snapshot": "articles/how-wall-street-sussed-out-that-situational-awar-9b7eb5722fed.html",
-      "captured": true,
-      "capture_title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
+      "capture_title": "揭秘美国一代人以来首座核反应堆的建设攻关",
       "error": ""
     },
     {
@@ -170,6 +146,30 @@
       "snapshot": "articles/a-21-billion-kids-in-chips-startup-is-scooping-u-221d115cdc5c.html",
       "captured": true,
       "capture_title": "估值210亿美元的“芯片小子”初创公司大举挖角英伟达人才",
+      "error": ""
+    },
+    {
+      "title": "减肥神药时代，食品巨头打响“味蕾保卫战”",
+      "summary": "随着GLP-1类药物威胁到数以百亿美元计的销售额，美国的包装食品生产商正尝试各种方法，试图重新征服那些“食欲不振”的消费者。",
+      "link": "https://cn.wsj.com/articles/packaged-food-weight-loss-drugs-50587d2f",
+      "guid": "WP-WSJS-0003827570",
+      "pub_date": "Wed, 19 Aug 2026 05:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-24347010?size=0.8&width=1280",
+      "snapshot": "articles/packaged-food-weight-loss-drugs-50587d2f-c53622e7a995.html",
+      "captured": true,
+      "capture_title": "减肥神药时代，食品巨头打响“味蕾保卫战”",
+      "error": ""
+    },
+    {
+      "title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
+      "summary": "从Anthropic股份出售传闻，到异常的期权动向，交易人士察觉到了麻烦并迅速采取行动。",
+      "link": "https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1",
+      "guid": "WP-WSJS-0003824198",
+      "pub_date": "Tue, 18 Aug 2026 01:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-81266780?size=1.466&width=1280",
+      "snapshot": "articles/how-wall-street-sussed-out-that-situational-awar-9b7eb5722fed.html",
+      "captured": true,
+      "capture_title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
       "error": ""
     },
     {
@@ -289,7 +289,7 @@
       "image_url": "https://images.wsj.net/im-56499914?size=1.5053763440860215&width=918",
       "snapshot": "articles/e6-af-8f-e4-b8-aa-e4-ba-ba-e9-83-bd-e5-90-91-e5--2fc81d806593.html",
       "captured": true,
-      "capture_title": "每个人都向往希腊跳岛游——直到他们坐上“呕吐彗星” - WSJ",
+      "capture_title": "每个人都向往希腊跳岛游——直到他们坐上“呕吐彗星”",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/e8-8b-b1-e5-9b-bd-e8-a1-97-e5-a4-b4-e7-ab-99-e7--dc723f86a693.html",
       "captured": true,
       "capture_title": "英国街头站立饮酒面临整顿，酒客怒怼“扫兴官僚”",
+      "error": ""
+    },
+    {
+      "title": "宇树科技IPO可能标志着中国机器人行业迈入新时代",
+      "summary": "宇树科技周三在上海科创板正式挂牌上市。这有望在中国机器人行业掀起一场融资狂潮。",
+      "link": "https://cn.wsj.com/articles/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80ipo%E5%8F%AF%E8%83%BD%E6%A0%87%E5%BF%97%E7%9D%80%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E4%B8%9A%E8%BF%88%E5%85%A5%E6%96%B0%E6%97%B6%E4%BB%A3-88955ebd",
+      "guid": "WP-WSJS-0003824617",
+      "pub_date": "Tue, 18 Aug 2026 08:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-57527187?size=1.501&width=1280",
+      "snapshot": "articles/e5-ae-87-e6-a0-91-e7-a7-91-e6-8a-80ipo-e5-8f-af--cd0dcd3c8857.html",
+      "captured": true,
+      "capture_title": "宇树科技IPO可能标志着中国机器人行业迈入新时代",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/polestar-dealer-claims-automaker-orchestrated-it-02db6fd1faee.html",
       "captured": true,
       "capture_title": "美经销商起诉极星，控其“自导自演”在美禁令",
-      "error": ""
-    },
-    {
-      "title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
-      "summary": "湖人老板马克·沃尔特的商业帝国正受到联邦调查人员的审视，他本人则在四处寻觅资金。就在这时，一笔巨款神兵天降般地送到了他面前。",
-      "link": "https://cn.wsj.com/articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca0c0",
-      "guid": "WP-WSJS-0003816815",
-      "pub_date": "Fri, 14 Aug 2026 00:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-15413357?size=1.501&width=1280",
-      "snapshot": "articles/lakers-mark-walter-joshua-kushner-bob-iger-81aca-54886d0640f1.html",
-      "captured": true,
-      "capture_title": "湖人队老板急需现金，此时一笔125亿美元的收购报价送上门来",
       "error": ""
     }
   ]
