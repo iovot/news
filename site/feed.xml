@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 09:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:56:39 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 09:39:04 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 12:56:39 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -112,6 +112,13 @@
             <pubDate>Thu, 20 Aug 2026 07:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[阿里巴巴大举投资AI之际利润大幅下滑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-80390380?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>第一财季阿里云的外部商业化收入加速增长至45%，AI相关产品收入已连续第12个季度实现三位数同比增长。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84ai%E4%B9%8B%E9%99%85%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91-bfc58fc6</link>
+            <guid isPermaLink="false">WP-WSJS-0003831181</guid>
+            <pubDate>Thu, 20 Aug 2026 11:05:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[宇树科技CEO：人形机器人尚未准备好应对现实任务与大规模推广]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-32662700?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>王兴兴表示，人形机器人目前仍缺乏完成实际任务的效率和泛化能力，尚未做好大规模推广的准备。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80ceo-%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%9A%E6%9C%AA%E5%87%86%E5%A4%87%E5%A5%BD%E5%BA%94%E5%AF%B9%E7%8E%B0%E5%AE%9E%E4%BB%BB%E5%8A%A1%E4%B8%8E%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8E%A8%E5%B9%BF-378ae090</link>
@@ -126,13 +133,6 @@
             <pubDate>Thu, 20 Aug 2026 00:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[塔塔换帅风波凸显亚洲企业难摆脱创始家族影响]]></title>
-            <description><![CDATA[<img width="1280" height="748" src="https://images.wsj.net/im-91000554?size=1.711&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>塔塔之子公司的高层人事动荡，凸显出印度家族企业巨头在引入职业经理人时面临重重挑战。</p>]]></description>
-            <link>https://cn.wsj.com/articles/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-82249edd</link>
-            <guid isPermaLink="false">WP-WSJS-0003830692</guid>
-            <pubDate>Thu, 20 Aug 2026 06:19:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[OpenAI抗衡Anthropic的最新举措：承诺不保留客户数据]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-98647033?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举意在从竞争对手Anthropic手中抢夺客户，此前Claude开发商保留客户数据的做法已引发部分客户不满。</p>]]></description>
             <link>https://cn.wsj.com/articles/openais-latest-bid-to-fight-anthropic-a-promise-not-to-keep-customer-data-715b0a2f</link>
@@ -140,18 +140,18 @@
             <pubDate>Wed, 19 Aug 2026 23:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[塔塔换帅风波凸显亚洲企业难摆脱创始家族影响]]></title>
+            <description><![CDATA[<img width="1280" height="748" src="https://images.wsj.net/im-91000554?size=1.711&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>塔塔之子公司的高层人事动荡，凸显出印度家族企业巨头在引入职业经理人时面临重重挑战。</p>]]></description>
+            <link>https://cn.wsj.com/articles/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-82249edd</link>
+            <guid isPermaLink="false">WP-WSJS-0003830692</guid>
+            <pubDate>Thu, 20 Aug 2026 06:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[芯片股涨势遇阻，但一些分析师认为有理由保持乐观]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-47691818?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p></p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%8A%AF%E7%89%87%E8%82%A1%E6%B6%A8%E5%8A%BF%E9%81%87%E9%98%BB-%E4%BD%86%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E5%B8%88%E8%AE%A4%E4%B8%BA%E6%9C%89%E7%90%86%E7%94%B1%E4%BF%9D%E6%8C%81%E4%B9%90%E8%A7%82-999ea9e8</link>
             <guid isPermaLink="false">WP-WSJS-0003830565</guid>
             <pubDate>Thu, 20 Aug 2026 03:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国拟在美加贸易协议中降低金属与汽车关税]]></title>
-            <description><![CDATA[<img width="1280" height="919" src="https://images.wsj.net/im-22997149?size=1.393&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国正考虑将针对加拿大钢铝关税从50%下调至25%，并将汽车关税的名义税率从25%降至15%。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%9C%A8%E7%BE%8E%E5%8A%A0%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E4%B8%AD%E9%99%8D%E4%BD%8E%E9%87%91%E5%B1%9E%E4%B8%8E%E6%B1%BD%E8%BD%A6%E5%85%B3%E7%A8%8E-da643917</link>
-            <guid isPermaLink="false">WP-WSJS-0003830044</guid>
-            <pubDate>Wed, 19 Aug 2026 23:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国悼念前总理“朱老板”，但须按中共的规矩来]]></title>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:43:42.665028+00:00",
+  "generated_at": "2026-08-20T13:04:05.257924+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -145,7 +145,19 @@
       "image_url": "https://images.wsj.net/im-30974214?size=1.501&width=1280",
       "snapshot": "articles/how-democratic-socialism-caught-fire-in-florida--4feec7df5c8c.html",
       "captured": true,
-      "capture_title": "一位民主社会主义者如何在佛州引爆选情 - WSJ",
+      "capture_title": "一位民主社会主义者如何在佛州引爆选情",
+      "error": ""
+    },
+    {
+      "title": "阿里巴巴大举投资AI之际利润大幅下滑",
+      "summary": "第一财季阿里云的外部商业化收入加速增长至45%，AI相关产品收入已连续第12个季度实现三位数同比增长。",
+      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84ai%E4%B9%8B%E9%99%85%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91-bfc58fc6",
+      "guid": "WP-WSJS-0003831181",
+      "pub_date": "Thu, 20 Aug 2026 11:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-80390380?size=1.501&width=1280",
+      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e5-a4-a7-e4--5ad538984eba.html",
+      "captured": true,
+      "capture_title": "阿里巴巴大举投资AI之际利润大幅下滑 - WSJ",
       "error": ""
     },
     {
@@ -173,18 +185,6 @@
       "error": ""
     },
     {
-      "title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
-      "summary": "塔塔之子公司的高层人事动荡，凸显出印度家族企业巨头在引入职业经理人时面临重重挑战。",
-      "link": "https://cn.wsj.com/articles/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-82249edd",
-      "guid": "WP-WSJS-0003830692",
-      "pub_date": "Thu, 20 Aug 2026 06:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-91000554?size=1.711&width=1280",
-      "snapshot": "articles/asias-businesses-struggle-to-shake-off-the-sway--0fad598a20b0.html",
-      "captured": true,
-      "capture_title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
-      "error": ""
-    },
-    {
       "title": "OpenAI抗衡Anthropic的最新举措：承诺不保留客户数据",
       "summary": "此举意在从竞争对手Anthropic手中抢夺客户，此前Claude开发商保留客户数据的做法已引发部分客户不满。",
       "link": "https://cn.wsj.com/articles/openais-latest-bid-to-fight-anthropic-a-promise-not-to-keep-customer-data-715b0a2f",
@@ -197,6 +197,18 @@
       "error": ""
     },
     {
+      "title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
+      "summary": "塔塔之子公司的高层人事动荡，凸显出印度家族企业巨头在引入职业经理人时面临重重挑战。",
+      "link": "https://cn.wsj.com/articles/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-82249edd",
+      "guid": "WP-WSJS-0003830692",
+      "pub_date": "Thu, 20 Aug 2026 06:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-91000554?size=1.711&width=1280",
+      "snapshot": "articles/asias-businesses-struggle-to-shake-off-the-sway--0fad598a20b0.html",
+      "captured": true,
+      "capture_title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
+      "error": ""
+    },
+    {
       "title": "芯片股涨势遇阻，但一些分析师认为有理由保持乐观",
       "summary": "",
       "link": "https://cn.wsj.com/articles/%E8%8A%AF%E7%89%87%E8%82%A1%E6%B6%A8%E5%8A%BF%E9%81%87%E9%98%BB-%E4%BD%86%E4%B8%80%E4%BA%9B%E5%88%86%E6%9E%90%E5%B8%88%E8%AE%A4%E4%B8%BA%E6%9C%89%E7%90%86%E7%94%B1%E4%BF%9D%E6%8C%81%E4%B9%90%E8%A7%82-999ea9e8",
@@ -206,18 +218,6 @@
       "snapshot": "articles/e8-8a-af-e7-89-87-e8-82-a1-e6-b6-a8-e5-8a-bf-e9--9da5b69bd461.html",
       "captured": true,
       "capture_title": "芯片股涨势遇阻，但一些分析师认为有理由保持乐观",
-      "error": ""
-    },
-    {
-      "title": "美国拟在美加贸易协议中降低金属与汽车关税",
-      "summary": "美国正考虑将针对加拿大钢铝关税从50%下调至25%，并将汽车关税的名义税率从25%降至15%。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%9C%A8%E7%BE%8E%E5%8A%A0%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E4%B8%AD%E9%99%8D%E4%BD%8E%E9%87%91%E5%B1%9E%E4%B8%8E%E6%B1%BD%E8%BD%A6%E5%85%B3%E7%A8%8E-da643917",
-      "guid": "WP-WSJS-0003830044",
-      "pub_date": "Wed, 19 Aug 2026 23:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-22997149?size=1.393&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8b-9f-e5-9c-a8-e7-be-8e-e5--9b828f859ebb.html",
-      "captured": true,
-      "capture_title": "美国拟在美加贸易协议中降低金属与汽车关税",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/how-to-outsmart-ai-when-its-tracking-your-workda-edcbe458ebcb.html",
       "captured": true,
       "capture_title": "当AI监控你的日常工作时，该如何智胜它？",
+      "error": ""
+    },
+    {
+      "title": "美国拟在美加贸易协议中降低金属与汽车关税",
+      "summary": "美国正考虑将针对加拿大钢铝关税从50%下调至25%，并将汽车关税的名义税率从25%降至15%。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%9C%A8%E7%BE%8E%E5%8A%A0%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E4%B8%AD%E9%99%8D%E4%BD%8E%E9%87%91%E5%B1%9E%E4%B8%8E%E6%B1%BD%E8%BD%A6%E5%85%B3%E7%A8%8E-da643917",
+      "guid": "WP-WSJS-0003830044",
+      "pub_date": "Wed, 19 Aug 2026 23:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-22997149?size=1.393&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8b-9f-e5-9c-a8-e7-be-8e-e5--9b828f859ebb.html",
+      "captured": true,
+      "capture_title": "美国拟在美加贸易协议中降低金属与汽车关税",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/u-s-cancels-visa-for-son-of-former-mexican-presi-153b755d8998.html",
       "captured": true,
       "capture_title": "美国撤销墨西哥前总统之子的签证，两国关系趋于紧张 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "英伟达缩减OpenAI数据中心2,500亿美元担保计划",
-      "summary": "英伟达和OpenAI接近达成为俄亥俄州大型数据中心园区提供融资的协议，但知情人士称，双方已重新调整交易结构。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8Fopenai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%832-500%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8B%85%E4%BF%9D%E8%AE%A1%E5%88%92-c3fe30fd",
-      "guid": "WP-WSJS-0003821747",
-      "pub_date": "Sun, 16 Aug 2026 23:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-47127562?size=1.501&width=1280",
-      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e7-bc-a9-e5-87-8fopen-7196ea50db2c.html",
-      "captured": true,
-      "capture_title": "英伟达缩减OpenAI数据中心2,500亿美元担保计划",
       "error": ""
     }
   ]
