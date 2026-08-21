@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:04:20.744780+00:00",
+  "generated_at": "2026-08-21T07:01:57.901765+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -14,6 +14,18 @@
       "snapshot": "articles/evergrande-founder-sentenced-to-life-in-prison-9-f9f398f07db1.html",
       "captured": true,
       "capture_title": "曾象征中国楼市崩盘的恒大创始人许家印被判处无期徒刑",
+      "error": ""
+    },
+    {
+      "title": "香港法院裁定邹幸彤和李卓人煽动颠覆国家政权罪名成立",
+      "summary": "两名活动人士是香港支联会的成员，曾组织大规模纪念1989年天安门广场抗议活动的年度守夜活动。",
+      "link": "https://cn.wsj.com/articles/hong-kong-court-convicts-activists-who-organized-tiananmen-vigils-e6546b92",
+      "guid": "WP-WSJS-0003833793",
+      "pub_date": "Fri, 21 Aug 2026 05:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-81419831?size=1.501&width=1280",
+      "snapshot": "articles/hong-kong-court-convicts-activists-who-organized-94810bf70140.html",
+      "captured": true,
+      "capture_title": "香港法院裁定邹幸彤和李卓人煽动颠覆国家政权罪名成立 - WSJ",
       "error": ""
     },
     {
@@ -41,27 +53,15 @@
       "error": ""
     },
     {
-      "title": "“爱国者”防空导弹供应减少，基辅暴露在炮火之下",
-      "summary": "俄罗斯对基辅发动了大规模导弹和无人机袭击，这是乌克兰首都遭遇的最新一轮猛烈攻势。中东地区的战争已导致“爱国者”拦截导弹供应极其紧张。",
-      "link": "https://cn.wsj.com/articles/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-fb67c2da",
-      "guid": "WP-WSJS-0003833339",
-      "pub_date": "Thu, 20 Aug 2026 23:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-22600708?size=1.5&width=1280",
-      "snapshot": "articles/dwindling-patriot-supplies-leave-kyiv-in-the-lin-b09ae2304730.html",
+      "title": "美国是否仍有能力维护世界秩序？",
+      "summary": "随着伊朗战争消耗着至关重要的拦截导弹库存，美国盟友日益质疑华盛顿多线作战的能力。",
+      "link": "https://cn.wsj.com/articles/us-weapons-stockpile-ef059f94",
+      "guid": "WP-WSJS-0003833778",
+      "pub_date": "Fri, 21 Aug 2026 05:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-68128318?size=1.501&width=1280",
+      "snapshot": "articles/us-weapons-stockpile-ef059f94-87f7ef5b2d1d.html",
       "captured": true,
-      "capture_title": "“爱国者”防空导弹供应减少，基辅暴露在炮火之下",
-      "error": ""
-    },
-    {
-      "title": "特朗普谋求“特金会”，金正恩却并不需要",
-      "summary": "朝鲜在经济与地缘政治层面巩固了自身地位，这可能让美国难以再次促成双边会晤。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%8B%E6%B1%82-%E7%89%B9%E9%87%91%E4%BC%9A-%E9%87%91%E6%AD%A3%E6%81%A9%E5%8D%B4%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81-e715d54d",
-      "guid": "WP-WSJS-0003833270",
-      "pub_date": "Thu, 20 Aug 2026 23:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-72900774?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e8-b0-8b-e6-b1-82--e7-227ff7aeaaef.html",
-      "captured": true,
-      "capture_title": "特朗普谋求“特金会”，金正恩却并不需要",
+      "capture_title": "美国是否仍有能力维护世界秩序？ - WSJ",
       "error": ""
     },
     {
@@ -73,19 +73,19 @@
       "image_url": "https://images.wsj.net/im-61138325?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8e-e5-8f-8d-e7--34cf36de4466.html",
       "captured": true,
-      "capture_title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话 - WSJ",
+      "capture_title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话",
       "error": ""
     },
     {
-      "title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
-      "summary": "在巴拿马接管了长和的港口资产后，长和以违反条约为由对巴拿马提起了仲裁。此举令一场围绕两个战略港口的争端升级，更将其推向中美摩擦的风口浪尖。",
-      "link": "https://cn.wsj.com/articles/%E9%95%BF%E5%92%8C%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%8F%90%E8%B5%B7%E4%BB%B2%E8%A3%81-%E7%B4%A2%E8%B5%94%E9%80%BE15%E4%BA%BF%E7%BE%8E%E5%85%83-b5f80e61",
-      "guid": "WP-WSJS-0003830308",
-      "pub_date": "Thu, 20 Aug 2026 02:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-55202866?size=1.537&width=1280",
-      "snapshot": "articles/e9-95-bf-e5-92-8c-e5-af-b9-e5-b7-b4-e6-8b-bf-e9--cfc9dde058e1.html",
+      "title": "引爆剑桥黑人教授造假风波的争议学者",
+      "summary": "内森·科夫纳斯自称“种族现实主义者”。他表示并不后悔公开对已故学者杰森·阿代的抄袭指控，但他指出，媒体与剑桥校方同样在这场悲剧里辜负了阿代。",
+      "link": "https://cn.wsj.com/articles/the-controversial-academic-who-ignited-the-jason-arday-furor-bbb53304",
+      "guid": "WP-WSJS-0003833814",
+      "pub_date": "Fri, 21 Aug 2026 05:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-59447212?size=1.411&width=1280",
+      "snapshot": "articles/the-controversial-academic-who-ignited-the-jason-7c236a85970f.html",
       "captured": true,
-      "capture_title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
+      "capture_title": "引爆剑桥黑人教授造假风波的争议学者 - WSJ",
       "error": ""
     },
     {
@@ -98,18 +98,6 @@
       "snapshot": "articles/e5-8f-b0-e6-b9-be-e6-8b-9f-e5-87-ba-e5-8f-b0-e5--27f60765e807.html",
       "captured": true,
       "capture_title": "台湾拟出台史上最高国防预算，向美中表明立场 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
-      "summary": "随着民众对AI的愤怒情绪蔓延，得州和宾州等州州长正放缓当地数据中心的开发步伐。而特朗普则坚决为数据中心辩护。",
-      "link": "https://cn.wsj.com/articles/politicians-who-once-championed-data-centers-are-now-bashing-them-e771b988",
-      "guid": "WP-WSJS-0003833674",
-      "pub_date": "Fri, 21 Aug 2026 02:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-71044978?size=1.916&width=1280",
-      "snapshot": "articles/politicians-who-once-championed-data-centers-are-4bea24fce5af.html",
-      "captured": true,
-      "capture_title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰 - WSJ",
       "error": ""
     },
     {
@@ -137,15 +125,27 @@
       "error": ""
     },
     {
-      "title": "打破年龄魔咒：66岁老人重返职场之路",
-      "summary": "在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”",
-      "link": "https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127",
-      "guid": "WP-WSJS-0003833542",
-      "pub_date": "Fri, 21 Aug 2026 01:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/the-66-year-old-who-overcame-the-odds-and-found--454db6a16717.html",
+      "title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
+      "summary": "随着民众对AI的愤怒情绪蔓延，得州和宾州等州州长正放缓当地数据中心的开发步伐。而特朗普则坚决为数据中心辩护。",
+      "link": "https://cn.wsj.com/articles/politicians-who-once-championed-data-centers-are-now-bashing-them-e771b988",
+      "guid": "WP-WSJS-0003833674",
+      "pub_date": "Fri, 21 Aug 2026 02:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-71044978?size=1.916&width=1280",
+      "snapshot": "articles/politicians-who-once-championed-data-centers-are-4bea24fce5af.html",
       "captured": true,
-      "capture_title": "打破年龄魔咒：66岁老人重返职场之路",
+      "capture_title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
+      "error": ""
+    },
+    {
+      "title": "哈里与梅根的美国梦终结",
+      "summary": "在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。",
+      "link": "https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E4%B8%8E%E6%A2%85%E6%A0%B9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%BB%88%E7%BB%93-507ec1b1",
+      "guid": "WP-WSJS-0003833543",
+      "pub_date": "Fri, 21 Aug 2026 01:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-52979687?size=1&width=1280",
+      "snapshot": "articles/e5-93-88-e9-87-8c-e4-b8-8e-e6-a2-85-e6-a0-b9-e7--6d0e836a3622.html",
+      "captured": true,
+      "capture_title": "哈里与梅根的美国梦终结",
       "error": ""
     },
     {
@@ -157,19 +157,31 @@
       "image_url": "https://images.wsj.net/im-18972705?size=1.501&width=1280",
       "snapshot": "articles/inside-the-collapse-of-a-maga-marketplace-backed-a7e255d7af90.html",
       "captured": true,
-      "capture_title": "小特朗普曾力挺的MAGA电商平台崩盘内幕 - WSJ",
+      "capture_title": "小特朗普曾力挺的MAGA电商平台崩盘内幕",
       "error": ""
     },
     {
-      "title": "沃尔玛股价重挫，销售增速创逾六年新低",
-      "summary": "沃尔玛公布了六年多来最小的销售增幅，原因是部分美国消费者持续支出谨慎。其销售增长的驱动力正从核心门店，转向电商、会员和广告销售等新渠道。",
-      "link": "https://cn.wsj.com/articles/warlmart-earnings-q2-2026-wmt-stock-67e00d9b",
-      "guid": "WP-WSJS-0003833284",
-      "pub_date": "Thu, 20 Aug 2026 23:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-41683825?size=1.501&width=1280",
-      "snapshot": "articles/warlmart-earnings-q2-2026-wmt-stock-67e00d9b-fadddf40c692.html",
+      "title": "通用汽车曾称霸美国市场百年，如今丰田正步步紧逼",
+      "summary": "在丰田全力冲刺销量之际，通用汽车却选择了另一条路：宁可少卖些车，也要把利润做高。",
+      "link": "https://cn.wsj.com/articles/us-auto-sales-general-motors-toyota-5497d1c6",
+      "guid": "WP-WSJS-0003833747",
+      "pub_date": "Fri, 21 Aug 2026 04:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-08980203?size=1.501&width=1280",
+      "snapshot": "articles/us-auto-sales-general-motors-toyota-5497d1c6-683f054e3c56.html",
       "captured": true,
-      "capture_title": "沃尔玛股价重挫，销售增速创逾六年新低 - WSJ",
+      "capture_title": "通用汽车曾称霸美国市场百年，如今丰田正步步紧逼 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
+      "summary": "在巴拿马接管了长和的港口资产后，长和以违反条约为由对巴拿马提起了仲裁。此举令一场围绕两个战略港口的争端升级，更将其推向中美摩擦的风口浪尖。",
+      "link": "https://cn.wsj.com/articles/%E9%95%BF%E5%92%8C%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%8F%90%E8%B5%B7%E4%BB%B2%E8%A3%81-%E7%B4%A2%E8%B5%94%E9%80%BE15%E4%BA%BF%E7%BE%8E%E5%85%83-b5f80e61",
+      "guid": "WP-WSJS-0003830308",
+      "pub_date": "Thu, 20 Aug 2026 02:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-55202866?size=1.537&width=1280",
+      "snapshot": "articles/e9-95-bf-e5-92-8c-e5-af-b9-e5-b7-b4-e6-8b-bf-e9--cfc9dde058e1.html",
+      "captured": true,
+      "capture_title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
       "error": ""
     },
     {
@@ -181,19 +193,19 @@
       "image_url": "https://images.wsj.net/im-84762937?size=1.531&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-ac-b2-e9-87-8d-e5--cbc2df955163.html",
       "captured": true,
-      "capture_title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算 - WSJ",
+      "capture_title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算",
       "error": ""
     },
     {
-      "title": "阿里巴巴大举投资AI之际利润大幅下滑",
-      "summary": "第一财季阿里云的外部商业化收入加速增长至45%，AI相关产品收入已连续第12个季度实现三位数同比增长。",
-      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84ai%E4%B9%8B%E9%99%85%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91-bfc58fc6",
-      "guid": "WP-WSJS-0003831181",
-      "pub_date": "Thu, 20 Aug 2026 11:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-80390380?size=1.501&width=1280",
-      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e5-a4-a7-e4--5ad538984eba.html",
+      "title": "现代汽车工会发起十年来首次全天罢工",
+      "summary": "数万名工人在周五放下工具，停止工作。韩联社估计，今年罢工造成的生产中断可能使该汽车制造商总计损失约16.5亿美元。",
+      "link": "https://cn.wsj.com/articles/hyundais-union-launches-first-full-day-strike-in-decade-6a77884d",
+      "guid": "WP-WSJS-0003833884",
+      "pub_date": "Fri, 21 Aug 2026 06:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-06467948?size=1.501&width=1280",
+      "snapshot": "articles/hyundais-union-launches-first-full-day-strike-in-db676718d467.html",
       "captured": true,
-      "capture_title": "阿里巴巴大举投资AI之际利润大幅下滑 - WSJ",
+      "capture_title": "现代汽车工会发起十年来首次全天罢工 - WSJ",
       "error": ""
     },
     {
@@ -209,15 +221,15 @@
       "error": ""
     },
     {
-      "title": "黑色素瘤mRNA疫苗试验成功，莫德纳股价翻倍",
-      "summary": "这一结果标志着个性化mRNA癌症疗法首次在后期试验中取得成功，印证了数十年来针对患者个体量身定制疗法研究的有效性。",
-      "link": "https://cn.wsj.com/articles/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-d3d2753c",
-      "guid": "WP-WSJS-0003830048",
-      "pub_date": "Thu, 20 Aug 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-44522727?size=1.433&width=1280",
-      "snapshot": "articles/moderna-merck-vaccine-succeeds-in-preventing-mel-1d47c3defdd1.html",
+      "title": "这家庞大的中国炼油厂如何成为伊朗资金生命线",
+      "summary": "恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。",
+      "link": "https://cn.wsj.com/articles/%E8%BF%99%E5%AE%B6%E5%BA%9E%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%8E%82%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%8A%E6%9C%97%E8%B5%84%E9%87%91%E7%94%9F%E5%91%BD%E7%BA%BF-e3fe2979",
+      "guid": "WP-WSJS-0003822384",
+      "pub_date": "Mon, 17 Aug 2026 10:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-12940852?size=1.78&width=1280",
+      "snapshot": "articles/e8-bf-99-e5-ae-b6-e5-ba-9e-e5-a4-a7-e7-9a-84-e4--2faddc370eee.html",
       "captured": true,
-      "capture_title": "黑色素瘤mRNA疫苗试验成功，莫德纳股价翻倍",
+      "capture_title": "这家庞大的中国炼油厂如何成为伊朗资金生命线",
       "error": ""
     },
     {
@@ -245,27 +257,15 @@
       "error": ""
     },
     {
-      "title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
-      "summary": "塔塔之子公司的高层人事动荡，凸显出印度家族企业巨头在引入职业经理人时面临重重挑战。",
-      "link": "https://cn.wsj.com/articles/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-82249edd",
-      "guid": "WP-WSJS-0003830692",
-      "pub_date": "Thu, 20 Aug 2026 06:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-91000554?size=1.711&width=1280",
-      "snapshot": "articles/asias-businesses-struggle-to-shake-off-the-sway--0fad598a20b0.html",
+      "title": "打破年龄魔咒：66岁老人重返职场之路",
+      "summary": "在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”",
+      "link": "https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127",
+      "guid": "WP-WSJS-0003833542",
+      "pub_date": "Fri, 21 Aug 2026 01:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/the-66-year-old-who-overcame-the-odds-and-found--454db6a16717.html",
       "captured": true,
-      "capture_title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
-      "error": ""
-    },
-    {
-      "title": "当AI监控你的日常工作时，该如何智胜它？",
-      "summary": "如何在AI生产力追踪系统眼中，看起来像一名好员工？本文提供了一些建议。",
-      "link": "https://cn.wsj.com/articles/how-to-outsmart-ai-when-its-tracking-your-workday-fdf26cec",
-      "guid": "WP-WSJS-0003830525",
-      "pub_date": "Thu, 20 Aug 2026 02:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-49329800?size=1.5&width=1280",
-      "snapshot": "articles/how-to-outsmart-ai-when-its-tracking-your-workda-edcbe458ebcb.html",
-      "captured": true,
-      "capture_title": "当AI监控你的日常工作时，该如何智胜它？",
+      "capture_title": "打破年龄魔咒：66岁老人重返职场之路",
       "error": ""
     },
     {
@@ -281,6 +281,102 @@
       "error": ""
     },
     {
+      "title": "当AI监控你的日常工作时，该如何智胜它？",
+      "summary": "如何在AI生产力追踪系统眼中，看起来像一名好员工？本文提供了一些建议。",
+      "link": "https://cn.wsj.com/articles/how-to-outsmart-ai-when-its-tracking-your-workday-fdf26cec",
+      "guid": "WP-WSJS-0003830525",
+      "pub_date": "Thu, 20 Aug 2026 02:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-49329800?size=1.5&width=1280",
+      "snapshot": "articles/how-to-outsmart-ai-when-its-tracking-your-workda-edcbe458ebcb.html",
+      "captured": true,
+      "capture_title": "当AI监控你的日常工作时，该如何智胜它？",
+      "error": ""
+    },
+    {
+      "title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
+      "summary": "对于上班时该穿什么、不该穿什么，每个人都有自己的一套标准。来看看你个人的职场着装标准与《华尔街日报》的其他读者有何异同。",
+      "link": "https://cn.wsj.com/articles/%E4%BD%A0%E8%A7%89%E5%BE%97%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%A9%BF%E4%BB%80%E4%B9%88%E6%89%8D%E5%90%88%E9%80%82-%E6%9D%A5%E5%81%9A%E5%81%9A%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95%E5%90%A7-048c31b7",
+      "guid": "WP-WSJS-0003833872",
+      "pub_date": "Fri, 21 Aug 2026 06:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-93255237?size=1.5&width=1280",
+      "snapshot": "articles/e4-bd-a0-e8-a7-89-e5-be-97-e5-9c-a8-e5-8a-9e-e5--b5fd5680203c.html",
+      "captured": true,
+      "capture_title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "“爱国者”防空导弹供应减少，基辅暴露在炮火之下",
+      "summary": "俄罗斯对基辅发动了大规模导弹和无人机袭击，这是乌克兰首都遭遇的最新一轮猛烈攻势。中东地区的战争已导致“爱国者”拦截导弹供应极其紧张。",
+      "link": "https://cn.wsj.com/articles/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-fb67c2da",
+      "guid": "WP-WSJS-0003833339",
+      "pub_date": "Thu, 20 Aug 2026 23:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-22600708?size=1.5&width=1280",
+      "snapshot": "articles/dwindling-patriot-supplies-leave-kyiv-in-the-lin-b09ae2304730.html",
+      "captured": true,
+      "capture_title": "“爱国者”防空导弹供应减少，基辅暴露在炮火之下",
+      "error": ""
+    },
+    {
+      "title": "特朗普谋求“特金会”，金正恩却并不需要",
+      "summary": "朝鲜在经济与地缘政治层面巩固了自身地位，这可能让美国难以再次促成双边会晤。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%8B%E6%B1%82-%E7%89%B9%E9%87%91%E4%BC%9A-%E9%87%91%E6%AD%A3%E6%81%A9%E5%8D%B4%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81-e715d54d",
+      "guid": "WP-WSJS-0003833270",
+      "pub_date": "Thu, 20 Aug 2026 23:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-72900774?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e8-b0-8b-e6-b1-82--e7-227ff7aeaaef.html",
+      "captured": true,
+      "capture_title": "特朗普谋求“特金会”，金正恩却并不需要",
+      "error": ""
+    },
+    {
+      "title": "沃尔玛股价重挫，销售增速创逾六年新低",
+      "summary": "沃尔玛公布了六年多来最小的销售增幅，原因是部分美国消费者持续支出谨慎。其销售增长的驱动力正从核心门店，转向电商、会员和广告销售等新渠道。",
+      "link": "https://cn.wsj.com/articles/warlmart-earnings-q2-2026-wmt-stock-67e00d9b",
+      "guid": "WP-WSJS-0003833284",
+      "pub_date": "Thu, 20 Aug 2026 23:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-41683825?size=1.501&width=1280",
+      "snapshot": "articles/warlmart-earnings-q2-2026-wmt-stock-67e00d9b-fadddf40c692.html",
+      "captured": true,
+      "capture_title": "沃尔玛股价重挫，销售增速创逾六年新低 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "阿里巴巴大举投资AI之际利润大幅下滑",
+      "summary": "第一财季阿里云的外部商业化收入加速增长至45%，AI相关产品收入已连续第12个季度实现三位数同比增长。",
+      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84ai%E4%B9%8B%E9%99%85%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91-bfc58fc6",
+      "guid": "WP-WSJS-0003831181",
+      "pub_date": "Thu, 20 Aug 2026 11:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-80390380?size=1.501&width=1280",
+      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e5-a4-a7-e4--5ad538984eba.html",
+      "captured": true,
+      "capture_title": "阿里巴巴大举投资AI之际利润大幅下滑 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "黑色素瘤mRNA疫苗试验成功，莫德纳股价翻倍",
+      "summary": "这一结果标志着个性化mRNA癌症疗法首次在后期试验中取得成功，印证了数十年来针对患者个体量身定制疗法研究的有效性。",
+      "link": "https://cn.wsj.com/articles/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-d3d2753c",
+      "guid": "WP-WSJS-0003830048",
+      "pub_date": "Thu, 20 Aug 2026 00:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-44522727?size=1.433&width=1280",
+      "snapshot": "articles/moderna-merck-vaccine-succeeds-in-preventing-mel-1d47c3defdd1.html",
+      "captured": true,
+      "capture_title": "黑色素瘤mRNA疫苗试验成功，莫德纳股价翻倍",
+      "error": ""
+    },
+    {
+      "title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
+      "summary": "塔塔之子公司的高层人事动荡，凸显出印度家族企业巨头在引入职业经理人时面临重重挑战。",
+      "link": "https://cn.wsj.com/articles/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-82249edd",
+      "guid": "WP-WSJS-0003830692",
+      "pub_date": "Thu, 20 Aug 2026 06:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-91000554?size=1.711&width=1280",
+      "snapshot": "articles/asias-businesses-struggle-to-shake-off-the-sway--0fad598a20b0.html",
+      "captured": true,
+      "capture_title": "塔塔换帅风波凸显亚洲企业难摆脱创始家族影响",
+      "error": ""
+    },
+    {
       "title": "有钱有闲能折腾：美国老年人正推动全球旅游热潮",
       "summary": "随着“婴儿潮”一代纷纷踏上旅途，旅游业也随之调整，推出更优质的住宿、更轻松的徒步路线和行李寄送服务。",
       "link": "https://cn.wsj.com/articles/%E6%9C%89%E9%92%B1%E6%9C%89%E9%97%B2%E8%83%BD%E6%8A%98%E8%85%BE-%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B9%B4%E4%BA%BA%E6%AD%A3%E6%8E%A8%E5%8A%A8%E5%85%A8%E7%90%83%E6%97%85%E6%B8%B8%E7%83%AD%E6%BD%AE-5ad3319a",
@@ -290,18 +386,6 @@
       "snapshot": "articles/e6-9c-89-e9-92-b1-e6-9c-89-e9-97-b2-e8-83-bd-e6--52bc18338cb5.html",
       "captured": true,
       "capture_title": "有钱有闲能折腾：美国老年人正推动全球旅游热潮",
-      "error": ""
-    },
-    {
-      "title": "哈里与梅根的美国梦终结",
-      "summary": "在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。",
-      "link": "https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E4%B8%8E%E6%A2%85%E6%A0%B9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%BB%88%E7%BB%93-507ec1b1",
-      "guid": "WP-WSJS-0003833543",
-      "pub_date": "Fri, 21 Aug 2026 01:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-52979687?size=1&width=1280",
-      "snapshot": "articles/e5-93-88-e9-87-8c-e4-b8-8e-e6-a2-85-e6-a0-b9-e7--6d0e836a3622.html",
-      "captured": true,
-      "capture_title": "哈里与梅根的美国梦终结",
       "error": ""
     },
     {
@@ -602,18 +686,6 @@
       "snapshot": "articles/packaged-food-weight-loss-drugs-50587d2f-c53622e7a995.html",
       "captured": true,
       "capture_title": "减肥神药时代，食品巨头打响“味蕾保卫战”",
-      "error": ""
-    },
-    {
-      "title": "这家庞大的中国炼油厂如何成为伊朗资金生命线",
-      "summary": "恒力的名字可能并不为行外人所熟知，但它已成为中国工业巨头，年收入超过特斯拉和波音。在陈建华的手中，该公司从一家小型纺织厂转身变成中国第三大民营企业。",
-      "link": "https://cn.wsj.com/articles/%E8%BF%99%E5%AE%B6%E5%BA%9E%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%8E%82%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%8A%E6%9C%97%E8%B5%84%E9%87%91%E7%94%9F%E5%91%BD%E7%BA%BF-e3fe2979",
-      "guid": "WP-WSJS-0003822384",
-      "pub_date": "Mon, 17 Aug 2026 10:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-12940852?size=1.78&width=1280",
-      "snapshot": "articles/e8-bf-99-e5-ae-b6-e5-ba-9e-e5-a4-a7-e7-9a-84-e4--2faddc370eee.html",
-      "captured": true,
-      "capture_title": "这家庞大的中国炼油厂如何成为伊朗资金生命线",
       "error": ""
     },
     {
@@ -1130,78 +1202,6 @@
       "snapshot": "articles/luigi-mangiones-state-murder-trial-delayed-after-10158b5c8220.html",
       "captured": true,
       "capture_title": "路易吉·曼吉奥内在联邦法院认罪后，州级谋杀案审判延期 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "阿里巴巴将以至少15亿美元出售游戏业务",
-      "summary": "一份内部通知显示，阿里巴巴已达成协议，将灵犀互娱出售给亚洲私募股权投资公司信宸资本。",
-      "link": "https://cn.wsj.com/articles/alibaba-to-sell-videogame-business-for-at-least-1-5-billion-c1c0d22a",
-      "guid": "WP-WSJS-0003822102",
-      "pub_date": "Mon, 17 Aug 2026 06:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-56528398?size=1.501&width=1280",
-      "snapshot": "articles/alibaba-to-sell-videogame-business-for-at-least--f7d8b9148c6f.html",
-      "captured": true,
-      "capture_title": "阿里巴巴将以至少15亿美元出售游戏业务",
-      "error": ""
-    },
-    {
-      "title": "派拉蒙要求挑战华纳交易的各州及编剧工会提供18.8亿美元保证金",
-      "summary": "派拉蒙的动议称，原告试图通过诉讼阻止这笔810亿美元交易，因此应对派拉蒙在诉讼期间遭受的损失承担财务责任。",
-      "link": "https://cn.wsj.com/articles/paramount-wants-states-writers-challenging-warner-deal-to-post-1-88-billion-bond-947c8511",
-      "guid": "WP-WSJS-0003823955",
-      "pub_date": "Mon, 17 Aug 2026 23:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-29779216?size=1.501&width=1280",
-      "snapshot": "articles/paramount-wants-states-writers-challenging-warne-ccb65f70d9e4.html",
-      "captured": true,
-      "capture_title": "派拉蒙要求挑战华纳交易的各州及编剧工会提供18.8亿美元保证金 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "盘点重塑俄乌战争的战场创新技术",
-      "summary": "战场创新技术帮助乌克兰在战场上取得了一定优势。",
-      "link": "https://cn.wsj.com/articles/%E7%9B%98%E7%82%B9%E9%87%8D%E5%A1%91%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E5%9C%BA%E5%88%9B%E6%96%B0%E6%8A%80%E6%9C%AF-7a04be83",
-      "guid": "WP-WSJS-0003817365",
-      "pub_date": "Fri, 14 Aug 2026 08:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-16459452?size=1.84&width=1280",
-      "snapshot": "articles/e7-9b-98-e7-82-b9-e9-87-8d-e5-a1-91-e4-bf-84-e4--f0fa6dd79117.html",
-      "captured": true,
-      "capture_title": "盘点重塑俄乌战争的战场创新技术",
-      "error": ""
-    },
-    {
-      "title": "伊朗战争现状：经济施压下的“胆小鬼博弈”",
-      "summary": "特朗普加大施压，实施更多制裁和封锁，而德黑兰则押注高油价将迫使华盛顿让步。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%8E%B0%E7%8A%B6-%E7%BB%8F%E6%B5%8E%E6%96%BD%E5%8E%8B%E4%B8%8B%E7%9A%84-%E8%83%86%E5%B0%8F%E9%AC%BC%E5%8D%9A%E5%BC%88-477d1cff",
-      "guid": "WP-WSJS-0003822015",
-      "pub_date": "Mon, 17 Aug 2026 03:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-85441217?size=1.501&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e7-8e-b0-e7--5adfb67f0c84.html",
-      "captured": true,
-      "capture_title": "伊朗战争现状：经济施压下的“胆小鬼博弈”",
-      "error": ""
-    },
-    {
-      "title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注",
-      "summary": "在库珀视察林肯号之际，有报道称，在长达九个月未靠港休整后，该舰生活条件恶劣。 库珀说。“历史将把这次部署记录为现代作战强度最大、影响最深远的部署之一。”",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%8C%87%E6%8C%A5%E5%AE%98%E8%A7%86%E5%AF%9F%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D-%E6%AD%A4%E5%89%8D%E8%88%B0%E4%B8%8A%E7%94%9F%E6%B4%BB%E6%9D%A1%E4%BB%B6%E5%BC%95%E5%85%B3%E6%B3%A8-4a601c35",
-      "guid": "WP-WSJS-0003822040",
-      "pub_date": "Mon, 17 Aug 2026 04:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-37150253?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-86-9b-e4-bc-8a-e6-9c-97-e6-88-98-e4--48df2da93ad9.html",
-      "captured": true,
-      "capture_title": "美军伊朗战争指挥官视察林肯号航母，此前舰上生活条件引关注",
-      "error": ""
-    },
-    {
-      "title": "白宫称中国通过转运商品规避数百亿美元关税",
-      "summary": "白宫报告称，非法转运导致美国每年损失约190亿至260亿美元的关税收入，并指出包括加拿大和欧盟在内的盟友为这种规避行为提供了便利。",
-      "link": "https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E8%BD%AC%E8%BF%90%E5%95%86%E5%93%81%E8%A7%84%E9%81%BF%E6%95%B0%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E-97ea6704",
-      "guid": "WP-WSJS-0003817563",
-      "pub_date": "Fri, 14 Aug 2026 10:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-52323305?size=1.501&width=1280",
-      "snapshot": "articles/e7-99-bd-e5-ae-ab-e7-a7-b0-e4-b8-ad-e5-9b-bd-e9--516b2746f574.html",
-      "captured": true,
-      "capture_title": "白宫称中国通过转运商品规避数百亿美元关税",
       "error": ""
     }
   ]
