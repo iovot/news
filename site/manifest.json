@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:47:06.576495+00:00",
+  "generated_at": "2026-08-21T04:04:20.744780+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-77552859?size=1.5&width=1280",
       "snapshot": "articles/evergrande-founder-sentenced-to-life-in-prison-9-f9f398f07db1.html",
       "captured": true,
-      "capture_title": "曾象征中国楼市崩盘的恒大创始人许家印被判处无期徒刑 - WSJ",
+      "capture_title": "曾象征中国楼市崩盘的恒大创始人许家印被判处无期徒刑",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.mktw.net/im-78047669?size=1.5&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e8-b4-a2-e6-94-bf-e9-83-a8-e6--5fe17ebda817.html",
       "captured": true,
-      "capture_title": "美国财政部最新国债回购计划最大输家：美元 - WSJ",
+      "capture_title": "美国财政部最新国债回购计划最大输家：美元",
       "error": ""
     },
     {
@@ -41,18 +41,6 @@
       "error": ""
     },
     {
-      "title": "美股下跌，美债收益率回升",
-      "summary": "美国三大股指周四均下跌，长期美国国债收益率抹去了周三的大部分跌幅。同时沃尔玛疲软业绩引发市场对美国消费者财务状况的新一轮担忧。",
-      "link": "https://cn.wsj.com/articles/u-s-stocks-slide-as-bond-yields-rebound-walmart-disappoints-e15dc34e",
-      "guid": "WP-WSJS-0003833393",
-      "pub_date": "Thu, 20 Aug 2026 23:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-02447115?size=1.501&width=1280",
-      "snapshot": "articles/u-s-stocks-slide-as-bond-yields-rebound-walmart--868483ce06a4.html",
-      "captured": true,
-      "capture_title": "美股下跌，美债收益率回升 - WSJ",
-      "error": ""
-    },
-    {
       "title": "“爱国者”防空导弹供应减少，基辅暴露在炮火之下",
       "summary": "俄罗斯对基辅发动了大规模导弹和无人机袭击，这是乌克兰首都遭遇的最新一轮猛烈攻势。中东地区的战争已导致“爱国者”拦截导弹供应极其紧张。",
       "link": "https://cn.wsj.com/articles/dwindling-patriot-supplies-leave-kyiv-in-the-line-of-fire-fb67c2da",
@@ -61,43 +49,7 @@
       "image_url": "https://images.wsj.net/im-22600708?size=1.5&width=1280",
       "snapshot": "articles/dwindling-patriot-supplies-leave-kyiv-in-the-lin-b09ae2304730.html",
       "captured": true,
-      "capture_title": "“爱国者”防空导弹供应减少，基辅暴露在炮火之下 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普威胁对伊朗发起“经济决战日”行动",
-      "summary": "随着伊朗战争临近半年节点，特朗普称将对伊朗发起史无前例的“毁灭性经济行动”。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7-%E7%BB%8F%E6%B5%8E%E5%86%B3%E6%88%98%E6%97%A5-%E8%A1%8C%E5%8A%A8-1de60d8c",
-      "guid": "WP-WSJS-0003830391",
-      "pub_date": "Thu, 20 Aug 2026 23:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-37455731?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-a8-81-e8-83-81-e5--e8e7ae434a4a.html",
-      "captured": true,
-      "capture_title": "特朗普威胁对伊朗发起“经济决战日”行动",
-      "error": ""
-    },
-    {
-      "title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
-      "summary": "总统行政助理娜塔莉·哈普已成为美国政坛左右两派都极度关注的人物。只要在恰当的时机给哈普发条短信，就能打通接触特朗普的渠道。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%A2%E5%BD%B1%E4%B8%8D%E7%A6%BB%E7%9A%84%E5%A5%B3%E5%8A%A9%E6%89%8B%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%88%E8%B5%84-c321e846",
-      "guid": "WP-WSJS-0003827522",
-      "pub_date": "Wed, 19 Aug 2026 04:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-74597637?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-8e-e7-89-b9-e6-9c-97-e6-99-ae-e5-bd-a2-e5--35eb4d17c3ed.html",
-      "captured": true,
-      "capture_title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
-      "error": ""
-    },
-    {
-      "title": "台湾拟出台史上最高国防预算，向美中表明立场",
-      "summary": "拟议的国防预算较去年大增18%，首次突破具有象征意义的新台币1万亿元大关。",
-      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E6%8B%9F%E5%87%BA%E5%8F%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97-%E5%90%91%E7%BE%8E%E4%B8%AD%E8%A1%A8%E6%98%8E%E7%AB%8B%E5%9C%BA-3d14cd9a",
-      "guid": "WP-WSJS-0003830842",
-      "pub_date": "Thu, 20 Aug 2026 08:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-38997217?size=1.499&width=1280",
-      "snapshot": "articles/e5-8f-b0-e6-b9-be-e6-8b-9f-e5-87-ba-e5-8f-b0-e5--27f60765e807.html",
-      "captured": true,
-      "capture_title": "台湾拟出台史上最高国防预算，向美中表明立场 - WSJ",
+      "capture_title": "“爱国者”防空导弹供应减少，基辅暴露在炮火之下",
       "error": ""
     },
     {
@@ -109,55 +61,19 @@
       "image_url": "https://images.wsj.net/im-72900774?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e8-b0-8b-e6-b1-82--e7-227ff7aeaaef.html",
       "captured": true,
-      "capture_title": "特朗普谋求“特金会”，金正恩却并不需要 - WSJ",
+      "capture_title": "特朗普谋求“特金会”，金正恩却并不需要",
       "error": ""
     },
     {
-      "title": "美国员工医保支出攀升，明年情况将更糟",
-      "summary": "到2027年，雇主面临的医疗保险成本增幅恐创下至少20年来的最高纪录。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%91%98%E5%B7%A5%E5%8C%BB%E4%BF%9D%E6%94%AF%E5%87%BA%E6%94%80%E5%8D%87-%E6%98%8E%E5%B9%B4%E6%83%85%E5%86%B5%E5%B0%86%E6%9B%B4%E7%B3%9F-c2c53eef",
-      "guid": "WP-WSJS-0003833411",
-      "pub_date": "Fri, 21 Aug 2026 00:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-44340274?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-91-98-e5-b7-a5-e5-8c-bb-e4--b044470ba29e.html",
+      "title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话",
+      "summary": "科恩曾是特朗普忠心耿耿的“平事者”，后来一度变成势如水火的死敌，如今却又邀请这位老上司做客自己的广播节目。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87%E7%9A%84-%E5%B9%B3%E4%BA%8B%E8%80%85-%E8%BF%88%E5%85%8B%E5%B0%94-%E7%A7%91%E6%81%A9%E7%A0%B4%E5%86%B0%E5%AF%B9%E8%AF%9D-15a82b88",
+      "guid": "WP-WSJS-0003833585",
+      "pub_date": "Fri, 21 Aug 2026 01:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-61138325?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8e-e5-8f-8d-e7--34cf36de4466.html",
       "captured": true,
-      "capture_title": "美国员工医保支出攀升，明年情况将更糟 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "哈里与梅根的美国梦终结",
-      "summary": "在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。",
-      "link": "https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E4%B8%8E%E6%A2%85%E6%A0%B9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%BB%88%E7%BB%93-507ec1b1",
-      "guid": "WP-WSJS-0003833543",
-      "pub_date": "Fri, 21 Aug 2026 01:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-52979687?size=1&width=1280",
-      "snapshot": "articles/e5-93-88-e9-87-8c-e4-b8-8e-e6-a2-85-e6-a0-b9-e7--6d0e836a3622.html",
-      "captured": true,
-      "capture_title": "哈里与梅根的美国梦终结 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "打破年龄魔咒：66岁老人重返职场之路",
-      "summary": "在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”",
-      "link": "https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127",
-      "guid": "WP-WSJS-0003833542",
-      "pub_date": "Fri, 21 Aug 2026 01:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/the-66-year-old-who-overcame-the-odds-and-found--454db6a16717.html",
-      "captured": true,
-      "capture_title": "打破年龄魔咒：66岁老人重返职场之路 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "阿里巴巴大举投资AI之际利润大幅下滑",
-      "summary": "第一财季阿里云的外部商业化收入加速增长至45%，AI相关产品收入已连续第12个季度实现三位数同比增长。",
-      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84ai%E4%B9%8B%E9%99%85%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91-bfc58fc6",
-      "guid": "WP-WSJS-0003831181",
-      "pub_date": "Thu, 20 Aug 2026 11:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-80390380?size=1.501&width=1280",
-      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e5-a4-a7-e4--5ad538984eba.html",
-      "captured": true,
-      "capture_title": "阿里巴巴大举投资AI之际利润大幅下滑 - WSJ",
+      "capture_title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话 - WSJ",
       "error": ""
     },
     {
@@ -173,6 +89,114 @@
       "error": ""
     },
     {
+      "title": "台湾拟出台史上最高国防预算，向美中表明立场",
+      "summary": "拟议的国防预算较去年大增18%，首次突破具有象征意义的新台币1万亿元大关。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E6%8B%9F%E5%87%BA%E5%8F%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97-%E5%90%91%E7%BE%8E%E4%B8%AD%E8%A1%A8%E6%98%8E%E7%AB%8B%E5%9C%BA-3d14cd9a",
+      "guid": "WP-WSJS-0003830842",
+      "pub_date": "Thu, 20 Aug 2026 08:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-38997217?size=1.499&width=1280",
+      "snapshot": "articles/e5-8f-b0-e6-b9-be-e6-8b-9f-e5-87-ba-e5-8f-b0-e5--27f60765e807.html",
+      "captured": true,
+      "capture_title": "台湾拟出台史上最高国防预算，向美中表明立场 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
+      "summary": "随着民众对AI的愤怒情绪蔓延，得州和宾州等州州长正放缓当地数据中心的开发步伐。而特朗普则坚决为数据中心辩护。",
+      "link": "https://cn.wsj.com/articles/politicians-who-once-championed-data-centers-are-now-bashing-them-e771b988",
+      "guid": "WP-WSJS-0003833674",
+      "pub_date": "Fri, 21 Aug 2026 02:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-71044978?size=1.916&width=1280",
+      "snapshot": "articles/politicians-who-once-championed-data-centers-are-4bea24fce5af.html",
+      "captured": true,
+      "capture_title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "图解美国高校如何加速冲向招生断崖",
+      "summary": "美国高等教育正撞上人口断崖。多年增长之后，18岁适龄学生的生源正在减少，原因是出生率下降。",
+      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E7%BE%8E%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%A6%82%E4%BD%95%E5%8A%A0%E9%80%9F%E5%86%B2%E5%90%91%E6%8B%9B%E7%94%9F%E6%96%AD%E5%B4%96-78b32ad9",
+      "guid": "WP-WSJS-0003833377",
+      "pub_date": "Fri, 21 Aug 2026 00:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-64532115?size=1.499&width=1280",
+      "snapshot": "articles/e5-9b-be-e8-a7-a3-e7-be-8e-e5-9b-bd-e9-ab-98-e6--fd76089ebb11.html",
+      "captured": true,
+      "capture_title": "图解美国高校如何加速冲向招生断崖",
+      "error": ""
+    },
+    {
+      "title": "美国员工医保支出攀升，明年情况将更糟",
+      "summary": "到2027年，雇主面临的医疗保险成本增幅恐创下至少20年来的最高纪录。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%91%98%E5%B7%A5%E5%8C%BB%E4%BF%9D%E6%94%AF%E5%87%BA%E6%94%80%E5%8D%87-%E6%98%8E%E5%B9%B4%E6%83%85%E5%86%B5%E5%B0%86%E6%9B%B4%E7%B3%9F-c2c53eef",
+      "guid": "WP-WSJS-0003833411",
+      "pub_date": "Fri, 21 Aug 2026 00:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-08487213?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-91-98-e5-b7-a5-e5-8c-bb-e4--b044470ba29e.html",
+      "captured": true,
+      "capture_title": "美国员工医保支出攀升，明年情况将更糟",
+      "error": ""
+    },
+    {
+      "title": "打破年龄魔咒：66岁老人重返职场之路",
+      "summary": "在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”",
+      "link": "https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127",
+      "guid": "WP-WSJS-0003833542",
+      "pub_date": "Fri, 21 Aug 2026 01:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/the-66-year-old-who-overcame-the-odds-and-found--454db6a16717.html",
+      "captured": true,
+      "capture_title": "打破年龄魔咒：66岁老人重返职场之路",
+      "error": ""
+    },
+    {
+      "title": "小特朗普曾力挺的MAGA电商平台崩盘内幕",
+      "summary": "“反觉醒”电商平台的PublicSquare上市以来累计亏损近1.6亿美元，股价暴跌99%。自2024年起，该公司每月向小特朗普支付4.2万美元的咨询费。",
+      "link": "https://cn.wsj.com/articles/inside-the-collapse-of-a-maga-marketplace-backed-by-trump-jr-e25ac3c8",
+      "guid": "WP-WSJS-0003833570",
+      "pub_date": "Fri, 21 Aug 2026 01:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-18972705?size=1.501&width=1280",
+      "snapshot": "articles/inside-the-collapse-of-a-maga-marketplace-backed-a7e255d7af90.html",
+      "captured": true,
+      "capture_title": "小特朗普曾力挺的MAGA电商平台崩盘内幕 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "沃尔玛股价重挫，销售增速创逾六年新低",
+      "summary": "沃尔玛公布了六年多来最小的销售增幅，原因是部分美国消费者持续支出谨慎。其销售增长的驱动力正从核心门店，转向电商、会员和广告销售等新渠道。",
+      "link": "https://cn.wsj.com/articles/warlmart-earnings-q2-2026-wmt-stock-67e00d9b",
+      "guid": "WP-WSJS-0003833284",
+      "pub_date": "Thu, 20 Aug 2026 23:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-41683825?size=1.501&width=1280",
+      "snapshot": "articles/warlmart-earnings-q2-2026-wmt-stock-67e00d9b-fadddf40c692.html",
+      "captured": true,
+      "capture_title": "沃尔玛股价重挫，销售增速创逾六年新低 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算",
+      "summary": "拟议中的三条管道将发挥与Keystone XL相同的作用，即把重油从加拿大西部输送至墨西哥湾沿岸的炼油厂，但避开了那个引发争议的名称。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E9%87%8D%E5%90%AFkeystone-xl%E9%A1%B9%E7%9B%AE-%E4%B8%9A%E7%95%8C%E5%8F%A6%E6%9C%89%E6%89%93%E7%AE%97-53fa15df",
+      "guid": "WP-WSJS-0003833743",
+      "pub_date": "Fri, 21 Aug 2026 03:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-84762937?size=1.531&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-ac-b2-e9-87-8d-e5--cbc2df955163.html",
+      "captured": true,
+      "capture_title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "阿里巴巴大举投资AI之际利润大幅下滑",
+      "summary": "第一财季阿里云的外部商业化收入加速增长至45%，AI相关产品收入已连续第12个季度实现三位数同比增长。",
+      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84ai%E4%B9%8B%E9%99%85%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91-bfc58fc6",
+      "guid": "WP-WSJS-0003831181",
+      "pub_date": "Thu, 20 Aug 2026 11:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-80390380?size=1.501&width=1280",
+      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e5-a4-a7-e4--5ad538984eba.html",
+      "captured": true,
+      "capture_title": "阿里巴巴大举投资AI之际利润大幅下滑 - WSJ",
+      "error": ""
+    },
+    {
       "title": "宇树科技CEO：人形机器人尚未准备好应对现实任务与大规模推广",
       "summary": "王兴兴表示，人形机器人目前仍缺乏完成实际任务的效率和泛化能力，尚未做好大规模推广的准备。",
       "link": "https://cn.wsj.com/articles/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80ceo-%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%9A%E6%9C%AA%E5%87%86%E5%A4%87%E5%A5%BD%E5%BA%94%E5%AF%B9%E7%8E%B0%E5%AE%9E%E4%BB%BB%E5%8A%A1%E4%B8%8E%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8E%A8%E5%B9%BF-378ae090",
@@ -185,18 +209,6 @@
       "error": ""
     },
     {
-      "title": "星巴克总部将裁员逾200人，继续推行精简战略",
-      "summary": "星巴克此轮裁员涉及技术和咖啡馆开发岗位，其中并不涉及关闭门店。",
-      "link": "https://cn.wsj.com/articles/starbucks-laying-off-more-than-200-workers-in-streamlining-drive-05c4de9c",
-      "guid": "WP-WSJS-0003833327",
-      "pub_date": "Thu, 20 Aug 2026 23:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-74696882?size=1.501&width=1280",
-      "snapshot": "articles/starbucks-laying-off-more-than-200-workers-in-st-37d258be7d99.html",
-      "captured": true,
-      "capture_title": "星巴克总部将裁员逾200人，继续推行精简战略 - WSJ",
-      "error": ""
-    },
-    {
       "title": "黑色素瘤mRNA疫苗试验成功，莫德纳股价翻倍",
       "summary": "这一结果标志着个性化mRNA癌症疗法首次在后期试验中取得成功，印证了数十年来针对患者个体量身定制疗法研究的有效性。",
       "link": "https://cn.wsj.com/articles/moderna-merck-vaccine-succeeds-in-preventing-melanoma-from-returning-d3d2753c",
@@ -206,6 +218,18 @@
       "snapshot": "articles/moderna-merck-vaccine-succeeds-in-preventing-mel-1d47c3defdd1.html",
       "captured": true,
       "capture_title": "黑色素瘤mRNA疫苗试验成功，莫德纳股价翻倍",
+      "error": ""
+    },
+    {
+      "title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
+      "summary": "总统行政助理娜塔莉·哈普已成为美国政坛左右两派都极度关注的人物。只要在恰当的时机给哈普发条短信，就能打通接触特朗普的渠道。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%A2%E5%BD%B1%E4%B8%8D%E7%A6%BB%E7%9A%84%E5%A5%B3%E5%8A%A9%E6%89%8B%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%88%E8%B5%84-c321e846",
+      "guid": "WP-WSJS-0003827522",
+      "pub_date": "Wed, 19 Aug 2026 04:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-74597637?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-8e-e7-89-b9-e6-9c-97-e6-99-ae-e5-bd-a2-e5--35eb4d17c3ed.html",
+      "captured": true,
+      "capture_title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
       "error": ""
     },
     {
@@ -269,6 +293,54 @@
       "error": ""
     },
     {
+      "title": "哈里与梅根的美国梦终结",
+      "summary": "在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。",
+      "link": "https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E4%B8%8E%E6%A2%85%E6%A0%B9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%BB%88%E7%BB%93-507ec1b1",
+      "guid": "WP-WSJS-0003833543",
+      "pub_date": "Fri, 21 Aug 2026 01:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-52979687?size=1&width=1280",
+      "snapshot": "articles/e5-93-88-e9-87-8c-e4-b8-8e-e6-a2-85-e6-a0-b9-e7--6d0e836a3622.html",
+      "captured": true,
+      "capture_title": "哈里与梅根的美国梦终结",
+      "error": ""
+    },
+    {
+      "title": "美股下跌，美债收益率回升",
+      "summary": "美国三大股指周四均下跌，长期美国国债收益率抹去了周三的大部分跌幅。同时沃尔玛疲软业绩引发市场对美国消费者财务状况的新一轮担忧。",
+      "link": "https://cn.wsj.com/articles/u-s-stocks-slide-as-bond-yields-rebound-walmart-disappoints-e15dc34e",
+      "guid": "WP-WSJS-0003833393",
+      "pub_date": "Thu, 20 Aug 2026 23:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-02447115?size=1.501&width=1280",
+      "snapshot": "articles/u-s-stocks-slide-as-bond-yields-rebound-walmart--868483ce06a4.html",
+      "captured": true,
+      "capture_title": "美股下跌，美债收益率回升 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普威胁对伊朗发起“经济决战日”行动",
+      "summary": "随着伊朗战争临近半年节点，特朗普称将对伊朗发起史无前例的“毁灭性经济行动”。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7-%E7%BB%8F%E6%B5%8E%E5%86%B3%E6%88%98%E6%97%A5-%E8%A1%8C%E5%8A%A8-1de60d8c",
+      "guid": "WP-WSJS-0003830391",
+      "pub_date": "Thu, 20 Aug 2026 23:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-37455731?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-a8-81-e8-83-81-e5--e8e7ae434a4a.html",
+      "captured": true,
+      "capture_title": "特朗普威胁对伊朗发起“经济决战日”行动",
+      "error": ""
+    },
+    {
+      "title": "星巴克总部将裁员逾200人，继续推行精简战略",
+      "summary": "星巴克此轮裁员涉及技术和咖啡馆开发岗位，其中并不涉及关闭门店。",
+      "link": "https://cn.wsj.com/articles/starbucks-laying-off-more-than-200-workers-in-streamlining-drive-05c4de9c",
+      "guid": "WP-WSJS-0003833327",
+      "pub_date": "Thu, 20 Aug 2026 23:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-74696882?size=1.501&width=1280",
+      "snapshot": "articles/starbucks-laying-off-more-than-200-workers-in-st-37d258be7d99.html",
+      "captured": true,
+      "capture_title": "星巴克总部将裁员逾200人，继续推行精简战略 - WSJ",
+      "error": ""
+    },
+    {
       "title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
       "summary": "从Anthropic股份出售传闻，到异常的期权动向，交易人士察觉到了麻烦并迅速采取行动。",
       "link": "https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1",
@@ -278,18 +350,6 @@
       "snapshot": "articles/how-wall-street-sussed-out-that-situational-awar-9b7eb5722fed.html",
       "captured": true,
       "capture_title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
-      "error": ""
-    },
-    {
-      "title": "图解美国高校如何加速冲向招生断崖",
-      "summary": "美国高等教育正撞上人口断崖。多年增长之后，18岁适龄学生的生源正在减少，原因是出生率下降。",
-      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E7%BE%8E%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%A6%82%E4%BD%95%E5%8A%A0%E9%80%9F%E5%86%B2%E5%90%91%E6%8B%9B%E7%94%9F%E6%96%AD%E5%B4%96-78b32ad9",
-      "guid": "WP-WSJS-0003833377",
-      "pub_date": "Fri, 21 Aug 2026 00:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-64532115?size=1.499&width=1280",
-      "snapshot": "articles/e5-9b-be-e8-a7-a3-e7-be-8e-e5-9b-bd-e9-ab-98-e6--fd76089ebb11.html",
-      "captured": true,
-      "capture_title": "图解美国高校如何加速冲向招生断崖 - WSJ",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e7-99-bd-e5-ae-ab-e7-a7-b0-e4-b8-ad-e5-9b-bd-e9--516b2746f574.html",
       "captured": true,
       "capture_title": "白宫称中国通过转运商品规避数百亿美元关税",
-      "error": ""
-    },
-    {
-      "title": "特朗普下令缩减美韩联合军演规模",
-      "summary": "特朗普称自己与朝鲜领导人金正恩关系“非常好”。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%E8%A7%84%E6%A8%A1-42c0d3e8",
-      "guid": "WP-WSJS-0003821805",
-      "pub_date": "Mon, 17 Aug 2026 08:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-19632662?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8b-e4-bb-a4-e7--4bf910422ee2.html",
-      "captured": true,
-      "capture_title": "特朗普下令缩减美韩联合军演规模",
-      "error": ""
-    },
-    {
-      "title": "央行陷入周而复始的危机循环",
-      "summary": "决策者充当起“最后做市商”，却也在不断放大杠杆与风险。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%AE%E8%A1%8C%E9%99%B7%E5%85%A5%E5%91%A8%E8%80%8C%E5%A4%8D%E5%A7%8B%E7%9A%84%E5%8D%B1%E6%9C%BA%E5%BE%AA%E7%8E%AF-aa611cea",
-      "guid": "WP-WSJS-0003821903",
-      "pub_date": "Mon, 17 Aug 2026 01:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-49419877?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-ae-e8-a1-8c-e9-99-b7-e5-85-a5-e5-91-a8-e8--05eef176fe0f.html",
-      "captured": true,
-      "capture_title": "央行陷入周而复始的危机循环",
-      "error": ""
-    },
-    {
-      "title": "白宫宴会厅曾是特朗普的美学和空间之梦，如今却成了“军事综合体”",
-      "summary": "面对法院对宴会厅项目权限的质疑，特朗普转向国家安全这一论据。特朗普最近发布一张宴会厅效果图，屋顶上布满了无人机、卡车和士兵。",
-      "link": "https://cn.wsj.com/articles/trumps-ballroom-was-his-dream-of-beauty-and-space-now-its-a-military-complex-1a95159d",
-      "guid": "WP-WSJS-0003822124",
-      "pub_date": "Mon, 17 Aug 2026 05:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-64498777?size=1.499&width=1280",
-      "snapshot": "articles/trumps-ballroom-was-his-dream-of-beauty-and-spac-d51d1851549e.html",
-      "captured": true,
-      "capture_title": "白宫宴会厅曾是特朗普的美学和空间之梦，如今却成了“军事综合体”",
-      "error": ""
-    },
-    {
-      "title": "中国汽车出口激增，运输船一船难求",
-      "summary": "随着国内需求下滑，中国汽车正涌入海外市场，给航运业带来考验。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%80%E8%88%B9%E9%9A%BE%E6%B1%82-cba46894",
-      "guid": "WP-WSJS-0003817156",
-      "pub_date": "Fri, 14 Aug 2026 04:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-50682055?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e5-87-ba-e5--44ad5826d7d4.html",
-      "captured": true,
-      "capture_title": "中国汽车出口激增，运输船一船难求",
-      "error": ""
-    },
-    {
-      "title": "盘点TikTok上满天飞的理财“秘籍”",
-      "summary": "我们查看了212个提供理财建议的账号，累计观看内容近50个小时。梳理出了几类典型账号。",
-      "link": "https://cn.wsj.com/articles/%E7%9B%98%E7%82%B9tiktok%E4%B8%8A%E6%BB%A1%E5%A4%A9%E9%A3%9E%E7%9A%84%E7%90%86%E8%B4%A2-%E7%A7%98%E7%B1%8D-62c99b98",
-      "guid": "WP-WSJS-0003822270",
-      "pub_date": "Mon, 17 Aug 2026 09:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-19952565?size=1.501&width=1280",
-      "snapshot": "articles/e7-9b-98-e7-82-b9tiktok-e4-b8-8a-e6-bb-a1-e5-a4--f64d8bb7be49.html",
-      "captured": true,
-      "capture_title": "盘点TikTok上满天飞的理财“秘籍”",
       "error": ""
     }
   ]
