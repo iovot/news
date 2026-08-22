@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:33:24.175472+00:00",
+  "generated_at": "2026-08-22T01:33:43.728112+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,15 +17,27 @@
       "error": ""
     },
     {
-      "title": "台湾拟出台史上最高国防预算，向美中表明立场",
-      "summary": "拟议的国防预算较去年大增18%，首次突破具有象征意义的新台币1万亿元大关。",
-      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E6%8B%9F%E5%87%BA%E5%8F%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97-%E5%90%91%E7%BE%8E%E4%B8%AD%E8%A1%A8%E6%98%8E%E7%AB%8B%E5%9C%BA-3d14cd9a",
-      "guid": "WP-WSJS-0003830842",
-      "pub_date": "Thu, 20 Aug 2026 08:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-38997217?size=1.499&width=1280",
-      "snapshot": "articles/e5-8f-b0-e6-b9-be-e6-8b-9f-e5-87-ba-e5-8f-b0-e5--27f60765e807.html",
+      "title": "美股收高，比特币逼近8万美元",
+      "summary": "比特币上涨6%，创下两年多来的最佳单周表现；美债收益率维持在十多年来的最高水平附近。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E6%94%B6%E9%AB%98-%E6%AF%94%E7%89%B9%E5%B8%81%E9%80%BC%E8%BF%918%E4%B8%87%E7%BE%8E%E5%85%83-a200d784",
+      "guid": "WP-WSJS-0003836192",
+      "pub_date": "Fri, 21 Aug 2026 23:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-45302017?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e8-82-a1-e6-94-b6-e9-ab-98--e6-af-94-e7-8dce6db97940.html",
       "captured": true,
-      "capture_title": "台湾拟出台史上最高国防预算，向美中表明立场 - WSJ",
+      "capture_title": "美股收高，比特币逼近8万美元 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
+      "summary": "随着民众对AI的愤怒情绪蔓延，得州和宾州等州州长正放缓当地数据中心的开发步伐。而特朗普则坚决为数据中心辩护。",
+      "link": "https://cn.wsj.com/articles/politicians-who-once-championed-data-centers-are-now-bashing-them-e771b988",
+      "guid": "WP-WSJS-0003833674",
+      "pub_date": "Fri, 21 Aug 2026 02:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-71044978?size=1.916&width=1280",
+      "snapshot": "articles/politicians-who-once-championed-data-centers-are-4bea24fce5af.html",
+      "captured": true,
+      "capture_title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
       "error": ""
     },
     {
@@ -41,51 +53,15 @@
       "error": ""
     },
     {
-      "title": "美国财政部最新国债回购计划最大输家：美元",
-      "summary": "一位汇市专家警告称，市场可能终于跨越了一个重要的承受极限。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%B4%A2%E6%94%BF%E9%83%A8%E6%9C%80%E6%96%B0%E5%9B%BD%E5%80%BA%E5%9B%9E%E8%B4%AD%E8%AE%A1%E5%88%92%E6%9C%80%E5%A4%A7%E8%BE%93%E5%AE%B6-%E7%BE%8E%E5%85%83-c46a90c1",
-      "guid": "WP-WSJS-0003833515",
-      "pub_date": "Fri, 21 Aug 2026 01:00:00 GMT",
-      "image_url": "https://images.mktw.net/im-78047669?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e8-b4-a2-e6-94-bf-e9-83-a8-e6--5fe17ebda817.html",
+      "title": "美国陆军部长料将于年底前卸任",
+      "summary": "陆军部长丹·德里斯科尔计划离职，此前他与国防部长皮特·赫格塞思的紧张关系已持续数月。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B%E9%83%A8%E9%95%BF%E6%96%99%E5%B0%86%E4%BA%8E%E5%B9%B4%E5%BA%95%E5%89%8D%E5%8D%B8%E4%BB%BB-ab137f14",
+      "guid": "WP-WSJS-0003836324",
+      "pub_date": "Sat, 22 Aug 2026 00:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-03157436?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e9-99-86-e5-86-9b-e9-83-a8-e9--62cb91bb32b7.html",
       "captured": true,
-      "capture_title": "美国财政部最新国债回购计划最大输家：美元",
-      "error": ""
-    },
-    {
-      "title": "中国年轻人热衷“以租代买”，政府促进消费或遇新挑战",
-      "summary": "一台大疆Pocket 3相机售价3000多元，但只要花65元就能租用。中国年轻人正用这种方式省钱，但这也对中国政府促消费的努力构成了新挑战。",
-      "link": "https://cn.wsj.com/articles/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-9ed55da2",
-      "guid": "WP-WSJS-0003830338",
-      "pub_date": "Thu, 20 Aug 2026 02:00:00 GMT",
-      "image_url": "https://images.mktw.net/im-97422812?size=1.5&width=1280",
-      "snapshot": "articles/test-driving-that-drone-or-just-renting-why-the--d69bfc582757.html",
-      "captured": true,
-      "capture_title": "中国年轻人热衷“以租代买”，政府促进消费或遇新挑战",
-      "error": ""
-    },
-    {
-      "title": "美国是否仍有能力维护世界秩序？",
-      "summary": "随着伊朗战争消耗着至关重要的拦截导弹库存，美国盟友日益质疑华盛顿多线作战的能力。",
-      "link": "https://cn.wsj.com/articles/us-weapons-stockpile-ef059f94",
-      "guid": "WP-WSJS-0003833778",
-      "pub_date": "Fri, 21 Aug 2026 05:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-68128318?size=1.501&width=1280",
-      "snapshot": "articles/us-weapons-stockpile-ef059f94-87f7ef5b2d1d.html",
-      "captured": true,
-      "capture_title": "美国是否仍有能力维护世界秩序？",
-      "error": ""
-    },
-    {
-      "title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话",
-      "summary": "科恩曾是特朗普忠心耿耿的“平事者”，后来一度变成势如水火的死敌，如今却又邀请这位老上司做客自己的广播节目。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87%E7%9A%84-%E5%B9%B3%E4%BA%8B%E8%80%85-%E8%BF%88%E5%85%8B%E5%B0%94-%E7%A7%91%E6%81%A9%E7%A0%B4%E5%86%B0%E5%AF%B9%E8%AF%9D-15a82b88",
-      "guid": "WP-WSJS-0003833585",
-      "pub_date": "Fri, 21 Aug 2026 01:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-61138325?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8e-e5-8f-8d-e7--34cf36de4466.html",
-      "captured": true,
-      "capture_title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话",
+      "capture_title": "美国陆军部长料将于年底前卸任 - WSJ",
       "error": ""
     },
     {
@@ -101,15 +77,51 @@
       "error": ""
     },
     {
-      "title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
-      "summary": "随着民众对AI的愤怒情绪蔓延，得州和宾州等州州长正放缓当地数据中心的开发步伐。而特朗普则坚决为数据中心辩护。",
-      "link": "https://cn.wsj.com/articles/politicians-who-once-championed-data-centers-are-now-bashing-them-e771b988",
-      "guid": "WP-WSJS-0003833674",
-      "pub_date": "Fri, 21 Aug 2026 02:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-71044978?size=1.916&width=1280",
-      "snapshot": "articles/politicians-who-once-championed-data-centers-are-4bea24fce5af.html",
+      "title": "中国年轻人热衷“以租代买”，政府促进消费或遇新挑战",
+      "summary": "一台大疆Pocket 3相机售价3000多元，但只要花65元就能租用。中国年轻人正用这种方式省钱，但这也对中国政府促消费的努力构成了新挑战。",
+      "link": "https://cn.wsj.com/articles/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-9ed55da2",
+      "guid": "WP-WSJS-0003830338",
+      "pub_date": "Thu, 20 Aug 2026 02:00:00 GMT",
+      "image_url": "https://images.mktw.net/im-97422812?size=1.5&width=1280",
+      "snapshot": "articles/test-driving-that-drone-or-just-renting-why-the--d69bfc582757.html",
       "captured": true,
-      "capture_title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
+      "capture_title": "中国年轻人热衷“以租代买”，政府促进消费或遇新挑战",
+      "error": ""
+    },
+    {
+      "title": "美国财政部最新国债回购计划最大输家：美元",
+      "summary": "一位汇市专家警告称，市场可能终于跨越了一个重要的承受极限。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%B4%A2%E6%94%BF%E9%83%A8%E6%9C%80%E6%96%B0%E5%9B%BD%E5%80%BA%E5%9B%9E%E8%B4%AD%E8%AE%A1%E5%88%92%E6%9C%80%E5%A4%A7%E8%BE%93%E5%AE%B6-%E7%BE%8E%E5%85%83-c46a90c1",
+      "guid": "WP-WSJS-0003833515",
+      "pub_date": "Fri, 21 Aug 2026 01:00:00 GMT",
+      "image_url": "https://images.mktw.net/im-78047669?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e8-b4-a2-e6-94-bf-e9-83-a8-e6--5fe17ebda817.html",
+      "captured": true,
+      "capture_title": "美国财政部最新国债回购计划最大输家：美元",
+      "error": ""
+    },
+    {
+      "title": "美国是否仍有能力维护世界秩序？",
+      "summary": "随着伊朗战争消耗着至关重要的拦截导弹库存，美国盟友日益质疑华盛顿多线作战的能力。",
+      "link": "https://cn.wsj.com/articles/us-weapons-stockpile-ef059f94",
+      "guid": "WP-WSJS-0003833778",
+      "pub_date": "Fri, 21 Aug 2026 05:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-68128318?size=1.501&width=1280",
+      "snapshot": "articles/us-weapons-stockpile-ef059f94-87f7ef5b2d1d.html",
+      "captured": true,
+      "capture_title": "美国是否仍有能力维护世界秩序？",
+      "error": ""
+    },
+    {
+      "title": "台湾拟出台史上最高国防预算，向美中表明立场",
+      "summary": "拟议的国防预算较去年大增18%，首次突破具有象征意义的新台币1万亿元大关。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E6%8B%9F%E5%87%BA%E5%8F%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97-%E5%90%91%E7%BE%8E%E4%B8%AD%E8%A1%A8%E6%98%8E%E7%AB%8B%E5%9C%BA-3d14cd9a",
+      "guid": "WP-WSJS-0003830842",
+      "pub_date": "Thu, 20 Aug 2026 08:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-38997217?size=1.499&width=1280",
+      "snapshot": "articles/e5-8f-b0-e6-b9-be-e6-8b-9f-e5-87-ba-e5-8f-b0-e5--27f60765e807.html",
+      "captured": true,
+      "capture_title": "台湾拟出台史上最高国防预算，向美中表明立场 - WSJ",
       "error": ""
     },
     {
@@ -137,27 +149,39 @@
       "error": ""
     },
     {
-      "title": "引爆剑桥黑人教授造假风波的争议学者",
-      "summary": "内森·科夫纳斯自称“种族现实主义者”。他表示并不后悔公开对已故学者杰森·阿代的抄袭指控，但他指出，媒体与剑桥校方同样在这场悲剧里辜负了阿代。",
-      "link": "https://cn.wsj.com/articles/the-controversial-academic-who-ignited-the-jason-arday-furor-bbb53304",
-      "guid": "WP-WSJS-0003833814",
-      "pub_date": "Fri, 21 Aug 2026 05:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-59447212?size=1.411&width=1280",
-      "snapshot": "articles/the-controversial-academic-who-ignited-the-jason-7c236a85970f.html",
+      "title": "AI的下一次重大飞跃：走进现实",
+      "summary": "工程师与投资者正竞相涌入“世界模型”赛道，期望在机器人领域复刻ChatGPT在写作与编程界引发的革命。",
+      "link": "https://cn.wsj.com/articles/ai%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AC%A1%E9%87%8D%E5%A4%A7%E9%A3%9E%E8%B7%83-%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E-2739cd3f",
+      "guid": "WP-WSJS-0003836285",
+      "pub_date": "Sat, 22 Aug 2026 00:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-33748812?size=1.5&width=1280",
+      "snapshot": "articles/ai-e7-9a-84-e4-b8-8b-e4-b8-80-e6-ac-a1-e9-87-8d--35f0416397ae.html",
       "captured": true,
-      "capture_title": "引爆剑桥黑人教授造假风波的争议学者",
+      "capture_title": "AI的下一次重大飞跃：走进现实 - WSJ",
       "error": ""
     },
     {
-      "title": "美国员工医保支出攀升，明年情况将更糟",
-      "summary": "到2027年，雇主面临的医疗保险成本增幅恐创下至少20年来的最高纪录。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%91%98%E5%B7%A5%E5%8C%BB%E4%BF%9D%E6%94%AF%E5%87%BA%E6%94%80%E5%8D%87-%E6%98%8E%E5%B9%B4%E6%83%85%E5%86%B5%E5%B0%86%E6%9B%B4%E7%B3%9F-c2c53eef",
-      "guid": "WP-WSJS-0003833411",
-      "pub_date": "Fri, 21 Aug 2026 00:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-08487213?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-91-98-e5-b7-a5-e5-8c-bb-e4--b044470ba29e.html",
+      "title": "打破年龄魔咒：66岁老人重返职场之路",
+      "summary": "在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”",
+      "link": "https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127",
+      "guid": "WP-WSJS-0003833542",
+      "pub_date": "Fri, 21 Aug 2026 01:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/the-66-year-old-who-overcame-the-odds-and-found--454db6a16717.html",
       "captured": true,
-      "capture_title": "美国员工医保支出攀升，明年情况将更糟",
+      "capture_title": "打破年龄魔咒：66岁老人重返职场之路",
+      "error": ""
+    },
+    {
+      "title": "美国司法部与TikTok就儿童隐私诉讼达成4亿美元和解",
+      "summary": "TikTok将立即支付3亿美元，并在法院下达撤销先前同意令的裁决后，再支付1亿美元。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E4%B8%8Etiktok%E5%B0%B1%E5%84%BF%E7%AB%A5%E9%9A%90%E7%A7%81%E8%AF%89%E8%AE%BC%E8%BE%BE%E6%88%904%E4%BA%BF%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3-ccb932e8",
+      "guid": "WP-WSJS-0003836339",
+      "pub_date": "Sat, 22 Aug 2026 01:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-56354744?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-8f-b8-e6-b3-95-e9-83-a8-e4--4728f8ebb14f.html",
+      "captured": true,
+      "capture_title": "美国司法部与TikTok就儿童隐私诉讼达成4亿美元和解 - WSJ",
       "error": ""
     },
     {
@@ -182,30 +206,6 @@
       "snapshot": "articles/us-auto-sales-general-motors-toyota-5497d1c6-683f054e3c56.html",
       "captured": true,
       "capture_title": "通用汽车曾称霸美国市场百年，如今丰田正步步紧逼",
-      "error": ""
-    },
-    {
-      "title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
-      "summary": "在巴拿马接管了长和的港口资产后，长和以违反条约为由对巴拿马提起了仲裁。此举令一场围绕两个战略港口的争端升级，更将其推向中美摩擦的风口浪尖。",
-      "link": "https://cn.wsj.com/articles/%E9%95%BF%E5%92%8C%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%8F%90%E8%B5%B7%E4%BB%B2%E8%A3%81-%E7%B4%A2%E8%B5%94%E9%80%BE15%E4%BA%BF%E7%BE%8E%E5%85%83-b5f80e61",
-      "guid": "WP-WSJS-0003830308",
-      "pub_date": "Thu, 20 Aug 2026 02:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-55202866?size=1.537&width=1280",
-      "snapshot": "articles/e9-95-bf-e5-92-8c-e5-af-b9-e5-b7-b4-e6-8b-bf-e9--cfc9dde058e1.html",
-      "captured": true,
-      "capture_title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
-      "error": ""
-    },
-    {
-      "title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算",
-      "summary": "拟议中的三条管道将发挥与Keystone XL相同的作用，即把重油从加拿大西部输送至墨西哥湾沿岸的炼油厂，但避开了那个引发争议的名称。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E9%87%8D%E5%90%AFkeystone-xl%E9%A1%B9%E7%9B%AE-%E4%B8%9A%E7%95%8C%E5%8F%A6%E6%9C%89%E6%89%93%E7%AE%97-53fa15df",
-      "guid": "WP-WSJS-0003833743",
-      "pub_date": "Fri, 21 Aug 2026 03:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-84762937?size=1.531&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-ac-b2-e9-87-8d-e5--cbc2df955163.html",
-      "captured": true,
-      "capture_title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算",
       "error": ""
     },
     {
@@ -245,6 +245,18 @@
       "error": ""
     },
     {
+      "title": "美国员工医保支出攀升，明年情况将更糟",
+      "summary": "到2027年，雇主面临的医疗保险成本增幅恐创下至少20年来的最高纪录。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%91%98%E5%B7%A5%E5%8C%BB%E4%BF%9D%E6%94%AF%E5%87%BA%E6%94%80%E5%8D%87-%E6%98%8E%E5%B9%B4%E6%83%85%E5%86%B5%E5%B0%86%E6%9B%B4%E7%B3%9F-c2c53eef",
+      "guid": "WP-WSJS-0003833411",
+      "pub_date": "Fri, 21 Aug 2026 00:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-08487213?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-91-98-e5-b7-a5-e5-8c-bb-e4--b044470ba29e.html",
+      "captured": true,
+      "capture_title": "美国员工医保支出攀升，明年情况将更糟",
+      "error": ""
+    },
+    {
       "title": "旅游业停滞不前，夏威夷追逐创业浪潮",
       "summary": "夏威夷州政府官员认为，只需培育少数高科技企业，就能孕育出全新的产业，从而阻止技术人才流失至美国本土。",
       "link": "https://cn.wsj.com/articles/%E6%97%85%E6%B8%B8%E4%B8%9A%E5%81%9C%E6%BB%9E%E4%B8%8D%E5%89%8D-%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%BF%BD%E9%80%90%E5%88%9B%E4%B8%9A%E6%B5%AA%E6%BD%AE-8b756adb",
@@ -254,18 +266,6 @@
       "snapshot": "articles/e6-97-85-e6-b8-b8-e4-b8-9a-e5-81-9c-e6-bb-9e-e4--1ec922dbdc17.html",
       "captured": true,
       "capture_title": "旅游业停滞不前，夏威夷追逐创业浪潮",
-      "error": ""
-    },
-    {
-      "title": "打破年龄魔咒：66岁老人重返职场之路",
-      "summary": "在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”",
-      "link": "https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127",
-      "guid": "WP-WSJS-0003833542",
-      "pub_date": "Fri, 21 Aug 2026 01:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/the-66-year-old-who-overcame-the-odds-and-found--454db6a16717.html",
-      "captured": true,
-      "capture_title": "打破年龄魔咒：66岁老人重返职场之路",
       "error": ""
     },
     {
@@ -302,6 +302,54 @@
       "snapshot": "articles/e4-bd-a0-e8-a7-89-e5-be-97-e5-9c-a8-e5-8a-9e-e5--b5fd5680203c.html",
       "captured": true,
       "capture_title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
+      "error": ""
+    },
+    {
+      "title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话",
+      "summary": "科恩曾是特朗普忠心耿耿的“平事者”，后来一度变成势如水火的死敌，如今却又邀请这位老上司做客自己的广播节目。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%8F%8D%E7%9B%AE%E6%88%90%E4%BB%87%E7%9A%84-%E5%B9%B3%E4%BA%8B%E8%80%85-%E8%BF%88%E5%85%8B%E5%B0%94-%E7%A7%91%E6%81%A9%E7%A0%B4%E5%86%B0%E5%AF%B9%E8%AF%9D-15a82b88",
+      "guid": "WP-WSJS-0003833585",
+      "pub_date": "Fri, 21 Aug 2026 01:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-61138325?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8e-e5-8f-8d-e7--34cf36de4466.html",
+      "captured": true,
+      "capture_title": "特朗普与反目成仇的“平事者”迈克尔·科恩破冰对话",
+      "error": ""
+    },
+    {
+      "title": "引爆剑桥黑人教授造假风波的争议学者",
+      "summary": "内森·科夫纳斯自称“种族现实主义者”。他表示并不后悔公开对已故学者杰森·阿代的抄袭指控，但他指出，媒体与剑桥校方同样在这场悲剧里辜负了阿代。",
+      "link": "https://cn.wsj.com/articles/the-controversial-academic-who-ignited-the-jason-arday-furor-bbb53304",
+      "guid": "WP-WSJS-0003833814",
+      "pub_date": "Fri, 21 Aug 2026 05:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-59447212?size=1.411&width=1280",
+      "snapshot": "articles/the-controversial-academic-who-ignited-the-jason-7c236a85970f.html",
+      "captured": true,
+      "capture_title": "引爆剑桥黑人教授造假风波的争议学者",
+      "error": ""
+    },
+    {
+      "title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
+      "summary": "在巴拿马接管了长和的港口资产后，长和以违反条约为由对巴拿马提起了仲裁。此举令一场围绕两个战略港口的争端升级，更将其推向中美摩擦的风口浪尖。",
+      "link": "https://cn.wsj.com/articles/%E9%95%BF%E5%92%8C%E5%AF%B9%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%8F%90%E8%B5%B7%E4%BB%B2%E8%A3%81-%E7%B4%A2%E8%B5%94%E9%80%BE15%E4%BA%BF%E7%BE%8E%E5%85%83-b5f80e61",
+      "guid": "WP-WSJS-0003830308",
+      "pub_date": "Thu, 20 Aug 2026 02:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-55202866?size=1.537&width=1280",
+      "snapshot": "articles/e9-95-bf-e5-92-8c-e5-af-b9-e5-b7-b4-e6-8b-bf-e9--cfc9dde058e1.html",
+      "captured": true,
+      "capture_title": "长和对巴拿马提起仲裁，索赔逾15亿美元",
+      "error": ""
+    },
+    {
+      "title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算",
+      "summary": "拟议中的三条管道将发挥与Keystone XL相同的作用，即把重油从加拿大西部输送至墨西哥湾沿岸的炼油厂，但避开了那个引发争议的名称。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E9%87%8D%E5%90%AFkeystone-xl%E9%A1%B9%E7%9B%AE-%E4%B8%9A%E7%95%8C%E5%8F%A6%E6%9C%89%E6%89%93%E7%AE%97-53fa15df",
+      "guid": "WP-WSJS-0003833743",
+      "pub_date": "Fri, 21 Aug 2026 03:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-84762937?size=1.531&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-ac-b2-e9-87-8d-e5--cbc2df955163.html",
+      "captured": true,
+      "capture_title": "特朗普欲重启Keystone XL输油管道项目，业界另有打算",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/500-000-applicants-583-jobs-the-frantic-scramble-e58821d71407.html",
       "captured": true,
       "capture_title": "50万人争夺583个岗位：印度青年狂卷“考公”热潮",
-      "error": ""
-    },
-    {
-      "title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
-      "summary": "卡米·克拉克曾创办自称“革命性”的色情公司并向爱泼斯坦寻求投资，如今她虽保持低调，却是Anthropic首席执行官达里奥·阿莫迪的关键顾问。",
-      "link": "https://cn.wsj.com/articles/%E8%BF%9Eclaude%E9%83%BD%E7%9F%A5%E4%B9%8B%E7%94%9A%E5%B0%91-anthropic-ceo%E7%9A%84%E7%A5%9E%E7%A7%98%E5%A6%BB%E5%AD%90%E5%8F%8A%E5%85%B6%E5%B9%95%E5%90%8E%E5%BD%B1%E5%93%8D%E5%8A%9B-c9e2d6cd",
-      "guid": "WP-WSJS-0003817256",
-      "pub_date": "Mon, 17 Aug 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-54715303?size=1.499&width=1280",
-      "snapshot": "articles/e8-bf-9eclaude-e9-83-bd-e7-9f-a5-e4-b9-8b-e7-94--7d72d6c447a4.html",
-      "captured": true,
-      "capture_title": "连Claude都知之甚少：Anthropic CEO的神秘妻子及其幕后影响力",
-      "error": ""
-    },
-    {
-      "title": "仓库正越来越多地使用机器人",
-      "summary": "劳动力成本上升和快速送货需求正促使企业推进订单履行自动化。",
-      "link": "https://cn.wsj.com/articles/%E4%BB%93%E5%BA%93%E6%AD%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%9C%B0%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA-13bedd9b",
-      "guid": "WP-WSJS-0003824110",
-      "pub_date": "Tue, 18 Aug 2026 00:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-68502006?size=1.524&width=1280",
-      "snapshot": "articles/e4-bb-93-e5-ba-93-e6-ad-a3-e8-b6-8a-e6-9d-a5-e8--907e916ef776.html",
-      "captured": true,
-      "capture_title": "仓库正越来越多地使用机器人",
-      "error": ""
-    },
-    {
-      "title": "中国式审查正渗入美国AI模型的回答中",
-      "summary": "研究发现，ChatGPT、Claude和Gemini等美国AI模型在面对涉华等敏感政治提问时，经常无意间拒绝批评威权政府或复读其官方立场，呈现出类似中国式审查的效果。",
-      "link": "https://cn.wsj.com/articles/chinese-censorship-is-leaking-into-answers-from-american-ai-58c1cdb6",
-      "guid": "WP-WSJS-0003814045",
-      "pub_date": "Thu, 13 Aug 2026 03:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-26081712?size=1.402&width=1280",
-      "snapshot": "articles/chinese-censorship-is-leaking-into-answers-from--a62cf82baf2a.html",
-      "captured": true,
-      "capture_title": "中国式审查正渗入美国AI模型的回答中",
-      "error": ""
-    },
-    {
-      "title": "伊朗秘密筹划，准备升级战争",
-      "summary": "截获的通讯记录及其他情报显示，伊朗强硬派领导层正进行战略调整，旨在让美国及其地区盟友付出更大代价。",
-      "link": "https://cn.wsj.com/articles/iran-plan-escalate-war-8533ea09",
-      "guid": "WP-WSJS-0003822023",
-      "pub_date": "Mon, 17 Aug 2026 03:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-45609640?size=1.62&width=1280",
-      "snapshot": "articles/iran-plan-escalate-war-8533ea09-65150da05192.html",
-      "captured": true,
-      "capture_title": "伊朗秘密筹划，准备升级战争",
       "error": ""
     }
   ]
