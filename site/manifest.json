@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:55:36.890364+00:00",
+  "generated_at": "2026-08-24T12:57:41.319477+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-27691693?size=1.46&width=1280",
       "snapshot": "articles/softbank-plans-record-retail-bond-issuance-amid--36fce1e35bf4.html",
       "captured": true,
-      "capture_title": "软银计划发行创纪录规模的零售债券，以推进AI战略 - WSJ",
+      "capture_title": "软银计划发行创纪录规模的零售债券，以推进AI战略",
       "error": ""
     },
     {
@@ -301,7 +301,7 @@
       "image_url": "https://images.wsj.net/im-33819417?size=1.5053763440860215&width=608",
       "snapshot": "articles/ai-agents-startup-work-culture-fbaeb407-4be97a764955.html",
       "captured": true,
-      "capture_title": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体 - WSJ",
+      "capture_title": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体",
       "error": ""
     },
     {
