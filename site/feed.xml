@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 01:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 03:58:25 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 01:37:30 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 03:58:25 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,7 +35,7 @@
             <pubDate>Fri, 21 Aug 2026 06:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达豪掷60亿美元构建美国开放AI生态，全面对标中国]]></title>
+            <title><![CDATA[英伟达正斥资60亿美元构建美国开放AI生态，以与中国竞争]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-54335031?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达与初创公司Poolside达成一项全面合作协议，旨在在美国构建一个开放的AI生态系统，与中国的重量级AI模型和美国AI巨头展开竞争。</p>]]></description>
             <link>https://cn.wsj.com/articles/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-fb63ea42</link>
             <guid isPermaLink="false">WP-WSJS-0003837890</guid>
@@ -63,13 +63,6 @@
             <pubDate>Sun, 23 Aug 2026 23:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美加互征新关税，哪些商品将受到影响？]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-54110715?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国对包括葡萄酒、冰球棒、水泥以及纸张和纺织制品在内的加拿大进口商品征收50%的税费；渥太华誓言进行报复。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%8A%A0%E4%BA%92%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-%E5%93%AA%E4%BA%9B%E5%95%86%E5%93%81%E5%B0%86%E5%8F%97%E5%88%B0%E5%BD%B1%E5%93%8D-b9d8c462</link>
-            <guid isPermaLink="false">WP-WSJS-0003837852</guid>
-            <pubDate>Mon, 24 Aug 2026 00:40:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[贝森特被美债市场上了一课的疯狂一周]]></title>
             <description><![CDATA[<img width="1280" height="868" src="https://images.wsj.net/im-47642743?size=1.475&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国财政部的债券回购公告止住了抛售潮，但未能持久。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E8%A2%AB%E7%BE%8E%E5%80%BA%E5%B8%82%E5%9C%BA%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%E7%9A%84%E7%96%AF%E7%8B%82%E4%B8%80%E5%91%A8-9e2afd5c</link>
@@ -77,18 +70,25 @@
             <pubDate>Mon, 24 Aug 2026 01:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯正测试新一轮兵力动员的准备情况]]></title>
-            <description><![CDATA[<img width="1280" height="838" src="https://images.wsj.net/im-11989743?size=1.527&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>官员说，加里宁格勒的这场规划演练目的是为可能下达的动员令预作准备。克里姆林宫尚未决定是否推进这类行动。</p>]]></description>
-            <link>https://cn.wsj.com/articles/russia-tests-readiness-for-new-round-of-military-mobilization-b5e94746</link>
-            <guid isPermaLink="false">WP-WSJS-0003837756</guid>
-            <pubDate>Sun, 23 Aug 2026 23:43:00 GMT</pubDate>
+            <title><![CDATA[俄罗斯唯一反战政党不再被容忍，暴露普京政权脆弱性]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-87475753?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亚博卢党为了生存，几十年来一直进行自我审查。乌克兰战争使这种平衡策略无法继续下去。</p>]]></description>
+            <link>https://cn.wsj.com/articles/russia-yabloko-party-putin-ukraine-war-4f251850</link>
+            <guid isPermaLink="false">WP-WSJS-0003838120</guid>
+            <pubDate>Mon, 24 Aug 2026 03:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[分析师盘点年内值得持有的六只AI硬件股]]></title>
-            <description><![CDATA[<img width="1280" height="895" src="https://images.mktw.net/im-559376?size=1.43&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>今年以来，Western Digital的股价已飙升近170%。一位分析师预计，存储设备制造商、网络设备提供商以及苹果公司将迎来强劲增长。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%88%86%E6%9E%90%E5%B8%88%E7%9B%98%E7%82%B9%E5%B9%B4%E5%86%85%E5%80%BC%E5%BE%97%E6%8C%81%E6%9C%89%E7%9A%84%E5%85%AD%E5%8F%AAai%E7%A1%AC%E4%BB%B6%E8%82%A1-7bf41647</link>
-            <guid isPermaLink="false">WP-WSJS-0003836253</guid>
-            <pubDate>Fri, 21 Aug 2026 23:48:00 GMT</pubDate>
+            <title><![CDATA[三位经济学家引领美联储重新审视通胀]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-54228077?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>格雷格·曼昆、托马斯·萨金特和威廉·怀特对物价为何上涨都有着鲜明的观点。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%89%E4%BD%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%BC%95%E9%A2%86%E7%BE%8E%E8%81%94%E5%82%A8%E9%87%8D%E6%96%B0%E5%AE%A1%E8%A7%86%E9%80%9A%E8%83%80-130f7b05</link>
+            <guid isPermaLink="false">WP-WSJS-0003838111</guid>
+            <pubDate>Mon, 24 Aug 2026 03:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[民主党人准备对特朗普及其盟友展开一系列调查]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93270020?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>民主党人正在为可能对特朗普政府展开的多线调查做准备，一旦他们在11月赢得众议院多数席位，这些调查便可能启动；白宫也在为可能涌来的大量传票做准备。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%87%86%E5%A4%87%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E5%B1%95%E5%BC%80%E4%B8%80%E7%B3%BB%E5%88%97%E8%B0%83%E6%9F%A5-9a660990</link>
+            <guid isPermaLink="false">WP-WSJS-0003837989</guid>
+            <pubDate>Mon, 24 Aug 2026 01:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[曾象征中国楼市崩盘的恒大创始人许家印被判处无期徒刑]]></title>
@@ -105,25 +105,25 @@
             <pubDate>Mon, 24 Aug 2026 00:33:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[关税谈判破裂，美加正滑向全面贸易战]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67345943?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在双方因贸易谈判破裂而互相指责之际，加拿大以加征关税回应美国的新关税措施。</p>]]></description>
+            <link>https://cn.wsj.com/articles/canada-announces-new-post-labor-day-tariffs-48623a21</link>
+            <guid isPermaLink="false">WP-WSJS-0003837944</guid>
+            <pubDate>Mon, 24 Aug 2026 01:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华尔街押注英伟达让AI盛宴继续下去]]></title>
+            <description><![CDATA[<img width="1280" height="856" src="https://images.wsj.net/im-56641862?size=1.495&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达业绩或在科技板块乃至整个股市引发震荡。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A9ai%E7%9B%9B%E5%AE%B4%E7%BB%A7%E7%BB%AD%E4%B8%8B%E5%8E%BB-24503f51</link>
+            <guid isPermaLink="false">WP-WSJS-0003838068</guid>
+            <pubDate>Mon, 24 Aug 2026 02:45:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI的下一次重大飞跃：走进现实世界]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33748812?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>工程师与投资者正竞相涌入“世界模型”赛道，期望在机器人领域复刻ChatGPT在写作与编程界引发的革命。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AC%A1%E9%87%8D%E5%A4%A7%E9%A3%9E%E8%B7%83-%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E-2739cd3f</link>
             <guid isPermaLink="false">WP-WSJS-0003836285</guid>
             <pubDate>Sat, 22 Aug 2026 00:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国是否仍有能力维护世界秩序？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68128318?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着伊朗战争消耗着至关重要的拦截导弹库存，美国盟友日益质疑华盛顿多线作战的能力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/us-weapons-stockpile-ef059f94</link>
-            <guid isPermaLink="false">WP-WSJS-0003833778</guid>
-            <pubDate>Fri, 21 Aug 2026 05:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台湾拟出台史上最高国防预算，向美中表明立场]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-38997217?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>拟议的国防预算较去年大增18%，首次突破具有象征意义的新台币1万亿元大关。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E6%8B%9F%E5%87%BA%E5%8F%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97-%E5%90%91%E7%BE%8E%E4%B8%AD%E8%A1%A8%E6%98%8E%E7%AB%8B%E5%9C%BA-3d14cd9a</link>
-            <guid isPermaLink="false">WP-WSJS-0003830842</guid>
-            <pubDate>Thu, 20 Aug 2026 08:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国政界对数据中心态度大转向：昔日力挺，如今炮轰]]></title>
@@ -182,6 +182,13 @@
             <pubDate>Mon, 17 Aug 2026 10:39:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[你觉得在办公室穿什么才合适？来做做我们的小测试吧]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93255237?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对于上班时该穿什么、不该穿什么，每个人都有自己的一套标准。来看看你个人的职场着装标准与《华尔街日报》的其他读者有何异同。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BD%A0%E8%A7%89%E5%BE%97%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%A9%BF%E4%BB%80%E4%B9%88%E6%89%8D%E5%90%88%E9%80%82-%E6%9D%A5%E5%81%9A%E5%81%9A%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95%E5%90%A7-048c31b7</link>
+            <guid isPermaLink="false">WP-WSJS-0003833872</guid>
+            <pubDate>Fri, 21 Aug 2026 06:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[打破年龄魔咒：66岁老人重返职场之路]]></title>
             <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”</p>]]></description>
             <link>https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127</link>
@@ -203,18 +210,11 @@
             <pubDate>Wed, 19 Aug 2026 04:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国悼念前总理“朱老板”，但须按中共的规矩来]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-64970248?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>习近平宣告继承朱镕基主导经济开放的政治遗产，同时压制了公众对那个官员更敢开口、控制相对宽松的时代的记忆。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%82%BC%E5%BF%B5%E5%89%8D%E6%80%BB%E7%90%86-%E6%9C%B1%E8%80%81%E6%9D%BF-%E4%BD%86%E9%A1%BB%E6%8C%89%E4%B8%AD%E5%85%B1%E7%9A%84%E8%A7%84%E7%9F%A9%E6%9D%A5-148d755f</link>
-            <guid isPermaLink="false">WP-WSJS-0003827208</guid>
-            <pubDate>Wed, 19 Aug 2026 01:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[你觉得在办公室穿什么才合适？来做做我们的小测试吧]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93255237?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对于上班时该穿什么、不该穿什么，每个人都有自己的一套标准。来看看你个人的职场着装标准与《华尔街日报》的其他读者有何异同。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BD%A0%E8%A7%89%E5%BE%97%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%A9%BF%E4%BB%80%E4%B9%88%E6%89%8D%E5%90%88%E9%80%82-%E6%9D%A5%E5%81%9A%E5%81%9A%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95%E5%90%A7-048c31b7</link>
-            <guid isPermaLink="false">WP-WSJS-0003833872</guid>
-            <pubDate>Fri, 21 Aug 2026 06:30:00 GMT</pubDate>
+            <title><![CDATA[初创公司创始人恨不得24小时工作，以跟上自家AI智能体]]></title>
+            <description><![CDATA[<img width="608" height="404" src="https://images.wsj.net/im-33819417?size=1.5053763440860215&width=608" class="webfeedsFeaturedVisual" alt=""/><p>AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai-agents-startup-work-culture-fbaeb407</link>
+            <guid isPermaLink="false">WP-WSJS-0003838017</guid>
+            <pubDate>Mon, 24 Aug 2026 02:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[华尔街如何嗅到了Situational Awareness危机爆发的气息]]></title>
