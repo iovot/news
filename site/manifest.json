@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:58:41.568218+00:00",
+  "generated_at": "2026-08-25T06:59:32.784144+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,27 +17,27 @@
       "error": ""
     },
     {
-      "title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
-      "summary": "美国财长宣布了旨在打击德黑兰支持者并切断该政权剩余经济命脉的新措施。",
-      "link": "https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%AF%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%AD%A4%E7%AB%8B%E8%A1%8C%E5%8A%A8-%E6%97%A8%E5%9C%A8%E5%AD%A4%E7%AB%8B%E5%B9%B6%E6%89%93%E5%8E%8B%E4%BC%8A%E6%9C%97-840c3a72",
-      "guid": "WP-WSJS-0003840346",
-      "pub_date": "Mon, 24 Aug 2026 23:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-22803249?size=1.499&width=1280",
-      "snapshot": "articles/e8-b4-9d-e6-a3-ae-e7-89-b9-e5-90-af-e5-8a-a8--e7-f751c2d036b4.html",
+      "title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
+      "summary": "在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444",
+      "guid": "WP-WSJS-0003840857",
+      "pub_date": "Tue, 25 Aug 2026 05:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-23887692?size=1.499&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e5-b7-b2-e6--f30d16445af0.html",
       "captured": true,
-      "capture_title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
+      "capture_title": "伊朗战争已持续近半年，回看战前那些被无视的警告 - WSJ",
       "error": ""
     },
     {
-      "title": "特朗普威胁对加拿大产汽车及零部件的关税提高到50%",
-      "summary": "此举将于明年1月生效，是美加两国之间上周末爆发的针锋相对的贸易冲突的最新升级。",
-      "link": "https://cn.wsj.com/articles/trumpthreatens-50-tariff-on-automobiles-and-parts-from-canada-6c8bc523",
-      "guid": "WP-WSJS-0003840419",
-      "pub_date": "Tue, 25 Aug 2026 00:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-29594939?size=1.501&width=1280",
-      "snapshot": "articles/trumpthreatens-50-tariff-on-automobiles-and-part-7353a5ed0ff2.html",
+      "title": "台湾起诉九名涉嫌向中国转售AI服务器的人员",
+      "summary": "这九名人员包括英伟达和Super Micro Computer的前员工。眼下，台湾正努力限制敏感技术流入中国大陆。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E8%B5%B7%E8%AF%89%E4%B9%9D%E5%90%8D%E6%B6%89%E5%AB%8C%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BD%AC%E5%94%AEai%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E4%BA%BA%E5%91%98-352f388d",
+      "guid": "WP-WSJS-0003840596",
+      "pub_date": "Tue, 25 Aug 2026 01:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-02639317?size=1&width=1280",
+      "snapshot": "articles/e5-8f-b0-e6-b9-be-e8-b5-b7-e8-af-89-e4-b9-9d-e5--74141e27e3d3.html",
       "captured": true,
-      "capture_title": "特朗普威胁对加拿大产汽车及零部件的关税提高到50%",
+      "capture_title": "台湾起诉九名涉嫌向中国转售AI服务器的人员",
       "error": ""
     },
     {
@@ -53,15 +53,15 @@
       "error": ""
     },
     {
-      "title": "推动中国AI实现惊人飞跃的幕后智囊",
-      "summary": "凭借创新与模仿，中国高校实验室走出的计算机科学家正紧追Anthropic和OpenAI的步伐；他们“很懂怎么把研究成果变现”。",
-      "link": "https://cn.wsj.com/articles/%E6%8E%A8%E5%8A%A8%E4%B8%AD%E5%9B%BDai%E5%AE%9E%E7%8E%B0%E6%83%8A%E4%BA%BA%E9%A3%9E%E8%B7%83%E7%9A%84%E5%B9%95%E5%90%8E%E6%99%BA%E5%9B%8A-9a0f1c39",
-      "guid": "WP-WSJS-0003833892",
-      "pub_date": "Fri, 21 Aug 2026 06:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-04885044?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e6-8e-a8-e5-8a-a8-e4-b8-ad-e5-9b-bdai-e5-ae-9e-e-24edb518b2cf.html",
+      "title": "特朗普威胁对加拿大产汽车及零部件的关税提高到50%",
+      "summary": "此举将于明年1月生效，是美加两国之间上周末爆发的针锋相对的贸易冲突的最新升级。",
+      "link": "https://cn.wsj.com/articles/trumpthreatens-50-tariff-on-automobiles-and-parts-from-canada-6c8bc523",
+      "guid": "WP-WSJS-0003840419",
+      "pub_date": "Tue, 25 Aug 2026 00:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-29594939?size=1.501&width=1280",
+      "snapshot": "articles/trumpthreatens-50-tariff-on-automobiles-and-part-7353a5ed0ff2.html",
       "captured": true,
-      "capture_title": "推动中国AI实现惊人飞跃的幕后智囊",
+      "capture_title": "特朗普威胁对加拿大产汽车及零部件的关税提高到50%",
       "error": ""
     },
     {
@@ -89,6 +89,18 @@
       "error": ""
     },
     {
+      "title": "全球最疯狂股市崩盘，从AI全民狂欢到血洗散户",
+      "summary": "在AI热潮的推动下，过去一年的大部分时间里，韩国股市在全球独领风骚。随后，这轮行情轰然崩盘。韩国综合指数六周内的崩盘，瞬间蒸发了约2.5万亿美元市值。",
+      "link": "https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E7%96%AF%E7%8B%82%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98-%E4%BB%8Eai%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E5%88%B0%E8%A1%80%E6%B4%97%E6%95%A3%E6%88%B7-1c4d84e3",
+      "guid": "WP-WSJS-0003840810",
+      "pub_date": "Tue, 25 Aug 2026 03:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-69319207?size=1.5&width=1280",
+      "snapshot": "articles/e5-85-a8-e7-90-83-e6-9c-80-e7-96-af-e7-8b-82-e8--ff9448fe6e39.html",
+      "captured": true,
+      "capture_title": "全球最疯狂股市崩盘，从AI全民狂欢到血洗散户 - WSJ",
+      "error": ""
+    },
+    {
       "title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
       "summary": "在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。",
       "link": "https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f",
@@ -97,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-28771509?size=1.5&width=1280",
       "snapshot": "articles/e6-8e-a2-e8-ae-bf-e5-8d-8e-e5-b0-94-e8-a1-97-e7--4c17fb5b3e6d.html",
       "captured": true,
-      "capture_title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意 - WSJ",
+      "capture_title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
       "error": ""
     },
     {
@@ -113,18 +125,6 @@
       "error": ""
     },
     {
-      "title": "台湾起诉九名涉嫌向中国转售AI服务器的人员",
-      "summary": "这九名人员包括英伟达和Super Micro Computer的前员工。眼下，台湾正努力限制敏感技术流入中国大陆。",
-      "link": "https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E8%B5%B7%E8%AF%89%E4%B9%9D%E5%90%8D%E6%B6%89%E5%AB%8C%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BD%AC%E5%94%AEai%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E4%BA%BA%E5%91%98-352f388d",
-      "guid": "WP-WSJS-0003840596",
-      "pub_date": "Tue, 25 Aug 2026 01:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-02639317?size=1&width=1280",
-      "snapshot": "articles/e5-8f-b0-e6-b9-be-e8-b5-b7-e8-af-89-e4-b9-9d-e5--74141e27e3d3.html",
-      "captured": true,
-      "capture_title": "台湾起诉九名涉嫌向中国转售AI服务器的人员 - WSJ",
-      "error": ""
-    },
-    {
       "title": "“浪子”哈里回国令威廉王子陷入两难",
       "summary": "关系疏远的弟弟哈里决定搬回英国让王位继承人威廉面临伸出橄榄枝的压力。",
       "link": "https://cn.wsj.com/articles/%E6%B5%AA%E5%AD%90-%E5%93%88%E9%87%8C%E5%9B%9E%E5%9B%BD%E4%BB%A4%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E9%99%B7%E5%85%A5%E4%B8%A4%E9%9A%BE-204e878a",
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-41990172?size=1.501&width=1280",
       "snapshot": "articles/e6-b5-aa-e5-ad-90--e5-93-88-e9-87-8c-e5-9b-9e-e5-31c13a385e78.html",
       "captured": true,
-      "capture_title": "“浪子”哈里回国令威廉王子陷入两难 - WSJ",
+      "capture_title": "“浪子”哈里回国令威廉王子陷入两难",
       "error": ""
     },
     {
@@ -145,7 +145,31 @@
       "image_url": "https://images.wsj.net/im-46192940?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ba-e4-bd-95-e4-bd-a0-e7-9a-84-e8-80-81-e6--cd904b52031d.html",
       "captured": true,
-      "capture_title": "为何你的老板希望AI能读取你的Slack消息 - WSJ",
+      "capture_title": "为何你的老板希望AI能读取你的Slack消息",
+      "error": ""
+    },
+    {
+      "title": "珍本书大卖背后：先拆解扫描，再“喂给”AI",
+      "summary": "卖家正因销量大增而欣喜，但同时也在担忧，那些珍本书籍是否正被“送上断头台”，用于训练大语言模型。",
+      "link": "https://cn.wsj.com/articles/%E7%8F%8D%E6%9C%AC%E4%B9%A6%E5%A4%A7%E5%8D%96%E8%83%8C%E5%90%8E-%E8%A2%AB%E6%8B%86%E8%A7%A3%E6%89%AB%E6%8F%8F-%E7%84%B6%E5%90%8E-%E5%96%82%E7%BB%99-ai-bc2ef0e6",
+      "guid": "WP-WSJS-0003840733",
+      "pub_date": "Tue, 25 Aug 2026 02:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-11254749?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/e7-8f-8d-e6-9c-ac-e4-b9-a6-e5-a4-a7-e5-8d-96-e8--e00dbca3f306.html",
+      "captured": true,
+      "capture_title": "珍本书大卖背后：先拆解扫描，再“喂给”AI",
+      "error": ""
+    },
+    {
+      "title": "为了一家海鲜小店，亿万富豪CEO与汉普顿小镇的无休止纷争",
+      "summary": "Apollo首席执行官马克·罗文在蒙托克海滨开设的餐厅吸引了众多名人和网红。邻居们却认为这家餐厅未经过审批，根本不应该开在那里。",
+      "link": "https://cn.wsj.com/articles/marc-rowan-apollo-montauk-restaurant-6b4ab475",
+      "guid": "WP-WSJS-0003840811",
+      "pub_date": "Tue, 25 Aug 2026 03:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-79168384?size=1.501&width=1280",
+      "snapshot": "articles/marc-rowan-apollo-montauk-restaurant-6b4ab475-a60d932ca9da.html",
+      "captured": true,
+      "capture_title": "为了一家海鲜小店，亿万富豪CEO与汉普顿小镇的无休止纷争 - WSJ",
       "error": ""
     },
     {
@@ -157,19 +181,19 @@
       "image_url": "https://images.wsj.net/im-56409288?size=1.501&width=1280",
       "snapshot": "articles/e5-b0-8f-e9-b9-8f-e6-b1-bd-e8-bd-a6-e6-8e-a8-e8--75f675cecb4f.html",
       "captured": true,
-      "capture_title": "小鹏汽车推进物理AI之际净亏损扩大 - WSJ",
+      "capture_title": "小鹏汽车推进物理AI之际净亏损扩大",
       "error": ""
     },
     {
-      "title": "SpaceX将部署英伟达CPU芯片用于AI开发",
-      "summary": "英伟达周一表示，此次合作将把首款面向AI智能体打造的CPU引入xAI的部署体系，其中包括Grok聊天机器人等项目。",
-      "link": "https://cn.wsj.com/articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-development-27611f05",
-      "guid": "WP-WSJS-0003840430",
-      "pub_date": "Mon, 24 Aug 2026 23:50:00 GMT",
-      "image_url": "https://images.mktw.net/im-63188887?size=1.48&width=1280",
-      "snapshot": "articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-develop-0f264356c5fd.html",
+      "title": "极星称特朗普政府在美国禁令出台前一直对其敷衍拖延",
+      "summary": "极星被迫退出美国市场两个月后，该公司正告诉美国经销商，自己对这一决定始料未及。",
+      "link": "https://cn.wsj.com/articles/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-df4b9d3e",
+      "guid": "WP-WSJS-0003840373",
+      "pub_date": "Mon, 24 Aug 2026 23:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-94401672?size=1.984&width=1280",
+      "snapshot": "articles/ev-maker-polestar-says-trump-administration-stru-b309d488a5a4.html",
       "captured": true,
-      "capture_title": "SpaceX将部署英伟达CPU芯片用于AI开发",
+      "capture_title": "极星称特朗普政府在美国禁令出台前一直对其敷衍拖延",
       "error": ""
     },
     {
@@ -197,15 +221,15 @@
       "error": ""
     },
     {
-      "title": "极星称特朗普政府在美国禁令出台前一直对其敷衍拖延",
-      "summary": "极星被迫退出美国市场两个月后，该公司正告诉美国经销商，自己对这一决定始料未及。",
-      "link": "https://cn.wsj.com/articles/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-df4b9d3e",
-      "guid": "WP-WSJS-0003840373",
-      "pub_date": "Mon, 24 Aug 2026 23:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-94401672?size=1.984&width=1280",
-      "snapshot": "articles/ev-maker-polestar-says-trump-administration-stru-b309d488a5a4.html",
+      "title": "推动中国AI实现惊人飞跃的幕后智囊",
+      "summary": "凭借创新与模仿，中国高校实验室走出的计算机科学家正紧追Anthropic和OpenAI的步伐；他们“很懂怎么把研究成果变现”。",
+      "link": "https://cn.wsj.com/articles/%E6%8E%A8%E5%8A%A8%E4%B8%AD%E5%9B%BDai%E5%AE%9E%E7%8E%B0%E6%83%8A%E4%BA%BA%E9%A3%9E%E8%B7%83%E7%9A%84%E5%B9%95%E5%90%8E%E6%99%BA%E5%9B%8A-9a0f1c39",
+      "guid": "WP-WSJS-0003833892",
+      "pub_date": "Fri, 21 Aug 2026 06:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-04885044?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e6-8e-a8-e5-8a-a8-e4-b8-ad-e5-9b-bdai-e5-ae-9e-e-24edb518b2cf.html",
       "captured": true,
-      "capture_title": "极星称特朗普政府在美国禁令出台前一直对其敷衍拖延",
+      "capture_title": "推动中国AI实现惊人飞跃的幕后智囊",
       "error": ""
     },
     {
@@ -269,6 +293,42 @@
       "error": ""
     },
     {
+      "title": "美国老年人大麻越吸越嗨，邻居们怨声载道",
+      "summary": "随着大麻气味弥漫在老年活动中心和退休社区，婴儿潮一代邻里间的关系日益紧张。这引发了法律威胁、报警求助，以及高中生般的争吵。",
+      "link": "https://cn.wsj.com/articles/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-597cd6f7",
+      "guid": "WP-WSJS-0003840831",
+      "pub_date": "Tue, 25 Aug 2026 04:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-45152373?size=1.509&width=1280",
+      "snapshot": "articles/baby-boomers-are-smoking-more-pot-their-neighbor-f33c3f7dbb66.html",
+      "captured": true,
+      "capture_title": "美国老年人大麻越吸越嗨，邻居们怨声载道 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
+      "summary": "美国财长宣布了旨在打击德黑兰支持者并切断该政权剩余经济命脉的新措施。",
+      "link": "https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%AF%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%AD%A4%E7%AB%8B%E8%A1%8C%E5%8A%A8-%E6%97%A8%E5%9C%A8%E5%AD%A4%E7%AB%8B%E5%B9%B6%E6%89%93%E5%8E%8B%E4%BC%8A%E6%9C%97-840c3a72",
+      "guid": "WP-WSJS-0003840346",
+      "pub_date": "Mon, 24 Aug 2026 23:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-22803249?size=1.499&width=1280",
+      "snapshot": "articles/e8-b4-9d-e6-a3-ae-e7-89-b9-e5-90-af-e5-8a-a8--e7-f751c2d036b4.html",
+      "captured": true,
+      "capture_title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
+      "error": ""
+    },
+    {
+      "title": "SpaceX将部署英伟达CPU芯片用于AI开发",
+      "summary": "英伟达周一表示，此次合作将把首款面向AI智能体打造的CPU引入xAI的部署体系，其中包括Grok聊天机器人等项目。",
+      "link": "https://cn.wsj.com/articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-development-27611f05",
+      "guid": "WP-WSJS-0003840430",
+      "pub_date": "Mon, 24 Aug 2026 23:50:00 GMT",
+      "image_url": "https://images.mktw.net/im-63188887?size=1.48&width=1280",
+      "snapshot": "articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-develop-0f264356c5fd.html",
+      "captured": true,
+      "capture_title": "SpaceX将部署英伟达CPU芯片用于AI开发",
+      "error": ""
+    },
+    {
       "title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
       "summary": "对于上班时该穿什么、不该穿什么，每个人都有自己的一套标准。来看看你个人的职场着装标准与《华尔街日报》的其他读者有何异同。",
       "link": "https://cn.wsj.com/articles/%E4%BD%A0%E8%A7%89%E5%BE%97%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%A9%BF%E4%BB%80%E4%B9%88%E6%89%8D%E5%90%88%E9%80%82-%E6%9D%A5%E5%81%9A%E5%81%9A%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95%E5%90%A7-048c31b7",
@@ -278,18 +338,6 @@
       "snapshot": "articles/e4-bd-a0-e8-a7-89-e5-be-97-e5-9c-a8-e5-8a-9e-e5--b5fd5680203c.html",
       "captured": true,
       "capture_title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
-      "error": ""
-    },
-    {
-      "title": "珍本书大卖背后：先拆解扫描，再“喂给”AI",
-      "summary": "卖家正因销量大增而欣喜，但同时也在担忧，那些珍本书籍是否正被“送上断头台”，用于训练大语言模型。",
-      "link": "https://cn.wsj.com/articles/%E7%8F%8D%E6%9C%AC%E4%B9%A6%E5%A4%A7%E5%8D%96%E8%83%8C%E5%90%8E-%E8%A2%AB%E6%8B%86%E8%A7%A3%E6%89%AB%E6%8F%8F-%E7%84%B6%E5%90%8E-%E5%96%82%E7%BB%99-ai-bc2ef0e6",
-      "guid": "WP-WSJS-0003840733",
-      "pub_date": "Tue, 25 Aug 2026 02:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-11254749?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e7-8f-8d-e6-9c-ac-e4-b9-a6-e5-a4-a7-e5-8d-96-e8--e00dbca3f306.html",
-      "captured": true,
-      "capture_title": "珍本书大卖背后：先拆解扫描，再“喂给”AI - WSJ",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/e6-b9-96-e4-ba-ba-e6-8e-8c-e9-97-a8-e7-8f-8d-e5--ae152017aa57.html",
       "captured": true,
       "capture_title": "湖人掌门珍妮·巴斯身陷NBA最难堪的继承之战 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "宇树上市首日股价暴涨，投资者大举押注机器人产业",
-      "summary": "宇树科技开盘后股价飙升至发行价的六倍多，投资者视其为中国抢占机器人产业高地的领军企业。",
-      "link": "https://cn.wsj.com/articles/chinas-unitree-soars-in-debut-as-investors-bet-big-on-robotics-0959643a",
-      "guid": "WP-WSJS-0003827645",
-      "pub_date": "Wed, 19 Aug 2026 06:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-14062028?size=1.501&width=1280",
-      "snapshot": "articles/chinas-unitree-soars-in-debut-as-investors-bet-b-8418adbdda4c.html",
-      "captured": true,
-      "capture_title": "宇树上市首日股价暴涨，投资者大举押注机器人产业",
-      "error": ""
-    },
-    {
-      "title": "揭秘美国一代人以来首座核反应堆的建设攻关",
-      "summary": "在爱达荷国家实验室，再度兴起的原子能热正与AI狂热碰撞出火花。Oklo等公司希望推动一场AI革命与核能复兴，为未来几十年的美国经济提供动力。",
-      "link": "https://cn.wsj.com/articles/%E6%8F%AD%E7%A7%98%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BB%A3%E4%BA%BA%E4%BB%A5%E6%9D%A5%E9%A6%96%E5%BA%A7%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E7%9A%84%E5%BB%BA%E8%AE%BE%E6%94%BB%E5%85%B3-a9157198",
-      "guid": "WP-WSJS-0003827189",
-      "pub_date": "Wed, 19 Aug 2026 01:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-21645787?size=1.499&width=1280",
-      "snapshot": "articles/e6-8f-ad-e7-a7-98-e7-be-8e-e5-9b-bd-e4-b8-80-e4--438e3ffb5437.html",
-      "captured": true,
-      "capture_title": "揭秘美国一代人以来首座核反应堆的建设攻关",
-      "error": ""
-    },
-    {
-      "title": "每个人都向往希腊跳岛游——直到他们坐上“呕吐彗星”",
-      "summary": "穿梭于风景如画的希腊群岛的高速客轮，让一些游客经历了漫长曲折的奥德赛之旅。他们说，自己从来没有晕船晕得这么厉害。",
-      "link": "https://cn.wsj.com/articles/%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E5%90%91%E5%BE%80%E5%B8%8C%E8%85%8A%E8%B7%B3%E5%B2%9B%E6%B8%B8-%E7%9B%B4%E5%88%B0%E4%BB%96%E4%BB%AC%E5%9D%90%E4%B8%8A-%E5%91%95%E5%90%90%E5%BD%97%E6%98%9F-203289a0",
-      "guid": "WP-WSJS-0003827575",
-      "pub_date": "Wed, 19 Aug 2026 05:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-56499914?size=1.5053763440860215&width=918",
-      "snapshot": "articles/e6-af-8f-e4-b8-aa-e4-ba-ba-e9-83-bd-e5-90-91-e5--2fc81d806593.html",
-      "captured": true,
-      "capture_title": "每个人都向往希腊跳岛游——直到他们坐上“呕吐彗星”",
-      "error": ""
-    },
-    {
-      "title": "我为何要求聊天机器人别再对我过度谄媚",
-      "summary": "AI回答问题总是过于迎合、过于热情，而这在一定程度上是我们自己造成的。",
-      "link": "https://cn.wsj.com/articles/%E6%88%91%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%AB%E5%86%8D%E5%AF%B9%E6%88%91%E8%BF%87%E5%BA%A6%E8%B0%84%E5%AA%9A-061eeae2",
-      "guid": "WP-WSJS-0003824451",
-      "pub_date": "Tue, 18 Aug 2026 04:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-27500106?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e6-88-91-e4-b8-ba-e4-bd-95-e8-a6-81-e6-b1-82-e8--af9decec4532.html",
-      "captured": true,
-      "capture_title": "我为何要求聊天机器人别再对我过度谄媚",
       "error": ""
     }
   ]
