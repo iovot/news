@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 21:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 01:26:57 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 21:33:52 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 01:26:57 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,25 +28,39 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[中国年轻人正涌入这座古寺祈求好工作]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65483261?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。</p>]]></description>
-            <link>https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c</link>
-            <guid isPermaLink="false">WP-WSJS-0003837788</guid>
-            <pubDate>Mon, 24 Aug 2026 00:33:00 GMT</pubDate>
+            <title><![CDATA[中国如何经受住伊朗战争带来的石油冲击]]></title>
+            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-17126561?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。</p>]]></description>
+            <link>https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438</link>
+            <guid isPermaLink="false">WP-WSJS-0003838197</guid>
+            <pubDate>Mon, 24 Aug 2026 05:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[关税谈判破裂，美加正滑向全面贸易战]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67345943?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在双方因贸易谈判破裂而互相指责之际，加拿大以加征关税回应美国的新关税措施。</p>]]></description>
-            <link>https://cn.wsj.com/articles/canada-announces-new-post-labor-day-tariffs-48623a21</link>
-            <guid isPermaLink="false">WP-WSJS-0003837944</guid>
-            <pubDate>Mon, 24 Aug 2026 01:31:00 GMT</pubDate>
+            <title><![CDATA[AI板块不安情绪和地缘政治威胁令美股承压]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56613172?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>芯片制造商股价下跌以及地缘政治紧张局势加剧的迹象周一令主要股指承压，使市场这繁忙的一周开局承压。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai%E6%9D%BF%E5%9D%97%E4%B8%8D%E5%AE%89%E6%83%85%E7%BB%AA%E5%92%8C%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%A8%81%E8%83%81%E4%BB%A4%E7%BE%8E%E8%82%A1%E6%89%BF%E5%8E%8B-d297158a</link>
+            <guid isPermaLink="false">WP-WSJS-0003840598</guid>
+            <pubDate>Tue, 25 Aug 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华尔街押注英伟达让AI盛宴继续下去]]></title>
-            <description><![CDATA[<img width="1280" height="856" src="https://images.wsj.net/im-56641862?size=1.495&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达业绩或在科技板块乃至整个股市引发震荡。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A9ai%E7%9B%9B%E5%AE%B4%E7%BB%A7%E7%BB%AD%E4%B8%8B%E5%8E%BB-24503f51</link>
-            <guid isPermaLink="false">WP-WSJS-0003838068</guid>
-            <pubDate>Mon, 24 Aug 2026 02:45:00 GMT</pubDate>
+            <title><![CDATA[特朗普威胁对加拿大产汽车及零部件的关税提高到50%]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29594939?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举将于明年1月生效，是美加两国之间上周末爆发的针锋相对的贸易冲突的最新升级。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trumpthreatens-50-tariff-on-automobiles-and-parts-from-canada-6c8bc523</link>
+            <guid isPermaLink="false">WP-WSJS-0003840419</guid>
+            <pubDate>Tue, 25 Aug 2026 00:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府拟对H-1B签证征收六位数新费用]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-53942215?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举旨在取代此前一项对该签证收取10万美元但被法院裁定无效的计划。</p>]]></description>
+            <link>https://cn.wsj.com/articles/government-proposes-new-six-figure-fee-for-h1-b-visas-14b327e3</link>
+            <guid isPermaLink="false">WP-WSJS-0003840349</guid>
+            <pubDate>Mon, 24 Aug 2026 23:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[最高法院为特朗普有关邮寄选票的指令扫除障碍]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-74976992?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>最高法院称，这些州的法律挑战为时过早，而且这些州不具备挑战特朗普行政令部分内容的诉讼资格。</p>]]></description>
+            <link>https://cn.wsj.com/articles/supreme-court-removes-hurdle-to-trump-directive-on-mail-voting-62504d11</link>
+            <guid isPermaLink="false">WP-WSJS-0003840411</guid>
+            <pubDate>Mon, 24 Aug 2026 23:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[贝森特被美债市场上了一课的疯狂一周]]></title>
@@ -56,13 +70,6 @@
             <pubDate>Mon, 24 Aug 2026 01:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗政界高层呼吁结束战争]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10550771?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗总统与议长表示，德黑兰需要在握有筹码时谈判退出战争并提振其经济。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%94%BF%E7%95%8C%E9%AB%98%E5%B1%82%E5%91%BC%E5%90%81%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89-eeaee00a</link>
-            <guid isPermaLink="false">WP-WSJS-0003837763</guid>
-            <pubDate>Sun, 23 Aug 2026 23:50:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[俄罗斯唯一反战政党不再被容忍，暴露普京政权脆弱性]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-87475753?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亚博卢党为了生存，几十年来一直进行自我审查。乌克兰战争使这种平衡策略无法继续下去。</p>]]></description>
             <link>https://cn.wsj.com/articles/russia-yabloko-party-putin-ukraine-war-4f251850</link>
@@ -70,11 +77,18 @@
             <pubDate>Mon, 24 Aug 2026 03:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[民主党人准备对特朗普及其盟友展开一系列调查]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93270020?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>民主党人正在为可能对特朗普政府展开的多线调查做准备，一旦他们在11月赢得众议院多数席位，这些调查便可能启动；白宫也在为可能涌来的大量传票做准备。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%87%86%E5%A4%87%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E5%B1%95%E5%BC%80%E4%B8%80%E7%B3%BB%E5%88%97%E8%B0%83%E6%9F%A5-9a660990</link>
-            <guid isPermaLink="false">WP-WSJS-0003837989</guid>
-            <pubDate>Mon, 24 Aug 2026 01:51:00 GMT</pubDate>
+            <title><![CDATA[贝森特启动“经济孤立行动”，旨在孤立并打压伊朗]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-22803249?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国财政部长宣布了旨在打击德黑兰支持者并切断该政权剩余经济命脉的新措施。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%AF%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%AD%A4%E7%AB%8B%E8%A1%8C%E5%8A%A8-%E6%97%A8%E5%9C%A8%E5%AD%A4%E7%AB%8B%E5%B9%B6%E6%89%93%E5%8E%8B%E4%BC%8A%E6%9C%97-840c3a72</link>
+            <guid isPermaLink="false">WP-WSJS-0003840346</guid>
+            <pubDate>Mon, 24 Aug 2026 23:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国年轻人正涌入这座古寺祈求好工作]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65483261?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。</p>]]></description>
+            <link>https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c</link>
+            <guid isPermaLink="false">WP-WSJS-0003837788</guid>
+            <pubDate>Mon, 24 Aug 2026 00:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[推动中国AI实现惊人飞跃的幕后智囊]]></title>
@@ -84,20 +98,6 @@
             <pubDate>Fri, 21 Aug 2026 06:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国如何经受住伊朗战争带来的石油冲击]]></title>
-            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-17126561?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438</link>
-            <guid isPermaLink="false">WP-WSJS-0003838197</guid>
-            <pubDate>Mon, 24 Aug 2026 05:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[重押癌症疫苗，莫德纳如何绝地逢生]]></title>
-            <description><![CDATA[<img width="1280" height="1396" src="https://images.wsj.net/im-28530932?size=0.917&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在经历多年的裁员、资金消耗以及针对核心技术的政治攻击后，莫德纳的黑色素瘤疫苗数据为其赢得了宝贵的胜利。</p>]]></description>
-            <link>https://cn.wsj.com/articles/moderna-cancer-vaccine-f01c1ae3</link>
-            <guid isPermaLink="false">WP-WSJS-0003838146</guid>
-            <pubDate>Mon, 24 Aug 2026 04:36:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[曾痛批特朗普气候政策倒退，欧洲如今也在回撤绿色目标]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57442431?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>发达国家越来越不愿承担减少化石燃料措施的成本，欧洲、英国和加拿大如今都在回撤各自的环保法规。</p>]]></description>
             <link>https://cn.wsj.com/articles/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-2da42fec</link>
@@ -105,11 +105,32 @@
             <pubDate>Mon, 24 Aug 2026 05:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[从沃什昔日预测看其如何形成通胀立场]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-95332446?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美联储主席凯文·沃什不愿就利率走向释放信号，令外界难以判断他究竟如何看待经济和通胀。好在，只要找对地方，就有大量证据能准确揭示他的想法。</p>]]></description>
-            <link>https://cn.wsj.com/articles/warshs-old-forecasts-show-how-he-formed-his-views-on-inflation-06cb20b9</link>
-            <guid isPermaLink="false">WP-WSJS-0003838054</guid>
-            <pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
+            <title><![CDATA[美国取消与韩国的海军陆战队演习]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-38103003?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是伊朗战争爆发后美国在亚洲的最新收缩举动。过去，这项由两国海军陆战队参与的演习旨在向盟友重申华盛顿对该地区的承诺。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8F%96%E6%B6%88%E4%B8%8E%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E6%BC%94%E4%B9%A0-76567c9a</link>
+            <guid isPermaLink="false">WP-WSJS-0003840454</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[极星称特朗普政府在美国禁令出台前一直对其敷衍拖延]]></title>
+            <description><![CDATA[<img width="1280" height="645" src="https://images.wsj.net/im-94401672?size=1.984&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>极星被迫退出美国市场两个月后，该公司正告诉美国经销商，自己对这一决定始料未及。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-df4b9d3e</link>
+            <guid isPermaLink="false">WP-WSJS-0003840373</guid>
+            <pubDate>Mon, 24 Aug 2026 23:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX将部署英伟达CPU芯片用于AI开发]]></title>
+            <description><![CDATA[<img width="1280" height="865" src="https://images.mktw.net/im-63188887?size=1.48&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达周一表示，此次合作将把首款面向AI智能体打造的CPU引入xAI的部署体系，其中包括Grok聊天机器人等项目。</p>]]></description>
+            <link>https://cn.wsj.com/articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-development-27611f05</link>
+            <guid isPermaLink="false">WP-WSJS-0003840430</guid>
+            <pubDate>Mon, 24 Aug 2026 23:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[长江存储拟IPO筹资49亿美元，借力AI驱动增长]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-19520563?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI带来的爆炸性需求正在提振该存储芯片制造商的营收和净利润。 此次IPO有望成为中国多年来规模最大的半导体制造商上市交易之一。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-ccb3acc5</link>
+            <guid isPermaLink="false">WP-WSJS-0003838333</guid>
+            <pubDate>Mon, 24 Aug 2026 06:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shein为香港IPO定价，目标估值270亿美元]]></title>
@@ -126,13 +147,6 @@
             <pubDate>Mon, 24 Aug 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[长江存储拟IPO筹资49亿美元，借力AI驱动增长]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-19520563?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI带来的爆炸性需求正在提振该存储芯片制造商的营收和净利润。 此次IPO有望成为中国多年来规模最大的半导体制造商上市交易之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-ccb3acc5</link>
-            <guid isPermaLink="false">WP-WSJS-0003838333</guid>
-            <pubDate>Mon, 24 Aug 2026 06:47:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[软银计划发行创纪录规模的零售债券，以推进AI战略]]></title>
             <description><![CDATA[<img width="1280" height="877" src="https://images.wsj.net/im-27691693?size=1.46&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>软银集团计划发行1万亿日圆的零售债券，为其人工智能投资提供资金。</p>]]></description>
             <link>https://cn.wsj.com/articles/softbank-plans-record-retail-bond-issuance-amid-ai-push-b1c45880</link>
@@ -140,18 +154,25 @@
             <pubDate>Mon, 24 Aug 2026 07:51:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[从沃什昔日预测看其如何形成通胀立场]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-95332446?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美联储主席凯文·沃什不愿就利率走向释放信号，令外界难以判断他究竟如何看待经济和通胀。好在，只要找对地方，就有大量证据能准确揭示他的想法。</p>]]></description>
+            <link>https://cn.wsj.com/articles/warshs-old-forecasts-show-how-he-formed-his-views-on-inflation-06cb20b9</link>
+            <guid isPermaLink="false">WP-WSJS-0003838054</guid>
+            <pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[重押癌症疫苗，莫德纳如何绝地逢生]]></title>
+            <description><![CDATA[<img width="1280" height="1396" src="https://images.wsj.net/im-28530932?size=0.917&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在经历多年的裁员、资金消耗以及针对核心技术的政治攻击后，莫德纳的黑色素瘤疫苗数据为其赢得了宝贵的胜利。</p>]]></description>
+            <link>https://cn.wsj.com/articles/moderna-cancer-vaccine-f01c1ae3</link>
+            <guid isPermaLink="false">WP-WSJS-0003838146</guid>
+            <pubDate>Mon, 24 Aug 2026 04:36:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[特朗普的干预如何让司法部放过了Live Nation]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89785439?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Live Nation反垄断案最初旨在迫使这家演唱会巨头出售Ticketmaster。在两次白宫会议之后，一项协议让该公司得以保持完整。</p>]]></description>
             <link>https://cn.wsj.com/articles/trump-live-nation-antitrust-doj-a12b797c</link>
             <guid isPermaLink="false">WP-WSJS-0003838122</guid>
             <pubDate>Mon, 24 Aug 2026 03:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普投资账户6月进行逾千笔股票交易]]></title>
-            <description><![CDATA[<img width="1280" height="846" src="https://images.wsj.net/im-65193737?size=1.513&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>白宫称这些交易依托计算机模型投资组合进行操作，自动复制主流指数的走势。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%95%E8%B5%84%E8%B4%A6%E6%88%B76%E6%9C%88%E8%BF%9B%E8%A1%8C%E9%80%BE%E5%8D%83%E7%AC%94%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93-247ad939</link>
-            <guid isPermaLink="false">WP-WSJS-0003837808</guid>
-            <pubDate>Mon, 24 Aug 2026 00:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI的下一次重大飞跃：走进现实世界]]></title>
@@ -168,32 +189,11 @@
             <pubDate>Thu, 20 Aug 2026 23:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[图解美国高校如何加速冲向招生断崖]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-64532115?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国高等教育正撞上人口断崖。多年增长之后，18岁适龄学生的生源正在减少，原因是出生率下降。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E7%BE%8E%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%A6%82%E4%BD%95%E5%8A%A0%E9%80%9F%E5%86%B2%E5%90%91%E6%8B%9B%E7%94%9F%E6%96%AD%E5%B4%96-78b32ad9</link>
-            <guid isPermaLink="false">WP-WSJS-0003833377</guid>
-            <pubDate>Fri, 21 Aug 2026 00:44:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[你觉得在办公室穿什么才合适？来做做我们的小测试吧]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93255237?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对于上班时该穿什么、不该穿什么，每个人都有自己的一套标准。来看看你个人的职场着装标准与《华尔街日报》的其他读者有何异同。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BD%A0%E8%A7%89%E5%BE%97%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%A9%BF%E4%BB%80%E4%B9%88%E6%89%8D%E5%90%88%E9%80%82-%E6%9D%A5%E5%81%9A%E5%81%9A%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95%E5%90%A7-048c31b7</link>
             <guid isPermaLink="false">WP-WSJS-0003833872</guid>
             <pubDate>Fri, 21 Aug 2026 06:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈里与梅根的美国梦终结]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-52979687?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E4%B8%8E%E6%A2%85%E6%A0%B9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%BB%88%E7%BB%93-507ec1b1</link>
-            <guid isPermaLink="false">WP-WSJS-0003833543</guid>
-            <pubDate>Fri, 21 Aug 2026 01:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港法院裁定邹幸彤和李卓人煽动颠覆国家政权罪名成立]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-81419831?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>两名活动人士是香港支联会的成员，曾组织大规模纪念1989年天安门广场抗议活动的年度守夜活动。</p>]]></description>
-            <link>https://cn.wsj.com/articles/hong-kong-court-convicts-activists-who-organized-tiananmen-vigils-e6546b92</link>
-            <guid isPermaLink="false">WP-WSJS-0003833793</guid>
-            <pubDate>Fri, 21 Aug 2026 05:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[初创公司创始人恨不得24小时工作，以跟上自家AI智能体]]></title>
@@ -203,18 +203,18 @@
             <pubDate>Mon, 24 Aug 2026 02:08:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[哈里与梅根的美国梦终结]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-52979687?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在经历了Netflix合约、制作果酱等商业试水，以及种种争议之后，这对王室夫妇长达六年的留美生活告一段落，如今正重返英国。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E4%B8%8E%E6%A2%85%E6%A0%B9%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%A2%A6%E7%BB%88%E7%BB%93-507ec1b1</link>
+            <guid isPermaLink="false">WP-WSJS-0003833543</guid>
+            <pubDate>Fri, 21 Aug 2026 01:25:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[与特朗普形影不离的助手如何成为华盛顿热议焦点]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-74597637?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>总统行政助理娜塔莉·哈普已成为美国政坛左右两派都极度关注的人物。只要在恰当的时机给哈普发条短信，就能打通接触特朗普的渠道。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%A2%E5%BD%B1%E4%B8%8D%E7%A6%BB%E7%9A%84%E5%A5%B3%E5%8A%A9%E6%89%8B%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%B0%88%E8%B5%84-c321e846</link>
             <guid isPermaLink="false">WP-WSJS-0003827522</guid>
             <pubDate>Wed, 19 Aug 2026 04:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[打破年龄魔咒：66岁老人重返职场之路]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127</link>
-            <guid isPermaLink="false">WP-WSJS-0003833542</guid>
-            <pubDate>Fri, 21 Aug 2026 01:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>

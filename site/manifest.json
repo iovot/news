@@ -1,43 +1,67 @@
 {
-  "generated_at": "2026-08-24T21:33:54.166776+00:00",
+  "generated_at": "2026-08-25T01:32:33.176769+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "中国年轻人正涌入这座古寺祈求好工作",
-      "summary": "如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。",
-      "link": "https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c",
-      "guid": "WP-WSJS-0003837788",
-      "pub_date": "Mon, 24 Aug 2026 00:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-65483261?size=1.5&width=1280",
-      "snapshot": "articles/this-ancient-temple-is-where-chinas-young-people-0d2a8806ce64.html",
+      "title": "中国如何经受住伊朗战争带来的石油冲击",
+      "summary": "中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。",
+      "link": "https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438",
+      "guid": "WP-WSJS-0003838197",
+      "pub_date": "Mon, 24 Aug 2026 05:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-17126561?size=1.49&width=1280",
+      "snapshot": "articles/see-how-china-weathered-the-iran-oil-shock-32b55-87d3bae0fee9.html",
       "captured": true,
-      "capture_title": "中国年轻人正涌入这座古寺祈求好工作",
+      "capture_title": "中国如何经受住伊朗战争带来的石油冲击",
       "error": ""
     },
     {
-      "title": "关税谈判破裂，美加正滑向全面贸易战",
-      "summary": "在双方因贸易谈判破裂而互相指责之际，加拿大以加征关税回应美国的新关税措施。",
-      "link": "https://cn.wsj.com/articles/canada-announces-new-post-labor-day-tariffs-48623a21",
-      "guid": "WP-WSJS-0003837944",
-      "pub_date": "Mon, 24 Aug 2026 01:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-67345943?size=1.501&width=1280",
-      "snapshot": "articles/canada-announces-new-post-labor-day-tariffs-4862-73ebd57891fa.html",
+      "title": "AI板块不安情绪和地缘政治威胁令美股承压",
+      "summary": "芯片制造商股价下跌以及地缘政治紧张局势加剧的迹象周一令主要股指承压，使市场这繁忙的一周开局承压。",
+      "link": "https://cn.wsj.com/articles/ai%E6%9D%BF%E5%9D%97%E4%B8%8D%E5%AE%89%E6%83%85%E7%BB%AA%E5%92%8C%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%A8%81%E8%83%81%E4%BB%A4%E7%BE%8E%E8%82%A1%E6%89%BF%E5%8E%8B-d297158a",
+      "guid": "WP-WSJS-0003840598",
+      "pub_date": "Tue, 25 Aug 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-56613172?size=1.501&width=1280",
+      "snapshot": "articles/ai-e6-9d-bf-e5-9d-97-e4-b8-8d-e5-ae-89-e6-83-85--49225b59a3ec.html",
       "captured": true,
-      "capture_title": "关税谈判破裂，美加正滑向全面贸易战",
+      "capture_title": "AI板块不安情绪和地缘政治威胁令美股承压 - WSJ",
       "error": ""
     },
     {
-      "title": "华尔街押注英伟达让AI盛宴继续下去",
-      "summary": "英伟达业绩或在科技板块乃至整个股市引发震荡。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A9ai%E7%9B%9B%E5%AE%B4%E7%BB%A7%E7%BB%AD%E4%B8%8B%E5%8E%BB-24503f51",
-      "guid": "WP-WSJS-0003838068",
-      "pub_date": "Mon, 24 Aug 2026 02:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-56641862?size=1.495&width=1280",
-      "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e6-8a-bc-e6-b3-a8-e8--1267de8ddd9b.html",
+      "title": "特朗普威胁对加拿大产汽车及零部件的关税提高到50%",
+      "summary": "此举将于明年1月生效，是美加两国之间上周末爆发的针锋相对的贸易冲突的最新升级。",
+      "link": "https://cn.wsj.com/articles/trumpthreatens-50-tariff-on-automobiles-and-parts-from-canada-6c8bc523",
+      "guid": "WP-WSJS-0003840419",
+      "pub_date": "Tue, 25 Aug 2026 00:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-29594939?size=1.501&width=1280",
+      "snapshot": "articles/trumpthreatens-50-tariff-on-automobiles-and-part-7353a5ed0ff2.html",
       "captured": true,
-      "capture_title": "华尔街押注英伟达让AI盛宴继续下去",
+      "capture_title": "特朗普威胁对加拿大产汽车及零部件的关税提高到50% - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国政府拟对H-1B签证征收六位数新费用",
+      "summary": "此举旨在取代此前一项对该签证收取10万美元但被法院裁定无效的计划。",
+      "link": "https://cn.wsj.com/articles/government-proposes-new-six-figure-fee-for-h1-b-visas-14b327e3",
+      "guid": "WP-WSJS-0003840349",
+      "pub_date": "Mon, 24 Aug 2026 23:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-53942215?size=1.501&width=1280",
+      "snapshot": "articles/government-proposes-new-six-figure-fee-for-h1-b--04d8b952579d.html",
+      "captured": true,
+      "capture_title": "美国政府拟对H-1B签证征收六位数新费用 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "最高法院为特朗普有关邮寄选票的指令扫除障碍",
+      "summary": "最高法院称，这些州的法律挑战为时过早，而且这些州不具备挑战特朗普行政令部分内容的诉讼资格。",
+      "link": "https://cn.wsj.com/articles/supreme-court-removes-hurdle-to-trump-directive-on-mail-voting-62504d11",
+      "guid": "WP-WSJS-0003840411",
+      "pub_date": "Mon, 24 Aug 2026 23:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-74976992?size=1.501&width=1280",
+      "snapshot": "articles/supreme-court-removes-hurdle-to-trump-directive--0e047d54552f.html",
+      "captured": true,
+      "capture_title": "最高法院为特朗普有关邮寄选票的指令扫除障碍 - WSJ",
       "error": ""
     },
     {
@@ -53,18 +77,6 @@
       "error": ""
     },
     {
-      "title": "伊朗政界高层呼吁结束战争",
-      "summary": "伊朗总统与议长表示，德黑兰需要在握有筹码时谈判退出战争并提振其经济。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%94%BF%E7%95%8C%E9%AB%98%E5%B1%82%E5%91%BC%E5%90%81%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89-eeaee00a",
-      "guid": "WP-WSJS-0003837763",
-      "pub_date": "Sun, 23 Aug 2026 23:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-10550771?size=1.501&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-94-bf-e7-95-8c-e9-ab-98-e5--718ef9adbd00.html",
-      "captured": true,
-      "capture_title": "伊朗政界高层呼吁结束战争",
-      "error": ""
-    },
-    {
       "title": "俄罗斯唯一反战政党不再被容忍，暴露普京政权脆弱性",
       "summary": "亚博卢党为了生存，几十年来一直进行自我审查。乌克兰战争使这种平衡策略无法继续下去。",
       "link": "https://cn.wsj.com/articles/russia-yabloko-party-putin-ukraine-war-4f251850",
@@ -77,15 +89,27 @@
       "error": ""
     },
     {
-      "title": "民主党人准备对特朗普及其盟友展开一系列调查",
-      "summary": "民主党人正在为可能对特朗普政府展开的多线调查做准备，一旦他们在11月赢得众议院多数席位，这些调查便可能启动；白宫也在为可能涌来的大量传票做准备。",
-      "link": "https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%87%86%E5%A4%87%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E5%B1%95%E5%BC%80%E4%B8%80%E7%B3%BB%E5%88%97%E8%B0%83%E6%9F%A5-9a660990",
-      "guid": "WP-WSJS-0003837989",
-      "pub_date": "Mon, 24 Aug 2026 01:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-93270020?size=1.501&width=1280",
-      "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e4-ba-ba-e5-87-86-e5--79a57531ab18.html",
+      "title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
+      "summary": "美国财政部长宣布了旨在打击德黑兰支持者并切断该政权剩余经济命脉的新措施。",
+      "link": "https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%AF%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%AD%A4%E7%AB%8B%E8%A1%8C%E5%8A%A8-%E6%97%A8%E5%9C%A8%E5%AD%A4%E7%AB%8B%E5%B9%B6%E6%89%93%E5%8E%8B%E4%BC%8A%E6%9C%97-840c3a72",
+      "guid": "WP-WSJS-0003840346",
+      "pub_date": "Mon, 24 Aug 2026 23:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-22803249?size=1.499&width=1280",
+      "snapshot": "articles/e8-b4-9d-e6-a3-ae-e7-89-b9-e5-90-af-e5-8a-a8--e7-f751c2d036b4.html",
       "captured": true,
-      "capture_title": "民主党人准备对特朗普及其盟友展开一系列调查",
+      "capture_title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国年轻人正涌入这座古寺祈求好工作",
+      "summary": "如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。",
+      "link": "https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c",
+      "guid": "WP-WSJS-0003837788",
+      "pub_date": "Mon, 24 Aug 2026 00:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-65483261?size=1.5&width=1280",
+      "snapshot": "articles/this-ancient-temple-is-where-chinas-young-people-0d2a8806ce64.html",
+      "captured": true,
+      "capture_title": "中国年轻人正涌入这座古寺祈求好工作",
       "error": ""
     },
     {
@@ -101,30 +125,6 @@
       "error": ""
     },
     {
-      "title": "中国如何经受住伊朗战争带来的石油冲击",
-      "summary": "中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。",
-      "link": "https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438",
-      "guid": "WP-WSJS-0003838197",
-      "pub_date": "Mon, 24 Aug 2026 05:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-17126561?size=1.49&width=1280",
-      "snapshot": "articles/see-how-china-weathered-the-iran-oil-shock-32b55-87d3bae0fee9.html",
-      "captured": true,
-      "capture_title": "中国如何经受住伊朗战争带来的石油冲击",
-      "error": ""
-    },
-    {
-      "title": "重押癌症疫苗，莫德纳如何绝地逢生",
-      "summary": "在经历多年的裁员、资金消耗以及针对核心技术的政治攻击后，莫德纳的黑色素瘤疫苗数据为其赢得了宝贵的胜利。",
-      "link": "https://cn.wsj.com/articles/moderna-cancer-vaccine-f01c1ae3",
-      "guid": "WP-WSJS-0003838146",
-      "pub_date": "Mon, 24 Aug 2026 04:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-28530932?size=0.917&width=1280",
-      "snapshot": "articles/moderna-cancer-vaccine-f01c1ae3-f5f0f470c2b9.html",
-      "captured": true,
-      "capture_title": "重押癌症疫苗，莫德纳如何绝地逢生",
-      "error": ""
-    },
-    {
       "title": "曾痛批特朗普气候政策倒退，欧洲如今也在回撤绿色目标",
       "summary": "发达国家越来越不愿承担减少化石燃料措施的成本，欧洲、英国和加拿大如今都在回撤各自的环保法规。",
       "link": "https://cn.wsj.com/articles/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-2da42fec",
@@ -137,15 +137,51 @@
       "error": ""
     },
     {
-      "title": "从沃什昔日预测看其如何形成通胀立场",
-      "summary": "美联储主席凯文·沃什不愿就利率走向释放信号，令外界难以判断他究竟如何看待经济和通胀。好在，只要找对地方，就有大量证据能准确揭示他的想法。",
-      "link": "https://cn.wsj.com/articles/warshs-old-forecasts-show-how-he-formed-his-views-on-inflation-06cb20b9",
-      "guid": "WP-WSJS-0003838054",
-      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-95332446?size=1.5&width=1280",
-      "snapshot": "articles/warshs-old-forecasts-show-how-he-formed-his-view-cd8dabf161f8.html",
+      "title": "美国取消与韩国的海军陆战队演习",
+      "summary": "这是伊朗战争爆发后美国在亚洲的最新收缩举动。过去，这项由两国海军陆战队参与的演习旨在向盟友重申华盛顿对该地区的承诺。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8F%96%E6%B6%88%E4%B8%8E%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E6%BC%94%E4%B9%A0-76567c9a",
+      "guid": "WP-WSJS-0003840454",
+      "pub_date": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-38103003?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-8f-96-e6-b6-88-e4-b8-8e-e9--eae07577b41d.html",
       "captured": true,
-      "capture_title": "从沃什昔日预测看其如何形成通胀立场",
+      "capture_title": "美国取消与韩国的海军陆战队演习 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "极星称特朗普政府在美国禁令出台前一直对其敷衍拖延",
+      "summary": "极星被迫退出美国市场两个月后，该公司正告诉美国经销商，自己对这一决定始料未及。",
+      "link": "https://cn.wsj.com/articles/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-df4b9d3e",
+      "guid": "WP-WSJS-0003840373",
+      "pub_date": "Mon, 24 Aug 2026 23:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-94401672?size=1.984&width=1280",
+      "snapshot": "articles/ev-maker-polestar-says-trump-administration-stru-b309d488a5a4.html",
+      "captured": true,
+      "capture_title": "极星称特朗普政府在美国禁令出台前一直对其敷衍拖延 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "SpaceX将部署英伟达CPU芯片用于AI开发",
+      "summary": "英伟达周一表示，此次合作将把首款面向AI智能体打造的CPU引入xAI的部署体系，其中包括Grok聊天机器人等项目。",
+      "link": "https://cn.wsj.com/articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-development-27611f05",
+      "guid": "WP-WSJS-0003840430",
+      "pub_date": "Mon, 24 Aug 2026 23:50:00 GMT",
+      "image_url": "https://images.mktw.net/im-63188887?size=1.48&width=1280",
+      "snapshot": "articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-develop-0f264356c5fd.html",
+      "captured": true,
+      "capture_title": "SpaceX将部署英伟达CPU芯片用于AI开发 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "长江存储拟IPO筹资49亿美元，借力AI驱动增长",
+      "summary": "AI带来的爆炸性需求正在提振该存储芯片制造商的营收和净利润。 此次IPO有望成为中国多年来规模最大的半导体制造商上市交易之一。",
+      "link": "https://cn.wsj.com/articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-ccb3acc5",
+      "guid": "WP-WSJS-0003838333",
+      "pub_date": "Mon, 24 Aug 2026 06:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-19520563?size=1.501&width=1280",
+      "snapshot": "articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-cc-20924d0c3662.html",
+      "captured": true,
+      "capture_title": "长江存储拟IPO筹资49亿美元，借力AI驱动增长",
       "error": ""
     },
     {
@@ -173,18 +209,6 @@
       "error": ""
     },
     {
-      "title": "长江存储拟IPO筹资49亿美元，借力AI驱动增长",
-      "summary": "AI带来的爆炸性需求正在提振该存储芯片制造商的营收和净利润。 此次IPO有望成为中国多年来规模最大的半导体制造商上市交易之一。",
-      "link": "https://cn.wsj.com/articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-ccb3acc5",
-      "guid": "WP-WSJS-0003838333",
-      "pub_date": "Mon, 24 Aug 2026 06:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-19520563?size=1.501&width=1280",
-      "snapshot": "articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-cc-20924d0c3662.html",
-      "captured": true,
-      "capture_title": "长江存储拟IPO筹资49亿美元，借力AI驱动增长",
-      "error": ""
-    },
-    {
       "title": "软银计划发行创纪录规模的零售债券，以推进AI战略",
       "summary": "软银集团计划发行1万亿日圆的零售债券，为其人工智能投资提供资金。",
       "link": "https://cn.wsj.com/articles/softbank-plans-record-retail-bond-issuance-amid-ai-push-b1c45880",
@@ -197,6 +221,30 @@
       "error": ""
     },
     {
+      "title": "从沃什昔日预测看其如何形成通胀立场",
+      "summary": "美联储主席凯文·沃什不愿就利率走向释放信号，令外界难以判断他究竟如何看待经济和通胀。好在，只要找对地方，就有大量证据能准确揭示他的想法。",
+      "link": "https://cn.wsj.com/articles/warshs-old-forecasts-show-how-he-formed-his-views-on-inflation-06cb20b9",
+      "guid": "WP-WSJS-0003838054",
+      "pub_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-95332446?size=1.5&width=1280",
+      "snapshot": "articles/warshs-old-forecasts-show-how-he-formed-his-view-cd8dabf161f8.html",
+      "captured": true,
+      "capture_title": "从沃什昔日预测看其如何形成通胀立场",
+      "error": ""
+    },
+    {
+      "title": "重押癌症疫苗，莫德纳如何绝地逢生",
+      "summary": "在经历多年的裁员、资金消耗以及针对核心技术的政治攻击后，莫德纳的黑色素瘤疫苗数据为其赢得了宝贵的胜利。",
+      "link": "https://cn.wsj.com/articles/moderna-cancer-vaccine-f01c1ae3",
+      "guid": "WP-WSJS-0003838146",
+      "pub_date": "Mon, 24 Aug 2026 04:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-28530932?size=0.917&width=1280",
+      "snapshot": "articles/moderna-cancer-vaccine-f01c1ae3-f5f0f470c2b9.html",
+      "captured": true,
+      "capture_title": "重押癌症疫苗，莫德纳如何绝地逢生",
+      "error": ""
+    },
+    {
       "title": "特朗普的干预如何让司法部放过了Live Nation",
       "summary": "Live Nation反垄断案最初旨在迫使这家演唱会巨头出售Ticketmaster。在两次白宫会议之后，一项协议让该公司得以保持完整。",
       "link": "https://cn.wsj.com/articles/trump-live-nation-antitrust-doj-a12b797c",
@@ -206,18 +254,6 @@
       "snapshot": "articles/trump-live-nation-antitrust-doj-a12b797c-7ebbd49c139d.html",
       "captured": true,
       "capture_title": "特朗普的干预如何让司法部放过了Live Nation",
-      "error": ""
-    },
-    {
-      "title": "特朗普投资账户6月进行逾千笔股票交易",
-      "summary": "白宫称这些交易依托计算机模型投资组合进行操作，自动复制主流指数的走势。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%95%E8%B5%84%E8%B4%A6%E6%88%B76%E6%9C%88%E8%BF%9B%E8%A1%8C%E9%80%BE%E5%8D%83%E7%AC%94%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93-247ad939",
-      "guid": "WP-WSJS-0003837808",
-      "pub_date": "Mon, 24 Aug 2026 00:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-65193737?size=1.513&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-8a-95-e8-b5-84-e8--43de8e3394ad.html",
-      "captured": true,
-      "capture_title": "特朗普投资账户6月进行逾千笔股票交易",
       "error": ""
     },
     {
@@ -245,18 +281,6 @@
       "error": ""
     },
     {
-      "title": "图解美国高校如何加速冲向招生断崖",
-      "summary": "美国高等教育正撞上人口断崖。多年增长之后，18岁适龄学生的生源正在减少，原因是出生率下降。",
-      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E7%BE%8E%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%A6%82%E4%BD%95%E5%8A%A0%E9%80%9F%E5%86%B2%E5%90%91%E6%8B%9B%E7%94%9F%E6%96%AD%E5%B4%96-78b32ad9",
-      "guid": "WP-WSJS-0003833377",
-      "pub_date": "Fri, 21 Aug 2026 00:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-64532115?size=1.499&width=1280",
-      "snapshot": "articles/e5-9b-be-e8-a7-a3-e7-be-8e-e5-9b-bd-e9-ab-98-e6--fd76089ebb11.html",
-      "captured": true,
-      "capture_title": "图解美国高校如何加速冲向招生断崖",
-      "error": ""
-    },
-    {
       "title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
       "summary": "对于上班时该穿什么、不该穿什么，每个人都有自己的一套标准。来看看你个人的职场着装标准与《华尔街日报》的其他读者有何异同。",
       "link": "https://cn.wsj.com/articles/%E4%BD%A0%E8%A7%89%E5%BE%97%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%A9%BF%E4%BB%80%E4%B9%88%E6%89%8D%E5%90%88%E9%80%82-%E6%9D%A5%E5%81%9A%E5%81%9A%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95%E5%90%A7-048c31b7",
@@ -266,6 +290,90 @@
       "snapshot": "articles/e4-bd-a0-e8-a7-89-e5-be-97-e5-9c-a8-e5-8a-9e-e5--b5fd5680203c.html",
       "captured": true,
       "capture_title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
+      "error": ""
+    },
+    {
+      "title": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体",
+      "summary": "AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。",
+      "link": "https://cn.wsj.com/articles/ai-agents-startup-work-culture-fbaeb407",
+      "guid": "WP-WSJS-0003838017",
+      "pub_date": "Mon, 24 Aug 2026 02:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-33819417?size=1.5053763440860215&width=608",
+      "snapshot": "articles/ai-agents-startup-work-culture-fbaeb407-4be97a764955.html",
+      "captured": true,
+      "capture_title": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体",
+      "error": ""
+    },
+    {
+      "title": "关税谈判破裂，美加正滑向全面贸易战",
+      "summary": "在双方因贸易谈判破裂而互相指责之际，加拿大以加征关税回应美国的新关税措施。",
+      "link": "https://cn.wsj.com/articles/canada-announces-new-post-labor-day-tariffs-48623a21",
+      "guid": "WP-WSJS-0003837944",
+      "pub_date": "Mon, 24 Aug 2026 01:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-67345943?size=1.501&width=1280",
+      "snapshot": "articles/canada-announces-new-post-labor-day-tariffs-4862-73ebd57891fa.html",
+      "captured": true,
+      "capture_title": "关税谈判破裂，美加正滑向全面贸易战",
+      "error": ""
+    },
+    {
+      "title": "华尔街押注英伟达让AI盛宴继续下去",
+      "summary": "英伟达业绩或在科技板块乃至整个股市引发震荡。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A9ai%E7%9B%9B%E5%AE%B4%E7%BB%A7%E7%BB%AD%E4%B8%8B%E5%8E%BB-24503f51",
+      "guid": "WP-WSJS-0003838068",
+      "pub_date": "Mon, 24 Aug 2026 02:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-56641862?size=1.495&width=1280",
+      "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e6-8a-bc-e6-b3-a8-e8--1267de8ddd9b.html",
+      "captured": true,
+      "capture_title": "华尔街押注英伟达让AI盛宴继续下去",
+      "error": ""
+    },
+    {
+      "title": "伊朗政界高层呼吁结束战争",
+      "summary": "伊朗总统与议长表示，德黑兰需要在握有筹码时谈判退出战争并提振其经济。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%94%BF%E7%95%8C%E9%AB%98%E5%B1%82%E5%91%BC%E5%90%81%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89-eeaee00a",
+      "guid": "WP-WSJS-0003837763",
+      "pub_date": "Sun, 23 Aug 2026 23:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-10550771?size=1.501&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-94-bf-e7-95-8c-e9-ab-98-e5--718ef9adbd00.html",
+      "captured": true,
+      "capture_title": "伊朗政界高层呼吁结束战争",
+      "error": ""
+    },
+    {
+      "title": "民主党人准备对特朗普及其盟友展开一系列调查",
+      "summary": "民主党人正在为可能对特朗普政府展开的多线调查做准备，一旦他们在11月赢得众议院多数席位，这些调查便可能启动；白宫也在为可能涌来的大量传票做准备。",
+      "link": "https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%87%86%E5%A4%87%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B%E5%B1%95%E5%BC%80%E4%B8%80%E7%B3%BB%E5%88%97%E8%B0%83%E6%9F%A5-9a660990",
+      "guid": "WP-WSJS-0003837989",
+      "pub_date": "Mon, 24 Aug 2026 01:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-93270020?size=1.501&width=1280",
+      "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e4-ba-ba-e5-87-86-e5--79a57531ab18.html",
+      "captured": true,
+      "capture_title": "民主党人准备对特朗普及其盟友展开一系列调查",
+      "error": ""
+    },
+    {
+      "title": "特朗普投资账户6月进行逾千笔股票交易",
+      "summary": "白宫称这些交易依托计算机模型投资组合进行操作，自动复制主流指数的走势。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%95%E8%B5%84%E8%B4%A6%E6%88%B76%E6%9C%88%E8%BF%9B%E8%A1%8C%E9%80%BE%E5%8D%83%E7%AC%94%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93-247ad939",
+      "guid": "WP-WSJS-0003837808",
+      "pub_date": "Mon, 24 Aug 2026 00:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-65193737?size=1.513&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-8a-95-e8-b5-84-e8--43de8e3394ad.html",
+      "captured": true,
+      "capture_title": "特朗普投资账户6月进行逾千笔股票交易",
+      "error": ""
+    },
+    {
+      "title": "图解美国高校如何加速冲向招生断崖",
+      "summary": "美国高等教育正撞上人口断崖。多年增长之后，18岁适龄学生的生源正在减少，原因是出生率下降。",
+      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E7%BE%8E%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%A6%82%E4%BD%95%E5%8A%A0%E9%80%9F%E5%86%B2%E5%90%91%E6%8B%9B%E7%94%9F%E6%96%AD%E5%B4%96-78b32ad9",
+      "guid": "WP-WSJS-0003833377",
+      "pub_date": "Fri, 21 Aug 2026 00:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-64532115?size=1.499&width=1280",
+      "snapshot": "articles/e5-9b-be-e8-a7-a3-e7-be-8e-e5-9b-bd-e9-ab-98-e6--fd76089ebb11.html",
+      "captured": true,
+      "capture_title": "图解美国高校如何加速冲向招生断崖",
       "error": ""
     },
     {
@@ -290,18 +398,6 @@
       "snapshot": "articles/hong-kong-court-convicts-activists-who-organized-94810bf70140.html",
       "captured": true,
       "capture_title": "香港法院裁定邹幸彤和李卓人煽动颠覆国家政权罪名成立",
-      "error": ""
-    },
-    {
-      "title": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体",
-      "summary": "AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。",
-      "link": "https://cn.wsj.com/articles/ai-agents-startup-work-culture-fbaeb407",
-      "guid": "WP-WSJS-0003838017",
-      "pub_date": "Mon, 24 Aug 2026 02:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-33819417?size=1.5053763440860215&width=608",
-      "snapshot": "articles/ai-agents-startup-work-culture-fbaeb407-4be97a764955.html",
-      "captured": true,
-      "capture_title": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体",
       "error": ""
     },
     {
@@ -1106,102 +1202,6 @@
       "snapshot": "articles/trump-pushes-for-kim-jong-un-meeting-this-year-f-e2f5742e1de5.html",
       "captured": true,
       "capture_title": "特朗普正推动年内与金正恩会晤",
-      "error": ""
-    },
-    {
-      "title": "特朗普暂停对部分加拿大产品加征50%关税",
-      "summary": "特朗普表示，暂停对来自加拿大的某些商品征收50%的关税，为期三天。他称加拿大和美国已经达成贸易协议。",
-      "link": "https://cn.wsj.com/articles/trump-pauses-50-tariff-on-some-canadian-products-ba3cd89c",
-      "guid": "WP-WSJS-0003827395",
-      "pub_date": "Wed, 19 Aug 2026 02:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-02702611?size=1.499&width=1280",
-      "snapshot": "articles/trump-pauses-50-tariff-on-some-canadian-products-a99f180a6115.html",
-      "captured": true,
-      "capture_title": "特朗普暂停对部分加拿大产品加征50%关税 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "债券市场遭遇重挫，华尔街预计抛售潮短期难止",
-      "summary": "全球债券遭遇抛售，美债收益率已升至19年高点。美股周二下跌，芯片股受挫。",
-      "link": "https://cn.wsj.com/articles/%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA%E9%81%AD%E9%81%87%E9%87%8D%E6%8C%AB-%E5%8D%8E%E5%B0%94%E8%A1%97%E9%A2%84%E8%AE%A1%E6%8A%9B%E5%94%AE%E6%BD%AE%E7%9F%AD%E6%9C%9F%E9%9A%BE%E6%AD%A2-0e32e835",
-      "guid": "WP-WSJS-0003826872",
-      "pub_date": "Tue, 18 Aug 2026 23:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-46475503?size=1.38&width=1280",
-      "snapshot": "articles/e5-80-ba-e5-88-b8-e5-b8-82-e5-9c-ba-e9-81-ad-e9--fb254195a153.html",
-      "captured": true,
-      "capture_title": "债券市场遭遇重挫，华尔街预计抛售潮短期难止",
-      "error": ""
-    },
-    {
-      "title": "西班牙海外飞地休达陷入新一轮移民困局",
-      "summary": "据估计，约有5,000人目前正挤在休达这片飞地各处冒出的露天简易营地中。",
-      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B5%B7%E5%A4%96%E9%A3%9E%E5%9C%B0%E4%BC%91%E8%BE%BE%E9%99%B7%E5%85%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E7%A7%BB%E6%B0%91%E5%9B%B0%E5%B1%80-1bb2a709",
-      "guid": "WP-WSJS-0003827559",
-      "pub_date": "Wed, 19 Aug 2026 05:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-75924692?size=1.501&width=1280",
-      "snapshot": "articles/e8-a5-bf-e7-8f-ad-e7-89-99-e6-b5-b7-e5-a4-96-e9--840b9d45e36e.html",
-      "captured": true,
-      "capture_title": "西班牙海外飞地休达陷入新一轮移民困局",
-      "error": ""
-    },
-    {
-      "title": "伊朗接连袭击霍尔木兹海峡船只，考验美军克制力",
-      "summary": "特朗普政府目前专注于经济施压，对霍尔木兹海峡这一战略水道上的挑衅行为选择了回避，导致该航线通航量锐减。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%8E%A5%E8%BF%9E%E8%A2%AD%E5%87%BB%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%B9%E5%8F%AA-%E8%80%83%E9%AA%8C%E7%BE%8E%E5%86%9B%E5%85%8B%E5%88%B6%E5%8A%9B-8fe2e2f9",
-      "guid": "WP-WSJS-0003826961",
-      "pub_date": "Tue, 18 Aug 2026 23:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-73630274?size=1.622&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-8e-a5-e8-bf-9e-e8-a2-ad-e5--5b3f1cbaf0ff.html",
-      "captured": true,
-      "capture_title": "伊朗接连袭击霍尔木兹海峡船只，考验美军克制力",
-      "error": ""
-    },
-    {
-      "title": "企业正在量子技术上投入巨资",
-      "summary": "2025年企业用户在量子技术上的总支出达到3亿美元，首次超过研究实验室和政府的合计相关支出，这标志着商业领域对该技术的兴趣迎来了拐点。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%81%E4%B8%9A%E6%AD%A3%E5%9C%A8%E9%87%8F%E5%AD%90%E6%8A%80%E6%9C%AF%E4%B8%8A%E6%8A%95%E5%85%A5%E5%B7%A8%E8%B5%84-7588968d",
-      "guid": "WP-WSJS-0003827311",
-      "pub_date": "Wed, 19 Aug 2026 02:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-61825404?size=1.501&width=1280",
-      "snapshot": "articles/e4-bc-81-e4-b8-9a-e6-ad-a3-e5-9c-a8-e9-87-8f-e5--4e5cc82f5d73.html",
-      "captured": true,
-      "capture_title": "企业正在量子技术上投入巨资",
-      "error": ""
-    },
-    {
-      "title": "新一轮拨款动荡逼近，美国科学家争相寻求私人资本",
-      "summary": "华盛顿正在酝酿的新政策有可能再次颠覆大学等研究机构的拨款机制。许多科学家正转而争取基金会和私营公司的支持，或者缩减团队规模。",
-      "link": "https://cn.wsj.com/articles/science-research-funding-grants-nih-trump-universities-843268ce",
-      "guid": "WP-WSJS-0003827207",
-      "pub_date": "Wed, 19 Aug 2026 01:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-46764063?size=1.333&width=1280",
-      "snapshot": "articles/science-research-funding-grants-nih-trump-univer-6c5bddc37d24.html",
-      "captured": true,
-      "capture_title": "新一轮拨款动荡逼近，美国科学家争相寻求私人资本",
-      "error": ""
-    },
-    {
-      "title": "向AI转型之际，百度利润和收入继续下滑",
-      "summary": "百度第二季度净利润下降68%，收入下降4.2%。其净利润已连续第三个季度下降过半，而收入已下滑一年多。",
-      "link": "https://cn.wsj.com/articles/%E5%90%91ai%E8%BD%AC%E5%9E%8B%E4%B9%8B%E9%99%85-%E7%99%BE%E5%BA%A6%E5%88%A9%E6%B6%A6%E5%92%8C%E6%94%B6%E5%85%A5%E7%BB%A7%E7%BB%AD%E4%B8%8B%E6%BB%91-48e54a9c",
-      "guid": "WP-WSJS-0003827064",
-      "pub_date": "Wed, 19 Aug 2026 00:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-16457937?size=1.488&width=1280",
-      "snapshot": "articles/e5-90-91ai-e8-bd-ac-e5-9e-8b-e4-b9-8b-e9-99-85---729b233f5c47.html",
-      "captured": true,
-      "capture_title": "向AI转型之际，百度利润和收入继续下滑",
-      "error": ""
-    },
-    {
-      "title": "一张隐秘交易网如何将道奇队老板卷入联邦调查",
-      "summary": "沃尔特惯用的一套资本运作手法眼下正受到政府部门审查：他利用自己控制的保险公司发放贷款，为旗下其他投资输血。",
-      "link": "https://cn.wsj.com/articles/walter-dodgers-lakers-investigation-e3a2252a",
-      "guid": "WP-WSJS-0003824502",
-      "pub_date": "Tue, 18 Aug 2026 05:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-48565055?size=1.499&width=1280",
-      "snapshot": "articles/walter-dodgers-lakers-investigation-e3a2252a-5b040484db23.html",
-      "captured": true,
-      "capture_title": "一张隐秘交易网如何将道奇队老板卷入联邦调查",
       "error": ""
     }
   ]
