@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-25T09:42:10.689415+00:00",
+  "generated_at": "2026-08-25T12:55:40.783495+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
-      "summary": "在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444",
-      "guid": "WP-WSJS-0003840857",
-      "pub_date": "Tue, 25 Aug 2026 05:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-23887692?size=1.499&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e5-b7-b2-e6--f30d16445af0.html",
+      "title": "美国向伊朗施压，但未将其最大生命线中国作为目标",
+      "summary": "在宣布针对伊朗的“经济孤立行动”讲话中，贝森特并未提及那个让伊朗得以抗住美国多年压力的国家：中国。",
+      "link": "https://cn.wsj.com/articles/u-s-squeezes-iran-but-avoids-targeting-its-biggest-lifeline-china-86e07972",
+      "guid": "WP-WSJS-0003841279",
+      "pub_date": "Tue, 25 Aug 2026 11:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-30720757?size=1.501&width=1280",
+      "snapshot": "articles/u-s-squeezes-iran-but-avoids-targeting-its-bigge-b64a6450ae52.html",
       "captured": true,
-      "capture_title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
+      "capture_title": "美国向伊朗施压，但未将其最大生命线中国作为目标 - WSJ",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-87422413?size=1.499&width=1280",
       "snapshot": "articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-ma-5f36afedeb04.html",
       "captured": true,
-      "capture_title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关 - WSJ",
+      "capture_title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/e4-b8-8e-e7-89-b9-e6-9c-97-e6-99-ae-e5-bd-a2-e5--35eb4d17c3ed.html",
       "captured": true,
       "capture_title": "与特朗普形影不离的助手如何成为华盛顿热议焦点",
+      "error": ""
+    },
+    {
+      "title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
+      "summary": "在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444",
+      "guid": "WP-WSJS-0003840857",
+      "pub_date": "Tue, 25 Aug 2026 05:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-23887692?size=1.499&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e5-b7-b2-e6--f30d16445af0.html",
+      "captured": true,
+      "capture_title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e8-81-94-e5-82-a8-e4-bc-9a-e8-ae-ae-e7--d42b5df2538f.html",
       "captured": true,
       "capture_title": "美联储会议纪要显示加息获得更广泛支持",
-      "error": ""
-    },
-    {
-      "title": "菲律宾为何对美国的亚洲战略至关重要？",
-      "summary": "美军正通过举行日益复杂的军事演习、部署导弹和新建基础设施，不断加强在菲律宾这个前殖民地的军事存在，以应对来自中国的军事威胁。",
-      "link": "https://cn.wsj.com/articles/why-the-philippines-is-central-to-americas-strategy-in-asia-f485a8b9",
-      "guid": "WP-WSJS-0003830397",
-      "pub_date": "Thu, 20 Aug 2026 02:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-66177574?size=1.499&width=1280",
-      "snapshot": "articles/why-the-philippines-is-central-to-americas-strat-7ba3d94baeea.html",
-      "captured": true,
-      "capture_title": "菲律宾为何对美国的亚洲战略至关重要？",
       "error": ""
     }
   ]

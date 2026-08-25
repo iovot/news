@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 09:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 12:54:08 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 09:39:45 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 12:54:08 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[伊朗战争已持续近半年，回看战前那些被无视的警告]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-23887692?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444</link>
-            <guid isPermaLink="false">WP-WSJS-0003840857</guid>
-            <pubDate>Tue, 25 Aug 2026 05:35:00 GMT</pubDate>
+            <title><![CDATA[美国向伊朗施压，但未将其最大生命线中国作为目标]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-30720757?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在宣布针对伊朗的“经济孤立行动”讲话中，贝森特并未提及那个让伊朗得以抗住美国多年压力的国家：中国。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-squeezes-iran-but-avoids-targeting-its-biggest-lifeline-china-86e07972</link>
+            <guid isPermaLink="false">WP-WSJS-0003841279</guid>
+            <pubDate>Tue, 25 Aug 2026 11:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[台湾起诉九名涉嫌向中国转售AI服务器的人员]]></title>
