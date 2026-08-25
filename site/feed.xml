@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 06:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 09:39:45 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 06:55:07 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 09:39:45 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -27,13 +27,6 @@
         <category><![CDATA[华尔街日报]]></category>
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
-        <item>
-            <title><![CDATA[中国如何经受住伊朗战争带来的石油冲击]]></title>
-            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-17126561?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438</link>
-            <guid isPermaLink="false">WP-WSJS-0003838197</guid>
-            <pubDate>Mon, 24 Aug 2026 05:02:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[伊朗战争已持续近半年，回看战前那些被无视的警告]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-23887692?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。</p>]]></description>
@@ -84,6 +77,13 @@
             <pubDate>Tue, 25 Aug 2026 03:58:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国如何经受住伊朗战争带来的石油冲击]]></title>
+            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-17126561?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。</p>]]></description>
+            <link>https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438</link>
+            <guid isPermaLink="false">WP-WSJS-0003838197</guid>
+            <pubDate>Mon, 24 Aug 2026 05:02:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[探访华尔街精英荒野营：人人皆对AI热潮心生寒意]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-28771509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f</link>
@@ -98,13 +98,6 @@
             <pubDate>Mon, 24 Aug 2026 00:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“浪子”哈里回国令威廉王子陷入两难]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41990172?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>关系疏远的弟弟哈里决定搬回英国让王位继承人威廉面临伸出橄榄枝的压力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%B5%AA%E5%AD%90-%E5%93%88%E9%87%8C%E5%9B%9E%E5%9B%BD%E4%BB%A4%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E9%99%B7%E5%85%A5%E4%B8%A4%E9%9A%BE-204e878a</link>
-            <guid isPermaLink="false">WP-WSJS-0003840669</guid>
-            <pubDate>Tue, 25 Aug 2026 01:28:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[为何你的老板希望AI能读取你的Slack消息]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-46192940?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一些高管希望人类员工将Slack笔记分享给AI智能体同事。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E4%BD%A0%E7%9A%84%E8%80%81%E6%9D%BF%E5%B8%8C%E6%9C%9Bai%E8%83%BD%E8%AF%BB%E5%8F%96%E4%BD%A0%E7%9A%84slack%E6%B6%88%E6%81%AF-737d06da</link>
@@ -112,46 +105,11 @@
             <pubDate>Tue, 25 Aug 2026 02:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[珍本书大卖背后：先拆解扫描，再“喂给”AI]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-11254749?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卖家正因销量大增而欣喜，但同时也在担忧，那些珍本书籍是否正被“送上断头台”，用于训练大语言模型。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%8F%8D%E6%9C%AC%E4%B9%A6%E5%A4%A7%E5%8D%96%E8%83%8C%E5%90%8E-%E8%A2%AB%E6%8B%86%E8%A7%A3%E6%89%AB%E6%8F%8F-%E7%84%B6%E5%90%8E-%E5%96%82%E7%BB%99-ai-bc2ef0e6</link>
-            <guid isPermaLink="false">WP-WSJS-0003840733</guid>
-            <pubDate>Tue, 25 Aug 2026 02:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[为了一家海鲜小店，亿万富豪CEO与汉普顿小镇的无休止纷争]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79168384?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Apollo首席执行官马克·罗文在蒙托克海滨开设的餐厅吸引了众多名人和网红。邻居们却认为这家餐厅未经过审批，根本不应该开在那里。</p>]]></description>
-            <link>https://cn.wsj.com/articles/marc-rowan-apollo-montauk-restaurant-6b4ab475</link>
-            <guid isPermaLink="false">WP-WSJS-0003840811</guid>
-            <pubDate>Tue, 25 Aug 2026 03:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车推进物理AI之际净亏损扩大]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56409288?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该公司寄望于其面向大众市场的新款L03能在下半年提振销量。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E6%8E%A8%E8%BF%9B%E7%89%A9%E7%90%86ai%E4%B9%8B%E9%99%85%E5%87%80%E4%BA%8F%E6%8D%9F%E6%89%A9%E5%A4%A7-32e7182f</link>
-            <guid isPermaLink="false">WP-WSJS-0003840728</guid>
-            <pubDate>Tue, 25 Aug 2026 02:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[极星称特朗普政府在美国禁令出台前一直对其敷衍拖延]]></title>
-            <description><![CDATA[<img width="1280" height="645" src="https://images.wsj.net/im-94401672?size=1.984&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>极星被迫退出美国市场两个月后，该公司正告诉美国经销商，自己对这一决定始料未及。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-df4b9d3e</link>
-            <guid isPermaLink="false">WP-WSJS-0003840373</guid>
-            <pubDate>Mon, 24 Aug 2026 23:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[长江存储拟IPO筹资49亿美元，借力AI驱动增长]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-19520563?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI带来的爆炸性需求正在提振该存储芯片制造商的营收和净利润。 此次IPO有望成为中国多年来规模最大的半导体制造商上市交易之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-ccb3acc5</link>
-            <guid isPermaLink="false">WP-WSJS-0003838333</guid>
-            <pubDate>Mon, 24 Aug 2026 06:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shein为香港IPO定价，目标估值270亿美元]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-03037858?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这与该公司一度达到的约1,000亿美元估值相去甚远。</p>]]></description>
-            <link>https://cn.wsj.com/articles/sheinlooks-to-raise-up-to-1-77-billion-in-long-awaited-hong-kong-offering-33ba604a</link>
-            <guid isPermaLink="false">WP-WSJS-0003837810</guid>
-            <pubDate>Mon, 24 Aug 2026 06:00:00 GMT</pubDate>
+            <title><![CDATA[靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-87422413?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。</p>]]></description>
+            <link>https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374</link>
+            <guid isPermaLink="false">WP-WSJS-0003840959</guid>
+            <pubDate>Tue, 25 Aug 2026 08:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[推动中国AI实现惊人飞跃的幕后智囊]]></title>
@@ -161,18 +119,46 @@
             <pubDate>Fri, 21 Aug 2026 06:50:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[珍本书大卖背后：先拆解扫描，再“喂给”AI]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-11254749?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卖家正因销量大增而欣喜，但同时也在担忧，那些珍本书籍是否正被“送上断头台”，用于训练大语言模型。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%8F%8D%E6%9C%AC%E4%B9%A6%E5%A4%A7%E5%8D%96%E8%83%8C%E5%90%8E-%E8%A2%AB%E6%8B%86%E8%A7%A3%E6%89%AB%E6%8F%8F-%E7%84%B6%E5%90%8E-%E5%96%82%E7%BB%99-ai-bc2ef0e6</link>
+            <guid isPermaLink="false">WP-WSJS-0003840733</guid>
+            <pubDate>Tue, 25 Aug 2026 02:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[极星称特朗普政府在美国禁令出台前一直对其敷衍拖延]]></title>
+            <description><![CDATA[<img width="1280" height="645" src="https://images.wsj.net/im-94401672?size=1.984&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>极星被迫退出美国市场两个月后，该公司正告诉美国经销商，自己对这一决定始料未及。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ev-maker-polestar-says-trump-administration-strung-it-along-before-u-s-ban-df4b9d3e</link>
+            <guid isPermaLink="false">WP-WSJS-0003840373</guid>
+            <pubDate>Mon, 24 Aug 2026 23:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车推进物理AI之际净亏损扩大]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56409288?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该公司寄望于其面向大众市场的新款L03能在下半年提振销量。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E6%8E%A8%E8%BF%9B%E7%89%A9%E7%90%86ai%E4%B9%8B%E9%99%85%E5%87%80%E4%BA%8F%E6%8D%9F%E6%89%A9%E5%A4%A7-32e7182f</link>
+            <guid isPermaLink="false">WP-WSJS-0003840728</guid>
+            <pubDate>Tue, 25 Aug 2026 02:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“浪子”哈里回国令威廉王子陷入两难]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41990172?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>关系疏远的弟弟哈里决定搬回英国让王位继承人威廉面临伸出橄榄枝的压力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B5%AA%E5%AD%90-%E5%93%88%E9%87%8C%E5%9B%9E%E5%9B%BD%E4%BB%A4%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E9%99%B7%E5%85%A5%E4%B8%A4%E9%9A%BE-204e878a</link>
+            <guid isPermaLink="false">WP-WSJS-0003840669</guid>
+            <pubDate>Tue, 25 Aug 2026 01:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为了一家海鲜小店，亿万富豪CEO与汉普顿小镇的无休止纷争]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79168384?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Apollo首席执行官马克·罗文在蒙托克海滨开设的餐厅吸引了众多名人和网红。邻居们却认为这家餐厅未经过审批，根本不应该开在那里。</p>]]></description>
+            <link>https://cn.wsj.com/articles/marc-rowan-apollo-montauk-restaurant-6b4ab475</link>
+            <guid isPermaLink="false">WP-WSJS-0003840811</guid>
+            <pubDate>Tue, 25 Aug 2026 03:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[初创公司创始人恨不得24小时工作，以跟上自家AI智能体]]></title>
             <description><![CDATA[<img width="608" height="404" src="https://images.wsj.net/im-33819417?size=1.5053763440860215&width=608" class="webfeedsFeaturedVisual" alt=""/><p>AI智能体日益强大的能力，赋予了“拼命工作”全新的含义。AI智能体干的活越多，创始人们发现自己要干的活也越多。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai-agents-startup-work-culture-fbaeb407</link>
             <guid isPermaLink="false">WP-WSJS-0003838017</guid>
             <pubDate>Mon, 24 Aug 2026 02:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊“烤面包机”造型无人驾驶出租车上路]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-95524753?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亚马逊率先开始对其不配备方向盘、仪表盘和踏板的自动驾驶汽车乘车服务收费。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A-%E7%83%A4%E9%9D%A2%E5%8C%85%E6%9C%BA-%E9%80%A0%E5%9E%8B%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8A%E8%B7%AF-98855372</link>
-            <guid isPermaLink="false">WP-WSJS-0003837833</guid>
-            <pubDate>Mon, 24 Aug 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[曾痛批特朗普气候政策倒退，欧洲如今也在回撤绿色目标]]></title>
@@ -189,11 +175,11 @@
             <pubDate>Mon, 24 Aug 2026 04:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI的下一次重大飞跃：走进现实世界]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33748812?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>工程师与投资者正竞相涌入“世界模型”赛道，期望在机器人领域复刻ChatGPT在写作与编程界引发的革命。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AC%A1%E9%87%8D%E5%A4%A7%E9%A3%9E%E8%B7%83-%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E-2739cd3f</link>
-            <guid isPermaLink="false">WP-WSJS-0003836285</guid>
-            <pubDate>Sat, 22 Aug 2026 00:21:00 GMT</pubDate>
+            <title><![CDATA[亚马逊“烤面包机”造型无人驾驶出租车上路]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-95524753?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亚马逊率先开始对其不配备方向盘、仪表盘和踏板的自动驾驶汽车乘车服务收费。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A-%E7%83%A4%E9%9D%A2%E5%8C%85%E6%9C%BA-%E9%80%A0%E5%9E%8B%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E4%B8%8A%E8%B7%AF-98855372</link>
+            <guid isPermaLink="false">WP-WSJS-0003837833</guid>
+            <pubDate>Mon, 24 Aug 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国老年人大麻越吸越嗨，邻居们怨声载道]]></title>
