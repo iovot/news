@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-26T04:02:22.973019+00:00",
+  "generated_at": "2026-08-26T06:59:49.094423+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争",
+      "summary": "平价单程攻击无人机的大规模扩散，背后是一条复杂的全球供应链，而这条供应链追根溯源，最终总是指向中国。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97-%E6%B2%99%E8%B5%AB%E5%BE%B7-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E4%B8%8B%E9%87%8D%E5%A1%91%E6%88%98%E4%BA%89-8f2821c1",
+      "guid": "WP-WSJS-0003843903",
+      "pub_date": "Wed, 26 Aug 2026 06:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-760447?size=1.433&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97--e6-b2-99-e8-b5-ab-e5-be-b7--e-f2e348a80e54.html",
+      "captured": true,
+      "capture_title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争 - WSJ",
+      "error": ""
+    },
     {
       "title": "美国向伊朗施压，但未将其最大生命线中国作为目标",
       "summary": "在宣布针对伊朗的“经济孤立行动”讲话中，贝森特并未提及那个让伊朗得以抗住美国多年压力的国家：中国。",
@@ -41,18 +53,6 @@
       "error": ""
     },
     {
-      "title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
-      "summary": "在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444",
-      "guid": "WP-WSJS-0003840857",
-      "pub_date": "Tue, 25 Aug 2026 05:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-23887692?size=1.499&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e5-b7-b2-e6--f30d16445af0.html",
-      "captured": true,
-      "capture_title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
-      "error": ""
-    },
-    {
       "title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元",
       "summary": "Anthropic可能会告诉投资者，其潜在收入机会超过30万亿美元，高于SpaceX估算的28.5万亿美元。",
       "link": "https://cn.wsj.com/articles/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-d4e50391",
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-23084908?size=1.527&width=1280",
       "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-8c-96-e8-ba-abai-e-90dc774e18db.html",
       "captured": true,
-      "capture_title": "英伟达化身AI热潮“银行家”，随之踏入危险地带 - WSJ",
+      "capture_title": "英伟达化身AI热潮“银行家”，随之踏入危险地带",
       "error": ""
     },
     {
@@ -86,6 +86,18 @@
       "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e4-bb-a5-e5-85-b3-e7--97c1c49af024.html",
       "captured": true,
       "capture_title": "加拿大以关税反击美国，瞄准中期选举热点地区",
+      "error": ""
+    },
+    {
+      "title": "专访：小鹏汽车押注机器人比造车更赚钱",
+      "summary": "小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。",
+      "link": "https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df",
+      "guid": "WP-WSJS-0003843909",
+      "pub_date": "Wed, 26 Aug 2026 06:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-44826760?size=1.501&width=1280",
+      "snapshot": "articles/xpeng-bets-robots-will-be-more-profitable-than-i-a56ac9629a14.html",
+      "captured": true,
+      "capture_title": "专访：小鹏汽车押注机器人比造车更赚钱 - WSJ",
       "error": ""
     },
     {
@@ -113,27 +125,15 @@
       "error": ""
     },
     {
-      "title": "特朗普已将与沙特的核协议提交国会审议",
-      "summary": "但一名政府官员说，特朗普尚未放弃他在最后一刻提出的条件，即沙特必须与以色列实现关系正常化。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E6%A0%B8%E5%8D%8F%E8%AE%AE%E6%8F%90%E4%BA%A4%E5%9B%BD%E4%BC%9A-e39c7796",
-      "guid": "WP-WSJS-0003843443",
-      "pub_date": "Wed, 26 Aug 2026 00:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-98596890?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-b0-86-e4-b8-8e-e6--9aa6ab323eda.html",
+      "title": "从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网",
+      "summary": "这位24岁的投资者曾被誉为远见卓识的奇才，吸引了数以十亿美元计的资金，最终却沦为华尔街最新的反面教材。",
+      "link": "https://cn.wsj.com/articles/situational-awareness-leopold-aschenbrenner-ai-fund-2b0ef0fc",
+      "guid": "WP-WSJS-0003843828",
+      "pub_date": "Wed, 26 Aug 2026 04:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-32132428?size=0.92&width=1280",
+      "snapshot": "articles/situational-awareness-leopold-aschenbrenner-ai-f-55c195bd33e9.html",
       "captured": true,
-      "capture_title": "特朗普已将与沙特的核协议提交国会审议 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "全球最疯狂股市崩盘，从AI全民狂欢到血洗散户",
-      "summary": "在AI热潮的推动下，过去一年的大部分时间里，韩国股市在全球独领风骚。随后，这轮行情轰然崩盘。韩国综合指数六周内的崩盘，瞬间蒸发了约2.5万亿美元市值。",
-      "link": "https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E7%96%AF%E7%8B%82%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98-%E4%BB%8Eai%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E5%88%B0%E8%A1%80%E6%B4%97%E6%95%A3%E6%88%B7-1c4d84e3",
-      "guid": "WP-WSJS-0003840810",
-      "pub_date": "Tue, 25 Aug 2026 03:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-69319207?size=1.5&width=1280",
-      "snapshot": "articles/e5-85-a8-e7-90-83-e6-9c-80-e7-96-af-e7-8b-82-e8--ff9448fe6e39.html",
-      "captured": true,
-      "capture_title": "全球最疯狂股市崩盘，从AI全民狂欢到血洗散户",
+      "capture_title": "从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网 - WSJ",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-92180277?size=1.501&width=1280",
       "snapshot": "articles/chinese-court-sentences-artist-who-lampooned-mao-d9951db7523d.html",
       "captured": true,
-      "capture_title": "中国艺术家高兟因创作讽刺毛泽东作品被判刑 - WSJ",
+      "capture_title": "中国艺术家高兟因创作讽刺毛泽东作品被判刑",
       "error": ""
     },
     {
@@ -161,6 +161,18 @@
       "error": ""
     },
     {
+      "title": "全球最疯狂股市崩盘，从AI全民狂欢到血洗散户",
+      "summary": "在AI热潮的推动下，过去一年的大部分时间里，韩国股市在全球独领风骚。随后，这轮行情轰然崩盘。韩国综合指数六周内的崩盘，瞬间蒸发了约2.5万亿美元市值。",
+      "link": "https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E7%96%AF%E7%8B%82%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98-%E4%BB%8Eai%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E5%88%B0%E8%A1%80%E6%B4%97%E6%95%A3%E6%88%B7-1c4d84e3",
+      "guid": "WP-WSJS-0003840810",
+      "pub_date": "Tue, 25 Aug 2026 03:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-69319207?size=1.5&width=1280",
+      "snapshot": "articles/e5-85-a8-e7-90-83-e6-9c-80-e7-96-af-e7-8b-82-e8--ff9448fe6e39.html",
+      "captured": true,
+      "capture_title": "全球最疯狂股市崩盘，从AI全民狂欢到血洗散户",
+      "error": ""
+    },
+    {
       "title": "阿里巴巴百亿增发：马云等关键人物大手笔买入",
       "summary": "阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。",
       "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23",
@@ -173,19 +185,7 @@
       "error": ""
     },
     {
-      "title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
-      "summary": "川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。",
-      "link": "https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374",
-      "guid": "WP-WSJS-0003840959",
-      "pub_date": "Tue, 25 Aug 2026 08:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-87422413?size=1.499&width=1280",
-      "snapshot": "articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-ma-5f36afedeb04.html",
-      "captured": true,
-      "capture_title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
-      "error": ""
-    },
-    {
-      "title": "苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易",
+      "title": "苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易",
       "summary": "在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。",
       "link": "https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1",
       "guid": "WP-WSJS-0003843335",
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-10523481?size=1.501&width=1280",
       "snapshot": "articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e-6ff9bb257a6a.html",
       "captured": true,
-      "capture_title": "苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易",
+      "capture_title": "苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易",
       "error": ""
     },
     {
@@ -209,6 +209,18 @@
       "error": ""
     },
     {
+      "title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
+      "summary": "川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。",
+      "link": "https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374",
+      "guid": "WP-WSJS-0003840959",
+      "pub_date": "Tue, 25 Aug 2026 08:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-87422413?size=1.499&width=1280",
+      "snapshot": "articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-ma-5f36afedeb04.html",
+      "captured": true,
+      "capture_title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
+      "error": ""
+    },
+    {
       "title": "德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查",
       "summary": "特朗普政府之前展开一项范围广泛的行动，意在清除与联邦政府有合同关系的大型美国公司中的多元化举措。",
       "link": "https://cn.wsj.com/articles/%E5%BE%B7%E5%8B%A4%E5%B0%86%E6%94%AF%E4%BB%982-150%E4%B8%87%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%AF%B9%E5%85%B6dei%E6%94%BF%E7%AD%96%E7%9A%84%E6%AC%BA%E8%AF%88%E8%B0%83%E6%9F%A5-00cd4ae6",
@@ -217,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-16205860?size=1.499&width=1280",
       "snapshot": "articles/e5-be-b7-e5-8b-a4-e5-b0-86-e6-94-af-e4-bb-982-15-cf3967e9ffd0.html",
       "captured": true,
-      "capture_title": "德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查 - WSJ",
+      "capture_title": "德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查",
       "error": ""
     },
     {
@@ -242,6 +254,18 @@
       "snapshot": "articles/e5-b0-8f-e9-b9-8f-e6-b1-bd-e8-bd-a6-e6-8e-a8-e8--75f675cecb4f.html",
       "captured": true,
       "capture_title": "小鹏汽车推进物理AI之际净亏损扩大",
+      "error": ""
+    },
+    {
+      "title": "美国老年人大麻越吸越嗨，邻居们怨声载道",
+      "summary": "随着大麻气味弥漫在老年活动中心和退休社区，婴儿潮一代邻里间的关系日益紧张。这引发了法律威胁、报警求助，以及高中生般的争吵。",
+      "link": "https://cn.wsj.com/articles/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-597cd6f7",
+      "guid": "WP-WSJS-0003840831",
+      "pub_date": "Tue, 25 Aug 2026 04:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-45152373?size=1.509&width=1280",
+      "snapshot": "articles/baby-boomers-are-smoking-more-pot-their-neighbor-f33c3f7dbb66.html",
+      "captured": true,
+      "capture_title": "美国老年人大麻越吸越嗨，邻居们怨声载道",
       "error": ""
     },
     {
@@ -278,6 +302,30 @@
       "snapshot": "articles/e6-8e-a8-e5-8a-a8-e4-b8-ad-e5-9b-bdai-e5-ae-9e-e-24edb518b2cf.html",
       "captured": true,
       "capture_title": "推动中国AI实现惊人飞跃的幕后智囊",
+      "error": ""
+    },
+    {
+      "title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
+      "summary": "在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444",
+      "guid": "WP-WSJS-0003840857",
+      "pub_date": "Tue, 25 Aug 2026 05:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-23887692?size=1.499&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e6-88-98-e4-ba-89-e5-b7-b2-e6--f30d16445af0.html",
+      "captured": true,
+      "capture_title": "伊朗战争已持续近半年，回看战前那些被无视的警告",
+      "error": ""
+    },
+    {
+      "title": "特朗普已将与沙特的核协议提交国会审议",
+      "summary": "但一名政府官员说，特朗普尚未放弃他在最后一刻提出的条件，即沙特必须与以色列实现关系正常化。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E6%A0%B8%E5%8D%8F%E8%AE%AE%E6%8F%90%E4%BA%A4%E5%9B%BD%E4%BC%9A-e39c7796",
+      "guid": "WP-WSJS-0003843443",
+      "pub_date": "Wed, 26 Aug 2026 00:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-98596890?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-b0-86-e4-b8-8e-e6--9aa6ab323eda.html",
+      "captured": true,
+      "capture_title": "特朗普已将与沙特的核协议提交国会审议 - WSJ",
       "error": ""
     },
     {
@@ -446,18 +494,6 @@
       "snapshot": "articles/e4-ba-9a-e9-a9-ac-e9-80-8a--e7-83-a4-e9-9d-a2-e5-c502f0512ee4.html",
       "captured": true,
       "capture_title": "亚马逊“烤面包机”造型无人驾驶出租车上路",
-      "error": ""
-    },
-    {
-      "title": "美国老年人大麻越吸越嗨，邻居们怨声载道",
-      "summary": "随着大麻气味弥漫在老年活动中心和退休社区，婴儿潮一代邻里间的关系日益紧张。这引发了法律威胁、报警求助，以及高中生般的争吵。",
-      "link": "https://cn.wsj.com/articles/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-597cd6f7",
-      "guid": "WP-WSJS-0003840831",
-      "pub_date": "Tue, 25 Aug 2026 04:52:00 GMT",
-      "image_url": "https://images.wsj.net/im-45152373?size=1.509&width=1280",
-      "snapshot": "articles/baby-boomers-are-smoking-more-pot-their-neighbor-f33c3f7dbb66.html",
-      "captured": true,
-      "capture_title": "美国老年人大麻越吸越嗨，邻居们怨声载道",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/u-s-stocks-slide-as-bond-yields-rebound-walmart--868483ce06a4.html",
       "captured": true,
       "capture_title": "美股下跌，美债收益率回升 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普威胁对伊朗发起“经济决战日”行动",
-      "summary": "随着伊朗战争临近半年节点，特朗普称将对伊朗发起史无前例的“毁灭性经济行动”。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7-%E7%BB%8F%E6%B5%8E%E5%86%B3%E6%88%98%E6%97%A5-%E8%A1%8C%E5%8A%A8-1de60d8c",
-      "guid": "WP-WSJS-0003830391",
-      "pub_date": "Thu, 20 Aug 2026 23:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-37455731?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-a8-81-e8-83-81-e5--e8e7ae434a4a.html",
-      "captured": true,
-      "capture_title": "特朗普威胁对伊朗发起“经济决战日”行动",
-      "error": ""
-    },
-    {
-      "title": "星巴克总部将裁员逾200人，继续推行精简战略",
-      "summary": "星巴克此轮裁员涉及技术和咖啡馆开发岗位，其中并不涉及关闭门店。",
-      "link": "https://cn.wsj.com/articles/starbucks-laying-off-more-than-200-workers-in-streamlining-drive-05c4de9c",
-      "guid": "WP-WSJS-0003833327",
-      "pub_date": "Thu, 20 Aug 2026 23:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-74696882?size=1.501&width=1280",
-      "snapshot": "articles/starbucks-laying-off-more-than-200-workers-in-st-37d258be7d99.html",
-      "captured": true,
-      "capture_title": "星巴克总部将裁员逾200人，继续推行精简战略 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
-      "summary": "从Anthropic股份出售传闻，到异常的期权动向，交易人士察觉到了麻烦并迅速采取行动。",
-      "link": "https://cn.wsj.com/articles/how-wall-street-sussed-out-that-situational-awareness-was-on-the-ropes-d5bcdfa1",
-      "guid": "WP-WSJS-0003824198",
-      "pub_date": "Tue, 18 Aug 2026 01:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-81266780?size=1.466&width=1280",
-      "snapshot": "articles/how-wall-street-sussed-out-that-situational-awar-9b7eb5722fed.html",
-      "captured": true,
-      "capture_title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
       "error": ""
     }
   ]

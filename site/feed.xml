@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 03:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 06:56:14 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 03:56:40 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 06:56:14 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -27,6 +27,13 @@
         <category><![CDATA[华尔街日报]]></category>
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
+        <item>
+            <title><![CDATA[伊朗“沙赫德”无人机如何在中国帮助下重塑战争]]></title>
+            <description><![CDATA[<img width="1280" height="893" src="https://images.wsj.net/im-760447?size=1.433&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>平价单程攻击无人机的大规模扩散，背后是一条复杂的全球供应链，而这条供应链追根溯源，最终总是指向中国。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97-%E6%B2%99%E8%B5%AB%E5%BE%B7-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E4%B8%8B%E9%87%8D%E5%A1%91%E6%88%98%E4%BA%89-8f2821c1</link>
+            <guid isPermaLink="false">WP-WSJS-0003843903</guid>
+            <pubDate>Wed, 26 Aug 2026 06:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国向伊朗施压，但未将其最大生命线中国作为目标]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-30720757?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在宣布针对伊朗的“经济孤立行动”讲话中，贝森特并未提及那个让伊朗得以抗住美国多年压力的国家：中国。</p>]]></description>
@@ -47,13 +54,6 @@
             <link>https://cn.wsj.com/articles/%E6%B2%B9%E8%BD%AE%E9%81%87%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%86%8D%E7%8E%B0-%E4%BC%8A%E6%9C%97%E8%AA%93%E8%A8%80%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BB%E5%8A%BF%E8%BF%9B%E8%A1%8C%E6%8A%A5%E5%A4%8D-2d2bdbce</link>
             <guid isPermaLink="false">WP-WSJS-0003843379</guid>
             <pubDate>Wed, 26 Aug 2026 00:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗战争已持续近半年，回看战前那些被无视的警告]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-23887692?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444</link>
-            <guid isPermaLink="false">WP-WSJS-0003840857</guid>
-            <pubDate>Tue, 25 Aug 2026 05:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anthropic料将告知投资者其潜在收入将超过30万亿美元]]></title>
@@ -77,6 +77,13 @@
             <pubDate>Tue, 25 Aug 2026 23:32:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[专访：小鹏汽车押注机器人比造车更赚钱]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44826760?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df</link>
+            <guid isPermaLink="false">WP-WSJS-0003843909</guid>
+            <pubDate>Wed, 26 Aug 2026 06:08:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CIA局长拉特克利夫突访莫斯科]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-43957955?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是约翰·拉特克利夫首次公开访问俄罗斯首都。不过访问原因暂时不清楚。</p>]]></description>
             <link>https://cn.wsj.com/articles/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-d5c0d18b</link>
@@ -91,18 +98,11 @@
             <pubDate>Tue, 25 Aug 2026 01:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普已将与沙特的核协议提交国会审议]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-98596890?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>但一名政府官员说，特朗普尚未放弃他在最后一刻提出的条件，即沙特必须与以色列实现关系正常化。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%9A%84%E6%A0%B8%E5%8D%8F%E8%AE%AE%E6%8F%90%E4%BA%A4%E5%9B%BD%E4%BC%9A-e39c7796</link>
-            <guid isPermaLink="false">WP-WSJS-0003843443</guid>
-            <pubDate>Wed, 26 Aug 2026 00:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最疯狂股市崩盘，从AI全民狂欢到血洗散户]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69319207?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮的推动下，过去一年的大部分时间里，韩国股市在全球独领风骚。随后，这轮行情轰然崩盘。韩国综合指数六周内的崩盘，瞬间蒸发了约2.5万亿美元市值。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E7%96%AF%E7%8B%82%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98-%E4%BB%8Eai%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E5%88%B0%E8%A1%80%E6%B4%97%E6%95%A3%E6%88%B7-1c4d84e3</link>
-            <guid isPermaLink="false">WP-WSJS-0003840810</guid>
-            <pubDate>Tue, 25 Aug 2026 03:58:00 GMT</pubDate>
+            <title><![CDATA[从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]]></title>
+            <description><![CDATA[<img width="1280" height="1386" src="https://images.wsj.net/im-32132428?size=0.92&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位24岁的投资者曾被誉为远见卓识的奇才，吸引了数以十亿美元计的资金，最终却沦为华尔街最新的反面教材。</p>]]></description>
+            <link>https://cn.wsj.com/articles/situational-awareness-leopold-aschenbrenner-ai-fund-2b0ef0fc</link>
+            <guid isPermaLink="false">WP-WSJS-0003843828</guid>
+            <pubDate>Wed, 26 Aug 2026 04:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国艺术家高兟因创作讽刺毛泽东作品被判刑]]></title>
@@ -119,6 +119,13 @@
             <pubDate>Wed, 26 Aug 2026 01:03:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[全球最疯狂股市崩盘，从AI全民狂欢到血洗散户]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69319207?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮的推动下，过去一年的大部分时间里，韩国股市在全球独领风骚。随后，这轮行情轰然崩盘。韩国综合指数六周内的崩盘，瞬间蒸发了约2.5万亿美元市值。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E7%96%AF%E7%8B%82%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98-%E4%BB%8Eai%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E5%88%B0%E8%A1%80%E6%B4%97%E6%95%A3%E6%88%B7-1c4d84e3</link>
+            <guid isPermaLink="false">WP-WSJS-0003840810</guid>
+            <pubDate>Tue, 25 Aug 2026 03:58:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[阿里巴巴百亿增发：马云等关键人物大手笔买入]]></title>
             <description><![CDATA[<img width="1280" height="895" src="https://images.mktw.net/im-290982?size=1.43&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23</link>
@@ -126,14 +133,7 @@
             <pubDate>Wed, 26 Aug 2026 01:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-87422413?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。</p>]]></description>
-            <link>https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374</link>
-            <guid isPermaLink="false">WP-WSJS-0003840959</guid>
-            <pubDate>Tue, 25 Aug 2026 08:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易]]></title>
+            <title><![CDATA[苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10523481?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。</p>]]></description>
             <link>https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1</link>
             <guid isPermaLink="false">WP-WSJS-0003843335</guid>
@@ -145,6 +145,13 @@
             <link>https://cn.wsj.com/articles/onlyfans%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9C%A8%E5%8E%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%B9%B4%E5%86%85%E8%8E%B77%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E6%81%AF-5d671f12</link>
             <guid isPermaLink="false">WP-WSJS-0003843525</guid>
             <pubDate>Wed, 26 Aug 2026 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-87422413?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。</p>]]></description>
+            <link>https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374</link>
+            <guid isPermaLink="false">WP-WSJS-0003840959</guid>
+            <pubDate>Tue, 25 Aug 2026 08:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查]]></title>
@@ -166,6 +173,13 @@
             <link>https://cn.wsj.com/articles/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E6%8E%A8%E8%BF%9B%E7%89%A9%E7%90%86ai%E4%B9%8B%E9%99%85%E5%87%80%E4%BA%8F%E6%8D%9F%E6%89%A9%E5%A4%A7-32e7182f</link>
             <guid isPermaLink="false">WP-WSJS-0003840728</guid>
             <pubDate>Tue, 25 Aug 2026 02:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国老年人大麻越吸越嗨，邻居们怨声载道]]></title>
+            <description><![CDATA[<img width="1280" height="848" src="https://images.wsj.net/im-45152373?size=1.509&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着大麻气味弥漫在老年活动中心和退休社区，婴儿潮一代邻里间的关系日益紧张。这引发了法律威胁、报警求助，以及高中生般的争吵。</p>]]></description>
+            <link>https://cn.wsj.com/articles/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-597cd6f7</link>
+            <guid isPermaLink="false">WP-WSJS-0003840831</guid>
+            <pubDate>Tue, 25 Aug 2026 04:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[珍本书大卖背后：先拆解扫描，再“喂给”AI]]></title>
@@ -203,18 +217,11 @@
             <pubDate>Tue, 25 Aug 2026 01:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[为了一家海鲜小店，亿万富豪CEO与汉普顿小镇的无休止纷争]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79168384?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Apollo首席执行官马克·罗文在蒙托克海滨开设的餐厅吸引了众多名人和网红。邻居们却认为这家餐厅未经过审批，根本不应该开在那里。</p>]]></description>
-            <link>https://cn.wsj.com/articles/marc-rowan-apollo-montauk-restaurant-6b4ab475</link>
-            <guid isPermaLink="false">WP-WSJS-0003840811</guid>
-            <pubDate>Tue, 25 Aug 2026 03:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国老年人大麻越吸越嗨，邻居们怨声载道]]></title>
-            <description><![CDATA[<img width="1280" height="848" src="https://images.wsj.net/im-45152373?size=1.509&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着大麻气味弥漫在老年活动中心和退休社区，婴儿潮一代邻里间的关系日益紧张。这引发了法律威胁、报警求助，以及高中生般的争吵。</p>]]></description>
-            <link>https://cn.wsj.com/articles/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-597cd6f7</link>
-            <guid isPermaLink="false">WP-WSJS-0003840831</guid>
-            <pubDate>Tue, 25 Aug 2026 04:52:00 GMT</pubDate>
+            <title><![CDATA[我把咖啡换成能量饮料，结果差点疯掉]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96102524?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>我尝试了燃力士(Celsius)和其他高咖啡因饮料，并靠这些能量饮料保持亢奋，工作了一周。这些饮料号称能帮助饮用者更健康地生活，但我决定换回咖啡。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%88%91%E6%8A%8A%E5%92%96%E5%95%A1%E6%8D%A2%E6%88%90%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99-%E7%BB%93%E6%9E%9C%E5%B7%AE%E7%82%B9%E7%96%AF%E6%8E%89-c14c651c</link>
+            <guid isPermaLink="false">WP-WSJS-0003843894</guid>
+            <pubDate>Wed, 26 Aug 2026 05:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[为何你的老板希望AI能读取你的Slack消息]]></title>
