@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:07:27.874646+00:00",
+  "generated_at": "2026-08-26T16:22:20.773744+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-66439364?size=1.501&width=1280",
       "snapshot": "articles/u-s-squeezes-iran-but-avoids-targeting-its-bigge-606dc28168d8.html",
       "captured": true,
-      "capture_title": "美国试图扼杀伊朗经济，德黑兰有哪些生存之道 - WSJ",
+      "capture_title": "美国试图扼杀伊朗经济，德黑兰有哪些生存之道",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-09402040?size=1.501&width=1280",
       "snapshot": "articles/chineseai-firm-minimax-revenue-nearly-quadruples-359593ff9bfe.html",
       "captured": true,
-      "capture_title": "中国AI公司MiniMax收入增至近四倍，亏损收窄 - WSJ",
+      "capture_title": "中国AI公司MiniMax收入增至近四倍，亏损收窄",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.mktw.net/im-51558924?size=1.5&width=1280",
       "snapshot": "articles/japan-got-caught-in-the-tech-selloff-now-its-tim-3b115758fba0.html",
       "captured": true,
-      "capture_title": "日股受科技股抛售潮波及，策略师称是时候逢低买入了 - WSJ",
+      "capture_title": "日股受科技股抛售潮波及，策略师称是时候逢低买入了",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-47548795?size=1.501&width=1280",
       "snapshot": "articles/microsoft-is-leaving-investors-flying-blind-on-i-53bab9dba589.html",
       "captured": true,
-      "capture_title": "微软在AI业务上让投资者摸黑前行 - WSJ",
+      "capture_title": "微软在AI业务上让投资者摸黑前行",
       "error": ""
     },
     {
