@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 06:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:47:16 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 06:56:14 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 09:47:16 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -77,18 +77,18 @@
             <pubDate>Tue, 25 Aug 2026 23:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[专访：小鹏汽车押注机器人比造车更赚钱]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44826760?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。</p>]]></description>
-            <link>https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df</link>
-            <guid isPermaLink="false">WP-WSJS-0003843909</guid>
-            <pubDate>Wed, 26 Aug 2026 06:08:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CIA局长拉特克利夫突访莫斯科]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-43957955?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是约翰·拉特克利夫首次公开访问俄罗斯首都。不过访问原因暂时不清楚。</p>]]></description>
             <link>https://cn.wsj.com/articles/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-d5c0d18b</link>
             <guid isPermaLink="false">WP-WSJS-0003843284</guid>
             <pubDate>Tue, 25 Aug 2026 23:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-87422413?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。</p>]]></description>
+            <link>https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374</link>
+            <guid isPermaLink="false">WP-WSJS-0003840959</guid>
+            <pubDate>Tue, 25 Aug 2026 08:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[台湾起诉九名涉嫌向中国转售AI服务器的人员]]></title>
@@ -133,6 +133,13 @@
             <pubDate>Wed, 26 Aug 2026 01:17:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[专访：小鹏汽车押注机器人比造车更赚钱]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44826760?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df</link>
+            <guid isPermaLink="false">WP-WSJS-0003843909</guid>
+            <pubDate>Wed, 26 Aug 2026 06:08:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10523481?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。</p>]]></description>
             <link>https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1</link>
@@ -145,13 +152,6 @@
             <link>https://cn.wsj.com/articles/onlyfans%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9C%A8%E5%8E%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%B9%B4%E5%86%85%E8%8E%B77%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E6%81%AF-5d671f12</link>
             <guid isPermaLink="false">WP-WSJS-0003843525</guid>
             <pubDate>Wed, 26 Aug 2026 01:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-87422413?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。</p>]]></description>
-            <link>https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374</link>
-            <guid isPermaLink="false">WP-WSJS-0003840959</guid>
-            <pubDate>Tue, 25 Aug 2026 08:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查]]></title>

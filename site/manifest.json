@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:59:49.094423+00:00",
+  "generated_at": "2026-08-26T09:47:18.031436+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-760447?size=1.433&width=1280",
       "snapshot": "articles/e4-bc-8a-e6-9c-97--e6-b2-99-e8-b5-ab-e5-be-b7--e-f2e348a80e54.html",
       "captured": true,
-      "capture_title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争 - WSJ",
+      "capture_title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争",
       "error": ""
     },
     {
@@ -89,18 +89,6 @@
       "error": ""
     },
     {
-      "title": "专访：小鹏汽车押注机器人比造车更赚钱",
-      "summary": "小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。",
-      "link": "https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df",
-      "guid": "WP-WSJS-0003843909",
-      "pub_date": "Wed, 26 Aug 2026 06:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-44826760?size=1.501&width=1280",
-      "snapshot": "articles/xpeng-bets-robots-will-be-more-profitable-than-i-a56ac9629a14.html",
-      "captured": true,
-      "capture_title": "专访：小鹏汽车押注机器人比造车更赚钱 - WSJ",
-      "error": ""
-    },
-    {
       "title": "CIA局长拉特克利夫突访莫斯科",
       "summary": "这是约翰·拉特克利夫首次公开访问俄罗斯首都。不过访问原因暂时不清楚。",
       "link": "https://cn.wsj.com/articles/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-d5c0d18b",
@@ -110,6 +98,18 @@
       "snapshot": "articles/cia-director-john-ratcliffe-makes-surprise-trip--4beec1b8f17d.html",
       "captured": true,
       "capture_title": "CIA局长拉特克利夫突访莫斯科",
+      "error": ""
+    },
+    {
+      "title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
+      "summary": "川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。",
+      "link": "https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374",
+      "guid": "WP-WSJS-0003840959",
+      "pub_date": "Tue, 25 Aug 2026 08:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-87422413?size=1.499&width=1280",
+      "snapshot": "articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-ma-5f36afedeb04.html",
+      "captured": true,
+      "capture_title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-32132428?size=0.92&width=1280",
       "snapshot": "articles/situational-awareness-leopold-aschenbrenner-ai-f-55c195bd33e9.html",
       "captured": true,
-      "capture_title": "从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网 - WSJ",
+      "capture_title": "从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网",
       "error": ""
     },
     {
@@ -185,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "专访：小鹏汽车押注机器人比造车更赚钱",
+      "summary": "小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。",
+      "link": "https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df",
+      "guid": "WP-WSJS-0003843909",
+      "pub_date": "Wed, 26 Aug 2026 06:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-44826760?size=1.501&width=1280",
+      "snapshot": "articles/xpeng-bets-robots-will-be-more-profitable-than-i-a56ac9629a14.html",
+      "captured": true,
+      "capture_title": "专访：小鹏汽车押注机器人比造车更赚钱",
+      "error": ""
+    },
+    {
       "title": "苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易",
       "summary": "在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。",
       "link": "https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1",
@@ -206,18 +218,6 @@
       "snapshot": "articles/onlyfans-e5-88-9b-e5-a7-8b-e4-ba-ba-e5-9c-a8-e5--1288f68ebea5.html",
       "captured": true,
       "capture_title": "OnlyFans创始人在去世前一年内获7亿美元股息",
-      "error": ""
-    },
-    {
-      "title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
-      "summary": "川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。",
-      "link": "https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374",
-      "guid": "WP-WSJS-0003840959",
-      "pub_date": "Tue, 25 Aug 2026 08:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-87422413?size=1.499&width=1280",
-      "snapshot": "articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-ma-5f36afedeb04.html",
-      "captured": true,
-      "capture_title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
       "error": ""
     },
     {
