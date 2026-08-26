@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 01:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 03:56:40 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 01:37:34 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 03:56:40 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,13 @@
             <pubDate>Tue, 25 Aug 2026 11:52:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国如何经受住伊朗战争带来的石油冲击]]></title>
+            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-17126561?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。</p>]]></description>
+            <link>https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438</link>
+            <guid isPermaLink="false">WP-WSJS-0003838197</guid>
+            <pubDate>Mon, 24 Aug 2026 05:02:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[油轮遇袭事件再现，伊朗誓言将对美国经济攻势进行报复]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61240149?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在这场持续六个月的战争初期，伊朗就开始通过袭击船只来阻碍该海峡的交通。而最近这次袭击发生之时，新一轮的外交努力未能取得实质性突破。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%B2%B9%E8%BD%AE%E9%81%87%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%86%8D%E7%8E%B0-%E4%BC%8A%E6%9C%97%E8%AA%93%E8%A8%80%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BB%E5%8A%BF%E8%BF%9B%E8%A1%8C%E6%8A%A5%E5%A4%8D-2d2bdbce</link>
@@ -42,18 +49,25 @@
             <pubDate>Wed, 26 Aug 2026 00:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝森特启动“经济孤立行动”，旨在孤立并打压伊朗]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-22803249?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国财长宣布了旨在打击德黑兰支持者并切断该政权剩余经济命脉的新措施。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%AF%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%AD%A4%E7%AB%8B%E8%A1%8C%E5%8A%A8-%E6%97%A8%E5%9C%A8%E5%AD%A4%E7%AB%8B%E5%B9%B6%E6%89%93%E5%8E%8B%E4%BC%8A%E6%9C%97-840c3a72</link>
-            <guid isPermaLink="false">WP-WSJS-0003840346</guid>
-            <pubDate>Mon, 24 Aug 2026 23:15:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[伊朗战争已持续近半年，回看战前那些被无视的警告]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-23887692?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在军事和外交努力之后，美国总统特朗普将希望寄托于经济战。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%91%E5%8D%8A%E5%B9%B4-%E5%9B%9E%E7%9C%8B%E6%88%98%E5%89%8D%E9%82%A3%E4%BA%9B%E8%A2%AB%E6%97%A0%E8%A7%86%E7%9A%84%E8%AD%A6%E5%91%8A-e645d444</link>
             <guid isPermaLink="false">WP-WSJS-0003840857</guid>
             <pubDate>Tue, 25 Aug 2026 05:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic料将告知投资者其潜在收入将超过30万亿美元]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84285152?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic可能会告诉投资者，其潜在收入机会超过30万亿美元，高于SpaceX估算的28.5万亿美元。</p>]]></description>
+            <link>https://cn.wsj.com/articles/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-d4e50391</link>
+            <guid isPermaLink="false">WP-WSJS-0003843363</guid>
+            <pubDate>Tue, 25 Aug 2026 23:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达化身AI热潮“银行家”，随之踏入危险地带]]></title>
+            <description><![CDATA[<img width="1280" height="838" src="https://images.wsj.net/im-23084908?size=1.527&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达涉足融资领域或许有助于公司满足不断变化的市场需求。但这使得该公司在努力挺立于AI热潮潮头之际，几乎没有什么容错空间。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8C%96%E8%BA%ABai%E7%83%AD%E6%BD%AE-%E9%93%B6%E8%A1%8C%E5%AE%B6-%E9%9A%8F%E4%B9%8B%E8%B8%8F%E5%85%A5%E5%8D%B1%E9%99%A9%E5%9C%B0%E5%B8%A6-23d663af</link>
+            <guid isPermaLink="false">WP-WSJS-0003843528</guid>
+            <pubDate>Wed, 26 Aug 2026 02:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[加拿大以关税反击美国，瞄准中期选举热点地区]]></title>
@@ -70,25 +84,11 @@
             <pubDate>Tue, 25 Aug 2026 23:27:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anthropic料将告知投资者其潜在收入将超过30万亿美元]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84285152?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic可能会告诉投资者，其潜在收入机会超过30万亿美元，高于SpaceX估算的28.5万亿美元。</p>]]></description>
-            <link>https://cn.wsj.com/articles/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-d4e50391</link>
-            <guid isPermaLink="false">WP-WSJS-0003843363</guid>
-            <pubDate>Tue, 25 Aug 2026 23:53:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[台湾起诉九名涉嫌向中国转售AI服务器的人员]]></title>
             <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-02639317?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这九名人员包括英伟达和Super Micro Computer的前员工。眼下，台湾正努力限制敏感技术流入中国大陆。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E8%B5%B7%E8%AF%89%E4%B9%9D%E5%90%8D%E6%B6%89%E5%AB%8C%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BD%AC%E5%94%AEai%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E4%BA%BA%E5%91%98-352f388d</link>
             <guid isPermaLink="false">WP-WSJS-0003840596</guid>
             <pubDate>Tue, 25 Aug 2026 01:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国政府拟对H-1B签证征收六位数新费用]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-53942215?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举旨在取代此前一项对该签证收取10万美元但被法院裁定无效的计划。</p>]]></description>
-            <link>https://cn.wsj.com/articles/government-proposes-new-six-figure-fee-for-h1-b-visas-14b327e3</link>
-            <guid isPermaLink="false">WP-WSJS-0003840349</guid>
-            <pubDate>Mon, 24 Aug 2026 23:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普已将与沙特的核协议提交国会审议]]></title>
@@ -105,11 +105,11 @@
             <pubDate>Tue, 25 Aug 2026 03:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国如何经受住伊朗战争带来的石油冲击]]></title>
-            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-17126561?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438</link>
-            <guid isPermaLink="false">WP-WSJS-0003838197</guid>
-            <pubDate>Mon, 24 Aug 2026 05:02:00 GMT</pubDate>
+            <title><![CDATA[中国艺术家高兟因创作讽刺毛泽东作品被判刑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92180277?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高兟周二被定罪并判处三年有期徒刑，罪名是他在2000年代初创作的一系列讽刺毛泽东及其他领导人的作品犯有侵害英雄烈士名誉罪。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinese-court-sentences-artist-who-lampooned-mao-66a56d2d</link>
+            <guid isPermaLink="false">WP-WSJS-0003843754</guid>
+            <pubDate>Wed, 26 Aug 2026 02:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[硅谷最新身份象征：一款极少见的山姆·阿尔特曼瑞士表]]></title>
@@ -119,18 +119,11 @@
             <pubDate>Wed, 26 Aug 2026 01:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10523481?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1</link>
-            <guid isPermaLink="false">WP-WSJS-0003843335</guid>
-            <pubDate>Tue, 25 Aug 2026 23:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[探访华尔街精英荒野营：人人皆对AI热潮心生寒意]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-28771509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f</link>
-            <guid isPermaLink="false">WP-WSJS-0003840670</guid>
-            <pubDate>Tue, 25 Aug 2026 01:39:00 GMT</pubDate>
+            <title><![CDATA[阿里巴巴百亿增发：马云等关键人物大手笔买入]]></title>
+            <description><![CDATA[<img width="1280" height="895" src="https://images.mktw.net/im-290982?size=1.43&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23</link>
+            <guid isPermaLink="false">WP-WSJS-0003843563</guid>
+            <pubDate>Wed, 26 Aug 2026 01:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关]]></title>
@@ -140,6 +133,13 @@
             <pubDate>Tue, 25 Aug 2026 08:33:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10523481?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。</p>]]></description>
+            <link>https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1</link>
+            <guid isPermaLink="false">WP-WSJS-0003843335</guid>
+            <pubDate>Tue, 25 Aug 2026 23:43:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[OnlyFans创始人在去世前一年内获7亿美元股息]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11587628?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家以大尺度内容闻名的在线平台虽然员工不足50人，却是一台运转可靠的“印钞机”。</p>]]></description>
             <link>https://cn.wsj.com/articles/onlyfans%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9C%A8%E5%8E%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%B9%B4%E5%86%85%E8%8E%B77%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E6%81%AF-5d671f12</link>
@@ -147,11 +147,11 @@
             <pubDate>Wed, 26 Aug 2026 01:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿里巴巴百亿增发：马云等关键人物大手笔买入]]></title>
-            <description><![CDATA[<img width="1280" height="895" src="https://images.mktw.net/im-290982?size=1.43&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23</link>
-            <guid isPermaLink="false">WP-WSJS-0003843563</guid>
-            <pubDate>Wed, 26 Aug 2026 01:17:00 GMT</pubDate>
+            <title><![CDATA[德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-16205860?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普政府之前展开一项范围广泛的行动，意在清除与联邦政府有合同关系的大型美国公司中的多元化举措。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%BE%B7%E5%8B%A4%E5%B0%86%E6%94%AF%E4%BB%982-150%E4%B8%87%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%AF%B9%E5%85%B6dei%E6%94%BF%E7%AD%96%E7%9A%84%E6%AC%BA%E8%AF%88%E8%B0%83%E6%9F%A5-00cd4ae6</link>
+            <guid isPermaLink="false">WP-WSJS-0003843649</guid>
+            <pubDate>Wed, 26 Aug 2026 01:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AMD为何有望在数据中心CPU市场击败英特尔和英伟达]]></title>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:46:45.121853+00:00",
+  "generated_at": "2026-08-26T04:02:22.973019+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,6 +17,18 @@
       "error": ""
     },
     {
+      "title": "中国如何经受住伊朗战争带来的石油冲击",
+      "summary": "中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。",
+      "link": "https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438",
+      "guid": "WP-WSJS-0003838197",
+      "pub_date": "Mon, 24 Aug 2026 05:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-17126561?size=1.49&width=1280",
+      "snapshot": "articles/see-how-china-weathered-the-iran-oil-shock-32b55-87d3bae0fee9.html",
+      "captured": true,
+      "capture_title": "中国如何经受住伊朗战争带来的石油冲击",
+      "error": ""
+    },
+    {
       "title": "油轮遇袭事件再现，伊朗誓言将对美国经济攻势进行报复",
       "summary": "在这场持续六个月的战争初期，伊朗就开始通过袭击船只来阻碍该海峡的交通。而最近这次袭击发生之时，新一轮的外交努力未能取得实质性突破。",
       "link": "https://cn.wsj.com/articles/%E6%B2%B9%E8%BD%AE%E9%81%87%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%86%8D%E7%8E%B0-%E4%BC%8A%E6%9C%97%E8%AA%93%E8%A8%80%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BB%E5%8A%BF%E8%BF%9B%E8%A1%8C%E6%8A%A5%E5%A4%8D-2d2bdbce",
@@ -25,19 +37,7 @@
       "image_url": "https://images.wsj.net/im-61240149?size=1.501&width=1280",
       "snapshot": "articles/e6-b2-b9-e8-bd-ae-e9-81-87-e8-a2-ad-e4-ba-8b-e4--f12aea1bdd97.html",
       "captured": true,
-      "capture_title": "油轮遇袭事件再现，伊朗誓言将对美国经济攻势进行报复 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
-      "summary": "美国财长宣布了旨在打击德黑兰支持者并切断该政权剩余经济命脉的新措施。",
-      "link": "https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%AF%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%AD%A4%E7%AB%8B%E8%A1%8C%E5%8A%A8-%E6%97%A8%E5%9C%A8%E5%AD%A4%E7%AB%8B%E5%B9%B6%E6%89%93%E5%8E%8B%E4%BC%8A%E6%9C%97-840c3a72",
-      "guid": "WP-WSJS-0003840346",
-      "pub_date": "Mon, 24 Aug 2026 23:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-22803249?size=1.499&width=1280",
-      "snapshot": "articles/e8-b4-9d-e6-a3-ae-e7-89-b9-e5-90-af-e5-8a-a8--e7-f751c2d036b4.html",
-      "captured": true,
-      "capture_title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
+      "capture_title": "油轮遇袭事件再现，伊朗誓言将对美国经济攻势进行报复",
       "error": ""
     },
     {
@@ -53,6 +53,30 @@
       "error": ""
     },
     {
+      "title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元",
+      "summary": "Anthropic可能会告诉投资者，其潜在收入机会超过30万亿美元，高于SpaceX估算的28.5万亿美元。",
+      "link": "https://cn.wsj.com/articles/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-d4e50391",
+      "guid": "WP-WSJS-0003843363",
+      "pub_date": "Tue, 25 Aug 2026 23:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-84285152?size=1.501&width=1280",
+      "snapshot": "articles/anthropic-expected-to-tell-investors-it-sees-ove-15baa74029cd.html",
+      "captured": true,
+      "capture_title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元",
+      "error": ""
+    },
+    {
+      "title": "英伟达化身AI热潮“银行家”，随之踏入危险地带",
+      "summary": "英伟达涉足融资领域或许有助于公司满足不断变化的市场需求。但这使得该公司在努力挺立于AI热潮潮头之际，几乎没有什么容错空间。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8C%96%E8%BA%ABai%E7%83%AD%E6%BD%AE-%E9%93%B6%E8%A1%8C%E5%AE%B6-%E9%9A%8F%E4%B9%8B%E8%B8%8F%E5%85%A5%E5%8D%B1%E9%99%A9%E5%9C%B0%E5%B8%A6-23d663af",
+      "guid": "WP-WSJS-0003843528",
+      "pub_date": "Wed, 26 Aug 2026 02:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-23084908?size=1.527&width=1280",
+      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-8c-96-e8-ba-abai-e-90dc774e18db.html",
+      "captured": true,
+      "capture_title": "英伟达化身AI热潮“银行家”，随之踏入危险地带 - WSJ",
+      "error": ""
+    },
+    {
       "title": "加拿大以关税反击美国，瞄准中期选举热点地区",
       "summary": "多数关税税率介于15%至50%之间，涉及约200亿美元商品。这些关税瞄准的是国会选举争夺激烈的州所生产的商品。",
       "link": "https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BB%A5%E5%85%B3%E7%A8%8E%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD-%E7%9E%84%E5%87%86%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%83%AD%E7%82%B9%E5%9C%B0%E5%8C%BA-c56dace1",
@@ -61,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-84393620?size=1.456&width=1280",
       "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e4-bb-a5-e5-85-b3-e7--97c1c49af024.html",
       "captured": true,
-      "capture_title": "加拿大以关税反击美国，瞄准中期选举热点地区 - WSJ",
+      "capture_title": "加拿大以关税反击美国，瞄准中期选举热点地区",
       "error": ""
     },
     {
@@ -73,19 +97,7 @@
       "image_url": "https://images.wsj.net/im-43957955?size=1.501&width=1280",
       "snapshot": "articles/cia-director-john-ratcliffe-makes-surprise-trip--4beec1b8f17d.html",
       "captured": true,
-      "capture_title": "CIA局长拉特克利夫突访莫斯科 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元",
-      "summary": "Anthropic可能会告诉投资者，其潜在收入机会超过30万亿美元，高于SpaceX估算的28.5万亿美元。",
-      "link": "https://cn.wsj.com/articles/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-d4e50391",
-      "guid": "WP-WSJS-0003843363",
-      "pub_date": "Tue, 25 Aug 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-84285152?size=1.501&width=1280",
-      "snapshot": "articles/anthropic-expected-to-tell-investors-it-sees-ove-15baa74029cd.html",
-      "captured": true,
-      "capture_title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元 - WSJ",
+      "capture_title": "CIA局长拉特克利夫突访莫斯科",
       "error": ""
     },
     {
@@ -98,18 +110,6 @@
       "snapshot": "articles/e5-8f-b0-e6-b9-be-e8-b5-b7-e8-af-89-e4-b9-9d-e5--74141e27e3d3.html",
       "captured": true,
       "capture_title": "台湾起诉九名涉嫌向中国转售AI服务器的人员",
-      "error": ""
-    },
-    {
-      "title": "美国政府拟对H-1B签证征收六位数新费用",
-      "summary": "此举旨在取代此前一项对该签证收取10万美元但被法院裁定无效的计划。",
-      "link": "https://cn.wsj.com/articles/government-proposes-new-six-figure-fee-for-h1-b-visas-14b327e3",
-      "guid": "WP-WSJS-0003840349",
-      "pub_date": "Mon, 24 Aug 2026 23:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-53942215?size=1.501&width=1280",
-      "snapshot": "articles/government-proposes-new-six-figure-fee-for-h1-b--04d8b952579d.html",
-      "captured": true,
-      "capture_title": "美国政府拟对H-1B签证征收六位数新费用",
       "error": ""
     },
     {
@@ -137,15 +137,15 @@
       "error": ""
     },
     {
-      "title": "中国如何经受住伊朗战争带来的石油冲击",
-      "summary": "中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。",
-      "link": "https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438",
-      "guid": "WP-WSJS-0003838197",
-      "pub_date": "Mon, 24 Aug 2026 05:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-17126561?size=1.49&width=1280",
-      "snapshot": "articles/see-how-china-weathered-the-iran-oil-shock-32b55-87d3bae0fee9.html",
+      "title": "中国艺术家高兟因创作讽刺毛泽东作品被判刑",
+      "summary": "高兟周二被定罪并判处三年有期徒刑，罪名是他在2000年代初创作的一系列讽刺毛泽东及其他领导人的作品犯有侵害英雄烈士名誉罪。",
+      "link": "https://cn.wsj.com/articles/chinese-court-sentences-artist-who-lampooned-mao-66a56d2d",
+      "guid": "WP-WSJS-0003843754",
+      "pub_date": "Wed, 26 Aug 2026 02:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-92180277?size=1.501&width=1280",
+      "snapshot": "articles/chinese-court-sentences-artist-who-lampooned-mao-d9951db7523d.html",
       "captured": true,
-      "capture_title": "中国如何经受住伊朗战争带来的石油冲击",
+      "capture_title": "中国艺术家高兟因创作讽刺毛泽东作品被判刑 - WSJ",
       "error": ""
     },
     {
@@ -157,31 +157,19 @@
       "image_url": "https://images.wsj.net/im-06227102?size=0.755&width=1280",
       "snapshot": "articles/e7-a1-85-e8-b0-b7-e6-9c-80-e6-96-b0-e8-ba-ab-e4--344cd0106ec8.html",
       "captured": true,
-      "capture_title": "硅谷最新身份象征：一款极少见的山姆·阿尔特曼瑞士表 - WSJ",
+      "capture_title": "硅谷最新身份象征：一款极少见的山姆·阿尔特曼瑞士表",
       "error": ""
     },
     {
-      "title": "苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易",
-      "summary": "在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。",
-      "link": "https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1",
-      "guid": "WP-WSJS-0003843335",
-      "pub_date": "Tue, 25 Aug 2026 23:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-10523481?size=1.501&width=1280",
-      "snapshot": "articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e-6ff9bb257a6a.html",
+      "title": "阿里巴巴百亿增发：马云等关键人物大手笔买入",
+      "summary": "阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。",
+      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23",
+      "guid": "WP-WSJS-0003843563",
+      "pub_date": "Wed, 26 Aug 2026 01:17:00 GMT",
+      "image_url": "https://images.mktw.net/im-290982?size=1.43&width=1280",
+      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e7-99-be-e4--292027a775d4.html",
       "captured": true,
-      "capture_title": "苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
-      "summary": "在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。",
-      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f",
-      "guid": "WP-WSJS-0003840670",
-      "pub_date": "Tue, 25 Aug 2026 01:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-28771509?size=1.5&width=1280",
-      "snapshot": "articles/e6-8e-a2-e8-ae-bf-e5-8d-8e-e5-b0-94-e8-a1-97-e7--4c17fb5b3e6d.html",
-      "captured": true,
-      "capture_title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
+      "capture_title": "阿里巴巴百亿增发：马云等关键人物大手笔买入",
       "error": ""
     },
     {
@@ -197,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易",
+      "summary": "在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。",
+      "link": "https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1",
+      "guid": "WP-WSJS-0003843335",
+      "pub_date": "Tue, 25 Aug 2026 23:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-10523481?size=1.501&width=1280",
+      "snapshot": "articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e-6ff9bb257a6a.html",
+      "captured": true,
+      "capture_title": "苹果公司发布新款Mac Mini和Mac Studio，但想买到手可能不容易",
+      "error": ""
+    },
+    {
       "title": "OnlyFans创始人在去世前一年内获7亿美元股息",
       "summary": "这家以大尺度内容闻名的在线平台虽然员工不足50人，却是一台运转可靠的“印钞机”。",
       "link": "https://cn.wsj.com/articles/onlyfans%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9C%A8%E5%8E%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%B9%B4%E5%86%85%E8%8E%B77%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E6%81%AF-5d671f12",
@@ -205,19 +205,19 @@
       "image_url": "https://images.wsj.net/im-11587628?size=1.501&width=1280",
       "snapshot": "articles/onlyfans-e5-88-9b-e5-a7-8b-e4-ba-ba-e5-9c-a8-e5--1288f68ebea5.html",
       "captured": true,
-      "capture_title": "OnlyFans创始人在去世前一年内获7亿美元股息 - WSJ",
+      "capture_title": "OnlyFans创始人在去世前一年内获7亿美元股息",
       "error": ""
     },
     {
-      "title": "阿里巴巴百亿增发：马云等关键人物大手笔买入",
-      "summary": "阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。",
-      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23",
-      "guid": "WP-WSJS-0003843563",
-      "pub_date": "Wed, 26 Aug 2026 01:17:00 GMT",
-      "image_url": "https://images.mktw.net/im-290982?size=1.43&width=1280",
-      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e7-99-be-e4--292027a775d4.html",
+      "title": "德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查",
+      "summary": "特朗普政府之前展开一项范围广泛的行动，意在清除与联邦政府有合同关系的大型美国公司中的多元化举措。",
+      "link": "https://cn.wsj.com/articles/%E5%BE%B7%E5%8B%A4%E5%B0%86%E6%94%AF%E4%BB%982-150%E4%B8%87%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%AF%B9%E5%85%B6dei%E6%94%BF%E7%AD%96%E7%9A%84%E6%AC%BA%E8%AF%88%E8%B0%83%E6%9F%A5-00cd4ae6",
+      "guid": "WP-WSJS-0003843649",
+      "pub_date": "Wed, 26 Aug 2026 01:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-16205860?size=1.499&width=1280",
+      "snapshot": "articles/e5-be-b7-e5-8b-a4-e5-b0-86-e6-94-af-e4-bb-982-15-cf3967e9ffd0.html",
       "captured": true,
-      "capture_title": "阿里巴巴百亿增发：马云等关键人物大手笔买入 - WSJ",
+      "capture_title": "德勤将支付2,150万美元和解美国司法部对其DEI政策的欺诈调查 - WSJ",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.mktw.net/im-34746867?size=1.5&width=1280",
       "snapshot": "articles/why-amd-can-beat-rivals-intel-and-nvidia-in-the--922056c9cea9.html",
       "captured": true,
-      "capture_title": "AMD为何有望在数据中心CPU市场击败英特尔和英伟达 - WSJ",
+      "capture_title": "AMD为何有望在数据中心CPU市场击败英特尔和英伟达",
       "error": ""
     },
     {
@@ -302,6 +302,42 @@
       "snapshot": "articles/e6-b5-aa-e5-ad-90--e5-93-88-e9-87-8c-e5-9b-9e-e5-31c13a385e78.html",
       "captured": true,
       "capture_title": "“浪子”哈里回国令威廉王子陷入两难",
+      "error": ""
+    },
+    {
+      "title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
+      "summary": "美国财长宣布了旨在打击德黑兰支持者并切断该政权剩余经济命脉的新措施。",
+      "link": "https://cn.wsj.com/articles/%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%AF%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%AD%A4%E7%AB%8B%E8%A1%8C%E5%8A%A8-%E6%97%A8%E5%9C%A8%E5%AD%A4%E7%AB%8B%E5%B9%B6%E6%89%93%E5%8E%8B%E4%BC%8A%E6%9C%97-840c3a72",
+      "guid": "WP-WSJS-0003840346",
+      "pub_date": "Mon, 24 Aug 2026 23:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-22803249?size=1.499&width=1280",
+      "snapshot": "articles/e8-b4-9d-e6-a3-ae-e7-89-b9-e5-90-af-e5-8a-a8--e7-f751c2d036b4.html",
+      "captured": true,
+      "capture_title": "贝森特启动“经济孤立行动”，旨在孤立并打压伊朗",
+      "error": ""
+    },
+    {
+      "title": "美国政府拟对H-1B签证征收六位数新费用",
+      "summary": "此举旨在取代此前一项对该签证收取10万美元但被法院裁定无效的计划。",
+      "link": "https://cn.wsj.com/articles/government-proposes-new-six-figure-fee-for-h1-b-visas-14b327e3",
+      "guid": "WP-WSJS-0003840349",
+      "pub_date": "Mon, 24 Aug 2026 23:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-53942215?size=1.501&width=1280",
+      "snapshot": "articles/government-proposes-new-six-figure-fee-for-h1-b--04d8b952579d.html",
+      "captured": true,
+      "capture_title": "美国政府拟对H-1B签证征收六位数新费用",
+      "error": ""
+    },
+    {
+      "title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
+      "summary": "在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。",
+      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f",
+      "guid": "WP-WSJS-0003840670",
+      "pub_date": "Tue, 25 Aug 2026 01:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-28771509?size=1.5&width=1280",
+      "snapshot": "articles/e6-8e-a2-e8-ae-bf-e5-8d-8e-e5-b0-94-e8-a1-97-e7--4c17fb5b3e6d.html",
+      "captured": true,
+      "capture_title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/how-wall-street-sussed-out-that-situational-awar-9b7eb5722fed.html",
       "captured": true,
       "capture_title": "华尔街如何嗅到了Situational Awareness危机爆发的气息",
-      "error": ""
-    },
-    {
-      "title": "不顾“禁爱令”，领英意外成为约会神器",
-      "summary": "凭借清晰的头像和详尽的个人履历，这个职场社交平台正成为单身人士寻觅伴侣的首选工具。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%8D%E9%A1%BE-%E7%A6%81%E7%88%B1%E4%BB%A4-%E9%A2%86%E8%8B%B1%E6%84%8F%E5%A4%96%E6%88%90%E4%B8%BA%E7%BA%A6%E4%BC%9A%E7%A5%9E%E5%99%A8-f5864af0",
-      "guid": "WP-WSJS-0003830429",
-      "pub_date": "Thu, 20 Aug 2026 01:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-67524492?size=1.397&width=1280",
-      "snapshot": "articles/e4-b8-8d-e9-a1-be--e7-a6-81-e7-88-b1-e4-bb-a4--e-d8d8245c2e29.html",
-      "captured": true,
-      "capture_title": "不顾“禁爱令”，领英意外成为约会神器",
-      "error": ""
-    },
-    {
-      "title": "恒大创始人许家印被判处无期徒刑",
-      "summary": "作为中国曾经最显赫的房地产大亨之一，许家印因欺诈发行证券罪、违规披露重要信息罪等罪名被判处无期徒刑。",
-      "link": "https://cn.wsj.com/articles/%E6%81%92%E5%A4%A7%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91-906ab955",
-      "guid": "WP-WSJS-0003830734",
-      "pub_date": "Thu, 20 Aug 2026 06:12:00 GMT",
-      "image_url": "https://images.wsj.net/im-15265747?size=1.501&width=1280",
-      "snapshot": "articles/e6-81-92-e5-a4-a7-e5-88-9b-e5-a7-8b-e4-ba-ba-e8--f9f398f07db1.html",
-      "captured": true,
-      "capture_title": "恒大创始人许家印被判处无期徒刑",
-      "error": ""
-    },
-    {
-      "title": "贝森特着力扮演美国债券“总操盘手”角色",
-      "summary": "面对较长期利率上行触及近20年来最高点，贝森特周三出手：美财政部宣布将大幅增加政府债券购买。",
-      "link": "https://cn.wsj.com/articles/bessent-leans-into-his-role-as-americas-bond-trader-in-chief-7f673a30",
-      "guid": "WP-WSJS-0003830088",
-      "pub_date": "Wed, 19 Aug 2026 23:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-64096735?size=1.501&width=1280",
-      "snapshot": "articles/bessent-leans-into-his-role-as-americas-bond-tra-1e0deb6c5f04.html",
-      "captured": true,
-      "capture_title": "贝森特着力扮演美国债券“总操盘手”角色",
       "error": ""
     }
   ]
