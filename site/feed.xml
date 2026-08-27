@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 00:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 13:58:18 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 00:34:37 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 13:58:18 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,32 +28,32 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
+            <title><![CDATA[如今对美贸易顺差最大的国家：越南]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52125012?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>今年上半年，越南对美国的贸易顺差达到1,140亿美元，超过了半导体中心台湾、墨西哥，甚至是中国。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%A6%82%E4%BB%8A%E5%AF%B9%E7%BE%8E%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6-%E8%B6%8A%E5%8D%97-90fab2e5</link>
+            <guid isPermaLink="false">WP-WSJS-0003846989</guid>
+            <pubDate>Thu, 27 Aug 2026 00:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国工业企业利润大幅增长，全球AI热潮提供强劲支撑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82141615?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国7月份工业企业利润增速有所放缓，但仍保持两位数水平。这主要得益于全球AI热潮持续发力，强力拉动了工厂产量与科技企业盈利。</p>]]></description>
+            <link>https://cn.wsj.com/articles/surgein-china-s-industrial-profit-underpinned-by-global-ai-boom-6f1e586a</link>
+            <guid isPermaLink="false">WP-WSJS-0003847247</guid>
+            <pubDate>Thu, 27 Aug 2026 02:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DeepSeek估值料将达到740亿美元]]></title>
+            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-17107051?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>DeepSeek即将获得新一轮融资，本轮融资对这家中国AI初创公司的估值将达到740亿美元。该公司计划于明年进行IPO。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai-startup-deepseek-poised-to-reach-74-billion-valuation-b42ff318</link>
+            <guid isPermaLink="false">WP-WSJS-0003847665</guid>
+            <pubDate>Thu, 27 Aug 2026 08:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[伊朗“沙赫德”无人机如何在中国帮助下重塑战争]]></title>
-            <description><![CDATA[<img width="1280" height="893" src="https://images.wsj.net/im-760447?size=1.433&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>平价单程攻击无人机的大规模扩散，背后是一条复杂的全球供应链，而这条供应链追根溯源，最终总是指向中国。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-16496231?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>平价单程攻击无人机的大规模扩散，背后是一条复杂的全球供应链，而这条供应链追根溯源，最终总是指向中国。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97-%E6%B2%99%E8%B5%AB%E5%BE%B7-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E4%B8%8B%E9%87%8D%E5%A1%91%E6%88%98%E4%BA%89-8f2821c1</link>
             <guid isPermaLink="false">WP-WSJS-0003843903</guid>
             <pubDate>Wed, 26 Aug 2026 06:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[劳工抗议与恐慌性抢购显示伊朗压力日增]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52976527?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>本周，伊朗民众争相抢购燃料和食品，凸显出日益加剧的经济压力。此前，特朗普政府威胁要收紧制裁，引发了人们对物资短缺和困境将进一步加剧的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8A%B3%E5%B7%A5%E6%8A%97%E8%AE%AE%E4%B8%8E%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%A2%E8%B4%AD%E6%98%BE%E7%A4%BA%E4%BC%8A%E6%9C%97%E5%8E%8B%E5%8A%9B%E6%97%A5%E5%A2%9E-343bdbf5</link>
-            <guid isPermaLink="false">WP-WSJS-0003846845</guid>
-            <pubDate>Wed, 26 Aug 2026 23:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国向伊朗施压，但未将其最大生命线中国作为目标]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-30720757?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在宣布针对伊朗的“经济孤立行动”讲话中，贝森特并未提及那个让伊朗得以抗住美国多年压力的国家：中国。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-squeezes-iran-but-avoids-targeting-its-biggest-lifeline-china-86e07972</link>
-            <guid isPermaLink="false">WP-WSJS-0003841279</guid>
-            <pubDate>Tue, 25 Aug 2026 11:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国如何经受住伊朗战争带来的石油冲击]]></title>
-            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-17126561?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府如何成功大幅削减原油进口，从而压低全球价格，并安然无恙？本文以图表揭开这一谜团。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-how-china-weathered-the-iran-oil-shock-32b55438</link>
-            <guid isPermaLink="false">WP-WSJS-0003838197</guid>
-            <pubDate>Mon, 24 Aug 2026 05:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[英伟达财季业绩远超预期，称AI芯片需求愈发火爆]]></title>
@@ -63,6 +63,13 @@
             <pubDate>Thu, 27 Aug 2026 00:08:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国国务院暂停处理移民签证申请]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99533852?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>目前尚无法立即确认此次暂停处理将持续多久，预计不会影响非移民签证申请人。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-state-department-pauses-immigrant-visa-applications-7a56cedc</link>
+            <guid isPermaLink="false">WP-WSJS-0003846764</guid>
+            <pubDate>Wed, 26 Aug 2026 23:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国联邦调查局捣毁庞大的涉华黑客网络]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-32619067?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国官员称，他们已挫败一起与中国有关的黑客行动。该行动的目标包括美国国家航空航天局、美联储、能源部和参议院的网络。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80%E6%8D%A3%E6%AF%81%E5%BA%9E%E5%A4%A7%E7%9A%84%E6%B6%89%E5%8D%8E%E9%BB%91%E5%AE%A2%E7%BD%91%E7%BB%9C-189cf402</link>
@@ -70,74 +77,60 @@
             <pubDate>Wed, 26 Aug 2026 23:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务院暂停处理移民签证申请]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99533852?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普政府已暂停处理可供获批者永久移居美国的移民签证申请，以便就新规对签证官进行培训，确保申请人在抵美后有足够的经济能力供养自己。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-state-department-pauses-immigrant-visa-applications-7a56cedc</link>
-            <guid isPermaLink="false">WP-WSJS-0003846764</guid>
-            <pubDate>Wed, 26 Aug 2026 23:19:00 GMT</pubDate>
+            <title><![CDATA[超1,400人在尼泊尔和中国边境的洪灾中失踪，洪灾疑似由冰岩崩塌引发]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-53457536?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尼泊尔和中国表示，目前仍有约1,400人在洪灾中失踪，至少180人确认丧生。这场洪灾可能是由喜马拉雅山脉一处冰川部分坍塌坠入下方山谷引发。</p>]]></description>
+            <link>https://cn.wsj.com/articles/more-than-1-400-missing-in-nepal-and-china-in-floods-likely-sparked-by-glacier-break-8ac6fb67</link>
+            <guid isPermaLink="false">WP-WSJS-0003847710</guid>
+            <pubDate>Thu, 27 Aug 2026 09:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CIA局长突访莫斯科旨在警告俄罗斯不要攻击北约]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-03555050?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此前美国的情报评估显示，普京可能在未来几年内，通过对一个盟国发动有限攻击，来试探北约的决心。</p>]]></description>
-            <link>https://cn.wsj.com/articles/cia%E5%B1%80%E9%95%BF%E7%AA%81%E8%AE%BF%E8%8E%AB%E6%96%AF%E7%A7%91%E6%97%A8%E5%9C%A8%E8%AD%A6%E5%91%8A%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E8%A6%81%E6%94%BB%E5%87%BB%E5%8C%97%E7%BA%A6-413809ac</link>
-            <guid isPermaLink="false">WP-WSJS-0003846919</guid>
-            <pubDate>Wed, 26 Aug 2026 23:57:00 GMT</pubDate>
+            <title><![CDATA[美加为应对长期贸易争端做准备]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-50755357?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在中期选举前夕特朗普面临政治压力的情况下，几乎没有人认为短期内能找到缓和紧张关系的出路。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%8A%A0%E4%B8%BA%E5%BA%94%E5%AF%B9%E9%95%BF%E6%9C%9F%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF%E5%81%9A%E5%87%86%E5%A4%87-4c057123</link>
+            <guid isPermaLink="false">WP-WSJS-0003847126</guid>
+            <pubDate>Thu, 27 Aug 2026 01:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anthropic料将告知投资者其潜在收入将超过30万亿美元]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84285152?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic可能会告诉投资者，其潜在收入机会超过30万亿美元，高于SpaceX估算的28.5万亿美元。</p>]]></description>
-            <link>https://cn.wsj.com/articles/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-d4e50391</link>
-            <guid isPermaLink="false">WP-WSJS-0003843363</guid>
-            <pubDate>Tue, 25 Aug 2026 23:53:00 GMT</pubDate>
+            <title><![CDATA[俄乌空战进入更加惨烈的新阶段]]></title>
+            <description><![CDATA[<img width="1280" height="913" src="https://images.wsj.net/im-48853802?size=1.402&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>俄乌双方都在利用远程无人机和导弹造成日益严重的破坏，但看起来谁都还远未到被打垮的地步。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BF%84%E4%B9%8C%E7%A9%BA%E6%88%98%E8%BF%9B%E5%85%A5%E6%9B%B4%E5%8A%A0%E6%83%A8%E7%83%88%E7%9A%84%E6%96%B0%E9%98%B6%E6%AE%B5-c4c6d37f</link>
+            <guid isPermaLink="false">WP-WSJS-0003847283</guid>
+            <pubDate>Thu, 27 Aug 2026 02:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加拿大以关税反击美国，瞄准中期选举热点地区]]></title>
-            <description><![CDATA[<img width="1280" height="879" src="https://images.wsj.net/im-84393620?size=1.456&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>多数关税税率介于15%至50%之间，涉及约200亿美元商品。这些关税瞄准的是国会选举争夺激烈的州所生产的商品。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BB%A5%E5%85%B3%E7%A8%8E%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD-%E7%9E%84%E5%87%86%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%83%AD%E7%82%B9%E5%9C%B0%E5%8C%BA-c56dace1</link>
-            <guid isPermaLink="false">WP-WSJS-0003843298</guid>
-            <pubDate>Tue, 25 Aug 2026 23:32:00 GMT</pubDate>
+            <title><![CDATA[日本当代艺术家草间弥生去世，终年97岁]]></title>
+            <description><![CDATA[<img width="1280" height="822" src="https://images.wsj.net/im-770800?size=1.56&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为20世纪60年代纽约前卫艺术界风格迷幻、极具创新精神的代表人物，草间弥生凭借适合自拍的沉浸式空间，保持了长青的艺术生命力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/contemporary-artist-yayoi-kusama-dies-at-97-b0215b42</link>
+            <guid isPermaLink="false">WP-WSJS-0003847486</guid>
+            <pubDate>Thu, 27 Aug 2026 06:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国艺术家高兟因创作讽刺毛泽东作品被判刑]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92180277?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高兟周二被定罪并判处三年有期徒刑，罪名是他在2000年代初创作的一系列讽刺毛泽东及其他领导人的作品犯有侵害英雄烈士名誉罪。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinese-court-sentences-artist-who-lampooned-mao-66a56d2d</link>
-            <guid isPermaLink="false">WP-WSJS-0003843754</guid>
-            <pubDate>Wed, 26 Aug 2026 02:47:00 GMT</pubDate>
+            <title><![CDATA[哥斯达黎加毒品暴力失控，引发政治地震]]></title>
+            <description><![CDATA[<img width="1280" height="1920" src="https://images.wsj.net/im-60821475?size=0.67&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>曾经以民主稳定著称的哥斯达黎加，如今正艰难应对毒品走私激增所带来的严重冲击。</p>]]></description>
+            <link>https://cn.wsj.com/articles/costa-rica-drug-violence-political-earthquake-ff8775a8</link>
+            <guid isPermaLink="false">WP-WSJS-0003847411</guid>
+            <pubDate>Thu, 27 Aug 2026 04:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]]></title>
-            <description><![CDATA[<img width="1280" height="1386" src="https://images.wsj.net/im-32132428?size=0.92&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位24岁的投资者曾被誉为远见卓识的奇才，吸引了数以十亿美元计的资金，最终却沦为华尔街最新的反面教材。</p>]]></description>
-            <link>https://cn.wsj.com/articles/situational-awareness-leopold-aschenbrenner-ai-fund-2b0ef0fc</link>
-            <guid isPermaLink="false">WP-WSJS-0003843828</guid>
-            <pubDate>Wed, 26 Aug 2026 04:22:00 GMT</pubDate>
+            <title><![CDATA[杰克逊霍尔年会在即，沃什通胀立场仍不明朗]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-49925483?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>凯文·沃什一直不轻易表态自己的利率观点，导致投资者和美联储官员只能猜测他打算如何应对通货膨胀。</p>]]></description>
+            <link>https://cn.wsj.com/articles/central-banking-the-fed-chairman-is-heading-to-jackson-hole-without-a-clear-stance-on-inflation-592692b2</link>
+            <guid isPermaLink="false">WP-WSJS-0003847084</guid>
+            <pubDate>Thu, 27 Aug 2026 01:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比尔·盖茨发表5784字AI警告：全球“没有应对计划”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-12163448?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>比尔·盖茨呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。他此番表态比2023年的AI主题文章更为沉重。</p>]]></description>
-            <link>https://cn.wsj.com/articles/three-takeaways-from-bill-gatess-5-784-word-warning-on-ai-there-is-no-plan-f9508708</link>
-            <guid isPermaLink="false">WP-WSJS-0003844050</guid>
-            <pubDate>Wed, 26 Aug 2026 08:35:00 GMT</pubDate>
+            <title><![CDATA[AI选股能力真的提升了吗？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-11520190?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>哪怕有AI加持，想要跑赢大盘依然困难重重。这让华尔街的许多人感到惊讶。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai%E9%80%89%E8%82%A1%E8%83%BD%E5%8A%9B%E7%9C%9F%E7%9A%84%E6%8F%90%E5%8D%87%E4%BA%86%E5%90%97-82d6b1be</link>
+            <guid isPermaLink="false">WP-WSJS-0003847218</guid>
+            <pubDate>Thu, 27 Aug 2026 02:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[全球最疯狂股市崩盘，从AI全民狂欢到血洗散户]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69319207?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮的推动下，过去一年的大部分时间里，韩国股市在全球独领风骚。随后，这轮行情轰然崩盘。韩国综合指数六周内的崩盘，瞬间蒸发了约2.5万亿美元市值。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E7%96%AF%E7%8B%82%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98-%E4%BB%8Eai%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E5%88%B0%E8%A1%80%E6%B4%97%E6%95%A3%E6%88%B7-1c4d84e3</link>
-            <guid isPermaLink="false">WP-WSJS-0003840810</guid>
-            <pubDate>Tue, 25 Aug 2026 03:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴百亿增发：马云等关键人物大手笔买入]]></title>
-            <description><![CDATA[<img width="1280" height="895" src="https://images.mktw.net/im-290982?size=1.43&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23</link>
-            <guid isPermaLink="false">WP-WSJS-0003843563</guid>
-            <pubDate>Wed, 26 Aug 2026 01:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌在最新调整中将AI责任团队调离DeepMind实验室]]></title>
-            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-67456138?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该责任团队的员工已在留言板讨论和会议中向管理层表达担忧，认为这次调整会削弱他们开展独立研究的能力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/google-moves-ai-responsibility-team-out-of-deepmind-lab-in-latest-shake-up-3e4b1f26</link>
-            <guid isPermaLink="false">WP-WSJS-0003846814</guid>
-            <pubDate>Wed, 26 Aug 2026 23:33:00 GMT</pubDate>
+            <title><![CDATA[诺和诺德减肥口服药在华上市申请获受理]]></title>
+            <description><![CDATA[<img width="1280" height="693" src="https://images.wsj.net/im-02140275?size=1.85&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>诺和诺德表示，中国国家药品监督管理局已开始审理其诺和盈片剂的上市申请。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-sdrug-regulator-accepts-novo-nordisk-s-application-to-sell-obesity-tablet-8fafddb1</link>
+            <guid isPermaLink="false">WP-WSJS-0003847649</guid>
+            <pubDate>Thu, 27 Aug 2026 08:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meta就儿童安全指控与48个州达成180亿美元和解协议]]></title>
@@ -147,32 +140,46 @@
             <pubDate>Wed, 26 Aug 2026 23:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[银行业曾抵制稳定币，如今正考虑自行发行]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-85454107?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一改此前对稳定币需求的疑虑，如今无论规模大小，银行业都开始对发行自己的稳定币表现出兴趣。</p>]]></description>
-            <link>https://cn.wsj.com/articles/banks-fought-against-stablecoins-now-they-are-considering-launching-their-own-7ab176f1</link>
-            <guid isPermaLink="false">WP-WSJS-0003846783</guid>
-            <pubDate>Wed, 26 Aug 2026 23:25:00 GMT</pubDate>
+            <title><![CDATA[铠侠和闪迪将在日本投资逾310亿美元]]></title>
+            <description><![CDATA[<img width="1280" height="964" src="https://images.wsj.net/im-57467978?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>铠侠和闪迪计划在日本投资逾310亿美元，以加强双方的合资企业并支持闪存的大规模供应。</p>]]></description>
+            <link>https://cn.wsj.com/articles/kioxia-sandisk-to-invest-more-than-31-billion-in-japan-69d59a81</link>
+            <guid isPermaLink="false">WP-WSJS-0003847747</guid>
+            <pubDate>Thu, 27 Aug 2026 11:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[专访：小鹏汽车押注机器人比造车更赚钱]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44826760?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。</p>]]></description>
-            <link>https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df</link>
-            <guid isPermaLink="false">WP-WSJS-0003843909</guid>
-            <pubDate>Wed, 26 Aug 2026 06:08:00 GMT</pubDate>
+            <title><![CDATA[FDA批准RevMed新药，胰腺癌治疗迎来里程碑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-90816304?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这款名为Rasonque的药物在一项后期研究中帮助受试者存活超过13个月，时间接近仅接受化疗者的两倍。</p>]]></description>
+            <link>https://cn.wsj.com/articles/fda-approves-drug-for-pancreatic-cancer-in-incredible-moment-for-deadly-disease-fdc783e7</link>
+            <guid isPermaLink="false">WP-WSJS-0003846922</guid>
+            <pubDate>Thu, 27 Aug 2026 00:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国AI公司MiniMax收入增至近四倍，亏损收窄]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-09402040?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>稀宇科技收入大幅增长，亏损收窄，与此同时，该公司正努力缩小与领先AI模型开发商的差距。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chineseai-firm-minimax-revenue-nearly-quadruples-91a17467</link>
-            <guid isPermaLink="false">WP-WSJS-0003844318</guid>
-            <pubDate>Wed, 26 Aug 2026 11:17:00 GMT</pubDate>
+            <title><![CDATA[Instagram和Facebook将实施青少年安全新措施，会奏效吗？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68387738?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>根据与48个州达成的180亿美元和解协议，Meta同意在未来六个月内针对青少年账户增加这些限制功能。</p>]]></description>
+            <link>https://cn.wsj.com/articles/instagram%E5%92%8Cfacebook%E5%B0%86%E5%AE%9E%E6%96%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E5%AE%89%E5%85%A8%E6%96%B0%E6%8E%AA%E6%96%BD-%E4%BC%9A%E5%A5%8F%E6%95%88%E5%90%97-d1e530ee</link>
+            <guid isPermaLink="false">WP-WSJS-0003847321</guid>
+            <pubDate>Thu, 27 Aug 2026 03:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软在AI业务上让投资者摸黑前行]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-47548795?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从资本支出到旗舰云平台，微软因缺乏透明度而显得格外扎眼。</p>]]></description>
-            <link>https://cn.wsj.com/articles/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-41a1a519</link>
-            <guid isPermaLink="false">WP-WSJS-0003844288</guid>
-            <pubDate>Wed, 26 Aug 2026 11:08:00 GMT</pubDate>
+            <title><![CDATA[中国艺术家高兟因创作讽刺毛泽东作品被判刑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92180277?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高兟周二被定罪并判处三年有期徒刑，罪名是他在2000年代初创作的一系列讽刺毛泽东及其他领导人的作品犯有侵害英雄烈士名誉罪。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinese-court-sentences-artist-who-lampooned-mao-66a56d2d</link>
+            <guid isPermaLink="false">WP-WSJS-0003843754</guid>
+            <pubDate>Wed, 26 Aug 2026 02:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最疯狂股市崩盘，从AI全民狂欢到血洗散户]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69319207?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮的推动下，过去一年的大部分时间里，韩国股市在全球独领风骚。随后，这轮行情轰然崩盘。韩国综合指数六周内的崩盘，瞬间蒸发了约2.5万亿美元市值。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E7%96%AF%E7%8B%82%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98-%E4%BB%8Eai%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E5%88%B0%E8%A1%80%E6%B4%97%E6%95%A3%E6%88%B7-1c4d84e3</link>
+            <guid isPermaLink="false">WP-WSJS-0003840810</guid>
+            <pubDate>Tue, 25 Aug 2026 03:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[从早慧少年到跌落神坛的“AI先知”：起底阿申布伦纳背后的人脉网]]></title>
+            <description><![CDATA[<img width="1280" height="1386" src="https://images.wsj.net/im-32132428?size=0.92&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位24岁的投资者曾被誉为远见卓识的奇才，吸引了数以十亿美元计的资金，最终却沦为华尔街最新的反面教材。</p>]]></description>
+            <link>https://cn.wsj.com/articles/situational-awareness-leopold-aschenbrenner-ai-fund-2b0ef0fc</link>
+            <guid isPermaLink="false">WP-WSJS-0003843828</guid>
+            <pubDate>Wed, 26 Aug 2026 04:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[硅谷最新身份象征：一款极少见的山姆·阿尔特曼瑞士表]]></title>
@@ -189,25 +196,11 @@
             <pubDate>Tue, 25 Aug 2026 01:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-87422413?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。</p>]]></description>
-            <link>https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374</link>
-            <guid isPermaLink="false">WP-WSJS-0003840959</guid>
-            <pubDate>Tue, 25 Aug 2026 08:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10523481?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1</link>
-            <guid isPermaLink="false">WP-WSJS-0003843335</guid>
-            <pubDate>Tue, 25 Aug 2026 23:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推动中国AI实现惊人飞跃的幕后智囊]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-04885044?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>凭借创新与模仿，中国高校实验室走出的计算机科学家正紧追Anthropic和OpenAI的步伐；他们“很懂怎么把研究成果变现”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%8E%A8%E5%8A%A8%E4%B8%AD%E5%9B%BDai%E5%AE%9E%E7%8E%B0%E6%83%8A%E4%BA%BA%E9%A3%9E%E8%B7%83%E7%9A%84%E5%B9%95%E5%90%8E%E6%99%BA%E5%9B%8A-9a0f1c39</link>
-            <guid isPermaLink="false">WP-WSJS-0003833892</guid>
-            <pubDate>Fri, 21 Aug 2026 06:50:00 GMT</pubDate>
+            <title><![CDATA[立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨]]></title>
+            <description><![CDATA[<img width="1280" height="883" src="https://images.wsj.net/im-17100767?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>目前各方正努力推动重启该项目，但外界仍存质疑。“我不认为这个项目最终能按照向加州民众承诺的那样建成”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%AB%8B%E9%A1%B9%E5%8D%81%E5%85%AB%E5%B9%B4-%E7%83%A7%E9%92%B1%E9%80%BE%E7%99%BE%E4%BA%BF-%E5%8A%A0%E5%B7%9E%E9%AB%98%E9%93%81%E8%87%B3%E4%BB%8A%E6%9C%AA%E9%93%BA%E4%B8%80%E6%A0%B9%E9%93%81%E8%BD%A8-c5a15df3</link>
+            <guid isPermaLink="false">WP-WSJS-0003847139</guid>
+            <pubDate>Thu, 27 Aug 2026 01:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国老年人大麻越吸越嗨，邻居们怨声载道]]></title>
@@ -217,25 +210,11 @@
             <pubDate>Tue, 25 Aug 2026 04:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[我把咖啡换成能量饮料，结果差点疯掉]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96102524?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>我尝试了燃力士(Celsius)和其他高咖啡因饮料，并靠这些能量饮料保持亢奋，工作了一周。这些饮料号称能帮助饮用者更健康地生活，但我决定换回咖啡。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%88%91%E6%8A%8A%E5%92%96%E5%95%A1%E6%8D%A2%E6%88%90%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99-%E7%BB%93%E6%9E%9C%E5%B7%AE%E7%82%B9%E7%96%AF%E6%8E%89-c14c651c</link>
-            <guid isPermaLink="false">WP-WSJS-0003843894</guid>
-            <pubDate>Wed, 26 Aug 2026 05:19:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[中国年轻人正涌入这座古寺祈求好工作]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65483261?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。</p>]]></description>
             <link>https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c</link>
             <guid isPermaLink="false">WP-WSJS-0003837788</guid>
             <pubDate>Mon, 24 Aug 2026 00:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[珍本书大卖背后：先拆解扫描，再“喂给”AI]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-11254749?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卖家正因销量大增而欣喜，但同时也在担忧，那些珍本书籍是否正被“送上断头台”，用于训练大语言模型。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%8F%8D%E6%9C%AC%E4%B9%A6%E5%A4%A7%E5%8D%96%E8%83%8C%E5%90%8E-%E8%A2%AB%E6%8B%86%E8%A7%A3%E6%89%AB%E6%8F%8F-%E7%84%B6%E5%90%8E-%E5%96%82%E7%BB%99-ai-bc2ef0e6</link>
-            <guid isPermaLink="false">WP-WSJS-0003840733</guid>
-            <pubDate>Tue, 25 Aug 2026 02:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
