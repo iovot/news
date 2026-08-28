@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 13:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 00:18:54 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 13:58:18 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 00:18:54 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,13 +35,6 @@
             <pubDate>Thu, 27 Aug 2026 00:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国工业企业利润大幅增长，全球AI热潮提供强劲支撑]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82141615?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国7月份工业企业利润增速有所放缓，但仍保持两位数水平。这主要得益于全球AI热潮持续发力，强力拉动了工厂产量与科技企业盈利。</p>]]></description>
-            <link>https://cn.wsj.com/articles/surgein-china-s-industrial-profit-underpinned-by-global-ai-boom-6f1e586a</link>
-            <guid isPermaLink="false">WP-WSJS-0003847247</guid>
-            <pubDate>Thu, 27 Aug 2026 02:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DeepSeek估值料将达到740亿美元]]></title>
             <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-17107051?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>DeepSeek即将获得新一轮融资，本轮融资对这家中国AI初创公司的估值将达到740亿美元。该公司计划于明年进行IPO。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai-startup-deepseek-poised-to-reach-74-billion-valuation-b42ff318</link>
@@ -49,18 +42,25 @@
             <pubDate>Thu, 27 Aug 2026 08:19:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗“沙赫德”无人机如何在中国帮助下重塑战争]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-16496231?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>平价单程攻击无人机的大规模扩散，背后是一条复杂的全球供应链，而这条供应链追根溯源，最终总是指向中国。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97-%E6%B2%99%E8%B5%AB%E5%BE%B7-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E4%B8%8B%E9%87%8D%E5%A1%91%E6%88%98%E4%BA%89-8f2821c1</link>
-            <guid isPermaLink="false">WP-WSJS-0003843903</guid>
-            <pubDate>Wed, 26 Aug 2026 06:15:00 GMT</pubDate>
+            <title><![CDATA[中国工业企业利润大幅增长，全球AI热潮提供强劲支撑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82141615?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国7月份工业企业利润增速有所放缓，但仍保持两位数水平。这主要得益于全球AI热潮持续发力，强力拉动了工厂产量与科技企业盈利。</p>]]></description>
+            <link>https://cn.wsj.com/articles/surgein-china-s-industrial-profit-underpinned-by-global-ai-boom-6f1e586a</link>
+            <guid isPermaLink="false">WP-WSJS-0003847247</guid>
+            <pubDate>Thu, 27 Aug 2026 02:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达财季业绩远超预期，称AI芯片需求愈发火爆]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-13301787?size=1.497&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家芯片巨头公布了创纪录的962亿美元销售额，并表示需求正在加速增长，这缓解了市场对人工智能支出的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AC%AC%E4%BA%8C%E8%B4%A2%E5%AD%A3%E4%B8%9A%E7%BB%A9%E5%BC%BA%E5%8A%B2-0d51fe4a</link>
-            <guid isPermaLink="false">WP-WSJS-0003846765</guid>
-            <pubDate>Thu, 27 Aug 2026 00:08:00 GMT</pubDate>
+            <title><![CDATA[英伟达暂停与AI云公司的收入分成协议]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79914915?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士透露，英伟达暂停了一项新融资计划中的部分交易。该计划旨在为AI云提供商提供信贷支持，以换取收入分成。</p>]]></description>
+            <link>https://cn.wsj.com/articles/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c7d701e</link>
+            <guid isPermaLink="false">WP-WSJS-0003850399</guid>
+            <pubDate>Thu, 27 Aug 2026 23:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普拒绝重返6月协议，伊朗核谈判陷入停滞]]></title>
+            <description><![CDATA[<img width="1280" height="1079" src="https://images.wsj.net/im-01737434?size=1.186&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普愿意拭目以待，看其采取的在经济上挤压伊朗的政策能否奏效。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E9%87%8D%E8%BF%946%E6%9C%88%E5%8D%8F%E8%AE%AE-%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%B0%88%E5%88%A4%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-899f1bf1</link>
+            <guid isPermaLink="false">WP-WSJS-0003850485</guid>
+            <pubDate>Fri, 28 Aug 2026 00:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国国务院暂停处理移民签证申请]]></title>
@@ -84,25 +84,25 @@
             <pubDate>Thu, 27 Aug 2026 09:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美加为应对长期贸易争端做准备]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-50755357?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在中期选举前夕特朗普面临政治压力的情况下，几乎没有人认为短期内能找到缓和紧张关系的出路。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%8A%A0%E4%B8%BA%E5%BA%94%E5%AF%B9%E9%95%BF%E6%9C%9F%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF%E5%81%9A%E5%87%86%E5%A4%87-4c057123</link>
-            <guid isPermaLink="false">WP-WSJS-0003847126</guid>
-            <pubDate>Thu, 27 Aug 2026 01:40:00 GMT</pubDate>
+            <title><![CDATA[特朗普签署行政令将安大略湖更名为“美国湖”]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-28856818?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举令美国与加拿大的贸易争端进一步升温。虽然新名称预计将被用于美国政府的官方文件和通讯中，但加拿大方面很可能不会承认。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E4%BB%A4%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%9B%B4%E5%90%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E6%B9%96-12b498d7</link>
+            <guid isPermaLink="false">WP-WSJS-0003850382</guid>
+            <pubDate>Thu, 27 Aug 2026 23:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄乌空战进入更加惨烈的新阶段]]></title>
-            <description><![CDATA[<img width="1280" height="913" src="https://images.wsj.net/im-48853802?size=1.402&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>俄乌双方都在利用远程无人机和导弹造成日益严重的破坏，但看起来谁都还远未到被打垮的地步。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BF%84%E4%B9%8C%E7%A9%BA%E6%88%98%E8%BF%9B%E5%85%A5%E6%9B%B4%E5%8A%A0%E6%83%A8%E7%83%88%E7%9A%84%E6%96%B0%E9%98%B6%E6%AE%B5-c4c6d37f</link>
-            <guid isPermaLink="false">WP-WSJS-0003847283</guid>
-            <pubDate>Thu, 27 Aug 2026 02:59:00 GMT</pubDate>
+            <title><![CDATA[白宫高级幕僚对CIA局长的俄罗斯之行毫不知情]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-46063714?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国官员称，总统特朗普亲自派遣了拉特克利夫。此次派遣这位情报首脑，意味着特朗普转而倚重另一名助手。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E9%AB%98%E7%BA%A7%E5%B9%95%E5%83%9A%E5%AF%B9cia%E5%B1%80%E9%95%BF%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%8B%E8%A1%8C%E6%AF%AB%E4%B8%8D%E7%9F%A5%E6%83%85-bc230547</link>
+            <guid isPermaLink="false">WP-WSJS-0003850446</guid>
+            <pubDate>Thu, 27 Aug 2026 23:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本当代艺术家草间弥生去世，终年97岁]]></title>
-            <description><![CDATA[<img width="1280" height="822" src="https://images.wsj.net/im-770800?size=1.56&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为20世纪60年代纽约前卫艺术界风格迷幻、极具创新精神的代表人物，草间弥生凭借适合自拍的沉浸式空间，保持了长青的艺术生命力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/contemporary-artist-yayoi-kusama-dies-at-97-b0215b42</link>
-            <guid isPermaLink="false">WP-WSJS-0003847486</guid>
-            <pubDate>Thu, 27 Aug 2026 06:06:00 GMT</pubDate>
+            <title><![CDATA[FAA发现拉瓜迪亚机场空管员曾在致命碰撞前提前离岗]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-31091179?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>联邦航空官员发现，今年3月加拿大航空一架支线飞机在拉瓜迪亚机场与一辆消防车相撞前，有两名空中交通管制员提前下了班。</p>]]></description>
+            <link>https://cn.wsj.com/articles/faa-found-laguardia-air-traffic-controllers-left-work-early-before-deadly-collision-5f3064a1</link>
+            <guid isPermaLink="false">WP-WSJS-0003850411</guid>
+            <pubDate>Thu, 27 Aug 2026 23:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[哥斯达黎加毒品暴力失控，引发政治地震]]></title>
@@ -126,18 +126,18 @@
             <pubDate>Thu, 27 Aug 2026 02:33:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Instagram和Facebook将实施青少年安全新措施，会奏效吗？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68387738?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>根据与48个州达成的180亿美元和解协议，Meta同意在未来六个月内针对青少年账户增加这些限制功能。</p>]]></description>
+            <link>https://cn.wsj.com/articles/instagram%E5%92%8Cfacebook%E5%B0%86%E5%AE%9E%E6%96%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E5%AE%89%E5%85%A8%E6%96%B0%E6%8E%AA%E6%96%BD-%E4%BC%9A%E5%A5%8F%E6%95%88%E5%90%97-d1e530ee</link>
+            <guid isPermaLink="false">WP-WSJS-0003847321</guid>
+            <pubDate>Thu, 27 Aug 2026 03:36:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[诺和诺德减肥口服药在华上市申请获受理]]></title>
             <description><![CDATA[<img width="1280" height="693" src="https://images.wsj.net/im-02140275?size=1.85&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>诺和诺德表示，中国国家药品监督管理局已开始审理其诺和盈片剂的上市申请。</p>]]></description>
             <link>https://cn.wsj.com/articles/china-sdrug-regulator-accepts-novo-nordisk-s-application-to-sell-obesity-tablet-8fafddb1</link>
             <guid isPermaLink="false">WP-WSJS-0003847649</guid>
             <pubDate>Thu, 27 Aug 2026 08:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta就儿童安全指控与48个州达成180亿美元和解协议]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-55132584?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该协议包含针对未成年用户的广泛新保护措施，但只有在TikTok和YouTube做出类似让步的情况下，才会全额支付相关款项。</p>]]></description>
-            <link>https://cn.wsj.com/articles/meta-reaches-18-billion-settlement-with-48-states-over-child-safety-claims-9138d8d2</link>
-            <guid isPermaLink="false">WP-WSJS-0003846889</guid>
-            <pubDate>Wed, 26 Aug 2026 23:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[铠侠和闪迪将在日本投资逾310亿美元]]></title>
@@ -154,11 +154,11 @@
             <pubDate>Thu, 27 Aug 2026 00:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Instagram和Facebook将实施青少年安全新措施，会奏效吗？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68387738?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>根据与48个州达成的180亿美元和解协议，Meta同意在未来六个月内针对青少年账户增加这些限制功能。</p>]]></description>
-            <link>https://cn.wsj.com/articles/instagram%E5%92%8Cfacebook%E5%B0%86%E5%AE%9E%E6%96%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E5%AE%89%E5%85%A8%E6%96%B0%E6%8E%AA%E6%96%BD-%E4%BC%9A%E5%A5%8F%E6%95%88%E5%90%97-d1e530ee</link>
-            <guid isPermaLink="false">WP-WSJS-0003847321</guid>
-            <pubDate>Thu, 27 Aug 2026 03:36:00 GMT</pubDate>
+            <title><![CDATA[日本当代艺术家草间弥生去世，终年97岁]]></title>
+            <description><![CDATA[<img width="1280" height="822" src="https://images.wsj.net/im-770800?size=1.56&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为20世纪60年代纽约前卫艺术界风格迷幻、极具创新精神的代表人物，草间弥生凭借适合自拍的沉浸式空间，保持了长青的艺术生命力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/contemporary-artist-yayoi-kusama-dies-at-97-b0215b42</link>
+            <guid isPermaLink="false">WP-WSJS-0003847486</guid>
+            <pubDate>Thu, 27 Aug 2026 23:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国艺术家高兟因创作讽刺毛泽东作品被判刑]]></title>
@@ -189,11 +189,11 @@
             <pubDate>Wed, 26 Aug 2026 01:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[探访华尔街精英荒野营：人人皆对AI热潮心生寒意]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-28771509?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f</link>
-            <guid isPermaLink="false">WP-WSJS-0003840670</guid>
-            <pubDate>Tue, 25 Aug 2026 01:39:00 GMT</pubDate>
+            <title><![CDATA[中国年轻人正涌入这座古寺祈求好工作]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65483261?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。</p>]]></description>
+            <link>https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c</link>
+            <guid isPermaLink="false">WP-WSJS-0003837788</guid>
+            <pubDate>Mon, 24 Aug 2026 00:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨]]></title>
@@ -203,18 +203,18 @@
             <pubDate>Thu, 27 Aug 2026 01:53:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[我把咖啡换成能量饮料，结果差点疯掉]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96102524?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>我尝试了燃力士和其他高咖啡因饮料，并靠这些能量饮料保持亢奋，工作了一周。这些饮料号称能帮助饮用者更健康地生活，但我决定换回咖啡。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%88%91%E6%8A%8A%E5%92%96%E5%95%A1%E6%8D%A2%E6%88%90%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99-%E7%BB%93%E6%9E%9C%E5%B7%AE%E7%82%B9%E7%96%AF%E6%8E%89-c14c651c</link>
+            <guid isPermaLink="false">WP-WSJS-0003843894</guid>
+            <pubDate>Wed, 26 Aug 2026 05:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国老年人大麻越吸越嗨，邻居们怨声载道]]></title>
             <description><![CDATA[<img width="1280" height="848" src="https://images.wsj.net/im-45152373?size=1.509&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着大麻气味弥漫在老年活动中心和退休社区，婴儿潮一代邻里间的关系日益紧张。这引发了法律威胁、报警求助，以及高中生般的争吵。</p>]]></description>
             <link>https://cn.wsj.com/articles/baby-boomers-are-smoking-more-pot-their-neighbors-are-fuming-597cd6f7</link>
             <guid isPermaLink="false">WP-WSJS-0003840831</guid>
             <pubDate>Tue, 25 Aug 2026 04:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国年轻人正涌入这座古寺祈求好工作]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65483261?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。</p>]]></description>
-            <link>https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c</link>
-            <guid isPermaLink="false">WP-WSJS-0003837788</guid>
-            <pubDate>Mon, 24 Aug 2026 00:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>

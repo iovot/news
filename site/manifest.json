@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:13:21.873929+00:00",
+  "generated_at": "2026-08-28T00:29:00.761904+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,19 @@
       "image_url": "https://images.wsj.net/im-52125012?size=1.501&width=1280",
       "snapshot": "articles/e5-a6-82-e4-bb-8a-e5-af-b9-e7-be-8e-e8-b4-b8-e6--85c36593c595.html",
       "captured": true,
-      "capture_title": "如今对美贸易顺差最大的国家：越南 - WSJ",
+      "capture_title": "如今对美贸易顺差最大的国家：越南",
+      "error": ""
+    },
+    {
+      "title": "DeepSeek估值料将达到740亿美元",
+      "summary": "DeepSeek即将获得新一轮融资，本轮融资对这家中国AI初创公司的估值将达到740亿美元。该公司计划于明年进行IPO。",
+      "link": "https://cn.wsj.com/articles/ai-startup-deepseek-poised-to-reach-74-billion-valuation-b42ff318",
+      "guid": "WP-WSJS-0003847665",
+      "pub_date": "Thu, 27 Aug 2026 08:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-17107051?size=1.502&width=1280",
+      "snapshot": "articles/ai-startup-deepseek-poised-to-reach-74-billion-v-64093028e6e1.html",
+      "captured": true,
+      "capture_title": "DeepSeek估值料将达到740亿美元",
       "error": ""
     },
     {
@@ -29,39 +41,27 @@
       "error": ""
     },
     {
-      "title": "DeepSeek估值料将达到740亿美元",
-      "summary": "DeepSeek即将获得新一轮融资，本轮融资对这家中国AI初创公司的估值将达到740亿美元。该公司计划于明年进行IPO。",
-      "link": "https://cn.wsj.com/articles/ai-startup-deepseek-poised-to-reach-74-billion-valuation-b42ff318",
-      "guid": "WP-WSJS-0003847665",
-      "pub_date": "Thu, 27 Aug 2026 08:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-17107051?size=1.502&width=1280",
-      "snapshot": "articles/ai-startup-deepseek-poised-to-reach-74-billion-v-64093028e6e1.html",
+      "title": "英伟达暂停与AI云公司的收入分成协议",
+      "summary": "知情人士透露，英伟达暂停了一项新融资计划中的部分交易。该计划旨在为AI云提供商提供信贷支持，以换取收入分成。",
+      "link": "https://cn.wsj.com/articles/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c7d701e",
+      "guid": "WP-WSJS-0003850399",
+      "pub_date": "Thu, 27 Aug 2026 23:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-79914915?size=1.501&width=1280",
+      "snapshot": "articles/nvidia-pauses-revenue-sharing-deals-with-ai-clou-adfe522cd594.html",
       "captured": true,
-      "capture_title": "DeepSeek估值料将达到740亿美元 - WSJ",
+      "capture_title": "英伟达暂停与AI云公司的收入分成协议 - WSJ",
       "error": ""
     },
     {
-      "title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争",
-      "summary": "平价单程攻击无人机的大规模扩散，背后是一条复杂的全球供应链，而这条供应链追根溯源，最终总是指向中国。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97-%E6%B2%99%E8%B5%AB%E5%BE%B7-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E4%B8%8B%E9%87%8D%E5%A1%91%E6%88%98%E4%BA%89-8f2821c1",
-      "guid": "WP-WSJS-0003843903",
-      "pub_date": "Wed, 26 Aug 2026 06:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-16496231?size=1.501&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97--e6-b2-99-e8-b5-ab-e5-be-b7--e-f2e348a80e54.html",
+      "title": "特朗普拒绝重返6月协议，伊朗核谈判陷入停滞",
+      "summary": "特朗普愿意拭目以待，看其采取的在经济上挤压伊朗的政策能否奏效。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E9%87%8D%E8%BF%946%E6%9C%88%E5%8D%8F%E8%AE%AE-%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%B0%88%E5%88%A4%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-899f1bf1",
+      "guid": "WP-WSJS-0003850485",
+      "pub_date": "Fri, 28 Aug 2026 00:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-01737434?size=1.186&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-8b-92-e7-bb-9d-e9--c5784fd38a19.html",
       "captured": true,
-      "capture_title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争",
-      "error": ""
-    },
-    {
-      "title": "英伟达财季业绩远超预期，称AI芯片需求愈发火爆",
-      "summary": "这家芯片巨头公布了创纪录的962亿美元销售额，并表示需求正在加速增长，这缓解了市场对人工智能支出的担忧。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AC%AC%E4%BA%8C%E8%B4%A2%E5%AD%A3%E4%B8%9A%E7%BB%A9%E5%BC%BA%E5%8A%B2-0d51fe4a",
-      "guid": "WP-WSJS-0003846765",
-      "pub_date": "Thu, 27 Aug 2026 00:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-13301787?size=1.497&width=1280",
-      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e7-ac-ac-e4-ba-8c-e8--b77edf3c4148.html",
-      "captured": true,
-      "capture_title": "英伟达财季业绩远超预期，称AI芯片需求愈发火爆",
+      "capture_title": "特朗普拒绝重返6月协议，伊朗核谈判陷入停滞 - WSJ",
       "error": ""
     },
     {
@@ -97,43 +97,43 @@
       "image_url": "https://images.wsj.net/im-53457536?size=1.501&width=1280",
       "snapshot": "articles/more-than-1-400-missing-in-nepal-and-china-in-fl-ec9c1e210e6e.html",
       "captured": true,
-      "capture_title": "超1,400人在尼泊尔和中国边境的洪灾中失踪，洪灾疑似由冰岩崩塌引发 - WSJ",
+      "capture_title": "超1,400人在尼泊尔和中国边境的洪灾中失踪，洪灾疑似由冰岩崩塌引发",
       "error": ""
     },
     {
-      "title": "美加为应对长期贸易争端做准备",
-      "summary": "在中期选举前夕特朗普面临政治压力的情况下，几乎没有人认为短期内能找到缓和紧张关系的出路。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%8A%A0%E4%B8%BA%E5%BA%94%E5%AF%B9%E9%95%BF%E6%9C%9F%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF%E5%81%9A%E5%87%86%E5%A4%87-4c057123",
-      "guid": "WP-WSJS-0003847126",
-      "pub_date": "Thu, 27 Aug 2026 01:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-50755357?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-8a-a0-e4-b8-ba-e5-ba-94-e5-af-b9-e9--4d9bc17b495f.html",
+      "title": "特朗普签署行政令将安大略湖更名为“美国湖”",
+      "summary": "此举令美国与加拿大的贸易争端进一步升温。虽然新名称预计将被用于美国政府的官方文件和通讯中，但加拿大方面很可能不会承认。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E4%BB%A4%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%9B%B4%E5%90%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E6%B9%96-12b498d7",
+      "guid": "WP-WSJS-0003850382",
+      "pub_date": "Thu, 27 Aug 2026 23:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-28856818?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-ad-be-e7-bd-b2-e8--ccbff56deda7.html",
       "captured": true,
-      "capture_title": "美加为应对长期贸易争端做准备 - WSJ",
+      "capture_title": "特朗普签署行政令将安大略湖更名为“美国湖” - WSJ",
       "error": ""
     },
     {
-      "title": "俄乌空战进入更加惨烈的新阶段",
-      "summary": "俄乌双方都在利用远程无人机和导弹造成日益严重的破坏，但看起来谁都还远未到被打垮的地步。",
-      "link": "https://cn.wsj.com/articles/%E4%BF%84%E4%B9%8C%E7%A9%BA%E6%88%98%E8%BF%9B%E5%85%A5%E6%9B%B4%E5%8A%A0%E6%83%A8%E7%83%88%E7%9A%84%E6%96%B0%E9%98%B6%E6%AE%B5-c4c6d37f",
-      "guid": "WP-WSJS-0003847283",
-      "pub_date": "Thu, 27 Aug 2026 02:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-48853802?size=1.402&width=1280",
-      "snapshot": "articles/e4-bf-84-e4-b9-8c-e7-a9-ba-e6-88-98-e8-bf-9b-e5--b14c603e99dd.html",
+      "title": "白宫高级幕僚对CIA局长的俄罗斯之行毫不知情",
+      "summary": "美国官员称，总统特朗普亲自派遣了拉特克利夫。此次派遣这位情报首脑，意味着特朗普转而倚重另一名助手。",
+      "link": "https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E9%AB%98%E7%BA%A7%E5%B9%95%E5%83%9A%E5%AF%B9cia%E5%B1%80%E9%95%BF%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%8B%E8%A1%8C%E6%AF%AB%E4%B8%8D%E7%9F%A5%E6%83%85-bc230547",
+      "guid": "WP-WSJS-0003850446",
+      "pub_date": "Thu, 27 Aug 2026 23:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-46063714?size=1.501&width=1280",
+      "snapshot": "articles/e7-99-bd-e5-ae-ab-e9-ab-98-e7-ba-a7-e5-b9-95-e5--28d09112f57a.html",
       "captured": true,
-      "capture_title": "俄乌空战进入更加惨烈的新阶段 - WSJ",
+      "capture_title": "白宫高级幕僚对CIA局长的俄罗斯之行毫不知情 - WSJ",
       "error": ""
     },
     {
-      "title": "日本当代艺术家草间弥生去世，终年97岁",
-      "summary": "作为20世纪60年代纽约前卫艺术界风格迷幻、极具创新精神的代表人物，草间弥生凭借适合自拍的沉浸式空间，保持了长青的艺术生命力。",
-      "link": "https://cn.wsj.com/articles/contemporary-artist-yayoi-kusama-dies-at-97-b0215b42",
-      "guid": "WP-WSJS-0003847486",
-      "pub_date": "Thu, 27 Aug 2026 06:06:00 GMT",
-      "image_url": "https://images.wsj.net/im-770800?size=1.56&width=1280",
-      "snapshot": "articles/contemporary-artist-yayoi-kusama-dies-at-97-b021-9048f5f1cc1f.html",
+      "title": "FAA发现拉瓜迪亚机场空管员曾在致命碰撞前提前离岗",
+      "summary": "联邦航空官员发现，今年3月加拿大航空一架支线飞机在拉瓜迪亚机场与一辆消防车相撞前，有两名空中交通管制员提前下了班。",
+      "link": "https://cn.wsj.com/articles/faa-found-laguardia-air-traffic-controllers-left-work-early-before-deadly-collision-5f3064a1",
+      "guid": "WP-WSJS-0003850411",
+      "pub_date": "Thu, 27 Aug 2026 23:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-31091179?size=1.499&width=1280",
+      "snapshot": "articles/faa-found-laguardia-air-traffic-controllers-left-b84c221a0900.html",
       "captured": true,
-      "capture_title": "日本当代艺术家草间弥生去世，终年97岁 - WSJ",
+      "capture_title": "FAA发现拉瓜迪亚机场空管员曾在致命碰撞前提前离岗 - WSJ",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-60821475?size=0.67&width=1280",
       "snapshot": "articles/costa-rica-drug-violence-political-earthquake-ff-31a2a273ff95.html",
       "captured": true,
-      "capture_title": "哥斯达黎加毒品暴力失控，引发政治地震 - WSJ",
+      "capture_title": "哥斯达黎加毒品暴力失控，引发政治地震",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-49925483?size=1.499&width=1280",
       "snapshot": "articles/central-banking-the-fed-chairman-is-heading-to-j-75a79dbef394.html",
       "captured": true,
-      "capture_title": "杰克逊霍尔年会在即，沃什通胀立场仍不明朗 - WSJ",
+      "capture_title": "杰克逊霍尔年会在即，沃什通胀立场仍不明朗",
       "error": ""
     },
     {
@@ -169,7 +169,19 @@
       "image_url": "https://images.mktw.net/im-11520190?size=1.5&width=1280",
       "snapshot": "articles/ai-e9-80-89-e8-82-a1-e8-83-bd-e5-8a-9b-e7-9c-9f--495befa3ea5c.html",
       "captured": true,
-      "capture_title": "AI选股能力真的提升了吗？ - WSJ",
+      "capture_title": "AI选股能力真的提升了吗？",
+      "error": ""
+    },
+    {
+      "title": "Instagram和Facebook将实施青少年安全新措施，会奏效吗？",
+      "summary": "根据与48个州达成的180亿美元和解协议，Meta同意在未来六个月内针对青少年账户增加这些限制功能。",
+      "link": "https://cn.wsj.com/articles/instagram%E5%92%8Cfacebook%E5%B0%86%E5%AE%9E%E6%96%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E5%AE%89%E5%85%A8%E6%96%B0%E6%8E%AA%E6%96%BD-%E4%BC%9A%E5%A5%8F%E6%95%88%E5%90%97-d1e530ee",
+      "guid": "WP-WSJS-0003847321",
+      "pub_date": "Thu, 27 Aug 2026 03:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-68387738?size=1.501&width=1280",
+      "snapshot": "articles/instagram-e5-92-8cfacebook-e5-b0-86-e5-ae-9e-e6--9b544a5de59e.html",
+      "captured": true,
+      "capture_title": "Instagram和Facebook将实施青少年安全新措施，会奏效吗？",
       "error": ""
     },
     {
@@ -185,18 +197,6 @@
       "error": ""
     },
     {
-      "title": "Meta就儿童安全指控与48个州达成180亿美元和解协议",
-      "summary": "该协议包含针对未成年用户的广泛新保护措施，但只有在TikTok和YouTube做出类似让步的情况下，才会全额支付相关款项。",
-      "link": "https://cn.wsj.com/articles/meta-reaches-18-billion-settlement-with-48-states-over-child-safety-claims-9138d8d2",
-      "guid": "WP-WSJS-0003846889",
-      "pub_date": "Wed, 26 Aug 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-55132584?size=1.501&width=1280",
-      "snapshot": "articles/meta-reaches-18-billion-settlement-with-48-state-4289bea0ac23.html",
-      "captured": true,
-      "capture_title": "Meta就儿童安全指控与48个州达成180亿美元和解协议",
-      "error": ""
-    },
-    {
       "title": "铠侠和闪迪将在日本投资逾310亿美元",
       "summary": "铠侠和闪迪计划在日本投资逾310亿美元，以加强双方的合资企业并支持闪存的大规模供应。",
       "link": "https://cn.wsj.com/articles/kioxia-sandisk-to-invest-more-than-31-billion-in-japan-69d59a81",
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-57467978?size=1.33&width=1280",
       "snapshot": "articles/kioxia-sandisk-to-invest-more-than-31-billion-in-4b3afcae7974.html",
       "captured": true,
-      "capture_title": "铠侠和闪迪将在日本投资逾310亿美元 - WSJ",
+      "capture_title": "铠侠和闪迪将在日本投资逾310亿美元",
       "error": ""
     },
     {
@@ -217,19 +217,19 @@
       "image_url": "https://images.wsj.net/im-90816304?size=1.501&width=1280",
       "snapshot": "articles/fda-approves-drug-for-pancreatic-cancer-in-incre-8fdf3babc6c1.html",
       "captured": true,
-      "capture_title": "FDA批准RevMed新药，胰腺癌治疗迎来里程碑 - WSJ",
+      "capture_title": "FDA批准RevMed新药，胰腺癌治疗迎来里程碑",
       "error": ""
     },
     {
-      "title": "Instagram和Facebook将实施青少年安全新措施，会奏效吗？",
-      "summary": "根据与48个州达成的180亿美元和解协议，Meta同意在未来六个月内针对青少年账户增加这些限制功能。",
-      "link": "https://cn.wsj.com/articles/instagram%E5%92%8Cfacebook%E5%B0%86%E5%AE%9E%E6%96%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E5%AE%89%E5%85%A8%E6%96%B0%E6%8E%AA%E6%96%BD-%E4%BC%9A%E5%A5%8F%E6%95%88%E5%90%97-d1e530ee",
-      "guid": "WP-WSJS-0003847321",
-      "pub_date": "Thu, 27 Aug 2026 03:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-68387738?size=1.501&width=1280",
-      "snapshot": "articles/instagram-e5-92-8cfacebook-e5-b0-86-e5-ae-9e-e6--9b544a5de59e.html",
+      "title": "日本当代艺术家草间弥生去世，终年97岁",
+      "summary": "作为20世纪60年代纽约前卫艺术界风格迷幻、极具创新精神的代表人物，草间弥生凭借适合自拍的沉浸式空间，保持了长青的艺术生命力。",
+      "link": "https://cn.wsj.com/articles/contemporary-artist-yayoi-kusama-dies-at-97-b0215b42",
+      "guid": "WP-WSJS-0003847486",
+      "pub_date": "Thu, 27 Aug 2026 23:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-770800?size=1.56&width=1280",
+      "snapshot": "articles/contemporary-artist-yayoi-kusama-dies-at-97-b021-9048f5f1cc1f.html",
       "captured": true,
-      "capture_title": "Instagram和Facebook将实施青少年安全新措施，会奏效吗？ - WSJ",
+      "capture_title": "日本当代艺术家草间弥生去世，终年97岁",
       "error": ""
     },
     {
@@ -281,15 +281,15 @@
       "error": ""
     },
     {
-      "title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
-      "summary": "在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。",
-      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f",
-      "guid": "WP-WSJS-0003840670",
-      "pub_date": "Tue, 25 Aug 2026 01:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-28771509?size=1.5&width=1280",
-      "snapshot": "articles/e6-8e-a2-e8-ae-bf-e5-8d-8e-e5-b0-94-e8-a1-97-e7--4c17fb5b3e6d.html",
+      "title": "中国年轻人正涌入这座古寺祈求好工作",
+      "summary": "如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。",
+      "link": "https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c",
+      "guid": "WP-WSJS-0003837788",
+      "pub_date": "Mon, 24 Aug 2026 00:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-65483261?size=1.5&width=1280",
+      "snapshot": "articles/this-ancient-temple-is-where-chinas-young-people-0d2a8806ce64.html",
       "captured": true,
-      "capture_title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
+      "capture_title": "中国年轻人正涌入这座古寺祈求好工作",
       "error": ""
     },
     {
@@ -301,7 +301,79 @@
       "image_url": "https://images.wsj.net/im-17100767?size=1.45&width=1280",
       "snapshot": "articles/e7-ab-8b-e9-a1-b9-e5-8d-81-e5-85-ab-e5-b9-b4--e7-42805833fe22.html",
       "captured": true,
-      "capture_title": "立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨 - WSJ",
+      "capture_title": "立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨",
+      "error": ""
+    },
+    {
+      "title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争",
+      "summary": "平价单程攻击无人机的大规模扩散，背后是一条复杂的全球供应链，而这条供应链追根溯源，最终总是指向中国。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97-%E6%B2%99%E8%B5%AB%E5%BE%B7-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E4%B8%8B%E9%87%8D%E5%A1%91%E6%88%98%E4%BA%89-8f2821c1",
+      "guid": "WP-WSJS-0003843903",
+      "pub_date": "Wed, 26 Aug 2026 06:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-16496231?size=1.501&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97--e6-b2-99-e8-b5-ab-e5-be-b7--e-f2e348a80e54.html",
+      "captured": true,
+      "capture_title": "伊朗“沙赫德”无人机如何在中国帮助下重塑战争",
+      "error": ""
+    },
+    {
+      "title": "英伟达财季业绩远超预期，称AI芯片需求愈发火爆",
+      "summary": "这家芯片巨头公布了创纪录的962亿美元销售额，并表示需求正在加速增长，这缓解了市场对人工智能支出的担忧。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AC%AC%E4%BA%8C%E8%B4%A2%E5%AD%A3%E4%B8%9A%E7%BB%A9%E5%BC%BA%E5%8A%B2-0d51fe4a",
+      "guid": "WP-WSJS-0003846765",
+      "pub_date": "Thu, 27 Aug 2026 00:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-13301787?size=1.497&width=1280",
+      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e7-ac-ac-e4-ba-8c-e8--b77edf3c4148.html",
+      "captured": true,
+      "capture_title": "英伟达财季业绩远超预期，称AI芯片需求愈发火爆",
+      "error": ""
+    },
+    {
+      "title": "美加为应对长期贸易争端做准备",
+      "summary": "在中期选举前夕特朗普面临政治压力的情况下，几乎没有人认为短期内能找到缓和紧张关系的出路。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%8A%A0%E4%B8%BA%E5%BA%94%E5%AF%B9%E9%95%BF%E6%9C%9F%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF%E5%81%9A%E5%87%86%E5%A4%87-4c057123",
+      "guid": "WP-WSJS-0003847126",
+      "pub_date": "Thu, 27 Aug 2026 01:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-50755357?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-8a-a0-e4-b8-ba-e5-ba-94-e5-af-b9-e9--4d9bc17b495f.html",
+      "captured": true,
+      "capture_title": "美加为应对长期贸易争端做准备 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "俄乌空战进入更加惨烈的新阶段",
+      "summary": "俄乌双方都在利用远程无人机和导弹造成日益严重的破坏，但看起来谁都还远未到被打垮的地步。",
+      "link": "https://cn.wsj.com/articles/%E4%BF%84%E4%B9%8C%E7%A9%BA%E6%88%98%E8%BF%9B%E5%85%A5%E6%9B%B4%E5%8A%A0%E6%83%A8%E7%83%88%E7%9A%84%E6%96%B0%E9%98%B6%E6%AE%B5-c4c6d37f",
+      "guid": "WP-WSJS-0003847283",
+      "pub_date": "Thu, 27 Aug 2026 02:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-48853802?size=1.402&width=1280",
+      "snapshot": "articles/e4-bf-84-e4-b9-8c-e7-a9-ba-e6-88-98-e8-bf-9b-e5--b14c603e99dd.html",
+      "captured": true,
+      "capture_title": "俄乌空战进入更加惨烈的新阶段 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "Meta就儿童安全指控与48个州达成180亿美元和解协议",
+      "summary": "该协议包含针对未成年用户的广泛新保护措施，但只有在TikTok和YouTube做出类似让步的情况下，才会全额支付相关款项。",
+      "link": "https://cn.wsj.com/articles/meta-reaches-18-billion-settlement-with-48-states-over-child-safety-claims-9138d8d2",
+      "guid": "WP-WSJS-0003846889",
+      "pub_date": "Wed, 26 Aug 2026 23:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-55132584?size=1.501&width=1280",
+      "snapshot": "articles/meta-reaches-18-billion-settlement-with-48-state-4289bea0ac23.html",
+      "captured": true,
+      "capture_title": "Meta就儿童安全指控与48个州达成180亿美元和解协议",
+      "error": ""
+    },
+    {
+      "title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
+      "summary": "在垂钓和打牌的间隙，资深金融从业者们吐露了对AI交易的担忧。",
+      "link": "https://cn.wsj.com/articles/%E6%8E%A2%E8%AE%BF%E5%8D%8E%E5%B0%94%E8%A1%97%E7%B2%BE%E8%8B%B1%E8%8D%92%E9%87%8E%E8%90%A5-%E4%BA%BA%E4%BA%BA%E7%9A%86%E5%AF%B9ai%E7%83%AD%E6%BD%AE%E5%BF%83%E7%94%9F%E5%AF%92%E6%84%8F-40890e6f",
+      "guid": "WP-WSJS-0003840670",
+      "pub_date": "Tue, 25 Aug 2026 01:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-28771509?size=1.5&width=1280",
+      "snapshot": "articles/e6-8e-a2-e8-ae-bf-e5-8d-8e-e5-b0-94-e8-a1-97-e7--4c17fb5b3e6d.html",
+      "captured": true,
+      "capture_title": "探访华尔街精英荒野营：人人皆对AI热潮心生寒意",
       "error": ""
     },
     {
@@ -590,18 +662,6 @@
       "snapshot": "articles/e7-8f-8d-e6-9c-ac-e4-b9-a6-e5-a4-a7-e5-8d-96-e8--e00dbca3f306.html",
       "captured": true,
       "capture_title": "珍本书大卖背后：先拆解扫描，再“喂给”AI",
-      "error": ""
-    },
-    {
-      "title": "中国年轻人正涌入这座古寺祈求好工作",
-      "summary": "如今，古老的龙华寺里挤满了烧香、诵经、在佛像前跪拜的年轻人。在许多人求职碰壁的当下，这里在当地被视为祈求事业顺利的宝地。",
-      "link": "https://cn.wsj.com/articles/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-e7ff140c",
-      "guid": "WP-WSJS-0003837788",
-      "pub_date": "Mon, 24 Aug 2026 00:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-65483261?size=1.5&width=1280",
-      "snapshot": "articles/this-ancient-temple-is-where-chinas-young-people-0d2a8806ce64.html",
-      "captured": true,
-      "capture_title": "中国年轻人正涌入这座古寺祈求好工作",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e8-bf-99-e5-ae-b6-e5-ba-9e-e5-a4-a7-e7-9a-84-e4--2faddc370eee.html",
       "captured": true,
       "capture_title": "这家庞大的中国炼油厂如何成为伊朗资金生命线",
-      "error": ""
-    },
-    {
-      "title": "三位经济学家引领美联储重新审视通胀",
-      "summary": "格雷格·曼昆、托马斯·萨金特和威廉·怀特对物价为何上涨都有着鲜明的观点。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%89%E4%BD%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%BC%95%E9%A2%86%E7%BE%8E%E8%81%94%E5%82%A8%E9%87%8D%E6%96%B0%E5%AE%A1%E8%A7%86%E9%80%9A%E8%83%80-130f7b05",
-      "guid": "WP-WSJS-0003838111",
-      "pub_date": "Mon, 24 Aug 2026 03:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-54228077?size=1&width=1280",
-      "snapshot": "articles/e4-b8-89-e4-bd-8d-e7-bb-8f-e6-b5-8e-e5-ad-a6-e5--35ea30bec059.html",
-      "captured": true,
-      "capture_title": "三位经济学家引领美联储重新审视通胀 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
-      "summary": "随着民众对AI的愤怒情绪蔓延，得州和宾州等州州长正放缓当地数据中心的开发步伐。而特朗普则坚决为数据中心辩护。",
-      "link": "https://cn.wsj.com/articles/politicians-who-once-championed-data-centers-are-now-bashing-them-e771b988",
-      "guid": "WP-WSJS-0003833674",
-      "pub_date": "Fri, 21 Aug 2026 02:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-71044978?size=1.916&width=1280",
-      "snapshot": "articles/politicians-who-once-championed-data-centers-are-4bea24fce5af.html",
-      "captured": true,
-      "capture_title": "美国政界对数据中心态度大转向：昔日力挺，如今炮轰",
-      "error": ""
-    },
-    {
-      "title": "莫德纳癌症疫苗炒作过热，脱离财务现实",
-      "summary": "个性化mRNA疫苗的应用范围和盈利能力可能都不及预期。",
-      "link": "https://cn.wsj.com/articles/%E8%8E%AB%E5%BE%B7%E7%BA%B3%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%82%92%E4%BD%9C%E8%BF%87%E7%83%AD-%E8%84%B1%E7%A6%BB%E8%B4%A2%E5%8A%A1%E7%8E%B0%E5%AE%9E-8b091ecd",
-      "guid": "WP-WSJS-0003837895",
-      "pub_date": "Mon, 24 Aug 2026 01:01:00 GMT",
-      "image_url": "https://images.wsj.net/im-25512659?size=1.501&width=1280",
-      "snapshot": "articles/e8-8e-ab-e5-be-b7-e7-ba-b3-e7-99-8c-e7-97-87-e7--23b88f7d9921.html",
-      "captured": true,
-      "capture_title": "莫德纳癌症疫苗炒作过热，脱离财务现实",
-      "error": ""
-    },
-    {
-      "title": "中国年轻人热衷“以租代买”，政府促进消费或遇新挑战",
-      "summary": "一台大疆Pocket 3相机售价3000多元，但只要花65元就能租用。中国年轻人正用这种方式省钱，但这也对中国政府促消费的努力构成了新挑战。",
-      "link": "https://cn.wsj.com/articles/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-9ed55da2",
-      "guid": "WP-WSJS-0003830338",
-      "pub_date": "Thu, 20 Aug 2026 02:00:00 GMT",
-      "image_url": "https://images.mktw.net/im-97422812?size=1.5&width=1280",
-      "snapshot": "articles/test-driving-that-drone-or-just-renting-why-the--d69bfc582757.html",
-      "captured": true,
-      "capture_title": "中国年轻人热衷“以租代买”，政府促进消费或遇新挑战",
-      "error": ""
-    },
-    {
-      "title": "打破年龄魔咒：66岁老人重返职场之路",
-      "summary": "在去年被裁员后，66岁的Lynn Lee踏上了一段艰辛的重新求职之路。如今已重返职场的她想告诉大家：“千万不要放弃。”",
-      "link": "https://cn.wsj.com/articles/the-66-year-old-who-overcame-the-odds-and-found-a-new-job-2779f127",
-      "guid": "WP-WSJS-0003833542",
-      "pub_date": "Fri, 21 Aug 2026 01:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-73961865?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/the-66-year-old-who-overcame-the-odds-and-found--454db6a16717.html",
-      "captured": true,
-      "capture_title": "打破年龄魔咒：66岁老人重返职场之路",
       "error": ""
     }
   ]
