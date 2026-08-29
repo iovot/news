@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 15:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 01:34:31 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 15:09:36 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 01:34:31 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,13 @@
             <pubDate>Fri, 28 Aug 2026 07:52:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[沃什表示美联储的抗通胀行动可能尚未结束]]></title>
+            <description><![CDATA[<img width="1280" height="883" src="https://images.wsj.net/im-74689168?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在杰克逊霍尔首秀中，沃什提出了鹰派人士所主张的几项论点，这可能为最终加息铺平道路。但他并未指明未来的政策路径。</p>]]></description>
+            <link>https://cn.wsj.com/articles/warsh-says-the-fed-may-not-be-done-fighting-inflation-571a2e60</link>
+            <guid isPermaLink="false">WP-WSJS-0003853601</guid>
+            <pubDate>Sat, 29 Aug 2026 01:05:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI投资热潮如何撑起全球经济]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57718857?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管贸易、地缘政治和债券市场紧张局势再度升温，但经济增长依然保持稳定，不过AI热潮所占分量过重，也让投资者越来越担心。</p>]]></description>
             <link>https://cn.wsj.com/articles/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-40284e81</link>
@@ -54,13 +61,6 @@
             <link>https://cn.wsj.com/articles/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967</link>
             <guid isPermaLink="false">WP-WSJS-0003850775</guid>
             <pubDate>Fri, 28 Aug 2026 02:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法官裁定特朗普政府侵犯了Anthropic的第一修正案权利]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-62474689?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>联邦法官周四晚间裁定，特朗普政府将Anthropic列入黑名单并定性为供应链风险的举动构成“非法报复”，侵犯了其第一修正案权利。</p>]]></description>
-            <link>https://cn.wsj.com/articles/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-01b25074</link>
-            <guid isPermaLink="false">WP-WSJS-0003850971</guid>
-            <pubDate>Fri, 28 Aug 2026 04:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普签署行政令将安大略湖更名为“美国湖”]]></title>
@@ -112,11 +112,25 @@
             <pubDate>Fri, 28 Aug 2026 05:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[长鑫科技营收激增，得益于存储芯片短缺]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-15050677?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是长鑫科技7月在上海上市以来发布的首份业绩，其净利润也高于此前的指引区间。</p>]]></description>
+            <title><![CDATA[长鑫科技营收激增，得益于AI热潮下的存储芯片紧缺]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-15050677?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>长鑫科技在上海上市以来发布的首份业绩显示，其收入增长近九倍，净利润也高于此前的业绩指引。</p>]]></description>
             <link>https://cn.wsj.com/articles/chip-maker-cxmts-revenue-surges-on-ai-driven-memory-shortage-1ae9977a</link>
             <guid isPermaLink="false">WP-WSJS-0003851452</guid>
-            <pubDate>Fri, 28 Aug 2026 11:26:00 GMT</pubDate>
+            <pubDate>Sat, 29 Aug 2026 00:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙等美国企业即将达成协议，向委内瑞拉油田投资]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-77302925?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>雪佛龙接近达成协议，拟将两处重油田纳入其在委内瑞拉的资产组合，同时哈里伯顿公司也在进行谈判。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chevron-other-u-s-firms-near-deal-to-invest-billions-in-venezuelan-oil-fields-3130553d</link>
+            <guid isPermaLink="false">WP-WSJS-0003853541</guid>
+            <pubDate>Sat, 29 Aug 2026 00:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法官裁定特朗普政府侵犯了Anthropic的第一修正案权利]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-62474689?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>联邦法官周四晚间裁定，特朗普政府将Anthropic列入黑名单并定性为供应链风险的举动构成“非法报复”，侵犯了其第一修正案权利。</p>]]></description>
+            <link>https://cn.wsj.com/articles/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-01b25074</link>
+            <guid isPermaLink="false">WP-WSJS-0003850971</guid>
+            <pubDate>Fri, 28 Aug 2026 04:36:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[这家研发出胰腺癌突破性药物的药企为何坚持独立发展？]]></title>
@@ -131,27 +145,6 @@
             <link>https://cn.wsj.com/articles/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-dccda513</link>
             <guid isPermaLink="false">WP-WSJS-0003851283</guid>
             <pubDate>Fri, 28 Aug 2026 09:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普家族新加密银行获阿布扎比酋长的支持]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-45859948?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>被称为“间谍酋长”的塔赫农·本·扎耶德·阿勒纳哈扬及其共同投资者支持的一个实体，在World Liberty Financial为旗下银行业务创建的控股公司中持有49%的股份。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-familys-new-crypto-bank-is-backed-by-abu-dhabi-sheikh-90842ab0</link>
-            <guid isPermaLink="false">WP-WSJS-0003850495</guid>
-            <pubDate>Fri, 28 Aug 2026 00:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一美军人员与一毕马威员工成为预测市场整治行动的目标]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-46417859?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士称，这两宗案件可能会在今年秋季提出指控。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-servicemember-kpmg-employee-are-targets-of-prediction-markets-crackdown-7f4821ab</link>
-            <guid isPermaLink="false">WP-WSJS-0003850597</guid>
-            <pubDate>Fri, 28 Aug 2026 00:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普政府就入股委内瑞拉油田进行深入谈判]]></title>
-            <description><![CDATA[<img width="1082" height="728" src="https://images.wsj.net/im-45437501?size=1.487&width=1082" class="webfeedsFeaturedVisual" alt=""/><p>协议将使美国在委内瑞拉至少17个最具前景的油气田获得立足点。这些油气田的探明储量约为900亿桶，几乎是美国的两倍。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%B1%E5%85%A5%E8%82%A1%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B2%B9%E7%94%B0%E8%BF%9B%E8%A1%8C%E6%B7%B1%E5%85%A5%E8%B0%88%E5%88%A4-948a82ea</link>
-            <guid isPermaLink="false">WP-WSJS-0003850676</guid>
-            <pubDate>Fri, 28 Aug 2026 01:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨]]></title>
