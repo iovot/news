@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:36:46.099834+00:00",
+  "generated_at": "2026-08-29T09:55:37.170060+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,6 +17,18 @@
       "error": ""
     },
     {
+      "title": "中国放宽房地产信贷融资以期提振该行业",
+      "summary": "根据新规，中国房主可以为他们的高利率存量房贷进行再融资；新购房者也将被允许获得最长40年的房贷，高于此前30年的上限。",
+      "link": "https://cn.wsj.com/articles/chinamoves-to-ease-property-financing-in-hopes-of-boosting-sector-0f9b01d4",
+      "guid": "WP-WSJS-0003853669",
+      "pub_date": "Sat, 29 Aug 2026 01:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-826217?size=1.5&width=1280",
+      "snapshot": "articles/chinamoves-to-ease-property-financing-in-hopes-o-6193ada88451.html",
+      "captured": true,
+      "capture_title": "中国放宽房地产信贷融资以期提振该行业 - WSJ",
+      "error": ""
+    },
+    {
       "title": "沃什表示美联储的抗通胀行动可能尚未结束",
       "summary": "在杰克逊霍尔首秀中，沃什提出了鹰派人士所主张的几项论点，这可能为最终加息铺平道路。但他并未指明未来的政策路径。",
       "link": "https://cn.wsj.com/articles/warsh-says-the-fed-may-not-be-done-fighting-inflation-571a2e60",
@@ -25,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-74689168?size=1.45&width=1280",
       "snapshot": "articles/warsh-says-the-fed-may-not-be-done-fighting-infl-89fbcdd11bd8.html",
       "captured": true,
-      "capture_title": "沃什表示美联储的抗通胀行动可能尚未结束 - WSJ",
+      "capture_title": "沃什表示美联储的抗通胀行动可能尚未结束",
       "error": ""
     },
     {
@@ -53,18 +65,6 @@
       "error": ""
     },
     {
-      "title": "美债今夏境况堪忧？海外债市更加惨淡",
-      "summary": "包括法国、意大利、英国和日本在内的债务负担沉重的国家，近几个月来面临着巨大压力。",
-      "link": "https://cn.wsj.com/articles/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967",
-      "guid": "WP-WSJS-0003850775",
-      "pub_date": "Fri, 28 Aug 2026 02:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-62719600?size=1.5&width=1280",
-      "snapshot": "articles/think-treasurys-are-having-a-rough-summer-its-ev-efe93fdb1568.html",
-      "captured": true,
-      "capture_title": "美债今夏境况堪忧？海外债市更加惨淡",
-      "error": ""
-    },
-    {
       "title": "特朗普签署行政令将安大略湖更名为“美国湖”",
       "summary": "此举令美加贸易争端进一步升温。虽然新名称预计将被用于美国政府的官方文件和通讯中，但加拿大方面很可能不会承认。",
       "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E4%BB%A4%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%9B%B4%E5%90%8D%E4%B8%BA-%E7%BE%8E%E5%9B%BD%E6%B9%96-12b498d7",
@@ -77,15 +77,15 @@
       "error": ""
     },
     {
-      "title": "白宫高级幕僚对CIA局长的俄罗斯之行毫不知情",
-      "summary": "美国官员称，总统特朗普亲自派遣了拉特克利夫。此次派遣这位情报首脑，意味着特朗普转而倚重另一名助手。",
-      "link": "https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E9%AB%98%E7%BA%A7%E5%B9%95%E5%83%9A%E5%AF%B9cia%E5%B1%80%E9%95%BF%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%8B%E8%A1%8C%E6%AF%AB%E4%B8%8D%E7%9F%A5%E6%83%85-bc230547",
-      "guid": "WP-WSJS-0003850446",
-      "pub_date": "Thu, 27 Aug 2026 23:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-46063714?size=1.501&width=1280",
-      "snapshot": "articles/e7-99-bd-e5-ae-ab-e9-ab-98-e7-ba-a7-e5-b9-95-e5--28d09112f57a.html",
+      "title": "冰岛就加入欧盟谈判举行投票，在安全与主权间权衡",
+      "summary": "在大国政治时代，这个毗邻格陵兰岛的岛屿国家正在投票表决是否重启加入欧盟贸易集团的谈判。",
+      "link": "https://cn.wsj.com/articles/iceland-weighs-security-versus-sovereignty-in-vote-over-eu-membership-talks-01ae603f",
+      "guid": "WP-WSJS-0003853830",
+      "pub_date": "Sat, 29 Aug 2026 03:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-34176397?size=0.667&width=1280",
+      "snapshot": "articles/iceland-weighs-security-versus-sovereignty-in-vo-9de331b2a5bf.html",
       "captured": true,
-      "capture_title": "白宫高级幕僚对CIA局长的俄罗斯之行毫不知情",
+      "capture_title": "冰岛就加入欧盟谈判举行投票，在安全与主权间权衡 - WSJ",
       "error": ""
     },
     {
@@ -101,6 +101,18 @@
       "error": ""
     },
     {
+      "title": "世界为何须迫使人民币升值",
+      "summary": "世界需要另一份“广场协议”，但这一次的目标不是压低被高估的美元，而是推高被低估的人民币。",
+      "link": "https://cn.wsj.com/articles/why-the-world-needs-to-force-chinas-yuan-to-revalue-dcbae07f",
+      "guid": "WP-WSJS-0003853743",
+      "pub_date": "Sat, 29 Aug 2026 02:01:00 GMT",
+      "image_url": "https://images.wsj.net/im-62827158?size=1.47&width=1280",
+      "snapshot": "articles/why-the-world-needs-to-force-chinas-yuan-to-reva-820567cd0fb6.html",
+      "captured": true,
+      "capture_title": "世界为何须迫使人民币升值 - WSJ",
+      "error": ""
+    },
+    {
       "title": "台湾拟斥资逾70亿美元扶持无人机制造商以抗衡中国",
       "summary": "台湾立法院周四批准了一项逾70亿美元的无人机支出计划。这笔资金将在未来六年内投入使用，旨在威慑中国可能发动的攻击，并打造一条本土供应链。",
       "link": "https://cn.wsj.com/articles/taiwan-prepares-a-7-billion-boost-to-drone-builders-to-counter-china-f6a70019",
@@ -110,18 +122,6 @@
       "snapshot": "articles/taiwan-prepares-a-7-billion-boost-to-drone-build-e2c488c892ee.html",
       "captured": true,
       "capture_title": "台湾拟斥资逾70亿美元扶持无人机制造商以抗衡中国",
-      "error": ""
-    },
-    {
-      "title": "美国企业界曾给特朗普开出巨额支票，如今CEO们在担心传票",
-      "summary": "大型科技公司正努力赢得民主党人的好感，并聘请顾问，为一旦共和党失去众议院控制权后可能面临的调查做准备。",
-      "link": "https://cn.wsj.com/articles/trump-corporate-donors-election-e72faf69",
-      "guid": "WP-WSJS-0003850898",
-      "pub_date": "Fri, 28 Aug 2026 03:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-05299892?size=1.499&width=1280",
-      "snapshot": "articles/trump-corporate-donors-election-e72faf69-1b250c4a0cdf.html",
-      "captured": true,
-      "capture_title": "美国企业界曾给特朗普开出巨额支票，如今CEO们在担心传票",
       "error": ""
     },
     {
@@ -137,15 +137,15 @@
       "error": ""
     },
     {
-      "title": "“绿色黄金”神话破灭，美国南方林业经济遭重创",
-      "summary": "纸浆用材曾助力开启美国南部的工业时代。如今工厂关闭大幅削减了需求，成为自“棉花为王”时代终结以来该地区面临的最大威胁。",
-      "link": "https://cn.wsj.com/articles/timber-was-gold-in-the-southuntil-a-market-collapse-crushed-the-forest-economy-e8364d6c",
-      "guid": "WP-WSJS-0003850990",
-      "pub_date": "Fri, 28 Aug 2026 05:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-51545857?size=1.5&width=1280",
-      "snapshot": "articles/timber-was-gold-in-the-southuntil-a-market-colla-30c5e579ba96.html",
+      "title": "美国企业界曾给特朗普开出巨额支票，如今CEO们在担心传票",
+      "summary": "大型科技公司正努力赢得民主党人的好感，并聘请顾问，为一旦共和党失去众议院控制权后可能面临的调查做准备。",
+      "link": "https://cn.wsj.com/articles/trump-corporate-donors-election-e72faf69",
+      "guid": "WP-WSJS-0003850898",
+      "pub_date": "Fri, 28 Aug 2026 03:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-05299892?size=1.499&width=1280",
+      "snapshot": "articles/trump-corporate-donors-election-e72faf69-1b250c4a0cdf.html",
       "captured": true,
-      "capture_title": "“绿色黄金”神话破灭，美国南方林业经济遭重创",
+      "capture_title": "美国企业界曾给特朗普开出巨额支票，如今CEO们在担心传票",
       "error": ""
     },
     {
@@ -161,6 +161,18 @@
       "error": ""
     },
     {
+      "title": "比亚迪海外业务扩张提振季度利润",
+      "summary": "比亚迪第二季度收入小幅下滑，但净利润出现反弹，表明这家全球头号电动汽车销售商可能已凭借其迅速的海外扩张迎来转机。",
+      "link": "https://cn.wsj.com/articles/byds-overseas-push-drives-quarterly-profit-growth-871aff1e",
+      "guid": "WP-WSJS-0003853791",
+      "pub_date": "Sat, 29 Aug 2026 02:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-06806435?size=1.455&width=1280",
+      "snapshot": "articles/byds-overseas-push-drives-quarterly-profit-growt-5fbded7ec5cd.html",
+      "captured": true,
+      "capture_title": "比亚迪海外业务扩张提振季度利润 - WSJ",
+      "error": ""
+    },
+    {
       "title": "雪佛龙等美国企业即将达成协议，向委内瑞拉油田投资",
       "summary": "雪佛龙接近达成协议，拟将两处重油田纳入其在委内瑞拉的资产组合，同时哈里伯顿公司也在进行谈判。",
       "link": "https://cn.wsj.com/articles/chevron-other-u-s-firms-near-deal-to-invest-billions-in-venezuelan-oil-fields-3130553d",
@@ -169,19 +181,19 @@
       "image_url": "https://images.wsj.net/im-77302925?size=1.499&width=1280",
       "snapshot": "articles/chevron-other-u-s-firms-near-deal-to-invest-bill-529bc5e7be1f.html",
       "captured": true,
-      "capture_title": "雪佛龙等美国企业即将达成协议，向委内瑞拉油田投资 - WSJ",
+      "capture_title": "雪佛龙等美国企业即将达成协议，向委内瑞拉油田投资",
       "error": ""
     },
     {
-      "title": "法官裁定特朗普政府侵犯了Anthropic的第一修正案权利",
-      "summary": "联邦法官周四晚间裁定，特朗普政府将Anthropic列入黑名单并定性为供应链风险的举动构成“非法报复”，侵犯了其第一修正案权利。",
-      "link": "https://cn.wsj.com/articles/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-01b25074",
-      "guid": "WP-WSJS-0003850971",
-      "pub_date": "Fri, 28 Aug 2026 04:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-62474689?size=1.501&width=1280",
-      "snapshot": "articles/judge-rules-trump-administration-violated-anthro-eca44672f0b1.html",
+      "title": "“绿色黄金”神话破灭，美国南方林业经济遭重创",
+      "summary": "纸浆用材曾助力开启美国南部的工业时代。如今工厂关闭大幅削减了需求，成为自“棉花为王”时代终结以来该地区面临的最大威胁。",
+      "link": "https://cn.wsj.com/articles/timber-was-gold-in-the-southuntil-a-market-collapse-crushed-the-forest-economy-e8364d6c",
+      "guid": "WP-WSJS-0003850990",
+      "pub_date": "Fri, 28 Aug 2026 05:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-51545857?size=1.5&width=1280",
+      "snapshot": "articles/timber-was-gold-in-the-southuntil-a-market-colla-30c5e579ba96.html",
       "captured": true,
-      "capture_title": "法官裁定特朗普政府侵犯了Anthropic的第一修正案权利",
+      "capture_title": "“绿色黄金”神话破灭，美国南方林业经济遭重创",
       "error": ""
     },
     {
@@ -290,6 +302,42 @@
       "snapshot": "articles/e6-b2-b3-e8-bd-ae-e6-97-85-e8-a1-8c-e8-ae-a9-e4--aac768d75aa9.html",
       "captured": true,
       "capture_title": "河轮旅行让人昏昏欲睡，但爱好者们就喜欢这样",
+      "error": ""
+    },
+    {
+      "title": "美债今夏境况堪忧？海外债市更加惨淡",
+      "summary": "包括法国、意大利、英国和日本在内的债务负担沉重的国家，近几个月来面临着巨大压力。",
+      "link": "https://cn.wsj.com/articles/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-0c41b967",
+      "guid": "WP-WSJS-0003850775",
+      "pub_date": "Fri, 28 Aug 2026 02:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-62719600?size=1.5&width=1280",
+      "snapshot": "articles/think-treasurys-are-having-a-rough-summer-its-ev-efe93fdb1568.html",
+      "captured": true,
+      "capture_title": "美债今夏境况堪忧？海外债市更加惨淡",
+      "error": ""
+    },
+    {
+      "title": "白宫高级幕僚对CIA局长的俄罗斯之行毫不知情",
+      "summary": "美国官员称，总统特朗普亲自派遣了拉特克利夫。此次派遣这位情报首脑，意味着特朗普转而倚重另一名助手。",
+      "link": "https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E9%AB%98%E7%BA%A7%E5%B9%95%E5%83%9A%E5%AF%B9cia%E5%B1%80%E9%95%BF%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%8B%E8%A1%8C%E6%AF%AB%E4%B8%8D%E7%9F%A5%E6%83%85-bc230547",
+      "guid": "WP-WSJS-0003850446",
+      "pub_date": "Thu, 27 Aug 2026 23:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-46063714?size=1.501&width=1280",
+      "snapshot": "articles/e7-99-bd-e5-ae-ab-e9-ab-98-e7-ba-a7-e5-b9-95-e5--28d09112f57a.html",
+      "captured": true,
+      "capture_title": "白宫高级幕僚对CIA局长的俄罗斯之行毫不知情",
+      "error": ""
+    },
+    {
+      "title": "法官裁定特朗普政府侵犯了Anthropic的第一修正案权利",
+      "summary": "联邦法官周四晚间裁定，特朗普政府将Anthropic列入黑名单并定性为供应链风险的举动构成“非法报复”，侵犯了其第一修正案权利。",
+      "link": "https://cn.wsj.com/articles/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-01b25074",
+      "guid": "WP-WSJS-0003850971",
+      "pub_date": "Fri, 28 Aug 2026 04:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-62474689?size=1.501&width=1280",
+      "snapshot": "articles/judge-rules-trump-administration-violated-anthro-eca44672f0b1.html",
+      "captured": true,
+      "capture_title": "法官裁定特朗普政府侵犯了Anthropic的第一修正案权利",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-cc-20924d0c3662.html",
       "captured": true,
       "capture_title": "长江存储拟IPO筹资49亿美元，借力AI驱动增长",
-      "error": ""
-    },
-    {
-      "title": "Shein为香港IPO定价，目标估值270亿美元",
-      "summary": "这与该公司一度达到的约1,000亿美元估值相去甚远。",
-      "link": "https://cn.wsj.com/articles/sheinlooks-to-raise-up-to-1-77-billion-in-long-awaited-hong-kong-offering-33ba604a",
-      "guid": "WP-WSJS-0003837810",
-      "pub_date": "Mon, 24 Aug 2026 06:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-03037858?size=1.501&width=1280",
-      "snapshot": "articles/sheinlooks-to-raise-up-to-1-77-billion-in-long-a-b19c0388aaa0.html",
-      "captured": true,
-      "capture_title": "Shein为香港IPO定价，目标估值270亿美元",
-      "error": ""
-    },
-    {
-      "title": "AI的下一次重大飞跃：走进现实世界",
-      "summary": "工程师与投资者正竞相涌入“世界模型”赛道，期望在机器人领域复刻ChatGPT在写作与编程界引发的革命。",
-      "link": "https://cn.wsj.com/articles/ai%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AC%A1%E9%87%8D%E5%A4%A7%E9%A3%9E%E8%B7%83-%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E-2739cd3f",
-      "guid": "WP-WSJS-0003836285",
-      "pub_date": "Sat, 22 Aug 2026 00:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-33748812?size=1.5&width=1280",
-      "snapshot": "articles/ai-e7-9a-84-e4-b8-8b-e4-b8-80-e6-ac-a1-e9-87-8d--35f0416397ae.html",
-      "captured": true,
-      "capture_title": "AI的下一次重大飞跃：走进现实世界",
-      "error": ""
-    },
-    {
-      "title": "SpaceX将部署英伟达CPU芯片用于AI开发",
-      "summary": "英伟达周一表示，此次合作将把首款面向AI智能体打造的CPU引入xAI的部署体系，其中包括Grok聊天机器人等项目。",
-      "link": "https://cn.wsj.com/articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-development-27611f05",
-      "guid": "WP-WSJS-0003840430",
-      "pub_date": "Mon, 24 Aug 2026 23:50:00 GMT",
-      "image_url": "https://images.mktw.net/im-63188887?size=1.48&width=1280",
-      "snapshot": "articles/spacex-to-deploy-nvidia-cpu-chips-for-ai-develop-0f264356c5fd.html",
-      "captured": true,
-      "capture_title": "SpaceX将部署英伟达CPU芯片用于AI开发",
-      "error": ""
-    },
-    {
-      "title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
-      "summary": "对于上班时该穿什么、不该穿什么，每个人都有自己的一套标准。来看看你个人的职场着装标准与《华尔街日报》的其他读者有何异同。",
-      "link": "https://cn.wsj.com/articles/%E4%BD%A0%E8%A7%89%E5%BE%97%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%A9%BF%E4%BB%80%E4%B9%88%E6%89%8D%E5%90%88%E9%80%82-%E6%9D%A5%E5%81%9A%E5%81%9A%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95%E5%90%A7-048c31b7",
-      "guid": "WP-WSJS-0003833872",
-      "pub_date": "Fri, 21 Aug 2026 06:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-93255237?size=1.5&width=1280",
-      "snapshot": "articles/e4-bd-a0-e8-a7-89-e5-be-97-e5-9c-a8-e5-8a-9e-e5--b5fd5680203c.html",
-      "captured": true,
-      "capture_title": "你觉得在办公室穿什么才合适？来做做我们的小测试吧",
       "error": ""
     }
   ]
