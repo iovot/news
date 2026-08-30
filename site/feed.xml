@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 20:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 23:19:03 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 20:48:11 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 23:19:03 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -77,18 +77,18 @@
             <pubDate>Sat, 29 Aug 2026 03:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[图解还原中国与尼泊尔边境致命洪灾始末]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41550911?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>破坏力惊人的海啸状洪流，很可能是由冰川断裂坠入山谷所引发的。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E8%BF%98%E5%8E%9F%E4%B8%AD%E5%9B%BD%E4%B8%8E%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BE%B9%E5%A2%83%E8%87%B4%E5%91%BD%E6%B4%AA%E7%81%BE%E5%A7%8B%E6%9C%AB-9e14afe0</link>
-            <guid isPermaLink="false">WP-WSJS-0003850876</guid>
-            <pubDate>Fri, 28 Aug 2026 03:18:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[世界为何须迫使人民币升值]]></title>
             <description><![CDATA[<img width="1280" height="871" src="https://images.wsj.net/im-62827158?size=1.47&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>世界需要另一份“广场协议”，但这一次的目标不是压低被高估的美元，而是推高被低估的人民币。</p>]]></description>
             <link>https://cn.wsj.com/articles/why-the-world-needs-to-force-chinas-yuan-to-revalue-dcbae07f</link>
             <guid isPermaLink="false">WP-WSJS-0003853743</guid>
             <pubDate>Sat, 29 Aug 2026 02:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[图解还原中国与尼泊尔边境致命洪灾始末]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41550911?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>破坏力惊人的海啸状洪流，很可能是由冰川断裂坠入山谷所引发的。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E8%BF%98%E5%8E%9F%E4%B8%AD%E5%9B%BD%E4%B8%8E%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BE%B9%E5%A2%83%E8%87%B4%E5%91%BD%E6%B4%AA%E7%81%BE%E5%A7%8B%E6%9C%AB-9e14afe0</link>
+            <guid isPermaLink="false">WP-WSJS-0003850876</guid>
+            <pubDate>Fri, 28 Aug 2026 03:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[台湾拟斥资逾70亿美元扶持无人机制造商以抗衡中国]]></title>
