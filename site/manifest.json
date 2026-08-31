@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:21:54.165426+00:00",
+  "generated_at": "2026-08-31T20:50:02.349569+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-41437091?size=1.504&width=1280",
       "snapshot": "articles/japan-targets-record-defense-spend-as-china-pres-2cf655a844c3.html",
       "captured": true,
-      "capture_title": "面对中国压力，日本拟将防卫预算提升至创纪录水平 - WSJ",
+      "capture_title": "面对中国压力，日本拟将防卫预算提升至创纪录水平",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-92972039?size=1.5&width=1280",
       "snapshot": "articles/the-summer-that-scorched-french-grapes-english-g-b46578209998.html",
       "captured": true,
-      "capture_title": "热浪炙烤下的欧洲：法国葡萄枯萎，英国花园败落，经济遭冲击 - WSJ",
+      "capture_title": "热浪炙烤下的欧洲：法国葡萄枯萎，英国花园败落，经济遭冲击",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-06311909?size=1.501&width=1280",
       "snapshot": "articles/e7-a7-91-e6-8a-80-e5-b7-a8-e5-a4-b4-e5-a6-82-e4--a633092ab163.html",
       "captured": true,
-      "capture_title": "科技巨头如何对民间AI抵制潮视而不见 - WSJ",
+      "capture_title": "科技巨头如何对民间AI抵制潮视而不见",
       "error": ""
     },
     {
@@ -289,7 +289,7 @@
       "image_url": "https://images.wsj.net/im-58590992?size=1.501&width=1280",
       "snapshot": "articles/remote-job-interview-applications-fraud-b03f874a-f83cdbcc9575.html",
       "captured": true,
-      "capture_title": "AI作弊时代，雇主重重设卡防范“虚假求职者” - WSJ",
+      "capture_title": "AI作弊时代，雇主重重设卡防范“虚假求职者”",
       "error": ""
     },
     {
