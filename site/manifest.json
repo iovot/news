@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-09-01T00:40:44.931196+00:00",
+  "generated_at": "2026-09-01T08:40:40.660489+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "华盛顿的致命新麻烦：“基地”组织与胡塞武装的恐怖联盟",
+      "summary": "一名男子协助促成了这两个武装组织之间的一笔武器交易，这笔交易威胁到了中东另一条关键的石油运输航线。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%9A%84%E8%87%B4%E5%91%BD%E6%96%B0%E9%BA%BB%E7%83%A6-%E5%9F%BA%E5%9C%B0-%E7%BB%84%E7%BB%87%E4%B8%8E%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%9A%84%E6%81%90%E6%80%96%E8%81%94%E7%9B%9F-b91cb1ef",
+      "guid": "WP-WSJS-0003858393",
+      "pub_date": "Tue, 01 Sep 2026 03:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-11546734?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e5-8d-8e-e7-9b-9b-e9-a1-bf-e7-9a-84-e8-87-b4-e5--74941a06256e.html",
+      "captured": true,
+      "capture_title": "华盛顿的致命新麻烦：“基地”组织与胡塞武装的恐怖联盟 - WSJ",
+      "error": ""
+    },
     {
       "title": "习近平如何把石油从中国的软肋变为地缘政治武器",
       "summary": "伊朗危机表明，习近平解决中国依赖进口石油问题的方案，为北京方面提供了抵御西方的一项关键防御手段。",
@@ -17,6 +29,30 @@
       "error": ""
     },
     {
+      "title": "伊朗水雷战阻碍美国控制霍尔木兹海峡努力",
+      "summary": "美国想要加快霍尔木兹海峡通航，关键取决于一场不对称的水下风险博弈。",
+      "link": "https://cn.wsj.com/articles/mine-warfare-with-iran-hampers-u-s-efforts-to-win-control-of-hormuz-fba79fcf",
+      "guid": "WP-WSJS-0003858351",
+      "pub_date": "Tue, 01 Sep 2026 02:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-85496565?size=1.501&width=1280",
+      "snapshot": "articles/mine-warfare-with-iran-hampers-u-s-efforts-to-wi-88dfa4d5ac87.html",
+      "captured": true,
+      "capture_title": "伊朗水雷战阻碍美国控制霍尔木兹海峡努力 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "对伊战事急剧消耗美军弹药，引发对中俄战略威慑力的担忧",
+      "summary": "为对付伊朗，美国已从欧洲及亚太调拨大量武器至中东，军事规划者担心，这种军备消耗正在削弱美国应对中俄潜在威胁的能力。",
+      "link": "https://cn.wsj.com/articles/%E5%AF%B9%E4%BC%8A%E6%88%98%E4%BA%8B%E6%80%A5%E5%89%A7%E6%B6%88%E8%80%97%E7%BE%8E%E5%86%9B%E5%BC%B9%E8%8D%AF-%E5%BC%95%E5%8F%91%E5%AF%B9%E4%B8%AD%E4%BF%84%E6%88%98%E7%95%A5%E5%A8%81%E6%85%91%E5%8A%9B%E7%9A%84%E6%8B%85%E5%BF%A7-2890d002",
+      "guid": "WP-WSJS-0003855330",
+      "pub_date": "Mon, 31 Aug 2026 01:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-86559187?size=1.333&width=1280",
+      "snapshot": "articles/e5-af-b9-e4-bc-8a-e6-88-98-e4-ba-8b-e6-80-a5-e5--ead652306b96.html",
+      "captured": true,
+      "capture_title": "对伊战事急剧消耗美军弹药，引发对中俄战略威慑力的担忧",
+      "error": ""
+    },
+    {
       "title": "全球峰会分歧显现，贝森特指责加拿大",
       "summary": "贝森特将本月旨在避免美国对加拿大商品征收高额关税的贸易谈判破裂归咎于加拿大总理马克·卡尼，并淡化了外界对美国可能与其第二大贸易伙伴爆发贸易战的担忧。",
       "link": "https://cn.wsj.com/articles/bessent-criticizes-canada-as-global-summit-shows-divisions-4ca8e7f6",
@@ -25,7 +61,43 @@
       "image_url": "https://images.wsj.net/im-11835812?size=1.667&width=1280",
       "snapshot": "articles/bessent-criticizes-canada-as-global-summit-shows-416e174c9682.html",
       "captured": true,
-      "capture_title": "全球峰会分歧显现，贝森特指责加拿大 - WSJ",
+      "capture_title": "全球峰会分歧显现，贝森特指责加拿大",
+      "error": ""
+    },
+    {
+      "title": "共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产”",
+      "summary": "据知情人士透露，从白宫宴会厅到提议修建的凯旋门，特朗普正花大量时间试图为自己的任期留下有形的印记和更难抹去的政治遗产。",
+      "link": "https://cn.wsj.com/articles/republicansare-worried-about-the-midterms-trump-is-focused-on-his-legacy-2b817ee2",
+      "guid": "WP-WSJS-0003858498",
+      "pub_date": "Tue, 01 Sep 2026 04:57:00 GMT",
+      "image_url": "https://images.wsj.net/im-25100675?size=1.501&width=1280",
+      "snapshot": "articles/republicansare-worried-about-the-midterms-trump--0f9fb29eb8d0.html",
+      "captured": true,
+      "capture_title": "共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产” - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国8月民间制造业指标显示行业活动改善",
+      "summary": "上月RatingDog制造业PMI从7月份的50.9升至51.5，为连续九个月处于扩张区间，为五年来最长扩张期。",
+      "link": "https://cn.wsj.com/articles/%E6%B0%91%E9%97%B4%E6%8C%87%E6%A0%87%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD8%E6%9C%88%E5%88%B6%E9%80%A0%E4%B8%9A%E6%B4%BB%E5%8A%A8%E6%89%A9%E5%BC%A0%E5%8A%A0%E5%BF%AB-62aece75",
+      "guid": "WP-WSJS-0003858352",
+      "pub_date": "Tue, 01 Sep 2026 02:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-43977015?size=1.502&width=1280",
+      "snapshot": "articles/e6-b0-91-e9-97-b4-e6-8c-87-e6-a0-87-e6-98-be-e7--fd606769680a.html",
+      "captured": true,
+      "capture_title": "中国8月民间制造业指标显示行业活动改善 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "西雅图和华盛顿特区正逆势吸引有孩家庭",
+      "summary": "这两地的儿童数量均增长了10%，而大多数其他类似城市的儿童数量却在下降。",
+      "link": "https://cn.wsj.com/articles/seattle-and-d-c-are-bucking-the-trend-by-attracting-families-with-kids-86d06b8a",
+      "guid": "WP-WSJS-0003858301",
+      "pub_date": "Tue, 01 Sep 2026 02:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-22975833?size=1.499&width=1280",
+      "snapshot": "articles/seattle-and-d-c-are-bucking-the-trend-by-attract-72cf4ba49240.html",
+      "captured": true,
+      "capture_title": "西雅图和华盛顿特区正逆势吸引有孩家庭 - WSJ",
       "error": ""
     },
     {
@@ -41,18 +113,6 @@
       "error": ""
     },
     {
-      "title": "中国官方制造业活动指标暗示经济回升在即",
-      "summary": "中国8月份官方制造业PMI微升至49.8，产量与市场需求双双回暖。不过，制造业活动仍连续第二个月处于萎缩区间。",
-      "link": "https://cn.wsj.com/articles/chinas-official-gauges-point-to-continued-contraction-in-economic-activity-71f5a5d2",
-      "guid": "WP-WSJS-0003855401",
-      "pub_date": "Mon, 31 Aug 2026 02:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-91976449?size=1.501&width=1280",
-      "snapshot": "articles/chinas-official-gauges-point-to-continued-contra-fdf3fba8305d.html",
-      "captured": true,
-      "capture_title": "中国官方制造业活动指标暗示经济回升在即",
-      "error": ""
-    },
-    {
       "title": "中国驳斥有关其本可向尼泊尔发出致命洪灾预警的说法",
       "summary": "席卷尼中边境的特大洪灾已导致超过3,000人失踪。尼泊尔方面提出疑问，即中方是否本可以对这场灾难发出一些预警。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A9%B3%E6%96%A5%E6%9C%89%E5%85%B3%E5%85%B6%E6%9C%AC%E5%8F%AF%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8F%91%E5%87%BA%E8%87%B4%E5%91%BD%E6%B4%AA%E7%81%BE%E9%A2%84%E8%AD%A6%E7%9A%84%E8%AF%B4%E6%B3%95-027fe9f6",
@@ -65,27 +125,15 @@
       "error": ""
     },
     {
-      "title": "英伟达瞄准全球机器人赛道，中国市场需求强劲",
-      "summary": "英伟达的物理AI业务不断增长，与此同时，中国机器人制造商正依赖美国芯片和软件工具来训练和操作设备。",
-      "link": "https://cn.wsj.com/articles/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-2ddfc687",
-      "guid": "WP-WSJS-0003855430",
-      "pub_date": "Mon, 31 Aug 2026 02:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-85889909?size=1.501&width=1280",
-      "snapshot": "articles/nvidia-wants-to-run-the-worlds-robots-china-is-a-845ef26e23fe.html",
+      "title": "Shein加速推进IPO背后的44亿美元隐情",
+      "summary": "Shein本周在香港的IPO，将使其得以避免向早期投资者支付数十亿美元。",
+      "link": "https://cn.wsj.com/articles/shein%E5%8A%A0%E9%80%9F%E6%8E%A8%E8%BF%9Bipo%E8%83%8C%E5%90%8E%E7%9A%8444%E4%BA%BF%E7%BE%8E%E5%85%83%E9%9A%90%E6%83%85-03e97131",
+      "guid": "WP-WSJS-0003858016",
+      "pub_date": "Mon, 31 Aug 2026 23:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-14581670?size=1&width=1280",
+      "snapshot": "articles/shein-e5-8a-a0-e9-80-9f-e6-8e-a8-e8-bf-9bipo-e8--08065d3e5783.html",
       "captured": true,
-      "capture_title": "英伟达瞄准全球机器人赛道，中国市场需求强劲",
-      "error": ""
-    },
-    {
-      "title": "华尔街动能交易突然遭遇溃败",
-      "summary": "押注大涨赢家的“动能交易”骤然沦为输家，让此前依赖其成功的投资者措手不及。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%8A%A8%E8%83%BD%E4%BA%A4%E6%98%93%E7%AA%81%E7%84%B6%E9%81%AD%E9%81%87%E6%BA%83%E8%B4%A5-5ad8f611",
-      "guid": "WP-WSJS-0003855431",
-      "pub_date": "Mon, 31 Aug 2026 03:06:00 GMT",
-      "image_url": "https://images.wsj.net/im-27903243?size=1.501&width=1280",
-      "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e5-8a-a8-e8-83-bd-e4--8f0e363d88cd.html",
-      "captured": true,
-      "capture_title": "华尔街动能交易突然遭遇溃败",
+      "capture_title": "Shein加速推进IPO背后的44亿美元隐情",
       "error": ""
     },
     {
@@ -113,6 +161,138 @@
       "error": ""
     },
     {
+      "title": "从人口断崖到招生竞争：详解美国知名高校财务压力背后的挑战",
+      "summary": "即便是老牌名校，如今也感受到了切实压力。沿袭数代的高等教育商业模式正面临日益严峻的挑战。",
+      "link": "https://cn.wsj.com/articles/%E4%BB%8E%E4%BA%BA%E5%8F%A3%E6%96%AD%E5%B4%96%E5%88%B0%E6%8B%9B%E7%94%9F%E7%AB%9E%E4%BA%89-%E8%AF%A6%E8%A7%A3%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8D%E9%AB%98%E6%A0%A1%E8%B4%A2%E5%8A%A1%E5%8E%8B%E5%8A%9B%E8%83%8C%E5%90%8E%E7%9A%84%E6%8C%91%E6%88%98-ff0cd32e",
+      "guid": "WP-WSJS-0003858308",
+      "pub_date": "Tue, 01 Sep 2026 02:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-54415159?size=1.501&width=1280",
+      "snapshot": "articles/e4-bb-8e-e4-ba-ba-e5-8f-a3-e6-96-ad-e5-b4-96-e5--0411b7a84395.html",
+      "captured": true,
+      "capture_title": "从人口断崖到招生竞争：详解美国知名高校财务压力背后的挑战 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "这位巴西亿万富豪如何影响了特朗普的牛肉进口计划",
+      "summary": "在与巴西亿万富豪乔斯利·巴蒂斯塔会晤一天后，美国总统特朗普宣布了一项豁免牛肉进口关税的计划，此举激怒了美国农场主和牧场主。",
+      "link": "https://cn.wsj.com/articles/%E8%BF%99%E4%BD%8D%E5%B7%B4%E8%A5%BF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%89%9B%E8%82%89%E8%BF%9B%E5%8F%A3%E8%AE%A1%E5%88%92-98a69ed2",
+      "guid": "WP-WSJS-0003858315",
+      "pub_date": "Tue, 01 Sep 2026 02:32:00 GMT",
+      "image_url": "https://images.wsj.net/im-04490921?size=1.499&width=1280",
+      "snapshot": "articles/e8-bf-99-e4-bd-8d-e5-b7-b4-e8-a5-bf-e4-ba-bf-e4--80ae0da31304.html",
+      "captured": true,
+      "capture_title": "这位巴西亿万富豪如何影响了特朗普的牛肉进口计划 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普政府与9家公司达成最惠国药品定价协议，百济神州在列",
+      "summary": "白宫表示，这些协议规定，所有州医疗补助计划为处方药支付的价格，将与其他发达国家支付的最低价格持平。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8E9%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%BE%BE%E6%88%90%E6%9C%80%E6%83%A0%E5%9B%BD%E8%8D%AF%E5%93%81%E5%AE%9A%E4%BB%B7%E5%8D%8F%E8%AE%AE-%E7%99%BE%E6%B5%8E%E7%A5%9E%E5%B7%9E%E5%9C%A8%E5%88%97-dc17fa67",
+      "guid": "WP-WSJS-0003858069",
+      "pub_date": "Tue, 01 Sep 2026 00:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-25145075?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e4--b3c6de2fc93b.html",
+      "captured": true,
+      "capture_title": "特朗普政府与9家公司达成最惠国药品定价协议，百济神州在列 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？",
+      "summary": "为了帮助苹果公司达到新的高度，约翰·特努斯必须超越蒂姆·库克在供应链管理方面的卓越成就，库克已将公司打造成为一家市值5万亿美元的巨头。",
+      "link": "https://cn.wsj.com/articles/apple-ceo-john-ternus-d22bca78",
+      "guid": "WP-WSJS-0003858086",
+      "pub_date": "Tue, 01 Sep 2026 00:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-94847914?size=1.501&width=1280",
+      "snapshot": "articles/apple-ceo-john-ternus-d22bca78-a78aecd2d13e.html",
+      "captured": true,
+      "capture_title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？ - WSJ",
+      "error": ""
+    },
+    {
+      "title": "前美国国会议员桑托斯收到预测平台Kalshi史上首个终身禁用令",
+      "summary": "此前，一家联邦监管机构指控这位前美国国会议员通过预测平台Kalshi押注自己是否会出席总统特朗普的国情咨文演讲，获利超过1.7万美元。",
+      "link": "https://cn.wsj.com/articles/ex-congressman-george-santos-receives-kalshis-first-ever-lifetime-ban-a548962b",
+      "guid": "WP-WSJS-0003858483",
+      "pub_date": "Tue, 01 Sep 2026 04:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-11525088?size=1.499&width=1280",
+      "snapshot": "articles/ex-congressman-george-santos-receives-kalshis-fi-d653510e9665.html",
+      "captured": true,
+      "capture_title": "前美国国会议员桑托斯收到预测平台Kalshi史上首个终身禁用令 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "SEC加强审查声称能提供未上市企业投资敞口的公司",
+      "summary": "SEC加强了对所谓特殊目的实体背后公司的审查，这些实体声称能提供未上市企业投资敞口。",
+      "link": "https://cn.wsj.com/articles/sec%E5%8A%A0%E5%BC%BA%E5%AE%A1%E6%9F%A5%E5%A3%B0%E7%A7%B0%E8%83%BD%E6%8F%90%E4%BE%9B%E6%9C%AA%E4%B8%8A%E5%B8%82%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%84%E6%95%9E%E5%8F%A3%E7%9A%84%E5%85%AC%E5%8F%B8-880be3b8",
+      "guid": "WP-WSJS-0003858309",
+      "pub_date": "Tue, 01 Sep 2026 02:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-07550161?size=1.501&width=1280",
+      "snapshot": "articles/sec-e5-8a-a0-e5-bc-ba-e5-ae-a1-e6-9f-a5-e5-a3-b0-64495ea43b5b.html",
+      "captured": true,
+      "capture_title": "SEC加强审查声称能提供未上市企业投资敞口的公司 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "OpenAI广告年化营收达10亿美元，阿尔特曼曾视之为下策",
+      "summary": "OpenAI正让全球企业在ChatGPT上投放广告变得更简便。",
+      "link": "https://cn.wsj.com/articles/sam-altman-once-called-ads-a-last-resort-now-openai-is-on-track-for-1-billion-in-revenue-from-them-ae530a4f",
+      "guid": "WP-WSJS-0003857951",
+      "pub_date": "Mon, 31 Aug 2026 23:41:00 GMT",
+      "image_url": "https://images.mktw.net/im-32737974?size=1.5&width=1280",
+      "snapshot": "articles/sam-altman-once-called-ads-a-last-resort-now-ope-fcd4df0de386.html",
+      "captured": true,
+      "capture_title": "OpenAI广告年化营收达10亿美元，阿尔特曼曾视之为下策 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探",
+      "summary": "由商人亚历杭德罗·贝坦科尔特经营的NABEP计划在未来几年向这个拉美国家调派50多台钻机。这是一项大规模部署，旨在大幅提振该国疲弱的原油产量。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%85%A5%E8%82%A1%E7%9A%84%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%8B%9F%E5%90%AF%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%92%BB%E6%8E%A2-ce9483aa",
+      "guid": "WP-WSJS-0003857948",
+      "pub_date": "Mon, 31 Aug 2026 23:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-01630777?size=1.499&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--1f2f643ea6b6.html",
+      "captured": true,
+      "capture_title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探",
+      "error": ""
+    },
+    {
+      "title": "中国精品葡萄酒热潮背后的神秘酒庄",
+      "summary": "今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的银色高地酒庄。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%B2%BE%E5%93%81%E8%91%A1%E8%90%84%E9%85%92%E7%83%AD%E6%BD%AE%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E9%85%92%E5%BA%84-c3d1a7ab",
+      "guid": "WP-WSJS-0003855432",
+      "pub_date": "Mon, 31 Aug 2026 03:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-09805019?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e7-b2-be-e5-93-81-e8-91-a1-e8--1a2f528a52b2.html",
+      "captured": true,
+      "capture_title": "中国精品葡萄酒热潮背后的神秘酒庄",
+      "error": ""
+    },
+    {
+      "title": "实测朝鲜智能手机：看似寻常背后的危险之处",
+      "summary": "《华尔街日报》记者Dasl Yoon实测了一部从朝鲜偷运出来的智能手机。这部手机有什么样的功能？又有何危险之处？",
+      "link": "https://cn.wsj.com/articles/%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E4%B8%8E-%E8%80%81%E5%A4%A7%E5%93%A5-%E4%B8%80%E9%83%A8%E6%9C%9D%E9%B2%9C%E8%B5%B0%E7%A7%81%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E6%95%B0%E5%AD%97%E5%9B%B4%E5%9F%8E-8f14e502",
+      "guid": "WP-WSJS-0003855642",
+      "pub_date": "Mon, 31 Aug 2026 06:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-68148221?size=1.78&width=1280",
+      "snapshot": "articles/e6-89-ab-e7-a0-81-e6-94-af-e4-bb-98-e4-b8-8e--e8-65907ee74383.html",
+      "captured": true,
+      "capture_title": "扫码支付与“老大哥”：一部朝鲜走私手机里的数字围城 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "英伟达瞄准全球机器人赛道，中国市场需求强劲",
+      "summary": "英伟达的物理AI业务不断增长，与此同时，中国机器人制造商正依赖美国芯片和软件工具来训练和操作设备。",
+      "link": "https://cn.wsj.com/articles/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-2ddfc687",
+      "guid": "WP-WSJS-0003855430",
+      "pub_date": "Mon, 31 Aug 2026 02:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-85889909?size=1.501&width=1280",
+      "snapshot": "articles/nvidia-wants-to-run-the-worlds-robots-china-is-a-845ef26e23fe.html",
+      "captured": true,
+      "capture_title": "英伟达瞄准全球机器人赛道，中国市场需求强劲",
+      "error": ""
+    },
+    {
       "title": "世界为何须迫使人民币升值",
       "summary": "世界需要另一份“广场协议”，但这一次的目标不是压低被高估的美元，而是推高被低估的人民币。",
       "link": "https://cn.wsj.com/articles/why-the-world-needs-to-force-chinas-yuan-to-revalue-dcbae07f",
@@ -122,6 +302,30 @@
       "snapshot": "articles/why-the-world-needs-to-force-chinas-yuan-to-reva-820567cd0fb6.html",
       "captured": true,
       "capture_title": "世界为何须迫使人民币升值",
+      "error": ""
+    },
+    {
+      "title": "中国官方制造业活动指标暗示经济回升在即",
+      "summary": "中国8月份官方制造业PMI微升至49.8，产量与市场需求双双回暖。不过，制造业活动仍连续第二个月处于萎缩区间。",
+      "link": "https://cn.wsj.com/articles/chinas-official-gauges-point-to-continued-contraction-in-economic-activity-71f5a5d2",
+      "guid": "WP-WSJS-0003855401",
+      "pub_date": "Mon, 31 Aug 2026 02:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-91976449?size=1.501&width=1280",
+      "snapshot": "articles/chinas-official-gauges-point-to-continued-contra-fdf3fba8305d.html",
+      "captured": true,
+      "capture_title": "中国官方制造业活动指标暗示经济回升在即",
+      "error": ""
+    },
+    {
+      "title": "华尔街动能交易突然遭遇溃败",
+      "summary": "押注大涨赢家的“动能交易”骤然沦为输家，让此前依赖其成功的投资者措手不及。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E5%8A%A8%E8%83%BD%E4%BA%A4%E6%98%93%E7%AA%81%E7%84%B6%E9%81%AD%E9%81%87%E6%BA%83%E8%B4%A5-5ad8f611",
+      "guid": "WP-WSJS-0003855431",
+      "pub_date": "Mon, 31 Aug 2026 03:06:00 GMT",
+      "image_url": "https://images.wsj.net/im-27903243?size=1.501&width=1280",
+      "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e5-8a-a8-e8-83-bd-e4--8f0e363d88cd.html",
+      "captured": true,
+      "capture_title": "华尔街动能交易突然遭遇溃败",
       "error": ""
     },
     {
@@ -149,30 +353,6 @@
       "error": ""
     },
     {
-      "title": "特朗普政府与9家公司达成最惠国药品定价协议，百济神州在列",
-      "summary": "白宫表示，这些协议规定，所有州医疗补助计划为处方药支付的价格，将与其他发达国家支付的最低价格持平。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8E9%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%BE%BE%E6%88%90%E6%9C%80%E6%83%A0%E5%9B%BD%E8%8D%AF%E5%93%81%E5%AE%9A%E4%BB%B7%E5%8D%8F%E8%AE%AE-%E7%99%BE%E6%B5%8E%E7%A5%9E%E5%B7%9E%E5%9C%A8%E5%88%97-dc17fa67",
-      "guid": "WP-WSJS-0003858069",
-      "pub_date": "Tue, 01 Sep 2026 00:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-25145075?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e4--b3c6de2fc93b.html",
-      "captured": true,
-      "capture_title": "特朗普政府与9家公司达成最惠国药品定价协议，百济神州在列 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "Shein加速推进IPO背后的44亿美元隐情",
-      "summary": "Shein本周在香港的IPO，将使其得以避免向早期投资者支付数十亿美元。",
-      "link": "https://cn.wsj.com/articles/shein%E5%8A%A0%E9%80%9F%E6%8E%A8%E8%BF%9Bipo%E8%83%8C%E5%90%8E%E7%9A%8444%E4%BA%BF%E7%BE%8E%E5%85%83%E9%9A%90%E6%83%85-03e97131",
-      "guid": "WP-WSJS-0003858016",
-      "pub_date": "Mon, 31 Aug 2026 23:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-14581670?size=1&width=1280",
-      "snapshot": "articles/shein-e5-8a-a0-e9-80-9f-e6-8e-a8-e8-bf-9bipo-e8--08065d3e5783.html",
-      "captured": true,
-      "capture_title": "Shein加速推进IPO背后的44亿美元隐情 - WSJ",
-      "error": ""
-    },
-    {
       "title": "OpenAI广告年化营收达10亿美元，阿特尔曼曾视之为下策",
       "summary": "OpenAI正让全球企业在ChatGPT上投放广告变得更简便。",
       "link": "https://cn.wsj.com/articles/openai%E5%B9%BF%E5%91%8A%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E8%BE%BE10%E4%BA%BF%E7%BE%8E%E5%85%83-%E9%98%BF%E7%89%B9%E5%B0%94%E6%9B%BC%E6%9B%BE%E8%A7%86%E4%B9%8B%E4%B8%BA%E4%B8%8B%E7%AD%96-ae530a4f",
@@ -182,18 +362,6 @@
       "snapshot": "articles/openai-e5-b9-bf-e5-91-8a-e5-b9-b4-e5-8c-96-e8-90-fcd4df0de386.html",
       "captured": true,
       "capture_title": "OpenAI广告年化营收达10亿美元，阿特尔曼曾视之为下策 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探",
-      "summary": "由商人亚历杭德罗·贝坦科尔特经营的NABEP计划在未来几年向这个拉美国家调派50多台钻机。这是一项大规模部署，旨在大幅提振该国疲弱的原油产量。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%85%A5%E8%82%A1%E7%9A%84%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%8B%9F%E5%90%AF%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%92%BB%E6%8E%A2-ce9483aa",
-      "guid": "WP-WSJS-0003857948",
-      "pub_date": "Mon, 31 Aug 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-01630777?size=1.499&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--1f2f643ea6b6.html",
-      "captured": true,
-      "capture_title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探 - WSJ",
       "error": ""
     },
     {
@@ -218,18 +386,6 @@
       "snapshot": "articles/e6-b1-bd-e8-bd-a6-e5-a4-a9-e7-aa-97--e8-87-aa-e7-709267ec8b4c.html",
       "captured": true,
       "capture_title": "汽车天窗“自爆”频发，问题越来越严重",
-      "error": ""
-    },
-    {
-      "title": "实测朝鲜智能手机：看似寻常背后的危险之处",
-      "summary": "《华尔街日报》记者Dasl Yoon实测了一部从朝鲜偷运出来的智能手机。这部手机有什么样的功能？又有何危险之处？",
-      "link": "https://cn.wsj.com/articles/%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E4%B8%8E-%E8%80%81%E5%A4%A7%E5%93%A5-%E4%B8%80%E9%83%A8%E6%9C%9D%E9%B2%9C%E8%B5%B0%E7%A7%81%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E6%95%B0%E5%AD%97%E5%9B%B4%E5%9F%8E-8f14e502",
-      "guid": "WP-WSJS-0003855642",
-      "pub_date": "Mon, 31 Aug 2026 06:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-68148221?size=1.78&width=1280",
-      "snapshot": "articles/e6-89-ab-e7-a0-81-e6-94-af-e4-bb-98-e4-b8-8e--e8-65907ee74383.html",
-      "captured": true,
-      "capture_title": "扫码支付与“老大哥”：一部朝鲜走私手机里的数字围城 - WSJ",
       "error": ""
     },
     {
@@ -290,18 +446,6 @@
       "snapshot": "articles/e7-ab-8b-e9-a1-b9-e5-8d-81-e5-85-ab-e5-b9-b4--e7-42805833fe22.html",
       "captured": true,
       "capture_title": "立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨",
-      "error": ""
-    },
-    {
-      "title": "中国精品葡萄酒热潮背后的神秘酒庄",
-      "summary": "今年前六个月中国葡萄酒出口额达到7,500万美元，是去年同期的三倍。本文探寻这场葡萄酒热潮背后的银色高地酒庄。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%B2%BE%E5%93%81%E8%91%A1%E8%90%84%E9%85%92%E7%83%AD%E6%BD%AE%E8%83%8C%E5%90%8E%E7%9A%84%E7%A5%9E%E7%A7%98%E9%85%92%E5%BA%84-c3d1a7ab",
-      "guid": "WP-WSJS-0003855432",
-      "pub_date": "Mon, 31 Aug 2026 03:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-09805019?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e7-b2-be-e5-93-81-e8-91-a1-e8--1a2f528a52b2.html",
-      "captured": true,
-      "capture_title": "中国精品葡萄酒热潮背后的神秘酒庄",
       "error": ""
     },
     {
@@ -398,18 +542,6 @@
       "snapshot": "articles/iran-war-impact-3d7fc281-7a0e74da067c.html",
       "captured": true,
       "capture_title": "伊朗战争爆发以来，世界发生了哪些变化？",
-      "error": ""
-    },
-    {
-      "title": "对伊战事急剧消耗美军弹药，引发对中俄战略威慑力的担忧",
-      "summary": "为对付伊朗，美国已从欧洲及亚太调拨大量武器至中东，军事规划者担心，这种军备消耗正在削弱美国应对中俄潜在威胁的能力。",
-      "link": "https://cn.wsj.com/articles/%E5%AF%B9%E4%BC%8A%E6%88%98%E4%BA%8B%E6%80%A5%E5%89%A7%E6%B6%88%E8%80%97%E7%BE%8E%E5%86%9B%E5%BC%B9%E8%8D%AF-%E5%BC%95%E5%8F%91%E5%AF%B9%E4%B8%AD%E4%BF%84%E6%88%98%E7%95%A5%E5%A8%81%E6%85%91%E5%8A%9B%E7%9A%84%E6%8B%85%E5%BF%A7-2890d002",
-      "guid": "WP-WSJS-0003855330",
-      "pub_date": "Mon, 31 Aug 2026 01:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-86559187?size=1.333&width=1280",
-      "snapshot": "articles/e5-af-b9-e4-bc-8a-e6-88-98-e4-ba-8b-e6-80-a5-e5--ead652306b96.html",
-      "captured": true,
-      "capture_title": "对伊战事急剧消耗美军弹药，引发对中俄战略威慑力的担忧 - WSJ",
       "error": ""
     },
     {
@@ -1070,138 +1202,6 @@
       "snapshot": "articles/anthropic-expected-to-tell-investors-it-sees-ove-15baa74029cd.html",
       "captured": true,
       "capture_title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元",
-      "error": ""
-    },
-    {
-      "title": "加拿大以关税反击美国，瞄准中期选举热点地区",
-      "summary": "多数关税税率介于15%至50%之间，涉及约200亿美元商品。这些关税瞄准的是国会选举争夺激烈的州所生产的商品。",
-      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BB%A5%E5%85%B3%E7%A8%8E%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD-%E7%9E%84%E5%87%86%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%83%AD%E7%82%B9%E5%9C%B0%E5%8C%BA-c56dace1",
-      "guid": "WP-WSJS-0003843298",
-      "pub_date": "Tue, 25 Aug 2026 23:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-84393620?size=1.456&width=1280",
-      "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e4-bb-a5-e5-85-b3-e7--97c1c49af024.html",
-      "captured": true,
-      "capture_title": "加拿大以关税反击美国，瞄准中期选举热点地区",
-      "error": ""
-    },
-    {
-      "title": "比尔·盖茨发表5784字AI警告：全球“没有应对计划”",
-      "summary": "比尔·盖茨呼吁实施监管与全球协调，以应对AI可能给就业、安全及人类福祉带来的危害。他此番表态比2023年的AI主题文章更为沉重。",
-      "link": "https://cn.wsj.com/articles/three-takeaways-from-bill-gatess-5-784-word-warning-on-ai-there-is-no-plan-f9508708",
-      "guid": "WP-WSJS-0003844050",
-      "pub_date": "Wed, 26 Aug 2026 08:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-12163448?size=1.501&width=1280",
-      "snapshot": "articles/three-takeaways-from-bill-gatess-5-784-word-warn-f75b2edd298a.html",
-      "captured": true,
-      "capture_title": "比尔·盖茨发表5784字AI警告：全球“没有应对计划” - WSJ",
-      "error": ""
-    },
-    {
-      "title": "阿里巴巴百亿增发：马云等关键人物大手笔买入",
-      "summary": "阿里巴巴定于周三完成规模100亿美元的股票增发。在发行完成前夕，公司关键内部人士宣布大手笔买入股票，向投资者释放出强烈信号。",
-      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E4%BA%BF%E5%A2%9E%E5%8F%91-%E9%A9%AC%E4%BA%91%E7%AD%89%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9%E5%A4%A7%E6%89%8B%E7%AC%94%E4%B9%B0%E5%85%A5-d0687f23",
-      "guid": "WP-WSJS-0003843563",
-      "pub_date": "Wed, 26 Aug 2026 01:17:00 GMT",
-      "image_url": "https://images.mktw.net/im-290982?size=1.43&width=1280",
-      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e7-99-be-e4--292027a775d4.html",
-      "captured": true,
-      "capture_title": "阿里巴巴百亿增发：马云等关键人物大手笔买入",
-      "error": ""
-    },
-    {
-      "title": "谷歌在最新调整中将AI责任团队调离DeepMind实验室",
-      "summary": "该责任团队的员工已在留言板讨论和会议中向管理层表达担忧，认为这次调整会削弱他们开展独立研究的能力。",
-      "link": "https://cn.wsj.com/articles/google-moves-ai-responsibility-team-out-of-deepmind-lab-in-latest-shake-up-3e4b1f26",
-      "guid": "WP-WSJS-0003846814",
-      "pub_date": "Wed, 26 Aug 2026 23:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-67456138?size=0.8&width=1280",
-      "snapshot": "articles/google-moves-ai-responsibility-team-out-of-deepm-9f9707401edc.html",
-      "captured": true,
-      "capture_title": "谷歌在最新调整中将AI责任团队调离DeepMind实验室 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "银行业曾抵制稳定币，如今正考虑自行发行",
-      "summary": "一改此前对稳定币需求的疑虑，如今无论规模大小，银行业都开始对发行自己的稳定币表现出兴趣。",
-      "link": "https://cn.wsj.com/articles/banks-fought-against-stablecoins-now-they-are-considering-launching-their-own-7ab176f1",
-      "guid": "WP-WSJS-0003846783",
-      "pub_date": "Wed, 26 Aug 2026 23:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-85454107?size=1.502&width=1280",
-      "snapshot": "articles/banks-fought-against-stablecoins-now-they-are-co-4c129a60c625.html",
-      "captured": true,
-      "capture_title": "银行业曾抵制稳定币，如今正考虑自行发行 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "专访：小鹏汽车押注机器人比造车更赚钱",
-      "summary": "小鹏汽车联席总裁顾宏地认为，机器人业务的利润率最终将反超该公司核心的电动汽车业务。",
-      "link": "https://cn.wsj.com/articles/xpeng-bets-robots-will-be-more-profitable-than-its-cars-6ffdc8df",
-      "guid": "WP-WSJS-0003843909",
-      "pub_date": "Wed, 26 Aug 2026 06:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-44826760?size=1.501&width=1280",
-      "snapshot": "articles/xpeng-bets-robots-will-be-more-profitable-than-i-a56ac9629a14.html",
-      "captured": true,
-      "capture_title": "专访：小鹏汽车押注机器人比造车更赚钱",
-      "error": ""
-    },
-    {
-      "title": "中国AI公司MiniMax收入增至近四倍，亏损收窄",
-      "summary": "稀宇科技收入大幅增长，亏损收窄，与此同时，该公司正努力缩小与领先AI模型开发商的差距。",
-      "link": "https://cn.wsj.com/articles/chineseai-firm-minimax-revenue-nearly-quadruples-91a17467",
-      "guid": "WP-WSJS-0003844318",
-      "pub_date": "Wed, 26 Aug 2026 11:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-09402040?size=1.501&width=1280",
-      "snapshot": "articles/chineseai-firm-minimax-revenue-nearly-quadruples-359593ff9bfe.html",
-      "captured": true,
-      "capture_title": "中国AI公司MiniMax收入增至近四倍，亏损收窄",
-      "error": ""
-    },
-    {
-      "title": "微软在AI业务上让投资者摸黑前行",
-      "summary": "从资本支出到旗舰云平台，微软因缺乏透明度而显得格外扎眼。",
-      "link": "https://cn.wsj.com/articles/microsoft-is-leaving-investors-flying-blind-on-its-ai-businesses-41a1a519",
-      "guid": "WP-WSJS-0003844288",
-      "pub_date": "Wed, 26 Aug 2026 11:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-47548795?size=1.501&width=1280",
-      "snapshot": "articles/microsoft-is-leaving-investors-flying-blind-on-i-53bab9dba589.html",
-      "captured": true,
-      "capture_title": "微软在AI业务上让投资者摸黑前行",
-      "error": ""
-    },
-    {
-      "title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
-      "summary": "川湖科技生产用于AI服务器机架的导轨，业务随着数据中心建设热潮蓬勃发展。该公司创始人林聪吉的财富已超过富士康的郭台铭。",
-      "link": "https://cn.wsj.com/articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-maker-003f9374",
-      "guid": "WP-WSJS-0003840959",
-      "pub_date": "Tue, 25 Aug 2026 08:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-87422413?size=1.499&width=1280",
-      "snapshot": "articles/one-of-taiwans-biggest-ai-winners-isnt-a-chip-ma-5f36afedeb04.html",
-      "captured": true,
-      "capture_title": "靠AI赚翻并缔造台湾首富，这家产业巨头竟与芯片制造无关",
-      "error": ""
-    },
-    {
-      "title": "苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易",
-      "summary": "在AI热潮与全球内存芯片短缺的双重影响下，苹果公司可能难以保证能生产出足够的机器来满足市场需求。",
-      "link": "https://cn.wsj.com/articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e1",
-      "guid": "WP-WSJS-0003843335",
-      "pub_date": "Tue, 25 Aug 2026 23:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-10523481?size=1.501&width=1280",
-      "snapshot": "articles/mac-mini-mac-studio-apple-ai-memory-chip-40f152e-6ff9bb257a6a.html",
-      "captured": true,
-      "capture_title": "苹果发布新款Mac Mini和Mac Studio，但想买到可能不容易",
-      "error": ""
-    },
-    {
-      "title": "美国试图扼杀伊朗经济，德黑兰有哪些生存之道",
-      "summary": "伊朗多年来已建立了一个由石油销售和秘密影子银行组成的复杂系统，海上油轮、中国买家与空壳公司帮助德黑兰规避制裁。",
-      "link": "https://cn.wsj.com/articles/u-s-squeezes-iran-but-avoids-targeting-its-biggest-lifeline-china-169c8c13",
-      "guid": "WP-WSJS-0003844152",
-      "pub_date": "Wed, 26 Aug 2026 09:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-66439364?size=1.501&width=1280",
-      "snapshot": "articles/u-s-squeezes-iran-but-avoids-targeting-its-bigge-606dc28168d8.html",
-      "captured": true,
-      "capture_title": "美国试图扼杀伊朗经济，德黑兰有哪些生存之道",
       "error": ""
     }
   ]
