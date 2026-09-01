@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:10:12.744023+00:00",
+  "generated_at": "2026-09-01T18:21:12.483887+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-00050687?size=1.501&width=1280",
       "snapshot": "articles/global-bond-yields-surge-as-oil-prices-fuel-infl-c5b64271ad48.html",
       "captured": true,
-      "capture_title": "油价加剧通胀担忧，全球债券收益率飙升 - WSJ",
+      "capture_title": "油价加剧通胀担忧，全球债券收益率飙升",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-19574937?size=1.38&width=1280",
       "snapshot": "articles/chinesecourt-freezes-nexperia-assets-totaling-31-50b2feab18be.html",
       "captured": true,
-      "capture_title": "中国法院冻结安世半导体价值3.18亿美元的资产 - WSJ",
+      "capture_title": "中国法院冻结安世半导体价值3.18亿美元的资产",
       "error": ""
     },
     {
