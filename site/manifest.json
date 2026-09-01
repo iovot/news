@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:40:40.660489+00:00",
+  "generated_at": "2026-09-01T14:10:12.744023+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-11546734?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e5-8d-8e-e7-9b-9b-e9-a1-bf-e7-9a-84-e8-87-b4-e5--74941a06256e.html",
       "captured": true,
-      "capture_title": "华盛顿的致命新麻烦：“基地”组织与胡塞武装的恐怖联盟 - WSJ",
+      "capture_title": "华盛顿的致命新麻烦：“基地”组织与胡塞武装的恐怖联盟",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-85496565?size=1.501&width=1280",
       "snapshot": "articles/mine-warfare-with-iran-hampers-u-s-efforts-to-wi-88dfa4d5ac87.html",
       "captured": true,
-      "capture_title": "伊朗水雷战阻碍美国控制霍尔木兹海峡努力 - WSJ",
+      "capture_title": "伊朗水雷战阻碍美国控制霍尔木兹海峡努力",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-25100675?size=1.501&width=1280",
       "snapshot": "articles/republicansare-worried-about-the-midterms-trump--0f9fb29eb8d0.html",
       "captured": true,
-      "capture_title": "共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产” - WSJ",
+      "capture_title": "共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产”",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-43977015?size=1.502&width=1280",
       "snapshot": "articles/e6-b0-91-e9-97-b4-e6-8c-87-e6-a0-87-e6-98-be-e7--fd606769680a.html",
       "captured": true,
-      "capture_title": "中国8月民间制造业指标显示行业活动改善 - WSJ",
+      "capture_title": "中国8月民间制造业指标显示行业活动改善",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-22975833?size=1.499&width=1280",
       "snapshot": "articles/seattle-and-d-c-are-bucking-the-trend-by-attract-72cf4ba49240.html",
       "captured": true,
-      "capture_title": "西雅图和华盛顿特区正逆势吸引有孩家庭 - WSJ",
+      "capture_title": "西雅图和华盛顿特区正逆势吸引有孩家庭",
       "error": ""
     },
     {
@@ -137,6 +137,18 @@
       "error": ""
     },
     {
+      "title": "从人口断崖到招生竞争：详解美国知名高校财务压力背后的挑战",
+      "summary": "即便是老牌名校，如今也感受到了切实压力。沿袭数代的高等教育商业模式正面临日益严峻的挑战。",
+      "link": "https://cn.wsj.com/articles/%E4%BB%8E%E4%BA%BA%E5%8F%A3%E6%96%AD%E5%B4%96%E5%88%B0%E6%8B%9B%E7%94%9F%E7%AB%9E%E4%BA%89-%E8%AF%A6%E8%A7%A3%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8D%E9%AB%98%E6%A0%A1%E8%B4%A2%E5%8A%A1%E5%8E%8B%E5%8A%9B%E8%83%8C%E5%90%8E%E7%9A%84%E6%8C%91%E6%88%98-ff0cd32e",
+      "guid": "WP-WSJS-0003858308",
+      "pub_date": "Tue, 01 Sep 2026 02:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-54415159?size=1.501&width=1280",
+      "snapshot": "articles/e4-bb-8e-e4-ba-ba-e5-8f-a3-e6-96-ad-e5-b4-96-e5--0411b7a84395.html",
+      "captured": true,
+      "capture_title": "从人口断崖到招生竞争：详解美国知名高校财务压力背后的挑战",
+      "error": ""
+    },
+    {
       "title": "俄罗斯影响力式微，普京再次寻求习近平支持",
       "summary": "在两位领导人将于周一会晤之际，一方正逐渐积聚影响力，而另一方则深陷旷日持久的战争之中。",
       "link": "https://cn.wsj.com/articles/putin-turns-again-to-chinas-xi-as-russias-clout-crumbles-d5f544bc",
@@ -161,18 +173,6 @@
       "error": ""
     },
     {
-      "title": "从人口断崖到招生竞争：详解美国知名高校财务压力背后的挑战",
-      "summary": "即便是老牌名校，如今也感受到了切实压力。沿袭数代的高等教育商业模式正面临日益严峻的挑战。",
-      "link": "https://cn.wsj.com/articles/%E4%BB%8E%E4%BA%BA%E5%8F%A3%E6%96%AD%E5%B4%96%E5%88%B0%E6%8B%9B%E7%94%9F%E7%AB%9E%E4%BA%89-%E8%AF%A6%E8%A7%A3%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8D%E9%AB%98%E6%A0%A1%E8%B4%A2%E5%8A%A1%E5%8E%8B%E5%8A%9B%E8%83%8C%E5%90%8E%E7%9A%84%E6%8C%91%E6%88%98-ff0cd32e",
-      "guid": "WP-WSJS-0003858308",
-      "pub_date": "Tue, 01 Sep 2026 02:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-54415159?size=1.501&width=1280",
-      "snapshot": "articles/e4-bb-8e-e4-ba-ba-e5-8f-a3-e6-96-ad-e5-b4-96-e5--0411b7a84395.html",
-      "captured": true,
-      "capture_title": "从人口断崖到招生竞争：详解美国知名高校财务压力背后的挑战 - WSJ",
-      "error": ""
-    },
-    {
       "title": "这位巴西亿万富豪如何影响了特朗普的牛肉进口计划",
       "summary": "在与巴西亿万富豪乔斯利·巴蒂斯塔会晤一天后，美国总统特朗普宣布了一项豁免牛肉进口关税的计划，此举激怒了美国农场主和牧场主。",
       "link": "https://cn.wsj.com/articles/%E8%BF%99%E4%BD%8D%E5%B7%B4%E8%A5%BF%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%89%9B%E8%82%89%E8%BF%9B%E5%8F%A3%E8%AE%A1%E5%88%92-98a69ed2",
@@ -181,7 +181,43 @@
       "image_url": "https://images.wsj.net/im-04490921?size=1.499&width=1280",
       "snapshot": "articles/e8-bf-99-e4-bd-8d-e5-b7-b4-e8-a5-bf-e4-ba-bf-e4--80ae0da31304.html",
       "captured": true,
-      "capture_title": "这位巴西亿万富豪如何影响了特朗普的牛肉进口计划 - WSJ",
+      "capture_title": "这位巴西亿万富豪如何影响了特朗普的牛肉进口计划",
+      "error": ""
+    },
+    {
+      "title": "油价加剧通胀担忧，全球债券收益率飙升",
+      "summary": "10年期日本国债收益率升破3%，触及30年高点。10年期德国国债收益率为2011年以来未见的高位。30年期英国国债收益率则升至1998年以来未见的水平。",
+      "link": "https://cn.wsj.com/articles/global-bond-yields-surge-as-oil-prices-fuel-inflation-worries-44faf1b9",
+      "guid": "WP-WSJS-0003858733",
+      "pub_date": "Tue, 01 Sep 2026 09:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-00050687?size=1.501&width=1280",
+      "snapshot": "articles/global-bond-yields-surge-as-oil-prices-fuel-infl-c5b64271ad48.html",
+      "captured": true,
+      "capture_title": "油价加剧通胀担忧，全球债券收益率飙升 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？",
+      "summary": "为了帮助苹果公司达到新的高度，约翰·特努斯必须超越蒂姆·库克在供应链管理方面的卓越成就，库克已将公司打造成为一家市值5万亿美元的巨头。",
+      "link": "https://cn.wsj.com/articles/apple-ceo-john-ternus-d22bca78",
+      "guid": "WP-WSJS-0003858086",
+      "pub_date": "Tue, 01 Sep 2026 00:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-94847914?size=1.501&width=1280",
+      "snapshot": "articles/apple-ceo-john-ternus-d22bca78-a78aecd2d13e.html",
+      "captured": true,
+      "capture_title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？",
+      "error": ""
+    },
+    {
+      "title": "中国法院冻结安世半导体价值3.18亿美元的资产",
+      "summary": "闻泰科技周一表示，在该公司及其一家子公司申请财产保全后，广东一家法院下令查封和冻结安世有限公司、安泰可有限公司名下价值人民币21.39亿元的等额财产。",
+      "link": "https://cn.wsj.com/articles/chinesecourt-freezes-nexperia-assets-totaling-318-million-ea6275cb",
+      "guid": "WP-WSJS-0003859072",
+      "pub_date": "Tue, 01 Sep 2026 12:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-19574937?size=1.38&width=1280",
+      "snapshot": "articles/chinesecourt-freezes-nexperia-assets-totaling-31-50b2feab18be.html",
+      "captured": true,
+      "capture_title": "中国法院冻结安世半导体价值3.18亿美元的资产 - WSJ",
       "error": ""
     },
     {
@@ -197,18 +233,6 @@
       "error": ""
     },
     {
-      "title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？",
-      "summary": "为了帮助苹果公司达到新的高度，约翰·特努斯必须超越蒂姆·库克在供应链管理方面的卓越成就，库克已将公司打造成为一家市值5万亿美元的巨头。",
-      "link": "https://cn.wsj.com/articles/apple-ceo-john-ternus-d22bca78",
-      "guid": "WP-WSJS-0003858086",
-      "pub_date": "Tue, 01 Sep 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-94847914?size=1.501&width=1280",
-      "snapshot": "articles/apple-ceo-john-ternus-d22bca78-a78aecd2d13e.html",
-      "captured": true,
-      "capture_title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？ - WSJ",
-      "error": ""
-    },
-    {
       "title": "前美国国会议员桑托斯收到预测平台Kalshi史上首个终身禁用令",
       "summary": "此前，一家联邦监管机构指控这位前美国国会议员通过预测平台Kalshi押注自己是否会出席总统特朗普的国情咨文演讲，获利超过1.7万美元。",
       "link": "https://cn.wsj.com/articles/ex-congressman-george-santos-receives-kalshis-first-ever-lifetime-ban-a548962b",
@@ -217,19 +241,7 @@
       "image_url": "https://images.wsj.net/im-11525088?size=1.499&width=1280",
       "snapshot": "articles/ex-congressman-george-santos-receives-kalshis-fi-d653510e9665.html",
       "captured": true,
-      "capture_title": "前美国国会议员桑托斯收到预测平台Kalshi史上首个终身禁用令 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "SEC加强审查声称能提供未上市企业投资敞口的公司",
-      "summary": "SEC加强了对所谓特殊目的实体背后公司的审查，这些实体声称能提供未上市企业投资敞口。",
-      "link": "https://cn.wsj.com/articles/sec%E5%8A%A0%E5%BC%BA%E5%AE%A1%E6%9F%A5%E5%A3%B0%E7%A7%B0%E8%83%BD%E6%8F%90%E4%BE%9B%E6%9C%AA%E4%B8%8A%E5%B8%82%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%84%E6%95%9E%E5%8F%A3%E7%9A%84%E5%85%AC%E5%8F%B8-880be3b8",
-      "guid": "WP-WSJS-0003858309",
-      "pub_date": "Tue, 01 Sep 2026 02:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-07550161?size=1.501&width=1280",
-      "snapshot": "articles/sec-e5-8a-a0-e5-bc-ba-e5-ae-a1-e6-9f-a5-e5-a3-b0-64495ea43b5b.html",
-      "captured": true,
-      "capture_title": "SEC加强审查声称能提供未上市企业投资敞口的公司 - WSJ",
+      "capture_title": "前美国国会议员桑托斯收到预测平台Kalshi史上首个终身禁用令",
       "error": ""
     },
     {
@@ -241,19 +253,7 @@
       "image_url": "https://images.mktw.net/im-32737974?size=1.5&width=1280",
       "snapshot": "articles/sam-altman-once-called-ads-a-last-resort-now-ope-fcd4df0de386.html",
       "captured": true,
-      "capture_title": "OpenAI广告年化营收达10亿美元，阿尔特曼曾视之为下策 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探",
-      "summary": "由商人亚历杭德罗·贝坦科尔特经营的NABEP计划在未来几年向这个拉美国家调派50多台钻机。这是一项大规模部署，旨在大幅提振该国疲弱的原油产量。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%85%A5%E8%82%A1%E7%9A%84%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%8B%9F%E5%90%AF%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%92%BB%E6%8E%A2-ce9483aa",
-      "guid": "WP-WSJS-0003857948",
-      "pub_date": "Mon, 31 Aug 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-01630777?size=1.499&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--1f2f643ea6b6.html",
-      "captured": true,
-      "capture_title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探",
+      "capture_title": "OpenAI广告年化营收达10亿美元，阿尔特曼曾视之为下策",
       "error": ""
     },
     {
@@ -302,6 +302,30 @@
       "snapshot": "articles/why-the-world-needs-to-force-chinas-yuan-to-reva-820567cd0fb6.html",
       "captured": true,
       "capture_title": "世界为何须迫使人民币升值",
+      "error": ""
+    },
+    {
+      "title": "SEC加强审查声称能提供未上市企业投资敞口的公司",
+      "summary": "SEC加强了对所谓特殊目的实体背后公司的审查，这些实体声称能提供未上市企业投资敞口。",
+      "link": "https://cn.wsj.com/articles/sec%E5%8A%A0%E5%BC%BA%E5%AE%A1%E6%9F%A5%E5%A3%B0%E7%A7%B0%E8%83%BD%E6%8F%90%E4%BE%9B%E6%9C%AA%E4%B8%8A%E5%B8%82%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%84%E6%95%9E%E5%8F%A3%E7%9A%84%E5%85%AC%E5%8F%B8-880be3b8",
+      "guid": "WP-WSJS-0003858309",
+      "pub_date": "Tue, 01 Sep 2026 02:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-07550161?size=1.501&width=1280",
+      "snapshot": "articles/sec-e5-8a-a0-e5-bc-ba-e5-ae-a1-e6-9f-a5-e5-a3-b0-64495ea43b5b.html",
+      "captured": true,
+      "capture_title": "SEC加强审查声称能提供未上市企业投资敞口的公司 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探",
+      "summary": "由商人亚历杭德罗·贝坦科尔特经营的NABEP计划在未来几年向这个拉美国家调派50多台钻机。这是一项大规模部署，旨在大幅提振该国疲弱的原油产量。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%85%A5%E8%82%A1%E7%9A%84%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%8B%9F%E5%90%AF%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%92%BB%E6%8E%A2-ce9483aa",
+      "guid": "WP-WSJS-0003857948",
+      "pub_date": "Mon, 31 Aug 2026 23:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-01630777?size=1.499&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--1f2f643ea6b6.html",
+      "captured": true,
+      "capture_title": "特朗普政府入股的委内瑞拉石油公司拟启动大规模钻探",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/see-how-china-weathered-the-iran-oil-shock-32b55-87d3bae0fee9.html",
       "captured": true,
       "capture_title": "中国如何经受住伊朗战争带来的石油冲击",
-      "error": ""
-    },
-    {
-      "title": "CIA局长突访莫斯科旨在警告俄罗斯不要攻击北约",
-      "summary": "此前美国的情报评估显示，普京可能在未来几年内，通过对一个盟国发动有限攻击，来试探北约的决心。",
-      "link": "https://cn.wsj.com/articles/cia%E5%B1%80%E9%95%BF%E7%AA%81%E8%AE%BF%E8%8E%AB%E6%96%AF%E7%A7%91%E6%97%A8%E5%9C%A8%E8%AD%A6%E5%91%8A%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E8%A6%81%E6%94%BB%E5%87%BB%E5%8C%97%E7%BA%A6-413809ac",
-      "guid": "WP-WSJS-0003846919",
-      "pub_date": "Wed, 26 Aug 2026 23:57:00 GMT",
-      "image_url": "https://images.wsj.net/im-03555050?size=1.5&width=1280",
-      "snapshot": "articles/cia-e5-b1-80-e9-95-bf-e7-aa-81-e8-ae-bf-e8-8e-ab-e8b021d757a9.html",
-      "captured": true,
-      "capture_title": "CIA局长突访莫斯科旨在警告俄罗斯不要攻击北约 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元",
-      "summary": "Anthropic可能会告诉投资者，其潜在收入机会超过30万亿美元，高于SpaceX估算的28.5万亿美元。",
-      "link": "https://cn.wsj.com/articles/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-d4e50391",
-      "guid": "WP-WSJS-0003843363",
-      "pub_date": "Tue, 25 Aug 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-84285152?size=1.501&width=1280",
-      "snapshot": "articles/anthropic-expected-to-tell-investors-it-sees-ove-15baa74029cd.html",
-      "captured": true,
-      "capture_title": "Anthropic料将告知投资者其潜在收入将超过30万亿美元",
       "error": ""
     }
   ]
