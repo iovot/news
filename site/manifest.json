@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:01:23.449835+00:00",
+  "generated_at": "2026-09-03T16:10:37.135669+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-22406195?size=1.5&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-86-9b-e8-88-b0-e5-87-ba-e6--78cdf6361c73.html",
       "captured": true,
-      "capture_title": "中国军舰出没日本沿岸，距离过近引发不安 - WSJ",
+      "capture_title": "中国军舰出没日本沿岸，距离过近引发不安",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-87526759?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae--e6-8e-a0-e5-8f-96--e-776d657993ad.html",
       "captured": true,
-      "capture_title": "特朗普“掠取”委内瑞拉石油，为何难解高油价燃眉之急 - WSJ",
+      "capture_title": "特朗普“掠取”委内瑞拉石油，为何难解高油价燃眉之急",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-73357287?size=1.501&width=1280",
       "snapshot": "articles/how-anna-wintours-quest-to-salvage-john-galliano-e3890e010c10.html",
       "captured": true,
-      "capture_title": "安娜·温图尔挽救加利亚诺时尚荣光的努力如何落空 - WSJ",
+      "capture_title": "安娜·温图尔挽救加利亚诺时尚荣光的努力如何落空",
       "error": ""
     },
     {
@@ -173,15 +173,15 @@
       "error": ""
     },
     {
-      "title": "桑德斯、科尔特斯和班农的罕见共识：抵制数据中心",
-      "summary": "不同寻常的政治盟友正对AI扩张的风险发出警告，这一议题正同时牵动着美国左翼和右翼的神经。",
-      "link": "https://cn.wsj.com/articles/%E6%A1%91%E5%BE%B7%E6%96%AF-%E7%A7%91%E5%B0%94%E7%89%B9%E6%96%AF%E5%92%8C%E7%8F%AD%E5%86%9C%E7%9A%84%E7%BD%95%E8%A7%81%E5%85%B1%E8%AF%86-%E6%8A%B5%E5%88%B6%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-1d5ebc92",
-      "guid": "WP-WSJS-0003865268",
-      "pub_date": "Thu, 03 Sep 2026 03:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-65781957?size=1.499&width=1280",
-      "snapshot": "articles/e6-a1-91-e5-be-b7-e6-96-af--e7-a7-91-e5-b0-94-e7-b07b30cb04e3.html",
+      "title": "月之暗面已秘密提交香港IPO申请",
+      "summary": "中国AI初创公司月之暗面在最新一轮私募融资中的估值为500亿美元，这宗上市交易可能成为近年来香港规模最大的IPO之一。",
+      "link": "https://cn.wsj.com/articles/chinas-moonshot-ai-confidentially-filed-hong-kong-ipo-15a94e66",
+      "guid": "WP-WSJS-0003865787",
+      "pub_date": "Thu, 03 Sep 2026 12:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-15172924?size=1.501&width=1280",
+      "snapshot": "articles/chinas-moonshot-ai-confidentially-filed-hong-kon-334b78344efb.html",
       "captured": true,
-      "capture_title": "桑德斯、科尔特斯和班农的罕见共识：抵制数据中心 - WSJ",
+      "capture_title": "月之暗面已秘密提交香港IPO申请 - WSJ",
       "error": ""
     },
     {
@@ -194,6 +194,18 @@
       "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b-e6-83-b3-e8-87-aa-e8--7efd0cf9c5bb.html",
       "captured": true,
       "capture_title": "马斯克想自行制造发电机组零部件，但这绝非易事",
+      "error": ""
+    },
+    {
+      "title": "桑德斯、科尔特斯和班农的罕见共识：抵制数据中心",
+      "summary": "不同寻常的政治盟友正对AI扩张的风险发出警告，这一议题正同时牵动着美国左翼和右翼的神经。",
+      "link": "https://cn.wsj.com/articles/%E6%A1%91%E5%BE%B7%E6%96%AF-%E7%A7%91%E5%B0%94%E7%89%B9%E6%96%AF%E5%92%8C%E7%8F%AD%E5%86%9C%E7%9A%84%E7%BD%95%E8%A7%81%E5%85%B1%E8%AF%86-%E6%8A%B5%E5%88%B6%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-1d5ebc92",
+      "guid": "WP-WSJS-0003865268",
+      "pub_date": "Thu, 03 Sep 2026 03:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-65781957?size=1.499&width=1280",
+      "snapshot": "articles/e6-a1-91-e5-be-b7-e6-96-af--e7-a7-91-e5-b0-94-e7-b07b30cb04e3.html",
+      "captured": true,
+      "capture_title": "桑德斯、科尔特斯和班农的罕见共识：抵制数据中心",
       "error": ""
     },
     {
@@ -229,19 +241,7 @@
       "image_url": "https://images.wsj.net/im-82474768?size=1.501&width=1280",
       "snapshot": "articles/the-hunt-for-ai-proof-assets-is-leading-investor-d24118b790e9.html",
       "captured": true,
-      "capture_title": "“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国政府支持OpenAI，介入新闻出版商版权大战",
-      "summary": "特朗普政府官员表示，若限制AI公司利用内容进行模型训练，恐将危及国家安全。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81openai-%E4%BB%8B%E5%85%A5%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E5%95%86%E7%89%88%E6%9D%83%E5%A4%A7%E6%88%98-3631b3c7",
-      "guid": "WP-WSJS-0003865005",
-      "pub_date": "Thu, 03 Sep 2026 00:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-09665204?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-94-bf-e5-ba-9c-e6-94-af-e6--1bb16ac01e3f.html",
-      "captured": true,
-      "capture_title": "美国政府支持OpenAI，介入新闻出版商版权大战",
+      "capture_title": "“抗AI”资产有哪些？投资人目光投向体育、赌场和旅游业",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/could-you-beat-a-high-schooler-on-the-new-ap-per-c91988cfe7f0.html",
       "captured": true,
       "capture_title": "你的财商有多高？来跟美国高中生比一比",
+      "error": ""
+    },
+    {
+      "title": "美国政府支持OpenAI，介入新闻出版商版权大战",
+      "summary": "特朗普政府官员表示，若限制AI公司利用内容进行模型训练，恐将危及国家安全。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81openai-%E4%BB%8B%E5%85%A5%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E5%95%86%E7%89%88%E6%9D%83%E5%A4%A7%E6%88%98-3631b3c7",
+      "guid": "WP-WSJS-0003865005",
+      "pub_date": "Thu, 03 Sep 2026 00:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-09665204?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-94-bf-e5-ba-9c-e6-94-af-e6--1bb16ac01e3f.html",
+      "captured": true,
+      "capture_title": "美国政府支持OpenAI，介入新闻出版商版权大战",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/iceland-weighs-security-versus-sovereignty-in-vo-9de331b2a5bf.html",
       "captured": true,
       "capture_title": "冰岛就加入欧盟谈判举行投票，在安全与主权间权衡",
-      "error": ""
-    },
-    {
-      "title": "台湾拟斥资逾70亿美元扶持无人机制造商以抗衡中国",
-      "summary": "台湾立法院周四批准了一项逾70亿美元的无人机支出计划。这笔资金将在未来六年内投入使用，旨在威慑中国可能发动的攻击，并打造一条本土供应链。",
-      "link": "https://cn.wsj.com/articles/taiwan-prepares-a-7-billion-boost-to-drone-builders-to-counter-china-f6a70019",
-      "guid": "WP-WSJS-0003850963",
-      "pub_date": "Fri, 28 Aug 2026 04:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-48228633?size=1.499&width=1280",
-      "snapshot": "articles/taiwan-prepares-a-7-billion-boost-to-drone-build-e2c488c892ee.html",
-      "captured": true,
-      "capture_title": "台湾拟斥资逾70亿美元扶持无人机制造商以抗衡中国",
       "error": ""
     }
   ]

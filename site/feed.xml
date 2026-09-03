@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 10:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 16:07:08 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 10:56:06 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 16:07:08 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -126,11 +126,11 @@
             <pubDate>Wed, 02 Sep 2026 01:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[桑德斯、科尔特斯和班农的罕见共识：抵制数据中心]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-65781957?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>不同寻常的政治盟友正对AI扩张的风险发出警告，这一议题正同时牵动着美国左翼和右翼的神经。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%A1%91%E5%BE%B7%E6%96%AF-%E7%A7%91%E5%B0%94%E7%89%B9%E6%96%AF%E5%92%8C%E7%8F%AD%E5%86%9C%E7%9A%84%E7%BD%95%E8%A7%81%E5%85%B1%E8%AF%86-%E6%8A%B5%E5%88%B6%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-1d5ebc92</link>
-            <guid isPermaLink="false">WP-WSJS-0003865268</guid>
-            <pubDate>Thu, 03 Sep 2026 03:44:00 GMT</pubDate>
+            <title><![CDATA[月之暗面已秘密提交香港IPO申请]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15172924?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国AI初创公司月之暗面在最新一轮私募融资中的估值为500亿美元，这宗上市交易可能成为近年来香港规模最大的IPO之一。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinas-moonshot-ai-confidentially-filed-hong-kong-ipo-15a94e66</link>
+            <guid isPermaLink="false">WP-WSJS-0003865787</guid>
+            <pubDate>Thu, 03 Sep 2026 12:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[马斯克想自行制造发电机组零部件，但这绝非易事]]></title>
@@ -138,6 +138,13 @@
             <link>https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%83%B3%E8%87%AA%E8%A1%8C%E5%88%B6%E9%80%A0%E5%8F%91%E7%94%B5%E6%9C%BA%E7%BB%84%E9%9B%B6%E9%83%A8%E4%BB%B6-%E4%BD%86%E8%BF%99%E7%BB%9D%E9%9D%9E%E6%98%93%E4%BA%8B-af38e27d</link>
             <guid isPermaLink="false">WP-WSJS-0003865006</guid>
             <pubDate>Thu, 03 Sep 2026 00:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[桑德斯、科尔特斯和班农的罕见共识：抵制数据中心]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-65781957?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>不同寻常的政治盟友正对AI扩张的风险发出警告，这一议题正同时牵动着美国左翼和右翼的神经。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%A1%91%E5%BE%B7%E6%96%AF-%E7%A7%91%E5%B0%94%E7%89%B9%E6%96%AF%E5%92%8C%E7%8F%AD%E5%86%9C%E7%9A%84%E7%BD%95%E8%A7%81%E5%85%B1%E8%AF%86-%E6%8A%B5%E5%88%B6%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-1d5ebc92</link>
+            <guid isPermaLink="false">WP-WSJS-0003865268</guid>
+            <pubDate>Thu, 03 Sep 2026 03:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[谷歌统治市场的广告业务免遭拆分]]></title>
@@ -159,13 +166,6 @@
             <link>https://cn.wsj.com/articles/the-hunt-for-ai-proof-assets-is-leading-investors-to-sports-casinos-and-travel-2d6c3cdf</link>
             <guid isPermaLink="false">WP-WSJS-0003865315</guid>
             <pubDate>Thu, 03 Sep 2026 04:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国政府支持OpenAI，介入新闻出版商版权大战]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-09665204?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普政府官员表示，若限制AI公司利用内容进行模型训练，恐将危及国家安全。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81openai-%E4%BB%8B%E5%85%A5%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E5%95%86%E7%89%88%E6%9D%83%E5%A4%A7%E6%88%98-3631b3c7</link>
-            <guid isPermaLink="false">WP-WSJS-0003865005</guid>
-            <pubDate>Thu, 03 Sep 2026 00:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[数读约翰·特努斯接手的苹果帝国]]></title>
