@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:55:45.919834+00:00",
+  "generated_at": "2026-09-04T11:00:35.823980+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-97885906?size=1.501&width=1280",
       "snapshot": "articles/e7-94-b5-e5-8a-a8-e6-b1-bd-e8-bd-a6-e5-8a-a9-e5--bf9b09403f2e.html",
       "captured": true,
-      "capture_title": "电动汽车助力中国破解霍尔木兹困局——而这仅仅是个开始 - WSJ",
+      "capture_title": "电动汽车助力中国破解霍尔木兹困局——而这仅仅是个开始",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-62556688?size=1.501&width=1280",
       "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e6-8b-92-e7-bb-9d-e6--1351278a39ec.html",
       "captured": true,
-      "capture_title": "加拿大拒绝成为下一个委内瑞拉 - WSJ",
+      "capture_title": "加拿大拒绝成为下一个委内瑞拉",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.mktw.net/im-06729967?size=1.45&width=1280",
       "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e6-8a-bc-e6-b3-a8-e5--6ae9e96fa7fa.html",
       "captured": true,
-      "capture_title": "华尔街押注凯文·沃什能避免狂躁债市崩盘 - WSJ",
+      "capture_title": "华尔街押注凯文·沃什能避免狂躁债市崩盘",
       "error": ""
     },
     {
@@ -49,31 +49,19 @@
       "image_url": "https://images.wsj.net/im-65621522?size=1.499&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-96-b2-e5-8a-b3-e7--5c81547e8edb.html",
       "captured": true,
-      "capture_title": "“特朗普疲劳症”开始令共和党人感到不安 - WSJ",
+      "capture_title": "“特朗普疲劳症”开始令共和党人感到不安",
       "error": ""
     },
     {
-      "title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
-      "summary": "荷兰央行将78吨黄金从纽约曼哈顿街下的金库转移到了伦敦。这批黄金按当前价格计算价值110亿美元。该行表示，此举将提升其在紧急情况下交易黄金的能力。",
-      "link": "https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1%E4%B8%BA%E7%94%B1-%E5%B0%86%E9%BB%84%E9%87%91%E4%BB%8E%E7%BA%BD%E7%BA%A6%E8%BD%AC%E7%A7%BB%E8%87%B3%E4%BC%A6%E6%95%A6-a65c0f81",
-      "guid": "WP-WSJS-0003867770",
-      "pub_date": "Thu, 03 Sep 2026 23:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-36449864?size=1.501&width=1280",
-      "snapshot": "articles/e8-8d-b7-e5-85-b0-e4-bb-a5-e5-9c-b0-e7-bc-98-e6--5ed6338ee8f4.html",
+      "title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路",
+      "summary": "这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。",
+      "link": "https://cn.wsj.com/articles/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-635c8af2",
+      "guid": "WP-WSJS-0003868194",
+      "pub_date": "Fri, 04 Sep 2026 05:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-30599127?size=1.502&width=1280",
+      "snapshot": "articles/the-deeply-nerdy-founders-behind-nvidias-13-bill-88b8257ab6da.html",
       "captured": true,
-      "capture_title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "英伟达同意以130亿美元收购AI平台Hugging Face",
-      "summary": "此项交易加速了英伟达推广“开放权重AI模型”的步伐，对OpenAI和Anthropic构成了竞争威胁。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%90%8C%E6%84%8F%E4%BB%A5130%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%ADai%E5%B9%B3%E5%8F%B0hugging-face-20e1c154",
-      "guid": "WP-WSJS-0003867667",
-      "pub_date": "Thu, 03 Sep 2026 23:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-88194946?size=1.499&width=1280",
-      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-90-8c-e6-84-8f-e4--09c46318f1fd.html",
-      "captured": true,
-      "capture_title": "英伟达同意以130亿美元收购AI平台Hugging Face - WSJ",
+      "capture_title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路 - WSJ",
       "error": ""
     },
     {
@@ -89,6 +77,18 @@
       "error": ""
     },
     {
+      "title": "中尼边境洪灾考验中国作为地区领导者的影响力",
+      "summary": "中国与发展中国家交情日深，外界对北京的期待也随之水涨船高。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%B0%BC%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E8%80%83%E9%AA%8C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E4%B8%BA%E5%9C%B0%E5%8C%BA%E9%A2%86%E5%AF%BC%E8%80%85%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B-24b105d3",
+      "guid": "WP-WSJS-0003864798",
+      "pub_date": "Wed, 02 Sep 2026 23:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-99193795?size=1.499&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-b0-bc-e8-be-b9-e5-a2-83-e6-b4-aa-e7--6ff2dbc58388.html",
+      "captured": true,
+      "capture_title": "中尼边境洪灾考验中国作为地区领导者的影响力",
+      "error": ""
+    },
+    {
       "title": "中国军舰出没日本沿岸，距离过近引发不安",
       "summary": "“这无疑是一种挑衅”——日本正面临二战以来最严峻的安保环境。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%87%BA%E6%B2%A1%E6%97%A5%E6%9C%AC%E6%B2%BF%E5%B2%B8-%E8%B7%9D%E7%A6%BB%E8%BF%87%E8%BF%91%E5%BC%95%E5%8F%91%E4%B8%8D%E5%AE%89-1c9cd6a5",
@@ -98,6 +98,30 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-86-9b-e8-88-b0-e5-87-ba-e6--78cdf6361c73.html",
       "captured": true,
       "capture_title": "中国军舰出没日本沿岸，距离过近引发不安",
+      "error": ""
+    },
+    {
+      "title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域",
+      "summary": "随着乌克兰无人机战升级，航空公司正面临重新评估飞往俄罗斯的安全风险的压力。",
+      "link": "https://cn.wsj.com/articles/ukrainesnext-goal-is-to-shut-down-russias-commercial-airspace-30caef19",
+      "guid": "WP-WSJS-0003868217",
+      "pub_date": "Fri, 04 Sep 2026 05:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-46930230?size=1.515&width=1280",
+      "snapshot": "articles/ukrainesnext-goal-is-to-shut-down-russias-commer-45e0a1114b5a.html",
+      "captured": true,
+      "capture_title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "大众汽车监事会意外批准裁员10万人计划",
+      "summary": "监事会意外通过了首席执行官奥博穆提出的激进重组方案。该汽车制造商将大幅削减旗下车型品类，其欧洲工厂前途未卜。",
+      "link": "https://cn.wsj.com/articles/volkswagenboard-approves-doubling-job-cuts-to-100-000-in-surprise-move-1738d627",
+      "guid": "WP-WSJS-0003868372",
+      "pub_date": "Fri, 04 Sep 2026 08:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-59216030?size=1.511&width=1280",
+      "snapshot": "articles/volkswagenboard-approves-doubling-job-cuts-to-10-36ec5116e172.html",
+      "captured": true,
+      "capture_title": "大众汽车监事会意外批准裁员10万人计划 - WSJ",
       "error": ""
     },
     {
@@ -121,31 +145,7 @@
       "image_url": "https://images.wsj.net/im-67922443?size=1.501&width=1280",
       "snapshot": "articles/hundreds-of-colleges-are-sending-acceptance-lett-7b78e20b3920.html",
       "captured": true,
-      "capture_title": "美国数百所高校现在不用提交申请就“直接录取” - WSJ",
-      "error": ""
-    },
-    {
-      "title": "阿根廷总统米莱重提马岛主权，以挽救下滑的支持率",
-      "summary": "特朗普暗示，美国可能会重新评估支持英国对该群岛主权主张的政策。米莱随即安排发表全国讲话，专门探讨这个被他称为“神圣话题”的议题。",
-      "link": "https://cn.wsj.com/articles/%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E7%B1%B3%E8%8E%B1%E9%87%8D%E6%8F%90%E9%A9%AC%E5%B2%9B%E4%B8%BB%E6%9D%83-%E4%BB%A5%E6%8C%BD%E6%95%91%E4%B8%8B%E6%BB%91%E7%9A%84%E6%94%AF%E6%8C%81%E7%8E%87-7b6269a9",
-      "guid": "WP-WSJS-0003868063",
-      "pub_date": "Fri, 04 Sep 2026 02:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-51350147?size=1.501&width=1280",
-      "snapshot": "articles/e9-98-bf-e6-a0-b9-e5-bb-b7-e6-80-bb-e7-bb-9f-e7--24b06e067ad9.html",
-      "captured": true,
-      "capture_title": "阿根廷总统米莱重提马岛主权，以挽救下滑的支持率 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中尼边境洪灾考验中国作为地区领导者的影响力",
-      "summary": "中国与发展中国家交情日深，外界对北京的期待也随之水涨船高。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%B0%BC%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E8%80%83%E9%AA%8C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E4%B8%BA%E5%9C%B0%E5%8C%BA%E9%A2%86%E5%AF%BC%E8%80%85%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B-24b105d3",
-      "guid": "WP-WSJS-0003864798",
-      "pub_date": "Wed, 02 Sep 2026 23:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-99193795?size=1.499&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-b0-bc-e8-be-b9-e5-a2-83-e6-b4-aa-e7--6ff2dbc58388.html",
-      "captured": true,
-      "capture_title": "中尼边境洪灾考验中国作为地区领导者的影响力",
+      "capture_title": "美国数百所高校现在不用提交申请就“直接录取”",
       "error": ""
     },
     {
@@ -157,19 +157,19 @@
       "image_url": "https://images.wsj.net/im-13513311?size=1.5053763440860215&width=1280",
       "snapshot": "articles/robots-failing-world-humanoid-games-c6756fbd-6cf48b2a24d9.html",
       "captured": true,
-      "capture_title": "眼下最让人类开心的事：看机器人出糗 - WSJ",
+      "capture_title": "眼下最让人类开心的事：看机器人出糗",
       "error": ""
     },
     {
-      "title": "想要分散偏重美股的投资组合？别被基金名称骗了",
-      "summary": "若不知如何辨别，你购买的海外ETF可能会高度集中持有一众美国股票。",
-      "link": "https://cn.wsj.com/articles/%E6%83%B3%E8%A6%81%E5%88%86%E6%95%A3%E5%81%8F%E9%87%8D%E7%BE%8E%E8%82%A1%E7%9A%84%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88-%E5%88%AB%E8%A2%AB%E5%9F%BA%E9%87%91%E5%90%8D%E7%A7%B0%E9%AA%97%E4%BA%86-26a086a3",
-      "guid": "WP-WSJS-0003867932",
-      "pub_date": "Fri, 04 Sep 2026 01:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-90580410?size=1.501&width=1280",
-      "snapshot": "articles/e6-83-b3-e8-a6-81-e5-88-86-e6-95-a3-e5-81-8f-e9--86c74fcfba0f.html",
+      "title": "图解为数据中心热潮提速的新建造技术",
+      "summary": "超大规模云计算服务商对速度的追求正催生出各种省时的产品与建造工艺。",
+      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%83%AD%E6%BD%AE%E6%8F%90%E9%80%9F%E7%9A%84%E6%96%B0%E5%BB%BA%E9%80%A0%E6%8A%80%E6%9C%AF-4dbd1b5c",
+      "guid": "WP-WSJS-0003868247",
+      "pub_date": "Fri, 04 Sep 2026 05:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-03049151?size=1.5&width=1280",
+      "snapshot": "articles/e5-9b-be-e8-a7-a3-e4-b8-ba-e6-95-b0-e6-8d-ae-e4--33443ab359c9.html",
       "captured": true,
-      "capture_title": "想要分散偏重美股的投资组合？别被基金名称骗了 - WSJ",
+      "capture_title": "图解为数据中心热潮提速的新建造技术 - WSJ",
       "error": ""
     },
     {
@@ -185,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
+      "summary": "荷兰央行将78吨黄金从纽约曼哈顿街下的金库转移到了伦敦。这批黄金按当前价格计算价值110亿美元。该行表示，此举将提升其在紧急情况下交易黄金的能力。",
+      "link": "https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1%E4%B8%BA%E7%94%B1-%E5%B0%86%E9%BB%84%E9%87%91%E4%BB%8E%E7%BA%BD%E7%BA%A6%E8%BD%AC%E7%A7%BB%E8%87%B3%E4%BC%A6%E6%95%A6-a65c0f81",
+      "guid": "WP-WSJS-0003867770",
+      "pub_date": "Thu, 03 Sep 2026 23:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-36449864?size=1.501&width=1280",
+      "snapshot": "articles/e8-8d-b7-e5-85-b0-e4-bb-a5-e5-9c-b0-e7-bc-98-e6--5ed6338ee8f4.html",
+      "captured": true,
+      "capture_title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
+      "error": ""
+    },
+    {
       "title": "特斯拉自动驾驶出租车Cybercab上路",
       "summary": "特斯拉扩展自动驾驶出租车服务至得州奥斯汀。这也是外界首次公开检验该公司能否兑现其承诺——从传统电动汽车转型为完全自动驾驶汽车。",
       "link": "https://cn.wsj.com/articles/tesla-cybercabs-hit-austin-streets-in-expansion-of-robotaxi-service-f0c2a7b6",
@@ -193,19 +205,7 @@
       "image_url": "https://images.wsj.net/im-98175978?size=1.499&width=1280",
       "snapshot": "articles/tesla-cybercabs-hit-austin-streets-in-expansion--4c83729bc301.html",
       "captured": true,
-      "capture_title": "特斯拉自动驾驶出租车Cybercab上路 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "好莱坞新剧集将矛头对准大型科技公司",
-      "summary": "《丘珀蒂诺》和《大胆》等剧集反映了人们对硅谷巨头及其掌舵人的态度转变。",
-      "link": "https://cn.wsj.com/articles/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%96%B0%E5%89%A7%E9%9B%86%E5%B0%86%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8-9f1ccc56",
-      "guid": "WP-WSJS-0003868030",
-      "pub_date": "Fri, 04 Sep 2026 02:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-79571220?size=1.501&width=1280",
-      "snapshot": "articles/e5-a5-bd-e8-8e-b1-e5-9d-9e-e6-96-b0-e5-89-a7-e9--264332ebb75c.html",
-      "captured": true,
-      "capture_title": "好莱坞新剧集将矛头对准大型科技公司 - WSJ",
+      "capture_title": "特斯拉自动驾驶出租车Cybercab上路",
       "error": ""
     },
     {
@@ -217,7 +217,19 @@
       "image_url": "https://images.wsj.net/im-775308?size=1.502&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-bc-81-e4-b8-9a-e6-ad-a3-e8--a66f59ac6067.html",
       "captured": true,
-      "capture_title": "美国企业正裁撤“微型团队”主管 - WSJ",
+      "capture_title": "美国企业正裁撤“微型团队”主管",
+      "error": ""
+    },
+    {
+      "title": "好莱坞新剧集将矛头对准大型科技公司",
+      "summary": "《丘珀蒂诺》和《大胆》等剧集反映了人们对硅谷巨头及其掌舵人的态度转变。",
+      "link": "https://cn.wsj.com/articles/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%96%B0%E5%89%A7%E9%9B%86%E5%B0%86%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8-9f1ccc56",
+      "guid": "WP-WSJS-0003868030",
+      "pub_date": "Fri, 04 Sep 2026 02:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-79571220?size=1.501&width=1280",
+      "snapshot": "articles/e5-a5-bd-e8-8e-b1-e5-9d-9e-e6-96-b0-e5-89-a7-e9--264332ebb75c.html",
+      "captured": true,
+      "capture_title": "好莱坞新剧集将矛头对准大型科技公司",
       "error": ""
     },
     {
@@ -229,31 +241,31 @@
       "image_url": "https://images.wsj.net/im-97674986?size=1.499&width=1280",
       "snapshot": "articles/e5-8f-97-e8-af-95-e8-80-85-e6-ad-bb-e4-ba-a1-e5--3f5bb4e17643.html",
       "captured": true,
-      "capture_title": "受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验 - WSJ",
+      "capture_title": "受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验",
       "error": ""
     },
     {
-      "title": "马斯克的隧道公司Boring Co.告诉投资人：想投资，就得帮忙",
-      "summary": "知情人士透露，该公司已告知参与最新一轮融资的部分投资人，他们必须帮助为Boring招募员工，或协助进行业务拓展。",
-      "link": "https://cn.wsj.com/articles/musks-boring-co-pushes-investors-for-recruiting-business-help-6391d4b7",
-      "guid": "WP-WSJS-0003867913",
-      "pub_date": "Fri, 04 Sep 2026 00:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-36155498?size=1.501&width=1280",
-      "snapshot": "articles/musks-boring-co-pushes-investors-for-recruiting--dd6b766d2239.html",
+      "title": "巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年”",
+      "summary": "随着伊朗战争的结束遥遥无期，阿联酋领导人们已放弃对经济反弹的希望。",
+      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E6%9E%97%E5%A4%A7%E5%A5%96%E8%B5%9B%E7%A7%BB%E5%B8%88%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E6%88%98%E7%81%AB%E8%AE%A9%E6%B5%B7%E6%B9%BE%E5%AF%8C%E5%9B%BD%E9%81%AD%E9%81%87-%E5%A4%B1%E8%90%BD%E4%B9%8B%E5%B9%B4-38fc9593",
+      "guid": "WP-WSJS-0003868146",
+      "pub_date": "Fri, 04 Sep 2026 03:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-59761841?size=1.499&width=1280",
+      "snapshot": "articles/e5-b7-b4-e6-9e-97-e5-a4-a7-e5-a5-96-e8-b5-9b-e7--0b91e83baed2.html",
       "captured": true,
-      "capture_title": "马斯克的隧道公司Boring Co.告诉投资人：想投资，就得帮忙 - WSJ",
+      "capture_title": "巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年” - WSJ",
       "error": ""
     },
     {
-      "title": "联合国称厄尔尼诺高峰未至，料将带来异常高温和农作物减产",
-      "summary": "今年的厄尔尼诺现象有望成为至少70年来最强的一次，这进一步加大了全球农产品市场出现大范围干扰的风险。",
-      "link": "https://cn.wsj.com/articles/%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E9%AB%98%E5%B3%B0%E6%9C%AA%E8%87%B3-%E6%96%99%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%BC%82%E5%B8%B8%E9%AB%98%E6%B8%A9%E5%92%8C%E5%86%9C%E4%BD%9C%E7%89%A9%E5%87%8F%E4%BA%A7-fd1ba8cd",
-      "guid": "WP-WSJS-0003867745",
-      "pub_date": "Thu, 03 Sep 2026 23:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-60927840?size=1.501&width=1280",
-      "snapshot": "articles/e8-81-94-e5-90-88-e5-9b-bd-e7-a7-b0-e5-8e-84-e5--c18acc4730fc.html",
+      "title": "阿根廷总统米莱重提马岛主权，以挽救下滑的支持率",
+      "summary": "特朗普暗示，美国可能会重新评估支持英国对该群岛主权主张的政策。米莱随即安排发表全国讲话，专门探讨这个被他称为“神圣话题”的议题。",
+      "link": "https://cn.wsj.com/articles/%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E7%B1%B3%E8%8E%B1%E9%87%8D%E6%8F%90%E9%A9%AC%E5%B2%9B%E4%B8%BB%E6%9D%83-%E4%BB%A5%E6%8C%BD%E6%95%91%E4%B8%8B%E6%BB%91%E7%9A%84%E6%94%AF%E6%8C%81%E7%8E%87-7b6269a9",
+      "guid": "WP-WSJS-0003868063",
+      "pub_date": "Fri, 04 Sep 2026 02:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-51350147?size=1.501&width=1280",
+      "snapshot": "articles/e9-98-bf-e6-a0-b9-e5-bb-b7-e6-80-bb-e7-bb-9f-e7--24b06e067ad9.html",
       "captured": true,
-      "capture_title": "联合国称厄尔尼诺高峰未至，料将带来异常高温和农作物减产 - WSJ",
+      "capture_title": "阿根廷总统米莱重提马岛主权，以挽救下滑的支持率",
       "error": ""
     },
     {
@@ -281,18 +293,6 @@
       "error": ""
     },
     {
-      "title": "大众汽车存亡之战：对外迎击中国竞争，对内博弈公司监事",
-      "summary": "大众汽车CEO奥博穆意图让公司“瘦身”并淡化其德国色彩，此举引发工会与政界的强烈抗议；“底特律化”正成为新热词。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E5%AD%98%E4%BA%A1%E4%B9%8B%E6%88%98-%E5%AF%B9%E5%A4%96%E8%BF%8E%E5%87%BB%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89-%E5%AF%B9%E5%86%85%E5%8D%9A%E5%BC%88%E5%85%AC%E5%8F%B8%E7%9B%91%E4%BA%8B-c1139ade",
-      "guid": "WP-WSJS-0003862210",
-      "pub_date": "Wed, 02 Sep 2026 08:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-24179162?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-a7-e4-bc-97-e6-b1-bd-e8-bd-a6-e5-ad-98-e4--dc1a2988a2b1.html",
-      "captured": true,
-      "capture_title": "大众汽车存亡之战：对外迎击中国竞争，对内博弈公司监事",
-      "error": ""
-    },
-    {
       "title": "海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽",
       "summary": "水清沙白的度假胜地马尔代夫已然成为一条关键暗道，源源不断地将价值数亿美元的西方物资输送到莫斯科。",
       "link": "https://cn.wsj.com/articles/theisland-paradise-that-is-a-secret-hub-for-russian-sanctions-evasion-e440a594",
@@ -302,6 +302,66 @@
       "snapshot": "articles/theisland-paradise-that-is-a-secret-hub-for-russ-4c9aa1adf9fd.html",
       "captured": true,
       "capture_title": "海岛度假天堂如何成为俄罗斯躲避制裁的隐秘枢纽",
+      "error": ""
+    },
+    {
+      "title": "英伟达同意以130亿美元收购AI平台Hugging Face",
+      "summary": "此项交易加速了英伟达推广“开放权重AI模型”的步伐，对OpenAI和Anthropic构成了竞争威胁。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%90%8C%E6%84%8F%E4%BB%A5130%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%ADai%E5%B9%B3%E5%8F%B0hugging-face-20e1c154",
+      "guid": "WP-WSJS-0003867667",
+      "pub_date": "Thu, 03 Sep 2026 23:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-88194946?size=1.499&width=1280",
+      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-90-8c-e6-84-8f-e4--09c46318f1fd.html",
+      "captured": true,
+      "capture_title": "英伟达同意以130亿美元收购AI平台Hugging Face - WSJ",
+      "error": ""
+    },
+    {
+      "title": "想要分散偏重美股的投资组合？别被基金名称骗了",
+      "summary": "若不知如何辨别，你购买的海外ETF可能会高度集中持有一众美国股票。",
+      "link": "https://cn.wsj.com/articles/%E6%83%B3%E8%A6%81%E5%88%86%E6%95%A3%E5%81%8F%E9%87%8D%E7%BE%8E%E8%82%A1%E7%9A%84%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88-%E5%88%AB%E8%A2%AB%E5%9F%BA%E9%87%91%E5%90%8D%E7%A7%B0%E9%AA%97%E4%BA%86-26a086a3",
+      "guid": "WP-WSJS-0003867932",
+      "pub_date": "Fri, 04 Sep 2026 01:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-90580410?size=1.501&width=1280",
+      "snapshot": "articles/e6-83-b3-e8-a6-81-e5-88-86-e6-95-a3-e5-81-8f-e9--86c74fcfba0f.html",
+      "captured": true,
+      "capture_title": "想要分散偏重美股的投资组合？别被基金名称骗了 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "马斯克的隧道公司Boring Co.告诉投资人：想投资，就得帮忙",
+      "summary": "知情人士透露，该公司已告知参与最新一轮融资的部分投资人，他们必须帮助为Boring招募员工，或协助进行业务拓展。",
+      "link": "https://cn.wsj.com/articles/musks-boring-co-pushes-investors-for-recruiting-business-help-6391d4b7",
+      "guid": "WP-WSJS-0003867913",
+      "pub_date": "Fri, 04 Sep 2026 00:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-36155498?size=1.501&width=1280",
+      "snapshot": "articles/musks-boring-co-pushes-investors-for-recruiting--dd6b766d2239.html",
+      "captured": true,
+      "capture_title": "马斯克的隧道公司Boring Co.告诉投资人：想投资，就得帮忙 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "联合国称厄尔尼诺高峰未至，料将带来异常高温和农作物减产",
+      "summary": "今年的厄尔尼诺现象有望成为至少70年来最强的一次，这进一步加大了全球农产品市场出现大范围干扰的风险。",
+      "link": "https://cn.wsj.com/articles/%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E9%AB%98%E5%B3%B0%E6%9C%AA%E8%87%B3-%E6%96%99%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%BC%82%E5%B8%B8%E9%AB%98%E6%B8%A9%E5%92%8C%E5%86%9C%E4%BD%9C%E7%89%A9%E5%87%8F%E4%BA%A7-fd1ba8cd",
+      "guid": "WP-WSJS-0003867745",
+      "pub_date": "Thu, 03 Sep 2026 23:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-60927840?size=1.501&width=1280",
+      "snapshot": "articles/e8-81-94-e5-90-88-e5-9b-bd-e7-a7-b0-e5-8e-84-e5--c18acc4730fc.html",
+      "captured": true,
+      "capture_title": "联合国称厄尔尼诺高峰未至，料将带来异常高温和农作物减产 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "大众汽车存亡之战：对外迎击中国竞争，对内博弈公司监事",
+      "summary": "大众汽车CEO奥博穆意图让公司“瘦身”并淡化其德国色彩，此举引发工会与政界的强烈抗议；“底特律化”正成为新热词。",
+      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E5%AD%98%E4%BA%A1%E4%B9%8B%E6%88%98-%E5%AF%B9%E5%A4%96%E8%BF%8E%E5%87%BB%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89-%E5%AF%B9%E5%86%85%E5%8D%9A%E5%BC%88%E5%85%AC%E5%8F%B8%E7%9B%91%E4%BA%8B-c1139ade",
+      "guid": "WP-WSJS-0003862210",
+      "pub_date": "Wed, 02 Sep 2026 08:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-24179162?size=1.501&width=1280",
+      "snapshot": "articles/e5-a4-a7-e4-bc-97-e6-b1-bd-e8-bd-a6-e5-ad-98-e4--dc1a2988a2b1.html",
+      "captured": true,
+      "capture_title": "大众汽车存亡之战：对外迎击中国竞争，对内博弈公司监事",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e5-a6-82-e4-bb-8a-e5-af-b9-e7-be-8e-e8-b4-b8-e6--85c36593c595.html",
       "captured": true,
       "capture_title": "如今对美贸易顺差最大的国家：越南",
-      "error": ""
-    },
-    {
-      "title": "立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨",
-      "summary": "目前各方正努力推动重启该项目，但外界仍存质疑。“我不认为这个项目最终能按照向加州民众承诺的那样建成”。",
-      "link": "https://cn.wsj.com/articles/%E7%AB%8B%E9%A1%B9%E5%8D%81%E5%85%AB%E5%B9%B4-%E7%83%A7%E9%92%B1%E9%80%BE%E7%99%BE%E4%BA%BF-%E5%8A%A0%E5%B7%9E%E9%AB%98%E9%93%81%E8%87%B3%E4%BB%8A%E6%9C%AA%E9%93%BA%E4%B8%80%E6%A0%B9%E9%93%81%E8%BD%A8-c5a15df3",
-      "guid": "WP-WSJS-0003847139",
-      "pub_date": "Thu, 27 Aug 2026 01:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-17100767?size=1.45&width=1280",
-      "snapshot": "articles/e7-ab-8b-e9-a1-b9-e5-8d-81-e5-85-ab-e5-b9-b4--e7-42805833fe22.html",
-      "captured": true,
-      "capture_title": "立项18年、烧钱逾百亿，加州高铁至今未铺一根铁轨",
-      "error": ""
-    },
-    {
-      "title": "沃什为加息铺垫，美联储“按兵不动”门槛提高",
-      "summary": "沃什的杰克逊霍尔演讲平息了外界对美联储政策走向的担忧，并明确了未来决策将取决于即将公布的经济数据，例如8月份消费者价格指数。",
-      "link": "https://cn.wsj.com/articles/%E6%B2%83%E4%BB%80%E4%B8%BA%E5%8A%A0%E6%81%AF%E9%93%BA%E5%9E%AB-%E7%BE%8E%E8%81%94%E5%82%A8-%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8-%E9%97%A8%E6%A7%9B%E6%8F%90%E9%AB%98-c1f37537",
-      "guid": "WP-WSJS-0003855336",
-      "pub_date": "Mon, 31 Aug 2026 01:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-80542097?size=1.335&width=1280",
-      "snapshot": "articles/e6-b2-83-e4-bb-80-e4-b8-ba-e5-8a-a0-e6-81-af-e9--93f2f8e31214.html",
-      "captured": true,
-      "capture_title": "沃什为加息铺垫，美联储“按兵不动”门槛提高",
-      "error": ""
-    },
-    {
-      "title": "美国新关税大棒之下，加拿大中小企业首当其冲",
-      "summary": "蜂蜜、化妆品及其他出口商目前面临50%的关税。一些企业主担心，如果贸易争端得不到解决，他们可能会破产。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%85%B3%E7%A8%8E%E5%A4%A7%E6%A3%92%E4%B9%8B%E4%B8%8B-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2-7578d960",
-      "guid": "WP-WSJS-0003855201",
-      "pub_date": "Mon, 31 Aug 2026 00:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-14446091?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-96-b0-e5-85-b3-e7-a8-8e-e5--2c140a7cb54d.html",
-      "captured": true,
-      "capture_title": "美国新关税大棒之下，加拿大中小企业首当其冲",
-      "error": ""
-    },
-    {
-      "title": "揭秘特朗普让五角大楼分享委内瑞拉石油财富的计划",
-      "summary": "新协议为长达数月的秘密谈判画上了句号，美国将获得委内瑞拉很大一部分石油储备的控制权。",
-      "link": "https://cn.wsj.com/articles/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-4edec79a",
-      "guid": "WP-WSJS-0003855474",
-      "pub_date": "Mon, 31 Aug 2026 03:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-51184828?size=1.501&width=1280",
-      "snapshot": "articles/inside-trumps-plan-to-give-the-pentagon-a-stake--c77c19bfcc8b.html",
-      "captured": true,
-      "capture_title": "揭秘特朗普让五角大楼分享委内瑞拉石油财富的计划",
-      "error": ""
-    },
-    {
-      "title": "河轮旅行让人昏昏欲睡，但爱好者们就喜欢这样",
-      "summary": "维京河轮凭借其一成不变的“无聊”风格而深受乘客喜爱，但现在，一个新的竞争对手可能要打破这种氛围。",
-      "link": "https://cn.wsj.com/articles/%E6%B2%B3%E8%BD%AE%E6%97%85%E8%A1%8C%E8%AE%A9%E4%BA%BA%E6%98%8F%E6%98%8F%E6%AC%B2%E7%9D%A1-%E5%8F%AF%E7%88%B1%E5%A5%BD%E8%80%85%E4%BB%AC%E5%B0%B1%E5%96%9C%E6%AC%A2%E8%BF%99%E6%A0%B7-4d15360e",
-      "guid": "WP-WSJS-0003851136",
-      "pub_date": "Fri, 28 Aug 2026 07:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-84376286?size=1.333&width=1280",
-      "snapshot": "articles/e6-b2-b3-e8-bd-ae-e6-97-85-e8-a1-8c-e8-ae-a9-e4--aac768d75aa9.html",
-      "captured": true,
-      "capture_title": "河轮旅行让人昏昏欲睡，但爱好者们就喜欢这样",
       "error": ""
     }
   ]
