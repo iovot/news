@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:00:35.823980+00:00",
+  "generated_at": "2026-09-04T16:04:11.803268+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-30599127?size=1.502&width=1280",
       "snapshot": "articles/the-deeply-nerdy-founders-behind-nvidias-13-bill-88b8257ab6da.html",
       "captured": true,
-      "capture_title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路 - WSJ",
+      "capture_title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路",
       "error": ""
     },
     {
@@ -109,31 +109,7 @@
       "image_url": "https://images.wsj.net/im-46930230?size=1.515&width=1280",
       "snapshot": "articles/ukrainesnext-goal-is-to-shut-down-russias-commer-45e0a1114b5a.html",
       "captured": true,
-      "capture_title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "大众汽车监事会意外批准裁员10万人计划",
-      "summary": "监事会意外通过了首席执行官奥博穆提出的激进重组方案。该汽车制造商将大幅削减旗下车型品类，其欧洲工厂前途未卜。",
-      "link": "https://cn.wsj.com/articles/volkswagenboard-approves-doubling-job-cuts-to-100-000-in-surprise-move-1738d627",
-      "guid": "WP-WSJS-0003868372",
-      "pub_date": "Fri, 04 Sep 2026 08:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-59216030?size=1.511&width=1280",
-      "snapshot": "articles/volkswagenboard-approves-doubling-job-cuts-to-10-36ec5116e172.html",
-      "captured": true,
-      "capture_title": "大众汽车监事会意外批准裁员10万人计划 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
-      "summary": "G20声明严厉批评了过度依赖出口拉动经济增长的模式；中国是该声明的唯一异议方。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%B0%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D-g20%E5%A3%B0%E6%98%8E%E5%B1%95%E7%8E%B0%E5%A4%9A%E5%9B%BD%E5%85%B1%E8%AF%86-d085656b",
-      "guid": "WP-WSJS-0003864730",
-      "pub_date": "Wed, 02 Sep 2026 23:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-11494517?size=1.48&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-a7-b0-e5-af-b9-e4-b8-ad-e5--32faf4b5ebec.html",
-      "captured": true,
-      "capture_title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
+      "capture_title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域",
       "error": ""
     },
     {
@@ -149,6 +125,30 @@
       "error": ""
     },
     {
+      "title": "大众汽车监事会意外批准裁员10万人计划",
+      "summary": "监事会意外通过了首席执行官奥博穆提出的激进重组方案。该汽车制造商将大幅削减旗下车型品类，其欧洲工厂前途未卜。",
+      "link": "https://cn.wsj.com/articles/volkswagenboard-approves-doubling-job-cuts-to-100-000-in-surprise-move-1738d627",
+      "guid": "WP-WSJS-0003868372",
+      "pub_date": "Fri, 04 Sep 2026 08:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-59216030?size=1.511&width=1280",
+      "snapshot": "articles/volkswagenboard-approves-doubling-job-cuts-to-10-36ec5116e172.html",
+      "captured": true,
+      "capture_title": "大众汽车监事会意外批准裁员10万人计划",
+      "error": ""
+    },
+    {
+      "title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
+      "summary": "G20声明严厉批评了过度依赖出口拉动经济增长的模式；中国是该声明的唯一异议方。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%B0%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D-g20%E5%A3%B0%E6%98%8E%E5%B1%95%E7%8E%B0%E5%A4%9A%E5%9B%BD%E5%85%B1%E8%AF%86-d085656b",
+      "guid": "WP-WSJS-0003864730",
+      "pub_date": "Wed, 02 Sep 2026 23:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-11494517?size=1.48&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-a7-b0-e5-af-b9-e4-b8-ad-e5--32faf4b5ebec.html",
+      "captured": true,
+      "capture_title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
+      "error": ""
+    },
+    {
       "title": "眼下最让人类开心的事：看机器人出糗",
       "summary": "这种视频恰好满足了我们的心理需求：纯粹的肢体喜剧、毫无负罪感的幸灾乐祸，以及一种令人安心的优越感。",
       "link": "https://cn.wsj.com/articles/robots-failing-world-humanoid-games-c6756fbd",
@@ -158,18 +158,6 @@
       "snapshot": "articles/robots-failing-world-humanoid-games-c6756fbd-6cf48b2a24d9.html",
       "captured": true,
       "capture_title": "眼下最让人类开心的事：看机器人出糗",
-      "error": ""
-    },
-    {
-      "title": "图解为数据中心热潮提速的新建造技术",
-      "summary": "超大规模云计算服务商对速度的追求正催生出各种省时的产品与建造工艺。",
-      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%83%AD%E6%BD%AE%E6%8F%90%E9%80%9F%E7%9A%84%E6%96%B0%E5%BB%BA%E9%80%A0%E6%8A%80%E6%9C%AF-4dbd1b5c",
-      "guid": "WP-WSJS-0003868247",
-      "pub_date": "Fri, 04 Sep 2026 05:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-03049151?size=1.5&width=1280",
-      "snapshot": "articles/e5-9b-be-e8-a7-a3-e4-b8-ba-e6-95-b0-e6-8d-ae-e4--33443ab359c9.html",
-      "captured": true,
-      "capture_title": "图解为数据中心热潮提速的新建造技术 - WSJ",
       "error": ""
     },
     {
@@ -185,6 +173,18 @@
       "error": ""
     },
     {
+      "title": "全美曾为医美填充疯狂，如今迎来“面部大消气”时代",
+      "summary": "美国面部填充剂销量持续下滑，用户还在网上分享注射物游移的恐怖经历。在GLP-1时代，“网红脸”的风潮是否就此终结？",
+      "link": "https://cn.wsj.com/articles/filler-removal-51e93c98",
+      "guid": "WP-WSJS-0003868557",
+      "pub_date": "Fri, 04 Sep 2026 11:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-64799747?size=1.5&width=1280",
+      "snapshot": "articles/filler-removal-51e93c98-3bf852a5687d.html",
+      "captured": true,
+      "capture_title": "全美曾为医美填充疯狂，如今迎来“面部大消气”时代 - WSJ",
+      "error": ""
+    },
+    {
       "title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
       "summary": "荷兰央行将78吨黄金从纽约曼哈顿街下的金库转移到了伦敦。这批黄金按当前价格计算价值110亿美元。该行表示，此举将提升其在紧急情况下交易黄金的能力。",
       "link": "https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1%E4%B8%BA%E7%94%B1-%E5%B0%86%E9%BB%84%E9%87%91%E4%BB%8E%E7%BA%BD%E7%BA%A6%E8%BD%AC%E7%A7%BB%E8%87%B3%E4%BC%A6%E6%95%A6-a65c0f81",
@@ -194,6 +194,18 @@
       "snapshot": "articles/e8-8d-b7-e5-85-b0-e4-bb-a5-e5-9c-b0-e7-bc-98-e6--5ed6338ee8f4.html",
       "captured": true,
       "capture_title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
+      "error": ""
+    },
+    {
+      "title": "图解为数据中心热潮提速的新建造技术",
+      "summary": "超大规模云计算服务商对速度的追求正催生出各种省时的产品与建造工艺。",
+      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%83%AD%E6%BD%AE%E6%8F%90%E9%80%9F%E7%9A%84%E6%96%B0%E5%BB%BA%E9%80%A0%E6%8A%80%E6%9C%AF-4dbd1b5c",
+      "guid": "WP-WSJS-0003868247",
+      "pub_date": "Fri, 04 Sep 2026 05:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-03049151?size=1.5&width=1280",
+      "snapshot": "articles/e5-9b-be-e8-a7-a3-e4-b8-ba-e6-95-b0-e6-8d-ae-e4--33443ab359c9.html",
+      "captured": true,
+      "capture_title": "图解为数据中心热潮提速的新建造技术",
       "error": ""
     },
     {
@@ -221,18 +233,6 @@
       "error": ""
     },
     {
-      "title": "好莱坞新剧集将矛头对准大型科技公司",
-      "summary": "《丘珀蒂诺》和《大胆》等剧集反映了人们对硅谷巨头及其掌舵人的态度转变。",
-      "link": "https://cn.wsj.com/articles/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%96%B0%E5%89%A7%E9%9B%86%E5%B0%86%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8-9f1ccc56",
-      "guid": "WP-WSJS-0003868030",
-      "pub_date": "Fri, 04 Sep 2026 02:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-79571220?size=1.501&width=1280",
-      "snapshot": "articles/e5-a5-bd-e8-8e-b1-e5-9d-9e-e6-96-b0-e5-89-a7-e9--264332ebb75c.html",
-      "captured": true,
-      "capture_title": "好莱坞新剧集将矛头对准大型科技公司",
-      "error": ""
-    },
-    {
       "title": "受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验",
       "summary": "诺华和百时美施贵宝暂停试验后，各方争分夺秒地探究为何前景广阔的自身免疫疗法会带来这样的风险。",
       "link": "https://cn.wsj.com/articles/%E5%8F%97%E8%AF%95%E8%80%85%E6%AD%BB%E4%BA%A1%E5%92%8C%E5%8D%B1%E5%8F%8A%E7%94%9F%E5%91%BD%E7%9A%84%E5%89%AF%E4%BD%9C%E7%94%A8%E5%87%BA%E7%8E%B0%E5%90%8E-%E4%B8%A4%E5%AE%B6%E8%8D%AF%E4%BC%81%E5%8F%AB%E5%81%9C%E8%87%AA%E8%BA%AB%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95%E8%AF%95%E9%AA%8C-b4fcc1d0",
@@ -245,6 +245,18 @@
       "error": ""
     },
     {
+      "title": "好莱坞新剧集将矛头对准大型科技公司",
+      "summary": "《丘珀蒂诺》和《大胆》等剧集反映了人们对硅谷巨头及其掌舵人的态度转变。",
+      "link": "https://cn.wsj.com/articles/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%96%B0%E5%89%A7%E9%9B%86%E5%B0%86%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8-9f1ccc56",
+      "guid": "WP-WSJS-0003868030",
+      "pub_date": "Fri, 04 Sep 2026 02:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-79571220?size=1.501&width=1280",
+      "snapshot": "articles/e5-a5-bd-e8-8e-b1-e5-9d-9e-e6-96-b0-e5-89-a7-e9--264332ebb75c.html",
+      "captured": true,
+      "capture_title": "好莱坞新剧集将矛头对准大型科技公司",
+      "error": ""
+    },
+    {
       "title": "巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年”",
       "summary": "随着伊朗战争的结束遥遥无期，阿联酋领导人们已放弃对经济反弹的希望。",
       "link": "https://cn.wsj.com/articles/%E5%B7%B4%E6%9E%97%E5%A4%A7%E5%A5%96%E8%B5%9B%E7%A7%BB%E5%B8%88%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E6%88%98%E7%81%AB%E8%AE%A9%E6%B5%B7%E6%B9%BE%E5%AF%8C%E5%9B%BD%E9%81%AD%E9%81%87-%E5%A4%B1%E8%90%BD%E4%B9%8B%E5%B9%B4-38fc9593",
@@ -253,7 +265,7 @@
       "image_url": "https://images.wsj.net/im-59761841?size=1.499&width=1280",
       "snapshot": "articles/e5-b7-b4-e6-9e-97-e5-a4-a7-e5-a5-96-e8-b5-9b-e7--0b91e83baed2.html",
       "captured": true,
-      "capture_title": "巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年” - WSJ",
+      "capture_title": "巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年”",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/remote-job-interview-applications-fraud-b03f874a-f83cdbcc9575.html",
       "captured": true,
       "capture_title": "AI作弊时代，雇主重重设卡防范“虚假求职者”",
-      "error": ""
-    },
-    {
-      "title": "如今对美贸易顺差最大的国家：越南",
-      "summary": "今年上半年，越南对美国的贸易顺差达到1,140亿美元，超过了半导体中心台湾、墨西哥，甚至是中国。",
-      "link": "https://cn.wsj.com/articles/%E5%A6%82%E4%BB%8A%E5%AF%B9%E7%BE%8E%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6-%E8%B6%8A%E5%8D%97-90fab2e5",
-      "guid": "WP-WSJS-0003846989",
-      "pub_date": "Thu, 27 Aug 2026 00:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-52125012?size=1.501&width=1280",
-      "snapshot": "articles/e5-a6-82-e4-bb-8a-e5-af-b9-e7-be-8e-e8-b4-b8-e6--85c36593c595.html",
-      "captured": true,
-      "capture_title": "如今对美贸易顺差最大的国家：越南",
       "error": ""
     }
   ]

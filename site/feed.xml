@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 10:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 16:02:16 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 10:56:00 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 16:02:16 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -91,6 +91,13 @@
             <pubDate>Fri, 04 Sep 2026 05:48:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国数百所高校现在不用提交申请就“直接录取”]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67922443?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”</p>]]></description>
+            <link>https://cn.wsj.com/articles/hundreds-of-colleges-are-sending-acceptance-letters-to-kids-who-didnt-even-apply-2b5a3e44</link>
+            <guid isPermaLink="false">WP-WSJS-0003867980</guid>
+            <pubDate>Fri, 04 Sep 2026 01:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[大众汽车监事会意外批准裁员10万人计划]]></title>
             <description><![CDATA[<img width="1280" height="847" src="https://images.wsj.net/im-59216030?size=1.511&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>监事会意外通过了首席执行官奥博穆提出的激进重组方案。该汽车制造商将大幅削减旗下车型品类，其欧洲工厂前途未卜。</p>]]></description>
             <link>https://cn.wsj.com/articles/volkswagenboard-approves-doubling-job-cuts-to-100-000-in-surprise-move-1738d627</link>
@@ -105,25 +112,11 @@
             <pubDate>Wed, 02 Sep 2026 23:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国数百所高校现在不用提交申请就“直接录取”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67922443?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”</p>]]></description>
-            <link>https://cn.wsj.com/articles/hundreds-of-colleges-are-sending-acceptance-letters-to-kids-who-didnt-even-apply-2b5a3e44</link>
-            <guid isPermaLink="false">WP-WSJS-0003867980</guid>
-            <pubDate>Fri, 04 Sep 2026 01:52:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[眼下最让人类开心的事：看机器人出糗]]></title>
             <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-13513311?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这种视频恰好满足了我们的心理需求：纯粹的肢体喜剧、毫无负罪感的幸灾乐祸，以及一种令人安心的优越感。</p>]]></description>
             <link>https://cn.wsj.com/articles/robots-failing-world-humanoid-games-c6756fbd</link>
             <guid isPermaLink="false">WP-WSJS-0003867938</guid>
             <pubDate>Fri, 04 Sep 2026 01:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[图解为数据中心热潮提速的新建造技术]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-03049151?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>超大规模云计算服务商对速度的追求正催生出各种省时的产品与建造工艺。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%83%AD%E6%BD%AE%E6%8F%90%E9%80%9F%E7%9A%84%E6%96%B0%E5%BB%BA%E9%80%A0%E6%8A%80%E6%9C%AF-4dbd1b5c</link>
-            <guid isPermaLink="false">WP-WSJS-0003868247</guid>
-            <pubDate>Fri, 04 Sep 2026 05:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[在海上撑了286天后，“林肯”号航母的5,000名水兵终于在泰国放松一下]]></title>
@@ -133,11 +126,25 @@
             <pubDate>Thu, 03 Sep 2026 02:25:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[全美曾为医美填充疯狂，如今迎来“面部大消气”时代]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-64799747?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国面部填充剂销量持续下滑，用户还在网上分享注射物游移的恐怖经历。在GLP-1时代，“网红脸”的风潮是否就此终结？</p>]]></description>
+            <link>https://cn.wsj.com/articles/filler-removal-51e93c98</link>
+            <guid isPermaLink="false">WP-WSJS-0003868557</guid>
+            <pubDate>Fri, 04 Sep 2026 11:38:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36449864?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>荷兰央行将78吨黄金从纽约曼哈顿街下的金库转移到了伦敦。这批黄金按当前价格计算价值110亿美元。该行表示，此举将提升其在紧急情况下交易黄金的能力。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1%E4%B8%BA%E7%94%B1-%E5%B0%86%E9%BB%84%E9%87%91%E4%BB%8E%E7%BA%BD%E7%BA%A6%E8%BD%AC%E7%A7%BB%E8%87%B3%E4%BC%A6%E6%95%A6-a65c0f81</link>
             <guid isPermaLink="false">WP-WSJS-0003867770</guid>
             <pubDate>Thu, 03 Sep 2026 23:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[图解为数据中心热潮提速的新建造技术]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-03049151?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>超大规模云计算服务商对速度的追求正催生出各种省时的产品与建造工艺。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%83%AD%E6%BD%AE%E6%8F%90%E9%80%9F%E7%9A%84%E6%96%B0%E5%BB%BA%E9%80%A0%E6%8A%80%E6%9C%AF-4dbd1b5c</link>
+            <guid isPermaLink="false">WP-WSJS-0003868247</guid>
+            <pubDate>Fri, 04 Sep 2026 05:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特斯拉自动驾驶出租车Cybercab上路]]></title>
@@ -154,18 +161,18 @@
             <pubDate>Fri, 04 Sep 2026 00:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[好莱坞新剧集将矛头对准大型科技公司]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79571220?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《丘珀蒂诺》和《大胆》等剧集反映了人们对硅谷巨头及其掌舵人的态度转变。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%96%B0%E5%89%A7%E9%9B%86%E5%B0%86%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8-9f1ccc56</link>
-            <guid isPermaLink="false">WP-WSJS-0003868030</guid>
-            <pubDate>Fri, 04 Sep 2026 02:17:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-97674986?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>诺华和百时美施贵宝暂停试验后，各方争分夺秒地探究为何前景广阔的自身免疫疗法会带来这样的风险。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%8F%97%E8%AF%95%E8%80%85%E6%AD%BB%E4%BA%A1%E5%92%8C%E5%8D%B1%E5%8F%8A%E7%94%9F%E5%91%BD%E7%9A%84%E5%89%AF%E4%BD%9C%E7%94%A8%E5%87%BA%E7%8E%B0%E5%90%8E-%E4%B8%A4%E5%AE%B6%E8%8D%AF%E4%BC%81%E5%8F%AB%E5%81%9C%E8%87%AA%E8%BA%AB%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95%E8%AF%95%E9%AA%8C-b4fcc1d0</link>
             <guid isPermaLink="false">WP-WSJS-0003867887</guid>
             <pubDate>Fri, 04 Sep 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[好莱坞新剧集将矛头对准大型科技公司]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79571220?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《丘珀蒂诺》和《大胆》等剧集反映了人们对硅谷巨头及其掌舵人的态度转变。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%96%B0%E5%89%A7%E9%9B%86%E5%B0%86%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8-9f1ccc56</link>
+            <guid isPermaLink="false">WP-WSJS-0003868030</guid>
+            <pubDate>Fri, 04 Sep 2026 02:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年”]]></title>
