@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:52:07.256730+00:00",
+  "generated_at": "2026-09-05T10:15:56.832648+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-04078710?size=1.499&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd8-e6-9c-88-e6-96-b0-e5-a2-9e-e5-f16f1fe7f121.html",
       "captured": true,
-      "capture_title": "美国8月新增就业岗位16.2万个，远超预期 - WSJ",
+      "capture_title": "美国8月新增就业岗位16.2万个，远超预期",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-21681573?size=1.499&width=1280",
       "snapshot": "articles/e4-b8-ad-e6-9c-9f-e9-80-89-e4-b8-be-e5-9c-a8-e5--f22748799fb0.html",
       "captured": true,
-      "capture_title": "中期选举在即，创纪录油价给特朗普带来新挑战 - WSJ",
+      "capture_title": "中期选举在即，创纪录油价给特朗普带来新挑战",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-72594161?size=1.501&width=1280",
       "snapshot": "articles/openai-e5-8f-91-e5-b8-83gpt-6-astra-e6-a8-a1-e5--fc6ddae13fce.html",
       "captured": true,
-      "capture_title": "OpenAI发布GPT-6 Astra模型，宣告进入AGI时代 - WSJ",
+      "capture_title": "OpenAI发布GPT-6 Astra模型，宣告进入AGI时代",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-67067668?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e6-ac-a7-e7-94-b5-e5-8a-a8-e5-8d-a1-e8--3002b7159519.html",
       "captured": true,
-      "capture_title": "中欧电动卡车初创公司苇渡科技中国员工几乎全部离职 - WSJ",
+      "capture_title": "中欧电动卡车初创公司苇渡科技中国员工几乎全部离职",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-72332563?size=1.4&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-85-ac-e8-b7-af-e4-ba-a4-e9--b7c39ff77287.html",
       "captured": true,
-      "capture_title": "NHTSA对特斯拉Cybercab安全标准认证展开调查 - WSJ",
+      "capture_title": "NHTSA对特斯拉Cybercab安全标准认证展开调查",
       "error": ""
     },
     {
