@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:53:59.105496+00:00",
+  "generated_at": "2026-09-05T03:52:07.256730+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,15 +17,27 @@
       "error": ""
     },
     {
-      "title": "加拿大拒绝成为下一个委内瑞拉",
-      "summary": "就像昔日的大英帝国和现代中国一样，特朗普将邻国视为原材料供应地和工业制成品的销售市场。",
-      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E7%BB%9D%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-a945ed84",
-      "guid": "WP-WSJS-0003867678",
-      "pub_date": "Thu, 03 Sep 2026 23:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-62556688?size=1.501&width=1280",
-      "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e6-8b-92-e7-bb-9d-e6--1351278a39ec.html",
+      "title": "美国8月新增就业岗位16.2万个，远超预期",
+      "summary": "这一意外强劲的就业数据远超经济学家此前预计的新增5.3万个。失业率则稳定在历史低位4.1%。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD8%E6%9C%88%E6%96%B0%E5%A2%9E%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D16-2%E4%B8%87%E4%B8%AA-%E8%BF%9C%E8%B6%85%E9%A2%84%E6%9C%9F-acf8ae5e",
+      "guid": "WP-WSJS-0003870802",
+      "pub_date": "Sat, 05 Sep 2026 00:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-04078710?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd8-e6-9c-88-e6-96-b0-e5-a2-9e-e5-f16f1fe7f121.html",
       "captured": true,
-      "capture_title": "加拿大拒绝成为下一个委内瑞拉",
+      "capture_title": "美国8月新增就业岗位16.2万个，远超预期 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中期选举在即，创纪录油价给特朗普带来新挑战",
+      "summary": "周五柴油均价达到每加仑5.85美元。这打破了2022年创下的历史纪录。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%9C%A8%E5%8D%B3-%E5%88%9B%E7%BA%AA%E5%BD%95%E6%B2%B9%E4%BB%B7%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%A6%E6%9D%A5%E6%96%B0%E6%8C%91%E6%88%98-335e51ca",
+      "guid": "WP-WSJS-0003870905",
+      "pub_date": "Sat, 05 Sep 2026 01:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-21681573?size=1.499&width=1280",
+      "snapshot": "articles/e4-b8-ad-e6-9c-9f-e9-80-89-e4-b8-be-e5-9c-a8-e5--f22748799fb0.html",
+      "captured": true,
+      "capture_title": "中期选举在即，创纪录油价给特朗普带来新挑战 - WSJ",
       "error": ""
     },
     {
@@ -41,27 +53,15 @@
       "error": ""
     },
     {
-      "title": "“特朗普疲劳症”开始令共和党人感到不安",
-      "summary": "尽管总统正准备在中期选举党代会上动员选民，但部分共和党议员表示，党内的怨气与担忧正在不断积聚。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%B2%E5%8A%B3%E7%97%87-%E5%BC%80%E5%A7%8B%E4%BB%A4%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E6%84%9F%E5%88%B0%E4%B8%8D%E5%AE%89-637f3d6e",
-      "guid": "WP-WSJS-0003867742",
-      "pub_date": "Fri, 04 Sep 2026 00:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-65621522?size=1.499&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-96-b2-e5-8a-b3-e7--5c81547e8edb.html",
+      "title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域",
+      "summary": "随着乌克兰无人机战升级，航空公司正面临重新评估飞往俄罗斯的安全风险的压力。",
+      "link": "https://cn.wsj.com/articles/ukrainesnext-goal-is-to-shut-down-russias-commercial-airspace-30caef19",
+      "guid": "WP-WSJS-0003868217",
+      "pub_date": "Fri, 04 Sep 2026 05:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-46930230?size=1.515&width=1280",
+      "snapshot": "articles/ukrainesnext-goal-is-to-shut-down-russias-commer-45e0a1114b5a.html",
       "captured": true,
-      "capture_title": "“特朗普疲劳症”开始令共和党人感到不安",
-      "error": ""
-    },
-    {
-      "title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路",
-      "summary": "这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。",
-      "link": "https://cn.wsj.com/articles/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-635c8af2",
-      "guid": "WP-WSJS-0003868194",
-      "pub_date": "Fri, 04 Sep 2026 05:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-30599127?size=1.502&width=1280",
-      "snapshot": "articles/the-deeply-nerdy-founders-behind-nvidias-13-bill-88b8257ab6da.html",
-      "captured": true,
-      "capture_title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路",
+      "capture_title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域",
       "error": ""
     },
     {
@@ -101,15 +101,15 @@
       "error": ""
     },
     {
-      "title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域",
-      "summary": "随着乌克兰无人机战升级，航空公司正面临重新评估飞往俄罗斯的安全风险的压力。",
-      "link": "https://cn.wsj.com/articles/ukrainesnext-goal-is-to-shut-down-russias-commercial-airspace-30caef19",
-      "guid": "WP-WSJS-0003868217",
-      "pub_date": "Fri, 04 Sep 2026 05:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-46930230?size=1.515&width=1280",
-      "snapshot": "articles/ukrainesnext-goal-is-to-shut-down-russias-commer-45e0a1114b5a.html",
+      "title": "加拿大拒绝成为下一个委内瑞拉",
+      "summary": "就像昔日的大英帝国和现代中国一样，特朗普将邻国视为原材料供应地和工业制成品的销售市场。",
+      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E7%BB%9D%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-a945ed84",
+      "guid": "WP-WSJS-0003867678",
+      "pub_date": "Thu, 03 Sep 2026 23:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-62556688?size=1.501&width=1280",
+      "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e6-8b-92-e7-bb-9d-e6--1351278a39ec.html",
       "captured": true,
-      "capture_title": "乌克兰的下一个目标：迫使俄罗斯关闭商业空域",
+      "capture_title": "加拿大拒绝成为下一个委内瑞拉",
       "error": ""
     },
     {
@@ -161,15 +161,15 @@
       "error": ""
     },
     {
-      "title": "在海上撑了286天后，“林肯”号航母的5,000名水兵终于在泰国放松一下",
-      "summary": "“林肯”号在美国对伊朗的轰炸行动中发挥了关键作用，并参与了对伊朗港口的持续封锁。水兵们将在以夜生活闻名的海滨小城芭堤雅度过上岸时光。",
-      "link": "https://cn.wsj.com/articles/%E5%9C%A8%E6%B5%B7%E4%B8%8A%E6%92%91%E4%BA%86286%E5%A4%A9%E5%90%8E-%E6%9E%97%E8%82%AF-%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%9A%845-000%E5%90%8D%E6%B0%B4%E5%85%B5%E7%BB%88%E4%BA%8E%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%94%BE%E6%9D%BE%E4%B8%80%E4%B8%8B-72c28be4",
-      "guid": "WP-WSJS-0003865124",
-      "pub_date": "Thu, 03 Sep 2026 02:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-76089260?size=1.501&width=1280",
-      "snapshot": "articles/e5-9c-a8-e6-b5-b7-e4-b8-8a-e6-92-91-e4-ba-86286--2f624450696f.html",
+      "title": "图解为数据中心热潮提速的新建造技术",
+      "summary": "超大规模云计算服务商对速度的追求正催生出各种省时的产品与建造工艺。",
+      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%83%AD%E6%BD%AE%E6%8F%90%E9%80%9F%E7%9A%84%E6%96%B0%E5%BB%BA%E9%80%A0%E6%8A%80%E6%9C%AF-4dbd1b5c",
+      "guid": "WP-WSJS-0003868247",
+      "pub_date": "Fri, 04 Sep 2026 05:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-03049151?size=1.5&width=1280",
+      "snapshot": "articles/e5-9b-be-e8-a7-a3-e4-b8-ba-e6-95-b0-e6-8d-ae-e4--33443ab359c9.html",
       "captured": true,
-      "capture_title": "在海上撑了286天后，“林肯”号航母的5,000名水兵终于在泰国放松一下",
+      "capture_title": "图解为数据中心热潮提速的新建造技术",
       "error": ""
     },
     {
@@ -185,6 +185,42 @@
       "error": ""
     },
     {
+      "title": "OpenAI发布GPT-6 Astra模型，宣告进入AGI时代",
+      "summary": "OpenAI宣告其GPT-6 Astra模型的发布，在不久的将来或许会被视为通用人工智能的开端。",
+      "link": "https://cn.wsj.com/articles/openai%E5%8F%91%E5%B8%83gpt-6-astra%E6%A8%A1%E5%9E%8B-%E5%AE%A3%E5%91%8A%E8%BF%9B%E5%85%A5agi%E6%97%B6%E4%BB%A3-f3f3fdde",
+      "guid": "WP-WSJS-0003870889",
+      "pub_date": "Sat, 05 Sep 2026 01:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-72594161?size=1.501&width=1280",
+      "snapshot": "articles/openai-e5-8f-91-e5-b8-83gpt-6-astra-e6-a8-a1-e5--fc6ddae13fce.html",
+      "captured": true,
+      "capture_title": "OpenAI发布GPT-6 Astra模型，宣告进入AGI时代 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中欧电动卡车初创公司苇渡科技中国员工几乎全部离职",
+      "summary": "由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E6%AC%A7%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E8%8B%87%E6%B8%A1%E7%A7%91%E6%8A%80%E4%B8%AD%E5%9B%BD%E5%91%98%E5%B7%A5%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E7%A6%BB%E8%81%8C-8b0a9760",
+      "guid": "WP-WSJS-0003870967",
+      "pub_date": "Sat, 05 Sep 2026 02:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-67067668?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e6-ac-a7-e7-94-b5-e5-8a-a8-e5-8d-a1-e8--3002b7159519.html",
+      "captured": true,
+      "capture_title": "中欧电动卡车初创公司苇渡科技中国员工几乎全部离职 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "NHTSA对特斯拉Cybercab安全标准认证展开调查",
+      "summary": "美国联邦监管机构已对特斯拉及其无方向盘汽车Cybercab展开调查，以确定该车型是否符合安全标准。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E5%B1%80%E5%AF%B9%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BAcybercab%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5-11c54e22",
+      "guid": "WP-WSJS-0003870939",
+      "pub_date": "Sat, 05 Sep 2026 01:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-72332563?size=1.4&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-85-ac-e8-b7-af-e4-ba-a4-e9--b7c39ff77287.html",
+      "captured": true,
+      "capture_title": "NHTSA对特斯拉Cybercab安全标准认证展开调查 - WSJ",
+      "error": ""
+    },
+    {
       "title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
       "summary": "荷兰央行将78吨黄金从纽约曼哈顿街下的金库转移到了伦敦。这批黄金按当前价格计算价值110亿美元。该行表示，此举将提升其在紧急情况下交易黄金的能力。",
       "link": "https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1%E4%B8%BA%E7%94%B1-%E5%B0%86%E9%BB%84%E9%87%91%E4%BB%8E%E7%BA%BD%E7%BA%A6%E8%BD%AC%E7%A7%BB%E8%87%B3%E4%BC%A6%E6%95%A6-a65c0f81",
@@ -194,30 +230,6 @@
       "snapshot": "articles/e8-8d-b7-e5-85-b0-e4-bb-a5-e5-9c-b0-e7-bc-98-e6--5ed6338ee8f4.html",
       "captured": true,
       "capture_title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
-      "error": ""
-    },
-    {
-      "title": "图解为数据中心热潮提速的新建造技术",
-      "summary": "超大规模云计算服务商对速度的追求正催生出各种省时的产品与建造工艺。",
-      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%83%AD%E6%BD%AE%E6%8F%90%E9%80%9F%E7%9A%84%E6%96%B0%E5%BB%BA%E9%80%A0%E6%8A%80%E6%9C%AF-4dbd1b5c",
-      "guid": "WP-WSJS-0003868247",
-      "pub_date": "Fri, 04 Sep 2026 05:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-03049151?size=1.5&width=1280",
-      "snapshot": "articles/e5-9b-be-e8-a7-a3-e4-b8-ba-e6-95-b0-e6-8d-ae-e4--33443ab359c9.html",
-      "captured": true,
-      "capture_title": "图解为数据中心热潮提速的新建造技术",
-      "error": ""
-    },
-    {
-      "title": "特斯拉自动驾驶出租车Cybercab上路",
-      "summary": "特斯拉扩展自动驾驶出租车服务至得州奥斯汀。这也是外界首次公开检验该公司能否兑现其承诺——从传统电动汽车转型为完全自动驾驶汽车。",
-      "link": "https://cn.wsj.com/articles/tesla-cybercabs-hit-austin-streets-in-expansion-of-robotaxi-service-f0c2a7b6",
-      "guid": "WP-WSJS-0003868121",
-      "pub_date": "Fri, 04 Sep 2026 03:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-98175978?size=1.499&width=1280",
-      "snapshot": "articles/tesla-cybercabs-hit-austin-streets-in-expansion--4c83729bc301.html",
-      "captured": true,
-      "capture_title": "特斯拉自动驾驶出租车Cybercab上路",
       "error": ""
     },
     {
@@ -233,18 +245,6 @@
       "error": ""
     },
     {
-      "title": "受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验",
-      "summary": "诺华和百时美施贵宝暂停试验后，各方争分夺秒地探究为何前景广阔的自身免疫疗法会带来这样的风险。",
-      "link": "https://cn.wsj.com/articles/%E5%8F%97%E8%AF%95%E8%80%85%E6%AD%BB%E4%BA%A1%E5%92%8C%E5%8D%B1%E5%8F%8A%E7%94%9F%E5%91%BD%E7%9A%84%E5%89%AF%E4%BD%9C%E7%94%A8%E5%87%BA%E7%8E%B0%E5%90%8E-%E4%B8%A4%E5%AE%B6%E8%8D%AF%E4%BC%81%E5%8F%AB%E5%81%9C%E8%87%AA%E8%BA%AB%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95%E8%AF%95%E9%AA%8C-b4fcc1d0",
-      "guid": "WP-WSJS-0003867887",
-      "pub_date": "Fri, 04 Sep 2026 00:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-97674986?size=1.499&width=1280",
-      "snapshot": "articles/e5-8f-97-e8-af-95-e8-80-85-e6-ad-bb-e4-ba-a1-e5--3f5bb4e17643.html",
-      "captured": true,
-      "capture_title": "受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验",
-      "error": ""
-    },
-    {
       "title": "好莱坞新剧集将矛头对准大型科技公司",
       "summary": "《丘珀蒂诺》和《大胆》等剧集反映了人们对硅谷巨头及其掌舵人的态度转变。",
       "link": "https://cn.wsj.com/articles/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%96%B0%E5%89%A7%E9%9B%86%E5%B0%86%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8-9f1ccc56",
@@ -254,6 +254,30 @@
       "snapshot": "articles/e5-a5-bd-e8-8e-b1-e5-9d-9e-e6-96-b0-e5-89-a7-e9--264332ebb75c.html",
       "captured": true,
       "capture_title": "好莱坞新剧集将矛头对准大型科技公司",
+      "error": ""
+    },
+    {
+      "title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路",
+      "summary": "这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。",
+      "link": "https://cn.wsj.com/articles/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-635c8af2",
+      "guid": "WP-WSJS-0003868194",
+      "pub_date": "Fri, 04 Sep 2026 05:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-30599127?size=1.502&width=1280",
+      "snapshot": "articles/the-deeply-nerdy-founders-behind-nvidias-13-bill-88b8257ab6da.html",
+      "captured": true,
+      "capture_title": "英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路",
+      "error": ""
+    },
+    {
+      "title": "寻味台湾：当传统文化褪去宏大叙事的外衣",
+      "summary": "台湾和大陆在文化上一脉相承。只不过，台湾更多时候是在“品味”文化，而不是将文化用作展示、证明或宣扬的工具。",
+      "link": "https://cn.wsj.com/articles/%E5%AF%BB%E5%91%B3%E5%8F%B0%E6%B9%BE-%E5%BD%93%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E8%A4%AA%E5%8E%BB%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B%E7%9A%84%E5%A4%96%E8%A1%A3-7e5b9517",
+      "guid": "WP-WSJS-0003861985",
+      "pub_date": "Wed, 02 Sep 2026 03:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-73946855?size=1.43&width=1280",
+      "snapshot": "articles/e5-af-bb-e5-91-b3-e5-8f-b0-e6-b9-be--e5-bd-93-e4-9afae0c78f16.html",
+      "captured": true,
+      "capture_title": "寻味台湾：当传统文化褪去宏大叙事的外衣",
       "error": ""
     },
     {
@@ -278,6 +302,54 @@
       "snapshot": "articles/e9-98-bf-e6-a0-b9-e5-bb-b7-e6-80-bb-e7-bb-9f-e7--24b06e067ad9.html",
       "captured": true,
       "capture_title": "阿根廷总统米莱重提马岛主权，以挽救下滑的支持率",
+      "error": ""
+    },
+    {
+      "title": "“特朗普疲劳症”开始令共和党人感到不安",
+      "summary": "尽管总统正准备在中期选举党代会上动员选民，但部分共和党议员表示，党内的怨气与担忧正在不断积聚。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%B2%E5%8A%B3%E7%97%87-%E5%BC%80%E5%A7%8B%E4%BB%A4%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E6%84%9F%E5%88%B0%E4%B8%8D%E5%AE%89-637f3d6e",
+      "guid": "WP-WSJS-0003867742",
+      "pub_date": "Fri, 04 Sep 2026 00:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-65621522?size=1.499&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-96-b2-e5-8a-b3-e7--5c81547e8edb.html",
+      "captured": true,
+      "capture_title": "“特朗普疲劳症”开始令共和党人感到不安",
+      "error": ""
+    },
+    {
+      "title": "在海上撑了286天后，“林肯”号航母的5,000名水兵终于在泰国放松一下",
+      "summary": "“林肯”号在美国对伊朗的轰炸行动中发挥了关键作用，并参与了对伊朗港口的持续封锁。水兵们将在以夜生活闻名的海滨小城芭堤雅度过上岸时光。",
+      "link": "https://cn.wsj.com/articles/%E5%9C%A8%E6%B5%B7%E4%B8%8A%E6%92%91%E4%BA%86286%E5%A4%A9%E5%90%8E-%E6%9E%97%E8%82%AF-%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%9A%845-000%E5%90%8D%E6%B0%B4%E5%85%B5%E7%BB%88%E4%BA%8E%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%94%BE%E6%9D%BE%E4%B8%80%E4%B8%8B-72c28be4",
+      "guid": "WP-WSJS-0003865124",
+      "pub_date": "Thu, 03 Sep 2026 02:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-76089260?size=1.501&width=1280",
+      "snapshot": "articles/e5-9c-a8-e6-b5-b7-e4-b8-8a-e6-92-91-e4-ba-86286--2f624450696f.html",
+      "captured": true,
+      "capture_title": "在海上撑了286天后，“林肯”号航母的5,000名水兵终于在泰国放松一下",
+      "error": ""
+    },
+    {
+      "title": "特斯拉自动驾驶出租车Cybercab上路",
+      "summary": "特斯拉扩展自动驾驶出租车服务至得州奥斯汀。这也是外界首次公开检验该公司能否兑现其承诺——从传统电动汽车转型为完全自动驾驶汽车。",
+      "link": "https://cn.wsj.com/articles/tesla-cybercabs-hit-austin-streets-in-expansion-of-robotaxi-service-f0c2a7b6",
+      "guid": "WP-WSJS-0003868121",
+      "pub_date": "Fri, 04 Sep 2026 03:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-98175978?size=1.499&width=1280",
+      "snapshot": "articles/tesla-cybercabs-hit-austin-streets-in-expansion--4c83729bc301.html",
+      "captured": true,
+      "capture_title": "特斯拉自动驾驶出租车Cybercab上路",
+      "error": ""
+    },
+    {
+      "title": "受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验",
+      "summary": "诺华和百时美施贵宝暂停试验后，各方争分夺秒地探究为何前景广阔的自身免疫疗法会带来这样的风险。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%97%E8%AF%95%E8%80%85%E6%AD%BB%E4%BA%A1%E5%92%8C%E5%8D%B1%E5%8F%8A%E7%94%9F%E5%91%BD%E7%9A%84%E5%89%AF%E4%BD%9C%E7%94%A8%E5%87%BA%E7%8E%B0%E5%90%8E-%E4%B8%A4%E5%AE%B6%E8%8D%AF%E4%BC%81%E5%8F%AB%E5%81%9C%E8%87%AA%E8%BA%AB%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95%E8%AF%95%E9%AA%8C-b4fcc1d0",
+      "guid": "WP-WSJS-0003867887",
+      "pub_date": "Fri, 04 Sep 2026 00:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-97674986?size=1.499&width=1280",
+      "snapshot": "articles/e5-8f-97-e8-af-95-e8-80-85-e6-ad-bb-e4-ba-a1-e5--3f5bb4e17643.html",
+      "captured": true,
+      "capture_title": "受试者死亡和危及生命的副作用出现后，两家药企叫停自身免疫疗法试验",
       "error": ""
     },
     {
@@ -626,18 +698,6 @@
       "snapshot": "articles/e8-bf-99-e4-ba-9b-e7-be-8e-e5-9b-bd-e4-ba-ba-e5--7e6a7fd36a40.html",
       "captured": true,
       "capture_title": "这些美国人前往尼泊尔开启朝圣之旅，如今却下落不明",
-      "error": ""
-    },
-    {
-      "title": "寻味台湾：当传统文化褪去宏大叙事的外衣",
-      "summary": "台湾和大陆在文化上一脉相承。只不过，台湾更多时候是在“品味”文化，而不是将文化用作展示、证明或宣扬的工具。",
-      "link": "https://cn.wsj.com/articles/%E5%AF%BB%E5%91%B3%E5%8F%B0%E6%B9%BE-%E5%BD%93%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E8%A4%AA%E5%8E%BB%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B%E7%9A%84%E5%A4%96%E8%A1%A3-7e5b9517",
-      "guid": "WP-WSJS-0003861985",
-      "pub_date": "Wed, 02 Sep 2026 03:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-73946855?size=1.43&width=1280",
-      "snapshot": "articles/e5-af-bb-e5-91-b3-e5-8f-b0-e6-b9-be--e5-bd-93-e4-9afae0c78f16.html",
-      "captured": true,
-      "capture_title": "寻味台湾：当传统文化褪去宏大叙事的外衣",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/openai-e5-b9-bf-e5-91-8a-e5-b9-b4-e5-8c-96-e8-90-fcd4df0de386.html",
       "captured": true,
       "capture_title": "OpenAI广告年化营收达10亿美元，阿特尔曼曾视之为下策 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "华为上半年净利润下降37%，受研发支出和成本拖累",
-      "summary": "华为公布，截至6月份的六个月，净利润下降37%。与许多其他中国科技公司一样，华为在AI研发上投入了巨资。",
-      "link": "https://cn.wsj.com/articles/huawei-profit-slumps-by-a-third-on-r-d-expenses-raw-material-costs-94313694",
-      "guid": "WP-WSJS-0003856017",
-      "pub_date": "Mon, 31 Aug 2026 11:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-25270050?size=1.501&width=1280",
-      "snapshot": "articles/huawei-profit-slumps-by-a-third-on-r-d-expenses--d9aed00915ec.html",
-      "captured": true,
-      "capture_title": "华为上半年净利润下降37%，受研发支出和成本拖累 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "汽车天窗“自爆”频发，问题越来越严重",
-      "summary": "高温、路面碎片和制造缺陷都可能导致车主遭遇天窗玻璃突然破碎的情况。",
-      "link": "https://cn.wsj.com/articles/%E6%B1%BD%E8%BD%A6%E5%A4%A9%E7%AA%97-%E8%87%AA%E7%88%86-%E9%A2%91%E5%8F%91-%E9%97%AE%E9%A2%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%A5%E9%87%8D-a7bd62af",
-      "guid": "WP-WSJS-0003855472",
-      "pub_date": "Mon, 31 Aug 2026 03:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-98554012?size=1.402&width=1001",
-      "snapshot": "articles/e6-b1-bd-e8-bd-a6-e5-a4-a9-e7-aa-97--e8-87-aa-e7-709267ec8b4c.html",
-      "captured": true,
-      "capture_title": "汽车天窗“自爆”频发，问题越来越严重",
-      "error": ""
-    },
-    {
-      "title": "热浪炙烤下的欧洲：法国葡萄枯萎，英国花园败落，经济遭冲击",
-      "summary": "创纪录的酷暑导致欧洲农作物枯萎、企业运营承压，并彻底颠覆了日常生活。这一切发生得比任何人预期的都要快。",
-      "link": "https://cn.wsj.com/articles/the-summer-that-scorched-french-grapes-english-gardensand-europes-economy-cbe7dd21",
-      "guid": "WP-WSJS-0003855763",
-      "pub_date": "Mon, 31 Aug 2026 10:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-92972039?size=1.5&width=1280",
-      "snapshot": "articles/the-summer-that-scorched-french-grapes-english-g-b46578209998.html",
-      "captured": true,
-      "capture_title": "热浪炙烤下的欧洲：法国葡萄枯萎，英国花园败落，经济遭冲击",
-      "error": ""
-    },
-    {
-      "title": "卫星与碎片充斥近地轨道，图解SpaceX及竞争对手如何避障",
-      "summary": "环绕地球的人造物体激增，引发了对潜在碰撞事故的担忧。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%AB%E6%98%9F%E4%B8%8E%E7%A2%8E%E7%89%87%E5%85%85%E6%96%A5%E8%BF%91%E5%9C%B0%E8%BD%A8%E9%81%93-%E5%9B%BE%E8%A7%A3spacex%E5%8F%8A%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E5%A6%82%E4%BD%95%E9%81%BF%E9%9A%9C-306fbb27",
-      "guid": "WP-WSJS-0003855479",
-      "pub_date": "Mon, 31 Aug 2026 03:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-78597723?size=1.5&width=1280",
-      "snapshot": "articles/e5-8d-ab-e6-98-9f-e4-b8-8e-e7-a2-8e-e7-89-87-e5--f84dde9aa7bd.html",
-      "captured": true,
-      "capture_title": "卫星与碎片充斥近地轨道，图解SpaceX及竞争对手如何避障",
-      "error": ""
-    },
-    {
-      "title": "AI作弊时代，雇主重重设卡防范“虚假求职者”",
-      "summary": "AI作弊、深度伪造和朝鲜远程工作者时代的到来，正催生出新的审查手段。",
-      "link": "https://cn.wsj.com/articles/remote-job-interview-applications-fraud-b03f874a",
-      "guid": "WP-WSJS-0003855637",
-      "pub_date": "Mon, 31 Aug 2026 23:09:00 GMT",
-      "image_url": "https://images.wsj.net/im-58590992?size=1.501&width=1280",
-      "snapshot": "articles/remote-job-interview-applications-fraud-b03f874a-f83cdbcc9575.html",
-      "captured": true,
-      "capture_title": "AI作弊时代，雇主重重设卡防范“虚假求职者”",
       "error": ""
     }
   ]
