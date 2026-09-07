@@ -1,19 +1,55 @@
 {
-  "generated_at": "2026-09-07T01:22:08.693655+00:00",
+  "generated_at": "2026-09-07T03:52:52.487290+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "特朗普特使访问乌克兰，试图重启俄乌和谈",
-      "summary": "美国特使库什纳和威特科夫先后访问莫斯科和基辅，泽连斯基表示与他们讨论了潜在的冬季援助计划，其中包括防空和能源支持。",
-      "link": "https://cn.wsj.com/articles/trump-envoys-visit-ukraine-in-new-push-for-peace-talks-a6f67e15",
-      "guid": "WP-WSJS-0003872325",
-      "pub_date": "Sun, 06 Sep 2026 23:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-09737367?size=1.501&width=1280",
-      "snapshot": "articles/trump-envoys-visit-ukraine-in-new-push-for-peace-be6a6b2e94ee.html",
+      "title": "伊朗资金如何绕过制裁，进入美元清算体系",
+      "summary": "非法伊朗资金通过美元清算账户流动，给华盛顿带来执法困局。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E8%B5%84%E9%87%91%E5%A6%82%E4%BD%95%E7%BB%95%E8%BF%87%E5%88%B6%E8%A3%81-%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%85%83%E6%B8%85%E7%AE%97%E4%BD%93%E7%B3%BB-bb6033e6",
+      "guid": "WP-WSJS-0003872535",
+      "pub_date": "Mon, 07 Sep 2026 03:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-60337940?size=1.501&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e8-b5-84-e9-87-91-e5-a6-82-e4--513f25bccd03.html",
       "captured": true,
-      "capture_title": "特朗普特使访问乌克兰，试图重启俄乌和谈 - WSJ",
+      "capture_title": "伊朗资金如何绕过制裁，进入美元清算体系 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国政府将向银行和保险公司注入巨资以提振增长",
+      "summary": "中国八家最大金融机构于周末表示，正寻求筹集人民币3,600亿元，财政部将提供其中大部分资金。这是不到两年内进行的第二轮注资。",
+      "link": "https://cn.wsj.com/articles/beijing-to-inject-billions-into-banks-insurers-to-boost-growth-b2d67fcd",
+      "guid": "WP-WSJS-0003872539",
+      "pub_date": "Mon, 07 Sep 2026 03:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-45178045?size=1.502&width=1280",
+      "snapshot": "articles/beijing-to-inject-billions-into-banks-insurers-t-bd4deef63ea7.html",
+      "captured": true,
+      "capture_title": "中国政府将向银行和保险公司注入巨资以提振增长 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "乌克兰无人机袭击如何重创俄罗斯经济",
+      "summary": "通过猛烈轰炸炼油厂、航运码头和电商仓库，乌克兰正利用经济压力来削弱这个比自己庞大的对手，并迫使莫斯科方面结束冲突。",
+      "link": "https://cn.wsj.com/articles/how-ukrainian-drone-strikes-are-pounding-russias-economy-d57c3231",
+      "guid": "WP-WSJS-0003872524",
+      "pub_date": "Mon, 07 Sep 2026 03:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-38949158?size=1.49&width=1280",
+      "snapshot": "articles/how-ukrainian-drone-strikes-are-pounding-russias-4c43f0bbd37e.html",
+      "captured": true,
+      "capture_title": "乌克兰无人机袭击如何重创俄罗斯经济 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "德国极右翼政党有望取得地方选举的历史性胜利",
+      "summary": "出口民调显示德国选择党AfD遥遥领先于对手。如今其他政党必须决定是否允许其执政。",
+      "link": "https://cn.wsj.com/articles/germanys-right-wing-populists-on-course-for-historic-victory-2bf91e24",
+      "guid": "WP-WSJS-0003872363",
+      "pub_date": "Mon, 07 Sep 2026 00:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-27271436?size=1.365&width=1280",
+      "snapshot": "articles/germanys-right-wing-populists-on-course-for-hist-c975988a1da3.html",
+      "captured": true,
+      "capture_title": "德国极右翼政党有望取得地方选举的历史性胜利",
       "error": ""
     },
     {
@@ -29,18 +65,6 @@
       "error": ""
     },
     {
-      "title": "美军打击三艘伊朗船只，此前伊方向美国航母发射导弹",
-      "summary": "美国官员表示，此次针对军舰的攻击企图被视为一次重大升级。美国中央司令部表示，美军于周六打击了三艘伊朗油轮。",
-      "link": "https://cn.wsj.com/articles/u-s-strikes-three-iranian-ships-after-missiles-fired-at-american-aircraft-carrier-69a58829",
-      "guid": "WP-WSJS-0003872346",
-      "pub_date": "Sun, 06 Sep 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-46946155?size=1.78&width=1280",
-      "snapshot": "articles/u-s-strikes-three-iranian-ships-after-missiles-f-f9b57078973a.html",
-      "captured": true,
-      "capture_title": "美军打击三艘伊朗船只，此前伊方向美国航母发射导弹 - WSJ",
-      "error": ""
-    },
-    {
       "title": "数据中心领域的下一个重大机遇：保险业务",
       "summary": "AI超大规模数据中心在建设和运营过程中面临纷繁复杂的潜在威胁。这为保险公司创造了一个巨大的新商机。",
       "link": "https://cn.wsj.com/articles/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%9C%BA%E9%81%87-%E4%BF%9D%E9%99%A9%E4%B8%9A%E5%8A%A1-669a5a7f",
@@ -49,19 +73,7 @@
       "image_url": "https://images.wsj.net/im-76944135?size=1.502&width=1280",
       "snapshot": "articles/e6-95-b0-e6-8d-ae-e4-b8-ad-e5-bf-83-e9-a2-86-e5--207b21d0069d.html",
       "captured": true,
-      "capture_title": "数据中心领域的下一个重大机遇：保险业务 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国8月新增就业岗位16.2万个，远超预期",
-      "summary": "这一意外强劲的就业数据远超经济学家此前预计的新增5.3万个。失业率则稳定在历史低位4.1%。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD8%E6%9C%88%E6%96%B0%E5%A2%9E%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D16-2%E4%B8%87%E4%B8%AA-%E8%BF%9C%E8%B6%85%E9%A2%84%E6%9C%9F-acf8ae5e",
-      "guid": "WP-WSJS-0003870802",
-      "pub_date": "Sat, 05 Sep 2026 00:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-04078710?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd8-e6-9c-88-e6-96-b0-e5-a2-9e-e5-f16f1fe7f121.html",
-      "captured": true,
-      "capture_title": "美国8月新增就业岗位16.2万个，远超预期",
+      "capture_title": "数据中心领域的下一个重大机遇：保险业务",
       "error": ""
     },
     {
@@ -74,6 +86,42 @@
       "snapshot": "articles/e4-b8-ad-e6-9c-9f-e9-80-89-e4-b8-be-e5-9c-a8-e5--f22748799fb0.html",
       "captured": true,
       "capture_title": "中期选举在即，创纪录油价给特朗普带来新挑战",
+      "error": ""
+    },
+    {
+      "title": "将“硅谷范儿”带回北京的33岁AI风云人物",
+      "summary": "杨植麟放弃了在美国发展事业的机会，回国创立了月之暗面，其推出的开放权重模型令全球市场为之一震。",
+      "link": "https://cn.wsj.com/articles/moonshot-ai-yang-ceo-china-04593155",
+      "guid": "WP-WSJS-0003872553",
+      "pub_date": "Mon, 07 Sep 2026 03:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-17187953?size=1.492&width=1280",
+      "snapshot": "articles/moonshot-ai-yang-ceo-china-04593155-bf3f7abff2a0.html",
+      "captured": true,
+      "capture_title": "将“硅谷范儿”带回北京的33岁AI风云人物 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "为何普京的伙伴们开始就战争问题向他发难",
+      "summary": "印度和哈萨克斯坦领导人近日就结束乌克兰战事一事向俄罗斯总统普京作出罕见直率的表态。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%99%E4%BC%B4%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%88%98%E4%BA%89%E9%97%AE%E9%A2%98%E5%90%91%E4%BB%96%E5%8F%91%E9%9A%BE-d778d0fe",
+      "guid": "WP-WSJS-0003872479",
+      "pub_date": "Mon, 07 Sep 2026 02:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-40371936?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ba-e4-bd-95-e6-99-ae-e4-ba-ac-e7-9a-84-e4--a650a8f95afa.html",
+      "captured": true,
+      "capture_title": "为何普京的伙伴们开始就战争问题向他发难 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "无大学学历的美国人正迎来多年来最好的就业市场之一",
+      "summary": "未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。",
+      "link": "https://cn.wsj.com/articles/americans-without-college-degrees-are-having-one-of-the-best-job-markets-in-years-d9a358cc",
+      "guid": "WP-WSJS-0003872471",
+      "pub_date": "Mon, 07 Sep 2026 02:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-62314164?size=1.501&width=1280",
+      "snapshot": "articles/americans-without-college-degrees-are-having-one-91d7b7e7ed2b.html",
+      "captured": true,
+      "capture_title": "无大学学历的美国人正迎来多年来最好的就业市场之一 - WSJ",
       "error": ""
     },
     {
@@ -101,51 +149,27 @@
       "error": ""
     },
     {
-      "title": "加拿大拒绝成为下一个委内瑞拉",
-      "summary": "就像昔日的大英帝国和现代中国一样，特朗普将邻国视为原材料供应地和工业制成品的销售市场。",
-      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E7%BB%9D%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-a945ed84",
-      "guid": "WP-WSJS-0003867678",
-      "pub_date": "Thu, 03 Sep 2026 23:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-62556688?size=1.501&width=1280",
-      "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e6-8b-92-e7-bb-9d-e6--1351278a39ec.html",
+      "title": "马斯克核心圈豪掷重金，推动迷幻药物走向主流",
+      "summary": "SpaceX和特斯拉的董事正为学术研究以及一家寻求获得MDMA辅助疗法批准的商业企业提供资金支持。",
+      "link": "https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%A0%B8%E5%BF%83%E5%9C%88%E8%B1%AA%E6%8E%B7%E9%87%8D%E9%87%91-%E6%8E%A8%E5%8A%A8%E8%BF%B7%E5%B9%BB%E8%8D%AF%E7%89%A9%E8%B5%B0%E5%90%91%E4%B8%BB%E6%B5%81-c17a03ba",
+      "guid": "WP-WSJS-0003872561",
+      "pub_date": "Mon, 07 Sep 2026 03:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-88157393?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b-e6-a0-b8-e5-bf-83-e5--d78b0a036068.html",
       "captured": true,
-      "capture_title": "加拿大拒绝成为下一个委内瑞拉",
+      "capture_title": "马斯克核心圈豪掷重金，推动迷幻药物走向主流 - WSJ",
       "error": ""
     },
     {
-      "title": "德国极右翼政党有望取得地方选举的历史性胜利",
-      "summary": "出口民调显示德国选择党AfD遥遥领先于对手。如今其他政党必须决定是否允许其执政。",
-      "link": "https://cn.wsj.com/articles/germanys-right-wing-populists-on-course-for-historic-victory-2bf91e24",
-      "guid": "WP-WSJS-0003872363",
-      "pub_date": "Mon, 07 Sep 2026 00:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-27271436?size=1.365&width=1280",
-      "snapshot": "articles/germanys-right-wing-populists-on-course-for-hist-c975988a1da3.html",
+      "title": "美国散户把投资组合交由AI智能体管理，甚至给它们起了名字",
+      "summary": "美国人正通过“氛围编程”构建交易算法，并将自己的股票投资组合交由AI智能体打理，成为了掌握量化交易策略的“迷你对冲基金”。",
+      "link": "https://cn.wsj.com/articles/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-02f69f7b",
+      "guid": "WP-WSJS-0003872457",
+      "pub_date": "Mon, 07 Sep 2026 01:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-65944356?size=1.5&width=1280",
+      "snapshot": "articles/the-ai-shift-turning-everyday-investors-into-min-2f191ce0b36d.html",
       "captured": true,
-      "capture_title": "德国极右翼政党有望取得地方选举的历史性胜利 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
-      "summary": "G20声明严厉批评了过度依赖出口拉动经济增长的模式；中国是该声明的唯一异议方。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%B0%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D-g20%E5%A3%B0%E6%98%8E%E5%B1%95%E7%8E%B0%E5%A4%9A%E5%9B%BD%E5%85%B1%E8%AF%86-d085656b",
-      "guid": "WP-WSJS-0003864730",
-      "pub_date": "Wed, 02 Sep 2026 23:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-11494517?size=1.48&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-a7-b0-e5-af-b9-e4-b8-ad-e5--32faf4b5ebec.html",
-      "captured": true,
-      "capture_title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
-      "error": ""
-    },
-    {
-      "title": "一架亚马逊货运飞机在迈阿密冲出跑道，致五人死亡",
-      "summary": "亚马逊的一架货运飞机在迈阿密国际机场冲出跑道并撞上附近车辆，造成至少五人死亡，另有五人受伤。",
-      "link": "https://cn.wsj.com/articles/amazon-cargo-plane-miami-runway-crash-64b888e3",
-      "guid": "WP-WSJS-0003872313",
-      "pub_date": "Sun, 06 Sep 2026 23:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-73957485?size=1.501&width=1280",
-      "snapshot": "articles/amazon-cargo-plane-miami-runway-crash-64b888e3-5fa0daaf1ce4.html",
-      "captured": true,
-      "capture_title": "一架亚马逊货运飞机在迈阿密冲出跑道，致五人死亡 - WSJ",
+      "capture_title": "美国散户把投资组合交由AI智能体管理，甚至给它们起了名字 - WSJ",
       "error": ""
     },
     {
@@ -161,18 +185,6 @@
       "error": ""
     },
     {
-      "title": "美国数百所高校现在不用提交申请就“直接录取”",
-      "summary": "随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”",
-      "link": "https://cn.wsj.com/articles/hundreds-of-colleges-are-sending-acceptance-letters-to-kids-who-didnt-even-apply-2b5a3e44",
-      "guid": "WP-WSJS-0003867980",
-      "pub_date": "Fri, 04 Sep 2026 01:52:00 GMT",
-      "image_url": "https://images.wsj.net/im-67922443?size=1.501&width=1280",
-      "snapshot": "articles/hundreds-of-colleges-are-sending-acceptance-lett-7b78e20b3920.html",
-      "captured": true,
-      "capture_title": "美国数百所高校现在不用提交申请就“直接录取”",
-      "error": ""
-    },
-    {
       "title": "预测市场受散户热捧，加密货币遭冷落",
       "summary": "如今，加密货币圈正在流失一些最忠实的交易员，他们转而押注足球比赛和国会选举。",
       "link": "https://cn.wsj.com/articles/for-many-individual-traders-prediction-markets-are-hotand-crypto-is-not-4288dbea",
@@ -181,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-72590891?size=1.499&width=1280",
       "snapshot": "articles/for-many-individual-traders-prediction-markets-a-1d162f20c2e6.html",
       "captured": true,
-      "capture_title": "预测市场受散户热捧，加密货币遭冷落 - WSJ",
+      "capture_title": "预测市场受散户热捧，加密货币遭冷落",
       "error": ""
     },
     {
@@ -194,6 +206,30 @@
       "snapshot": "articles/e4-b8-ad-e6-ac-a7-e7-94-b5-e5-8a-a8-e5-8d-a1-e8--3002b7159519.html",
       "captured": true,
       "capture_title": "中欧电动卡车初创公司苇渡科技中国员工几乎全部离职",
+      "error": ""
+    },
+    {
+      "title": "一架亚马逊货运飞机在迈阿密冲出跑道，致五人死亡",
+      "summary": "亚马逊的一架货运飞机在迈阿密国际机场冲出跑道并撞上附近车辆，造成至少五人死亡，另有五人受伤。",
+      "link": "https://cn.wsj.com/articles/amazon-cargo-plane-miami-runway-crash-64b888e3",
+      "guid": "WP-WSJS-0003872313",
+      "pub_date": "Sun, 06 Sep 2026 23:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-73957485?size=1.501&width=1280",
+      "snapshot": "articles/amazon-cargo-plane-miami-runway-crash-64b888e3-5fa0daaf1ce4.html",
+      "captured": true,
+      "capture_title": "一架亚马逊货运飞机在迈阿密冲出跑道，致五人死亡",
+      "error": ""
+    },
+    {
+      "title": "美国用提供英伟达芯片的承诺促成了亚美尼亚与阿塞拜疆和平协议",
+      "summary": "这一此前未被报道的举措是迄今为止美国官员所谓“芯片外交”中最引人注目的案例之一。",
+      "link": "https://cn.wsj.com/articles/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-918f0a12",
+      "guid": "WP-WSJS-0003872405",
+      "pub_date": "Mon, 07 Sep 2026 00:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-30699123?size=1.501&width=1280",
+      "snapshot": "articles/u-s-used-promise-of-nvidia-chips-to-broker-armen-d6d03f032677.html",
+      "captured": true,
+      "capture_title": "美国用提供英伟达芯片的承诺促成了亚美尼亚与阿塞拜疆和平协议",
       "error": ""
     },
     {
@@ -221,27 +257,39 @@
       "error": ""
     },
     {
-      "title": "美国用提供英伟达芯片的承诺促成了亚美尼亚与阿塞拜疆和平协议",
-      "summary": "这一此前未被报道的举措是迄今为止美国官员所谓“芯片外交”中最引人注目的案例之一。",
-      "link": "https://cn.wsj.com/articles/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-918f0a12",
-      "guid": "WP-WSJS-0003872405",
-      "pub_date": "Mon, 07 Sep 2026 00:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-30699123?size=1.501&width=1280",
-      "snapshot": "articles/u-s-used-promise-of-nvidia-chips-to-broker-armen-d6d03f032677.html",
+      "title": "加拿大拒绝成为下一个委内瑞拉",
+      "summary": "就像昔日的大英帝国和现代中国一样，特朗普将邻国视为原材料供应地和工业制成品的销售市场。",
+      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E7%BB%9D%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-a945ed84",
+      "guid": "WP-WSJS-0003867678",
+      "pub_date": "Thu, 03 Sep 2026 23:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-62556688?size=1.501&width=1280",
+      "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e6-8b-92-e7-bb-9d-e6--1351278a39ec.html",
       "captured": true,
-      "capture_title": "美国用提供英伟达芯片的承诺促成了亚美尼亚与阿塞拜疆和平协议 - WSJ",
+      "capture_title": "加拿大拒绝成为下一个委内瑞拉",
       "error": ""
     },
     {
-      "title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
-      "summary": "荷兰央行将78吨黄金从纽约曼哈顿街下的金库转移到了伦敦。这批黄金按当前价格计算价值110亿美元。该行表示，此举将提升其在紧急情况下交易黄金的能力。",
-      "link": "https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1%E4%B8%BA%E7%94%B1-%E5%B0%86%E9%BB%84%E9%87%91%E4%BB%8E%E7%BA%BD%E7%BA%A6%E8%BD%AC%E7%A7%BB%E8%87%B3%E4%BC%A6%E6%95%A6-a65c0f81",
-      "guid": "WP-WSJS-0003867770",
-      "pub_date": "Thu, 03 Sep 2026 23:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-36449864?size=1.501&width=1280",
-      "snapshot": "articles/e8-8d-b7-e5-85-b0-e4-bb-a5-e5-9c-b0-e7-bc-98-e6--5ed6338ee8f4.html",
+      "title": "美国数百所高校现在不用提交申请就“直接录取”",
+      "summary": "随着生源萎缩，越来越多学校开始“直接录取”，即只依据几项标准录取学生，比如高中成绩单。“这不是学生向院校提出申请，而是院校向学生提出申请。”",
+      "link": "https://cn.wsj.com/articles/hundreds-of-colleges-are-sending-acceptance-letters-to-kids-who-didnt-even-apply-2b5a3e44",
+      "guid": "WP-WSJS-0003867980",
+      "pub_date": "Fri, 04 Sep 2026 01:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-67922443?size=1.501&width=1280",
+      "snapshot": "articles/hundreds-of-colleges-are-sending-acceptance-lett-7b78e20b3920.html",
       "captured": true,
-      "capture_title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
+      "capture_title": "美国数百所高校现在不用提交申请就“直接录取”",
+      "error": ""
+    },
+    {
+      "title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
+      "summary": "G20声明严厉批评了过度依赖出口拉动经济增长的模式；中国是该声明的唯一异议方。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%B0%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D-g20%E5%A3%B0%E6%98%8E%E5%B1%95%E7%8E%B0%E5%A4%9A%E5%9B%BD%E5%85%B1%E8%AF%86-d085656b",
+      "guid": "WP-WSJS-0003864730",
+      "pub_date": "Wed, 02 Sep 2026 23:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-11494517?size=1.48&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-a7-b0-e5-af-b9-e4-b8-ad-e5--32faf4b5ebec.html",
+      "captured": true,
+      "capture_title": "美国称对中国产能过剩忍无可忍，G20声明展现多国共识",
       "error": ""
     },
     {
@@ -254,6 +302,54 @@
       "snapshot": "articles/e4-b8-ad-e5-b0-bc-e8-be-b9-e5-a2-83-e6-b4-aa-e7--6ff2dbc58388.html",
       "captured": true,
       "capture_title": "中尼边境洪灾考验中国作为地区领导者的影响力",
+      "error": ""
+    },
+    {
+      "title": "特朗普特使访问乌克兰，试图重启俄乌和谈",
+      "summary": "美国特使库什纳和威特科夫先后访问莫斯科和基辅，泽连斯基表示与他们讨论了潜在的冬季援助计划，其中包括防空和能源支持。",
+      "link": "https://cn.wsj.com/articles/trump-envoys-visit-ukraine-in-new-push-for-peace-talks-a6f67e15",
+      "guid": "WP-WSJS-0003872325",
+      "pub_date": "Sun, 06 Sep 2026 23:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-09737367?size=1.501&width=1280",
+      "snapshot": "articles/trump-envoys-visit-ukraine-in-new-push-for-peace-be6a6b2e94ee.html",
+      "captured": true,
+      "capture_title": "特朗普特使访问乌克兰，试图重启俄乌和谈 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美军打击三艘伊朗船只，此前伊方向美国航母发射导弹",
+      "summary": "美国官员表示，此次针对军舰的攻击企图被视为一次重大升级。美国中央司令部表示，美军于周六打击了三艘伊朗油轮。",
+      "link": "https://cn.wsj.com/articles/u-s-strikes-three-iranian-ships-after-missiles-fired-at-american-aircraft-carrier-69a58829",
+      "guid": "WP-WSJS-0003872346",
+      "pub_date": "Sun, 06 Sep 2026 23:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-46946155?size=1.78&width=1280",
+      "snapshot": "articles/u-s-strikes-three-iranian-ships-after-missiles-f-f9b57078973a.html",
+      "captured": true,
+      "capture_title": "美军打击三艘伊朗船只，此前伊方向美国航母发射导弹 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国8月新增就业岗位16.2万个，远超预期",
+      "summary": "这一意外强劲的就业数据远超经济学家此前预计的新增5.3万个。失业率则稳定在历史低位4.1%。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD8%E6%9C%88%E6%96%B0%E5%A2%9E%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D16-2%E4%B8%87%E4%B8%AA-%E8%BF%9C%E8%B6%85%E9%A2%84%E6%9C%9F-acf8ae5e",
+      "guid": "WP-WSJS-0003870802",
+      "pub_date": "Sat, 05 Sep 2026 00:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-04078710?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd8-e6-9c-88-e6-96-b0-e5-a2-9e-e5-f16f1fe7f121.html",
+      "captured": true,
+      "capture_title": "美国8月新增就业岗位16.2万个，远超预期",
+      "error": ""
+    },
+    {
+      "title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
+      "summary": "荷兰央行将78吨黄金从纽约曼哈顿街下的金库转移到了伦敦。这批黄金按当前价格计算价值110亿美元。该行表示，此举将提升其在紧急情况下交易黄金的能力。",
+      "link": "https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E4%BB%A5%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1%E4%B8%BA%E7%94%B1-%E5%B0%86%E9%BB%84%E9%87%91%E4%BB%8E%E7%BA%BD%E7%BA%A6%E8%BD%AC%E7%A7%BB%E8%87%B3%E4%BC%A6%E6%95%A6-a65c0f81",
+      "guid": "WP-WSJS-0003867770",
+      "pub_date": "Thu, 03 Sep 2026 23:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-36449864?size=1.501&width=1280",
+      "snapshot": "articles/e8-8d-b7-e5-85-b0-e4-bb-a5-e5-9c-b0-e7-bc-98-e6--5ed6338ee8f4.html",
+      "captured": true,
+      "capture_title": "荷兰以地缘政治动荡为由，将黄金从纽约转移至伦敦",
       "error": ""
     },
     {
@@ -1106,102 +1202,6 @@
       "snapshot": "articles/republicansare-worried-about-the-midterms-trump--0f9fb29eb8d0.html",
       "captured": true,
       "capture_title": "共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产”",
-      "error": ""
-    },
-    {
-      "title": "面对中国压力，日本拟将防卫预算提升至创纪录水平",
-      "summary": "日本计划将更多军事支出转向无人机和导弹，并增加弹药储备。尽管如此，其年度国防预算的和缓增幅仍可能让华盛顿方面感到失望。",
-      "link": "https://cn.wsj.com/articles/japan-targets-record-defense-spend-as-china-pressure-grows-59b2cba6",
-      "guid": "WP-WSJS-0003855860",
-      "pub_date": "Mon, 31 Aug 2026 10:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-41437091?size=1.504&width=1280",
-      "snapshot": "articles/japan-targets-record-defense-spend-as-china-pres-2cf655a844c3.html",
-      "captured": true,
-      "capture_title": "面对中国压力，日本拟将防卫预算提升至创纪录水平",
-      "error": ""
-    },
-    {
-      "title": "中国驳斥有关其本可向尼泊尔发出致命洪灾预警的说法",
-      "summary": "席卷尼中边境的特大洪灾已导致超过3,000人失踪。尼泊尔方面提出疑问，即中方是否本可以对这场灾难发出一些预警。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A9%B3%E6%96%A5%E6%9C%89%E5%85%B3%E5%85%B6%E6%9C%AC%E5%8F%AF%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8F%91%E5%87%BA%E8%87%B4%E5%91%BD%E6%B4%AA%E7%81%BE%E9%A2%84%E8%AD%A6%E7%9A%84%E8%AF%B4%E6%B3%95-027fe9f6",
-      "guid": "WP-WSJS-0003855200",
-      "pub_date": "Sun, 30 Aug 2026 23:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-23157210?size=1.446&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-a9-b3-e6-96-a5-e6-9c-89-e5--14ed69b96396.html",
-      "captured": true,
-      "capture_title": "中国驳斥有关其本可向尼泊尔发出致命洪灾预警的说法",
-      "error": ""
-    },
-    {
-      "title": "俄罗斯影响力式微，普京再次寻求习近平支持",
-      "summary": "在两位领导人将于周一会晤之际，一方正逐渐积聚影响力，而另一方则深陷旷日持久的战争之中。",
-      "link": "https://cn.wsj.com/articles/putin-turns-again-to-chinas-xi-as-russias-clout-crumbles-d5f544bc",
-      "guid": "WP-WSJS-0003855373",
-      "pub_date": "Mon, 31 Aug 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-86026413?size=1.584&width=1280",
-      "snapshot": "articles/putin-turns-again-to-chinas-xi-as-russias-clout--cd28f74d9971.html",
-      "captured": true,
-      "capture_title": "俄罗斯影响力式微，普京再次寻求习近平支持",
-      "error": ""
-    },
-    {
-      "title": "油价加剧通胀担忧，全球债券收益率飙升",
-      "summary": "10年期日本国债收益率升破3%，触及30年高点。10年期德国国债收益率为2011年以来未见的高位。30年期英国国债收益率则升至1998年以来未见的水平。",
-      "link": "https://cn.wsj.com/articles/global-bond-yields-surge-as-oil-prices-fuel-inflation-worries-44faf1b9",
-      "guid": "WP-WSJS-0003858733",
-      "pub_date": "Tue, 01 Sep 2026 09:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-00050687?size=1.501&width=1280",
-      "snapshot": "articles/global-bond-yields-surge-as-oil-prices-fuel-infl-c5b64271ad48.html",
-      "captured": true,
-      "capture_title": "油价加剧通胀担忧，全球债券收益率飙升",
-      "error": ""
-    },
-    {
-      "title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？",
-      "summary": "为了帮助苹果公司达到新的高度，约翰·特努斯必须超越蒂姆·库克在供应链管理方面的卓越成就，库克已将公司打造成为一家市值5万亿美元的巨头。",
-      "link": "https://cn.wsj.com/articles/apple-ceo-john-ternus-d22bca78",
-      "guid": "WP-WSJS-0003858086",
-      "pub_date": "Tue, 01 Sep 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-94847914?size=1.501&width=1280",
-      "snapshot": "articles/apple-ceo-john-ternus-d22bca78-a78aecd2d13e.html",
-      "captured": true,
-      "capture_title": "苹果公司新CEO能否重新激活乔布斯时代的创新引擎？",
-      "error": ""
-    },
-    {
-      "title": "前美国国会议员桑托斯收到预测平台Kalshi史上首个终身禁用令",
-      "summary": "此前，一家联邦监管机构指控这位前美国国会议员通过预测平台Kalshi押注自己是否会出席总统特朗普的国情咨文演讲，获利超过1.7万美元。",
-      "link": "https://cn.wsj.com/articles/ex-congressman-george-santos-receives-kalshis-first-ever-lifetime-ban-a548962b",
-      "guid": "WP-WSJS-0003858483",
-      "pub_date": "Tue, 01 Sep 2026 04:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-11525088?size=1.499&width=1280",
-      "snapshot": "articles/ex-congressman-george-santos-receives-kalshis-fi-d653510e9665.html",
-      "captured": true,
-      "capture_title": "前美国国会议员桑托斯收到预测平台Kalshi史上首个终身禁用令",
-      "error": ""
-    },
-    {
-      "title": "OpenAI广告年化营收达10亿美元，阿尔特曼曾视之为下策",
-      "summary": "OpenAI正让全球企业在ChatGPT上投放广告变得更简便。",
-      "link": "https://cn.wsj.com/articles/sam-altman-once-called-ads-a-last-resort-now-openai-is-on-track-for-1-billion-in-revenue-from-them-ae530a4f",
-      "guid": "WP-WSJS-0003857951",
-      "pub_date": "Mon, 31 Aug 2026 23:41:00 GMT",
-      "image_url": "https://images.mktw.net/im-32737974?size=1.5&width=1280",
-      "snapshot": "articles/sam-altman-once-called-ads-a-last-resort-now-ope-fcd4df0de386.html",
-      "captured": true,
-      "capture_title": "OpenAI广告年化营收达10亿美元，阿尔特曼曾视之为下策",
-      "error": ""
-    },
-    {
-      "title": "英伟达瞄准全球机器人赛道，中国市场需求强劲",
-      "summary": "英伟达的物理AI业务不断增长，与此同时，中国机器人制造商正依赖美国芯片和软件工具来训练和操作设备。",
-      "link": "https://cn.wsj.com/articles/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-2ddfc687",
-      "guid": "WP-WSJS-0003855430",
-      "pub_date": "Mon, 31 Aug 2026 02:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-85889909?size=1.501&width=1280",
-      "snapshot": "articles/nvidia-wants-to-run-the-worlds-robots-china-is-a-845ef26e23fe.html",
-      "captured": true,
-      "capture_title": "英伟达瞄准全球机器人赛道，中国市场需求强劲",
       "error": ""
     }
   ]
