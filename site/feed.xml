@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 03:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 12:01:12 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 03:46:46 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 12:01:12 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,18 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[伊朗资金如何绕过制裁，进入美元清算体系]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60337940?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>非法伊朗资金通过美元清算账户流动，给华盛顿带来执法困局。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E8%B5%84%E9%87%91%E5%A6%82%E4%BD%95%E7%BB%95%E8%BF%87%E5%88%B6%E8%A3%81-%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%85%83%E6%B8%85%E7%AE%97%E4%BD%93%E7%B3%BB-bb6033e6</link>
-            <guid isPermaLink="false">WP-WSJS-0003872535</guid>
-            <pubDate>Mon, 07 Sep 2026 03:08:00 GMT</pubDate>
+            <title><![CDATA[海峡封锁拉锯战中，留给伊朗的时间不多了]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-38161566?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国正在协助海湾国家将大量石油运出该地区，同时封堵伊朗的石油运输。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B5%B7%E5%B3%A1%E5%B0%81%E9%94%81%E6%8B%89%E9%94%AF%E6%88%98%E4%B8%AD-%E7%95%99%E7%BB%99%E4%BC%8A%E6%9C%97%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9A%E4%BA%86-d73a8c68</link>
+            <guid isPermaLink="false">WP-WSJS-0003872624</guid>
+            <pubDate>Mon, 07 Sep 2026 05:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国8月份外汇储备小幅上升]]></title>
+            <description><![CDATA[<img width="1280" height="878" src="https://images.wsj.net/im-80397681?size=1.458&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在美元走弱和贸易顺差飙升的背景下，中国8月份外汇储备小幅走高，再次引发市场对人民币升值的担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD8%E6%9C%88%E4%BB%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E5%B0%8F%E5%B9%85%E4%B8%8A%E5%8D%87-5adb0580</link>
+            <guid isPermaLink="false">WP-WSJS-0003872833</guid>
+            <pubDate>Mon, 07 Sep 2026 10:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国政府将向银行和保险公司注入巨资以提振增长]]></title>
@@ -42,6 +49,13 @@
             <pubDate>Mon, 07 Sep 2026 03:16:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[为何普京的伙伴们开始就战争问题向他发难]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-40371936?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>印度和哈萨克斯坦领导人近日就结束乌克兰战事一事向俄罗斯总统普京作出罕见直率的表态。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%99%E4%BC%B4%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%88%98%E4%BA%89%E9%97%AE%E9%A2%98%E5%90%91%E4%BB%96%E5%8F%91%E9%9A%BE-d778d0fe</link>
+            <guid isPermaLink="false">WP-WSJS-0003872479</guid>
+            <pubDate>Mon, 07 Sep 2026 02:24:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[乌克兰无人机袭击如何重创俄罗斯经济]]></title>
             <description><![CDATA[<img width="1280" height="859" src="https://images.wsj.net/im-38949158?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>通过猛烈轰炸炼油厂、航运码头和电商仓库，乌克兰正利用经济压力来削弱这个比自己庞大的对手，并迫使莫斯科方面结束冲突。</p>]]></description>
             <link>https://cn.wsj.com/articles/how-ukrainian-drone-strikes-are-pounding-russias-economy-d57c3231</link>
@@ -49,32 +63,18 @@
             <pubDate>Mon, 07 Sep 2026 03:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国极右翼政党有望取得地方选举的历史性胜利]]></title>
-            <description><![CDATA[<img width="1280" height="938" src="https://images.wsj.net/im-27271436?size=1.365&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>出口民调显示德国选择党AfD遥遥领先于对手。如今其他政党必须决定是否允许其执政。</p>]]></description>
-            <link>https://cn.wsj.com/articles/germanys-right-wing-populists-on-course-for-historic-victory-2bf91e24</link>
-            <guid isPermaLink="false">WP-WSJS-0003872363</guid>
-            <pubDate>Mon, 07 Sep 2026 00:04:00 GMT</pubDate>
+            <title><![CDATA[对数据中心不满？科技巨头和特朗普认为你已被社会主义洗脑]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-83164877?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国被指煽动了美国针对AI的民间抵制浪潮。特朗普称，“中国对这场反数据中心运动再高兴不过了”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/upset-about-data-centers-big-tech-and-trump-think-youre-a-socialist-dupe-31e52fe3</link>
+            <guid isPermaLink="false">WP-WSJS-0003872590</guid>
+            <pubDate>Mon, 07 Sep 2026 04:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI发布GPT-6 Astra模型，宣告进入AGI时代]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-72594161?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI宣告其GPT-6 Astra模型的发布，在不久的将来或许会被视为通用人工智能的开端。</p>]]></description>
-            <link>https://cn.wsj.com/articles/openai%E5%8F%91%E5%B8%83gpt-6-astra%E6%A8%A1%E5%9E%8B-%E5%AE%A3%E5%91%8A%E8%BF%9B%E5%85%A5agi%E6%97%B6%E4%BB%A3-f3f3fdde</link>
-            <guid isPermaLink="false">WP-WSJS-0003870889</guid>
-            <pubDate>Sat, 05 Sep 2026 01:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据中心领域的下一个重大机遇：保险业务]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-76944135?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI超大规模数据中心在建设和运营过程中面临纷繁复杂的潜在威胁。这为保险公司创造了一个巨大的新商机。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%9C%BA%E9%81%87-%E4%BF%9D%E9%99%A9%E4%B8%9A%E5%8A%A1-669a5a7f</link>
-            <guid isPermaLink="false">WP-WSJS-0003872417</guid>
-            <pubDate>Mon, 07 Sep 2026 01:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中期选举在即，创纪录油价给特朗普带来新挑战]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-21681573?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周五柴油均价达到每加仑5.85美元。这打破了2022年创下的历史纪录。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%9C%A8%E5%8D%B3-%E5%88%9B%E7%BA%AA%E5%BD%95%E6%B2%B9%E4%BB%B7%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%A6%E6%9D%A5%E6%96%B0%E6%8C%91%E6%88%98-335e51ca</link>
-            <guid isPermaLink="false">WP-WSJS-0003870905</guid>
-            <pubDate>Sat, 05 Sep 2026 01:37:00 GMT</pubDate>
+            <title><![CDATA[癌症患者们正飞往中国寻求前沿疗法]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-76293693?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今上海正成为美国等富裕国家癌症患者跨国就医的新热门目的地，这里的CAR-T疗法费用不到美国的一半，中国获批产品数量也居全球首位。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E4%BB%AC%E6%AD%A3%E9%A3%9E%E5%BE%80%E4%B8%AD%E5%9B%BD%E5%AF%BB%E6%B1%82%E5%89%8D%E6%B2%BF%E7%96%97%E6%B3%95-c88e1307</link>
+            <guid isPermaLink="false">WP-WSJS-0003872730</guid>
+            <pubDate>Mon, 07 Sep 2026 08:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[将“硅谷范儿”带回北京的33岁AI风云人物]]></title>
@@ -84,18 +84,88 @@
             <pubDate>Mon, 07 Sep 2026 03:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[为何普京的伙伴们开始就战争问题向他发难]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-40371936?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>印度和哈萨克斯坦领导人近日就结束乌克兰战事一事向俄罗斯总统普京作出罕见直率的表态。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%99%E4%BC%B4%E4%BB%AC%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%88%98%E4%BA%89%E9%97%AE%E9%A2%98%E5%90%91%E4%BB%96%E5%8F%91%E9%9A%BE-d778d0fe</link>
-            <guid isPermaLink="false">WP-WSJS-0003872479</guid>
-            <pubDate>Mon, 07 Sep 2026 02:24:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[无大学学历的美国人正迎来多年来最好的就业市场之一]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-62314164?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>未上过大学的美国年轻劳动力失业率降至近几十年来的罕见低点，而大学毕业生的处境却截然相反。</p>]]></description>
             <link>https://cn.wsj.com/articles/americans-without-college-degrees-are-having-one-of-the-best-job-markets-in-years-d9a358cc</link>
             <guid isPermaLink="false">WP-WSJS-0003872471</guid>
             <pubDate>Mon, 07 Sep 2026 02:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国用提供英伟达芯片的承诺促成了亚美尼亚与阿塞拜疆和平协议]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-30699123?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这一此前未被报道的举措是迄今为止美国官员所谓“芯片外交”中最引人注目的案例之一。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-918f0a12</link>
+            <guid isPermaLink="false">WP-WSJS-0003872405</guid>
+            <pubDate>Mon, 07 Sep 2026 00:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[极右翼在选举中取得突破后，德国总理默茨面临艰难抉择]]></title>
+            <description><![CDATA[<img width="1280" height="938" src="https://images.wsj.net/im-27271436?size=1.365&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>选举结果显示德国选择党遥遥领先于对手。如今其他政党必须决定是否允许其执政。</p>]]></description>
+            <link>https://cn.wsj.com/articles/germanys-right-wing-populists-on-course-for-historic-victory-2bf91e24</link>
+            <guid isPermaLink="false">WP-WSJS-0003872363</guid>
+            <pubDate>Mon, 07 Sep 2026 08:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65944356?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国人正通过“氛围编程”构建交易算法，并将自己的股票投资组合交由AI智能体打理，成为了掌握量化交易策略的“迷你对冲基金”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-02f69f7b</link>
+            <guid isPermaLink="false">WP-WSJS-0003872457</guid>
+            <pubDate>Mon, 07 Sep 2026 01:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱马仕制表雄心勃勃，Birkin狂热却成了绊脚石]]></title>
+            <description><![CDATA[<img width="1280" height="794" src="https://images.wsj.net/im-71707680?size=1.612&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>爱马仕手表有时仍被视为购买Birkin的“配货”，也就是消费者只为获得一只抢手手袋的购买机会而买下的产品。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%88%B1%E9%A9%AC%E4%BB%95%E5%88%B6%E8%A1%A8%E9%9B%84%E5%BF%83%E5%8B%83%E5%8B%83-birkin%E7%8B%82%E7%83%AD%E5%8D%B4%E6%88%90%E4%BA%86%E7%BB%8A%E8%84%9A%E7%9F%B3-f0265c8f</link>
+            <guid isPermaLink="false">WP-WSJS-0003872910</guid>
+            <pubDate>Mon, 07 Sep 2026 11:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克核心圈豪掷重金，推动迷幻药物走向主流]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-88157393?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX和特斯拉的董事正为学术研究以及一家寻求获得MDMA辅助疗法批准的商业企业提供资金支持。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%A0%B8%E5%BF%83%E5%9C%88%E8%B1%AA%E6%8E%B7%E9%87%8D%E9%87%91-%E6%8E%A8%E5%8A%A8%E8%BF%B7%E5%B9%BB%E8%8D%AF%E7%89%A9%E8%B5%B0%E5%90%91%E4%B8%BB%E6%B5%81-c17a03ba</link>
+            <guid isPermaLink="false">WP-WSJS-0003872561</guid>
+            <pubDate>Mon, 07 Sep 2026 03:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2,000美元iPhone即将问世，苹果公司瞄准高端消费者]]></title>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-01197234?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>苹果公司周三的发布会可能推出iPhone 18和18 Pro，以及起售价接近2,000美元的可折叠iPhone Ultra。</p>]]></description>
+            <link>https://cn.wsj.com/articles/2-000%E7%BE%8E%E5%85%83iphone%E5%8D%B3%E5%B0%86%E9%97%AE%E4%B8%96-%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9E%84%E5%87%86%E9%AB%98%E7%AB%AF%E6%B6%88%E8%B4%B9%E8%80%85-e34da91d</link>
+            <guid isPermaLink="false">WP-WSJS-0003872951</guid>
+            <pubDate>Mon, 07 Sep 2026 11:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[长鑫重点介绍在智能手机和AI领域的进展，正值市场份额攀升]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-28693819?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>小米集团即将推出的旗舰机型将采用长鑫最新一代移动内存芯片。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%95%BF%E9%91%AB%E9%87%8D%E7%82%B9%E4%BB%8B%E7%BB%8D%E5%9C%A8%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%92%8Cai%E9%A2%86%E5%9F%9F%E7%9A%84%E8%BF%9B%E5%B1%95-%E6%AD%A3%E5%80%BC%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E6%94%80%E5%8D%87-d7d465b1</link>
+            <guid isPermaLink="false">WP-WSJS-0003872875</guid>
+            <pubDate>Mon, 07 Sep 2026 10:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[破解续航焦虑，车企巨头在美试水增程式电动汽车]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15520312?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>现代、福特和Stellantis计划在美国推出配备燃油发电机的更大型电动汽车，以解决里程焦虑问题。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%A0%B4%E8%A7%A3%E7%BB%AD%E8%88%AA%E7%84%A6%E8%99%91-%E8%BD%A6%E4%BC%81%E5%B7%A8%E5%A4%B4%E5%9C%A8%E7%BE%8E%E8%AF%95%E6%B0%B4%E5%A2%9E%E7%A8%8B%E5%BC%8F%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6-3688ebfa</link>
+            <guid isPermaLink="false">WP-WSJS-0003872594</guid>
+            <pubDate>Mon, 07 Sep 2026 04:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI发布GPT-6 Astra模型，宣告进入AGI时代]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-72594161?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI宣告其GPT-6 Astra模型的发布，在不久的将来或许会被视为通用人工智能的开端。</p>]]></description>
+            <link>https://cn.wsj.com/articles/openai%E5%8F%91%E5%B8%83gpt-6-astra%E6%A8%A1%E5%9E%8B-%E5%AE%A3%E5%91%8A%E8%BF%9B%E5%85%A5agi%E6%97%B6%E4%BB%A3-f3f3fdde</link>
+            <guid isPermaLink="false">WP-WSJS-0003870889</guid>
+            <pubDate>Sat, 05 Sep 2026 01:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67067668?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E6%AC%A7%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E8%8B%87%E6%B8%A1%E7%A7%91%E6%8A%80%E4%B8%AD%E5%9B%BD%E5%91%98%E5%B7%A5%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E7%A6%BB%E8%81%8C-8b0a9760</link>
+            <guid isPermaLink="false">WP-WSJS-0003870967</guid>
+            <pubDate>Sat, 05 Sep 2026 02:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[预测市场受散户热捧，加密货币遭冷落]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-72590891?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，加密货币圈正在流失一些最忠实的交易员，他们转而押注足球比赛和国会选举。</p>]]></description>
+            <link>https://cn.wsj.com/articles/for-many-individual-traders-prediction-markets-are-hotand-crypto-is-not-4288dbea</link>
+            <guid isPermaLink="false">WP-WSJS-0003872376</guid>
+            <pubDate>Mon, 07 Sep 2026 00:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[电动汽车助力中国破解霍尔木兹困局——而这仅仅是个开始]]></title>
@@ -112,69 +182,6 @@
             <pubDate>Thu, 03 Sep 2026 06:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马斯克核心圈豪掷重金，推动迷幻药物走向主流]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-88157393?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>SpaceX和特斯拉的董事正为学术研究以及一家寻求获得MDMA辅助疗法批准的商业企业提供资金支持。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%A0%B8%E5%BF%83%E5%9C%88%E8%B1%AA%E6%8E%B7%E9%87%8D%E9%87%91-%E6%8E%A8%E5%8A%A8%E8%BF%B7%E5%B9%BB%E8%8D%AF%E7%89%A9%E8%B5%B0%E5%90%91%E4%B8%BB%E6%B5%81-c17a03ba</link>
-            <guid isPermaLink="false">WP-WSJS-0003872561</guid>
-            <pubDate>Mon, 07 Sep 2026 03:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国散户把投资组合交由AI智能体管理，甚至给它们起了名字]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65944356?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国人正通过“氛围编程”构建交易算法，并将自己的股票投资组合交由AI智能体打理，成为了掌握量化交易策略的“迷你对冲基金”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-02f69f7b</link>
-            <guid isPermaLink="false">WP-WSJS-0003872457</guid>
-            <pubDate>Mon, 07 Sep 2026 01:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[眼下最让人类开心的事：看机器人出糗]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-13513311?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这种视频恰好满足了我们的心理需求：纯粹的肢体喜剧、毫无负罪感的幸灾乐祸，以及一种令人安心的优越感。</p>]]></description>
-            <link>https://cn.wsj.com/articles/robots-failing-world-humanoid-games-c6756fbd</link>
-            <guid isPermaLink="false">WP-WSJS-0003867938</guid>
-            <pubDate>Fri, 04 Sep 2026 01:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预测市场受散户热捧，加密货币遭冷落]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-72590891?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今，加密货币圈正在流失一些最忠实的交易员，他们转而押注足球比赛和国会选举。</p>]]></description>
-            <link>https://cn.wsj.com/articles/for-many-individual-traders-prediction-markets-are-hotand-crypto-is-not-4288dbea</link>
-            <guid isPermaLink="false">WP-WSJS-0003872376</guid>
-            <pubDate>Mon, 07 Sep 2026 00:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中欧电动卡车初创公司苇渡科技中国员工几乎全部离职]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67067668?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>由于拖欠工资，苇渡科技已有约100名中国员工离职，这相当于该公司在华的绝大部分员工。苇渡科技原本被视为特斯拉的劲敌。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E6%AC%A7%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E8%8B%87%E6%B8%A1%E7%A7%91%E6%8A%80%E4%B8%AD%E5%9B%BD%E5%91%98%E5%B7%A5%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E7%A6%BB%E8%81%8C-8b0a9760</link>
-            <guid isPermaLink="false">WP-WSJS-0003870967</guid>
-            <pubDate>Sat, 05 Sep 2026 02:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一架亚马逊货运飞机在迈阿密冲出跑道，致五人死亡]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-73957485?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亚马逊的一架货运飞机在迈阿密国际机场冲出跑道并撞上附近车辆，造成至少五人死亡，另有五人受伤。</p>]]></description>
-            <link>https://cn.wsj.com/articles/amazon-cargo-plane-miami-runway-crash-64b888e3</link>
-            <guid isPermaLink="false">WP-WSJS-0003872313</guid>
-            <pubDate>Sun, 06 Sep 2026 23:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国用提供英伟达芯片的承诺促成了亚美尼亚与阿塞拜疆和平协议]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-30699123?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这一此前未被报道的举措是迄今为止美国官员所谓“芯片外交”中最引人注目的案例之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-918f0a12</link>
-            <guid isPermaLink="false">WP-WSJS-0003872405</guid>
-            <pubDate>Mon, 07 Sep 2026 00:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车监事会意外批准裁员10万人计划]]></title>
-            <description><![CDATA[<img width="1280" height="847" src="https://images.wsj.net/im-59216030?size=1.511&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>监事会意外通过了首席执行官奥博穆提出的激进重组方案。该汽车制造商将大幅削减旗下车型品类，其欧洲工厂前途未卜。</p>]]></description>
-            <link>https://cn.wsj.com/articles/volkswagenboard-approves-doubling-job-cuts-to-100-000-in-surprise-move-1738d627</link>
-            <guid isPermaLink="false">WP-WSJS-0003868372</guid>
-            <pubDate>Fri, 04 Sep 2026 08:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHTSA对特斯拉Cybercab安全标准认证展开调查]]></title>
-            <description><![CDATA[<img width="1280" height="914" src="https://images.wsj.net/im-72332563?size=1.4&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国联邦监管机构已对特斯拉及其无方向盘汽车Cybercab展开调查，以确定该车型是否符合安全标准。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E5%B1%80%E5%AF%B9%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BAcybercab%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5-11c54e22</link>
-            <guid isPermaLink="false">WP-WSJS-0003870939</guid>
-            <pubDate>Sat, 05 Sep 2026 01:52:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[加拿大拒绝成为下一个委内瑞拉]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-62556688?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>就像昔日的大英帝国和现代中国一样，特朗普将邻国视为原材料供应地和工业制成品的销售市场。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E7%BB%9D%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-a945ed84</link>
@@ -189,11 +196,11 @@
             <pubDate>Fri, 04 Sep 2026 01:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国称对中国产能过剩忍无可忍，G20声明展现多国共识]]></title>
-            <description><![CDATA[<img width="1280" height="865" src="https://images.wsj.net/im-11494517?size=1.48&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>G20声明严厉批评了过度依赖出口拉动经济增长的模式；中国是该声明的唯一异议方。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%B0%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D-g20%E5%A3%B0%E6%98%8E%E5%B1%95%E7%8E%B0%E5%A4%9A%E5%9B%BD%E5%85%B1%E8%AF%86-d085656b</link>
-            <guid isPermaLink="false">WP-WSJS-0003864730</guid>
-            <pubDate>Wed, 02 Sep 2026 23:11:00 GMT</pubDate>
+            <title><![CDATA[在海上撑了286天后，“林肯”号航母的5,000名水兵终于在泰国放松一下]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-76089260?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“林肯”号在美国对伊朗的轰炸行动中发挥了关键作用，并参与了对伊朗港口的持续封锁。水兵们将在以夜生活闻名的海滨小城芭堤雅度过上岸时光。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%9C%A8%E6%B5%B7%E4%B8%8A%E6%92%91%E4%BA%86286%E5%A4%A9%E5%90%8E-%E6%9E%97%E8%82%AF-%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%9A%845-000%E5%90%8D%E6%B0%B4%E5%85%B5%E7%BB%88%E4%BA%8E%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%94%BE%E6%9D%BE%E4%B8%80%E4%B8%8B-72c28be4</link>
+            <guid isPermaLink="false">WP-WSJS-0003865124</guid>
+            <pubDate>Thu, 03 Sep 2026 02:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中尼边境洪灾考验中国作为地区领导者的影响力]]></title>
@@ -203,25 +210,18 @@
             <pubDate>Wed, 02 Sep 2026 23:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达重磅收购Hugging Face背后：“硬核极客”创始人的开源AI之路]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-30599127?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家初创公司起初只是一款以emoji命名的青少年应用，如今成了开源AI领域的先锋。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-635c8af2</link>
-            <guid isPermaLink="false">WP-WSJS-0003868194</guid>
-            <pubDate>Fri, 04 Sep 2026 05:05:00 GMT</pubDate>
+            <title><![CDATA[漫步于台湾庙宇，我窥见中国另一种可能的模样]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-32917023?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>两岸分离七十余载，塑造了两地民众截然不同的宗教生活。在台北挤满信众的庙宇中，出生于中国的本报记者见证了中国大陆失去了什么。</p>]]></description>
+            <link>https://cn.wsj.com/articles/at-taiwans-temples-a-glimpse-of-what-china-could-have-been-b110f735</link>
+            <guid isPermaLink="false">WP-WSJS-0003872564</guid>
+            <pubDate>Mon, 07 Sep 2026 03:49:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年”]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-59761841?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着伊朗战争的结束遥遥无期，阿联酋领导人们已放弃对经济反弹的希望。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%B7%B4%E6%9E%97%E5%A4%A7%E5%A5%96%E8%B5%9B%E7%A7%BB%E5%B8%88%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E6%88%98%E7%81%AB%E8%AE%A9%E6%B5%B7%E6%B9%BE%E5%AF%8C%E5%9B%BD%E9%81%AD%E9%81%87-%E5%A4%B1%E8%90%BD%E4%B9%8B%E5%B9%B4-38fc9593</link>
-            <guid isPermaLink="false">WP-WSJS-0003868146</guid>
-            <pubDate>Fri, 04 Sep 2026 03:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在海上撑了286天后，“林肯”号航母的5,000名水兵终于在泰国放松一下]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-76089260?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>“林肯”号在美国对伊朗的轰炸行动中发挥了关键作用，并参与了对伊朗港口的持续封锁。水兵们将在以夜生活闻名的海滨小城芭堤雅度过上岸时光。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%9C%A8%E6%B5%B7%E4%B8%8A%E6%92%91%E4%BA%86286%E5%A4%A9%E5%90%8E-%E6%9E%97%E8%82%AF-%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%9A%845-000%E5%90%8D%E6%B0%B4%E5%85%B5%E7%BB%88%E4%BA%8E%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%94%BE%E6%9D%BE%E4%B8%80%E4%B8%8B-72c28be4</link>
-            <guid isPermaLink="false">WP-WSJS-0003865124</guid>
-            <pubDate>Thu, 03 Sep 2026 02:25:00 GMT</pubDate>
+            <title><![CDATA[眼下最让人类开心的事：看机器人出糗]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-13513311?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这种视频恰好满足了我们的心理需求：纯粹的肢体喜剧、毫无负罪感的幸灾乐祸，以及一种令人安心的优越感。</p>]]></description>
+            <link>https://cn.wsj.com/articles/robots-failing-world-humanoid-games-c6756fbd</link>
+            <guid isPermaLink="false">WP-WSJS-0003867938</guid>
+            <pubDate>Fri, 04 Sep 2026 01:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[全美曾为医美填充疯狂，如今迎来“面部大消气”时代]]></title>
@@ -229,13 +229,6 @@
             <link>https://cn.wsj.com/articles/filler-removal-51e93c98</link>
             <guid isPermaLink="false">WP-WSJS-0003868557</guid>
             <pubDate>Fri, 04 Sep 2026 11:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一位对冲基金巨头的离婚案曝光华尔街惊人财富]]></title>
-            <description><![CDATA[<img width="1280" height="1920" src="https://images.wsj.net/im-19804?size=0.67&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>约翰·奥弗德克与劳拉·奥弗德克分道扬镳，这场诉讼可能催生有史以来金额最高的离婚和解协议之一，或许还将左右量化巨头Two Sigma高层的权力格局。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%80%E4%BD%8D%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91%E5%B7%A8%E5%A4%B4%E7%9A%84%E7%A6%BB%E5%A9%9A%E6%A1%88%E6%9B%9D%E5%85%89%E5%8D%8E%E5%B0%94%E8%A1%97%E6%83%8A%E4%BA%BA%E8%B4%A2%E5%AF%8C-108284a3</link>
-            <guid isPermaLink="false">WP-WSJS-0003858057</guid>
-            <pubDate>Tue, 01 Sep 2026 00:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
