@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 10:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 16:20:04 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 10:55:46 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 16:20:04 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,13 @@
             <pubDate>Tue, 08 Sep 2026 06:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[三组数据凸显中国出口热潮规模之大]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-98602755?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>8月贸易数据显示，中国出口增长异常强劲，使其有望至少与去年创纪录的1.2万亿美元贸易顺差持平。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%89%E7%BB%84%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%83%AD%E6%BD%AE%E8%A7%84%E6%A8%A1%E4%B9%8B%E5%A4%A7-c067b136</link>
+            <guid isPermaLink="false">WP-WSJS-0003874604</guid>
+            <pubDate>Tue, 08 Sep 2026 11:44:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国出口增速加快，贸易顺差扩大]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-66171014?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>受全球AI基础设施建设热潮支撑，中国8月出口同比增长25.0%，超出预期，不过海外出货量激增可能加剧中国与贸易伙伴之间的紧张关系。</p>]]></description>
             <link>https://cn.wsj.com/articles/china-sexport-growth-accelerated-in-august-e9d5cc01</link>
@@ -47,13 +54,6 @@
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E7%BB%A7%E7%BB%AD%E6%89%BF%E5%8E%8B-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%BB%BD%E9%A2%9D%E6%89%A9%E5%A4%A7%E4%B8%94%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-83df7d5f</link>
             <guid isPermaLink="false">WP-WSJS-0003874178</guid>
             <pubDate>Tue, 08 Sep 2026 08:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国政府将向银行和保险公司注入巨资以提振增长]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-45178045?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国八家最大金融机构于周末表示，正寻求筹集人民币3,600亿元，财政部将提供其中大部分资金。这是不到两年内进行的第二轮注资。</p>]]></description>
-            <link>https://cn.wsj.com/articles/beijing-to-inject-billions-into-banks-insurers-to-boost-growth-b2d67fcd</link>
-            <guid isPermaLink="false">WP-WSJS-0003872539</guid>
-            <pubDate>Mon, 07 Sep 2026 03:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美股轻松的夏季行情宣告结束，投资者需警惕]]></title>

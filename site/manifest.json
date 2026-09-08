@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:01:06.693547+00:00",
+  "generated_at": "2026-09-08T16:26:22.592239+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,19 @@
       "image_url": "https://images.wsj.net/im-47649802?size=1.5&width=1280",
       "snapshot": "articles/the-trillion-dollar-bright-spot-in-chinas-econom-2e30f3d32bbd.html",
       "captured": true,
-      "capture_title": "数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎 - WSJ",
+      "capture_title": "数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎",
+      "error": ""
+    },
+    {
+      "title": "三组数据凸显中国出口热潮规模之大",
+      "summary": "8月贸易数据显示，中国出口增长异常强劲，使其有望至少与去年创纪录的1.2万亿美元贸易顺差持平。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%89%E7%BB%84%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%83%AD%E6%BD%AE%E8%A7%84%E6%A8%A1%E4%B9%8B%E5%A4%A7-c067b136",
+      "guid": "WP-WSJS-0003874604",
+      "pub_date": "Tue, 08 Sep 2026 11:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-98602755?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-89-e7-bb-84-e6-95-b0-e6-8d-ae-e5-87-b8-e6--243308cbffce.html",
+      "captured": true,
+      "capture_title": "三组数据凸显中国出口热潮规模之大 - WSJ",
       "error": ""
     },
     {
@@ -25,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-66171014?size=1.501&width=1280",
       "snapshot": "articles/china-sexport-growth-accelerated-in-august-e9d5c-2b528452bc6d.html",
       "captured": true,
-      "capture_title": "中国出口增速加快，贸易顺差扩大 - WSJ",
+      "capture_title": "中国出口增速加快，贸易顺差扩大",
       "error": ""
     },
     {
@@ -37,19 +49,7 @@
       "image_url": "https://images.wsj.net/im-06806435?size=1.455&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b1-bd-e8-bd-a6-e5-b8-82-e5--fb5b0f01cdf5.html",
       "captured": true,
-      "capture_title": "中国汽车市场继续承压，电动汽车份额扩大且出口激增 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中国政府将向银行和保险公司注入巨资以提振增长",
-      "summary": "中国八家最大金融机构于周末表示，正寻求筹集人民币3,600亿元，财政部将提供其中大部分资金。这是不到两年内进行的第二轮注资。",
-      "link": "https://cn.wsj.com/articles/beijing-to-inject-billions-into-banks-insurers-to-boost-growth-b2d67fcd",
-      "guid": "WP-WSJS-0003872539",
-      "pub_date": "Mon, 07 Sep 2026 03:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-45178045?size=1.502&width=1280",
-      "snapshot": "articles/beijing-to-inject-billions-into-banks-insurers-t-bd4deef63ea7.html",
-      "captured": true,
-      "capture_title": "中国政府将向银行和保险公司注入巨资以提振增长",
+      "capture_title": "中国汽车市场继续承压，电动汽车份额扩大且出口激增",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-63475746?size=1.5&width=1280",
       "snapshot": "articles/e5-9b-be-e8-a7-a3-e6-97-a0-e4-ba-ba-e6-9c-ba-e5--170f294721d2.html",
       "captured": true,
-      "capture_title": "图解无人机如何渗透北约欧洲领空 - WSJ",
+      "capture_title": "图解无人机如何渗透北约欧洲领空",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-68566708?size=1.5053763440860215&width=1280",
       "snapshot": "articles/e6-8f-bd-e7-a7-81-e5-88-a9--e6-91-86-e5-ae-98-e5-209a081a44da.html",
       "captured": true,
-      "capture_title": "美国国土安全部“影子部长”的“权力游戏” - WSJ",
+      "capture_title": "美国国土安全部“影子部长”的“权力游戏”",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-52858546?size=1.5&width=1280",
       "snapshot": "articles/25-years-after-the-sept-11-attacks-lower-manhatt-4ca0e9a1bc18.html",
       "captured": true,
-      "capture_title": "“9·11”恐袭25年后，曼哈顿下城重现勃勃生机 - WSJ",
+      "capture_title": "“9·11”恐袭25年后，曼哈顿下城重现勃勃生机",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-72019867?size=1.485&width=1280",
       "snapshot": "articles/e8-b4-9d-e6-a3-ae-e7-89-b9-e5-af-b9-e6-97-a5-e5--8da3438cbbb6.html",
       "captured": true,
-      "capture_title": "贝森特对日圆的押注暂时初见成效 - WSJ",
+      "capture_title": "贝森特对日圆的押注暂时初见成效",
       "error": ""
     },
     {
@@ -241,7 +241,7 @@
       "image_url": "https://images.mktw.net/im-35915507?size=1.77&width=1280",
       "snapshot": "articles/e8-a6-81-e9-a2-a0-e8-a6-86-e7-8e-b0-e5-ae-9e-e4--df0fad5075a2.html",
       "captured": true,
-      "capture_title": "要颠覆现实世界，人形机器人需解决“大脑”短板 - WSJ",
+      "capture_title": "要颠覆现实世界，人形机器人需解决“大脑”短板",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/e4-b8-ba-e4-bd-95-e6-99-ae-e4-ba-ac-e7-9a-84-e4--a650a8f95afa.html",
       "captured": true,
       "capture_title": "为何普京的伙伴们开始就战争问题向他发难",
+      "error": ""
+    },
+    {
+      "title": "中国政府将向银行和保险公司注入巨资以提振增长",
+      "summary": "中国八家最大金融机构于周末表示，正寻求筹集人民币3,600亿元，财政部将提供其中大部分资金。这是不到两年内进行的第二轮注资。",
+      "link": "https://cn.wsj.com/articles/beijing-to-inject-billions-into-banks-insurers-to-boost-growth-b2d67fcd",
+      "guid": "WP-WSJS-0003872539",
+      "pub_date": "Mon, 07 Sep 2026 03:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-45178045?size=1.502&width=1280",
+      "snapshot": "articles/beijing-to-inject-billions-into-banks-insurers-t-bd4deef63ea7.html",
+      "captured": true,
+      "capture_title": "中国政府将向银行和保险公司注入巨资以提振增长",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/nba-e5-9b-a0-e8-96-aa-e8-b5-84-e5-b8-bd-e4-b8-91-0fd783a9d636.html",
       "captured": true,
       "capture_title": "NBA因薪资帽丑闻对快船队及鲍尔默开出历史级重罚 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "社会反弹不会让AI发展减速，真金白银或许可以",
-      "summary": "对AI社会影响的担忧切实存在，但更可能让AI发展放缓的，是其自身发展以及财务方面的限制。",
-      "link": "https://cn.wsj.com/articles/%E7%A4%BE%E4%BC%9A%E5%8F%8D%E5%BC%B9%E4%B8%8D%E4%BC%9A%E8%AE%A9ai%E5%8F%91%E5%B1%95%E5%87%8F%E9%80%9F-%E7%9C%9F%E9%87%91%E7%99%BD%E9%93%B6%E6%88%96%E8%AE%B8%E5%8F%AF%E4%BB%A5-a42b80ba",
-      "guid": "WP-WSJS-0003861844",
-      "pub_date": "Wed, 02 Sep 2026 01:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-87338863?size=1.332&width=1280",
-      "snapshot": "articles/e7-a4-be-e4-bc-9a-e5-8f-8d-e5-bc-b9-e4-b8-8d-e4--1ede0f45aa8f.html",
-      "captured": true,
-      "capture_title": "社会反弹不会让AI发展减速，真金白银或许可以",
       "error": ""
     }
   ]
