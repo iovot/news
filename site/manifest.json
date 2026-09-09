@@ -1,31 +1,19 @@
 {
-  "generated_at": "2026-09-09T04:06:33.208939+00:00",
+  "generated_at": "2026-09-09T11:04:34.312943+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "“修昔底德陷阱”的迷思：为何说中国绝非普通的崛起大国",
-      "summary": "习近平曾在与特朗普会晤时提及“修昔底德陷阱”，该叙事框架将中国视为一个常规的崛起大国。而亲历过中国体制的学者许成钢告诉我，把这个理论放在中美博弈的语境是具有迷惑性的。",
-      "link": "https://cn.wsj.com/articles/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7%E9%99%B7%E9%98%B1-%E7%9A%84%E8%BF%B7%E6%80%9D-%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%9D%E9%9D%9E%E6%99%AE%E9%80%9A%E7%9A%84%E5%B4%9B%E8%B5%B7%E5%A4%A7%E5%9B%BD-f4862114",
-      "guid": "WP-WSJS-0003877265",
-      "pub_date": "Wed, 09 Sep 2026 02:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-06259874?size=1.5&width=1280",
-      "snapshot": "articles/e4-bf-ae-e6-98-94-e5-ba-95-e5-be-b7-e9-99-b7-e9--44d54664a660.html",
+      "title": "中国是否在窃取美国AI？“蒸馏”为何会激起美方强烈反弹？",
+      "summary": "美国安全机构周二指控六家中国AI企业系统性地利用美方AI模型训练自家系统，并称这些中国公司开展了“工业规模般激进、恶意且有针对性的蒸馏活动”。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%90%A6%E5%9C%A8%E7%AA%83%E5%8F%96%E7%BE%8E%E5%9B%BDai-%E8%92%B8%E9%A6%8F-%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%BF%80%E8%B5%B7%E7%BE%8E%E6%96%B9%E5%BC%BA%E7%83%88%E5%8F%8D%E5%BC%B9-5f339730",
+      "guid": "WP-WSJS-0003877813",
+      "pub_date": "Wed, 09 Sep 2026 09:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-58075007?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-98-af-e5-90-a6-e5-9c-a8-e7--c80e295631f1.html",
       "captured": true,
-      "capture_title": "“修昔底德陷阱”的迷思：为何说中国绝非普通的崛起大国 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国打击伊朗油轮，以回应德黑兰对美国军舰的袭击",
-      "summary": "美国中央司令部称，美国于周二摧毁了五艘伊朗油轮，以回应近几日伊朗方面对美国在中东地区军舰发起的最新攻击。",
-      "link": "https://cn.wsj.com/articles/u-s-strikes-iranian-oil-tankers-in-response-to-tehrans-attacks-on-navy-ships-9bd487fe",
-      "guid": "WP-WSJS-0003876712",
-      "pub_date": "Wed, 09 Sep 2026 01:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-00898920?size=1.501&width=1280",
-      "snapshot": "articles/u-s-strikes-iranian-oil-tankers-in-response-to-t-d98b7aed6b1c.html",
-      "captured": true,
-      "capture_title": "美国打击伊朗油轮，以回应德黑兰对美国军舰的袭击 - WSJ",
+      "capture_title": "中国是否在窃取美国AI？“蒸馏”为何会激起美方强烈反弹？ - WSJ",
       "error": ""
     },
     {
@@ -37,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-59260675?size=1.501&width=1280",
       "snapshot": "articles/anthropic-researcher-quits-over-out-of-control-a-e70780ed2360.html",
       "captured": true,
-      "capture_title": "Anthropic研究员因担忧AI“失控”而辞职 - WSJ",
+      "capture_title": "Anthropic研究员因担忧AI“失控”而辞职",
       "error": ""
     },
     {
@@ -49,7 +37,19 @@
       "image_url": "https://images.wsj.net/im-38297863?size=1.501&width=1280",
       "snapshot": "articles/fords-use-of-chinese-tech-called-unacceptable-by-8b58a983e77a.html",
       "captured": true,
-      "capture_title": "美国交通部长称福特使用中国技术“不可接受” - WSJ",
+      "capture_title": "美国交通部长称福特使用中国技术“不可接受”",
+      "error": ""
+    },
+    {
+      "title": "美国打击伊朗油轮，以回应德黑兰对美国军舰的袭击",
+      "summary": "美国中央司令部称，美国于周二摧毁了五艘伊朗油轮，以回应近几日伊朗方面对美国在中东地区军舰发起的最新攻击。",
+      "link": "https://cn.wsj.com/articles/u-s-strikes-iranian-oil-tankers-in-response-to-tehrans-attacks-on-navy-ships-9bd487fe",
+      "guid": "WP-WSJS-0003876712",
+      "pub_date": "Wed, 09 Sep 2026 01:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-00898920?size=1.501&width=1280",
+      "snapshot": "articles/u-s-strikes-iranian-oil-tankers-in-response-to-t-d98b7aed6b1c.html",
+      "captured": true,
+      "capture_title": "美国打击伊朗油轮，以回应德黑兰对美国军舰的袭击",
       "error": ""
     },
     {
@@ -61,7 +61,19 @@
       "image_url": "https://images.wsj.net/im-94052858?size=1.501&width=1280",
       "snapshot": "articles/trump-rnc-midterm-convention-7aa871f0-5e9f115ff95a.html",
       "captured": true,
-      "capture_title": "共和党中期选举策略：还得靠特朗普 - WSJ",
+      "capture_title": "共和党中期选举策略：还得靠特朗普",
+      "error": ""
+    },
+    {
+      "title": "德国选择党试图将其首个州政府打造成极右翼政策实验室",
+      "summary": "在东部州选举中的胜利使得该党比以往任何时候都更接近实际执政。如果成功组阁，选择党打算启动本世纪欧洲最雄心勃勃的极右翼政策实验之一。",
+      "link": "https://cn.wsj.com/articles/%E5%BE%B7%E5%9B%BD%E9%80%89%E6%8B%A9%E5%85%9A%E8%AF%95%E5%9B%BE%E5%B0%86%E5%85%B6%E9%A6%96%E4%B8%AA%E5%B7%9E%E6%94%BF%E5%BA%9C%E6%89%93%E9%80%A0%E6%88%90%E6%9E%81%E5%8F%B3%E7%BF%BC%E6%94%BF%E7%AD%96%E5%AE%9E%E9%AA%8C%E5%AE%A4-b3f1cd59",
+      "guid": "WP-WSJS-0003877144",
+      "pub_date": "Wed, 09 Sep 2026 01:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-40935252?size=1.499&width=1280",
+      "snapshot": "articles/e5-be-b7-e5-9b-bd-e9-80-89-e6-8b-a9-e5-85-9a-e8--a69c948dd337.html",
+      "captured": true,
+      "capture_title": "德国选择党试图将其首个州政府打造成极右翼政策实验室",
       "error": ""
     },
     {
@@ -73,19 +85,19 @@
       "image_url": "https://images.wsj.net/im-63518724?size=1.499&width=1280",
       "snapshot": "articles/trump-says-he-will-block-canadian-firms-from-gov-4131700d1f59.html",
       "captured": true,
-      "capture_title": "特朗普签署行政令，禁止部分加拿大产品进入美国市场 - WSJ",
+      "capture_title": "特朗普签署行政令，禁止部分加拿大产品进入美国市场",
       "error": ""
     },
     {
-      "title": "欧洲国家将对以色列实施贸易禁令，直指约旦河西岸定居点问题",
-      "summary": "英国、法国、加拿大及另外九个国家表示，将对以色列实施新的贸易限制。以色列称将对率先宣布相关措施的英国展开报复。",
-      "link": "https://cn.wsj.com/articles/european-nations-impose-trade-bans-on-israel-over-west-bank-settlements-688472ab",
-      "guid": "WP-WSJS-0003876908",
-      "pub_date": "Wed, 09 Sep 2026 00:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-86937897?size=1.501&width=1280",
-      "snapshot": "articles/european-nations-impose-trade-bans-on-israel-ove-32b11b8520fb.html",
+      "title": "“修昔底德陷阱”的迷思：为何说中国绝非普通的崛起大国",
+      "summary": "习近平曾在与特朗普会晤时提及“修昔底德陷阱”，该叙事框架将中国视为一个常规的崛起大国。而亲历过中国体制的学者许成钢告诉我，把这个理论放在中美博弈的语境是具有迷惑性的。",
+      "link": "https://cn.wsj.com/articles/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7%E9%99%B7%E9%98%B1-%E7%9A%84%E8%BF%B7%E6%80%9D-%E4%B8%BA%E4%BD%95%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%9D%E9%9D%9E%E6%99%AE%E9%80%9A%E7%9A%84%E5%B4%9B%E8%B5%B7%E5%A4%A7%E5%9B%BD-f4862114",
+      "guid": "WP-WSJS-0003877265",
+      "pub_date": "Wed, 09 Sep 2026 02:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-06259874?size=1.5&width=1280",
+      "snapshot": "articles/e4-bf-ae-e6-98-94-e5-ba-95-e5-be-b7-e9-99-b7-e9--44d54664a660.html",
       "captured": true,
-      "capture_title": "欧洲国家将对以色列实施贸易禁令，直指约旦河西岸定居点问题 - WSJ",
+      "capture_title": "“修昔底德陷阱”的迷思：为何说中国绝非普通的崛起大国",
       "error": ""
     },
     {
@@ -121,91 +133,7 @@
       "image_url": "https://images.wsj.net/im-71308629?size=1.5&width=1280",
       "snapshot": "articles/openai-millennium-prize-navier-stokes-math-66b11-cd87342af02b.html",
       "captured": true,
-      "capture_title": "OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯” - WSJ",
-      "error": ""
-    },
-    {
-      "title": "德国选择党试图将其首个州政府打造成极右翼政策实验室",
-      "summary": "在东部州选举中的胜利使得该党比以往任何时候都更接近实际执政。如果成功组阁，选择党打算启动本世纪欧洲最雄心勃勃的极右翼政策实验之一。",
-      "link": "https://cn.wsj.com/articles/%E5%BE%B7%E5%9B%BD%E9%80%89%E6%8B%A9%E5%85%9A%E8%AF%95%E5%9B%BE%E5%B0%86%E5%85%B6%E9%A6%96%E4%B8%AA%E5%B7%9E%E6%94%BF%E5%BA%9C%E6%89%93%E9%80%A0%E6%88%90%E6%9E%81%E5%8F%B3%E7%BF%BC%E6%94%BF%E7%AD%96%E5%AE%9E%E9%AA%8C%E5%AE%A4-b3f1cd59",
-      "guid": "WP-WSJS-0003877144",
-      "pub_date": "Wed, 09 Sep 2026 01:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-40935252?size=1.499&width=1280",
-      "snapshot": "articles/e5-be-b7-e5-9b-bd-e9-80-89-e6-8b-a9-e5-85-9a-e8--a69c948dd337.html",
-      "captured": true,
-      "capture_title": "德国选择党试图将其首个州政府打造成极右翼政策实验室 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "全球薪酬最高的政治领导人之一获大幅加薪",
-      "summary": "黄循财的薪资已位列全球薪酬最高的政治领导人之列。相比之下，美国总统特朗普的年薪为40万美元。",
-      "link": "https://cn.wsj.com/articles/one-of-the-worlds-highest-paid-political-leaders-just-got-a-big-raise-ba67f937",
-      "guid": "WP-WSJS-0003876922",
-      "pub_date": "Wed, 09 Sep 2026 00:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-95140790?size=1.501&width=1280",
-      "snapshot": "articles/one-of-the-worlds-highest-paid-political-leaders-a7bd16ae539a.html",
-      "captured": true,
-      "capture_title": "全球薪酬最高的政治领导人之一获大幅加薪 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "“9·11”恐袭25年后，曼哈顿下城重现勃勃生机",
-      "summary": "“9·11”事件25年后，曼哈顿下城强势复苏，金融区人口已增至原来的三倍，媒体和科技公司纷纷入驻，令美国其他市中心城区艳羡。",
-      "link": "https://cn.wsj.com/articles/25-years-after-the-sept-11-attacks-lower-manhattan-is-thriving-6eaa68e3",
-      "guid": "WP-WSJS-0003873975",
-      "pub_date": "Tue, 08 Sep 2026 05:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-52858546?size=1.5&width=1280",
-      "snapshot": "articles/25-years-after-the-sept-11-attacks-lower-manhatt-4ca0e9a1bc18.html",
-      "captured": true,
-      "capture_title": "“9·11”恐袭25年后，曼哈顿下城重现勃勃生机",
-      "error": ""
-    },
-    {
-      "title": "哈里和梅根重返英国，与王室的紧张关系再度上演",
-      "summary": "国王查尔斯关于哈里和梅根王室身份的一封公文，引发了有关王室与这对夫妇之间关系的波澜。",
-      "link": "https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E5%92%8C%E6%A2%85%E6%A0%B9%E9%87%8D%E8%BF%94%E8%8B%B1%E5%9B%BD-%E4%B8%8E%E7%8E%8B%E5%AE%A4%E7%9A%84%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%E5%86%8D%E5%BA%A6%E4%B8%8A%E6%BC%94-a8ee1ed7",
-      "guid": "WP-WSJS-0003877009",
-      "pub_date": "Wed, 09 Sep 2026 00:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-62300134?size=1.501&width=1280",
-      "snapshot": "articles/e5-93-88-e9-87-8c-e5-92-8c-e6-a2-85-e6-a0-b9-e9--8657d6d0b6da.html",
-      "captured": true,
-      "capture_title": "哈里和梅根重返英国，与王室的紧张关系再度上演 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "图解无人机如何渗透北约欧洲领空",
-      "summary": "今年夏天，几乎每周都有无人机入侵北约东部边境的新报道，该空域如今已成为前线。",
-      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E6%B8%97%E9%80%8F%E5%8C%97%E7%BA%A6%E6%AC%A7%E6%B4%B2%E9%A2%86%E7%A9%BA-72823b31",
-      "guid": "WP-WSJS-0003874089",
-      "pub_date": "Tue, 08 Sep 2026 06:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-63475746?size=1.5&width=1280",
-      "snapshot": "articles/e5-9b-be-e8-a7-a3-e6-97-a0-e4-ba-ba-e6-9c-ba-e5--170f294721d2.html",
-      "captured": true,
-      "capture_title": "图解无人机如何渗透北约欧洲领空",
-      "error": ""
-    },
-    {
-      "title": "中国公司星宇股份因解雇100多名入职仅一个月的毕业生招致批评",
-      "summary": "在中国年轻人面临惨淡就业市场之际，官方斥责这家为西方品牌供货的中国汽车零部件制造商。",
-      "link": "https://cn.wsj.com/articles/chinese-company-draws-fire-for-laying-off-100-grads-a-month-after-hiring-them-fc1197bd",
-      "guid": "WP-WSJS-0003873827",
-      "pub_date": "Tue, 08 Sep 2026 01:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-40118497?size=1.501&width=1280",
-      "snapshot": "articles/chinese-company-draws-fire-for-laying-off-100-gr-f844bc2074df.html",
-      "captured": true,
-      "capture_title": "中国公司星宇股份因解雇100多名入职仅一个月的毕业生招致批评",
-      "error": ""
-    },
-    {
-      "title": "比利时逮捕涉嫌窃取芯片技术的中国公民，加剧欧洲对中国的担忧",
-      "summary": "这名中国男子在5月动身前往北京前被逮捕，比利时检方怀疑他向一家中国公司转移机密。",
-      "link": "https://cn.wsj.com/articles/%E6%AF%94%E5%88%A9%E6%97%B6%E9%80%AE%E6%8D%95%E6%B6%89%E5%AB%8C%E7%AA%83%E5%8F%96%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91-%E5%8A%A0%E5%89%A7%E6%AC%A7%E6%B4%B2%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%8B%85%E5%BF%A7-f301244c",
-      "guid": "WP-WSJS-0003873799",
-      "pub_date": "Tue, 08 Sep 2026 01:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-01115148?size=1.778&width=1280",
-      "snapshot": "articles/e6-af-94-e5-88-a9-e6-97-b6-e9-80-ae-e6-8d-95-e6--3009285e98e9.html",
-      "captured": true,
-      "capture_title": "比利时逮捕涉嫌窃取芯片技术的中国公民，加剧欧洲对中国的担忧",
+      "capture_title": "OpenAI宣布解出一道千禧年大奖难题，攻克数学界“圣杯”",
       "error": ""
     },
     {
@@ -221,6 +149,186 @@
       "error": ""
     },
     {
+      "title": "哈里和梅根重返英国，与王室的紧张关系再度上演",
+      "summary": "国王查尔斯关于哈里和梅根王室身份的一封公文，引发了有关王室与这对夫妇之间关系的波澜。",
+      "link": "https://cn.wsj.com/articles/%E5%93%88%E9%87%8C%E5%92%8C%E6%A2%85%E6%A0%B9%E9%87%8D%E8%BF%94%E8%8B%B1%E5%9B%BD-%E4%B8%8E%E7%8E%8B%E5%AE%A4%E7%9A%84%E7%B4%A7%E5%BC%A0%E5%85%B3%E7%B3%BB%E5%86%8D%E5%BA%A6%E4%B8%8A%E6%BC%94-a8ee1ed7",
+      "guid": "WP-WSJS-0003877009",
+      "pub_date": "Wed, 09 Sep 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-62300134?size=1.501&width=1280",
+      "snapshot": "articles/e5-93-88-e9-87-8c-e5-92-8c-e6-a2-85-e6-a0-b9-e9--8657d6d0b6da.html",
+      "captured": true,
+      "capture_title": "哈里和梅根重返英国，与王室的紧张关系再度上演",
+      "error": ""
+    },
+    {
+      "title": "六张图表解读美国人对经济的真实感受",
+      "summary": "美国官方数据显示经济稳步增长且失业率维持低位，却没有反映出美国普通人的真实体感。",
+      "link": "https://cn.wsj.com/articles/%E5%85%AD%E5%BC%A0%E5%9B%BE%E8%A1%A8%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%AF%B9%E7%BB%8F%E6%B5%8E%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97-d8e0869d",
+      "guid": "WP-WSJS-0003877408",
+      "pub_date": "Wed, 09 Sep 2026 05:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-87322153?size=1.501&width=1280",
+      "snapshot": "articles/e5-85-ad-e5-bc-a0-e5-9b-be-e8-a1-a8-e8-a7-a3-e8--787e92a9d817.html",
+      "captured": true,
+      "capture_title": "六张图表解读美国人对经济的真实感受 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇",
+      "summary": "孔波塔是葡萄牙最时髦的海滨度假胜地，这已不再是秘密。但它的魔力在于，这里依然给人一种秘境之感。",
+      "link": "https://cn.wsj.com/articles/%E8%B6%81%E7%9D%80%E4%BA%BA%E6%BD%AE%E6%9C%AA%E8%87%B3-%E5%BF%AB%E6%9D%A5%E6%8E%A2%E8%AE%BF%E8%BF%99%E5%BA%A7%E8%91%A1%E8%90%84%E7%89%99%E6%B5%B7%E6%BB%A8%E5%AE%9D%E8%97%8F%E5%B0%8F%E9%95%87-efbfc2c9",
+      "guid": "WP-WSJS-0003877571",
+      "pub_date": "Wed, 09 Sep 2026 06:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-95700479?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e8-b6-81-e7-9d-80-e4-ba-ba-e6-bd-ae-e6-9c-aa-e8--bf58cd143940.html",
+      "captured": true,
+      "capture_title": "趁着人潮未至，快来探访这座葡萄牙海滨宝藏小镇 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国多州曾给予数据中心巨额税收优惠，如今正纷纷撕毁协议",
+      "summary": "亚马逊、Meta和谷歌的数据中心设施遭到强烈抵制，面临失去税收豁免政策的风险。曾对数据中心大加欢迎的各州领导人，突然将其视为政治包袱。",
+      "link": "https://cn.wsj.com/articles/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-212e5ec2",
+      "guid": "WP-WSJS-0003877412",
+      "pub_date": "Wed, 09 Sep 2026 04:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-70518153?size=1.783&width=1280",
+      "snapshot": "articles/states-that-gave-data-centers-billions-in-tax-br-82ee3b0b9614.html",
+      "captured": true,
+      "capture_title": "美国多州曾给予数据中心巨额税收优惠，如今正纷纷撕毁协议 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国公司星宇股份因解雇100多名入职仅一个月的毕业生招致批评",
+      "summary": "在中国年轻人面临惨淡就业市场之际，官方斥责这家为西方品牌供货的中国汽车零部件制造商。",
+      "link": "https://cn.wsj.com/articles/chinese-company-draws-fire-for-laying-off-100-grads-a-month-after-hiring-them-fc1197bd",
+      "guid": "WP-WSJS-0003873827",
+      "pub_date": "Tue, 08 Sep 2026 01:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-40118497?size=1.501&width=1280",
+      "snapshot": "articles/chinese-company-draws-fire-for-laying-off-100-gr-f844bc2074df.html",
+      "captured": true,
+      "capture_title": "中国公司星宇股份因解雇100多名入职仅一个月的毕业生招致批评",
+      "error": ""
+    },
+    {
+      "title": "全球薪酬最高的政治领导人之一获大幅加薪",
+      "summary": "黄循财的薪资已位列全球薪酬最高的政治领导人之列。相比之下，美国总统特朗普的年薪为40万美元。",
+      "link": "https://cn.wsj.com/articles/one-of-the-worlds-highest-paid-political-leaders-just-got-a-big-raise-ba67f937",
+      "guid": "WP-WSJS-0003876922",
+      "pub_date": "Wed, 09 Sep 2026 00:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-95140790?size=1.501&width=1280",
+      "snapshot": "articles/one-of-the-worlds-highest-paid-political-leaders-a7bd16ae539a.html",
+      "captured": true,
+      "capture_title": "全球薪酬最高的政治领导人之一获大幅加薪",
+      "error": ""
+    },
+    {
+      "title": "纽约市公布超17万页新文件，详述9/11后曼哈顿空气质量问题",
+      "summary": "新文件详细披露纽约市政府对世贸中心遗址“归零地”周边有毒状况所掌握的情况。马姆达尼称，自袭击以来，死于相关疾病的人数已经超过了当天遇难的人数。",
+      "link": "https://cn.wsj.com/articles/new-documents-detail-air-quality-issues-in-lower-manhattan-after-9-11-bd4e29ae",
+      "guid": "WP-WSJS-0003877548",
+      "pub_date": "Wed, 09 Sep 2026 06:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-94568881?size=1.5&width=1280",
+      "snapshot": "articles/new-documents-detail-air-quality-issues-in-lower-087e765bef48.html",
+      "captured": true,
+      "capture_title": "纽约市公布超17万页新文件，详述9/11后曼哈顿空气质量问题 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "调查人员称亚马逊货机撞毁前两套减速系统未启用",
+      "summary": "美国国家运输安全委员会未找到减速板或反推力装置曾被启用的证据。",
+      "link": "https://cn.wsj.com/articles/%E8%B0%83%E6%9F%A5%E4%BA%BA%E5%91%98%E7%A7%B0%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%B4%A7%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%89%8D%E4%B8%A4%E5%A5%97%E5%87%8F%E9%80%9F%E7%B3%BB%E7%BB%9F%E6%9C%AA%E5%90%AF%E7%94%A8-6e6fc805",
+      "guid": "WP-WSJS-0003877462",
+      "pub_date": "Wed, 09 Sep 2026 04:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-38611203?size=1.501&width=1280",
+      "snapshot": "articles/e8-b0-83-e6-9f-a5-e4-ba-ba-e5-91-98-e7-a7-b0-e4--3fe9ae757e1a.html",
+      "captured": true,
+      "capture_title": "调查人员称亚马逊货机撞毁前两套减速系统未启用 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "Meta推出新款个人AI智能体，主打易上手",
+      "summary": "该智能体可以执行购物和发邮件等任务，大部分基础功能免费，同时为重度用户提供两档付费订阅服务。",
+      "link": "https://cn.wsj.com/articles/meta%E6%8E%A8%E5%87%BA%E6%96%B0%E6%AC%BE%E4%B8%AA%E4%BA%BAai%E6%99%BA%E8%83%BD%E4%BD%93-%E4%B8%BB%E6%89%93%E6%98%93%E4%B8%8A%E6%89%8B-5a5cf9f0",
+      "guid": "WP-WSJS-0003876779",
+      "pub_date": "Tue, 08 Sep 2026 23:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-08453069?size=1.501&width=1280",
+      "snapshot": "articles/meta-e6-8e-a8-e5-87-ba-e6-96-b0-e6-ac-be-e4-b8-a-88a23e67ea8b.html",
+      "captured": true,
+      "capture_title": "Meta推出新款个人AI智能体，主打易上手",
+      "error": ""
+    },
+    {
+      "title": "“9·11”恐袭25年后，曼哈顿下城重现勃勃生机",
+      "summary": "“9·11”事件25年后，曼哈顿下城强势复苏，金融区人口已增至原来的三倍，媒体和科技公司纷纷入驻，令美国其他市中心城区艳羡。",
+      "link": "https://cn.wsj.com/articles/25-years-after-the-sept-11-attacks-lower-manhattan-is-thriving-6eaa68e3",
+      "guid": "WP-WSJS-0003873975",
+      "pub_date": "Tue, 08 Sep 2026 05:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-52858546?size=1.5&width=1280",
+      "snapshot": "articles/25-years-after-the-sept-11-attacks-lower-manhatt-4ca0e9a1bc18.html",
+      "captured": true,
+      "capture_title": "“9·11”恐袭25年后，曼哈顿下城重现勃勃生机",
+      "error": ""
+    },
+    {
+      "title": "2,000美元iPhone即将问世，苹果公司瞄准高端消费者",
+      "summary": "苹果公司周三的发布会可能推出iPhone 18和18 Pro，以及起售价接近2,000美元的可折叠iPhone Ultra。",
+      "link": "https://cn.wsj.com/articles/2-000%E7%BE%8E%E5%85%83iphone%E5%8D%B3%E5%B0%86%E9%97%AE%E4%B8%96-%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9E%84%E5%87%86%E9%AB%98%E7%AB%AF%E6%B6%88%E8%B4%B9%E8%80%85-e34da91d",
+      "guid": "WP-WSJS-0003872951",
+      "pub_date": "Mon, 07 Sep 2026 11:54:00 GMT",
+      "image_url": "https://images.mktw.net/im-01197234?size=1.44&width=1280",
+      "snapshot": "articles/2-000-e7-be-8e-e5-85-83iphone-e5-8d-b3-e5-b0-86--0a0fba981deb.html",
+      "captured": true,
+      "capture_title": "2,000美元iPhone即将问世，苹果公司瞄准高端消费者",
+      "error": ""
+    },
+    {
+      "title": "比利时逮捕涉嫌窃取芯片技术的中国公民，加剧欧洲对中国的担忧",
+      "summary": "这名中国男子在5月动身前往北京前被逮捕，比利时检方怀疑他向一家中国公司转移机密。",
+      "link": "https://cn.wsj.com/articles/%E6%AF%94%E5%88%A9%E6%97%B6%E9%80%AE%E6%8D%95%E6%B6%89%E5%AB%8C%E7%AA%83%E5%8F%96%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91-%E5%8A%A0%E5%89%A7%E6%AC%A7%E6%B4%B2%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%8B%85%E5%BF%A7-f301244c",
+      "guid": "WP-WSJS-0003873799",
+      "pub_date": "Tue, 08 Sep 2026 01:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-01115148?size=1.778&width=1280",
+      "snapshot": "articles/e6-af-94-e5-88-a9-e6-97-b6-e9-80-ae-e6-8d-95-e6--3009285e98e9.html",
+      "captured": true,
+      "capture_title": "比利时逮捕涉嫌窃取芯片技术的中国公民，加剧欧洲对中国的担忧",
+      "error": ""
+    },
+    {
+      "title": "漫步于台湾庙宇，我窥见中国另一种可能的模样",
+      "summary": "两岸分离七十余载，塑造了两地民众截然不同的宗教生活。在台北挤满信众的庙宇中，出生于中国的本报记者见证了中国大陆失去了什么。",
+      "link": "https://cn.wsj.com/articles/at-taiwans-temples-a-glimpse-of-what-china-could-have-been-b110f735",
+      "guid": "WP-WSJS-0003872564",
+      "pub_date": "Mon, 07 Sep 2026 03:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-32917023?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/at-taiwans-temples-a-glimpse-of-what-china-could-0e0fb0447995.html",
+      "captured": true,
+      "capture_title": "漫步于台湾庙宇，我窥见中国另一种可能的模样",
+      "error": ""
+    },
+    {
+      "title": "欧洲国家将对以色列实施贸易禁令，直指约旦河西岸定居点问题",
+      "summary": "英国、法国、加拿大及另外九个国家表示，将对以色列实施新的贸易限制。以色列称将对率先宣布相关措施的英国展开报复。",
+      "link": "https://cn.wsj.com/articles/european-nations-impose-trade-bans-on-israel-over-west-bank-settlements-688472ab",
+      "guid": "WP-WSJS-0003876908",
+      "pub_date": "Wed, 09 Sep 2026 00:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-86937897?size=1.501&width=1280",
+      "snapshot": "articles/european-nations-impose-trade-bans-on-israel-ove-32b11b8520fb.html",
+      "captured": true,
+      "capture_title": "欧洲国家将对以色列实施贸易禁令，直指约旦河西岸定居点问题 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "图解无人机如何渗透北约欧洲领空",
+      "summary": "今年夏天，几乎每周都有无人机入侵北约东部边境的新报道，该空域如今已成为前线。",
+      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E6%B8%97%E9%80%8F%E5%8C%97%E7%BA%A6%E6%AC%A7%E6%B4%B2%E9%A2%86%E7%A9%BA-72823b31",
+      "guid": "WP-WSJS-0003874089",
+      "pub_date": "Tue, 08 Sep 2026 06:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-63475746?size=1.5&width=1280",
+      "snapshot": "articles/e5-9b-be-e8-a7-a3-e6-97-a0-e4-ba-ba-e6-9c-ba-e5--170f294721d2.html",
+      "captured": true,
+      "capture_title": "图解无人机如何渗透北约欧洲领空",
+      "error": ""
+    },
+    {
       "title": "黑石房地产业务负责人将离职",
       "summary": "作为全球规模最大、最成功的商业地产投资机构之一，黑石近期已接连有高管出走，这是最新的一例。",
       "link": "https://cn.wsj.com/articles/%E9%BB%91%E7%9F%B3%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%9A%E5%8A%A1%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B0%86%E7%A6%BB%E8%81%8C-34ae11fe",
@@ -233,18 +341,6 @@
       "error": ""
     },
     {
-      "title": "Meta推出新款个人AI智能体，主打易上手",
-      "summary": "该智能体可以执行购物和发邮件等任务，大部分基础功能免费，同时为重度用户提供两档付费订阅服务。",
-      "link": "https://cn.wsj.com/articles/meta%E6%8E%A8%E5%87%BA%E6%96%B0%E6%AC%BE%E4%B8%AA%E4%BA%BAai%E6%99%BA%E8%83%BD%E4%BD%93-%E4%B8%BB%E6%89%93%E6%98%93%E4%B8%8A%E6%89%8B-5a5cf9f0",
-      "guid": "WP-WSJS-0003876779",
-      "pub_date": "Tue, 08 Sep 2026 23:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-08453069?size=1.501&width=1280",
-      "snapshot": "articles/meta-e6-8e-a8-e5-87-ba-e6-96-b0-e6-ac-be-e4-b8-a-88a23e67ea8b.html",
-      "captured": true,
-      "capture_title": "Meta推出新款个人AI智能体，主打易上手 - WSJ",
-      "error": ""
-    },
-    {
       "title": "美国政府通过《芯片法案》3亿美元拨款协议获得三家量子计算公司股权",
       "summary": "美国政府将通过一项总额达3亿美元的《芯片法案》协议，获得D-Wave Quantum、Rigetti Computing和Quantinuum等三家公司的少数股权。",
       "link": "https://cn.wsj.com/articles/u-s-gets-minority-stakes-in-d-wave-rigetti-quantinuum-in-300-million-chips-act-funding-deal-3cda37e2",
@@ -254,18 +350,6 @@
       "snapshot": "articles/u-s-gets-minority-stakes-in-d-wave-rigetti-quant-e5c84fb6e97e.html",
       "captured": true,
       "capture_title": "美国政府通过《芯片法案》3亿美元拨款协议获得三家量子计算公司股权 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "漫步于台湾庙宇，我窥见中国另一种可能的模样",
-      "summary": "两岸分离七十余载，塑造了两地民众截然不同的宗教生活。在台北挤满信众的庙宇中，出生于中国的本报记者见证了中国大陆失去了什么。",
-      "link": "https://cn.wsj.com/articles/at-taiwans-temples-a-glimpse-of-what-china-could-have-been-b110f735",
-      "guid": "WP-WSJS-0003872564",
-      "pub_date": "Mon, 07 Sep 2026 03:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-32917023?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/at-taiwans-temples-a-glimpse-of-what-china-could-0e0fb0447995.html",
-      "captured": true,
-      "capture_title": "漫步于台湾庙宇，我窥见中国另一种可能的模样 - WSJ",
       "error": ""
     },
     {
@@ -398,18 +482,6 @@
       "snapshot": "articles/north-korea-says-toppled-warship-that-embarrasse-f412e0f4d590.html",
       "captured": true,
       "capture_title": "朝鲜称曾倾覆让金正恩颜面受损的“姜健”号军舰已正式入列",
-      "error": ""
-    },
-    {
-      "title": "2,000美元iPhone即将问世，苹果公司瞄准高端消费者",
-      "summary": "苹果公司周三的发布会可能推出iPhone 18和18 Pro，以及起售价接近2,000美元的可折叠iPhone Ultra。",
-      "link": "https://cn.wsj.com/articles/2-000%E7%BE%8E%E5%85%83iphone%E5%8D%B3%E5%B0%86%E9%97%AE%E4%B8%96-%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9E%84%E5%87%86%E9%AB%98%E7%AB%AF%E6%B6%88%E8%B4%B9%E8%80%85-e34da91d",
-      "guid": "WP-WSJS-0003872951",
-      "pub_date": "Mon, 07 Sep 2026 11:54:00 GMT",
-      "image_url": "https://images.mktw.net/im-01197234?size=1.44&width=1280",
-      "snapshot": "articles/2-000-e7-be-8e-e5-85-83iphone-e5-8d-b3-e5-b0-86--0a0fba981deb.html",
-      "captured": true,
-      "capture_title": "2,000美元iPhone即将问世，苹果公司瞄准高端消费者",
       "error": ""
     },
     {
@@ -1130,78 +1202,6 @@
       "snapshot": "articles/e6-83-b3-e8-a6-81-e5-88-86-e6-95-a3-e5-81-8f-e9--86c74fcfba0f.html",
       "captured": true,
       "capture_title": "想要分散偏重美股的投资组合？别被基金名称骗了 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "马斯克的隧道公司Boring Co.告诉投资人：想投资，就得帮忙",
-      "summary": "知情人士透露，该公司已告知参与最新一轮融资的部分投资人，他们必须帮助为Boring招募员工，或协助进行业务拓展。",
-      "link": "https://cn.wsj.com/articles/musks-boring-co-pushes-investors-for-recruiting-business-help-6391d4b7",
-      "guid": "WP-WSJS-0003867913",
-      "pub_date": "Fri, 04 Sep 2026 00:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-36155498?size=1.501&width=1280",
-      "snapshot": "articles/musks-boring-co-pushes-investors-for-recruiting--dd6b766d2239.html",
-      "captured": true,
-      "capture_title": "马斯克的隧道公司Boring Co.告诉投资人：想投资，就得帮忙 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "联合国称厄尔尼诺高峰未至，料将带来异常高温和农作物减产",
-      "summary": "今年的厄尔尼诺现象有望成为至少70年来最强的一次，这进一步加大了全球农产品市场出现大范围干扰的风险。",
-      "link": "https://cn.wsj.com/articles/%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E9%AB%98%E5%B3%B0%E6%9C%AA%E8%87%B3-%E6%96%99%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%BC%82%E5%B8%B8%E9%AB%98%E6%B8%A9%E5%92%8C%E5%86%9C%E4%BD%9C%E7%89%A9%E5%87%8F%E4%BA%A7-fd1ba8cd",
-      "guid": "WP-WSJS-0003867745",
-      "pub_date": "Thu, 03 Sep 2026 23:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-60927840?size=1.501&width=1280",
-      "snapshot": "articles/e8-81-94-e5-90-88-e5-9b-bd-e7-a7-b0-e5-8e-84-e5--c18acc4730fc.html",
-      "captured": true,
-      "capture_title": "联合国称厄尔尼诺高峰未至，料将带来异常高温和农作物减产 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "大众汽车存亡之战：对外迎击中国竞争，对内博弈公司监事",
-      "summary": "大众汽车CEO奥博穆意图让公司“瘦身”并淡化其德国色彩，此举引发工会与政界的强烈抗议；“底特律化”正成为新热词。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E5%AD%98%E4%BA%A1%E4%B9%8B%E6%88%98-%E5%AF%B9%E5%A4%96%E8%BF%8E%E5%87%BB%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89-%E5%AF%B9%E5%86%85%E5%8D%9A%E5%BC%88%E5%85%AC%E5%8F%B8%E7%9B%91%E4%BA%8B-c1139ade",
-      "guid": "WP-WSJS-0003862210",
-      "pub_date": "Wed, 02 Sep 2026 08:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-24179162?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-a7-e4-bc-97-e6-b1-bd-e8-bd-a6-e5-ad-98-e4--dc1a2988a2b1.html",
-      "captured": true,
-      "capture_title": "大众汽车存亡之战：对外迎击中国竞争，对内博弈公司监事",
-      "error": ""
-    },
-    {
-      "title": "为何美国对伊朗的“经济决战日”面临重重困难？",
-      "summary": "俄罗斯、朝鲜、古巴和委内瑞拉都动用了镇压手段和各种规避制裁的手段，以抵抗西方施加的巨大压力。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84-%E7%BB%8F%E6%B5%8E%E5%86%B3%E6%88%98%E6%97%A5-%E9%9D%A2%E4%B8%B4%E9%87%8D%E9%87%8D%E5%9B%B0%E9%9A%BE-07c159bd",
-      "guid": "WP-WSJS-0003865078",
-      "pub_date": "Thu, 03 Sep 2026 01:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-97926496?size=1.487&width=1280",
-      "snapshot": "articles/e4-b8-ba-e4-bd-95-e7-be-8e-e5-9b-bd-e5-af-b9-e4--c7ed8c012bce.html",
-      "captured": true,
-      "capture_title": "为何美国对伊朗的“经济决战日”面临重重困难？",
-      "error": ""
-    },
-    {
-      "title": "四股力量令债市承压，战争是头号因素",
-      "summary": "推高美国国债收益率的因素有很多。但近期这轮收益率上升的主要驱动力是通货膨胀。",
-      "link": "https://cn.wsj.com/articles/%E5%9B%9B%E8%82%A1%E5%8A%9B%E9%87%8F%E4%BB%A4%E5%80%BA%E5%B8%82%E6%89%BF%E5%8E%8B-%E6%88%98%E4%BA%89%E6%98%AF%E5%A4%B4%E5%8F%B7%E5%9B%A0%E7%B4%A0-cdfb8957",
-      "guid": "WP-WSJS-0003865142",
-      "pub_date": "Thu, 03 Sep 2026 03:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-82914370?size=1.5&width=1280",
-      "snapshot": "articles/e5-9b-9b-e8-82-a1-e5-8a-9b-e9-87-8f-e4-bb-a4-e5--b3842be09fff.html",
-      "captured": true,
-      "capture_title": "四股力量令债市承压，战争是头号因素",
-      "error": ""
-    },
-    {
-      "title": "基辅发生枪战，乌克兰两大情报机构内斗加剧",
-      "summary": "乌克兰首都发生武装对峙，三名士兵受伤。此事暴露了SBU和HUR之间积怨已久的矛盾，双方在对俄战争中总是争夺影响力和资源。",
-      "link": "https://cn.wsj.com/articles/%E5%9F%BA%E8%BE%85%E5%8F%91%E7%94%9F%E6%9E%AA%E6%88%98-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%A4%E5%A4%A7%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E5%86%85%E6%96%97%E5%8A%A0%E5%89%A7-d7e1f086",
-      "guid": "WP-WSJS-0003864982",
-      "pub_date": "Thu, 03 Sep 2026 00:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-84623270?size=1.502&width=1280",
-      "snapshot": "articles/e5-9f-ba-e8-be-85-e5-8f-91-e7-94-9f-e6-9e-aa-e6--d607ced1cafd.html",
-      "captured": true,
-      "capture_title": "基辅发生枪战，乌克兰两大情报机构内斗加剧",
       "error": ""
     }
   ]
