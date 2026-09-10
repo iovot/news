@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:03:08.129242+00:00",
+  "generated_at": "2026-09-10T16:09:21.961296+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-72549558?size=1.537&width=1280",
       "snapshot": "articles/e5-85-b1-e5-92-8c-e5-85-9a-e4-b8-ad-e6-9c-9f-e9--94d8040f2ab0.html",
       "captured": true,
-      "capture_title": "共和党中期选举大会首日五大看点 - WSJ",
+      "capture_title": "共和党中期选举大会首日五大看点",
       "error": ""
     },
     {
@@ -101,6 +101,18 @@
       "error": ""
     },
     {
+      "title": "韩国接近就数十亿美元赴美投资达成协议",
+      "summary": "潜在交易可能包括对核能的大规模投资，是去年美韩两国达成的贸易协议的一部分。",
+      "link": "https://cn.wsj.com/articles/%E9%9F%A9%E5%9B%BD%E6%8E%A5%E8%BF%91%E5%B0%B1%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%B4%E7%BE%8E%E6%8A%95%E8%B5%84%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE-ebe92fb3",
+      "guid": "WP-WSJS-0003881207",
+      "pub_date": "Thu, 10 Sep 2026 11:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-35970898?size=1.47&width=1280",
+      "snapshot": "articles/e9-9f-a9-e5-9b-bd-e6-8e-a5-e8-bf-91-e5-b0-b1-e6--84ad9126feaa.html",
+      "captured": true,
+      "capture_title": "韩国接近就数十亿美元赴美投资达成协议 - WSJ",
+      "error": ""
+    },
+    {
       "title": "通胀率的微小变化可能决定美联储下周是否加息",
       "summary": "美联储官员对利率走向的分歧日益加剧，他们将密切关注周五的消费者通胀报告。",
       "link": "https://cn.wsj.com/articles/%E9%80%9A%E8%83%80%E7%8E%87%E7%9A%84%E5%BE%AE%E5%B0%8F%E5%8F%98%E5%8C%96%E5%8F%AF%E8%83%BD%E5%86%B3%E5%AE%9A%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E5%91%A8%E6%98%AF%E5%90%A6%E5%8A%A0%E6%81%AF-7d370d90",
@@ -110,18 +122,6 @@
       "snapshot": "articles/e9-80-9a-e8-83-80-e7-8e-87-e7-9a-84-e5-be-ae-e5--7c85de5f8cb8.html",
       "captured": true,
       "capture_title": "通胀率的微小变化可能决定美联储下周是否加息",
-      "error": ""
-    },
-    {
-      "title": "德国选择党试图将其首个州政府打造成极右翼政策实验室",
-      "summary": "在东部州选举中的胜利使得该党比以往任何时候都更接近实际执政。如果成功组阁，选择党打算启动本世纪欧洲最雄心勃勃的极右翼政策实验之一。",
-      "link": "https://cn.wsj.com/articles/%E5%BE%B7%E5%9B%BD%E9%80%89%E6%8B%A9%E5%85%9A%E8%AF%95%E5%9B%BE%E5%B0%86%E5%85%B6%E9%A6%96%E4%B8%AA%E5%B7%9E%E6%94%BF%E5%BA%9C%E6%89%93%E9%80%A0%E6%88%90%E6%9E%81%E5%8F%B3%E7%BF%BC%E6%94%BF%E7%AD%96%E5%AE%9E%E9%AA%8C%E5%AE%A4-b3f1cd59",
-      "guid": "WP-WSJS-0003877144",
-      "pub_date": "Wed, 09 Sep 2026 01:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-40935252?size=1.499&width=1280",
-      "snapshot": "articles/e5-be-b7-e5-9b-bd-e9-80-89-e6-8b-a9-e5-85-9a-e8--a69c948dd337.html",
-      "captured": true,
-      "capture_title": "德国选择党试图将其首个州政府打造成极右翼政策实验室",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-55629339?size=1.5&width=1280",
       "snapshot": "articles/crypto-investment-scam-victims-big-tuna-b0ccac2c-5396374e4bba.html",
       "captured": true,
-      "capture_title": "陷入诈骗泥潭后“杠上”美国政府：加密货币苦主的追讨之路 - WSJ",
+      "capture_title": "陷入诈骗泥潭后“杠上”美国政府：加密货币苦主的追讨之路",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-43908149?size=1.499&width=1280",
       "snapshot": "articles/e6-94-b6-e9-80-80-e8-b4-a7-e8-b4-b9--e7-bc-a9-e7-f722a502fef1.html",
       "captured": true,
-      "capture_title": "收退货费、缩短期限：美国网购退货变难，消费者怒了 - WSJ",
+      "capture_title": "收退货费、缩短期限：美国网购退货变难，消费者怒了",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/the-trillion-dollar-bright-spot-in-chinas-econom-2e30f3d32bbd.html",
       "captured": true,
       "capture_title": "数万亿元旅游业成中国经济亮色，客流回暖背后呈现消费谨慎",
+      "error": ""
+    },
+    {
+      "title": "德国选择党试图将其首个州政府打造成极右翼政策实验室",
+      "summary": "在东部州选举中的胜利使得该党比以往任何时候都更接近实际执政。如果成功组阁，选择党打算启动本世纪欧洲最雄心勃勃的极右翼政策实验之一。",
+      "link": "https://cn.wsj.com/articles/%E5%BE%B7%E5%9B%BD%E9%80%89%E6%8B%A9%E5%85%9A%E8%AF%95%E5%9B%BE%E5%B0%86%E5%85%B6%E9%A6%96%E4%B8%AA%E5%B7%9E%E6%94%BF%E5%BA%9C%E6%89%93%E9%80%A0%E6%88%90%E6%9E%81%E5%8F%B3%E7%BF%BC%E6%94%BF%E7%AD%96%E5%AE%9E%E9%AA%8C%E5%AE%A4-b3f1cd59",
+      "guid": "WP-WSJS-0003877144",
+      "pub_date": "Wed, 09 Sep 2026 01:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-40935252?size=1.499&width=1280",
+      "snapshot": "articles/e5-be-b7-e5-9b-bd-e9-80-89-e6-8b-a9-e5-85-9a-e8--a69c948dd337.html",
+      "captured": true,
+      "capture_title": "德国选择党试图将其首个州政府打造成极右翼政策实验室",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e5-b7-b4-e6-9e-97-e5-a4-a7-e5-a5-96-e8-b5-9b-e7--0b91e83baed2.html",
       "captured": true,
       "capture_title": "巴林大奖赛移师马来西亚？战火让海湾富国遭遇“失落之年”",
-      "error": ""
-    },
-    {
-      "title": "全美曾为医美填充疯狂，如今迎来“面部大消气”时代",
-      "summary": "美国面部填充剂销量持续下滑，用户还在网上分享注射物游移的恐怖经历。在GLP-1时代，“网红脸”的风潮是否就此终结？",
-      "link": "https://cn.wsj.com/articles/filler-removal-51e93c98",
-      "guid": "WP-WSJS-0003868557",
-      "pub_date": "Fri, 04 Sep 2026 11:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-64799747?size=1.5&width=1280",
-      "snapshot": "articles/filler-removal-51e93c98-3bf852a5687d.html",
-      "captured": true,
-      "capture_title": "全美曾为医美填充疯狂，如今迎来“面部大消气”时代",
       "error": ""
     }
   ]
