@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:09:21.961296+00:00",
+  "generated_at": "2026-09-10T20:38:44.918074+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-20008435?size=1.5&width=1280",
       "snapshot": "articles/deepseek-e8-ae-a1-e5-88-92-e8-81-98-e8-af-b7-e4--d742bd9bc2c1.html",
       "captured": true,
-      "capture_title": "DeepSeek计划聘请中信证券筹备上海IPO - WSJ",
+      "capture_title": "DeepSeek计划聘请中信证券筹备上海IPO",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-35970898?size=1.47&width=1280",
       "snapshot": "articles/e9-9f-a9-e5-9b-bd-e6-8e-a5-e8-bf-91-e5-b0-b1-e6--84ad9126feaa.html",
       "captured": true,
-      "capture_title": "韩国接近就数十亿美元赴美投资达成协议 - WSJ",
+      "capture_title": "韩国接近就数十亿美元赴美投资达成协议",
       "error": ""
     },
     {
