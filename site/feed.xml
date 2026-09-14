@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 12:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 19:46:40 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 12:16:59 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 19:46:40 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[三大AI企业掌门人达成共识：模型开发需要降速]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68100368?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%89%E5%A4%A7ai%E4%BC%81%E4%B8%9A%E6%8E%8C%E9%97%A8%E4%BA%BA%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86-%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91%E8%A6%81%E4%B8%BB%E5%8A%A8%E9%99%8D%E9%80%9F-edd19b9d</link>
-            <guid isPermaLink="false">WP-WSJS-0003889331</guid>
-            <pubDate>Mon, 14 Sep 2026 00:37:00 GMT</pubDate>
+            <title><![CDATA[美国AI大恐慌全面爆发]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-72601496?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对AI威胁人类生存的恐慌似乎突破了互联网辩论和硅谷圈子的局限，蔓延至美国主流社会。这种情绪在办公室里和餐桌上的谈论中已达到沸点。</p>]]></description>
+            <link>https://cn.wsj.com/articles/americas-great-ai-freakout-has-begun-d6778567</link>
+            <guid isPermaLink="false">WP-WSJS-0003889544</guid>
+            <pubDate>Mon, 14 Sep 2026 04:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国反驳美国有关AI风险的说法]]></title>
@@ -42,18 +42,18 @@
             <pubDate>Mon, 14 Sep 2026 10:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[三大AI企业掌门人达成共识：模型开发需要降速]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68100368?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%89%E5%A4%A7ai%E4%BC%81%E4%B8%9A%E6%8E%8C%E9%97%A8%E4%BA%BA%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86-%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91%E8%A6%81%E4%B8%BB%E5%8A%A8%E9%99%8D%E9%80%9F-edd19b9d</link>
+            <guid isPermaLink="false">WP-WSJS-0003889331</guid>
+            <pubDate>Mon, 14 Sep 2026 00:37:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[特朗普视对华竞争为AI监管关键议题]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79270572?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国总统特朗普为宽松监管辩护，并强调必须保持领先地位，而此时科技行业高管正对飞速发展敲响警钟。</p>]]></description>
             <link>https://cn.wsj.com/articles/trump-defends-white-houses-light-touch-on-ai-regulation-6aae3f7f</link>
             <guid isPermaLink="false">WP-WSJS-0003889326</guid>
             <pubDate>Mon, 14 Sep 2026 00:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[资本与安全的碰撞：AI行业如何陷入空前危机]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-35214208?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>陷入白热化竞争的OpenAI与Anthropic，不仅要应对彼此的厮杀，还要直面来自中国的竞争威胁。两家公司在全速冲刺IPO之际，已公开承认可能失去对旗下强大AI系统的控制。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%B5%84%E6%9C%AC%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%A2%B0%E6%92%9E-ai%E8%A1%8C%E4%B8%9A%E5%A6%82%E4%BD%95%E9%99%B7%E5%85%A5%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA-79a1a628</link>
-            <guid isPermaLink="false">WP-WSJS-0003889763</guid>
-            <pubDate>Mon, 14 Sep 2026 07:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中东动荡局势蔓延，压制全球石油供应]]></title>
@@ -147,18 +147,18 @@
             <pubDate>Mon, 14 Sep 2026 01:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国欲加入战局，逐鹿下一款重磅减肥药]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-59198742?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>告别长期以来的低端仿制药代工角色，中国正涌现出一批创新迅猛的生物技术企业。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%AC%B2%E5%8A%A0%E5%85%A5%E6%88%98%E5%B1%80-%E9%80%90%E9%B9%BF%E4%B8%8B%E4%B8%80%E6%AC%BE%E9%87%8D%E7%A3%85%E5%87%8F%E8%82%A5%E8%8D%AF-0524a66f</link>
-            <guid isPermaLink="false">WP-WSJS-0003884121</guid>
-            <pubDate>Fri, 11 Sep 2026 05:15:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[“游戏圈外人”夏尔马的使命：以残酷诚实整顿微软Xbox业务]]></title>
             <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-54290107?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>当微软任命阿莎·夏尔马负责重振Xbox业务时，她在游戏领域毫无经验。夏尔马的做法是毫不避讳地分享坏消息，她的口头禅：“清晰即善意”。</p>]]></description>
             <link>https://cn.wsj.com/articles/xbox-microsoft-asha-sharma-videogame-2449af4a</link>
             <guid isPermaLink="false">WP-WSJS-0003889652</guid>
             <pubDate>Mon, 14 Sep 2026 06:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国欲加入战局，逐鹿下一款重磅减肥药]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-59198742?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>告别长期以来的低端仿制药代工角色，中国正涌现出一批创新迅猛的生物技术企业。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%AC%B2%E5%8A%A0%E5%85%A5%E6%88%98%E5%B1%80-%E9%80%90%E9%B9%BF%E4%B8%8B%E4%B8%80%E6%AC%BE%E9%87%8D%E7%A3%85%E5%87%8F%E8%82%A5%E8%8D%AF-0524a66f</link>
+            <guid isPermaLink="false">WP-WSJS-0003884121</guid>
+            <pubDate>Fri, 11 Sep 2026 05:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[大型药企心血管药物研发遇瓶颈]]></title>
