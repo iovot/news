@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 19:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 23:45:28 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 19:46:40 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 23:45:28 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,6 +28,13 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
+            <title><![CDATA[特朗普称AI不需要更多护栏，斥责安全担忧为骗局]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93615028?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普反驳了加强联邦人工智能监管的必要性，并将安全担忧斥为一场骗局，称这种骗局会让该行业陷入财务崩溃，并把竞争优势拱手让给中国。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-says-ai-doesnt-need-more-guardrails-despite-industry-warnings-78e513f5</link>
+            <guid isPermaLink="false">WP-WSJS-0003892465</guid>
+            <pubDate>Mon, 14 Sep 2026 23:20:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国AI大恐慌全面爆发]]></title>
             <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-72601496?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对AI威胁人类生存的恐慌似乎突破了互联网辩论和硅谷圈子的局限，蔓延至美国主流社会。这种情绪在办公室里和餐桌上的谈论中已达到沸点。</p>]]></description>
             <link>https://cn.wsj.com/articles/americas-great-ai-freakout-has-begun-d6778567</link>
@@ -42,18 +49,18 @@
             <pubDate>Mon, 14 Sep 2026 10:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三大AI企业掌门人达成共识：模型开发需要降速]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68100368?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%89%E5%A4%A7ai%E4%BC%81%E4%B8%9A%E6%8E%8C%E9%97%A8%E4%BA%BA%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86-%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91%E8%A6%81%E4%B8%BB%E5%8A%A8%E9%99%8D%E9%80%9F-edd19b9d</link>
-            <guid isPermaLink="false">WP-WSJS-0003889331</guid>
-            <pubDate>Mon, 14 Sep 2026 00:37:00 GMT</pubDate>
+            <title><![CDATA[资本与安全的碰撞：AI行业如何陷入空前危机]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-35214208?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>陷入白热化竞争的OpenAI与Anthropic，不仅要应对彼此的厮杀，还要直面来自中国的竞争威胁。两家公司在全速冲刺IPO之际，已公开承认可能失去对旗下强大AI系统的控制。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%B5%84%E6%9C%AC%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%A2%B0%E6%92%9E-ai%E8%A1%8C%E4%B8%9A%E5%A6%82%E4%BD%95%E9%99%B7%E5%85%A5%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA-79a1a628</link>
+            <guid isPermaLink="false">WP-WSJS-0003889763</guid>
+            <pubDate>Mon, 14 Sep 2026 07:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普视对华竞争为AI监管关键议题]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79270572?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国总统特朗普为宽松监管辩护，并强调必须保持领先地位，而此时科技行业高管正对飞速发展敲响警钟。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-defends-white-houses-light-touch-on-ai-regulation-6aae3f7f</link>
-            <guid isPermaLink="false">WP-WSJS-0003889326</guid>
-            <pubDate>Mon, 14 Sep 2026 00:35:00 GMT</pubDate>
+            <title><![CDATA[10年期美债收益率触及5%，华尔街直面新时代]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-16204983?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>眼下，交易员们心里存着一个疑问：5%会不会像2023年那样成为10年期收益率的天花板，还是会被彻底突破，从而带来一种更像2000年代的借贷环境。</p>]]></description>
+            <link>https://cn.wsj.com/articles/wall-street-confronts-prospect-of-new-era-after-treasury-yield-hits-5-889d8781</link>
+            <guid isPermaLink="false">WP-WSJS-0003892473</guid>
+            <pubDate>Mon, 14 Sep 2026 23:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中东动荡局势蔓延，压制全球石油供应]]></title>
@@ -61,13 +68,6 @@
             <link>https://cn.wsj.com/articles/widening-mideast-instability-squeezes-global-oil-supplies-e2ee49cb</link>
             <guid isPermaLink="false">WP-WSJS-0003889460</guid>
             <pubDate>Mon, 14 Sep 2026 02:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华尔街欢迎美联储政策前景明朗化，哪怕意味着更高利率]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-12682423?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美股上周五反弹，债市企稳，为动荡的一周画上句号。此前略高于预期的通胀数据促使投资者加大对美联储周三加息的押注。</p>]]></description>
-            <link>https://cn.wsj.com/articles/wall-street-cheers-clarity-on-fed-outlookeven-if-it-means-higher-rates-6ee2cbb3</link>
-            <guid isPermaLink="false">WP-WSJS-0003889398</guid>
-            <pubDate>Mon, 14 Sep 2026 01:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[民主党期中选举势头渐显，还面临哪些隐患？]]></title>
@@ -91,18 +91,11 @@
             <pubDate>Mon, 14 Sep 2026 02:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普大厦最新选址：一个正向俄罗斯靠拢的前苏联加盟国]]></title>
-            <description><![CDATA[<img width="1280" height="719" src="https://images.wsj.net/im-46435673?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普集团与格鲁吉亚开发商计划在第比利斯建造一座70层高的特朗普大厦，而项目地块来自受美国制裁的伊万尼什维利家族控制的基金会。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-latest-spot-for-a-trump-tower-an-ex-soviet-republic-moving-closer-to-russia-f2016837</link>
-            <guid isPermaLink="false">WP-WSJS-0003889621</guid>
-            <pubDate>Mon, 14 Sep 2026 05:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国将中国卫星图像与致三名美军士兵丧生的伊朗袭击联系起来]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84726262?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普与习近平计划于9月24日举行峰会，这一发现可能在此之前加剧美中紧张局势。美国官员未指明向伊朗提供图像的中国实体，也未指控北京方面直接参与。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-links-chinese-satellite-imagery-to-iranian-strike-that-killed-three-troops-8f12f0b7</link>
-            <guid isPermaLink="false">WP-WSJS-0003889275</guid>
-            <pubDate>Mon, 14 Sep 2026 00:20:00 GMT</pubDate>
+            <title><![CDATA[与普京关系密切的俄罗斯商人资助小特朗普的婚后庆祝活动]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-09507408?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>小特朗普及其妻子证实，俄罗斯商人乌马尔·克列姆廖夫为其巴哈马婚礼后的两晚庆祝活动买单。</p>]]></description>
+            <link>https://cn.wsj.com/articles/russian-businessman-financed-donald-trump-jr-s-wedding-celebrations-f6cb4311</link>
+            <guid isPermaLink="false">WP-WSJS-0003892499</guid>
+            <pubDate>Mon, 14 Sep 2026 23:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国经济困境波及香格里拉松茸“猎人”]]></title>
@@ -110,6 +103,13 @@
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%A2%83%E6%B3%A2%E5%8F%8A%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E6%9D%BE%E8%8C%B8-%E7%8C%8E%E4%BA%BA-1dcd632c</link>
             <guid isPermaLink="false">WP-WSJS-0003889723</guid>
             <pubDate>Mon, 14 Sep 2026 06:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国将中国卫星图像与致三名美军士兵丧生的伊朗袭击联系起来]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84726262?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普与习近平计划于9月24日举行峰会，这一发现可能在此之前加剧美中紧张局势。美国官员未指明向伊朗提供图像的中国实体，也未指控北京方面直接参与。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-links-chinese-satellite-imagery-to-iranian-strike-that-killed-three-troops-8f12f0b7</link>
+            <guid isPermaLink="false">WP-WSJS-0003889275</guid>
+            <pubDate>Mon, 14 Sep 2026 00:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一名美国学者受邀前往中国，随后便失联了]]></title>

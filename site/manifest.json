@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-09-14T19:50:54.425994+00:00",
+  "generated_at": "2026-09-14T23:52:37.714486+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "特朗普称AI不需要更多护栏，斥责安全担忧为骗局",
+      "summary": "特朗普反驳了加强联邦人工智能监管的必要性，并将安全担忧斥为一场骗局，称这种骗局会让该行业陷入财务崩溃，并把竞争优势拱手让给中国。",
+      "link": "https://cn.wsj.com/articles/trump-says-ai-doesnt-need-more-guardrails-despite-industry-warnings-78e513f5",
+      "guid": "WP-WSJS-0003892465",
+      "pub_date": "Mon, 14 Sep 2026 23:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-93615028?size=1.501&width=1280",
+      "snapshot": "articles/trump-says-ai-doesnt-need-more-guardrails-despit-22ebbdc0a3fe.html",
+      "captured": true,
+      "capture_title": "特朗普称AI不需要更多护栏，斥责安全担忧为骗局 - WSJ",
+      "error": ""
+    },
     {
       "title": "美国AI大恐慌全面爆发",
       "summary": "对AI威胁人类生存的恐慌似乎突破了互联网辩论和硅谷圈子的局限，蔓延至美国主流社会。这种情绪在办公室里和餐桌上的谈论中已达到沸点。",
@@ -13,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-72601496?size=1&width=1280",
       "snapshot": "articles/americas-great-ai-freakout-has-begun-d6778567-32712bbf73d5.html",
       "captured": true,
-      "capture_title": "美国AI大恐慌全面爆发 - WSJ",
+      "capture_title": "美国AI大恐慌全面爆发",
       "error": ""
     },
     {
@@ -29,27 +41,27 @@
       "error": ""
     },
     {
-      "title": "三大AI企业掌门人达成共识：模型开发需要降速",
-      "summary": "Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%89%E5%A4%A7ai%E4%BC%81%E4%B8%9A%E6%8E%8C%E9%97%A8%E4%BA%BA%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86-%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91%E8%A6%81%E4%B8%BB%E5%8A%A8%E9%99%8D%E9%80%9F-edd19b9d",
-      "guid": "WP-WSJS-0003889331",
-      "pub_date": "Mon, 14 Sep 2026 00:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-68100368?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-89-e5-a4-a7ai-e4-bc-81-e4-b8-9a-e6-8e-8c-e-92aac6e30010.html",
+      "title": "资本与安全的碰撞：AI行业如何陷入空前危机",
+      "summary": "陷入白热化竞争的OpenAI与Anthropic，不仅要应对彼此的厮杀，还要直面来自中国的竞争威胁。两家公司在全速冲刺IPO之际，已公开承认可能失去对旗下强大AI系统的控制。",
+      "link": "https://cn.wsj.com/articles/%E8%B5%84%E6%9C%AC%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%A2%B0%E6%92%9E-ai%E8%A1%8C%E4%B8%9A%E5%A6%82%E4%BD%95%E9%99%B7%E5%85%A5%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA-79a1a628",
+      "guid": "WP-WSJS-0003889763",
+      "pub_date": "Mon, 14 Sep 2026 07:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-35214208?size=1.501&width=1280",
+      "snapshot": "articles/e8-b5-84-e6-9c-ac-e4-b8-8e-e5-ae-89-e5-85-a8-e7--78351e0ac234.html",
       "captured": true,
-      "capture_title": "三大AI企业掌门人达成共识：模型开发需要降速",
+      "capture_title": "资本与安全的碰撞：AI行业如何陷入空前危机",
       "error": ""
     },
     {
-      "title": "特朗普视对华竞争为AI监管关键议题",
-      "summary": "美国总统特朗普为宽松监管辩护，并强调必须保持领先地位，而此时科技行业高管正对飞速发展敲响警钟。",
-      "link": "https://cn.wsj.com/articles/trump-defends-white-houses-light-touch-on-ai-regulation-6aae3f7f",
-      "guid": "WP-WSJS-0003889326",
-      "pub_date": "Mon, 14 Sep 2026 00:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-79270572?size=1.501&width=1280",
-      "snapshot": "articles/trump-defends-white-houses-light-touch-on-ai-reg-aa6945d61aaa.html",
+      "title": "10年期美债收益率触及5%，华尔街直面新时代",
+      "summary": "眼下，交易员们心里存着一个疑问：5%会不会像2023年那样成为10年期收益率的天花板，还是会被彻底突破，从而带来一种更像2000年代的借贷环境。",
+      "link": "https://cn.wsj.com/articles/wall-street-confronts-prospect-of-new-era-after-treasury-yield-hits-5-889d8781",
+      "guid": "WP-WSJS-0003892473",
+      "pub_date": "Mon, 14 Sep 2026 23:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-16204983?size=1.499&width=1280",
+      "snapshot": "articles/wall-street-confronts-prospect-of-new-era-after--65883c723346.html",
       "captured": true,
-      "capture_title": "特朗普视对华竞争为AI监管关键议题",
+      "capture_title": "10年期美债收益率触及5%，华尔街直面新时代 - WSJ",
       "error": ""
     },
     {
@@ -62,18 +74,6 @@
       "snapshot": "articles/widening-mideast-instability-squeezes-global-oil-403c08fcb2b5.html",
       "captured": true,
       "capture_title": "中东动荡局势蔓延，压制全球石油供应",
-      "error": ""
-    },
-    {
-      "title": "华尔街欢迎美联储政策前景明朗化，哪怕意味着更高利率",
-      "summary": "美股上周五反弹，债市企稳，为动荡的一周画上句号。此前略高于预期的通胀数据促使投资者加大对美联储周三加息的押注。",
-      "link": "https://cn.wsj.com/articles/wall-street-cheers-clarity-on-fed-outlookeven-if-it-means-higher-rates-6ee2cbb3",
-      "guid": "WP-WSJS-0003889398",
-      "pub_date": "Mon, 14 Sep 2026 01:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-12682423?size=1.499&width=1280",
-      "snapshot": "articles/wall-street-cheers-clarity-on-fed-outlookeven-if-09ecb0c7bd20.html",
-      "captured": true,
-      "capture_title": "华尔街欢迎美联储政策前景明朗化，哪怕意味着更高利率",
       "error": ""
     },
     {
@@ -113,27 +113,15 @@
       "error": ""
     },
     {
-      "title": "特朗普大厦最新选址：一个正向俄罗斯靠拢的前苏联加盟国",
-      "summary": "特朗普集团与格鲁吉亚开发商计划在第比利斯建造一座70层高的特朗普大厦，而项目地块来自受美国制裁的伊万尼什维利家族控制的基金会。",
-      "link": "https://cn.wsj.com/articles/the-latest-spot-for-a-trump-tower-an-ex-soviet-republic-moving-closer-to-russia-f2016837",
-      "guid": "WP-WSJS-0003889621",
-      "pub_date": "Mon, 14 Sep 2026 05:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-46435673?size=1.78&width=1280",
-      "snapshot": "articles/the-latest-spot-for-a-trump-tower-an-ex-soviet-r-cdaccaa4d7e5.html",
+      "title": "与普京关系密切的俄罗斯商人资助小特朗普的婚后庆祝活动",
+      "summary": "小特朗普及其妻子证实，俄罗斯商人乌马尔·克列姆廖夫为其巴哈马婚礼后的两晚庆祝活动买单。",
+      "link": "https://cn.wsj.com/articles/russian-businessman-financed-donald-trump-jr-s-wedding-celebrations-f6cb4311",
+      "guid": "WP-WSJS-0003892499",
+      "pub_date": "Mon, 14 Sep 2026 23:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-09507408?size=1.501&width=1280",
+      "snapshot": "articles/russian-businessman-financed-donald-trump-jr-s-w-c5d87ade3bfd.html",
       "captured": true,
-      "capture_title": "特朗普大厦最新选址：一个正向俄罗斯靠拢的前苏联加盟国",
-      "error": ""
-    },
-    {
-      "title": "美国将中国卫星图像与致三名美军士兵丧生的伊朗袭击联系起来",
-      "summary": "特朗普与习近平计划于9月24日举行峰会，这一发现可能在此之前加剧美中紧张局势。美国官员未指明向伊朗提供图像的中国实体，也未指控北京方面直接参与。",
-      "link": "https://cn.wsj.com/articles/u-s-links-chinese-satellite-imagery-to-iranian-strike-that-killed-three-troops-8f12f0b7",
-      "guid": "WP-WSJS-0003889275",
-      "pub_date": "Mon, 14 Sep 2026 00:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-84726262?size=1.501&width=1280",
-      "snapshot": "articles/u-s-links-chinese-satellite-imagery-to-iranian-s-4cd58afa044c.html",
-      "captured": true,
-      "capture_title": "美国将中国卫星图像与致三名美军士兵丧生的伊朗袭击联系起来",
+      "capture_title": "与普京关系密切的俄罗斯商人资助小特朗普的婚后庆祝活动 - WSJ",
       "error": ""
     },
     {
@@ -146,6 +134,18 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e7-bb-8f-e6-b5-8e-e5-9b-b0-e5--debe2a979378.html",
       "captured": true,
       "capture_title": "中国经济困境波及香格里拉松茸“猎人”",
+      "error": ""
+    },
+    {
+      "title": "美国将中国卫星图像与致三名美军士兵丧生的伊朗袭击联系起来",
+      "summary": "特朗普与习近平计划于9月24日举行峰会，这一发现可能在此之前加剧美中紧张局势。美国官员未指明向伊朗提供图像的中国实体，也未指控北京方面直接参与。",
+      "link": "https://cn.wsj.com/articles/u-s-links-chinese-satellite-imagery-to-iranian-strike-that-killed-three-troops-8f12f0b7",
+      "guid": "WP-WSJS-0003889275",
+      "pub_date": "Mon, 14 Sep 2026 00:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-84726262?size=1.501&width=1280",
+      "snapshot": "articles/u-s-links-chinese-satellite-imagery-to-iranian-s-4cd58afa044c.html",
+      "captured": true,
+      "capture_title": "美国将中国卫星图像与致三名美军士兵丧生的伊朗袭击联系起来",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-99222592?size=1.502&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd8-e6-9c-88-e6-96-b0-e5-a2-9e-e4-11518f28b5f6.html",
       "captured": true,
-      "capture_title": "中国8月新增人民币贷款不及预期 - WSJ",
+      "capture_title": "中国8月新增人民币贷款不及预期",
       "error": ""
     },
     {
@@ -305,15 +305,51 @@
       "error": ""
     },
     {
-      "title": "资本与安全的碰撞：AI行业如何陷入空前危机",
-      "summary": "陷入白热化竞争的OpenAI与Anthropic，不仅要应对彼此的厮杀，还要直面来自中国的竞争威胁。两家公司在全速冲刺IPO之际，已公开承认可能失去对旗下强大AI系统的控制。",
-      "link": "https://cn.wsj.com/articles/%E8%B5%84%E6%9C%AC%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%A2%B0%E6%92%9E-ai%E8%A1%8C%E4%B8%9A%E5%A6%82%E4%BD%95%E9%99%B7%E5%85%A5%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA-79a1a628",
-      "guid": "WP-WSJS-0003889763",
-      "pub_date": "Mon, 14 Sep 2026 07:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-35214208?size=1.501&width=1280",
-      "snapshot": "articles/e8-b5-84-e6-9c-ac-e4-b8-8e-e5-ae-89-e5-85-a8-e7--78351e0ac234.html",
+      "title": "三大AI企业掌门人达成共识：模型开发需要降速",
+      "summary": "Anthropic CEO阿莫迪上周六呼吁AI行业控制前沿工具的开发节奏，马斯克和阿尔特曼表示支持，阿尔特曼甚至暗示OpenAI可能需要推迟IPO。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%89%E5%A4%A7ai%E4%BC%81%E4%B8%9A%E6%8E%8C%E9%97%A8%E4%BA%BA%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86-%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91%E8%A6%81%E4%B8%BB%E5%8A%A8%E9%99%8D%E9%80%9F-edd19b9d",
+      "guid": "WP-WSJS-0003889331",
+      "pub_date": "Mon, 14 Sep 2026 00:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-68100368?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-89-e5-a4-a7ai-e4-bc-81-e4-b8-9a-e6-8e-8c-e-92aac6e30010.html",
       "captured": true,
-      "capture_title": "资本与安全的碰撞：AI行业如何陷入空前危机 - WSJ",
+      "capture_title": "三大AI企业掌门人达成共识：模型开发需要降速",
+      "error": ""
+    },
+    {
+      "title": "特朗普视对华竞争为AI监管关键议题",
+      "summary": "美国总统特朗普为宽松监管辩护，并强调必须保持领先地位，而此时科技行业高管正对飞速发展敲响警钟。",
+      "link": "https://cn.wsj.com/articles/trump-defends-white-houses-light-touch-on-ai-regulation-6aae3f7f",
+      "guid": "WP-WSJS-0003889326",
+      "pub_date": "Mon, 14 Sep 2026 00:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-79270572?size=1.501&width=1280",
+      "snapshot": "articles/trump-defends-white-houses-light-touch-on-ai-reg-aa6945d61aaa.html",
+      "captured": true,
+      "capture_title": "特朗普视对华竞争为AI监管关键议题",
+      "error": ""
+    },
+    {
+      "title": "华尔街欢迎美联储政策前景明朗化，哪怕意味着更高利率",
+      "summary": "美股上周五反弹，债市企稳，为动荡的一周画上句号。此前略高于预期的通胀数据促使投资者加大对美联储周三加息的押注。",
+      "link": "https://cn.wsj.com/articles/wall-street-cheers-clarity-on-fed-outlookeven-if-it-means-higher-rates-6ee2cbb3",
+      "guid": "WP-WSJS-0003889398",
+      "pub_date": "Mon, 14 Sep 2026 01:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-12682423?size=1.499&width=1280",
+      "snapshot": "articles/wall-street-cheers-clarity-on-fed-outlookeven-if-09ecb0c7bd20.html",
+      "captured": true,
+      "capture_title": "华尔街欢迎美联储政策前景明朗化，哪怕意味着更高利率",
+      "error": ""
+    },
+    {
+      "title": "特朗普大厦最新选址：一个正向俄罗斯靠拢的前苏联加盟国",
+      "summary": "特朗普集团与格鲁吉亚开发商计划在第比利斯建造一座70层高的特朗普大厦，而项目地块来自受美国制裁的伊万尼什维利家族控制的基金会。",
+      "link": "https://cn.wsj.com/articles/the-latest-spot-for-a-trump-tower-an-ex-soviet-republic-moving-closer-to-russia-f2016837",
+      "guid": "WP-WSJS-0003889621",
+      "pub_date": "Mon, 14 Sep 2026 05:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-46435673?size=1.78&width=1280",
+      "snapshot": "articles/the-latest-spot-for-a-trump-tower-an-ex-soviet-r-cdaccaa4d7e5.html",
+      "captured": true,
+      "capture_title": "特朗普大厦最新选址：一个正向俄罗斯靠拢的前苏联加盟国",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/e4-b8-ba-e4-bd-95-e6-99-ae-e4-ba-ac-e7-9a-84-e4--a650a8f95afa.html",
       "captured": true,
       "capture_title": "为何普京的伙伴们开始就战争问题向他发难",
-      "error": ""
-    },
-    {
-      "title": "极右翼大胜撕裂德国政坛，默茨挽救政府之路狭窄受限",
-      "summary": "这一结果可能引发关于政治“防火墙”未来命运的辩论，多年来正是这道屏障将极右翼挡在权力大门之外。",
-      "link": "https://cn.wsj.com/articles/%E6%9E%81%E5%8F%B3%E7%BF%BC%E5%A4%A7%E8%83%9C%E6%92%95%E8%A3%82%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%9D%9B-%E9%BB%98%E8%8C%A8%E6%8C%BD%E6%95%91%E6%94%BF%E5%BA%9C%E4%B9%8B%E8%B7%AF%E7%8B%AD%E7%AA%84%E5%8F%97%E9%99%90-6f8fbaf9",
-      "guid": "WP-WSJS-0003873892",
-      "pub_date": "Tue, 08 Sep 2026 02:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-69771080?size=1.5&width=1280",
-      "snapshot": "articles/e6-9e-81-e5-8f-b3-e7-bf-bc-e5-a4-a7-e8-83-9c-e6--1d87b94ddef2.html",
-      "captured": true,
-      "capture_title": "极右翼大胜撕裂德国政坛，默茨挽救政府之路狭窄受限",
-      "error": ""
-    },
-    {
-      "title": "三组数据凸显中国出口热潮规模之大",
-      "summary": "8月贸易数据显示，中国出口增长异常强劲，使其有望至少与去年创纪录的1.2万亿美元贸易顺差持平。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%89%E7%BB%84%E6%95%B0%E6%8D%AE%E5%87%B8%E6%98%BE%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%83%AD%E6%BD%AE%E8%A7%84%E6%A8%A1%E4%B9%8B%E5%A4%A7-c067b136",
-      "guid": "WP-WSJS-0003874604",
-      "pub_date": "Tue, 08 Sep 2026 11:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-98602755?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-89-e7-bb-84-e6-95-b0-e6-8d-ae-e5-87-b8-e6--243308cbffce.html",
-      "captured": true,
-      "capture_title": "三组数据凸显中国出口热潮规模之大 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中国出口增速加快，贸易顺差扩大",
-      "summary": "受全球AI基础设施建设热潮支撑，中国8月出口同比增长25.0%，超出预期，不过海外出货量激增可能加剧中国与贸易伙伴之间的紧张关系。",
-      "link": "https://cn.wsj.com/articles/china-sexport-growth-accelerated-in-august-e9d5cc01",
-      "guid": "WP-WSJS-0003873962",
-      "pub_date": "Tue, 08 Sep 2026 05:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-66171014?size=1.501&width=1280",
-      "snapshot": "articles/china-sexport-growth-accelerated-in-august-e9d5c-2b528452bc6d.html",
-      "captured": true,
-      "capture_title": "中国出口增速加快，贸易顺差扩大",
       "error": ""
     }
   ]
