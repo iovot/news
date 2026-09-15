@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 11:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 16:36:59 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 11:24:37 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 16:36:59 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,13 @@
             <pubDate>Tue, 15 Sep 2026 01:01:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中美科技竞赛愈演愈烈之际，中国收紧出入境规定]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-13298192?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国从周二起对本国公民实施广泛的出境限制，同时对入境中国的外国人也出台了新规，加强了对被视为危害国家安全人员的审查，包括违反技术出口管制的人员。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E7%AB%9E%E8%B5%9B%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E6%94%B6%E7%B4%A7%E5%87%BA%E5%85%A5%E5%A2%83%E8%A7%84%E5%AE%9A-33a5348a</link>
+            <guid isPermaLink="false">WP-WSJS-0003893673</guid>
+            <pubDate>Tue, 15 Sep 2026 11:58:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[特朗普称AI不需要更多护栏，斥责安全担忧为骗局]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93615028?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普反驳了加强联邦人工智能监管的必要性，并将安全担忧斥为一场骗局，称这种骗局会让该行业陷入财务崩溃，并把竞争优势拱手让给中国。</p>]]></description>
             <link>https://cn.wsj.com/articles/trump-says-ai-doesnt-need-more-guardrails-despite-industry-warnings-78e513f5</link>
@@ -47,13 +54,6 @@
             <link>https://cn.wsj.com/articles/americas-great-ai-freakout-has-begun-d6778567</link>
             <guid isPermaLink="false">WP-WSJS-0003889544</guid>
             <pubDate>Mon, 14 Sep 2026 04:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[资本与安全的碰撞：AI行业如何陷入空前危机]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-35214208?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>陷入白热化竞争的OpenAI与Anthropic，不仅要应对彼此的厮杀，还要直面来自中国的竞争威胁。两家公司在全速冲刺IPO之际，已公开承认可能失去对旗下强大AI系统的控制。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%B5%84%E6%9C%AC%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%A2%B0%E6%92%9E-ai%E8%A1%8C%E4%B8%9A%E5%A6%82%E4%BD%95%E9%99%B7%E5%85%A5%E7%A9%BA%E5%89%8D%E5%8D%B1%E6%9C%BA-79a1a628</link>
-            <guid isPermaLink="false">WP-WSJS-0003889763</guid>
-            <pubDate>Mon, 14 Sep 2026 07:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[全球债市抛售加剧，10年期美债收益率创多年新高]]></title>
@@ -77,11 +77,11 @@
             <pubDate>Tue, 15 Sep 2026 03:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特“东西管道”遭袭停运，为何会搅动全球原油市场？]]></title>
-            <description><![CDATA[<img width="1280" height="831" src="https://images.wsj.net/im-26127255?size=1.54&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在伊朗战争期间，这条“东西管道”已成为全球最重要的能源基础设施之一，是在途经霍尔木兹海峡的油轮航运量大幅锐减背景下的关键绕行通道。</p>]]></description>
-            <link>https://cn.wsj.com/articles/what-is-saudi-arabias-east-west-pipeline-and-why-is-it-rocking-oil-markets-5f172acb</link>
-            <guid isPermaLink="false">WP-WSJS-0003892500</guid>
-            <pubDate>Mon, 14 Sep 2026 23:36:00 GMT</pubDate>
+            <title><![CDATA[一场闪电攻势如何让胡塞武装强夺关键石油通道]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-25321334?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>也门武装分子本在伊朗战争中按兵不动，直到他们等来了可乘之机。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%80%E5%9C%BA%E9%97%AA%E7%94%B5%E6%94%BB%E5%8A%BF%E5%A6%82%E4%BD%95%E8%AE%A9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%BC%BA%E5%A4%BA%E5%85%B3%E9%94%AE%E7%9F%B3%E6%B2%B9%E9%80%9A%E9%81%93-1dc771cc</link>
+            <guid isPermaLink="false">WP-WSJS-0003893143</guid>
+            <pubDate>Tue, 15 Sep 2026 04:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[与普京关系密切的俄罗斯商人资助小特朗普的婚后庆祝活动]]></title>
