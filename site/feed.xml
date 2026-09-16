@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 11:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 16:30:03 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 11:09:44 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 16:30:03 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -84,18 +84,18 @@
             <pubDate>Wed, 16 Sep 2026 05:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国也认为AI可能毁灭人类，但当务之急是先赶上美国]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-13271475?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北京方面认为，AI是中美科技角力的主战场。在中国各地的政府机关和AI研究实验室里，眼下的重心只有一个：迎头赶上。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-also-thinks-ai-could-kill-us-but-first-it-wants-to-match-the-u-s-90a364da</link>
-            <guid isPermaLink="false">WP-WSJS-0003892584</guid>
-            <pubDate>Tue, 15 Sep 2026 01:01:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[一家中国黑客公司如何利用AI大幅提升网络间谍活动]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10567678?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>公司内部资料显示，AI正被用于处理窃取的外国政府数据，使其便于中国安全机构使用。</p>]]></description>
             <link>https://cn.wsj.com/articles/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-462752b5</link>
             <guid isPermaLink="false">WP-WSJS-0003896656</guid>
             <pubDate>Wed, 16 Sep 2026 06:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国也认为AI可能毁灭人类，但当务之急是先赶上美国]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-13271475?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北京方面认为，AI是中美科技角力的主战场。在中国各地的政府机关和AI研究实验室里，眼下的重心只有一个：迎头赶上。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-also-thinks-ai-could-kill-us-but-first-it-wants-to-match-the-u-s-90a364da</link>
+            <guid isPermaLink="false">WP-WSJS-0003892584</guid>
+            <pubDate>Tue, 15 Sep 2026 01:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[俄罗斯“影子舰队”频繁出没北约“盲区”：爱尔兰水域]]></title>
