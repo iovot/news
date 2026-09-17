@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:26:01.984064+00:00",
+  "generated_at": "2026-09-17T16:39:28.385870+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.mktw.net/im-35655637?size=1.49&width=1280",
       "snapshot": "articles/e7-be-8e-e8-81-94-e5-82-a8-e5-8a-a0-e6-81-af-e5--8333c769dd59.html",
       "captured": true,
-      "capture_title": "美联储加息后，标普500指数为何仍可能上涨？ - WSJ",
+      "capture_title": "美联储加息后，标普500指数为何仍可能上涨？",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-39672295?size=1&width=1280",
       "snapshot": "articles/warsh-takes-hawkish-turn-with-rate-rise-and-hint-902517551c1b.html",
       "captured": true,
-      "capture_title": "沃什释放鹰派信号：启动加息并暗示尚未终结 - WSJ",
+      "capture_title": "沃什释放鹰派信号：启动加息并暗示尚未终结",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-83429802?size=1.501&width=1280",
       "snapshot": "articles/e7-99-bd-e5-ae-ab-e5-86-85-e9-83-a8-e4-b8-baai-e-bfb88073678e.html",
       "captured": true,
-      "capture_title": "揭秘白宫内部争相在AI问题上左右特朗普的角力 - WSJ",
+      "capture_title": "揭秘白宫内部争相在AI问题上左右特朗普的角力",
       "error": ""
     },
     {
@@ -77,6 +77,18 @@
       "error": ""
     },
     {
+      "title": "华为计划如何成为“中国的英伟达”",
+      "summary": "华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E4%B8%BA%E8%AE%A1%E5%88%92%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE-3f01f463",
+      "guid": "WP-WSJS-0003901033",
+      "pub_date": "Thu, 17 Sep 2026 12:12:00 GMT",
+      "image_url": "https://images.wsj.net/im-84135776?size=1.499&width=1280",
+      "snapshot": "articles/e5-8d-8e-e4-b8-ba-e8-ae-a1-e5-88-92-e5-a6-82-e4--68ac35df44e2.html",
+      "captured": true,
+      "capture_title": "华为计划如何成为“中国的英伟达” - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国可以避免金融危机，但无法避免深层代价",
       "summary": "中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA-%E4%BD%86%E6%97%A0%E6%B3%95%E9%81%BF%E5%85%8D%E6%B7%B1%E5%B1%82%E4%BB%A3%E4%BB%B7-9cd493f0",
@@ -86,18 +98,6 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-8f-af-e4-bb-a5-e9-81-bf-e5--58a34c1bf315.html",
       "captured": true,
       "capture_title": "中国可以避免金融危机，但无法避免深层代价",
-      "error": ""
-    },
-    {
-      "title": "他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”",
-      "summary": "自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。",
-      "link": "https://cn.wsj.com/articles/%E4%BB%96%E6%9C%AC%E6%98%AF%E9%BB%98%E9%BB%98%E6%97%A0%E9%97%BB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%A4%A9%E6%89%8D-%E8%BE%9E%E8%81%8Canthropic%E5%90%8E%E6%88%90%E4%BA%86ai%E5%AE%89%E5%85%A8-%E4%BB%A3%E8%A8%80%E4%BA%BA-48c85569",
-      "guid": "WP-WSJS-0003900609",
-      "pub_date": "Thu, 17 Sep 2026 08:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-32829369?size=0.8&width=1280",
-      "snapshot": "articles/e4-bb-96-e6-9c-ac-e6-98-af-e9-bb-98-e9-bb-98-e6--fd7b38b51c59.html",
-      "captured": true,
-      "capture_title": "他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人” - WSJ",
       "error": ""
     },
     {
@@ -113,6 +113,18 @@
       "error": ""
     },
     {
+      "title": "他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”",
+      "summary": "自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。",
+      "link": "https://cn.wsj.com/articles/%E4%BB%96%E6%9C%AC%E6%98%AF%E9%BB%98%E9%BB%98%E6%97%A0%E9%97%BB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%A4%A9%E6%89%8D-%E8%BE%9E%E8%81%8Canthropic%E5%90%8E%E6%88%90%E4%BA%86ai%E5%AE%89%E5%85%A8-%E4%BB%A3%E8%A8%80%E4%BA%BA-48c85569",
+      "guid": "WP-WSJS-0003900609",
+      "pub_date": "Thu, 17 Sep 2026 08:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-32829369?size=0.8&width=1280",
+      "snapshot": "articles/e4-bb-96-e6-9c-ac-e6-98-af-e9-bb-98-e9-bb-98-e6--fd7b38b51c59.html",
+      "captured": true,
+      "capture_title": "他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”",
+      "error": ""
+    },
+    {
       "title": "中层管理者“大清洗”为何会带来反噬？",
       "summary": "企业正在裁撤中层管理者，他们的作用往往被低估。当我们意识到失去了什么时，中层管理者将成为市面上最抢手的职位。",
       "link": "https://cn.wsj.com/articles/why-the-purge-of-middle-managers-could-backfire-7e3117cf",
@@ -125,18 +137,6 @@
       "error": ""
     },
     {
-      "title": "五角大楼首次证实部署太空武器，美国紧盯中俄",
-      "summary": "这是美国政府首次承认这一被严密保守的机密。中国外交部发言人表示，反对任何外空武器化和外空军备竞赛。",
-      "link": "https://cn.wsj.com/articles/u-s-eyes-china-and-russia-as-pentagon-confirms-space-weapons-d6be7f77",
-      "guid": "WP-WSJS-0003896000",
-      "pub_date": "Tue, 15 Sep 2026 23:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-54832110?size=2.038&width=1280",
-      "snapshot": "articles/u-s-eyes-china-and-russia-as-pentagon-confirms-s-7f6eb72713b8.html",
-      "captured": true,
-      "capture_title": "五角大楼首次证实部署太空武器，美国紧盯中俄",
-      "error": ""
-    },
-    {
       "title": "图解喷气动力如何让俄罗斯在无人机战争中占据优势",
       "summary": "俄罗斯“天竺葵”单向攻击无人机配备涡轮喷气发动机，它们的制造成本相对较低，还能更迅速地突破乌克兰防空系统并锁定目标。",
       "link": "https://cn.wsj.com/articles/see-how-jet-power-is-giving-russia-the-edge-in-the-drone-war-d3a18ad9",
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-59605370?size=1.5&width=1280",
       "snapshot": "articles/see-how-jet-power-is-giving-russia-the-edge-in-t-0954f4c10736.html",
       "captured": true,
-      "capture_title": "图解喷气动力如何让俄罗斯在无人机战争中占据优势 - WSJ",
+      "capture_title": "图解喷气动力如何让俄罗斯在无人机战争中占据优势",
       "error": ""
     },
     {
@@ -185,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "别管什么AI末日了，真正的威胁就在眼前",
+      "summary": "飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。",
+      "link": "https://cn.wsj.com/articles/%E5%88%AB%E7%AE%A1%E4%BB%80%E4%B9%88ai%E6%9C%AB%E6%97%A5%E4%BA%86-%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A8%81%E8%83%81%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D-fda7a35a",
+      "guid": "WP-WSJS-0003900067",
+      "pub_date": "Thu, 17 Sep 2026 00:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-31232847?size=1.5&width=1280",
+      "snapshot": "articles/e5-88-ab-e7-ae-a1-e4-bb-80-e4-b9-88ai-e6-9c-ab-e-a4f3d393325b.html",
+      "captured": true,
+      "capture_title": "别管什么AI末日了，真正的威胁就在眼前",
+      "error": ""
+    },
+    {
       "title": "埃克森美孚即将就投资委内瑞拉油田达成初步协议",
       "summary": "在退出该国近20年后，埃克森美孚正就重返委内瑞拉展开谈判。知情人士说，协议涉及的油田藏着500亿桶石油。",
       "link": "https://cn.wsj.com/articles/exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-00c237e4",
@@ -206,18 +218,6 @@
       "snapshot": "articles/e5-ad-97-e8-8a-82-e8-b7-b3-e5-8a-a8-e6-94-b6-e5--312de9dc9cb8.html",
       "captured": true,
       "capture_title": "字节跳动收入增长，AI支出挤压利润",
-      "error": ""
-    },
-    {
-      "title": "特朗普政府的政策转向让罕见病药物领域重获青睐",
-      "summary": "随着FDA强硬派离任，投资者重新涌向罕见病药物押注。",
-      "link": "https://cn.wsj.com/articles/trump-administration-shift-puts-this-corner-of-biotech-back-in-favor-fc7ba0eb",
-      "guid": "WP-WSJS-0003899950",
-      "pub_date": "Thu, 17 Sep 2026 00:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-79728822?size=1.501&width=1280",
-      "snapshot": "articles/trump-administration-shift-puts-this-corner-of-b-505ad0fa5442.html",
-      "captured": true,
-      "capture_title": "特朗普政府的政策转向让罕见病药物领域重获青睐",
       "error": ""
     },
     {
@@ -305,6 +305,30 @@
       "error": ""
     },
     {
+      "title": "五角大楼首次证实部署太空武器，美国紧盯中俄",
+      "summary": "这是美国政府首次承认这一被严密保守的机密。中国外交部发言人表示，反对任何外空武器化和外空军备竞赛。",
+      "link": "https://cn.wsj.com/articles/u-s-eyes-china-and-russia-as-pentagon-confirms-space-weapons-d6be7f77",
+      "guid": "WP-WSJS-0003896000",
+      "pub_date": "Tue, 15 Sep 2026 23:32:00 GMT",
+      "image_url": "https://images.wsj.net/im-54832110?size=2.038&width=1280",
+      "snapshot": "articles/u-s-eyes-china-and-russia-as-pentagon-confirms-s-7f6eb72713b8.html",
+      "captured": true,
+      "capture_title": "五角大楼首次证实部署太空武器，美国紧盯中俄",
+      "error": ""
+    },
+    {
+      "title": "特朗普政府的政策转向让罕见病药物领域重获青睐",
+      "summary": "随着FDA强硬派离任，投资者重新涌向罕见病药物押注。",
+      "link": "https://cn.wsj.com/articles/trump-administration-shift-puts-this-corner-of-biotech-back-in-favor-fc7ba0eb",
+      "guid": "WP-WSJS-0003899950",
+      "pub_date": "Thu, 17 Sep 2026 00:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-79728822?size=1.501&width=1280",
+      "snapshot": "articles/trump-administration-shift-puts-this-corner-of-b-505ad0fa5442.html",
+      "captured": true,
+      "capture_title": "特朗普政府的政策转向让罕见病药物领域重获青睐",
+      "error": ""
+    },
+    {
       "title": "美联储三年来首次加息",
       "summary": "加息决定获得一致通过，上调25个基点；绝大多数官员初步预计今年还会再加息一次。",
       "link": "https://cn.wsj.com/articles/fed-raises-rates-for-first-time-in-three-years-70b6aaed",
@@ -386,18 +410,6 @@
       "snapshot": "articles/openai-considers-pre-ipo-funding-round-at-more-t-97adf3551749.html",
       "captured": true,
       "capture_title": "OpenAI考虑进行一轮IPO前融资，估值或超1.2万亿美元",
-      "error": ""
-    },
-    {
-      "title": "别管什么AI末日了，真正的威胁就在眼前",
-      "summary": "飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。",
-      "link": "https://cn.wsj.com/articles/%E5%88%AB%E7%AE%A1%E4%BB%80%E4%B9%88ai%E6%9C%AB%E6%97%A5%E4%BA%86-%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A8%81%E8%83%81%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D-fda7a35a",
-      "guid": "WP-WSJS-0003900067",
-      "pub_date": "Thu, 17 Sep 2026 00:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-31232847?size=1.5&width=1280",
-      "snapshot": "articles/e5-88-ab-e7-ae-a1-e4-bb-80-e4-b9-88ai-e6-9c-ab-e-a4f3d393325b.html",
-      "captured": true,
-      "capture_title": "别管什么AI末日了，真正的威胁就在眼前 - WSJ",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e5-a4-b1-e6-8e-a7ai-e9-9b-86-e7-be-a4-e5-8f-91-e-4c2a06b69e67.html",
       "captured": true,
       "capture_title": "OpenAI智能体早在5月就曾对RubyGems发动过网络攻击，加剧AI失控忧虑 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中国计划到2030年进入世界汽车强国行列",
-      "summary": "这凸显出北京方面计划利用全球对电动汽车和混合动力汽车的需求推动国内汽车行业的发展。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E5%88%B02030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97-4e8c20df",
-      "guid": "WP-WSJS-0003884355",
-      "pub_date": "Fri, 11 Sep 2026 09:01:00 GMT",
-      "image_url": "https://images.wsj.net/im-07188810?size=1.424&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e8-ae-a1-e5-88-92-e5-88-b02030-37ea77c69ae4.html",
-      "captured": true,
-      "capture_title": "中国计划到2030年进入世界汽车强国行列",
       "error": ""
     }
   ]

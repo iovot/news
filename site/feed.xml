@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 11:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 16:35:18 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 11:19:01 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 16:35:18 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -70,18 +70,18 @@
             <pubDate>Wed, 16 Sep 2026 06:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[华为计划如何成为“中国的英伟达”]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-84135776?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8D%8E%E4%B8%BA%E8%AE%A1%E5%88%92%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE-3f01f463</link>
+            <guid isPermaLink="false">WP-WSJS-0003901033</guid>
+            <pubDate>Thu, 17 Sep 2026 12:12:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国可以避免金融危机，但无法避免深层代价]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15543198?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA-%E4%BD%86%E6%97%A0%E6%B3%95%E9%81%BF%E5%85%8D%E6%B7%B1%E5%B1%82%E4%BB%A3%E4%BB%B7-9cd493f0</link>
             <guid isPermaLink="false">WP-WSJS-0003896374</guid>
             <pubDate>Wed, 16 Sep 2026 02:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]></title>
-            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-32829369?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BB%96%E6%9C%AC%E6%98%AF%E9%BB%98%E9%BB%98%E6%97%A0%E9%97%BB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%A4%A9%E6%89%8D-%E8%BE%9E%E8%81%8Canthropic%E5%90%8E%E6%88%90%E4%BA%86ai%E5%AE%89%E5%85%A8-%E4%BB%A3%E8%A8%80%E4%BA%BA-48c85569</link>
-            <guid isPermaLink="false">WP-WSJS-0003900609</guid>
-            <pubDate>Thu, 17 Sep 2026 08:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[伊朗突破美国海上封锁为何如此之难？]]></title>
@@ -91,18 +91,18 @@
             <pubDate>Thu, 17 Sep 2026 03:50:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]></title>
+            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-32829369?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BB%96%E6%9C%AC%E6%98%AF%E9%BB%98%E9%BB%98%E6%97%A0%E9%97%BB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%A4%A9%E6%89%8D-%E8%BE%9E%E8%81%8Canthropic%E5%90%8E%E6%88%90%E4%BA%86ai%E5%AE%89%E5%85%A8-%E4%BB%A3%E8%A8%80%E4%BA%BA-48c85569</link>
+            <guid isPermaLink="false">WP-WSJS-0003900609</guid>
+            <pubDate>Thu, 17 Sep 2026 08:48:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中层管理者“大清洗”为何会带来反噬？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-08630861?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>企业正在裁撤中层管理者，他们的作用往往被低估。当我们意识到失去了什么时，中层管理者将成为市面上最抢手的职位。</p>]]></description>
             <link>https://cn.wsj.com/articles/why-the-purge-of-middle-managers-could-backfire-7e3117cf</link>
             <guid isPermaLink="false">WP-WSJS-0003900274</guid>
             <pubDate>Thu, 17 Sep 2026 02:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[五角大楼首次证实部署太空武器，美国紧盯中俄]]></title>
-            <description><![CDATA[<img width="1280" height="628" src="https://images.wsj.net/im-54832110?size=2.038&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是美国政府首次承认这一被严密保守的机密。中国外交部发言人表示，反对任何外空武器化和外空军备竞赛。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-eyes-china-and-russia-as-pentagon-confirms-space-weapons-d6be7f77</link>
-            <guid isPermaLink="false">WP-WSJS-0003896000</guid>
-            <pubDate>Tue, 15 Sep 2026 23:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[图解喷气动力如何让俄罗斯在无人机战争中占据优势]]></title>
@@ -133,6 +133,13 @@
             <pubDate>Thu, 17 Sep 2026 00:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[别管什么AI末日了，真正的威胁就在眼前]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-31232847?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%88%AB%E7%AE%A1%E4%BB%80%E4%B9%88ai%E6%9C%AB%E6%97%A5%E4%BA%86-%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A8%81%E8%83%81%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D-fda7a35a</link>
+            <guid isPermaLink="false">WP-WSJS-0003900067</guid>
+            <pubDate>Thu, 17 Sep 2026 00:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[埃克森美孚即将就投资委内瑞拉油田达成初步协议]]></title>
             <description><![CDATA[<img width="1280" height="835" src="https://images.wsj.net/im-78516528?size=1.533&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在退出该国近20年后，埃克森美孚正就重返委内瑞拉展开谈判。知情人士说，协议涉及的油田藏着500亿桶石油。</p>]]></description>
             <link>https://cn.wsj.com/articles/exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-00c237e4</link>
@@ -145,13 +152,6 @@
             <link>https://cn.wsj.com/articles/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%BF-ai%E6%94%AF%E5%87%BA%E6%8C%A4%E5%8E%8B%E5%88%A9%E6%B6%A6-ea9b4c4d</link>
             <guid isPermaLink="false">WP-WSJS-0003896820</guid>
             <pubDate>Wed, 16 Sep 2026 08:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普政府的政策转向让罕见病药物领域重获青睐]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79728822?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着FDA强硬派离任，投资者重新涌向罕见病药物押注。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-administration-shift-puts-this-corner-of-biotech-back-in-favor-fc7ba0eb</link>
-            <guid isPermaLink="false">WP-WSJS-0003899950</guid>
-            <pubDate>Thu, 17 Sep 2026 00:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[这四只股票有望成为3.2万亿美元半导体机遇的最大受益者]]></title>
