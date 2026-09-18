@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-18T11:00:44.914533+00:00",
+  "generated_at": "2026-09-18T16:09:40.961862+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "华为计划如何成为“中国的英伟达”",
-      "summary": "华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E4%B8%BA%E8%AE%A1%E5%88%92%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE-3f01f463",
-      "guid": "WP-WSJS-0003901033",
-      "pub_date": "Thu, 17 Sep 2026 12:12:00 GMT",
-      "image_url": "https://images.wsj.net/im-84135776?size=1.499&width=1280",
-      "snapshot": "articles/e5-8d-8e-e4-b8-ba-e8-ae-a1-e5-88-92-e5-a6-82-e4--68ac35df44e2.html",
+      "title": "中美均认同AI需要安全护栏，但安全诉求南辕北辙",
+      "summary": "美国的讨论重点在于保护人类免受技术反噬，而北京的首要关切则是维护共产党的统治地位。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9D%87%E8%AE%A4%E5%90%8Cai%E9%9C%80%E8%A6%81%E5%AE%89%E5%85%A8%E6%8A%A4%E6%A0%8F-%E4%BD%86%E5%AE%89%E5%85%A8%E8%AF%89%E6%B1%82%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99-96066d9a",
+      "guid": "WP-WSJS-0003903866",
+      "pub_date": "Fri, 18 Sep 2026 11:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-81888604?size=1.446&width=1280",
+      "snapshot": "articles/e4-b8-ad-e7-be-8e-e5-9d-87-e8-ae-a4-e5-90-8cai-e-900d07e98908.html",
       "captured": true,
-      "capture_title": "华为计划如何成为“中国的英伟达”",
+      "capture_title": "中美均认同AI需要安全护栏，但安全诉求南辕北辙 - WSJ",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-226785?size=1.5&width=1280",
       "snapshot": "articles/e4-ba-ba-e6-b0-91-e5-b8-81-e5-8d-87-e8-87-b3-e9--4e5934a13a2d.html",
       "captured": true,
-      "capture_title": "人民币升至逾四年高点 - WSJ",
+      "capture_title": "人民币升至逾四年高点",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-93164192?size=1.501&width=1280",
       "snapshot": "articles/e9-bb-91-e5-ae-a2-e5-88-a9-e7-94-a8anthropic-e7--b0f1ebcc3aad.html",
       "captured": true,
-      "capture_title": "黑客利用Anthropic的Claude入侵了OpenAI - WSJ",
+      "capture_title": "黑客利用Anthropic的Claude入侵了OpenAI",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-80283028?size=1.71&width=1280",
       "snapshot": "articles/weeks-before-the-midterms-almost-everything-is-g-a0abb3468905.html",
       "captured": true,
-      "capture_title": "美国中期选举进入倒计时，几乎一切都在涨价 - WSJ",
+      "capture_title": "美国中期选举进入倒计时，几乎一切都在涨价",
       "error": ""
     },
     {
@@ -89,15 +89,27 @@
       "error": ""
     },
     {
-      "title": "中国可以避免金融危机，但无法避免深层代价",
-      "summary": "中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA-%E4%BD%86%E6%97%A0%E6%B3%95%E9%81%BF%E5%85%8D%E6%B7%B1%E5%B1%82%E4%BB%A3%E4%BB%B7-9cd493f0",
-      "guid": "WP-WSJS-0003896374",
-      "pub_date": "Wed, 16 Sep 2026 02:06:00 GMT",
-      "image_url": "https://images.wsj.net/im-15543198?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-8f-af-e4-bb-a5-e9-81-bf-e5--58a34c1bf315.html",
+      "title": "华为计划如何成为“中国的英伟达”",
+      "summary": "华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%8E%E4%B8%BA%E8%AE%A1%E5%88%92%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE-3f01f463",
+      "guid": "WP-WSJS-0003901033",
+      "pub_date": "Thu, 17 Sep 2026 12:12:00 GMT",
+      "image_url": "https://images.wsj.net/im-84135776?size=1.499&width=1280",
+      "snapshot": "articles/e5-8d-8e-e4-b8-ba-e8-ae-a1-e5-88-92-e5-a6-82-e4--68ac35df44e2.html",
       "captured": true,
-      "capture_title": "中国可以避免金融危机，但无法避免深层代价",
+      "capture_title": "华为计划如何成为“中国的英伟达”",
+      "error": ""
+    },
+    {
+      "title": "巴菲特卸任伯克希尔哈撒韦公司董事长",
+      "summary": "巴菲特的儿子霍华德将接任董事长一职。巴菲特说，他将继续担任董事，并出任名誉董事长。",
+      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BB%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF-a064e307",
+      "guid": "WP-WSJS-0003904210",
+      "pub_date": "Fri, 18 Sep 2026 10:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-53811744?size=1.494&width=1280",
+      "snapshot": "articles/e5-b7-b4-e8-8f-b2-e7-89-b9-e5-8d-b8-e4-bb-bb-e4--78d90bc1c6e6.html",
+      "captured": true,
+      "capture_title": "巴菲特卸任伯克希尔哈撒韦公司董事长 - WSJ",
       "error": ""
     },
     {
@@ -109,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-47781018?size=1&width=1280",
       "snapshot": "articles/e5-af-86-e6-ad-87-e6-a0-b9-e5-a4-a7-e5-ad-a6-e4--c83aaee981df.html",
       "captured": true,
-      "capture_title": "密歇根大学体育事务背后的超级金主：拉里·埃里森之妻 - WSJ",
+      "capture_title": "密歇根大学体育事务背后的超级金主：拉里·埃里森之妻",
       "error": ""
     },
     {
@@ -137,27 +149,15 @@
       "error": ""
     },
     {
-      "title": "巴菲特卸任伯克希尔哈撒韦公司董事长",
-      "summary": "他的儿子霍华德将接任董事长一职，即时生效。",
-      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BB%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF-a064e307",
-      "guid": "WP-WSJS-0003904210",
-      "pub_date": "Fri, 18 Sep 2026 10:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-53811744?size=1.494&width=1280",
-      "snapshot": "articles/e5-b7-b4-e8-8f-b2-e7-89-b9-e5-8d-b8-e4-bb-bb-e4--78d90bc1c6e6.html",
+      "title": "伊朗突破美国海上封锁为何如此之难？",
+      "summary": "伊朗曾誓言通过更多陆路贸易来应对美国的封锁。但在实际操作中却未能按计划推进。",
+      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%B9%8B%E9%9A%BE-329039a3",
+      "guid": "WP-WSJS-0003900400",
+      "pub_date": "Thu, 17 Sep 2026 03:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-02631448?size=1.53&width=1280",
+      "snapshot": "articles/e4-bc-8a-e6-9c-97-e7-aa-81-e7-a0-b4-e7-be-8e-e5--0b551860d3e4.html",
       "captured": true,
-      "capture_title": "巴菲特卸任伯克希尔哈撒韦公司董事长 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工",
-      "summary": "金正恩将朝鲜工人派往不断扩大的战区，以加强与俄罗斯总统普京的关系。",
-      "link": "https://cn.wsj.com/articles/north-korea-sends-women-to-russian-factories-in-line-of-ukrainian-fire-63f936e1",
-      "guid": "WP-WSJS-0003903778",
-      "pub_date": "Fri, 18 Sep 2026 05:52:00 GMT",
-      "image_url": "https://images.wsj.net/im-49001348?size=1.501&width=1280",
-      "snapshot": "articles/north-korea-sends-women-to-russian-factories-in--28f892280b2b.html",
-      "captured": true,
-      "capture_title": "朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工 - WSJ",
+      "capture_title": "伊朗突破美国海上封锁为何如此之难？",
       "error": ""
     },
     {
@@ -173,15 +173,27 @@
       "error": ""
     },
     {
-      "title": "伊朗突破美国海上封锁为何如此之难？",
-      "summary": "伊朗曾誓言通过更多陆路贸易来应对美国的封锁。但在实际操作中却未能按计划推进。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%B9%8B%E9%9A%BE-329039a3",
-      "guid": "WP-WSJS-0003900400",
-      "pub_date": "Thu, 17 Sep 2026 03:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-02631448?size=1.53&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e7-aa-81-e7-a0-b4-e7-be-8e-e5--0b551860d3e4.html",
+      "title": "朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工",
+      "summary": "金正恩将朝鲜工人派往不断扩大的战区，以加强与俄罗斯总统普京的关系。",
+      "link": "https://cn.wsj.com/articles/north-korea-sends-women-to-russian-factories-in-line-of-ukrainian-fire-63f936e1",
+      "guid": "WP-WSJS-0003903778",
+      "pub_date": "Fri, 18 Sep 2026 05:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-49001348?size=1.501&width=1280",
+      "snapshot": "articles/north-korea-sends-women-to-russian-factories-in--28f892280b2b.html",
       "captured": true,
-      "capture_title": "伊朗突破美国海上封锁为何如此之难？",
+      "capture_title": "朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工",
+      "error": ""
+    },
+    {
+      "title": "俄罗斯接管雀巢在俄业务",
+      "summary": "乌克兰战争爆发四年后，俄罗斯意外接管了雀巢在该国的业务，这是俄罗斯对西方公司新一轮施压的一部分。",
+      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E6%8E%A5%E7%AE%A1%E9%9B%80%E5%B7%A2%E5%9C%A8%E4%BF%84%E4%B8%9A%E5%8A%A1-331d766e",
+      "guid": "WP-WSJS-0003904242",
+      "pub_date": "Fri, 18 Sep 2026 10:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-528238?size=1.501&width=1280",
+      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e6-8e-a5-e7-ae-a1-e9--b08cbd5676cf.html",
+      "captured": true,
+      "capture_title": "俄罗斯接管雀巢在俄业务 - WSJ",
       "error": ""
     },
     {
@@ -205,19 +217,7 @@
       "image_url": "https://images.wsj.net/im-72482218?size=1.499&width=1280",
       "snapshot": "articles/e9-99-a4-e4-ba-86-e5-87-8f-e9-87-8d-glp-1-e7-b1--e213328849c7.html",
       "captured": true,
-      "capture_title": "除了减重，GLP-1类药物还有哪些疗效? - WSJ",
-      "error": ""
-    },
-    {
-      "title": "AI概念股重获青睐，美股走出通胀阴霾",
-      "summary": "标普500指数与纳斯达克综合指数双双创下六周来最大单日涨幅。",
-      "link": "https://cn.wsj.com/articles/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E9%87%8D%E8%8E%B7%E9%9D%92%E7%9D%90-%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%87%BA%E9%80%9A%E8%83%80%E9%98%B4%E9%9C%BE-ec7160f7",
-      "guid": "WP-WSJS-0003903280",
-      "pub_date": "Thu, 17 Sep 2026 23:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-82861353?size=1.499&width=1280",
-      "snapshot": "articles/ai-e6-a6-82-e5-bf-b5-e8-82-a1-e9-87-8d-e8-8e-b7--be6944e7bda1.html",
-      "captured": true,
-      "capture_title": "AI概念股重获青睐，美股走出通胀阴霾",
+      "capture_title": "除了减重，GLP-1类药物还有哪些疗效?",
       "error": ""
     },
     {
@@ -242,18 +242,6 @@
       "snapshot": "articles/e7-a7-91-e6-8a-80-e5-85-ac-e5-8f-b8-e5-91-98-e5--03c24dc57bc1.html",
       "captured": true,
       "capture_title": "科技公司员工早就知道其AI工具会给出版商带来“生存威胁”",
-      "error": ""
-    },
-    {
-      "title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件",
-      "summary": "这家底特律汽车制造商一直寻求扩张其国防业务。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%AD%A6%E5%99%A8%E7%9F%AD%E7%BC%BA%E4%B9%8B%E9%99%85-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E9%83%A8%E4%BB%B6-cb64e1e4",
-      "guid": "WP-WSJS-0003903302",
-      "pub_date": "Thu, 17 Sep 2026 23:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-84788036?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-86-9b-e6-ad-a6-e5-99-a8-e7-9f-ad-e7--5b614403be1b.html",
-      "captured": true,
-      "capture_title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件",
       "error": ""
     },
     {
@@ -289,7 +277,7 @@
       "image_url": "https://images.wsj.net/im-34075041?size=1.501&width=1280",
       "snapshot": "articles/spacex-ipo-payouts-97b50ad7-ad2fe3118774.html",
       "captured": true,
-      "capture_title": "因SpaceX上市暴富，这对夫妇踏上追梦之旅 - WSJ",
+      "capture_title": "因SpaceX上市暴富，这对夫妇踏上追梦之旅",
       "error": ""
     },
     {
@@ -302,6 +290,54 @@
       "snapshot": "articles/the-40-minute-phone-call-that-left-ed-sheerans-t-9adf896df541.html",
       "captured": true,
       "capture_title": "一通40分钟的电话，如何让埃德·希兰的巡演悬于一线？",
+      "error": ""
+    },
+    {
+      "title": "怡颗莓把蓝莓带到中国，却被本土对手“偷师”种植技术",
+      "summary": "这家加州种植巨头的在华扩张引发了激烈的本土竞争与大范围的知识产权侵权。为调查取证，私人调查员甚至假扮买家进入当地苗圃。",
+      "link": "https://cn.wsj.com/articles/driscolls-berry-farms-china-competition-31605e3b",
+      "guid": "WP-WSJS-0003893190",
+      "pub_date": "Tue, 15 Sep 2026 06:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-12213640?size=1.5&width=1280",
+      "snapshot": "articles/driscolls-berry-farms-china-competition-31605e3b-f1abb52da4bd.html",
+      "captured": true,
+      "capture_title": "怡颗莓把蓝莓带到中国，却被本土对手“偷师”种植技术",
+      "error": ""
+    },
+    {
+      "title": "中国可以避免金融危机，但无法避免深层代价",
+      "summary": "中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA-%E4%BD%86%E6%97%A0%E6%B3%95%E9%81%BF%E5%85%8D%E6%B7%B1%E5%B1%82%E4%BB%A3%E4%BB%B7-9cd493f0",
+      "guid": "WP-WSJS-0003896374",
+      "pub_date": "Wed, 16 Sep 2026 02:06:00 GMT",
+      "image_url": "https://images.wsj.net/im-15543198?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-8f-af-e4-bb-a5-e9-81-bf-e5--58a34c1bf315.html",
+      "captured": true,
+      "capture_title": "中国可以避免金融危机，但无法避免深层代价",
+      "error": ""
+    },
+    {
+      "title": "AI概念股重获青睐，美股走出通胀阴霾",
+      "summary": "标普500指数与纳斯达克综合指数双双创下六周来最大单日涨幅。",
+      "link": "https://cn.wsj.com/articles/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E9%87%8D%E8%8E%B7%E9%9D%92%E7%9D%90-%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%87%BA%E9%80%9A%E8%83%80%E9%98%B4%E9%9C%BE-ec7160f7",
+      "guid": "WP-WSJS-0003903280",
+      "pub_date": "Thu, 17 Sep 2026 23:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-82861353?size=1.499&width=1280",
+      "snapshot": "articles/ai-e6-a6-82-e5-bf-b5-e8-82-a1-e9-87-8d-e8-8e-b7--be6944e7bda1.html",
+      "captured": true,
+      "capture_title": "AI概念股重获青睐，美股走出通胀阴霾",
+      "error": ""
+    },
+    {
+      "title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件",
+      "summary": "这家底特律汽车制造商一直寻求扩张其国防业务。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%AD%A6%E5%99%A8%E7%9F%AD%E7%BC%BA%E4%B9%8B%E9%99%85-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E9%83%A8%E4%BB%B6-cb64e1e4",
+      "guid": "WP-WSJS-0003903302",
+      "pub_date": "Thu, 17 Sep 2026 23:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-84788036?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-86-9b-e6-ad-a6-e5-99-a8-e7-9f-ad-e7--5b614403be1b.html",
+      "captured": true,
+      "capture_title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件",
       "error": ""
     },
     {
@@ -386,18 +422,6 @@
       "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b-e5-b0-86-e4-bb-96-e7--417bd0d34ac9.html",
       "captured": true,
       "capture_title": "马斯克将他的“政治搅局机器”对准英国",
-      "error": ""
-    },
-    {
-      "title": "怡颗莓把蓝莓带到中国，却被本土对手“偷师”种植技术",
-      "summary": "这家加州种植巨头的在华扩张引发了激烈的本土竞争与大范围的知识产权侵权。为调查取证，私人调查员甚至假扮买家进入当地苗圃。",
-      "link": "https://cn.wsj.com/articles/driscolls-berry-farms-china-competition-31605e3b",
-      "guid": "WP-WSJS-0003893190",
-      "pub_date": "Tue, 15 Sep 2026 06:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-12213640?size=1.5&width=1280",
-      "snapshot": "articles/driscolls-berry-farms-china-competition-31605e3b-f1abb52da4bd.html",
-      "captured": true,
-      "capture_title": "怡颗莓把蓝莓带到中国，却被本土对手“偷师”种植技术",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/anthropics-moral-conflict-is-playing-out-in-real-4ce3716c3244.html",
       "captured": true,
       "capture_title": "当AI安全撞上商业竞争：Anthropic陷入道德拉锯",
-      "error": ""
-    },
-    {
-      "title": "中国反驳美国有关AI风险的说法",
-      "summary": "中国外交部发言人郭嘉昆在例行记者会上表示，散播各种威胁叙事、搞对抗和恶意竞争，只会干扰人工智能全球治理进程。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%8D%E9%A9%B3%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%85%B3ai%E9%A3%8E%E9%99%A9%E7%9A%84%E8%AF%B4%E6%B3%95-fd0ea899",
-      "guid": "WP-WSJS-0003890008",
-      "pub_date": "Mon, 14 Sep 2026 10:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-69488228?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-8f-8d-e9-a9-b3-e7-be-8e-e5--2583cedf9852.html",
-      "captured": true,
-      "capture_title": "中国反驳美国有关AI风险的说法 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "10年期美债收益率触及5%，华尔街直面新时代",
-      "summary": "眼下，交易员们心里存着一个疑问：5%会不会像2023年那样成为10年期收益率的天花板，还是会被彻底突破，从而带来一种更像2000年代的借贷环境。",
-      "link": "https://cn.wsj.com/articles/wall-street-confronts-prospect-of-new-era-after-treasury-yield-hits-5-889d8781",
-      "guid": "WP-WSJS-0003892473",
-      "pub_date": "Mon, 14 Sep 2026 23:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-16204983?size=1.499&width=1280",
-      "snapshot": "articles/wall-street-confronts-prospect-of-new-era-after--65883c723346.html",
-      "captured": true,
-      "capture_title": "10年期美债收益率触及5%，华尔街直面新时代 - WSJ",
       "error": ""
     }
   ]

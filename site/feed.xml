@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 10:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 16:07:11 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 10:52:21 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 16:07:11 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[华为计划如何成为“中国的英伟达”]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-84135776?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8D%8E%E4%B8%BA%E8%AE%A1%E5%88%92%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE-3f01f463</link>
-            <guid isPermaLink="false">WP-WSJS-0003901033</guid>
-            <pubDate>Thu, 17 Sep 2026 12:12:00 GMT</pubDate>
+            <title><![CDATA[中美均认同AI需要安全护栏，但安全诉求南辕北辙]]></title>
+            <description><![CDATA[<img width="1280" height="885" src="https://images.wsj.net/im-81888604?size=1.446&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国的讨论重点在于保护人类免受技术反噬，而北京的首要关切则是维护共产党的统治地位。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9D%87%E8%AE%A4%E5%90%8Cai%E9%9C%80%E8%A6%81%E5%AE%89%E5%85%A8%E6%8A%A4%E6%A0%8F-%E4%BD%86%E5%AE%89%E5%85%A8%E8%AF%89%E6%B1%82%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99-96066d9a</link>
+            <guid isPermaLink="false">WP-WSJS-0003903866</guid>
+            <pubDate>Fri, 18 Sep 2026 11:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[人民币升至逾四年高点]]></title>
@@ -77,11 +77,18 @@
             <pubDate>Fri, 18 Sep 2026 01:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国可以避免金融危机，但无法避免深层代价]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15543198?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA-%E4%BD%86%E6%97%A0%E6%B3%95%E9%81%BF%E5%85%8D%E6%B7%B1%E5%B1%82%E4%BB%A3%E4%BB%B7-9cd493f0</link>
-            <guid isPermaLink="false">WP-WSJS-0003896374</guid>
-            <pubDate>Wed, 16 Sep 2026 02:06:00 GMT</pubDate>
+            <title><![CDATA[华为计划如何成为“中国的英伟达”]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-84135776?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>华为正在加紧开发英伟达AI计算系统的替代方案。这是中国推动降低对美国技术依赖的一环。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8D%8E%E4%B8%BA%E8%AE%A1%E5%88%92%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE-3f01f463</link>
+            <guid isPermaLink="false">WP-WSJS-0003901033</guid>
+            <pubDate>Thu, 17 Sep 2026 12:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特卸任伯克希尔哈撒韦公司董事长]]></title>
+            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-53811744?size=1.494&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>巴菲特的儿子霍华德将接任董事长一职。巴菲特说，他将继续担任董事，并出任名誉董事长。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BB%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF-a064e307</link>
+            <guid isPermaLink="false">WP-WSJS-0003904210</guid>
+            <pubDate>Fri, 18 Sep 2026 10:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[密歇根大学体育事务背后的超级金主：拉里·埃里森之妻]]></title>
@@ -105,18 +112,11 @@
             <pubDate>Fri, 18 Sep 2026 01:27:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴菲特卸任伯克希尔哈撒韦公司董事长]]></title>
-            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-53811744?size=1.494&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>他的儿子霍华德将接任董事长一职，即时生效。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BB%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF-a064e307</link>
-            <guid isPermaLink="false">WP-WSJS-0003904210</guid>
-            <pubDate>Fri, 18 Sep 2026 10:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49001348?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>金正恩将朝鲜工人派往不断扩大的战区，以加强与俄罗斯总统普京的关系。</p>]]></description>
-            <link>https://cn.wsj.com/articles/north-korea-sends-women-to-russian-factories-in-line-of-ukrainian-fire-63f936e1</link>
-            <guid isPermaLink="false">WP-WSJS-0003903778</guid>
-            <pubDate>Fri, 18 Sep 2026 05:52:00 GMT</pubDate>
+            <title><![CDATA[伊朗突破美国海上封锁为何如此之难？]]></title>
+            <description><![CDATA[<img width="1280" height="836" src="https://images.wsj.net/im-02631448?size=1.53&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗曾誓言通过更多陆路贸易来应对美国的封锁。但在实际操作中却未能按计划推进。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%B9%8B%E9%9A%BE-329039a3</link>
+            <guid isPermaLink="false">WP-WSJS-0003900400</guid>
+            <pubDate>Thu, 17 Sep 2026 03:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]></title>
@@ -126,11 +126,18 @@
             <pubDate>Thu, 17 Sep 2026 08:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗突破美国海上封锁为何如此之难？]]></title>
-            <description><![CDATA[<img width="1280" height="836" src="https://images.wsj.net/im-02631448?size=1.53&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗曾誓言通过更多陆路贸易来应对美国的封锁。但在实际操作中却未能按计划推进。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%B9%8B%E9%9A%BE-329039a3</link>
-            <guid isPermaLink="false">WP-WSJS-0003900400</guid>
-            <pubDate>Thu, 17 Sep 2026 03:50:00 GMT</pubDate>
+            <title><![CDATA[朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49001348?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>金正恩将朝鲜工人派往不断扩大的战区，以加强与俄罗斯总统普京的关系。</p>]]></description>
+            <link>https://cn.wsj.com/articles/north-korea-sends-women-to-russian-factories-in-line-of-ukrainian-fire-63f936e1</link>
+            <guid isPermaLink="false">WP-WSJS-0003903778</guid>
+            <pubDate>Fri, 18 Sep 2026 05:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯接管雀巢在俄业务]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-528238?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>乌克兰战争爆发四年后，俄罗斯意外接管了雀巢在该国的业务，这是俄罗斯对西方公司新一轮施压的一部分。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E6%8E%A5%E7%AE%A1%E9%9B%80%E5%B7%A2%E5%9C%A8%E4%BF%84%E4%B8%9A%E5%8A%A1-331d766e</link>
+            <guid isPermaLink="false">WP-WSJS-0003904242</guid>
+            <pubDate>Fri, 18 Sep 2026 10:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[微软力推AI转型，从重构自身开始]]></title>
@@ -147,13 +154,6 @@
             <pubDate>Fri, 18 Sep 2026 04:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI概念股重获青睐，美股走出通胀阴霾]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-82861353?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>标普500指数与纳斯达克综合指数双双创下六周来最大单日涨幅。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E9%87%8D%E8%8E%B7%E9%9D%92%E7%9D%90-%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%87%BA%E9%80%9A%E8%83%80%E9%98%B4%E9%9C%BE-ec7160f7</link>
-            <guid isPermaLink="false">WP-WSJS-0003903280</guid>
-            <pubDate>Thu, 17 Sep 2026 23:25:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[欧盟拟强制社交媒体验证用户年龄，以限制未成年人使用]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49828790?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新法案将禁止13岁以下儿童使用社交媒体，并规定在整个欧盟范围内，未成年人开设个人账号的最低年龄为15岁。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%BC%BA%E5%88%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%AA%8C%E8%AF%81%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84-%E4%BB%A5%E9%99%90%E5%88%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BD%BF%E7%94%A8-ef766071</link>
@@ -166,13 +166,6 @@
             <link>https://cn.wsj.com/articles/%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E6%97%A9%E5%B0%B1%E7%9F%A5%E9%81%93%E5%85%B6ai%E5%B7%A5%E5%85%B7%E4%BC%9A%E7%BB%99%E5%87%BA%E7%89%88%E5%95%86%E5%B8%A6%E6%9D%A5-%E7%94%9F%E5%AD%98%E5%A8%81%E8%83%81-44495349</link>
             <guid isPermaLink="false">WP-WSJS-0003903440</guid>
             <pubDate>Fri, 18 Sep 2026 00:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-84788036?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家底特律汽车制造商一直寻求扩张其国防业务。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%AD%A6%E5%99%A8%E7%9F%AD%E7%BC%BA%E4%B9%8B%E9%99%85-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E9%83%A8%E4%BB%B6-cb64e1e4</link>
-            <guid isPermaLink="false">WP-WSJS-0003903302</guid>
-            <pubDate>Thu, 17 Sep 2026 23:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[图解喷气动力如何让俄罗斯在无人机战争中占据优势]]></title>
