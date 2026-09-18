@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T04:06:26.320466+00:00",
+  "generated_at": "2026-09-18T11:00:44.914533+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,6 +17,42 @@
       "error": ""
     },
     {
+      "title": "人民币升至逾四年高点",
+      "summary": "周五，人民币兑美元汇率创下四年多来新高，中国强劲的出口表现以及央行的支持为人民币走强提供了支撑。",
+      "link": "https://cn.wsj.com/articles/%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E8%87%B3%E9%80%BE%E5%9B%9B%E5%B9%B4%E9%AB%98%E7%82%B9-ff99418d",
+      "guid": "WP-WSJS-0003903622",
+      "pub_date": "Fri, 18 Sep 2026 02:57:00 GMT",
+      "image_url": "https://images.wsj.net/im-226785?size=1.5&width=1280",
+      "snapshot": "articles/e4-ba-ba-e6-b0-91-e5-b8-81-e5-8d-87-e8-87-b3-e9--4e5934a13a2d.html",
+      "captured": true,
+      "capture_title": "人民币升至逾四年高点 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "黑客利用Anthropic的Claude入侵了OpenAI",
+      "summary": "一个参加漏洞搜寻计划的独立安全研究团队访问了OpenAI的内部代码系统。该事件暴露了自动化网络威胁日益增长的风险。",
+      "link": "https://cn.wsj.com/articles/%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8anthropic%E7%9A%84claude%E5%85%A5%E4%BE%B5%E4%BA%86openai-1be7e472",
+      "guid": "WP-WSJS-0003903671",
+      "pub_date": "Fri, 18 Sep 2026 03:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-93164192?size=1.501&width=1280",
+      "snapshot": "articles/e9-bb-91-e5-ae-a2-e5-88-a9-e7-94-a8anthropic-e7--b0f1ebcc3aad.html",
+      "captured": true,
+      "capture_title": "黑客利用Anthropic的Claude入侵了OpenAI - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国中期选举进入倒计时，几乎一切都在涨价",
+      "summary": "在外出就餐、加油和买房价格不断上涨之际，更高的利率也增加了借贷成本。",
+      "link": "https://cn.wsj.com/articles/weeks-before-the-midterms-almost-everything-is-getting-more-expensive-7150a944",
+      "guid": "WP-WSJS-0003903639",
+      "pub_date": "Fri, 18 Sep 2026 03:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-80283028?size=1.71&width=1280",
+      "snapshot": "articles/weeks-before-the-midterms-almost-everything-is-g-a0abb3468905.html",
+      "captured": true,
+      "capture_title": "美国中期选举进入倒计时，几乎一切都在涨价 - WSJ",
+      "error": ""
+    },
+    {
       "title": "沃什如何做到加息却不惹怒特朗普？",
       "summary": "美联储主席凯文·沃什眼下已经重塑了美联储与白宫的关系；而在之前，白宫把美联储视为敌人。",
       "link": "https://cn.wsj.com/articles/%E6%B2%83%E4%BB%80%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E5%8A%A0%E6%81%AF%E5%8D%B4%E4%B8%8D%E6%83%B9%E6%80%92%E7%89%B9%E6%9C%97%E6%99%AE-3c5781da",
@@ -25,31 +61,19 @@
       "image_url": "https://images.wsj.net/im-27376888?size=1.497&width=1280",
       "snapshot": "articles/e6-b2-83-e4-bb-80-e5-a6-82-e4-bd-95-e5-81-9a-e5--c287e74d2e45.html",
       "captured": true,
-      "capture_title": "沃什如何做到加息却不惹怒特朗普？ - WSJ",
+      "capture_title": "沃什如何做到加息却不惹怒特朗普？",
       "error": ""
     },
     {
-      "title": "AI概念股重获青睐，美股走出通胀阴霾",
-      "summary": "标普500指数与纳斯达克综合指数双双创下六周来最大单日涨幅。",
-      "link": "https://cn.wsj.com/articles/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E9%87%8D%E8%8E%B7%E9%9D%92%E7%9D%90-%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%87%BA%E9%80%9A%E8%83%80%E9%98%B4%E9%9C%BE-ec7160f7",
-      "guid": "WP-WSJS-0003903280",
-      "pub_date": "Thu, 17 Sep 2026 23:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-82861353?size=1.499&width=1280",
-      "snapshot": "articles/ai-e6-a6-82-e5-bf-b5-e8-82-a1-e9-87-8d-e8-8e-b7--be6944e7bda1.html",
+      "title": "卡尼“疏远美国”的战略转向面临考验",
+      "summary": "特朗普声称加拿大与欧盟建立专属合作可能构成“敌对行为”，但这未能动摇加拿大领导人的立场。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC-%E7%96%8F%E8%BF%9C%E7%BE%8E%E5%9B%BD-%E7%9A%84%E6%88%98%E7%95%A5%E8%BD%AC%E5%90%91%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-4e1fa7c9",
+      "guid": "WP-WSJS-0003903248",
+      "pub_date": "Thu, 17 Sep 2026 23:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-45293477?size=1.413&width=1280",
+      "snapshot": "articles/e5-8d-a1-e5-b0-bc--e7-96-8f-e8-bf-9c-e7-be-8e-e5-4abca2177966.html",
       "captured": true,
-      "capture_title": "AI概念股重获青睐，美股走出通胀阴霾 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "英王查尔斯三世敦促AI行业领袖防止技术失控",
-      "summary": "在此番出面斡旋之际，中美以外的国家在塑造AI未来方面正日益感到无能为力。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E5%B0%94%E6%96%AF%E4%B8%89%E4%B8%96%E6%95%A6%E4%BF%83ai%E8%A1%8C%E4%B8%9A%E9%A2%86%E8%A2%96%E9%98%B2%E6%AD%A2%E6%8A%80%E6%9C%AF%E5%A4%B1%E6%8E%A7-0e47d30b",
-      "guid": "WP-WSJS-0003903330",
-      "pub_date": "Thu, 17 Sep 2026 23:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-10734230?size=1.501&width=1280",
-      "snapshot": "articles/e8-8b-b1-e7-8e-8b-e6-9f-a5-e5-b0-94-e6-96-af-e4--5ad107fa7612.html",
-      "captured": true,
-      "capture_title": "英王查尔斯三世敦促AI行业领袖防止技术失控 - WSJ",
+      "capture_title": "卡尼“疏远美国”的战略转向面临考验",
       "error": ""
     },
     {
@@ -61,31 +85,7 @@
       "image_url": "https://images.wsj.net/im-16747042?size=1.501&width=1280",
       "snapshot": "articles/e6-b2-99-e7-89-b9-e9-98-bf-e6-8b-89-e4-bc-af-e8--d8afb4c38762.html",
       "captured": true,
-      "capture_title": "沙特阿拉伯还有另一种石油外运选择 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "欧盟拟强制社交媒体验证用户年龄，以限制未成年人使用",
-      "summary": "新法案将禁止13岁以下儿童使用社交媒体，并规定在整个欧盟范围内，未成年人开设个人账号的最低年龄为15岁。",
-      "link": "https://cn.wsj.com/articles/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%BC%BA%E5%88%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%AA%8C%E8%AF%81%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84-%E4%BB%A5%E9%99%90%E5%88%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BD%BF%E7%94%A8-ef766071",
-      "guid": "WP-WSJS-0003903463",
-      "pub_date": "Fri, 18 Sep 2026 00:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-49828790?size=1.501&width=1280",
-      "snapshot": "articles/e6-ac-a7-e7-9b-9f-e6-8b-9f-e5-bc-ba-e5-88-b6-e7--9917b65fe5b9.html",
-      "captured": true,
-      "capture_title": "欧盟拟强制社交媒体验证用户年龄，以限制未成年人使用 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "也门发现的残骸显示沙特或已首次发射中国造导弹",
-      "summary": "沙漠中发现了一具疑似东风-15的弹体。若证实，外界将重新审视中国向中东出售导弹一事。",
-      "link": "https://cn.wsj.com/articles/debris-found-in-yemen-suggests-saudi-arabia-fired-its-first-chinese-missile-950a6525",
-      "guid": "WP-WSJS-0003899945",
-      "pub_date": "Wed, 16 Sep 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-30873170?size=1.518&width=1280",
-      "snapshot": "articles/debris-found-in-yemen-suggests-saudi-arabia-fire-786c14426231.html",
-      "captured": true,
-      "capture_title": "也门发现的残骸显示沙特或已首次发射中国造导弹",
+      "capture_title": "沙特阿拉伯还有另一种石油外运选择",
       "error": ""
     },
     {
@@ -101,15 +101,15 @@
       "error": ""
     },
     {
-      "title": "卡尼“疏远美国”的战略转向面临考验",
-      "summary": "特朗普声称加拿大与欧盟建立专属合作可能构成“敌对行为”，但这未能动摇加拿大领导人的立场。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC-%E7%96%8F%E8%BF%9C%E7%BE%8E%E5%9B%BD-%E7%9A%84%E6%88%98%E7%95%A5%E8%BD%AC%E5%90%91%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-4e1fa7c9",
-      "guid": "WP-WSJS-0003903248",
-      "pub_date": "Thu, 17 Sep 2026 23:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-45293477?size=1.413&width=1280",
-      "snapshot": "articles/e5-8d-a1-e5-b0-bc--e7-96-8f-e8-bf-9c-e7-be-8e-e5-4abca2177966.html",
+      "title": "密歇根大学体育事务背后的超级金主：拉里·埃里森之妻",
+      "summary": "密歇根大学校友乔琳·埃里森财力雄厚、颇具话语权，致力于资助该校橄榄球队和篮球队赢得比赛。",
+      "link": "https://cn.wsj.com/articles/%E5%AF%86%E6%AD%87%E6%A0%B9%E5%A4%A7%E5%AD%A6%E4%BD%93%E8%82%B2%E4%BA%8B%E5%8A%A1%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%91%E4%B8%BB-%E6%8B%89%E9%87%8C-%E5%9F%83%E9%87%8C%E6%A3%AE%E4%B9%8B%E5%A6%BB-483a8cfb",
+      "guid": "WP-WSJS-0003903919",
+      "pub_date": "Fri, 18 Sep 2026 08:09:00 GMT",
+      "image_url": "https://images.wsj.net/im-47781018?size=1&width=1280",
+      "snapshot": "articles/e5-af-86-e6-ad-87-e6-a0-b9-e5-a4-a7-e5-ad-a6-e4--c83aaee981df.html",
       "captured": true,
-      "capture_title": "卡尼“疏远美国”的战略转向面临考验 - WSJ",
+      "capture_title": "密歇根大学体育事务背后的超级金主：拉里·埃里森之妻 - WSJ",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-18286873?size=1.501&width=1280",
       "snapshot": "articles/e5-b8-81-e5-ae-89-e5-85-a5-e6-ac-a7-e8-ae-a1-e5--469524fd8ad6.html",
       "captured": true,
-      "capture_title": "币安入欧计划泡汤背后：拉加德亲自出面干预 - WSJ",
+      "capture_title": "币安入欧计划泡汤背后：拉加德亲自出面干预",
       "error": ""
     },
     {
@@ -133,7 +133,31 @@
       "image_url": "https://images.wsj.net/im-77348058?size=1.501&width=1280",
       "snapshot": "articles/samsung-fans-are-thoroughly-unimpressed-by-apple-30cb3ee4a1d4.html",
       "captured": true,
-      "capture_title": "三星粉丝对苹果折叠屏手机完全不买账 - WSJ",
+      "capture_title": "三星粉丝对苹果折叠屏手机完全不买账",
+      "error": ""
+    },
+    {
+      "title": "巴菲特卸任伯克希尔哈撒韦公司董事长",
+      "summary": "他的儿子霍华德将接任董事长一职，即时生效。",
+      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BB%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF-a064e307",
+      "guid": "WP-WSJS-0003904210",
+      "pub_date": "Fri, 18 Sep 2026 10:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-53811744?size=1.494&width=1280",
+      "snapshot": "articles/e5-b7-b4-e8-8f-b2-e7-89-b9-e5-8d-b8-e4-bb-bb-e4--78d90bc1c6e6.html",
+      "captured": true,
+      "capture_title": "巴菲特卸任伯克希尔哈撒韦公司董事长 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工",
+      "summary": "金正恩将朝鲜工人派往不断扩大的战区，以加强与俄罗斯总统普京的关系。",
+      "link": "https://cn.wsj.com/articles/north-korea-sends-women-to-russian-factories-in-line-of-ukrainian-fire-63f936e1",
+      "guid": "WP-WSJS-0003903778",
+      "pub_date": "Fri, 18 Sep 2026 05:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-49001348?size=1.501&width=1280",
+      "snapshot": "articles/north-korea-sends-women-to-russian-factories-in--28f892280b2b.html",
+      "captured": true,
+      "capture_title": "朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工 - WSJ",
       "error": ""
     },
     {
@@ -161,6 +185,78 @@
       "error": ""
     },
     {
+      "title": "微软力推AI转型，从重构自身开始",
+      "summary": "这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。",
+      "link": "https://cn.wsj.com/articles/%E5%BE%AE%E8%BD%AF%E5%8A%9B%E6%8E%A8ai%E8%BD%AC%E5%9E%8B-%E4%BB%8E%E9%87%8D%E6%9E%84%E8%87%AA%E8%BA%AB%E5%BC%80%E5%A7%8B-393ea70c",
+      "guid": "WP-WSJS-0003903410",
+      "pub_date": "Fri, 18 Sep 2026 00:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-33779984?size=1.333&width=1280",
+      "snapshot": "articles/e5-be-ae-e8-bd-af-e5-8a-9b-e6-8e-a8ai-e8-bd-ac-e-82fdaed817a7.html",
+      "captured": true,
+      "capture_title": "微软力推AI转型，从重构自身开始",
+      "error": ""
+    },
+    {
+      "title": "除了减重，GLP-1类药物还有哪些疗效?",
+      "summary": "医学界正在探索减肥药是否也能用于治疗子宫内膜异位症和克罗恩病等疾病。",
+      "link": "https://cn.wsj.com/articles/%E9%99%A4%E4%BA%86%E5%87%8F%E9%87%8D-glp-1%E7%B1%BB%E8%8D%AF%E7%89%A9%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E7%96%97%E6%95%88-5209dc9b",
+      "guid": "WP-WSJS-0003903705",
+      "pub_date": "Fri, 18 Sep 2026 04:03:00 GMT",
+      "image_url": "https://images.wsj.net/im-72482218?size=1.499&width=1280",
+      "snapshot": "articles/e9-99-a4-e4-ba-86-e5-87-8f-e9-87-8d-glp-1-e7-b1--e213328849c7.html",
+      "captured": true,
+      "capture_title": "除了减重，GLP-1类药物还有哪些疗效? - WSJ",
+      "error": ""
+    },
+    {
+      "title": "AI概念股重获青睐，美股走出通胀阴霾",
+      "summary": "标普500指数与纳斯达克综合指数双双创下六周来最大单日涨幅。",
+      "link": "https://cn.wsj.com/articles/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E9%87%8D%E8%8E%B7%E9%9D%92%E7%9D%90-%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%87%BA%E9%80%9A%E8%83%80%E9%98%B4%E9%9C%BE-ec7160f7",
+      "guid": "WP-WSJS-0003903280",
+      "pub_date": "Thu, 17 Sep 2026 23:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-82861353?size=1.499&width=1280",
+      "snapshot": "articles/ai-e6-a6-82-e5-bf-b5-e8-82-a1-e9-87-8d-e8-8e-b7--be6944e7bda1.html",
+      "captured": true,
+      "capture_title": "AI概念股重获青睐，美股走出通胀阴霾",
+      "error": ""
+    },
+    {
+      "title": "欧盟拟强制社交媒体验证用户年龄，以限制未成年人使用",
+      "summary": "新法案将禁止13岁以下儿童使用社交媒体，并规定在整个欧盟范围内，未成年人开设个人账号的最低年龄为15岁。",
+      "link": "https://cn.wsj.com/articles/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%BC%BA%E5%88%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%AA%8C%E8%AF%81%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84-%E4%BB%A5%E9%99%90%E5%88%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BD%BF%E7%94%A8-ef766071",
+      "guid": "WP-WSJS-0003903463",
+      "pub_date": "Fri, 18 Sep 2026 00:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-49828790?size=1.501&width=1280",
+      "snapshot": "articles/e6-ac-a7-e7-9b-9f-e6-8b-9f-e5-bc-ba-e5-88-b6-e7--9917b65fe5b9.html",
+      "captured": true,
+      "capture_title": "欧盟拟强制社交媒体验证用户年龄，以限制未成年人使用",
+      "error": ""
+    },
+    {
+      "title": "科技公司员工早就知道其AI工具会给出版商带来“生存威胁”",
+      "summary": "根据《纽约时报》版权诉讼案的一份新文件，OpenAI和微软的高管及其他人员承认，他们可能会损害自身的内容来源。",
+      "link": "https://cn.wsj.com/articles/%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E6%97%A9%E5%B0%B1%E7%9F%A5%E9%81%93%E5%85%B6ai%E5%B7%A5%E5%85%B7%E4%BC%9A%E7%BB%99%E5%87%BA%E7%89%88%E5%95%86%E5%B8%A6%E6%9D%A5-%E7%94%9F%E5%AD%98%E5%A8%81%E8%83%81-44495349",
+      "guid": "WP-WSJS-0003903440",
+      "pub_date": "Fri, 18 Sep 2026 00:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-70216101?size=1.422&width=1280",
+      "snapshot": "articles/e7-a7-91-e6-8a-80-e5-85-ac-e5-8f-b8-e5-91-98-e5--03c24dc57bc1.html",
+      "captured": true,
+      "capture_title": "科技公司员工早就知道其AI工具会给出版商带来“生存威胁”",
+      "error": ""
+    },
+    {
+      "title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件",
+      "summary": "这家底特律汽车制造商一直寻求扩张其国防业务。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%AD%A6%E5%99%A8%E7%9F%AD%E7%BC%BA%E4%B9%8B%E9%99%85-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E9%83%A8%E4%BB%B6-cb64e1e4",
+      "guid": "WP-WSJS-0003903302",
+      "pub_date": "Thu, 17 Sep 2026 23:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-84788036?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-86-9b-e6-ad-a6-e5-99-a8-e7-9f-ad-e7--5b614403be1b.html",
+      "captured": true,
+      "capture_title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件",
+      "error": ""
+    },
+    {
       "title": "图解喷气动力如何让俄罗斯在无人机战争中占据优势",
       "summary": "俄罗斯“天竺葵”单向攻击无人机配备涡轮喷气发动机，它们的制造成本相对较低，还能更迅速地突破乌克兰防空系统并锁定目标。",
       "link": "https://cn.wsj.com/articles/see-how-jet-power-is-giving-russia-the-edge-in-the-drone-war-d3a18ad9",
@@ -185,27 +281,15 @@
       "error": ""
     },
     {
-      "title": "微软力推AI转型，从重构自身开始",
-      "summary": "这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。",
-      "link": "https://cn.wsj.com/articles/%E5%BE%AE%E8%BD%AF%E5%8A%9B%E6%8E%A8ai%E8%BD%AC%E5%9E%8B-%E4%BB%8E%E9%87%8D%E6%9E%84%E8%87%AA%E8%BA%AB%E5%BC%80%E5%A7%8B-393ea70c",
-      "guid": "WP-WSJS-0003903410",
-      "pub_date": "Fri, 18 Sep 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-33779984?size=1.333&width=1280",
-      "snapshot": "articles/e5-be-ae-e8-bd-af-e5-8a-9b-e6-8e-a8ai-e8-bd-ac-e-82fdaed817a7.html",
+      "title": "因SpaceX上市暴富，这对夫妇踏上追梦之旅",
+      "summary": "布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。",
+      "link": "https://cn.wsj.com/articles/spacex-ipo-payouts-97b50ad7",
+      "guid": "WP-WSJS-0003900295",
+      "pub_date": "Thu, 17 Sep 2026 02:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-34075041?size=1.501&width=1280",
+      "snapshot": "articles/spacex-ipo-payouts-97b50ad7-ad2fe3118774.html",
       "captured": true,
-      "capture_title": "微软力推AI转型，从重构自身开始 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "科技公司员工早就知道其AI工具会给出版商带来“生存威胁”",
-      "summary": "根据《纽约时报》版权诉讼案的一份新文件，OpenAI和微软的高管及其他人员承认，他们可能会损害自身的内容来源。",
-      "link": "https://cn.wsj.com/articles/%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E6%97%A9%E5%B0%B1%E7%9F%A5%E9%81%93%E5%85%B6ai%E5%B7%A5%E5%85%B7%E4%BC%9A%E7%BB%99%E5%87%BA%E7%89%88%E5%95%86%E5%B8%A6%E6%9D%A5-%E7%94%9F%E5%AD%98%E5%A8%81%E8%83%81-44495349",
-      "guid": "WP-WSJS-0003903440",
-      "pub_date": "Fri, 18 Sep 2026 00:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-70216101?size=1.422&width=1280",
-      "snapshot": "articles/e7-a7-91-e6-8a-80-e5-85-ac-e5-8f-b8-e5-91-98-e5--03c24dc57bc1.html",
-      "captured": true,
-      "capture_title": "科技公司员工早就知道其AI工具会给出版商带来“生存威胁” - WSJ",
+      "capture_title": "因SpaceX上市暴富，这对夫妇踏上追梦之旅 - WSJ",
       "error": ""
     },
     {
@@ -221,15 +305,27 @@
       "error": ""
     },
     {
-      "title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件",
-      "summary": "这家底特律汽车制造商一直寻求扩张其国防业务。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%AD%A6%E5%99%A8%E7%9F%AD%E7%BC%BA%E4%B9%8B%E9%99%85-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E9%83%A8%E4%BB%B6-cb64e1e4",
-      "guid": "WP-WSJS-0003903302",
-      "pub_date": "Thu, 17 Sep 2026 23:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-84788036?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-86-9b-e6-ad-a6-e5-99-a8-e7-9f-ad-e7--5b614403be1b.html",
+      "title": "英王查尔斯三世敦促AI行业领袖防止技术失控",
+      "summary": "在此番出面斡旋之际，中美以外的国家在塑造AI未来方面正日益感到无能为力。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E5%B0%94%E6%96%AF%E4%B8%89%E4%B8%96%E6%95%A6%E4%BF%83ai%E8%A1%8C%E4%B8%9A%E9%A2%86%E8%A2%96%E9%98%B2%E6%AD%A2%E6%8A%80%E6%9C%AF%E5%A4%B1%E6%8E%A7-0e47d30b",
+      "guid": "WP-WSJS-0003903330",
+      "pub_date": "Thu, 17 Sep 2026 23:55:00 GMT",
+      "image_url": "https://images.wsj.net/im-10734230?size=1.501&width=1280",
+      "snapshot": "articles/e8-8b-b1-e7-8e-8b-e6-9f-a5-e5-b0-94-e6-96-af-e4--5ad107fa7612.html",
       "captured": true,
-      "capture_title": "美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件 - WSJ",
+      "capture_title": "英王查尔斯三世敦促AI行业领袖防止技术失控 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "也门发现的残骸显示沙特或已首次发射中国造导弹",
+      "summary": "沙漠中发现了一具疑似东风-15的弹体。若证实，外界将重新审视中国向中东出售导弹一事。",
+      "link": "https://cn.wsj.com/articles/debris-found-in-yemen-suggests-saudi-arabia-fired-its-first-chinese-missile-950a6525",
+      "guid": "WP-WSJS-0003899945",
+      "pub_date": "Wed, 16 Sep 2026 23:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-30873170?size=1.518&width=1280",
+      "snapshot": "articles/debris-found-in-yemen-suggests-saudi-arabia-fire-786c14426231.html",
+      "captured": true,
+      "capture_title": "也门发现的残骸显示沙特或已首次发射中国造导弹",
       "error": ""
     },
     {
@@ -1106,102 +1202,6 @@
       "snapshot": "articles/wall-street-confronts-prospect-of-new-era-after--65883c723346.html",
       "captured": true,
       "capture_title": "10年期美债收益率触及5%，华尔街直面新时代 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中东动荡局势蔓延，压制全球石油供应",
-      "summary": "随着胡塞武装在也门发动攻势，中东第二条关键能源走廊曼德海峡已陷入伊朗及其盟友的掌控之中。沙特目前已几乎没有安全的石油出口路线。",
-      "link": "https://cn.wsj.com/articles/widening-mideast-instability-squeezes-global-oil-supplies-e2ee49cb",
-      "guid": "WP-WSJS-0003889460",
-      "pub_date": "Mon, 14 Sep 2026 02:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-23102210?size=1.501&width=1280",
-      "snapshot": "articles/widening-mideast-instability-squeezes-global-oil-403c08fcb2b5.html",
-      "captured": true,
-      "capture_title": "中东动荡局势蔓延，压制全球石油供应",
-      "error": ""
-    },
-    {
-      "title": "民主党期中选举势头渐显，还面临哪些隐患？",
-      "summary": "民主党正寻求利用特朗普的不受欢迎态势，但存在资金短缺和内部分歧问题。",
-      "link": "https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E5%8A%BF%E5%A4%B4%E6%B8%90%E6%98%BE-%E8%BF%98%E9%9D%A2%E4%B8%B4%E5%93%AA%E4%BA%9B%E9%9A%90%E6%82%A3-968a151e",
-      "guid": "WP-WSJS-0003889686",
-      "pub_date": "Mon, 14 Sep 2026 06:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-51831901?size=1.502&width=1280",
-      "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e6-9c-9f-e4-b8-ad-e9--1a93382fc0af.html",
-      "captured": true,
-      "capture_title": "民主党期中选举势头渐显，还面临哪些隐患？",
-      "error": ""
-    },
-    {
-      "title": "特朗普赴爱尔兰观看高尔夫比赛，“统一”言论引发争议",
-      "summary": "特朗普此行公开支持爱尔兰统一，在私下里也向爱尔兰总理提到了统一问题。这趟行程最终以他意外承诺取消爱尔兰威士忌关税而告终。",
-      "link": "https://cn.wsj.com/articles/for-trump-a-golf-trip-to-ireland-tees-up-a-reunification-controversy-d7b5ef50",
-      "guid": "WP-WSJS-0003889444",
-      "pub_date": "Mon, 14 Sep 2026 02:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-65480021?size=1.557&width=1280",
-      "snapshot": "articles/for-trump-a-golf-trip-to-ireland-tees-up-a-reuni-ab956eb68b4d.html",
-      "captured": true,
-      "capture_title": "特朗普赴爱尔兰观看高尔夫比赛，“统一”言论引发争议",
-      "error": ""
-    },
-    {
-      "title": "拉美盟友全面响应特朗普的缉毒战争",
-      "summary": "在美方的帮助下，拉美地区的安全部队正在轰炸丛林营地、抓捕毒枭并击毙毒品走私人员。",
-      "link": "https://cn.wsj.com/articles/%E6%8B%89%E7%BE%8E%E7%9B%9F%E5%8F%8B%E5%85%A8%E9%9D%A2%E5%93%8D%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%BC%89%E6%AF%92%E6%88%98%E4%BA%89-f4ec9a8f",
-      "guid": "WP-WSJS-0003889578",
-      "pub_date": "Mon, 14 Sep 2026 04:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-26102752?size=1.501&width=1280",
-      "snapshot": "articles/e6-8b-89-e7-be-8e-e7-9b-9f-e5-8f-8b-e5-85-a8-e9--49d266a5c402.html",
-      "captured": true,
-      "capture_title": "拉美盟友全面响应特朗普的缉毒战争",
-      "error": ""
-    },
-    {
-      "title": "中国8月新增人民币贷款不及预期",
-      "summary": "中国8月新增贷款为人民币600亿元，这一数字远低于经济学家此前预期的人民币4,200亿元。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD8%E6%9C%88%E6%96%B0%E5%A2%9E%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%B7%E6%AC%BE%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F-b2b7f52c",
-      "guid": "WP-WSJS-0003889908",
-      "pub_date": "Mon, 14 Sep 2026 09:52:00 GMT",
-      "image_url": "https://images.wsj.net/im-99222592?size=1.502&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd8-e6-9c-88-e6-96-b0-e5-a2-9e-e4-11518f28b5f6.html",
-      "captured": true,
-      "capture_title": "中国8月新增人民币贷款不及预期",
-      "error": ""
-    },
-    {
-      "title": "特斯拉正重新收复美国电动汽车市场",
-      "summary": "美国电动汽车销量依然低迷，但随着传统车企纷纷从纯电动汽车领域撤退，特斯拉重新占据了半数以上的份额。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E6%AD%A3%E9%87%8D%E6%96%B0%E6%94%B6%E5%A4%8D%E7%BE%8E%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA-8e3722ad",
-      "guid": "WP-WSJS-0003889392",
-      "pub_date": "Mon, 14 Sep 2026 01:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-35511151?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-96-af-e6-8b-89-e6-ad-a3-e9-87-8d-e6--8279d1bd8c46.html",
-      "captured": true,
-      "capture_title": "特斯拉正重新收复美国电动汽车市场",
-      "error": ""
-    },
-    {
-      "title": "中国欲加入战局，逐鹿下一款重磅减肥药",
-      "summary": "告别长期以来的低端仿制药代工角色，中国正涌现出一批创新迅猛的生物技术企业。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%AC%B2%E5%8A%A0%E5%85%A5%E6%88%98%E5%B1%80-%E9%80%90%E9%B9%BF%E4%B8%8B%E4%B8%80%E6%AC%BE%E9%87%8D%E7%A3%85%E5%87%8F%E8%82%A5%E8%8D%AF-0524a66f",
-      "guid": "WP-WSJS-0003884121",
-      "pub_date": "Fri, 11 Sep 2026 05:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-59198742?size=1.499&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-ac-b2-e5-8a-a0-e5-85-a5-e6--1d84af50bd51.html",
-      "captured": true,
-      "capture_title": "中国欲加入战局，逐鹿下一款重磅减肥药",
-      "error": ""
-    },
-    {
-      "title": "大型药企心血管药物研发遇瓶颈",
-      "summary": "心脏病至今仍是人类的头号杀手；然而对制药商与华尔街而言，这一领域却正演变成最难变现的赛道之一。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%A7%E5%9E%8B%E8%8D%AF%E4%BC%81%E5%BF%83%E8%A1%80%E7%AE%A1%E8%8D%AF%E7%89%A9%E7%A0%94%E5%8F%91%E9%81%87%E7%93%B6%E9%A2%88-8bddd093",
-      "guid": "WP-WSJS-0003889628",
-      "pub_date": "Mon, 14 Sep 2026 05:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-37438118?size=1.501&width=1280",
-      "snapshot": "articles/e5-a4-a7-e5-9e-8b-e8-8d-af-e4-bc-81-e5-bf-83-e8--c78906c5c9f5.html",
-      "captured": true,
-      "capture_title": "大型药企心血管药物研发遇瓶颈",
       "error": ""
     }
   ]

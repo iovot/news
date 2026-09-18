@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 03:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 10:52:21 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 03:58:15 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 10:52:21 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,27 @@
             <pubDate>Thu, 17 Sep 2026 12:12:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[人民币升至逾四年高点]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-226785?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周五，人民币兑美元汇率创下四年多来新高，中国强劲的出口表现以及央行的支持为人民币走强提供了支撑。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E8%87%B3%E9%80%BE%E5%9B%9B%E5%B9%B4%E9%AB%98%E7%82%B9-ff99418d</link>
+            <guid isPermaLink="false">WP-WSJS-0003903622</guid>
+            <pubDate>Fri, 18 Sep 2026 02:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黑客利用Anthropic的Claude入侵了OpenAI]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-93164192?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一个参加漏洞搜寻计划的独立安全研究团队访问了OpenAI的内部代码系统。该事件暴露了自动化网络威胁日益增长的风险。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%91%E5%AE%A2%E5%88%A9%E7%94%A8anthropic%E7%9A%84claude%E5%85%A5%E4%BE%B5%E4%BA%86openai-1be7e472</link>
+            <guid isPermaLink="false">WP-WSJS-0003903671</guid>
+            <pubDate>Fri, 18 Sep 2026 03:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国中期选举进入倒计时，几乎一切都在涨价]]></title>
+            <description><![CDATA[<img width="1280" height="749" src="https://images.wsj.net/im-80283028?size=1.71&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在外出就餐、加油和买房价格不断上涨之际，更高的利率也增加了借贷成本。</p>]]></description>
+            <link>https://cn.wsj.com/articles/weeks-before-the-midterms-almost-everything-is-getting-more-expensive-7150a944</link>
+            <guid isPermaLink="false">WP-WSJS-0003903639</guid>
+            <pubDate>Fri, 18 Sep 2026 03:38:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[沃什如何做到加息却不惹怒特朗普？]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-27376888?size=1.497&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美联储主席凯文·沃什眼下已经重塑了美联储与白宫的关系；而在之前，白宫把美联储视为敌人。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%B2%83%E4%BB%80%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E5%8A%A0%E6%81%AF%E5%8D%B4%E4%B8%8D%E6%83%B9%E6%80%92%E7%89%B9%E6%9C%97%E6%99%AE-3c5781da</link>
@@ -42,18 +63,11 @@
             <pubDate>Fri, 18 Sep 2026 02:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI概念股重获青睐，美股走出通胀阴霾]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-82861353?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>标普500指数与纳斯达克综合指数双双创下六周来最大单日涨幅。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E9%87%8D%E8%8E%B7%E9%9D%92%E7%9D%90-%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%87%BA%E9%80%9A%E8%83%80%E9%98%B4%E9%9C%BE-ec7160f7</link>
-            <guid isPermaLink="false">WP-WSJS-0003903280</guid>
-            <pubDate>Thu, 17 Sep 2026 23:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英王查尔斯三世敦促AI行业领袖防止技术失控]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10734230?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在此番出面斡旋之际，中美以外的国家在塑造AI未来方面正日益感到无能为力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%8B%B1%E7%8E%8B%E6%9F%A5%E5%B0%94%E6%96%AF%E4%B8%89%E4%B8%96%E6%95%A6%E4%BF%83ai%E8%A1%8C%E4%B8%9A%E9%A2%86%E8%A2%96%E9%98%B2%E6%AD%A2%E6%8A%80%E6%9C%AF%E5%A4%B1%E6%8E%A7-0e47d30b</link>
-            <guid isPermaLink="false">WP-WSJS-0003903330</guid>
-            <pubDate>Thu, 17 Sep 2026 23:55:00 GMT</pubDate>
+            <title><![CDATA[卡尼“疏远美国”的战略转向面临考验]]></title>
+            <description><![CDATA[<img width="1280" height="906" src="https://images.wsj.net/im-45293477?size=1.413&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普声称加拿大与欧盟建立专属合作可能构成“敌对行为”，但这未能动摇加拿大领导人的立场。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC-%E7%96%8F%E8%BF%9C%E7%BE%8E%E5%9B%BD-%E7%9A%84%E6%88%98%E7%95%A5%E8%BD%AC%E5%90%91%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-4e1fa7c9</link>
+            <guid isPermaLink="false">WP-WSJS-0003903248</guid>
+            <pubDate>Thu, 17 Sep 2026 23:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[沙特阿拉伯还有另一种石油外运选择]]></title>
@@ -63,20 +77,6 @@
             <pubDate>Fri, 18 Sep 2026 01:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟拟强制社交媒体验证用户年龄，以限制未成年人使用]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49828790?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新法案将禁止13岁以下儿童使用社交媒体，并规定在整个欧盟范围内，未成年人开设个人账号的最低年龄为15岁。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%BC%BA%E5%88%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%AA%8C%E8%AF%81%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84-%E4%BB%A5%E9%99%90%E5%88%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BD%BF%E7%94%A8-ef766071</link>
-            <guid isPermaLink="false">WP-WSJS-0003903463</guid>
-            <pubDate>Fri, 18 Sep 2026 00:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[也门发现的残骸显示沙特或已首次发射中国造导弹]]></title>
-            <description><![CDATA[<img width="1280" height="843" src="https://images.wsj.net/im-30873170?size=1.518&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>沙漠中发现了一具疑似东风-15的弹体。若证实，外界将重新审视中国向中东出售导弹一事。</p>]]></description>
-            <link>https://cn.wsj.com/articles/debris-found-in-yemen-suggests-saudi-arabia-fired-its-first-chinese-missile-950a6525</link>
-            <guid isPermaLink="false">WP-WSJS-0003899945</guid>
-            <pubDate>Wed, 16 Sep 2026 23:53:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[中国可以避免金融危机，但无法避免深层代价]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15543198?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国爆发全面金融危机的概率有多大？答案取决于你对金融危机的定义。一位金融学家认为，缓慢化解严重债务问题的代价，可能要比通过危机迅速出清大得多。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA-%E4%BD%86%E6%97%A0%E6%B3%95%E9%81%BF%E5%85%8D%E6%B7%B1%E5%B1%82%E4%BB%A3%E4%BB%B7-9cd493f0</link>
@@ -84,11 +84,11 @@
             <pubDate>Wed, 16 Sep 2026 02:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[卡尼“疏远美国”的战略转向面临考验]]></title>
-            <description><![CDATA[<img width="1280" height="906" src="https://images.wsj.net/im-45293477?size=1.413&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普声称加拿大与欧盟建立专属合作可能构成“敌对行为”，但这未能动摇加拿大领导人的立场。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC-%E7%96%8F%E8%BF%9C%E7%BE%8E%E5%9B%BD-%E7%9A%84%E6%88%98%E7%95%A5%E8%BD%AC%E5%90%91%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-4e1fa7c9</link>
-            <guid isPermaLink="false">WP-WSJS-0003903248</guid>
-            <pubDate>Thu, 17 Sep 2026 23:20:00 GMT</pubDate>
+            <title><![CDATA[密歇根大学体育事务背后的超级金主：拉里·埃里森之妻]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-47781018?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>密歇根大学校友乔琳·埃里森财力雄厚、颇具话语权，致力于资助该校橄榄球队和篮球队赢得比赛。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%AF%86%E6%AD%87%E6%A0%B9%E5%A4%A7%E5%AD%A6%E4%BD%93%E8%82%B2%E4%BA%8B%E5%8A%A1%E8%83%8C%E5%90%8E%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%91%E4%B8%BB-%E6%8B%89%E9%87%8C-%E5%9F%83%E9%87%8C%E6%A3%AE%E4%B9%8B%E5%A6%BB-483a8cfb</link>
+            <guid isPermaLink="false">WP-WSJS-0003903919</guid>
+            <pubDate>Fri, 18 Sep 2026 08:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[币安入欧计划泡汤背后：拉加德亲自出面干预]]></title>
@@ -105,6 +105,20 @@
             <pubDate>Fri, 18 Sep 2026 01:27:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[巴菲特卸任伯克希尔哈撒韦公司董事长]]></title>
+            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-53811744?size=1.494&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>他的儿子霍华德将接任董事长一职，即时生效。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BB%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF-a064e307</link>
+            <guid isPermaLink="false">WP-WSJS-0003904210</guid>
+            <pubDate>Fri, 18 Sep 2026 10:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[朝鲜向面临空袭风险的俄罗斯工厂输送女性劳工]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49001348?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>金正恩将朝鲜工人派往不断扩大的战区，以加强与俄罗斯总统普京的关系。</p>]]></description>
+            <link>https://cn.wsj.com/articles/north-korea-sends-women-to-russian-factories-in-line-of-ukrainian-fire-63f936e1</link>
+            <guid isPermaLink="false">WP-WSJS-0003903778</guid>
+            <pubDate>Fri, 18 Sep 2026 05:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[他本是默默无闻的数学天才，辞职Anthropic后成了AI安全“代言人”]]></title>
             <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-32829369?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自雅各布·考克森发出危险警告以来，长期以来关于AI技术潜在危险的隐忧已爆发为全球性关注。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BB%96%E6%9C%AC%E6%98%AF%E9%BB%98%E9%BB%98%E6%97%A0%E9%97%BB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%A4%A9%E6%89%8D-%E8%BE%9E%E8%81%8Canthropic%E5%90%8E%E6%88%90%E4%BA%86ai%E5%AE%89%E5%85%A8-%E4%BB%A3%E8%A8%80%E4%BA%BA-48c85569</link>
@@ -117,6 +131,48 @@
             <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%B9%8B%E9%9A%BE-329039a3</link>
             <guid isPermaLink="false">WP-WSJS-0003900400</guid>
             <pubDate>Thu, 17 Sep 2026 03:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软力推AI转型，从重构自身开始]]></title>
+            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-33779984?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%BE%AE%E8%BD%AF%E5%8A%9B%E6%8E%A8ai%E8%BD%AC%E5%9E%8B-%E4%BB%8E%E9%87%8D%E6%9E%84%E8%87%AA%E8%BA%AB%E5%BC%80%E5%A7%8B-393ea70c</link>
+            <guid isPermaLink="false">WP-WSJS-0003903410</guid>
+            <pubDate>Fri, 18 Sep 2026 00:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了减重，GLP-1类药物还有哪些疗效?]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-72482218?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>医学界正在探索减肥药是否也能用于治疗子宫内膜异位症和克罗恩病等疾病。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%99%A4%E4%BA%86%E5%87%8F%E9%87%8D-glp-1%E7%B1%BB%E8%8D%AF%E7%89%A9%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E7%96%97%E6%95%88-5209dc9b</link>
+            <guid isPermaLink="false">WP-WSJS-0003903705</guid>
+            <pubDate>Fri, 18 Sep 2026 04:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI概念股重获青睐，美股走出通胀阴霾]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-82861353?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>标普500指数与纳斯达克综合指数双双创下六周来最大单日涨幅。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E9%87%8D%E8%8E%B7%E9%9D%92%E7%9D%90-%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%87%BA%E9%80%9A%E8%83%80%E9%98%B4%E9%9C%BE-ec7160f7</link>
+            <guid isPermaLink="false">WP-WSJS-0003903280</guid>
+            <pubDate>Thu, 17 Sep 2026 23:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟拟强制社交媒体验证用户年龄，以限制未成年人使用]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-49828790?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新法案将禁止13岁以下儿童使用社交媒体，并规定在整个欧盟范围内，未成年人开设个人账号的最低年龄为15岁。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%BC%BA%E5%88%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%AA%8C%E8%AF%81%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84-%E4%BB%A5%E9%99%90%E5%88%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BD%BF%E7%94%A8-ef766071</link>
+            <guid isPermaLink="false">WP-WSJS-0003903463</guid>
+            <pubDate>Fri, 18 Sep 2026 00:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科技公司员工早就知道其AI工具会给出版商带来“生存威胁”]]></title>
+            <description><![CDATA[<img width="1280" height="900" src="https://images.wsj.net/im-70216101?size=1.422&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>根据《纽约时报》版权诉讼案的一份新文件，OpenAI和微软的高管及其他人员承认，他们可能会损害自身的内容来源。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E6%97%A9%E5%B0%B1%E7%9F%A5%E9%81%93%E5%85%B6ai%E5%B7%A5%E5%85%B7%E4%BC%9A%E7%BB%99%E5%87%BA%E7%89%88%E5%95%86%E5%B8%A6%E6%9D%A5-%E7%94%9F%E5%AD%98%E5%A8%81%E8%83%81-44495349</link>
+            <guid isPermaLink="false">WP-WSJS-0003903440</guid>
+            <pubDate>Fri, 18 Sep 2026 00:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-84788036?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家底特律汽车制造商一直寻求扩张其国防业务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%AD%A6%E5%99%A8%E7%9F%AD%E7%BC%BA%E4%B9%8B%E9%99%85-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E9%83%A8%E4%BB%B6-cb64e1e4</link>
+            <guid isPermaLink="false">WP-WSJS-0003903302</guid>
+            <pubDate>Thu, 17 Sep 2026 23:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[图解喷气动力如何让俄罗斯在无人机战争中占据优势]]></title>
@@ -133,18 +189,11 @@
             <pubDate>Wed, 16 Sep 2026 06:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软力推AI转型，从重构自身开始]]></title>
-            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-33779984?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家科技巨头将发布指南，分享其在内部AI转型与组织重构历程中汲取的一线经验。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%BE%AE%E8%BD%AF%E5%8A%9B%E6%8E%A8ai%E8%BD%AC%E5%9E%8B-%E4%BB%8E%E9%87%8D%E6%9E%84%E8%87%AA%E8%BA%AB%E5%BC%80%E5%A7%8B-393ea70c</link>
-            <guid isPermaLink="false">WP-WSJS-0003903410</guid>
-            <pubDate>Fri, 18 Sep 2026 00:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科技公司员工早就知道其AI工具会给出版商带来“生存威胁”]]></title>
-            <description><![CDATA[<img width="1280" height="900" src="https://images.wsj.net/im-70216101?size=1.422&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>根据《纽约时报》版权诉讼案的一份新文件，OpenAI和微软的高管及其他人员承认，他们可能会损害自身的内容来源。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E6%97%A9%E5%B0%B1%E7%9F%A5%E9%81%93%E5%85%B6ai%E5%B7%A5%E5%85%B7%E4%BC%9A%E7%BB%99%E5%87%BA%E7%89%88%E5%95%86%E5%B8%A6%E6%9D%A5-%E7%94%9F%E5%AD%98%E5%A8%81%E8%83%81-44495349</link>
-            <guid isPermaLink="false">WP-WSJS-0003903440</guid>
-            <pubDate>Fri, 18 Sep 2026 00:33:00 GMT</pubDate>
+            <title><![CDATA[因SpaceX上市暴富，这对夫妇踏上追梦之旅]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34075041?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/spacex-ipo-payouts-97b50ad7</link>
+            <guid isPermaLink="false">WP-WSJS-0003900295</guid>
+            <pubDate>Thu, 17 Sep 2026 02:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一通40分钟的电话，如何让埃德·希兰的巡演悬于一线？]]></title>
@@ -154,39 +203,11 @@
             <pubDate>Thu, 17 Sep 2026 03:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美军武器短缺之际，通用汽车开始为洛克希德生产“爱国者”导弹部件]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-84788036?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家底特律汽车制造商一直寻求扩张其国防业务。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%AD%A6%E5%99%A8%E7%9F%AD%E7%BC%BA%E4%B9%8B%E9%99%85-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E4%B8%BA%E6%B4%9B%E5%85%8B%E5%B8%8C%E5%BE%B7%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E9%83%A8%E4%BB%B6-cb64e1e4</link>
-            <guid isPermaLink="false">WP-WSJS-0003903302</guid>
-            <pubDate>Thu, 17 Sep 2026 23:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[继Visa之后，万事达卡也将允许AI机器人代客购物]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-42246917?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>支付行业高管正准备应对AI驱动的购物浪潮，这迫使他们重新审视交易风险、欺诈防范，以及如何处理可能“失控”的AI智能体。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BB%A7visa%E4%B9%8B%E5%90%8E-%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%8D%A1%E4%B9%9F%E5%B0%86%E5%85%81%E8%AE%B8ai%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%A3%E5%AE%A2%E8%B4%AD%E7%89%A9-e506a4a2</link>
-            <guid isPermaLink="false">WP-WSJS-0003903432</guid>
-            <pubDate>Fri, 18 Sep 2026 00:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德将用Anthropic的Claude助力药物研发]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-20522663?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。</p>]]></description>
-            <link>https://cn.wsj.com/articles/novo-partners-with-anthropic-to-speed-up-drug-discovery-using-claude-b896f14e</link>
-            <guid isPermaLink="false">WP-WSJS-0003900046</guid>
-            <pubDate>Thu, 17 Sep 2026 00:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中层管理者“大清洗”为何会带来反噬？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-08630861?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>企业正在裁撤中层管理者，他们的作用往往被低估。当我们意识到失去了什么时，中层管理者将成为市面上最抢手的职位。</p>]]></description>
-            <link>https://cn.wsj.com/articles/why-the-purge-of-middle-managers-could-backfire-7e3117cf</link>
-            <guid isPermaLink="false">WP-WSJS-0003900274</guid>
-            <pubDate>Thu, 17 Sep 2026 02:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[别管什么AI末日了，真正的威胁就在眼前]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-31232847?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>飞机、电梯和餐厅都有旨在确保其安全运行的规章制度；许多专家主张对AI采取类似的常规监管措施。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%88%AB%E7%AE%A1%E4%BB%80%E4%B9%88ai%E6%9C%AB%E6%97%A5%E4%BA%86-%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A8%81%E8%83%81%E5%B0%B1%E5%9C%A8%E7%9C%BC%E5%89%8D-fda7a35a</link>
-            <guid isPermaLink="false">WP-WSJS-0003900067</guid>
-            <pubDate>Thu, 17 Sep 2026 00:30:00 GMT</pubDate>
+            <title><![CDATA[怡颗莓把蓝莓带到中国，却被本土对手“偷师”种植技术]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-12213640?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家加州种植巨头的在华扩张引发了激烈的本土竞争与大范围的知识产权侵权。为调查取证，私人调查员甚至假扮买家进入当地苗圃。</p>]]></description>
+            <link>https://cn.wsj.com/articles/driscolls-berry-farms-china-competition-31605e3b</link>
+            <guid isPermaLink="false">WP-WSJS-0003893190</guid>
+            <pubDate>Tue, 15 Sep 2026 06:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[马斯克将他的“政治搅局机器”对准英国]]></title>
@@ -196,32 +217,11 @@
             <pubDate>Wed, 16 Sep 2026 05:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[怡颗莓把蓝莓带到中国，却被本土对手“偷师”种植技术]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-12213640?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家加州种植巨头的在华扩张引发了激烈的本土竞争与大范围的知识产权侵权。为调查取证，私人调查员甚至假扮买家进入当地苗圃。</p>]]></description>
-            <link>https://cn.wsj.com/articles/driscolls-berry-farms-china-competition-31605e3b</link>
-            <guid isPermaLink="false">WP-WSJS-0003893190</guid>
-            <pubDate>Tue, 15 Sep 2026 06:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[为何今年的厄尔尼诺现象或将是有记录以来最强之一]]></title>
-            <description><![CDATA[<img width="1280" height="823" src="https://images.wsj.net/im-97733962?size=1.6098130841121496&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这一扰乱全球天气的现象已经引发了亚洲的野火、太平洋的飓风以及南美洲的渔场关闭。最糟糕的情况或许还在后头。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-why-this-years-el-nino-is-expected-to-be-the-most-powerful-yet-b1566e1d</link>
-            <guid isPermaLink="false">WP-WSJS-0003896240</guid>
-            <pubDate>Wed, 16 Sep 2026 01:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五大“高校学区房”选购指南]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-73930559?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国富裕家庭纷纷在大学周边为孩子购买住房，从而推动了学校周边房地产市场的需求。不过，各区域的社区氛围、房产价格和房源情况有所不同。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-most-expensive-college-towns-in-america-049c7c95</link>
-            <guid isPermaLink="false">WP-WSJS-0003896694</guid>
-            <pubDate>Wed, 16 Sep 2026 06:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因SpaceX上市暴富，这对夫妇踏上追梦之旅]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34075041?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>布莱恩·阿格雷是SpaceX十多年的老员工，IPO使其个人财富急剧增长。他和妻子双双辞职，计划以每个月2.5万美元的预算周游世界，度过“疯狂之年”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/spacex-ipo-payouts-97b50ad7</link>
-            <guid isPermaLink="false">WP-WSJS-0003900295</guid>
-            <pubDate>Thu, 17 Sep 2026 02:58:00 GMT</pubDate>
+            <title><![CDATA[美国家庭最头痛的五个字：今晚吃什么？]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-80701304?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国人花在做饭上的时间比过去20年都要多，但繁忙的日程和不断上涨的成本却让做饭成了生活中的头号痛点。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E6%9C%80%E5%A4%B4%E7%97%9B%E7%9A%84%E4%BA%94%E4%B8%AA%E5%AD%97-%E4%BB%8A%E6%99%9A%E5%90%83%E4%BB%80%E4%B9%88-2f7e28de</link>
+            <guid isPermaLink="false">WP-WSJS-0003903755</guid>
+            <pubDate>Fri, 18 Sep 2026 05:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一学期付4万美元干农活，这所另类学校如何成为常春藤敲门砖？]]></title>
