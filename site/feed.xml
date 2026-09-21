@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 19:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 23:57:00 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 19:55:00 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 23:57:00 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,11 +35,18 @@
             <pubDate>Mon, 21 Sep 2026 02:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[硅谷AI路线之争：阿莫迪想刹车，黄仁勋踩油门]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21291316?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达掌门人黄仁勋主张，解决AI安全担忧应当靠工程方案，而非出台新规或让全行业踩刹车。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%A1%85%E8%B0%B7ai%E8%B7%AF%E7%BA%BF%E4%B9%8B%E4%BA%89-%E9%98%BF%E8%8E%AB%E8%BF%AA%E6%83%B3%E5%88%B9%E8%BD%A6-%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B8%A9%E6%B2%B9%E9%97%A8-38fb2a7a</link>
-            <guid isPermaLink="false">WP-WSJS-0003909005</guid>
-            <pubDate>Mon, 21 Sep 2026 07:39:00 GMT</pubDate>
+            <title><![CDATA[美股上涨，纳指创历史新高，受油价下跌与AI押注热潮助推]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21273693?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>道指上涨0.71%，至52,048.83点。标普500指数上涨1.49%，至7,764.70点。纳指上涨2.26%，至27,122.09点，创下历史新高。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-stocks-rise-nasdaq-hits-record-as-oil-slides-ai-bets-surge-1569bd2a</link>
+            <guid isPermaLink="false">WP-WSJS-0003911823</guid>
+            <pubDate>Mon, 21 Sep 2026 23:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[政府禁令出台后，多家美国电视网暂停部分特朗普报道]]></title>
+            <description><![CDATA[<img width="1280" height="878" src="https://images.wsj.net/im-52394046?size=1.458&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>多家主要电视网周一同意暂停由电视记者轮值报道美国总统特朗普的安排。此前，白宫将CNN从一项计划中的采访任务中撤下，该任务原本用于报道总统赴纽约的行程。</p>]]></description>
+            <link>https://cn.wsj.com/articles/cnn-ms-now-politico-to-sue-white-house-over-reporter-ban-e4da129d</link>
+            <guid isPermaLink="false">WP-WSJS-0003911783</guid>
+            <pubDate>Mon, 21 Sep 2026 23:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[共和党打开“资金闸门”，对民主党尽显筹款优势]]></title>
@@ -49,11 +56,11 @@
             <pubDate>Mon, 21 Sep 2026 06:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一文读懂10年期美债收益率冲上5%的跌宕历程]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-49615722?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自本十年初以来，一场大流行病、多场战争以及政府赤字重塑了债券市场。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%8210%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E5%86%B2%E4%B8%8A5-%E7%9A%84%E8%B7%8C%E5%AE%95%E5%8E%86%E7%A8%8B-9663ae08</link>
-            <guid isPermaLink="false">WP-WSJS-0003908744</guid>
-            <pubDate>Mon, 21 Sep 2026 02:28:00 GMT</pubDate>
+            <title><![CDATA[特朗普政府提议出资50亿美元启动投资基金，以重建海湾能源设施]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-00117306?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举无异于默认这场长达七个月的冲突已经搅乱了全球能源市场，摧毁了当地的管道和炼油厂，而重建这些设施将耗资不菲。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8F%90%E8%AE%AE%E5%87%BA%E8%B5%8450%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%AF%E5%8A%A8%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91-%E4%BB%A5%E9%87%8D%E5%BB%BA%E6%B5%B7%E6%B9%BE%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD-7abe873e</link>
+            <guid isPermaLink="false">WP-WSJS-0003911784</guid>
+            <pubDate>Mon, 21 Sep 2026 23:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[格陵兰岛安全协议为美国企业在该岛开展业务铺平道路]]></title>
@@ -70,13 +77,6 @@
             <pubDate>Sat, 19 Sep 2026 00:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[也门胡塞武装宣称袭击沙特首都，机场油库起火]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-33842845?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>过去几周，沙特频遭袭击，火力分别来自受伊朗支持的什叶派民兵活跃的伊拉克，以及胡塞武装的大本营也门。</p>]]></description>
-            <link>https://cn.wsj.com/articles/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-b53adbd7</link>
-            <guid isPermaLink="false">WP-WSJS-0003908678</guid>
-            <pubDate>Mon, 21 Sep 2026 01:13:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[面对内卷和失业，中国年轻人纷纷创办一人AI公司]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21202219?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>厌倦了职场内卷，人们试图通过创办一人AI公司碰碰运气，但他们面临的却是一个残酷的市场。</p>]]></description>
             <link>https://cn.wsj.com/articles/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-f1c9e3f4</link>
@@ -91,6 +91,13 @@
             <pubDate>Mon, 21 Sep 2026 02:38:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[硅谷AI路线之争：阿莫迪想刹车，黄仁勋踩油门]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21291316?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达掌门人黄仁勋主张，解决AI安全担忧应当靠工程方案，而非出台新规或让全行业踩刹车。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%A1%85%E8%B0%B7ai%E8%B7%AF%E7%BA%BF%E4%B9%8B%E4%BA%89-%E9%98%BF%E8%8E%AB%E8%BF%AA%E6%83%B3%E5%88%B9%E8%BD%A6-%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B8%A9%E6%B2%B9%E9%97%A8-38fb2a7a</link>
+            <guid isPermaLink="false">WP-WSJS-0003909005</guid>
+            <pubDate>Mon, 21 Sep 2026 07:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中美均认同AI需要安全护栏，但安全诉求南辕北辙]]></title>
             <description><![CDATA[<img width="1280" height="885" src="https://images.wsj.net/im-81888604?size=1.446&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国的讨论重点在于保护人类免受技术反噬，而北京的首要关切则是维护共产党的统治地位。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E5%9D%87%E8%AE%A4%E5%90%8Cai%E9%9C%80%E8%A6%81%E5%AE%89%E5%85%A8%E6%8A%A4%E6%A0%8F-%E4%BD%86%E5%AE%89%E5%85%A8%E8%AF%89%E6%B1%82%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99-96066d9a</link>
@@ -103,13 +110,6 @@
             <link>https://cn.wsj.com/articles/%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%86%9B%E4%BA%8B%E9%87%8D%E5%BB%BA%E4%BB%A4%E9%82%BB%E5%9B%BD%E4%B8%8D%E5%AE%89-72f3e22e</link>
             <guid isPermaLink="false">WP-WSJS-0003908946</guid>
             <pubDate>Mon, 21 Sep 2026 06:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普试图瓦解国际刑事法院的行动加码]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-38159210?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普政府正准备对国际刑事法院实施全面制裁，可能会禁止该法院开展美元交易，使其与全球金融体系的大部分渠道隔绝。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%95%E5%9B%BE%E7%93%A6%E8%A7%A3%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%8A%A0%E7%A0%81-5f9ff61a</link>
-            <guid isPermaLink="false">WP-WSJS-0003908623</guid>
-            <pubDate>Mon, 21 Sep 2026 00:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[苹果最新款iPhone与手表开售，你该换新了吗？]]></title>
