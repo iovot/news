@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:10:12.135055+00:00",
+  "generated_at": "2026-09-23T16:31:33.323780+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -14,6 +14,18 @@
       "snapshot": "articles/e4-b9-a0-e7-89-b9-e4-bc-9a--e5-9c-a8-e5-8d-b3--e-8969ea28cc6d.html",
       "captured": true,
       "capture_title": "“习特会”在即，北京方面对台湾问题有何考量",
+      "error": ""
+    },
+    {
+      "title": "红毯礼遇的背后：习近平访美之前的中美博弈",
+      "summary": "习近平周三抵达美国时，迎接他的会是仪仗队、21响礼炮和隆重的欢迎仪式。中美双方花了数周时间就此次访问的各种细节反复交锋，对紧张局势的最大根源却避而不谈。",
+      "link": "https://cn.wsj.com/articles/trump-xi-meeting-china-image-16219856",
+      "guid": "WP-WSJS-0003915982",
+      "pub_date": "Wed, 23 Sep 2026 11:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-73591753?size=1.501&width=1280",
+      "snapshot": "articles/trump-xi-meeting-china-image-16219856-29bc4e250785.html",
+      "captured": true,
+      "capture_title": "红毯礼遇的背后：习近平访美之前的中美博弈 - WSJ",
       "error": ""
     },
     {
@@ -38,18 +50,6 @@
       "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b--e9-bb-84-e4-bb-81-e5-fde29a847a58.html",
       "captured": true,
       "capture_title": "马斯克、黄仁勋和库克等人将与习近平共进晚餐，他们的公司对中国有何诉求",
-      "error": ""
-    },
-    {
-      "title": "习近平最后一刻缺席金砖晚宴，健康状况引起猜测",
-      "summary": "习近平在印度参加金砖国家峰会期间缺席了一场晚宴，有关他接班安排的担忧因此重新升温。",
-      "link": "https://cn.wsj.com/articles/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-0f6affb2",
-      "guid": "WP-WSJS-0003908747",
-      "pub_date": "Mon, 21 Sep 2026 02:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-32494486?size=1.499&width=1280",
-      "snapshot": "articles/xi-jinping-skipped-one-dinnerand-sparked-a-flurr-da9b56ed2009.html",
-      "captured": true,
-      "capture_title": "习近平最后一刻缺席金砖晚宴，健康状况引起猜测",
       "error": ""
     },
     {
@@ -169,19 +169,19 @@
       "image_url": "https://images.wsj.net/im-75428023?size=1.501&width=1280",
       "snapshot": "articles/e5-ba-b7-e5-a5-88-e5-b0-94-e5-a4-a7-e5-ad-a6-e5--d208a5879ba7.html",
       "captured": true,
-      "capture_title": "康奈尔大学发布200页报告，正视美国高等教育危机 - WSJ",
+      "capture_title": "康奈尔大学发布200页报告，正视美国高等教育危机",
       "error": ""
     },
     {
-      "title": "特朗普格陵兰协议要点全解析",
-      "summary": "该协议将为美军扩大在这座北极岛屿的军事存在铺平道路。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%8D%8F%E8%AE%AE%E8%A6%81%E7%82%B9%E5%85%A8%E8%A7%A3%E6%9E%90-b99a8628",
-      "guid": "WP-WSJS-0003915117",
-      "pub_date": "Wed, 23 Sep 2026 00:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-28449826?size=1.5&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-a0-bc-e9-99-b5-e5--a14656856023.html",
+      "title": "习近平最后一刻缺席金砖晚宴，健康状况引起猜测",
+      "summary": "习近平在印度参加金砖国家峰会期间缺席了一场晚宴，有关他接班安排的担忧因此重新升温。",
+      "link": "https://cn.wsj.com/articles/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-0f6affb2",
+      "guid": "WP-WSJS-0003908747",
+      "pub_date": "Mon, 21 Sep 2026 02:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-32494486?size=1.499&width=1280",
+      "snapshot": "articles/xi-jinping-skipped-one-dinnerand-sparked-a-flurr-da9b56ed2009.html",
       "captured": true,
-      "capture_title": "特朗普格陵兰协议要点全解析",
+      "capture_title": "习近平最后一刻缺席金砖晚宴，健康状况引起猜测",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-18204564?size=1.5&width=1280",
       "snapshot": "articles/cocaine-smugglers-europe-speedboats-c3e4dab1-fffe4b7fb210.html",
       "captured": true,
-      "capture_title": "可卡因走私毒贩靠快艇和科技甩开欧洲执法部门 - WSJ",
+      "capture_title": "可卡因走私毒贩靠快艇和科技甩开欧洲执法部门",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-ad-a3-e8-bf-bd-e8-b5-b6spac-b2854e6f19a5.html",
       "captured": true,
       "capture_title": "中国正追赶SpaceX，目光投向全球太空经济",
+      "error": ""
+    },
+    {
+      "title": "特朗普格陵兰协议要点全解析",
+      "summary": "该协议将为美军扩大在这座北极岛屿的军事存在铺平道路。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%8D%8F%E8%AE%AE%E8%A6%81%E7%82%B9%E5%85%A8%E8%A7%A3%E6%9E%90-b99a8628",
+      "guid": "WP-WSJS-0003915117",
+      "pub_date": "Wed, 23 Sep 2026 00:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-28449826?size=1.5&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-a0-bc-e9-99-b5-e5--a14656856023.html",
+      "captured": true,
+      "capture_title": "特朗普格陵兰协议要点全解析",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e7-bb-a7visa-e4-b9-8b-e5-90-8e--e4-b8-87-e4-ba-8-6df6aa46a28c.html",
       "captured": true,
       "capture_title": "继Visa之后，万事达卡也将允许AI机器人代客购物 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "诺和诺德将用Anthropic的Claude助力药物研发",
-      "summary": "生产减肥药物诺和泰及诺和盈的丹麦制药商诺和诺德将携手Anthropic，把AI引入药物研发。",
-      "link": "https://cn.wsj.com/articles/novo-partners-with-anthropic-to-speed-up-drug-discovery-using-claude-b896f14e",
-      "guid": "WP-WSJS-0003900046",
-      "pub_date": "Thu, 17 Sep 2026 00:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-20522663?size=1.501&width=1280",
-      "snapshot": "articles/novo-partners-with-anthropic-to-speed-up-drug-di-b1559ff235dd.html",
-      "captured": true,
-      "capture_title": "诺和诺德将用Anthropic的Claude助力药物研发",
       "error": ""
     }
   ]
