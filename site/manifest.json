@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:31:56.167967+00:00",
+  "generated_at": "2026-09-24T16:54:04.704801+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-14500621?size=1.5&width=1280",
       "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b-e5-9c-a8-e5-9b-bd-e5--2a4bc34c9ca7.html",
       "captured": true,
-      "capture_title": "马斯克在国宴前赞扬中国领导人，呼吁中美共同监管AI - WSJ",
+      "capture_title": "马斯克在国宴前赞扬中国领导人，呼吁中美共同监管AI",
       "error": ""
     },
     {
@@ -117,11 +117,11 @@
       "summary": "此前，总统因这些新闻机构针对其政府的报道而对其实施了禁令。",
       "link": "https://cn.wsj.com/articles/%E6%B3%95%E5%AE%98%E5%91%BD%E4%BB%A4%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%A3%E9%99%A4%E5%AF%B9cnn-ms-now%E5%92%8Cpolitico%E7%9A%84%E7%A6%81%E4%BB%A4-524192ed",
       "guid": "WP-WSJS-0003919338",
-      "pub_date": "Thu, 24 Sep 2026 10:01:00 GMT",
+      "pub_date": "Thu, 24 Sep 2026 12:02:00 GMT",
       "image_url": "https://images.wsj.net/im-75273538?size=1.501&width=1280",
       "snapshot": "articles/e6-b3-95-e5-ae-98-e5-91-bd-e4-bb-a4-e7-89-b9-e6--07bb6d6d75b0.html",
       "captured": true,
-      "capture_title": "法官命令特朗普解除对CNN、MS NOW和Politico的禁令 - WSJ",
+      "capture_title": "法官命令特朗普解除对CNN、MS NOW和Politico的禁令",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-42315703?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e4-bc-8a-e6-9c-97-e5-af-b9-e6-8a-97-e7-be-8e-e5--37ab1d3088b1.html",
       "captured": true,
-      "capture_title": "伊朗对抗美国的秘密武器：来自中国的支持 - WSJ",
+      "capture_title": "伊朗对抗美国的秘密武器：来自中国的支持",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-16122342?size=1.5&width=1280",
       "snapshot": "articles/ai-e5-9f-ba-e7-a1-80-e8-ae-be-e6-96-bd-e5-bb-ba--a8ab2f3134a3.html",
       "captured": true,
-      "capture_title": "AI基础设施建设成为美国有史以来最大经济押注 - WSJ",
+      "capture_title": "AI基础设施建设成为美国有史以来最大经济押注",
       "error": ""
     },
     {
@@ -253,7 +253,7 @@
       "image_url": "https://images.mktw.net/im-319090?size=1.5&width=1280",
       "snapshot": "articles/microns-stock-has-become-a-battleground-as-the-a-6943216fa0ff.html",
       "captured": true,
-      "capture_title": "AI叙事转向之际，美光股票成投资者争论焦点 - WSJ",
+      "capture_title": "AI叙事转向之际，美光股票成投资者争论焦点",
       "error": ""
     },
     {
