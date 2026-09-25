@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 04:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 11:30:05 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 04:13:08 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 11:30:05 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[特朗普与习近平白宫之会盛大开场，仪式隆重]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77934579?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>眼下，华盛顿和北京正寻求缓和双方在伊朗战争、人工智能和贸易问题上不断升温的紧张关系。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%99%BD%E5%AE%AB%E4%B9%8B%E4%BC%9A%E7%9B%9B%E5%A4%A7%E5%BC%80%E5%9C%BA-%E7%A4%BC%E4%BB%AA%E9%9A%86%E9%87%8D-a8b09a27</link>
-            <guid isPermaLink="false">WP-WSJS-0003922397</guid>
-            <pubDate>Fri, 25 Sep 2026 00:28:00 GMT</pubDate>
+            <title><![CDATA[华盛顿“习特会”的五大要点]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-04779902?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普用盛大仪式接待了习近平，但双方取得的实质成果寥寥无几。此次峰会将于周五继续进行，本文总结了五个看点。</p>]]></description>
+            <link>https://cn.wsj.com/articles/five-takeaways-from-trumps-washington-summit-with-xi-b48fc8c4</link>
+            <guid isPermaLink="false">WP-WSJS-0003923006</guid>
+            <pubDate>Fri, 25 Sep 2026 03:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普政府在低调会谈中就疑似核试验向中国施压]]></title>
@@ -49,11 +49,11 @@
             <pubDate>Fri, 25 Sep 2026 02:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华盛顿“习特会”的五大要点]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-04779902?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普用盛大仪式接待了习近平，但双方取得的实质成果寥寥无几。此次峰会将于周五继续进行，本文总结了五个看点。</p>]]></description>
-            <link>https://cn.wsj.com/articles/five-takeaways-from-trumps-washington-summit-with-xi-b48fc8c4</link>
-            <guid isPermaLink="false">WP-WSJS-0003923006</guid>
-            <pubDate>Fri, 25 Sep 2026 03:47:00 GMT</pubDate>
+            <title><![CDATA[特朗普在白宫盛情接待习近平，但实质成果寥寥]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77934579?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管会晤充满友好仪式与外交礼节，特朗普政府并未取得重大政策让步，而习近平则借此展示了与美国领导人平起平坐的形象。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%99%BD%E5%AE%AB%E4%B9%8B%E4%BC%9A%E7%9B%9B%E5%A4%A7%E5%BC%80%E5%9C%BA-%E7%A4%BC%E4%BB%AA%E9%9A%86%E9%87%8D-a8b09a27</link>
+            <guid isPermaLink="false">WP-WSJS-0003922397</guid>
+            <pubDate>Fri, 25 Sep 2026 07:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[债券交易员是否过于关注油价？]]></title>
@@ -67,7 +67,7 @@
             <description><![CDATA[<img width="1280" height="924" src="https://images.wsj.net/im-72575596?size=1.385&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在广告结尾处，特朗普说：“美国永远不会成为共产主义国家。”这则广告在福斯新闻播出，标明由政府付费，此举可能违反联邦法律。</p>]]></description>
             <link>https://cn.wsj.com/articles/u-s-government-airs-pro-trump-anti-communism-ad-062707b7</link>
             <guid isPermaLink="false">WP-WSJS-0003922453</guid>
-            <pubDate>Fri, 25 Sep 2026 00:30:00 GMT</pubDate>
+            <pubDate>Fri, 25 Sep 2026 04:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国在存储芯片领域落后，关税恐令处境雪上加霜]]></title>
@@ -119,11 +119,11 @@
             <pubDate>Fri, 25 Sep 2026 02:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[戴安娜胞弟新书出版，查尔斯至今难逃旧日阴影]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-94538045?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>戴安娜王妃去世近三十年后，她留下的“遗产”再次撼动温莎王室的根基。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%88%B4%E5%AE%89%E5%A8%9C%E8%83%9E%E5%BC%9F%E6%96%B0%E4%B9%A6%E5%87%BA%E7%89%88-%E6%9F%A5%E5%B0%94%E6%96%AF%E8%87%B3%E4%BB%8A%E9%9A%BE%E9%80%83%E6%97%A7%E6%97%A5%E9%98%B4%E5%BD%B1-aad945d9</link>
-            <guid isPermaLink="false">WP-WSJS-0003922878</guid>
-            <pubDate>Fri, 25 Sep 2026 02:42:00 GMT</pubDate>
+            <title><![CDATA[扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-90776662?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。</p>]]></description>
+            <link>https://cn.wsj.com/articles/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-694d714e</link>
+            <guid isPermaLink="false">WP-WSJS-0003918772</guid>
+            <pubDate>Thu, 24 Sep 2026 01:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OpenAI智能体在搜寻数据时试图入侵另外四家网站]]></title>
@@ -133,11 +133,11 @@
             <pubDate>Fri, 25 Sep 2026 01:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-90776662?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-694d714e</link>
-            <guid isPermaLink="false">WP-WSJS-0003918772</guid>
-            <pubDate>Thu, 24 Sep 2026 01:21:00 GMT</pubDate>
+            <title><![CDATA[戴安娜胞弟新书出版，查尔斯至今难逃旧日阴影]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-94538045?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>戴安娜王妃去世近三十年后，她留下的“遗产”再次撼动温莎王室的根基。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%88%B4%E5%AE%89%E5%A8%9C%E8%83%9E%E5%BC%9F%E6%96%B0%E4%B9%A6%E5%87%BA%E7%89%88-%E6%9F%A5%E5%B0%94%E6%96%AF%E8%87%B3%E4%BB%8A%E9%9A%BE%E9%80%83%E6%97%A7%E6%97%A5%E9%98%B4%E5%BD%B1-aad945d9</link>
+            <guid isPermaLink="false">WP-WSJS-0003922878</guid>
+            <pubDate>Fri, 25 Sep 2026 02:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[50英里通行费500万美元：巴拿马运河为何成天价水道？]]></title>
@@ -196,6 +196,13 @@
             <pubDate>Fri, 25 Sep 2026 01:01:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[红毯礼遇的背后：习近平访美之前的中美博弈]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-73591753?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>习近平周三抵达美国时，迎接他的是仪仗队、21响礼炮和隆重的欢迎仪式。中美双方花了数周时间就此次访问的各种细节反复交锋，对紧张局势的最大根源却避而不谈。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-xi-meeting-china-image-16219856</link>
+            <guid isPermaLink="false">WP-WSJS-0003915982</guid>
+            <pubDate>Wed, 23 Sep 2026 11:56:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国“直升机父母”的育儿经：只给手表，不买手机]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33456823?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国是儿童智能手表的最大市场，今年上半年贡献了全球58%的销量，这种手表在中国的低龄儿童中非常受欢迎。“她现在可能也能用手机了，但我感觉手机比智能手表更难控制。”</p>]]></description>
             <link>https://cn.wsj.com/articles/why-helicopter-parents-in-china-buy-watches-not-phones-for-their-kids-c80561e4</link>
@@ -229,13 +236,6 @@
             <link>https://cn.wsj.com/articles/are-boomers-too-attached-to-ai-readers-disagree-c62f4f18</link>
             <guid isPermaLink="false">WP-WSJS-0003922765</guid>
             <pubDate>Fri, 25 Sep 2026 01:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[企业利用AI设定薪酬的隐秘方式]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-75278220?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>你最终是落在涨薪区间的高端还是低端，可能取决于某个机器学习模型认为你值多少钱。新服务能让雇主精准找出哪些员工薪酬过高或过低。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-invisible-way-companies-are-using-ai-to-set-salaries-c0b83125</link>
-            <guid isPermaLink="false">WP-WSJS-0003919037</guid>
-            <pubDate>Thu, 24 Sep 2026 03:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[欧洲越来越热，富人开始向北迁居]]></title>
