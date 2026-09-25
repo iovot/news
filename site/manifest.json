@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-25T11:30:06.999732+00:00",
+  "generated_at": "2026-09-25T16:56:12.761327+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "华盛顿“习特会”的五大要点",
-      "summary": "特朗普用盛大仪式接待了习近平，但双方取得的实质成果寥寥无几。此次峰会将于周五继续进行，本文总结了五个看点。",
-      "link": "https://cn.wsj.com/articles/five-takeaways-from-trumps-washington-summit-with-xi-b48fc8c4",
-      "guid": "WP-WSJS-0003923006",
-      "pub_date": "Fri, 25 Sep 2026 03:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-04779902?size=1.501&width=1280",
-      "snapshot": "articles/five-takeaways-from-trumps-washington-summit-wit-c40924021d0c.html",
+      "title": "中美盛大峰会的背后，习近平始终意在台湾",
+      "summary": "尽管各方都大谈贸易和更稳定的关系，但台湾问题才是贯穿习近平雄心的主线，也是他此番华盛顿之行真正追求的目标。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E7%9B%9B%E5%A4%A7%E5%B3%B0%E4%BC%9A%E7%9A%84%E8%83%8C%E5%90%8E-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A7%8B%E7%BB%88%E6%84%8F%E5%9C%A8%E5%8F%B0%E6%B9%BE-849b78da",
+      "guid": "WP-WSJS-0003923722",
+      "pub_date": "Fri, 25 Sep 2026 12:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-11064781?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e7-be-8e-e7-9b-9b-e5-a4-a7-e5-b3-b0-e4--9f907c4c59fc.html",
       "captured": true,
-      "capture_title": "华盛顿“习特会”的五大要点",
+      "capture_title": "中美盛大峰会的背后，习近平始终意在台湾 - WSJ",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/trump-xi-meeting-china-image-16219856-29bc4e250785.html",
       "captured": true,
       "capture_title": "红毯礼遇的背后：习近平访美之前的中美博弈",
+      "error": ""
+    },
+    {
+      "title": "华盛顿“习特会”的五大要点",
+      "summary": "特朗普用盛大仪式接待了习近平，但双方取得的实质成果寥寥无几。此次峰会将于周五继续进行，本文总结了五个看点。",
+      "link": "https://cn.wsj.com/articles/five-takeaways-from-trumps-washington-summit-with-xi-b48fc8c4",
+      "guid": "WP-WSJS-0003923006",
+      "pub_date": "Fri, 25 Sep 2026 03:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-04779902?size=1.501&width=1280",
+      "snapshot": "articles/five-takeaways-from-trumps-washington-summit-wit-c40924021d0c.html",
+      "captured": true,
+      "capture_title": "华盛顿“习特会”的五大要点",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e6-b2-b9-e8-bd-ae-e7-9f-ad-e7-bc-ba-e6-81-90-e8--cb6983b6f2e3.html",
       "captured": true,
       "capture_title": "油轮短缺恐致汽油价格居高不下",
-      "error": ""
-    },
-    {
-      "title": "谷歌Gemini入侵三家公司，系其AI的首次已知“越界”行动",
-      "summary": "这些事件与其他AI模型引发的黑客攻击颇为相似，但谷歌表示，不认为这属于“模型对齐失效”的范畴。",
-      "link": "https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cgemini%E5%85%A5%E4%BE%B5%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8-%E7%B3%BB%E5%85%B6ai%E7%9A%84%E9%A6%96%E6%AC%A1%E5%B7%B2%E7%9F%A5-%E8%B6%8A%E7%95%8C-%E8%A1%8C%E5%8A%A8-3fbc080b",
-      "guid": "WP-WSJS-0003906861",
-      "pub_date": "Sat, 19 Sep 2026 00:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-67656438?size=1.501&width=1280",
-      "snapshot": "articles/e8-b0-b7-e6-ad-8cgemini-e5-85-a5-e4-be-b5-e4-b8--5e4b749ebdfb.html",
-      "captured": true,
-      "capture_title": "谷歌Gemini入侵三家公司，系其AI的首次已知“越界”行动",
       "error": ""
     }
   ]
