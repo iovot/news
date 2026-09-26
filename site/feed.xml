@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 21:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 04:17:36 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 21:18:42 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 04:17:36 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,39 +35,60 @@
             <pubDate>Fri, 25 Sep 2026 12:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普政府在低调会谈中就疑似核试验向中国施压]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-30093961?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国官员表示，在外界怀疑北京方面是否遵守了一项已有30年历史的核试验禁令之际，特朗普政府一直在就中国迅速扩张的核武库与中方悄然进行会谈。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%9C%A8%E4%BD%8E%E8%B0%83%E4%BC%9A%E8%B0%88%E4%B8%AD%E5%B0%B1%E7%96%91%E4%BC%BC%E6%A0%B8%E8%AF%95%E9%AA%8C%E5%90%91%E4%B8%AD%E5%9B%BD%E6%96%BD%E5%8E%8B-daf8bc34</link>
-            <guid isPermaLink="false">WP-WSJS-0003922496</guid>
-            <pubDate>Fri, 25 Sep 2026 00:44:00 GMT</pubDate>
+            <title><![CDATA[分歧深重、协议落空，习特会蒙上阴影]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-35444786?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>习近平抵达国宴会场时，能听到有抗议者高声喊叫。但进门之后，大约有三四十名宾客举杯向他致意，纷纷要求与这位中国铁腕人物合影。</p>]]></description>
+            <link>https://cn.wsj.com/articles/deep-divides-and-missed-deals-cloud-trump-xi-visit-44a20117</link>
+            <guid isPermaLink="false">WP-WSJS-0003925820</guid>
+            <pubDate>Sat, 26 Sep 2026 00:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国的“熊猫外交”对美国渐失魔力]]></title>
+            <description><![CDATA[<img width="1024" height="720" src="https://images.wsj.net/im-16254541?size=1.422&width=1024" class="webfeedsFeaturedVisual" alt=""/><p>在鲜有明确成果的峰会期间，习近平宣布一对大熊猫将抵达亚特兰大动物园。这是“熊猫外交”的又一次重启，然而这种憨态可掬的动物早已不复昔日的分量。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinas-panda-diplomacy-is-losing-its-clout-with-the-u-s-4ed2c5c4</link>
+            <guid isPermaLink="false">WP-WSJS-0003925871</guid>
+            <pubDate>Sat, 26 Sep 2026 00:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[盘点出席“习特会”白宫晚宴的重磅宾客]]></title>
-            <description><![CDATA[<img width="1280" height="845" src="https://images.wsj.net/im-83440097?size=1.51&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亿万富豪商界领袖们和美国官员出席了白宫的隆重国宴。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="845" src="https://images.wsj.net/im-83440097?size=1.51&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亿万富豪商界领袖们和美国官员出席了白宫的隆重国宴。一览白宫提供的完整出席人员名单。</p>]]></description>
             <link>https://cn.wsj.com/articles/see-the-high-profile-guests-who-attended-the-trump-xi-dinner-ceb580dd</link>
             <guid isPermaLink="false">WP-WSJS-0003922838</guid>
             <pubDate>Fri, 25 Sep 2026 02:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普在白宫盛情接待习近平，但实质成果寥寥]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77934579?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管会晤充满友好仪式与外交礼节，特朗普政府并未取得重大政策让步，而习近平则借此展示了与美国领导人平起平坐的形象。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%99%BD%E5%AE%AB%E4%B9%8B%E4%BC%9A%E7%9B%9B%E5%A4%A7%E5%BC%80%E5%9C%BA-%E7%A4%BC%E4%BB%AA%E9%9A%86%E9%87%8D-a8b09a27</link>
-            <guid isPermaLink="false">WP-WSJS-0003922397</guid>
-            <pubDate>Fri, 25 Sep 2026 07:27:00 GMT</pubDate>
+            <title><![CDATA[勿轻信那些号称跑赢市场的债券基金]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52406006?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>本周，部分美国国债收益率升至近25年来的最高水平。主动型债券基金号称能跑赢基准，但驱动其收益的往往是隐性风险。</p>]]></description>
+            <link>https://cn.wsj.com/articles/dont-fall-for-bond-funds-that-say-theyre-beating-the-market-0a21fde7</link>
+            <guid isPermaLink="false">WP-WSJS-0003925950</guid>
+            <pubDate>Sat, 26 Sep 2026 02:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[债券交易员是否过于关注油价？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52674369?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>没那么显而易见的是，利率上升为何就意味着长期债券收益率也该上升。</p>]]></description>
-            <link>https://cn.wsj.com/articles/bond-traders-are-paying-too-much-attention-to-the-oil-price-8b286786</link>
-            <guid isPermaLink="false">WP-WSJS-0003922415</guid>
-            <pubDate>Fri, 25 Sep 2026 00:16:00 GMT</pubDate>
+            <title><![CDATA[AI是监管机构的噩梦]]></title>
+            <description><![CDATA[<img width="1280" height="1013" src="https://images.wsj.net/im-06200570?size=1.264&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从核电、喷气式飞机到药物和金融衍生品，几代人以来，我们一直在对高风险技术进行监管。但这些经验都无法让我们为应对AI做好准备。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai-is-a-regulators-nightmare-22f97730</link>
+            <guid isPermaLink="false">WP-WSJS-0003926093</guid>
+            <pubDate>Sat, 26 Sep 2026 04:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国政府付费投放挺特朗普、反共产主义广告]]></title>
-            <description><![CDATA[<img width="1280" height="924" src="https://images.wsj.net/im-72575596?size=1.385&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在广告结尾处，特朗普说：“美国永远不会成为共产主义国家。”这则广告在福斯新闻播出，标明由政府付费，此举可能违反联邦法律。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-government-airs-pro-trump-anti-communism-ad-062707b7</link>
-            <guid isPermaLink="false">WP-WSJS-0003922453</guid>
-            <pubDate>Fri, 25 Sep 2026 04:15:00 GMT</pubDate>
+            <title><![CDATA[加息和收益率飙升难挡美国经济强劲势头]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-26977146?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>人工智能驱动的增长似乎不受借贷成本上升的影响，这令美国国债投资者感到不安。</p>]]></description>
+            <link>https://cn.wsj.com/articles/us-economy-bond-market-d2202f67</link>
+            <guid isPermaLink="false">WP-WSJS-0003922996</guid>
+            <pubDate>Fri, 25 Sep 2026 03:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗国内关于是否制造核弹的讨论浮出水面]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-78246485?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗总统本周在联合国表示，伊朗既不会搁置核项目，也不会制造核武器。然而在国内，关于德黑兰是否应寻求拥有核武器的公开辩论正日益升温。</p>]]></description>
+            <link>https://cn.wsj.com/articles/in-iran-talk-of-whether-to-build-a-nuclear-bomb-bursts-into-the-open-64e915f1</link>
+            <guid isPermaLink="false">WP-WSJS-0003926008</guid>
+            <pubDate>Sat, 26 Sep 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美最高法院：特朗普政府官员可动用移民数据库核查选民身份]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-42259317?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>最高法院的一裁定为白宫和一些共和党执政的州扫清了障碍，该系统可能被用于清理选民名册，以及在票数出来后用于对选举结果提出质疑。</p>]]></description>
+            <link>https://cn.wsj.com/articles/supreme-court-says-trump-officials-can-use-immigration-database-for-voter-checks-56df7773</link>
+            <guid isPermaLink="false">WP-WSJS-0003926028</guid>
+            <pubDate>Sat, 26 Sep 2026 02:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国在存储芯片领域落后，关税恐令处境雪上加霜]]></title>
@@ -75,27 +96,6 @@
             <link>https://cn.wsj.com/articles/america-is-behind-on-memory-chipsand-tariffs-threaten-to-make-things-harder-8d87c9a8</link>
             <guid isPermaLink="false">WP-WSJS-0003922511</guid>
             <pubDate>Fri, 25 Sep 2026 00:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海湾国家为何希望特朗普对伊朗保持强硬路线？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57394267?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士称，沙特和阿联酋都在游说特朗普政府继续对伊朗施加经济压力，不要做出会导致制裁或美国海军封锁放松的让步。</p>]]></description>
-            <link>https://cn.wsj.com/articles/why-the-gulf-wants-trump-to-hold-the-line-on-iran-35980260</link>
-            <guid isPermaLink="false">WP-WSJS-0003922998</guid>
-            <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝佐斯已自掏腰包300亿美元为蓝色起源注资]]></title>
-            <description><![CDATA[<img width="1280" height="794" src="https://images.wsj.net/im-57237259?size=1.612&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>蓝色起源希望在未来几年迅速提升收入，押注其火箭将助其跻身行业巨头之列。</p>]]></description>
-            <link>https://cn.wsj.com/articles/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-9f2e560d</link>
-            <guid isPermaLink="false">WP-WSJS-0003922450</guid>
-            <pubDate>Fri, 25 Sep 2026 00:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[内塔尼亚胡重返联合国讲台，外交孤立达到顶峰]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-95092469?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>以色列总理发表此番讲话之际，正值其在国内面临胶着的选情，且与特朗普政府的关系日益疏远。</p>]]></description>
-            <link>https://cn.wsj.com/articles/netanyahu-returns-to-familiar-u-n-stage-more-isolated-than-ever-f61dcf55</link>
-            <guid isPermaLink="false">WP-WSJS-0003922618</guid>
-            <pubDate>Fri, 25 Sep 2026 01:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[伊朗对抗美国的秘密武器：来自中国的支持]]></title>
@@ -119,18 +119,25 @@
             <pubDate>Fri, 25 Sep 2026 02:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-90776662?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-694d714e</link>
-            <guid isPermaLink="false">WP-WSJS-0003918772</guid>
-            <pubDate>Thu, 24 Sep 2026 01:21:00 GMT</pubDate>
+            <title><![CDATA[五角大楼支持的石油公司将在委内瑞拉挑战雪佛龙]]></title>
+            <description><![CDATA[<img width="1280" height="753" src="https://images.wsj.net/im-32355495?size=1.7&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一家五角大楼支持的委内瑞拉石油公司正加紧扩产，这令美国最大几家石油公司高管颇为不满。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%94%AF%E6%8C%81%E7%9A%84%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%96%99%E5%B0%86%E5%9C%A8%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%8C%91%E6%88%98%E9%9B%AA%E4%BD%9B%E9%BE%99-dc693a9a</link>
+            <guid isPermaLink="false">WP-WSJS-0003925923</guid>
+            <pubDate>Sat, 26 Sep 2026 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI智能体在搜寻数据时试图入侵另外四家网站]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-46302981?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI的AI智能体在执行任务遇阻时试图黑入政府和大学网站；此类AI智能体失控事件正日益增多。</p>]]></description>
-            <link>https://cn.wsj.com/articles/openai%E6%99%BA%E8%83%BD%E4%BD%93%E5%9C%A8%E6%90%9C%E5%AF%BB%E6%95%B0%E6%8D%AE%E6%97%B6%E8%AF%95%E5%9B%BE%E5%85%A5%E4%BE%B5%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AE%B6%E7%BD%91%E7%AB%99-e6b0b23f</link>
-            <guid isPermaLink="false">WP-WSJS-0003922604</guid>
-            <pubDate>Fri, 25 Sep 2026 01:17:00 GMT</pubDate>
+            <title><![CDATA[贝佐斯已自掏腰包300亿美元为蓝色起源注资]]></title>
+            <description><![CDATA[<img width="1280" height="794" src="https://images.wsj.net/im-57237259?size=1.612&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>蓝色起源希望在未来几年迅速提升收入，押注其火箭将助其跻身行业巨头之列。</p>]]></description>
+            <link>https://cn.wsj.com/articles/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-9f2e560d</link>
+            <guid isPermaLink="false">WP-WSJS-0003922450</guid>
+            <pubDate>Fri, 25 Sep 2026 00:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[这波肽类药物热潮与增肌无关]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-10521294?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>真正的机会在口服肽类药物，这或将冲击大型药企最赚钱的产品线。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-peptide-boom-that-isnt-about-your-muscles-3b05fe5c</link>
+            <guid isPermaLink="false">WP-WSJS-0003926064</guid>
+            <pubDate>Sat, 26 Sep 2026 03:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[戴安娜胞弟新书出版，查尔斯至今难逃旧日阴影]]></title>
@@ -140,32 +147,11 @@
             <pubDate>Fri, 25 Sep 2026 02:42:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[50英里通行费500万美元：巴拿马运河为何成天价水道？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97341313?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗战争和极端天气扰乱航运后，使用这条水道的竞标价格飙升。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-the-panama-canal-became-a-50-mile-waterway-with-a-5-million-ticket-price-e5807b48</link>
-            <guid isPermaLink="false">WP-WSJS-0003918634</guid>
-            <pubDate>Thu, 24 Sep 2026 00:35:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AI攻克了最棘手的数学难题，为何却无法破解国际象棋？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-08089966?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>国际象棋引擎能击败特级大师，但它们在什么是万无一失的绝对策略上却无法达成共识。而且，AI非但没有毁掉这项运动，反而正在发掘新的下法。</p>]]></description>
             <link>https://cn.wsj.com/articles/chess-artificial-intelligence-ai-3956913f</link>
             <guid isPermaLink="false">WP-WSJS-0003918847</guid>
             <pubDate>Thu, 24 Sep 2026 01:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[被迪士尼解雇，包正博至今仍意难平]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-652450?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>包正博首次正式接受采访、谈及他执掌迪士尼的动荡33个月。他讲述了自己被解除CEO职务的经历，以及为何将责任归咎于艾格。</p>]]></description>
-            <link>https://cn.wsj.com/articles/bob-chapek-is-so-not-over-getting-fired-from-disney-46da97ce</link>
-            <guid isPermaLink="false">WP-WSJS-0003922791</guid>
-            <pubDate>Fri, 25 Sep 2026 02:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[餐厅利用AI生成美食广告，食客却直呼反胃]]></title>
-            <description><![CDATA[<img width="1280" height="1707" src="https://images.wsj.net/im-59910787?size=0.75&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>某些图像生成器在勾起食客食欲方面表现得极为糟糕，它们生成的鸡翅看起来简直像是“从反应堆堆芯里捞出来的”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%A4%90%E5%8E%85%E5%88%A9%E7%94%A8ai%E7%94%9F%E6%88%90%E7%BE%8E%E9%A3%9F%E5%B9%BF%E5%91%8A-%E9%A3%9F%E5%AE%A2%E5%8D%B4%E7%9B%B4%E5%91%BC%E5%8F%8D%E8%83%83-5989b08c</link>
-            <guid isPermaLink="false">WP-WSJS-0003922662</guid>
-            <pubDate>Fri, 25 Sep 2026 01:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国房贷利率触及7%，房地产市场将发生哪些变化]]></title>
@@ -175,25 +161,32 @@
             <pubDate>Fri, 25 Sep 2026 01:08:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[被迪士尼解雇，包正博至今仍意难平]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-652450?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>包正博首次正式接受采访、谈及他执掌迪士尼的动荡33个月。他讲述了自己被解除CEO职务的经历，以及为何将责任归咎于艾格。</p>]]></description>
+            <link>https://cn.wsj.com/articles/bob-chapek-is-so-not-over-getting-fired-from-disney-46da97ce</link>
+            <guid isPermaLink="false">WP-WSJS-0003922791</guid>
+            <pubDate>Fri, 25 Sep 2026 02:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[扎克伯格展示新愿景：将Muse AI智能体与智能眼镜深度融合]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-90776662?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>扎克伯格发布一款新型手持人工智能设备及科技产品，称其可以拉近消费者与“个人超级智能”的距离。</p>]]></description>
+            <link>https://cn.wsj.com/articles/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-694d714e</link>
+            <guid isPermaLink="false">WP-WSJS-0003918772</guid>
+            <pubDate>Thu, 24 Sep 2026 01:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[餐厅利用AI生成美食广告，食客却直呼反胃]]></title>
+            <description><![CDATA[<img width="1280" height="1707" src="https://images.wsj.net/im-59910787?size=0.75&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>某些图像生成器在勾起食客食欲方面表现得极为糟糕，它们生成的鸡翅看起来简直像是“从反应堆堆芯里捞出来的”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%A4%90%E5%8E%85%E5%88%A9%E7%94%A8ai%E7%94%9F%E6%88%90%E7%BE%8E%E9%A3%9F%E5%B9%BF%E5%91%8A-%E9%A3%9F%E5%AE%A2%E5%8D%B4%E7%9B%B4%E5%91%BC%E5%8F%8D%E8%83%83-5989b08c</link>
+            <guid isPermaLink="false">WP-WSJS-0003922662</guid>
+            <pubDate>Fri, 25 Sep 2026 01:40:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[油气行业的游说闪电战：阻击美国柴油出口禁令的幕后行动]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34194953?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>当油气行业听到特朗普支持禁止柴油出口的想法后，该行业拿出了“重型武器”全力反击。高管与政府不同成员有各自的关系渠道，他们把不满传达了出去。</p>]]></description>
             <link>https://cn.wsj.com/articles/behind-the-oil-and-gas-industrys-blitz-to-try-to-defeat-a-diesel-export-ban-d55c12dc</link>
             <guid isPermaLink="false">WP-WSJS-0003918918</guid>
             <pubDate>Thu, 24 Sep 2026 02:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉利推出AI快充技术，称充电至七成仅需不到五分钟]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-95381229?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在全球最大的电动汽车市场，中国车企正日益将充电速度作为争夺买家的竞争焦点。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-geely-unveils-ev-charging-under-five-minutes-2e3a9d03</link>
-            <guid isPermaLink="false">WP-WSJS-0003918453</guid>
-            <pubDate>Wed, 23 Sep 2026 23:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克将关闭250家业绩不佳的北美门店]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-35431761?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一年内的第二轮关店是这家咖啡巨头旨在提振业务的更广泛计划的一部分。</p>]]></description>
-            <link>https://cn.wsj.com/articles/starbucks-targets-hundreds-of-cafes-in-new-round-of-closures-45b9fb8d</link>
-            <guid isPermaLink="false">WP-WSJS-0003922576</guid>
-            <pubDate>Fri, 25 Sep 2026 01:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[红毯礼遇的背后：习近平访美之前的中美博弈]]></title>
