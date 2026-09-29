@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:16:19.994757+00:00",
+  "generated_at": "2026-09-29T12:32:40.008453+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-33138169?size=1.501&width=1280",
       "snapshot": "articles/openaiscraps-release-of-new-ai-model-over-safety-7f42b1a03e89.html",
       "captured": true,
-      "capture_title": "OpenAI因安全顾虑取消新AI模型发布 - WSJ",
+      "capture_title": "OpenAI因安全顾虑取消新AI模型发布",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-26956664?size=1.778&width=1280",
       "snapshot": "articles/middle-east-oil-exports-rebound-as-irans-chokeho-97ab2ed7fde2.html",
       "captured": true,
-      "capture_title": "伊朗对霍尔木兹海峡的封锁瓦解，中东石油出口反弹 - WSJ",
+      "capture_title": "伊朗对霍尔木兹海峡的封锁瓦解，中东石油出口反弹",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-84879890?size=1.333&width=1280",
       "snapshot": "articles/asecretive-north-korean-pow-handover-becomes-pub-c9d8b2585f22.html",
       "captured": true,
-      "capture_title": "朝鲜战俘秘密移交韩国事件曝光，引发争议 - WSJ",
+      "capture_title": "朝鲜战俘秘密移交韩国事件曝光，引发争议",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-20607168?size=1.501&width=1280",
       "snapshot": "articles/e8-bf-99-e4-b8-aa-e8-8b-b1-e5-9b-bd-e5-b0-8f-e9--de0d02746f76.html",
       "captured": true,
-      "capture_title": "这个英国小镇因美军基地附近疑现恐袭阴谋而陷入不安 - WSJ",
+      "capture_title": "这个英国小镇因美军基地附近疑现恐袭阴谋而陷入不安",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-49016503?size=1.501&width=1280",
       "snapshot": "articles/cornell-sexual-assault-chi-phi-fraternity-invest-9abb31253c2b.html",
       "captured": true,
-      "capture_title": "纽约检方重启对康奈尔大学兄弟会强奸案的调查 - WSJ",
+      "capture_title": "纽约检方重启对康奈尔大学兄弟会强奸案的调查",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-79302549?size=1.501&width=1280",
       "snapshot": "articles/ecuador-drug-war-fishing-155d37cf-07b11f9bfe0b.html",
       "captured": true,
-      "capture_title": "在世界金枪鱼之都，渔民正被卷入致命毒品战 - WSJ",
+      "capture_title": "在世界金枪鱼之都，渔民正被卷入致命毒品战",
       "error": ""
     },
     {
@@ -137,18 +137,6 @@
       "error": ""
     },
     {
-      "title": "耐克中国区新帅力求逆风翻盘",
-      "summary": "中国曾是耐克表现最好的市场，如今却成为其业绩下滑的一个主要原因。今年接掌中国业务的耐克老将斯帕克斯面临着一项艰巨任务。",
-      "link": "https://cn.wsj.com/articles/the-nike-lifer-driving-a-high-stakes-turnaround-in-china-7097f439",
-      "guid": "WP-WSJS-0003931362",
-      "pub_date": "Tue, 29 Sep 2026 01:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-61123577?size=1.499&width=1280",
-      "snapshot": "articles/the-nike-lifer-driving-a-high-stakes-turnaround--0a676b211f9c.html",
-      "captured": true,
-      "capture_title": "耐克中国区新帅力求逆风翻盘 - WSJ",
-      "error": ""
-    },
-    {
       "title": "我试用了Meta的Muse AI智能体：好用，也让人脊背发凉",
       "summary": "你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。",
       "link": "https://cn.wsj.com/articles/%E6%88%91%E8%AF%95%E7%94%A8%E4%BA%86meta%E7%9A%84muse-ai%E6%99%BA%E8%83%BD%E4%BD%93-%E5%A5%BD%E7%94%A8-%E4%B9%9F%E8%AE%A9%E4%BA%BA%E8%84%8A%E8%83%8C%E5%8F%91%E5%87%89-cb238a38",
@@ -157,7 +145,19 @@
       "image_url": "https://images.wsj.net/im-55530462?size=1.0007818608287724&width=1280",
       "snapshot": "articles/e6-88-91-e8-af-95-e7-94-a8-e4-ba-86meta-e7-9a-84-e465896d23e7.html",
       "captured": true,
-      "capture_title": "我试用了Meta的Muse AI智能体：好用，也让人脊背发凉 - WSJ",
+      "capture_title": "我试用了Meta的Muse AI智能体：好用，也让人脊背发凉",
+      "error": ""
+    },
+    {
+      "title": "耐克中国区新帅力求逆风翻盘",
+      "summary": "中国曾是耐克表现最好的市场，如今却成为其业绩下滑的一个主要原因。今年接掌中国业务的耐克老将斯帕克斯面临着一项艰巨任务。",
+      "link": "https://cn.wsj.com/articles/the-nike-lifer-driving-a-high-stakes-turnaround-in-china-7097f439",
+      "guid": "WP-WSJS-0003931362",
+      "pub_date": "Tue, 29 Sep 2026 01:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-61123577?size=1.499&width=1280",
+      "snapshot": "articles/the-nike-lifer-driving-a-high-stakes-turnaround--0a676b211f9c.html",
+      "captured": true,
+      "capture_title": "耐克中国区新帅力求逆风翻盘",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-09598547?size=1.5&width=1280",
       "snapshot": "articles/e7-be-8e-e5-80-ba-e6-94-b6-e7-9b-8a-e7-8e-87-e9--c7bed545d4d8.html",
       "captured": true,
-      "capture_title": "美债收益率飙升但股市坚挺。历史经验揭示后续走向 - WSJ",
+      "capture_title": "美债收益率飙升但股市坚挺。历史经验揭示后续走向",
       "error": ""
     },
     {
@@ -185,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局",
+      "summary": "托盘开裂、成本高昂以及骰子难题，让一家公司在美国生产这一经典游戏版本的使命举步维艰。",
+      "link": "https://cn.wsj.com/articles/%E6%88%90%E6%9C%AC%E7%BF%BB%E5%80%8D-%E9%AA%B0%E5%AD%90%E4%BB%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%A7-%E7%BE%8E%E5%9B%BD%E7%89%88-%E5%A4%A7%E5%AF%8C%E7%BF%81-%E7%9A%84%E5%88%B6%E9%80%A0%E5%9B%B0%E5%B1%80-c5ba5e9c",
+      "guid": "WP-WSJS-0003931751",
+      "pub_date": "Tue, 29 Sep 2026 07:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-79577646?size=1.501&width=1280",
+      "snapshot": "articles/e6-88-90-e6-9c-ac-e7-bf-bb-e5-80-8d--e9-aa-b0-e5-3d0ab83f8d5e.html",
+      "captured": true,
+      "capture_title": "成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局 - WSJ",
+      "error": ""
+    },
+    {
       "title": "一探拉里·埃里森为家教等员工买下八套房产的封闭式社区",
       "summary": "这位掌控着甲骨文公司的亿万富豪花费近1,000万美元购置住房，供子女家教等工作人员使用；这些房子距离他在佛罗里达州的庄园约30分钟车程。",
       "link": "https://cn.wsj.com/articles/larry-ellison-oracle-gated-community-be205861",
@@ -193,31 +205,19 @@
       "image_url": "https://images.wsj.net/im-35804839?size=1.19&width=1280",
       "snapshot": "articles/larry-ellison-oracle-gated-community-be205861-f1d165327869.html",
       "captured": true,
-      "capture_title": "一探拉里·埃里森为家教等员工买下八套房产的封闭式社区 - WSJ",
+      "capture_title": "一探拉里·埃里森为家教等员工买下八套房产的封闭式社区",
       "error": ""
     },
     {
-      "title": "健身房猛男去上普拉提——练完抖成吉娃娃",
-      "summary": "普拉提等低冲击运动十分考验体能，即使是习惯卧推和波比跳的常年健身的男士也未必能轻松应对。我尝试了一下，真的不简单。",
-      "link": "https://cn.wsj.com/articles/gym-bros-pilates-solidcore-classes-b3b0e5d5-e39c2f3e",
-      "guid": "WP-WSJS-0003928015",
-      "pub_date": "Mon, 28 Sep 2026 07:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-79695376?size=1.501&width=1280",
-      "snapshot": "articles/gym-bros-pilates-solidcore-classes-b3b0e5d5-e39c-e3d79af0ac3e.html",
+      "title": "售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”",
+      "summary": "徕卡的复古设计挺过了多次危机，但它的成功模式未必适用于所有企业。",
+      "link": "https://cn.wsj.com/articles/%E5%94%AE%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E5%BE%95%E5%8D%A1-%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84-%E7%A8%80%E6%9C%89%E8%B5%A2%E5%AE%B6-63431180",
+      "guid": "WP-WSJS-0003927881",
+      "pub_date": "Mon, 28 Sep 2026 04:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-12973008?size=1.5&width=1280",
+      "snapshot": "articles/e5-94-ae-e4-bb-b7-e4-b8-8a-e4-b8-87-e7-be-8e-e5--d9004f3d78ca.html",
       "captured": true,
-      "capture_title": "健身房猛男去上普拉提——练完抖成吉娃娃 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中国的“熊猫外交”对美国渐失魔力",
-      "summary": "在明确成果鲜少的峰会期间，习近平宣布一对大熊猫将抵达亚特兰大动物园。这是“熊猫外交”的又一次重启，然而这种憨态可掬的动物早已不复昔日的分量。",
-      "link": "https://cn.wsj.com/articles/chinas-panda-diplomacy-is-losing-its-clout-with-the-u-s-4ed2c5c4",
-      "guid": "WP-WSJS-0003925871",
-      "pub_date": "Sat, 26 Sep 2026 00:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-16254541?size=1.422&width=1024",
-      "snapshot": "articles/chinas-panda-diplomacy-is-losing-its-clout-with--6bfdf352680a.html",
-      "captured": true,
-      "capture_title": "中国的“熊猫外交”对美国渐失魔力",
+      "capture_title": "售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-32674163?size=1.501&width=1280",
       "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e8-bf-bd-e5-8a-a0-e5--32d2027a908f.html",
       "captured": true,
-      "capture_title": "英伟达追加创纪录的1,500亿美元股票回购授权 - WSJ",
+      "capture_title": "英伟达追加创纪录的1,500亿美元股票回购授权",
       "error": ""
     },
     {
@@ -241,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-28047091?size=1.084&width=1280",
       "snapshot": "articles/e5-b0-8f-e8-82-af-e5-b0-bc-e8-bf-aa-e9-87-8d-e5--25de489752b3.html",
       "captured": true,
-      "capture_title": "小肯尼迪重塑美国食品体系的努力在白宫遇阻 - WSJ",
+      "capture_title": "小肯尼迪重塑美国食品体系的努力在白宫遇阻",
       "error": ""
     },
     {
@@ -253,7 +253,7 @@
       "image_url": "https://images.wsj.net/im-30810617?size=1.499&width=1280",
       "snapshot": "articles/goldmans-board-has-discussed-a-plan-to-name-john-ccba0cd1acfa.html",
       "captured": true,
-      "capture_title": "高盛董事会已讨论任命温泽恩为下一任CEO的计划 - WSJ",
+      "capture_title": "高盛董事会已讨论任命温泽恩为下一任CEO的计划",
       "error": ""
     },
     {
@@ -265,7 +265,7 @@
       "image_url": "https://images.wsj.net/im-09505593?size=1.499&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-8e-8b-e5-8a-9b-e6-ad-a3-e5--e678ff16268e.html",
       "captured": true,
-      "capture_title": "美国压力正在唤醒加拿大能源巨人 - WSJ",
+      "capture_title": "美国压力正在唤醒加拿大能源巨人",
       "error": ""
     },
     {
@@ -277,7 +277,19 @@
       "image_url": "https://images.wsj.net/im-66188624?size=1.501&width=1280",
       "snapshot": "articles/sheinreports-lower-profit-slow-revenue-growth-in-e25563c99e9e.html",
       "captured": true,
-      "capture_title": "Shein第二季度利润下降，营收增长放缓 - WSJ",
+      "capture_title": "Shein第二季度利润下降，营收增长放缓",
+      "error": ""
+    },
+    {
+      "title": "健身房猛男去上普拉提——练完抖成吉娃娃",
+      "summary": "普拉提等低冲击运动十分考验体能，即使是习惯卧推和波比跳的常年健身的男士也未必能轻松应对。我尝试了一下，真的不简单。",
+      "link": "https://cn.wsj.com/articles/gym-bros-pilates-solidcore-classes-b3b0e5d5-e39c2f3e",
+      "guid": "WP-WSJS-0003928015",
+      "pub_date": "Mon, 28 Sep 2026 07:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-79695376?size=1.501&width=1280",
+      "snapshot": "articles/gym-bros-pilates-solidcore-classes-b3b0e5d5-e39c-e3d79af0ac3e.html",
+      "captured": true,
+      "capture_title": "健身房猛男去上普拉提——练完抖成吉娃娃",
       "error": ""
     },
     {
@@ -290,6 +302,18 @@
       "snapshot": "articles/how-to-know-when-the-ai-boom-is-about-to-go-bust-6e5ba3c8a049.html",
       "captured": true,
       "capture_title": "如何判断AI热潮何时走向破灭",
+      "error": ""
+    },
+    {
+      "title": "中国的“熊猫外交”对美国渐失魔力",
+      "summary": "在明确成果鲜少的峰会期间，习近平宣布一对大熊猫将抵达亚特兰大动物园。这是“熊猫外交”的又一次重启，然而这种憨态可掬的动物早已不复昔日的分量。",
+      "link": "https://cn.wsj.com/articles/chinas-panda-diplomacy-is-losing-its-clout-with-the-u-s-4ed2c5c4",
+      "guid": "WP-WSJS-0003925871",
+      "pub_date": "Sat, 26 Sep 2026 00:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-16254541?size=1.422&width=1024",
+      "snapshot": "articles/chinas-panda-diplomacy-is-losing-its-clout-with--6bfdf352680a.html",
+      "captured": true,
+      "capture_title": "中国的“熊猫外交”对美国渐失魔力",
       "error": ""
     },
     {
@@ -446,18 +470,6 @@
       "snapshot": "articles/every-household-in-this-rural-town-receives-10-0-7aacf469e34a.html",
       "captured": true,
       "capture_title": "建数据中心给每户派发1万美元，宾州小镇居民为何依然抵制？",
-      "error": ""
-    },
-    {
-      "title": "售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”",
-      "summary": "徕卡的复古设计挺过了多次危机，但它的成功模式未必适用于所有企业。",
-      "link": "https://cn.wsj.com/articles/%E5%94%AE%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E5%BE%95%E5%8D%A1-%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84-%E7%A8%80%E6%9C%89%E8%B5%A2%E5%AE%B6-63431180",
-      "guid": "WP-WSJS-0003927881",
-      "pub_date": "Mon, 28 Sep 2026 04:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-12973008?size=1.5&width=1280",
-      "snapshot": "articles/e5-94-ae-e4-bb-b7-e4-b8-8a-e4-b8-87-e7-be-8e-e5--d9004f3d78ca.html",
-      "captured": true,
-      "capture_title": "售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/openai-agent-hacked-australian-government-websit-b84ebf56e677.html",
       "captured": true,
       "capture_title": "OpenAI智能体入侵澳大利亚政府网站 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "失业文案师化身网络“打假侠”，逐一清理平台虚假招聘",
-      "summary": "他自称“侧写师”，并以铲除长期困扰各地求职者的行业毒瘤为使命。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%B1%E4%B8%9A%E6%96%87%E6%A1%88%E5%B8%88%E5%8C%96%E8%BA%AB%E7%BD%91%E7%BB%9C-%E6%89%93%E5%81%87%E4%BE%A0-%E9%80%90%E4%B8%80%E6%B8%85%E7%90%86%E5%B9%B3%E5%8F%B0%E8%99%9A%E5%81%87%E6%8B%9B%E8%81%98-72065030",
-      "guid": "WP-WSJS-0003915529",
-      "pub_date": "Wed, 23 Sep 2026 03:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-42318599?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e5-a4-b1-e4-b8-9a-e6-96-87-e6-a1-88-e5-b8-88-e5--2fe3773bb7d9.html",
-      "captured": true,
-      "capture_title": "失业文案师化身网络“打假侠”，逐一清理平台虚假招聘",
       "error": ""
     }
   ]

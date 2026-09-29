@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 05:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 12:27:13 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 05:03:07 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 12:27:13 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -105,18 +105,18 @@
             <pubDate>Mon, 28 Sep 2026 05:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[耐克中国区新帅力求逆风翻盘]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-61123577?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国曾是耐克表现最好的市场，如今却成为其业绩下滑的一个主要原因。今年接掌中国业务的耐克老将斯帕克斯面临着一项艰巨任务。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-nike-lifer-driving-a-high-stakes-turnaround-in-china-7097f439</link>
-            <guid isPermaLink="false">WP-WSJS-0003931362</guid>
-            <pubDate>Tue, 29 Sep 2026 01:21:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]]></title>
             <description><![CDATA[<img width="1280" height="1279" src="https://images.wsj.net/im-55530462?size=1.0007818608287724&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>你提供的数据越多，这位才华横溢的私人助理就能为你做更多的事情。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%88%91%E8%AF%95%E7%94%A8%E4%BA%86meta%E7%9A%84muse-ai%E6%99%BA%E8%83%BD%E4%BD%93-%E5%A5%BD%E7%94%A8-%E4%B9%9F%E8%AE%A9%E4%BA%BA%E8%84%8A%E8%83%8C%E5%8F%91%E5%87%89-cb238a38</link>
             <guid isPermaLink="false">WP-WSJS-0003931504</guid>
             <pubDate>Tue, 29 Sep 2026 02:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[耐克中国区新帅力求逆风翻盘]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-61123577?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国曾是耐克表现最好的市场，如今却成为其业绩下滑的一个主要原因。今年接掌中国业务的耐克老将斯帕克斯面临着一项艰巨任务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-nike-lifer-driving-a-high-stakes-turnaround-in-china-7097f439</link>
+            <guid isPermaLink="false">WP-WSJS-0003931362</guid>
+            <pubDate>Tue, 29 Sep 2026 01:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美债收益率飙升但股市坚挺。历史经验揭示后续走向]]></title>
@@ -133,6 +133,13 @@
             <pubDate>Fri, 25 Sep 2026 12:29:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79577646?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>托盘开裂、成本高昂以及骰子难题，让一家公司在美国生产这一经典游戏版本的使命举步维艰。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%88%90%E6%9C%AC%E7%BF%BB%E5%80%8D-%E9%AA%B0%E5%AD%90%E4%BB%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%A7-%E7%BE%8E%E5%9B%BD%E7%89%88-%E5%A4%A7%E5%AF%8C%E7%BF%81-%E7%9A%84%E5%88%B6%E9%80%A0%E5%9B%B0%E5%B1%80-c5ba5e9c</link>
+            <guid isPermaLink="false">WP-WSJS-0003931751</guid>
+            <pubDate>Tue, 29 Sep 2026 07:19:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[一探拉里·埃里森为家教等员工买下八套房产的封闭式社区]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-35804839?size=1.19&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位掌控着甲骨文公司的亿万富豪花费近1,000万美元购置住房，供子女家教等工作人员使用；这些房子距离他在佛罗里达州的庄园约30分钟车程。</p>]]></description>
             <link>https://cn.wsj.com/articles/larry-ellison-oracle-gated-community-be205861</link>
@@ -140,18 +147,11 @@
             <pubDate>Tue, 29 Sep 2026 02:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[健身房猛男去上普拉提——练完抖成吉娃娃]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79695376?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>普拉提等低冲击运动十分考验体能，即使是习惯卧推和波比跳的常年健身的男士也未必能轻松应对。我尝试了一下，真的不简单。</p>]]></description>
-            <link>https://cn.wsj.com/articles/gym-bros-pilates-solidcore-classes-b3b0e5d5-e39c2f3e</link>
-            <guid isPermaLink="false">WP-WSJS-0003928015</guid>
-            <pubDate>Mon, 28 Sep 2026 07:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国的“熊猫外交”对美国渐失魔力]]></title>
-            <description><![CDATA[<img width="1024" height="720" src="https://images.wsj.net/im-16254541?size=1.422&width=1024" class="webfeedsFeaturedVisual" alt=""/><p>在明确成果鲜少的峰会期间，习近平宣布一对大熊猫将抵达亚特兰大动物园。这是“熊猫外交”的又一次重启，然而这种憨态可掬的动物早已不复昔日的分量。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinas-panda-diplomacy-is-losing-its-clout-with-the-u-s-4ed2c5c4</link>
-            <guid isPermaLink="false">WP-WSJS-0003925871</guid>
-            <pubDate>Sat, 26 Sep 2026 00:58:00 GMT</pubDate>
+            <title><![CDATA[售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]]></title>
+            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-12973008?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>徕卡的复古设计挺过了多次危机，但它的成功模式未必适用于所有企业。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%94%AE%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E5%BE%95%E5%8D%A1-%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84-%E7%A8%80%E6%9C%89%E8%B5%A2%E5%AE%B6-63431180</link>
+            <guid isPermaLink="false">WP-WSJS-0003927881</guid>
+            <pubDate>Mon, 28 Sep 2026 04:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[英伟达追加创纪录的1,500亿美元股票回购授权]]></title>
@@ -189,11 +189,25 @@
             <pubDate>Tue, 29 Sep 2026 03:14:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[健身房猛男去上普拉提——练完抖成吉娃娃]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79695376?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>普拉提等低冲击运动十分考验体能，即使是习惯卧推和波比跳的常年健身的男士也未必能轻松应对。我尝试了一下，真的不简单。</p>]]></description>
+            <link>https://cn.wsj.com/articles/gym-bros-pilates-solidcore-classes-b3b0e5d5-e39c2f3e</link>
+            <guid isPermaLink="false">WP-WSJS-0003928015</guid>
+            <pubDate>Mon, 28 Sep 2026 07:11:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[如何判断AI热潮何时走向破灭]]></title>
             <description><![CDATA[<img width="1280" height="849" src="https://images.wsj.net/im-71017719?size=1.508&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>历史表明，一旦筹集新资本的窗口关闭，热潮就可能开始走向破灭。</p>]]></description>
             <link>https://cn.wsj.com/articles/how-to-know-when-the-ai-boom-is-about-to-go-bust-821f9fcb</link>
             <guid isPermaLink="false">WP-WSJS-0003927560</guid>
             <pubDate>Mon, 28 Sep 2026 00:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国的“熊猫外交”对美国渐失魔力]]></title>
+            <description><![CDATA[<img width="1024" height="720" src="https://images.wsj.net/im-16254541?size=1.422&width=1024" class="webfeedsFeaturedVisual" alt=""/><p>在明确成果鲜少的峰会期间，习近平宣布一对大熊猫将抵达亚特兰大动物园。这是“熊猫外交”的又一次重启，然而这种憨态可掬的动物早已不复昔日的分量。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinas-panda-diplomacy-is-losing-its-clout-with-the-u-s-4ed2c5c4</link>
+            <guid isPermaLink="false">WP-WSJS-0003925871</guid>
+            <pubDate>Sat, 26 Sep 2026 00:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[盘点出席“习特会”白宫晚宴的重磅宾客]]></title>
@@ -210,20 +224,6 @@
             <pubDate>Mon, 28 Sep 2026 07:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[图解特朗普政策如何适得其反并推高通胀与利率]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-27397292?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>总统顾问曾表示，财政紧缩和放松监管将压低物价与借贷成本。但接踵而至的，却是关税、战争与投资热潮。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E7%AD%96%E5%A6%82%E4%BD%95%E9%81%AD%E9%81%87%E5%8F%8D%E5%99%AC%E5%B9%B6%E6%8E%A8%E9%AB%98%E9%80%9A%E8%83%80%E4%B8%8E%E5%88%A9%E7%8E%87-aa58f1bf</link>
-            <guid isPermaLink="false">WP-WSJS-0003927901</guid>
-            <pubDate>Mon, 28 Sep 2026 05:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特最新“月度最佳员工”：一只名叫“查罗”的鹰]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-81884514?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为了保护每年30万辆卡车免受鸽子侵扰，这家汽车制造商采用了一种古老的方法：放鹰驱鸟。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%A6%8F%E7%89%B9%E6%9C%80%E6%96%B0-%E6%9C%88%E5%BA%A6%E6%9C%80%E4%BD%B3%E5%91%98%E5%B7%A5-%E4%B8%80%E5%8F%AA%E5%90%8D%E5%8F%AB-%E6%9F%A5%E7%BD%97-%E7%9A%84%E9%B9%B0-1e3db431</link>
-            <guid isPermaLink="false">WP-WSJS-0003927667</guid>
-            <pubDate>Mon, 28 Sep 2026 02:07:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[职场“苦活累活”被AI包揽了，为什么我们反而怀念它？]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-69351234?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在公司重组和AI应用推进之下，许多过去由初级员工承担的重复性任务已经被自动化取代。这让他们摆脱了不少苦活累活，但也让他们失去了一条长期以来用于积累经验本领的路径。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%81%8C%E5%9C%BA-%E8%8B%A6%E6%B4%BB%E7%B4%AF%E6%B4%BB-%E8%A2%ABai%E5%8C%85%E6%8F%BD%E4%BA%86-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E5%8F%8D%E8%80%8C%E6%80%80%E5%BF%B5%E5%AE%83-00a5a8b0</link>
@@ -231,11 +231,11 @@
             <pubDate>Mon, 28 Sep 2026 03:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-12973008?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>徕卡的复古设计挺过了多次危机，但它的成功模式未必适用于所有企业。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%94%AE%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E5%BE%95%E5%8D%A1-%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84-%E7%A8%80%E6%9C%89%E8%B5%A2%E5%AE%B6-63431180</link>
-            <guid isPermaLink="false">WP-WSJS-0003927881</guid>
-            <pubDate>Mon, 28 Sep 2026 04:44:00 GMT</pubDate>
+            <title><![CDATA[普京真的认为我是间谍吗？]]></title>
+            <description><![CDATA[<img width="1280" height="1557" src="https://images.wsj.net/im-86340054?size=0.84&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》记者埃文·格什科维奇在其新书《这片受诅咒的美丽土地》的独家摘录中，梳理他在俄罗斯报道期间被捕背后的真相。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%99%AE%E4%BA%AC%E7%9C%9F%E7%9A%84%E8%AE%A4%E4%B8%BA%E6%88%91%E6%98%AF%E9%97%B4%E8%B0%8D%E5%90%97-97a55c22</link>
+            <guid isPermaLink="false">WP-WSJS-0003931939</guid>
+            <pubDate>Tue, 29 Sep 2026 09:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[浮潜之旅、10万美元裙装：普拉达瞄准超级富豪]]></title>
