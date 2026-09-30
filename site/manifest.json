@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:53:29.939299+00:00",
+  "generated_at": "2026-09-30T22:02:22.757375+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-42173450?size=1.501&width=1280",
       "snapshot": "articles/china-has-the-power-to-bail-out-the-diesel-marke-398337ffd921.html",
       "captured": true,
-      "capture_title": "中国拥有拯救柴油市场的力量，但会出手吗？ - WSJ",
+      "capture_title": "中国拥有拯救柴油市场的力量，但会出手吗？",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-96617920?size=1.501&width=1280",
       "snapshot": "articles/flight-to-israel-makes-emergency-landing-in-saud-8d6a25e64e33.html",
       "captured": true,
-      "capture_title": "飞往以色列的航班在沙特阿拉伯紧急降落，驾驶舱内疑似发生搏斗 - WSJ",
+      "capture_title": "飞往以色列的航班在沙特阿拉伯紧急降落，驾驶舱内疑似发生搏斗",
       "error": ""
     },
     {
