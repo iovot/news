@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 09:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 17:49:32 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 09:29:08 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 17:49:32 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,18 +42,18 @@
             <pubDate>Wed, 30 Sep 2026 04:49:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国民众想要打破传统政治标签的民粹主义政策]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-06511085?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》的一项新调查显示，限制处方药价格和加强边境安全获得了广泛支持。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E6%83%B3%E8%A6%81%E6%89%93%E7%A0%B4%E4%BC%A0%E7%BB%9F%E6%94%BF%E6%B2%BB%E6%A0%87%E7%AD%BE%E7%9A%84%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89%E6%94%BF%E7%AD%96-7da1bdcc</link>
-            <guid isPermaLink="false">WP-WSJS-0003935071</guid>
-            <pubDate>Wed, 30 Sep 2026 02:34:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[华尔街对秋季IPO热潮的期待降温]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67559618?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>智能戒指制造商Oura周二推迟IPO，此前Anthropic等多家公司也已调整上市时间表。</p>]]></description>
             <link>https://cn.wsj.com/articles/wall-streets-hopes-for-a-blockbuster-ipo-season-are-starting-to-fade-713c8ba7</link>
             <guid isPermaLink="false">WP-WSJS-0003935379</guid>
             <pubDate>Wed, 30 Sep 2026 07:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民众想要打破传统政治标签的民粹主义政策]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-06511085?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》的一项新调查显示，限制处方药价格和加强边境安全获得了广泛支持。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E6%83%B3%E8%A6%81%E6%89%93%E7%A0%B4%E4%BC%A0%E7%BB%9F%E6%94%BF%E6%B2%BB%E6%A0%87%E7%AD%BE%E7%9A%84%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89%E6%94%BF%E7%AD%96-7da1bdcc</link>
+            <guid isPermaLink="false">WP-WSJS-0003935071</guid>
+            <pubDate>Wed, 30 Sep 2026 02:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[业界发出警告后，特朗普为温和AI监管策略辩护]]></title>
@@ -98,6 +98,13 @@
             <pubDate>Wed, 30 Sep 2026 03:05:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国拥有拯救柴油市场的力量，但会出手吗？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-42173450?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>理论上，和原油一样，中国也有能力给高企的柴油价格降温，但眼下中国炼油厂的产能利用率仅达75%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-79cb7953</link>
+            <guid isPermaLink="false">WP-WSJS-0003935696</guid>
+            <pubDate>Wed, 30 Sep 2026 11:46:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发]]></title>
             <description><![CDATA[<img width="1280" height="885" src="https://images.wsj.net/im-46037368?size=1.446&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>爆炸造成三名韩国士兵受伤；韩国军方警告称，如果调查最终认定朝鲜是可能的罪魁祸首，将采取“适当且相应的”措施。</p>]]></description>
             <link>https://cn.wsj.com/articles/north-korea-land-mines-highly-likely-behind-dmz-explosion-seoul-says-9bfb82b9</link>
@@ -105,11 +112,11 @@
             <pubDate>Wed, 30 Sep 2026 00:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[五角大楼正如何升级特朗普在拉美的“禁毒战”]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-47136755?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国南方司令部司令透露了在丛林中使用高科技无人机的独家新细节，并表示在美国协助下对贩毒集团进行地面打击是选项之一。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%AD%A3%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%8B%89%E7%BE%8E%E7%9A%84-%E7%A6%81%E6%AF%92%E6%88%98-4f97df4e</link>
-            <guid isPermaLink="false">WP-WSJS-0003935051</guid>
-            <pubDate>Wed, 30 Sep 2026 01:35:00 GMT</pubDate>
+            <title><![CDATA[飞往以色列的航班在沙特阿拉伯紧急降落，驾驶舱内疑似发生搏斗]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96617920?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>FlyDubai一架从阿联酋飞往以色列的航班周三在沙特阿拉伯紧急降落。此前驾驶舱内疑似发生搏斗，导致飞机急剧俯冲，两名飞行员受伤。</p>]]></description>
+            <link>https://cn.wsj.com/articles/flight-to-israel-makes-emergency-landing-in-saudi-arabia-08c60350</link>
+            <guid isPermaLink="false">WP-WSJS-0003935529</guid>
+            <pubDate>Wed, 30 Sep 2026 09:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[我试用了Meta的Muse AI智能体：好用，也让人脊背发凉]]></title>
@@ -117,13 +124,6 @@
             <link>https://cn.wsj.com/articles/%E6%88%91%E8%AF%95%E7%94%A8%E4%BA%86meta%E7%9A%84muse-ai%E6%99%BA%E8%83%BD%E4%BD%93-%E5%A5%BD%E7%94%A8-%E4%B9%9F%E8%AE%A9%E4%BA%BA%E8%84%8A%E8%83%8C%E5%8F%91%E5%87%89-cb238a38</link>
             <guid isPermaLink="false">WP-WSJS-0003931504</guid>
             <pubDate>Tue, 29 Sep 2026 02:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67198736?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Robinhood的应用程序曾让在智能手机上交易股票变得简单。如今，Robinhood预见AI智能体将走进散户的未来。</p>]]></description>
-            <link>https://cn.wsj.com/articles/robinhood%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%8A%BC%E6%B3%A8-%E8%83%BD%E5%9C%A8%E4%BD%A0%E7%86%9F%E7%9D%A1%E6%97%B6%E8%BF%9B%E8%A1%8C%E4%BA%A4%E6%98%93%E7%9A%84ai%E6%9C%BA%E5%99%A8%E4%BA%BA-d45dac53</link>
-            <guid isPermaLink="false">WP-WSJS-0003934982</guid>
-            <pubDate>Wed, 30 Sep 2026 00:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[亿万富豪彼得·蒂尔新置顶级物业：1.3亿美元的洛杉矶著名庄园]]></title>
@@ -147,6 +147,13 @@
             <pubDate>Tue, 29 Sep 2026 01:21:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67198736?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Robinhood的应用程序曾让在智能手机上交易股票变得简单。如今，Robinhood预见AI智能体将走进散户的未来。</p>]]></description>
+            <link>https://cn.wsj.com/articles/robinhood%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%8A%BC%E6%B3%A8-%E8%83%BD%E5%9C%A8%E4%BD%A0%E7%86%9F%E7%9D%A1%E6%97%B6%E8%BF%9B%E8%A1%8C%E4%BA%A4%E6%98%93%E7%9A%84ai%E6%9C%BA%E5%99%A8%E4%BA%BA-d45dac53</link>
+            <guid isPermaLink="false">WP-WSJS-0003934982</guid>
+            <pubDate>Wed, 30 Sep 2026 00:42:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国财政部将为6,000万儿童自动注册特朗普账户]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-08513720?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国财政部在规定中表示，最快将于本周自动为数千万儿童注册政府新设立的“特朗普账户”，从而取代此前要求父母或监护人主动注册的机制。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%86%E4%B8%BA6-000%E4%B8%87%E5%84%BF%E7%AB%A5%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7-532b5945</link>
@@ -166,13 +173,6 @@
             <link>https://cn.wsj.com/articles/lazy-customers-are-great-for-banks-could-ai-change-that-4d5dac1d</link>
             <guid isPermaLink="false">WP-WSJS-0003934737</guid>
             <pubDate>Tue, 29 Sep 2026 23:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI因安全顾虑取消新AI模型发布]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33138169?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新模型GPT-6.1 Astra原计划10月亮相。这是迄今最清晰的迹象之一，表明AI智能体的不当行为可能会阻碍该行业的快速发展。</p>]]></description>
-            <link>https://cn.wsj.com/articles/openaiscraps-release-of-new-ai-model-over-safety-concerns-ffde2a51</link>
-            <guid isPermaLink="false">WP-WSJS-0003931024</guid>
-            <pubDate>Mon, 28 Sep 2026 23:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[普京真的认为我是间谍吗？]]></title>
@@ -196,11 +196,11 @@
             <pubDate>Tue, 29 Sep 2026 07:19:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在世界金枪鱼之都，渔民正被卷入致命毒品战]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79302549?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在厄瓜多尔的曼塔，丰厚的报酬促使一些渔民参与运毒活动，而美国的海上打击行动也针对那些否认参与运毒的人。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ecuador-drug-war-fishing-155d37cf</link>
-            <guid isPermaLink="false">WP-WSJS-0003931626</guid>
-            <pubDate>Tue, 29 Sep 2026 03:27:00 GMT</pubDate>
+            <title><![CDATA[五角大楼正如何升级特朗普在拉美的“禁毒战”]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-47136755?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国南方司令部司令透露了在丛林中使用高科技无人机的独家新细节，并表示在美国协助下对贩毒集团进行地面打击是选项之一。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%AD%A3%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%8B%89%E7%BE%8E%E7%9A%84-%E7%A6%81%E6%AF%92%E6%88%98-4f97df4e</link>
+            <guid isPermaLink="false">WP-WSJS-0003935051</guid>
+            <pubDate>Wed, 30 Sep 2026 01:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一探拉里·埃里森为家教等员工买下八套房产的封闭式社区]]></title>

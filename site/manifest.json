@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:38:58.975810+00:00",
+  "generated_at": "2026-09-30T17:53:29.939299+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-86186249?size=1.5&width=1280",
       "snapshot": "articles/e4-b9-a0-e8-bf-91-e5-b9-b3-e7-b4-a7-e6-8f-a1-e5--5a31e9bf9ce6.html",
       "captured": true,
-      "capture_title": "习近平紧握彭丽媛手的细节，如何折射中国的权力格局 - WSJ",
+      "capture_title": "习近平紧握彭丽媛手的细节，如何折射中国的权力格局",
       "error": ""
     },
     {
@@ -25,19 +25,7 @@
       "image_url": "https://images.wsj.net/im-47112736?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd9-e6-9c-88-e5-ae-98-e6-96-b9pmi-407782291901.html",
       "captured": true,
-      "capture_title": "中国9月PMI显示各行业状况改善 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国民众想要打破传统政治标签的民粹主义政策",
-      "summary": "《华尔街日报》的一项新调查显示，限制处方药价格和加强边境安全获得了广泛支持。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E6%83%B3%E8%A6%81%E6%89%93%E7%A0%B4%E4%BC%A0%E7%BB%9F%E6%94%BF%E6%B2%BB%E6%A0%87%E7%AD%BE%E7%9A%84%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89%E6%94%BF%E7%AD%96-7da1bdcc",
-      "guid": "WP-WSJS-0003935071",
-      "pub_date": "Wed, 30 Sep 2026 02:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-06511085?size=1.499&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-b0-91-e4-bc-97-e6-83-b3-e8--8ebd0f0f7e18.html",
-      "captured": true,
-      "capture_title": "美国民众想要打破传统政治标签的民粹主义政策 - WSJ",
+      "capture_title": "中国9月PMI显示各行业状况改善",
       "error": ""
     },
     {
@@ -49,7 +37,19 @@
       "image_url": "https://images.wsj.net/im-67559618?size=1.501&width=1280",
       "snapshot": "articles/wall-streets-hopes-for-a-blockbuster-ipo-season--7cedaf9879c9.html",
       "captured": true,
-      "capture_title": "华尔街对秋季IPO热潮的期待降温 - WSJ",
+      "capture_title": "华尔街对秋季IPO热潮的期待降温",
+      "error": ""
+    },
+    {
+      "title": "美国民众想要打破传统政治标签的民粹主义政策",
+      "summary": "《华尔街日报》的一项新调查显示，限制处方药价格和加强边境安全获得了广泛支持。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E6%83%B3%E8%A6%81%E6%89%93%E7%A0%B4%E4%BC%A0%E7%BB%9F%E6%94%BF%E6%B2%BB%E6%A0%87%E7%AD%BE%E7%9A%84%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89%E6%94%BF%E7%AD%96-7da1bdcc",
+      "guid": "WP-WSJS-0003935071",
+      "pub_date": "Wed, 30 Sep 2026 02:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-06511085?size=1.499&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-b0-91-e4-bc-97-e6-83-b3-e8--8ebd0f0f7e18.html",
+      "captured": true,
+      "capture_title": "美国民众想要打破传统政治标签的民粹主义政策",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-74901584?size=1.501&width=1280",
       "snapshot": "articles/cornell-rape-allegations-case-fraternity-35cfb38-8468482baff1.html",
       "captured": true,
-      "capture_title": "强奸指控掀起舆论风暴，康奈尔大学陷入危机 - WSJ",
+      "capture_title": "强奸指控掀起舆论风暴，康奈尔大学陷入危机",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.mktw.net/im-58143024?size=1.5&width=1280",
       "snapshot": "articles/the-u-s-and-china-agree-to-60-billion-in-tariff--9605f1e506ca.html",
       "captured": true,
-      "capture_title": "中美同意削减共600亿美元关税，但稀土问题仍是症结所在 - WSJ",
+      "capture_title": "中美同意削减共600亿美元关税，但稀土问题仍是症结所在",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-09948702?size=1.45&width=1280",
       "snapshot": "articles/e5-9b-be-e8-a7-a3-e4-bc-8a-e6-9c-97-e5-92-8c-e4--c3817b3b7bdc.html",
       "captured": true,
-      "capture_title": "图解伊朗和中国的武器如何助推胡塞武装步步进逼 - WSJ",
+      "capture_title": "图解伊朗和中国的武器如何助推胡塞武装步步进逼",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-72522965?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e7-be-8e-e5-86-9b-e6-92-a4-e7-a6-bb-e4-bc-8a-e6--dc756c27999e.html",
       "captured": true,
-      "capture_title": "美军撤离伊拉克，留下一个危机四伏的国家 - WSJ",
+      "capture_title": "美军撤离伊拉克，留下一个危机四伏的国家",
       "error": ""
     },
     {
@@ -121,7 +121,19 @@
       "image_url": "https://images.wsj.net/im-57909283?size=1.5&width=1280",
       "snapshot": "articles/the-gap-between-the-rich-and-the-very-very-rich--27852d203c3b.html",
       "captured": true,
-      "capture_title": "美国普通富豪与超级富豪之间的差距正在扩大 - WSJ",
+      "capture_title": "美国普通富豪与超级富豪之间的差距正在扩大",
+      "error": ""
+    },
+    {
+      "title": "中国拥有拯救柴油市场的力量，但会出手吗？",
+      "summary": "理论上，和原油一样，中国也有能力给高企的柴油价格降温，但眼下中国炼油厂的产能利用率仅达75%。",
+      "link": "https://cn.wsj.com/articles/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-79cb7953",
+      "guid": "WP-WSJS-0003935696",
+      "pub_date": "Wed, 30 Sep 2026 11:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-42173450?size=1.501&width=1280",
+      "snapshot": "articles/china-has-the-power-to-bail-out-the-diesel-marke-398337ffd921.html",
+      "captured": true,
+      "capture_title": "中国拥有拯救柴油市场的力量，但会出手吗？ - WSJ",
       "error": ""
     },
     {
@@ -133,19 +145,19 @@
       "image_url": "https://images.wsj.net/im-46037368?size=1.446&width=1280",
       "snapshot": "articles/north-korea-land-mines-highly-likely-behind-dmz--e613658c902b.html",
       "captured": true,
-      "capture_title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - WSJ",
+      "capture_title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发",
       "error": ""
     },
     {
-      "title": "五角大楼正如何升级特朗普在拉美的“禁毒战”",
-      "summary": "美国南方司令部司令透露了在丛林中使用高科技无人机的独家新细节，并表示在美国协助下对贩毒集团进行地面打击是选项之一。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%AD%A3%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%8B%89%E7%BE%8E%E7%9A%84-%E7%A6%81%E6%AF%92%E6%88%98-4f97df4e",
-      "guid": "WP-WSJS-0003935051",
-      "pub_date": "Wed, 30 Sep 2026 01:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-47136755?size=1.499&width=1280",
-      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-ad-a3-e5--4113857eb26a.html",
+      "title": "飞往以色列的航班在沙特阿拉伯紧急降落，驾驶舱内疑似发生搏斗",
+      "summary": "FlyDubai一架从阿联酋飞往以色列的航班周三在沙特阿拉伯紧急降落。此前驾驶舱内疑似发生搏斗，导致飞机急剧俯冲，两名飞行员受伤。",
+      "link": "https://cn.wsj.com/articles/flight-to-israel-makes-emergency-landing-in-saudi-arabia-08c60350",
+      "guid": "WP-WSJS-0003935529",
+      "pub_date": "Wed, 30 Sep 2026 09:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-96617920?size=1.501&width=1280",
+      "snapshot": "articles/flight-to-israel-makes-emergency-landing-in-saud-8d6a25e64e33.html",
       "captured": true,
-      "capture_title": "五角大楼正如何升级特朗普在拉美的“禁毒战” - WSJ",
+      "capture_title": "飞往以色列的航班在沙特阿拉伯紧急降落，驾驶舱内疑似发生搏斗 - WSJ",
       "error": ""
     },
     {
@@ -161,18 +173,6 @@
       "error": ""
     },
     {
-      "title": "Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人",
-      "summary": "Robinhood的应用程序曾让在智能手机上交易股票变得简单。如今，Robinhood预见AI智能体将走进散户的未来。",
-      "link": "https://cn.wsj.com/articles/robinhood%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%8A%BC%E6%B3%A8-%E8%83%BD%E5%9C%A8%E4%BD%A0%E7%86%9F%E7%9D%A1%E6%97%B6%E8%BF%9B%E8%A1%8C%E4%BA%A4%E6%98%93%E7%9A%84ai%E6%9C%BA%E5%99%A8%E4%BA%BA-d45dac53",
-      "guid": "WP-WSJS-0003934982",
-      "pub_date": "Wed, 30 Sep 2026 00:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-67198736?size=1.501&width=1280",
-      "snapshot": "articles/robinhood-e7-9a-84-e4-b8-8b-e4-b8-80-e4-b8-aa-e9-1968a6c6bfdc.html",
-      "captured": true,
-      "capture_title": "Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人 - WSJ",
-      "error": ""
-    },
-    {
       "title": "亿万富豪彼得·蒂尔新置顶级物业：1.3亿美元的洛杉矶著名庄园",
       "summary": "洛杉矶这处房产的中标者是一家与Palantir和PayPal联合创始人彼得·蒂尔有关联的有限责任公司。此前中标者的身份几个月来一直保密。",
       "link": "https://cn.wsj.com/articles/%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E5%BD%BC%E5%BE%97-%E8%92%82%E5%B0%94%E6%96%B0%E7%BD%AE%E9%A1%B6%E7%BA%A7%E7%89%A9%E4%B8%9A-1-3%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%91%97%E5%90%8D%E5%BA%84%E5%9B%AD-5b91eec5",
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-59856419?size=1.5&width=1280",
       "snapshot": "articles/e4-ba-bf-e4-b8-87-e5-af-8c-e8-b1-aa-e5-bd-bc-e5--80e0997763cf.html",
       "captured": true,
-      "capture_title": "亿万富豪彼得·蒂尔新置顶级物业：1.3亿美元的洛杉矶著名庄园 - WSJ",
+      "capture_title": "亿万富豪彼得·蒂尔新置顶级物业：1.3亿美元的洛杉矶著名庄园",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-84036433?size=1.499&width=1280",
       "snapshot": "articles/e4-bb-96-e5-a4-a7-e5-ad-a6-e6-af-95-e4-b8-9a-e6--4b0d8d149a42.html",
       "captured": true,
-      "capture_title": "他大学毕业求职高盛曾遭拒，如今即将执掌这家华尔街巨头 - WSJ",
+      "capture_title": "他大学毕业求职高盛曾遭拒，如今即将执掌这家华尔街巨头",
       "error": ""
     },
     {
@@ -206,6 +206,18 @@
       "snapshot": "articles/the-nike-lifer-driving-a-high-stakes-turnaround--0a676b211f9c.html",
       "captured": true,
       "capture_title": "耐克中国区新帅力求逆风翻盘",
+      "error": ""
+    },
+    {
+      "title": "Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人",
+      "summary": "Robinhood的应用程序曾让在智能手机上交易股票变得简单。如今，Robinhood预见AI智能体将走进散户的未来。",
+      "link": "https://cn.wsj.com/articles/robinhood%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%8A%BC%E6%B3%A8-%E8%83%BD%E5%9C%A8%E4%BD%A0%E7%86%9F%E7%9D%A1%E6%97%B6%E8%BF%9B%E8%A1%8C%E4%BA%A4%E6%98%93%E7%9A%84ai%E6%9C%BA%E5%99%A8%E4%BA%BA-d45dac53",
+      "guid": "WP-WSJS-0003934982",
+      "pub_date": "Wed, 30 Sep 2026 00:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-67198736?size=1.501&width=1280",
+      "snapshot": "articles/robinhood-e7-9a-84-e4-b8-8b-e4-b8-80-e4-b8-aa-e9-1968a6c6bfdc.html",
+      "captured": true,
+      "capture_title": "Robinhood的下一个重大押注：能在你熟睡时进行交易的AI机器人",
       "error": ""
     },
     {
@@ -229,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-12954353?size=1.499&width=1280",
       "snapshot": "articles/new-lawsuit-alleges-new-york-mayor-mamdanis-pied-3774df782127.html",
       "captured": true,
-      "capture_title": "法官裁定纽约市非主要住宅税的实施须重新来过 - WSJ",
+      "capture_title": "法官裁定纽约市非主要住宅税的实施须重新来过",
       "error": ""
     },
     {
@@ -245,18 +257,6 @@
       "error": ""
     },
     {
-      "title": "OpenAI因安全顾虑取消新AI模型发布",
-      "summary": "新模型GPT-6.1 Astra原计划10月亮相。这是迄今最清晰的迹象之一，表明AI智能体的不当行为可能会阻碍该行业的快速发展。",
-      "link": "https://cn.wsj.com/articles/openaiscraps-release-of-new-ai-model-over-safety-concerns-ffde2a51",
-      "guid": "WP-WSJS-0003931024",
-      "pub_date": "Mon, 28 Sep 2026 23:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-33138169?size=1.501&width=1280",
-      "snapshot": "articles/openaiscraps-release-of-new-ai-model-over-safety-7f42b1a03e89.html",
-      "captured": true,
-      "capture_title": "OpenAI因安全顾虑取消新AI模型发布",
-      "error": ""
-    },
-    {
       "title": "普京真的认为我是间谍吗？",
       "summary": "《华尔街日报》记者埃文·格什科维奇在其新书《这片受诅咒的美丽土地》的独家摘录中，梳理他在俄罗斯报道期间被捕背后的真相。",
       "link": "https://cn.wsj.com/articles/%E6%99%AE%E4%BA%AC%E7%9C%9F%E7%9A%84%E8%AE%A4%E4%B8%BA%E6%88%91%E6%98%AF%E9%97%B4%E8%B0%8D%E5%90%97-97a55c22",
@@ -265,7 +265,7 @@
       "image_url": "https://images.wsj.net/im-86340054?size=0.84&width=1280",
       "snapshot": "articles/e6-99-ae-e4-ba-ac-e7-9c-9f-e7-9a-84-e8-ae-a4-e4--2f827f5f8a79.html",
       "captured": true,
-      "capture_title": "普京真的认为我是间谍吗？ - WSJ",
+      "capture_title": "普京真的认为我是间谍吗？",
       "error": ""
     },
     {
@@ -290,6 +290,30 @@
       "snapshot": "articles/e6-88-90-e6-9c-ac-e7-bf-bb-e5-80-8d--e9-aa-b0-e5-3d0ab83f8d5e.html",
       "captured": true,
       "capture_title": "成本翻倍、骰子仍是中国产：美国版《大富翁》的制造困局",
+      "error": ""
+    },
+    {
+      "title": "五角大楼正如何升级特朗普在拉美的“禁毒战”",
+      "summary": "美国南方司令部司令透露了在丛林中使用高科技无人机的独家新细节，并表示在美国协助下对贩毒集团进行地面打击是选项之一。",
+      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%AD%A3%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%8B%89%E7%BE%8E%E7%9A%84-%E7%A6%81%E6%AF%92%E6%88%98-4f97df4e",
+      "guid": "WP-WSJS-0003935051",
+      "pub_date": "Wed, 30 Sep 2026 01:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-47136755?size=1.499&width=1280",
+      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-ad-a3-e5--4113857eb26a.html",
+      "captured": true,
+      "capture_title": "五角大楼正如何升级特朗普在拉美的“禁毒战”",
+      "error": ""
+    },
+    {
+      "title": "OpenAI因安全顾虑取消新AI模型发布",
+      "summary": "新模型GPT-6.1 Astra原计划10月亮相。这是迄今最清晰的迹象之一，表明AI智能体的不当行为可能会阻碍该行业的快速发展。",
+      "link": "https://cn.wsj.com/articles/openaiscraps-release-of-new-ai-model-over-safety-concerns-ffde2a51",
+      "guid": "WP-WSJS-0003931024",
+      "pub_date": "Mon, 28 Sep 2026 23:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-33138169?size=1.501&width=1280",
+      "snapshot": "articles/openaiscraps-release-of-new-ai-model-over-safety-7f42b1a03e89.html",
+      "captured": true,
+      "capture_title": "OpenAI因安全顾虑取消新AI模型发布",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/netanyahu-returns-to-familiar-u-n-stage-more-iso-f55452951287.html",
       "captured": true,
       "capture_title": "内塔尼亚胡重返联合国讲台，外交孤立达到顶峰",
-      "error": ""
-    },
-    {
-      "title": "OpenAI智能体在搜寻数据时试图入侵另外四家网站",
-      "summary": "OpenAI的AI智能体在执行任务遇阻时试图黑入政府和大学网站；此类AI智能体失控事件正日益增多。",
-      "link": "https://cn.wsj.com/articles/openai%E6%99%BA%E8%83%BD%E4%BD%93%E5%9C%A8%E6%90%9C%E5%AF%BB%E6%95%B0%E6%8D%AE%E6%97%B6%E8%AF%95%E5%9B%BE%E5%85%A5%E4%BE%B5%E5%8F%A6%E5%A4%96%E5%9B%9B%E5%AE%B6%E7%BD%91%E7%AB%99-e6b0b23f",
-      "guid": "WP-WSJS-0003922604",
-      "pub_date": "Fri, 25 Sep 2026 01:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-46302981?size=1.499&width=1280",
-      "snapshot": "articles/openai-e6-99-ba-e8-83-bd-e4-bd-93-e5-9c-a8-e6-90-ae20b3103230.html",
-      "captured": true,
-      "capture_title": "OpenAI智能体在搜寻数据时试图入侵另外四家网站",
-      "error": ""
-    },
-    {
-      "title": "50英里通行费500万美元：巴拿马运河为何成天价水道？",
-      "summary": "伊朗战争和极端天气扰乱航运后，使用这条水道的竞标价格飙升。",
-      "link": "https://cn.wsj.com/articles/how-the-panama-canal-became-a-50-mile-waterway-with-a-5-million-ticket-price-e5807b48",
-      "guid": "WP-WSJS-0003918634",
-      "pub_date": "Thu, 24 Sep 2026 00:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-97341313?size=1.501&width=1280",
-      "snapshot": "articles/how-the-panama-canal-became-a-50-mile-waterway-w-9ca10c52cb61.html",
-      "captured": true,
-      "capture_title": "50英里通行费500万美元：巴拿马运河为何成天价水道？",
       "error": ""
     }
   ]
