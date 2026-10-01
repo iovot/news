@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:10:55.644329+00:00",
+  "generated_at": "2026-10-01T12:51:38.479071+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,6 +17,18 @@
       "error": ""
     },
     {
+      "title": "美国施压行动导致伊朗油轮滞留亚洲海域",
+      "summary": "数十艘伊朗或涉伊船只在海上漂泊，因美国威胁要制裁向这些船只提供援助的国家或公司。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%96%BD%E5%8E%8B%E8%A1%8C%E5%8A%A8%E5%AF%BC%E8%87%B4%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E6%BB%9E%E7%95%99%E4%BA%9A%E6%B4%B2%E6%B5%B7%E5%9F%9F-ce3a0ec3",
+      "guid": "WP-WSJS-0003939488",
+      "pub_date": "Thu, 01 Oct 2026 07:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-44324190?size=1.78&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-96-bd-e5-8e-8b-e8-a1-8c-e5--ca2fafcd164e.html",
+      "captured": true,
+      "capture_title": "美国施压行动导致伊朗油轮滞留亚洲海域 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国拥有拯救柴油市场的力量，但会出手吗？",
       "summary": "理论上，和原油一样，中国也有能力给高企的柴油价格降温，但眼下中国炼油厂的产能利用率仅达75%。",
       "link": "https://cn.wsj.com/articles/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-79cb7953",
@@ -29,27 +41,27 @@
       "error": ""
     },
     {
-      "title": "中国9月PMI显示各行业状况改善",
-      "summary": "中国9月官方和民间的制造业、服务业和建筑业活动指标均有所回升。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88%E5%AE%98%E6%96%B9pmi%E6%98%BE%E7%A4%BA%E5%90%84%E8%A1%8C%E4%B8%9A%E7%8A%B6%E5%86%B5%E6%94%B9%E5%96%84-49387160",
-      "guid": "WP-WSJS-0003935155",
-      "pub_date": "Wed, 30 Sep 2026 04:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-47112736?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd9-e6-9c-88-e5-ae-98-e6-96-b9pmi-407782291901.html",
+      "title": "科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做",
+      "summary": "包括英伟达的黄仁勋在内的行业领袖，就Anthropic的阿莫迪有关AI危险的种种警告向他发难。",
+      "link": "https://cn.wsj.com/articles/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-5de03707",
+      "guid": "WP-WSJS-0003938853",
+      "pub_date": "Thu, 01 Oct 2026 00:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-00390014?size=1.501&width=1280",
+      "snapshot": "articles/tech-ceos-privately-questioned-amodei-for-soundi-19ddae9433a0.html",
       "captured": true,
-      "capture_title": "中国9月PMI显示各行业状况改善",
+      "capture_title": "科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做",
       "error": ""
     },
     {
       "title": "美股获大型科技股托举，但第四季度恐步履维艰",
-      "summary": "大型科技股推动纳指和标普500指数第三季度分别上涨2.5%和2%。这两大股指有望连续第四年以两位数涨幅收官。不过，利率上升可能会带来变数。",
+      "summary": "大型科技股推动纳指和标普500指数第三季度分别上涨2.5%和2%。不过，利率上升可能会带来变数。",
       "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E8%8E%B7%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1%E6%89%98%E4%B8%BE-%E4%BD%86%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E6%81%90%E6%AD%A5%E5%B1%A5%E7%BB%B4%E8%89%B0-884e00c7",
       "guid": "WP-WSJS-0003939017",
       "pub_date": "Thu, 01 Oct 2026 01:42:00 GMT",
       "image_url": "https://images.wsj.net/im-22245802?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e8-82-a1-e8-8e-b7-e5-a4-a7-e5-9e-8b-e7--91ea4df4cc7c.html",
       "captured": true,
-      "capture_title": "美股获大型科技股托举，但第四季度恐步履维艰 - WSJ",
+      "capture_title": "美股获大型科技股托举，但第四季度恐步履维艰",
       "error": ""
     },
     {
@@ -61,31 +73,31 @@
       "image_url": "https://images.wsj.net/im-58139189?size=1.501&width=1280",
       "snapshot": "articles/e6-94-b6-e7-9b-8a-e7-8e-87-e9-a3-99-e5-8d-87-e5--b1ac50206449.html",
       "captured": true,
-      "capture_title": "收益率飙升将美国债市带回世纪之交水平 - WSJ",
+      "capture_title": "收益率飙升将美国债市带回世纪之交水平",
       "error": ""
     },
     {
-      "title": "科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做",
-      "summary": "包括英伟达的黄仁勋在内的行业领袖，就Anthropic的阿莫迪有关AI危险的种种警告向他发难。",
-      "link": "https://cn.wsj.com/articles/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-5de03707",
-      "guid": "WP-WSJS-0003938853",
-      "pub_date": "Thu, 01 Oct 2026 00:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-00390014?size=1.501&width=1280",
-      "snapshot": "articles/tech-ceos-privately-questioned-amodei-for-soundi-19ddae9433a0.html",
+      "title": "英国首相伯纳姆力推毫不掩饰的“社会主义”式改革",
+      "summary": "这位新领导人意图与英国近年来的政治历史决裂，但首先必须赢得一场选举。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E5%8A%9B%E6%8E%A8%E6%AF%AB%E4%B8%8D%E6%8E%A9%E9%A5%B0%E7%9A%84-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E5%BC%8F%E6%94%B9%E9%9D%A9-4a649af4",
+      "guid": "WP-WSJS-0003939425",
+      "pub_date": "Thu, 01 Oct 2026 05:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-17823426?size=1.502&width=1280",
+      "snapshot": "articles/e8-8b-b1-e5-9b-bd-e9-a6-96-e7-9b-b8-e4-bc-af-e7--e5fe9d598986.html",
       "captured": true,
-      "capture_title": "科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做 - WSJ",
+      "capture_title": "英国首相伯纳姆力推毫不掩饰的“社会主义”式改革 - WSJ",
       "error": ""
     },
     {
-      "title": "美国经济增长好于预期，但通胀压力依然顽固",
-      "summary": "美国第二季度经济增速被上修至2.2%，同时8月PCE同比涨幅持平于3.4%。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%A5%BD%E4%BA%8E%E9%A2%84%E6%9C%9F-%E4%BD%86%E9%80%9A%E8%83%80%E5%8E%8B%E5%8A%9B%E4%BE%9D%E7%84%B6%E9%A1%BD%E5%9B%BA-c4e966bd",
-      "guid": "WP-WSJS-0003938850",
-      "pub_date": "Thu, 01 Oct 2026 00:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-99168218?size=1.335&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-bb-8f-e6-b5-8e-e5-a2-9e-e9--dfde8e5da49a.html",
+      "title": "苹果折叠屏手机的最大战场在中国",
+      "summary": "苹果公司发布iPhone Duo后，华为等中国竞争对手称折叠屏手机需求上升。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E7%9A%84%E6%9C%80%E5%A4%A7%E6%88%98%E5%9C%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD-5e62ab7f",
+      "guid": "WP-WSJS-0003939460",
+      "pub_date": "Thu, 01 Oct 2026 06:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-90882090?size=1.5&width=1280",
+      "snapshot": "articles/e8-8b-b9-e6-9e-9c-e6-8a-98-e5-8f-a0-e5-b1-8f-e6--8aba8b91ae8d.html",
       "captured": true,
-      "capture_title": "美国经济增长好于预期，但通胀压力依然顽固 - WSJ",
+      "capture_title": "苹果折叠屏手机的最大战场在中国 - WSJ",
       "error": ""
     },
     {
@@ -97,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-78701087?size=1.5&width=1280",
       "snapshot": "articles/e9-a9-be-e9-a9-b6-e8-88-b1-e6-90-8f-e6-96-97-e4--641828b45773.html",
       "captured": true,
-      "capture_title": "驾驶舱搏斗与万尺急坠：还原迪拜航空1073航班的惊魂时刻 - WSJ",
+      "capture_title": "驾驶舱搏斗与万尺急坠：还原迪拜航空1073航班的惊魂时刻",
       "error": ""
     },
     {
@@ -121,31 +133,31 @@
       "image_url": "https://images.wsj.net/im-18392015?size=1.501&width=1280",
       "snapshot": "articles/e8-b5-ab-e6-a0-bc-e5-a1-9e-e6-80-9d--e9-83-a8-e9-d88507aa4831.html",
       "captured": true,
-      "capture_title": "赫格塞思“部队状况”讲话五大看点 - WSJ",
+      "capture_title": "赫格塞思“部队状况”讲话五大看点",
       "error": ""
     },
     {
-      "title": "卡尼凭借叫板特朗普赢得高人气，拟借势重塑加拿大",
-      "summary": "这位加拿大总理在环境、防务和外交关系方面推动着曾经难以想象的变革，支持率却依然居高不下。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC%E5%87%AD%E5%80%9F%E5%8F%AB%E6%9D%BF%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A2%E5%BE%97%E9%AB%98%E4%BA%BA%E6%B0%94-%E6%8B%9F%E5%80%9F%E5%8A%BF%E9%87%8D%E5%A1%91%E5%8A%A0%E6%8B%BF%E5%A4%A7-afbc39f9",
-      "guid": "WP-WSJS-0003939172",
-      "pub_date": "Thu, 01 Oct 2026 02:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-69309921?size=1.499&width=1280",
-      "snapshot": "articles/e5-8d-a1-e5-b0-bc-e5-87-ad-e5-80-9f-e5-8f-ab-e6--239f1e99dc97.html",
+      "title": "中国9月PMI显示各行业状况改善",
+      "summary": "中国9月官方和民间的制造业、服务业和建筑业活动指标均有所回升。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88%E5%AE%98%E6%96%B9pmi%E6%98%BE%E7%A4%BA%E5%90%84%E8%A1%8C%E4%B8%9A%E7%8A%B6%E5%86%B5%E6%94%B9%E5%96%84-49387160",
+      "guid": "WP-WSJS-0003935155",
+      "pub_date": "Wed, 30 Sep 2026 04:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-47112736?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd9-e6-9c-88-e5-ae-98-e6-96-b9pmi-407782291901.html",
       "captured": true,
-      "capture_title": "卡尼凭借叫板特朗普赢得高人气，拟借势重塑加拿大 - WSJ",
+      "capture_title": "中国9月PMI显示各行业状况改善",
       "error": ""
     },
     {
-      "title": "英国称有“强烈迹象”显示伊朗与费尔福德空军基地未遂袭击有关",
-      "summary": "英国首相安迪·伯纳姆表示，有“强烈迹象”显示伊朗参与了上周末针对费尔福德空军基地的未遂袭击。",
-      "link": "https://cn.wsj.com/articles/u-k-says-strong-indications-iran-is-linked-to-foiled-attack-on-air-base-b68770fd",
-      "guid": "WP-WSJS-0003938908",
-      "pub_date": "Thu, 01 Oct 2026 00:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-76927945?size=1.501&width=1280",
-      "snapshot": "articles/u-k-says-strong-indications-iran-is-linked-to-fo-452ad2c97a85.html",
+      "title": "谷歌AI进校园引发反思：“它让我脑子变慢了”",
+      "summary": "认知退化和情感依赖风险，加上考试成绩下滑，正引发强烈抵制。",
+      "link": "https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cai%E8%BF%9B%E6%A0%A1%E5%9B%AD%E5%BC%95%E5%8F%91%E5%8F%8D%E6%80%9D-%E5%AE%83%E8%AE%A9%E6%88%91%E8%84%91%E5%AD%90%E5%8F%98%E6%85%A2%E4%BA%86-85376cc8",
+      "guid": "WP-WSJS-0003939446",
+      "pub_date": "Thu, 01 Oct 2026 06:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-75714205?size=1.5&width=1280",
+      "snapshot": "articles/e8-b0-b7-e6-ad-8cai-e8-bf-9b-e6-a0-a1-e5-9b-ad-e-471ff9fbf330.html",
       "captured": true,
-      "capture_title": "英国称有“强烈迹象”显示伊朗与费尔福德空军基地未遂袭击有关 - WSJ",
+      "capture_title": "谷歌AI进校园引发反思：“它让我脑子变慢了” - WSJ",
       "error": ""
     },
     {
@@ -157,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-41174258?size=1.501&width=1280",
       "snapshot": "articles/e6-8f-a1-e5-8a-9b-e8-83-bd-e5-8f-8d-e6-98-a0-e5--6a9067738412.html",
       "captured": true,
-      "capture_title": "握力能反映出哪些健康状况 - WSJ",
+      "capture_title": "握力能反映出哪些健康状况",
       "error": ""
     },
     {
@@ -173,18 +185,6 @@
       "error": ""
     },
     {
-      "title": "美军撤离伊拉克，留下一个危机四伏的国家",
-      "summary": "伊拉克要求数万名武装人员交出武器，但美国与伊朗之间这场看不到尽头的战争，正将伊拉克推入更深的冲突。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%92%A4%E7%A6%BB%E4%BC%8A%E6%8B%89%E5%85%8B-%E7%95%99%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%B1%E6%9C%BA%E5%9B%9B%E4%BC%8F%E7%9A%84%E5%9B%BD%E5%AE%B6-2ed0600a",
-      "guid": "WP-WSJS-0003935315",
-      "pub_date": "Wed, 30 Sep 2026 06:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-72522965?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-86-9b-e6-92-a4-e7-a6-bb-e4-bc-8a-e6--dc756c27999e.html",
-      "captured": true,
-      "capture_title": "美军撤离伊拉克，留下一个危机四伏的国家",
-      "error": ""
-    },
-    {
       "title": "欧洲豪华车企瞄准美国市场打造超大尺寸SUV",
       "summary": "宝马、奥迪和沃尔沃等多家车企正在力图提振美国市场销量，以抵消欧洲和中国市场的疲软。",
       "link": "https://cn.wsj.com/articles/%E6%AC%A7%E6%B4%B2%E8%B1%AA%E5%8D%8E%E8%BD%A6%E4%BC%81%E7%9E%84%E5%87%86%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%89%93%E9%80%A0%E8%B6%85%E5%A4%A7%E5%B0%BA%E5%AF%B8suv-c46cfa43",
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-13076138?size=1.5&width=1280",
       "snapshot": "articles/e6-ac-a7-e6-b4-b2-e8-b1-aa-e5-8d-8e-e8-bd-a6-e4--65ff2cefdf3d.html",
       "captured": true,
-      "capture_title": "欧洲豪华车企瞄准美国市场打造超大尺寸SUV - WSJ",
+      "capture_title": "欧洲豪华车企瞄准美国市场打造超大尺寸SUV",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-88758249?size=1.501&width=1280",
       "snapshot": "articles/paramount-settlement-of-antitrust-case-approved--8f275f9edb48.html",
       "captured": true,
-      "capture_title": "派拉蒙反垄断案和解协议获法官批准 - WSJ",
+      "capture_title": "派拉蒙反垄断案和解协议获法官批准",
       "error": ""
     },
     {
@@ -254,6 +254,18 @@
       "snapshot": "articles/cornell-rape-allegations-case-fraternity-35cfb38-8468482baff1.html",
       "captured": true,
       "capture_title": "强奸指控掀起舆论风暴，康奈尔大学陷入危机",
+      "error": ""
+    },
+    {
+      "title": "美军撤离伊拉克，留下一个危机四伏的国家",
+      "summary": "伊拉克要求数万名武装人员交出武器，但美国与伊朗之间这场看不到尽头的战争，正将伊拉克推入更深的冲突。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%92%A4%E7%A6%BB%E4%BC%8A%E6%8B%89%E5%85%8B-%E7%95%99%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%B1%E6%9C%BA%E5%9B%9B%E4%BC%8F%E7%9A%84%E5%9B%BD%E5%AE%B6-2ed0600a",
+      "guid": "WP-WSJS-0003935315",
+      "pub_date": "Wed, 30 Sep 2026 06:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-72522965?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-86-9b-e6-92-a4-e7-a6-bb-e4-bc-8a-e6--dc756c27999e.html",
+      "captured": true,
+      "capture_title": "美军撤离伊拉克，留下一个危机四伏的国家",
       "error": ""
     },
     {
@@ -289,7 +301,43 @@
       "image_url": "https://images.wsj.net/im-63948786?size=1.5053763440860215&width=1280",
       "snapshot": "articles/genoa-italy-travel-guide-c0de0126-b75a56a0b0a0.html",
       "captured": true,
-      "capture_title": "意大利深度游为何不可错过热那亚？ - WSJ",
+      "capture_title": "意大利深度游为何不可错过热那亚？",
+      "error": ""
+    },
+    {
+      "title": "美国经济增长好于预期，但通胀压力依然顽固",
+      "summary": "美国第二季度经济增速被上修至2.2%，同时8月PCE同比涨幅持平于3.4%。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E5%A5%BD%E4%BA%8E%E9%A2%84%E6%9C%9F-%E4%BD%86%E9%80%9A%E8%83%80%E5%8E%8B%E5%8A%9B%E4%BE%9D%E7%84%B6%E9%A1%BD%E5%9B%BA-c4e966bd",
+      "guid": "WP-WSJS-0003938850",
+      "pub_date": "Thu, 01 Oct 2026 00:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-99168218?size=1.335&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-bb-8f-e6-b5-8e-e5-a2-9e-e9--dfde8e5da49a.html",
+      "captured": true,
+      "capture_title": "美国经济增长好于预期，但通胀压力依然顽固 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "卡尼凭借叫板特朗普赢得高人气，拟借势重塑加拿大",
+      "summary": "这位加拿大总理在环境、防务和外交关系方面推动着曾经难以想象的变革，支持率却依然居高不下。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%A1%E5%B0%BC%E5%87%AD%E5%80%9F%E5%8F%AB%E6%9D%BF%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A2%E5%BE%97%E9%AB%98%E4%BA%BA%E6%B0%94-%E6%8B%9F%E5%80%9F%E5%8A%BF%E9%87%8D%E5%A1%91%E5%8A%A0%E6%8B%BF%E5%A4%A7-afbc39f9",
+      "guid": "WP-WSJS-0003939172",
+      "pub_date": "Thu, 01 Oct 2026 02:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-69309921?size=1.499&width=1280",
+      "snapshot": "articles/e5-8d-a1-e5-b0-bc-e5-87-ad-e5-80-9f-e5-8f-ab-e6--239f1e99dc97.html",
+      "captured": true,
+      "capture_title": "卡尼凭借叫板特朗普赢得高人气，拟借势重塑加拿大 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "英国称有“强烈迹象”显示伊朗与费尔福德空军基地未遂袭击有关",
+      "summary": "英国首相安迪·伯纳姆表示，有“强烈迹象”显示伊朗参与了上周末针对费尔福德空军基地的未遂袭击。",
+      "link": "https://cn.wsj.com/articles/u-k-says-strong-indications-iran-is-linked-to-foiled-attack-on-air-base-b68770fd",
+      "guid": "WP-WSJS-0003938908",
+      "pub_date": "Thu, 01 Oct 2026 00:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-76927945?size=1.501&width=1280",
+      "snapshot": "articles/u-k-says-strong-indications-iran-is-linked-to-fo-452ad2c97a85.html",
+      "captured": true,
+      "capture_title": "英国称有“强烈迹象”显示伊朗与费尔福德空军基地未遂袭击有关 - WSJ",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/ai-e5-9f-ba-e7-a1-80-e8-ae-be-e6-96-bd-e5-bb-ba--a8ab2f3134a3.html",
       "captured": true,
       "capture_title": "AI基础设施建设成为美国有史以来最大经济押注",
-      "error": ""
-    },
-    {
-      "title": "五角大楼支持的石油公司将在委内瑞拉挑战雪佛龙",
-      "summary": "一家五角大楼支持的委内瑞拉石油公司正加紧扩产，这令美国最大几家石油公司高管颇为不满。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%94%AF%E6%8C%81%E7%9A%84%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E6%96%99%E5%B0%86%E5%9C%A8%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%8C%91%E6%88%98%E9%9B%AA%E4%BD%9B%E9%BE%99-dc693a9a",
-      "guid": "WP-WSJS-0003925923",
-      "pub_date": "Sat, 26 Sep 2026 01:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-32355495?size=1.7&width=1280",
-      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-94-af-e6--cc8441124dcd.html",
-      "captured": true,
-      "capture_title": "五角大楼支持的石油公司将在委内瑞拉挑战雪佛龙",
-      "error": ""
-    },
-    {
-      "title": "贝佐斯已自掏腰包300亿美元为蓝色起源注资",
-      "summary": "蓝色起源希望在未来几年迅速提升收入，押注其火箭将助其跻身行业巨头之列。",
-      "link": "https://cn.wsj.com/articles/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-9f2e560d",
-      "guid": "WP-WSJS-0003922450",
-      "pub_date": "Fri, 25 Sep 2026 00:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-57237259?size=1.612&width=1280",
-      "snapshot": "articles/jeff-bezos-blue-origin-is-fueled-with-30-billion-7e32aaed7273.html",
-      "captured": true,
-      "capture_title": "贝佐斯已自掏腰包300亿美元为蓝色起源注资",
-      "error": ""
-    },
-    {
-      "title": "AI攻克了最棘手的数学难题，为何却无法破解国际象棋？",
-      "summary": "国际象棋引擎能击败特级大师，但它们在什么是万无一失的绝对策略上却无法达成共识。而且，AI非但没有毁掉这项运动，反而正在发掘新的下法。",
-      "link": "https://cn.wsj.com/articles/chess-artificial-intelligence-ai-3956913f",
-      "guid": "WP-WSJS-0003918847",
-      "pub_date": "Thu, 24 Sep 2026 01:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-08089966?size=1.501&width=1280",
-      "snapshot": "articles/chess-artificial-intelligence-ai-3956913f-551fc30d6789.html",
-      "captured": true,
-      "capture_title": "AI攻克了最棘手的数学难题，为何却无法破解国际象棋？",
-      "error": ""
-    },
-    {
-      "title": "美国房贷利率触及7%，房地产市场将发生哪些变化",
-      "summary": "利率升破7%这一重要心理关口，其影响正在波及市场上的买家、卖家和建筑商。",
-      "link": "https://cn.wsj.com/articles/mortgage-rates-just-hit-7-heres-how-the-housing-market-is-about-to-change-2c2f866e",
-      "guid": "WP-WSJS-0003922584",
-      "pub_date": "Fri, 25 Sep 2026 01:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-61811407?size=1.78&width=1280",
-      "snapshot": "articles/mortgage-rates-just-hit-7-heres-how-the-housing--4f40aa71e988.html",
-      "captured": true,
-      "capture_title": "美国房贷利率触及7%，房地产市场将发生哪些变化",
       "error": ""
     }
   ]
