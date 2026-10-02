@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:43:58.288138+00:00",
+  "generated_at": "2026-10-02T21:59:55.422530+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-79349950?size=1.501&width=1280",
       "snapshot": "articles/openai-parts-ways-with-researchers-who-allegedly-e2257f58cbca.html",
       "captured": true,
-      "capture_title": "OpenAI解雇涉嫌泄露机密信息的研究人员 - WSJ",
+      "capture_title": "OpenAI解雇涉嫌泄露机密信息的研究人员",
       "error": ""
     },
     {
