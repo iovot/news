@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 20:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 00:36:43 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Oct 2026 20:13:25 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 00:36:43 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,11 +42,25 @@
             <pubDate>Thu, 01 Oct 2026 07:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国拥有拯救柴油市场的力量，但会出手吗？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-42173450?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>理论上，和原油一样，中国也有能力给高企的柴油价格降温，但眼下中国炼油厂的产能利用率仅达75%。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-79cb7953</link>
-            <guid isPermaLink="false">WP-WSJS-0003935696</guid>
-            <pubDate>Wed, 30 Sep 2026 11:46:00 GMT</pubDate>
+            <title><![CDATA[英国首相伯纳姆力推毫不掩饰的“社会主义”式改革]]></title>
+            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-17823426?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位新领导人意图与英国近年来的政治历史决裂，但首先必须赢得一场选举。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E5%8A%9B%E6%8E%A8%E6%AF%AB%E4%B8%8D%E6%8E%A9%E9%A5%B0%E7%9A%84-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E5%BC%8F%E6%94%B9%E9%9D%A9-4a649af4</link>
+            <guid isPermaLink="false">WP-WSJS-0003939425</guid>
+            <pubDate>Thu, 01 Oct 2026 05:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国房贷利率飙升，创四年来最大单周涨幅]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77906608?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>30年期固定房贷利率从7.03%跃升至7.28%。债券抛售不断抬高购房者的借贷成本，一次又一次地重创本已步履蹒跚的房地产市场。</p>]]></description>
+            <link>https://cn.wsj.com/articles/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-f13b7c12</link>
+            <guid isPermaLink="false">WP-WSJS-0003942707</guid>
+            <pubDate>Fri, 02 Oct 2026 00:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰首次在实战中发射国产弹道导弹]]></title>
+            <description><![CDATA[<img width="1042" height="695" src="https://images.wsj.net/im-43851268?size=1.499&width=1042" class="webfeedsFeaturedVisual" alt=""/><p>泽连斯基表示，目前的重点是提高这款乌克兰制造武器的产量。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ukraine-fires-hard-to-stop-ballistic-missile-for-first-time-431f7e6b</link>
+            <guid isPermaLink="false">WP-WSJS-0003942734</guid>
+            <pubDate>Fri, 02 Oct 2026 00:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[科技公司CEO私下质疑阿莫迪敲响AI警钟是否小题大做]]></title>
@@ -61,20 +75,6 @@
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E8%8E%B7%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1%E6%89%98%E4%B8%BE-%E4%BD%86%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E6%81%90%E6%AD%A5%E5%B1%A5%E7%BB%B4%E8%89%B0-884e00c7</link>
             <guid isPermaLink="false">WP-WSJS-0003939017</guid>
             <pubDate>Thu, 01 Oct 2026 01:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[收益率飙升将美国债市带回世纪之交水平]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-58139189?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>持续不断的抛售压力周三将10年期美国国债收益率推高至5.3%上方，一举突破2007年的峰值，创下2002年以来的最高水平。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%94%B6%E7%9B%8A%E7%8E%87%E9%A3%99%E5%8D%87%E5%B0%86%E7%BE%8E%E5%9B%BD%E5%80%BA%E5%B8%82%E5%B8%A6%E5%9B%9E%E4%B8%96%E7%BA%AA%E4%B9%8B%E4%BA%A4%E6%B0%B4%E5%B9%B3-1836dd3e</link>
-            <guid isPermaLink="false">WP-WSJS-0003938895</guid>
-            <pubDate>Thu, 01 Oct 2026 00:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相伯纳姆力推毫不掩饰的“社会主义”式改革]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-17823426?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位新领导人意图与英国近年来的政治历史决裂，但首先必须赢得一场选举。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E5%8A%9B%E6%8E%A8%E6%AF%AB%E4%B8%8D%E6%8E%A9%E9%A5%B0%E7%9A%84-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E5%BC%8F%E6%94%B9%E9%9D%A9-4a649af4</link>
-            <guid isPermaLink="false">WP-WSJS-0003939425</guid>
-            <pubDate>Thu, 01 Oct 2026 05:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[苹果折叠屏手机的最大战场在中国]]></title>
@@ -98,6 +98,13 @@
             <pubDate>Wed, 30 Sep 2026 02:49:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国拥有拯救柴油市场的力量，但会出手吗？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-42173450?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>理论上，和原油一样，中国也有能力给高企的柴油价格降温，但眼下中国炼油厂的产能利用率仅达75%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-79cb7953</link>
+            <guid isPermaLink="false">WP-WSJS-0003935696</guid>
+            <pubDate>Wed, 30 Sep 2026 11:46:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[赫格塞思“部队状况”讲话五大看点]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-18392015?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>现场听众获赠收录这位国防部长过往演讲的“战争部野战手册”；军方宣布成立新的无人机司令部。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D-%E9%83%A8%E9%98%9F%E7%8A%B6%E5%86%B5-%E8%AE%B2%E8%AF%9D%E4%BA%94%E5%A4%A7%E7%9C%8B%E7%82%B9-bd35de19</link>
@@ -105,11 +112,11 @@
             <pubDate>Thu, 01 Oct 2026 00:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国9月PMI显示各行业状况改善]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-47112736?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国9月官方和民间的制造业、服务业和建筑业活动指标均有所回升。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88%E5%AE%98%E6%96%B9pmi%E6%98%BE%E7%A4%BA%E5%90%84%E8%A1%8C%E4%B8%9A%E7%8A%B6%E5%86%B5%E6%94%B9%E5%96%84-49387160</link>
-            <guid isPermaLink="false">WP-WSJS-0003935155</guid>
-            <pubDate>Wed, 30 Sep 2026 04:49:00 GMT</pubDate>
+            <title><![CDATA[水门事件数十年后，美国司法部审查尼克松是否遭受不公待遇]]></title>
+            <description><![CDATA[<img width="1280" height="847" src="https://images.wsj.net/im-00355640?size=1.511&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>近两年来，司法部一直将针对那些曾调查过特朗普的人员列为优先事项。如今，该部门开始审查另一位共和党总统是否曾遭遇不公对待，他就是尼克松。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B0%B4%E9%97%A8%E4%BA%8B%E4%BB%B6%E6%95%B0%E5%8D%81%E5%B9%B4%E5%90%8E-%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%AE%A1%E6%9F%A5%E5%B0%BC%E5%85%8B%E6%9D%BE%E6%98%AF%E5%90%A6%E9%81%AD%E5%8F%97%E4%B8%8D%E5%85%AC%E5%BE%85%E9%81%87-1f351d3e</link>
+            <guid isPermaLink="false">WP-WSJS-0003942705</guid>
+            <pubDate>Fri, 02 Oct 2026 00:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[谷歌AI进校园引发反思：“它让我脑子变慢了”]]></title>
@@ -124,13 +131,6 @@
             <link>https://cn.wsj.com/articles/%E6%8F%A1%E5%8A%9B%E8%83%BD%E5%8F%8D%E6%98%A0%E5%87%BA%E5%93%AA%E4%BA%9B%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5-6fb47156</link>
             <guid isPermaLink="false">WP-WSJS-0003939244</guid>
             <pubDate>Thu, 01 Oct 2026 03:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国普通富豪与超级富豪之间的差距正在扩大]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-57909283?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>占美国人口0.1%的超级富豪掌握着全国约15%的财富，平均每户家庭财富超过2亿美元。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-d03120da</link>
-            <guid isPermaLink="false">WP-WSJS-0003935156</guid>
-            <pubDate>Wed, 30 Sep 2026 03:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[欧洲豪华车企瞄准美国市场打造超大尺寸SUV]]></title>
@@ -175,6 +175,13 @@
             <pubDate>Wed, 30 Sep 2026 04:12:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国普通富豪与超级富豪之间的差距正在扩大]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-57909283?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>占美国人口0.1%的超级富豪掌握着全国约15%的财富，平均每户家庭财富超过2亿美元。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-d03120da</link>
+            <guid isPermaLink="false">WP-WSJS-0003935156</guid>
+            <pubDate>Wed, 30 Sep 2026 03:05:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美军撤离伊拉克，留下一个危机四伏的国家]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-72522965?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊拉克要求数万名武装人员交出武器，但美国与伊朗之间这场看不到尽头的战争，正将伊拉克推入更深的冲突。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%92%A4%E7%A6%BB%E4%BC%8A%E6%8B%89%E5%85%8B-%E7%95%99%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%B1%E6%9C%BA%E5%9B%9B%E4%BC%8F%E7%9A%84%E5%9B%BD%E5%AE%B6-2ed0600a</link>
@@ -210,13 +217,6 @@
             <pubDate>Tue, 29 Sep 2026 01:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国催婚催生出奇招：婚姻登记处打造成“浪漫圣地”]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-98355895?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着中国人口不断萎缩，中国政府希望看到更多的婚姻和新生儿。为此地方政府采取奇招，用诗歌、花卉拱门和吊灯等方式来打造更具吸引力的婚姻登记处。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%82%AC%E5%A9%9A%E5%82%AC%E7%94%9F%E5%87%BA%E5%A5%87%E6%8B%9B-%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E6%89%93%E9%80%A0%E6%88%90-%E6%B5%AA%E6%BC%AB%E5%9C%A3%E5%9C%B0-710d3608</link>
-            <guid isPermaLink="false">WP-WSJS-0003927927</guid>
-            <pubDate>Mon, 28 Sep 2026 05:51:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[如今我们也开始像AI聊天机器人那样说话了]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57450059?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在团队会议、群聊和喝拿铁咖啡时，人们发现自己不知不觉用上了“提示词腔”。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%A6%82%E4%BB%8A%E6%88%91%E4%BB%AC%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%83%8Fai%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%82%A3%E6%A0%B7%E8%AF%B4%E8%AF%9D%E4%BA%86-b782daa2</link>
@@ -224,18 +224,18 @@
             <pubDate>Thu, 01 Oct 2026 01:56:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国催婚催生出奇招：婚姻登记处打造成“浪漫圣地”]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-98355895?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着中国人口不断萎缩，中国政府希望看到更多的婚姻和新生儿。为此地方政府采取奇招，用诗歌、花卉拱门和吊灯等方式来打造更具吸引力的婚姻登记处。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%82%AC%E5%A9%9A%E5%82%AC%E7%94%9F%E5%87%BA%E5%A5%87%E6%8B%9B-%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E6%89%93%E9%80%A0%E6%88%90-%E6%B5%AA%E6%BC%AB%E5%9C%A3%E5%9C%B0-710d3608</link>
+            <guid isPermaLink="false">WP-WSJS-0003927927</guid>
+            <pubDate>Mon, 28 Sep 2026 05:51:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[售价上万美元的徕卡，何以成为欧洲制造业的“稀有赢家”]]></title>
             <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-12973008?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>徕卡的复古设计挺过了多次危机，但它的成功模式未必适用于所有企业。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%94%AE%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E5%BE%95%E5%8D%A1-%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84-%E7%A8%80%E6%9C%89%E8%B5%A2%E5%AE%B6-63431180</link>
             <guid isPermaLink="false">WP-WSJS-0003927881</guid>
             <pubDate>Mon, 28 Sep 2026 04:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[健身房猛男去上普拉提——练完抖成吉娃娃]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-79695376?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>普拉提等低冲击运动十分考验体能，即使是习惯卧推和波比跳的常年健身的男士也未必能轻松应对。我尝试了一下，真的不简单。</p>]]></description>
-            <link>https://cn.wsj.com/articles/gym-bros-pilates-solidcore-classes-b3b0e5d5-e39c2f3e</link>
-            <guid isPermaLink="false">WP-WSJS-0003928015</guid>
-            <pubDate>Mon, 28 Sep 2026 07:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:13:27.094153+00:00",
+  "generated_at": "2026-10-02T00:39:28.448846+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -29,15 +29,39 @@
       "error": ""
     },
     {
-      "title": "中国拥有拯救柴油市场的力量，但会出手吗？",
-      "summary": "理论上，和原油一样，中国也有能力给高企的柴油价格降温，但眼下中国炼油厂的产能利用率仅达75%。",
-      "link": "https://cn.wsj.com/articles/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-79cb7953",
-      "guid": "WP-WSJS-0003935696",
-      "pub_date": "Wed, 30 Sep 2026 11:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-42173450?size=1.501&width=1280",
-      "snapshot": "articles/china-has-the-power-to-bail-out-the-diesel-marke-398337ffd921.html",
+      "title": "英国首相伯纳姆力推毫不掩饰的“社会主义”式改革",
+      "summary": "这位新领导人意图与英国近年来的政治历史决裂，但首先必须赢得一场选举。",
+      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E5%8A%9B%E6%8E%A8%E6%AF%AB%E4%B8%8D%E6%8E%A9%E9%A5%B0%E7%9A%84-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E5%BC%8F%E6%94%B9%E9%9D%A9-4a649af4",
+      "guid": "WP-WSJS-0003939425",
+      "pub_date": "Thu, 01 Oct 2026 05:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-17823426?size=1.502&width=1280",
+      "snapshot": "articles/e8-8b-b1-e5-9b-bd-e9-a6-96-e7-9b-b8-e4-bc-af-e7--e5fe9d598986.html",
       "captured": true,
-      "capture_title": "中国拥有拯救柴油市场的力量，但会出手吗？",
+      "capture_title": "英国首相伯纳姆力推毫不掩饰的“社会主义”式改革",
+      "error": ""
+    },
+    {
+      "title": "美国房贷利率飙升，创四年来最大单周涨幅",
+      "summary": "30年期固定房贷利率从7.03%跃升至7.28%。债券抛售不断抬高购房者的借贷成本，一次又一次地重创本已步履蹒跚的房地产市场。",
+      "link": "https://cn.wsj.com/articles/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-f13b7c12",
+      "guid": "WP-WSJS-0003942707",
+      "pub_date": "Fri, 02 Oct 2026 00:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-77906608?size=1.5&width=1280",
+      "snapshot": "articles/mortgage-rates-surge-notching-largest-weekly-gai-18bcf9f74ea2.html",
+      "captured": true,
+      "capture_title": "美国房贷利率飙升，创四年来最大单周涨幅 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "乌克兰首次在实战中发射国产弹道导弹",
+      "summary": "泽连斯基表示，目前的重点是提高这款乌克兰制造武器的产量。",
+      "link": "https://cn.wsj.com/articles/ukraine-fires-hard-to-stop-ballistic-missile-for-first-time-431f7e6b",
+      "guid": "WP-WSJS-0003942734",
+      "pub_date": "Fri, 02 Oct 2026 00:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-43851268?size=1.499&width=1042",
+      "snapshot": "articles/ukraine-fires-hard-to-stop-ballistic-missile-for-47eb3d1ccfaf.html",
+      "captured": true,
+      "capture_title": "乌克兰首次在实战中发射国产弹道导弹 - WSJ",
       "error": ""
     },
     {
@@ -62,30 +86,6 @@
       "snapshot": "articles/e7-be-8e-e8-82-a1-e8-8e-b7-e5-a4-a7-e5-9e-8b-e7--91ea4df4cc7c.html",
       "captured": true,
       "capture_title": "美股获大型科技股托举，但第四季度恐步履维艰",
-      "error": ""
-    },
-    {
-      "title": "收益率飙升将美国债市带回世纪之交水平",
-      "summary": "持续不断的抛售压力周三将10年期美国国债收益率推高至5.3%上方，一举突破2007年的峰值，创下2002年以来的最高水平。",
-      "link": "https://cn.wsj.com/articles/%E6%94%B6%E7%9B%8A%E7%8E%87%E9%A3%99%E5%8D%87%E5%B0%86%E7%BE%8E%E5%9B%BD%E5%80%BA%E5%B8%82%E5%B8%A6%E5%9B%9E%E4%B8%96%E7%BA%AA%E4%B9%8B%E4%BA%A4%E6%B0%B4%E5%B9%B3-1836dd3e",
-      "guid": "WP-WSJS-0003938895",
-      "pub_date": "Thu, 01 Oct 2026 00:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-58139189?size=1.501&width=1280",
-      "snapshot": "articles/e6-94-b6-e7-9b-8a-e7-8e-87-e9-a3-99-e5-8d-87-e5--b1ac50206449.html",
-      "captured": true,
-      "capture_title": "收益率飙升将美国债市带回世纪之交水平",
-      "error": ""
-    },
-    {
-      "title": "英国首相伯纳姆力推毫不掩饰的“社会主义”式改革",
-      "summary": "这位新领导人意图与英国近年来的政治历史决裂，但首先必须赢得一场选举。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E5%8A%9B%E6%8E%A8%E6%AF%AB%E4%B8%8D%E6%8E%A9%E9%A5%B0%E7%9A%84-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E5%BC%8F%E6%94%B9%E9%9D%A9-4a649af4",
-      "guid": "WP-WSJS-0003939425",
-      "pub_date": "Thu, 01 Oct 2026 05:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-17823426?size=1.502&width=1280",
-      "snapshot": "articles/e8-8b-b1-e5-9b-bd-e9-a6-96-e7-9b-b8-e4-bc-af-e7--e5fe9d598986.html",
-      "captured": true,
-      "capture_title": "英国首相伯纳姆力推毫不掩饰的“社会主义”式改革",
       "error": ""
     },
     {
@@ -125,6 +125,18 @@
       "error": ""
     },
     {
+      "title": "中国拥有拯救柴油市场的力量，但会出手吗？",
+      "summary": "理论上，和原油一样，中国也有能力给高企的柴油价格降温，但眼下中国炼油厂的产能利用率仅达75%。",
+      "link": "https://cn.wsj.com/articles/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-79cb7953",
+      "guid": "WP-WSJS-0003935696",
+      "pub_date": "Wed, 30 Sep 2026 11:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-42173450?size=1.501&width=1280",
+      "snapshot": "articles/china-has-the-power-to-bail-out-the-diesel-marke-398337ffd921.html",
+      "captured": true,
+      "capture_title": "中国拥有拯救柴油市场的力量，但会出手吗？",
+      "error": ""
+    },
+    {
       "title": "赫格塞思“部队状况”讲话五大看点",
       "summary": "现场听众获赠收录这位国防部长过往演讲的“战争部野战手册”；军方宣布成立新的无人机司令部。",
       "link": "https://cn.wsj.com/articles/%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D-%E9%83%A8%E9%98%9F%E7%8A%B6%E5%86%B5-%E8%AE%B2%E8%AF%9D%E4%BA%94%E5%A4%A7%E7%9C%8B%E7%82%B9-bd35de19",
@@ -137,15 +149,15 @@
       "error": ""
     },
     {
-      "title": "中国9月PMI显示各行业状况改善",
-      "summary": "中国9月官方和民间的制造业、服务业和建筑业活动指标均有所回升。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88%E5%AE%98%E6%96%B9pmi%E6%98%BE%E7%A4%BA%E5%90%84%E8%A1%8C%E4%B8%9A%E7%8A%B6%E5%86%B5%E6%94%B9%E5%96%84-49387160",
-      "guid": "WP-WSJS-0003935155",
-      "pub_date": "Wed, 30 Sep 2026 04:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-47112736?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd9-e6-9c-88-e5-ae-98-e6-96-b9pmi-407782291901.html",
+      "title": "水门事件数十年后，美国司法部审查尼克松是否遭受不公待遇",
+      "summary": "近两年来，司法部一直将针对那些曾调查过特朗普的人员列为优先事项。如今，该部门开始审查另一位共和党总统是否曾遭遇不公对待，他就是尼克松。",
+      "link": "https://cn.wsj.com/articles/%E6%B0%B4%E9%97%A8%E4%BA%8B%E4%BB%B6%E6%95%B0%E5%8D%81%E5%B9%B4%E5%90%8E-%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%AE%A1%E6%9F%A5%E5%B0%BC%E5%85%8B%E6%9D%BE%E6%98%AF%E5%90%A6%E9%81%AD%E5%8F%97%E4%B8%8D%E5%85%AC%E5%BE%85%E9%81%87-1f351d3e",
+      "guid": "WP-WSJS-0003942705",
+      "pub_date": "Fri, 02 Oct 2026 00:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-00355640?size=1.511&width=1280",
+      "snapshot": "articles/e6-b0-b4-e9-97-a8-e4-ba-8b-e4-bb-b6-e6-95-b0-e5--2a867f3a536a.html",
       "captured": true,
-      "capture_title": "中国9月PMI显示各行业状况改善",
+      "capture_title": "水门事件数十年后，美国司法部审查尼克松是否遭受不公待遇 - WSJ",
       "error": ""
     },
     {
@@ -170,18 +182,6 @@
       "snapshot": "articles/e6-8f-a1-e5-8a-9b-e8-83-bd-e5-8f-8d-e6-98-a0-e5--6a9067738412.html",
       "captured": true,
       "capture_title": "握力能反映出哪些健康状况",
-      "error": ""
-    },
-    {
-      "title": "美国普通富豪与超级富豪之间的差距正在扩大",
-      "summary": "占美国人口0.1%的超级富豪掌握着全国约15%的财富，平均每户家庭财富超过2亿美元。",
-      "link": "https://cn.wsj.com/articles/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-d03120da",
-      "guid": "WP-WSJS-0003935156",
-      "pub_date": "Wed, 30 Sep 2026 03:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-57909283?size=1.5&width=1280",
-      "snapshot": "articles/the-gap-between-the-rich-and-the-very-very-rich--27852d203c3b.html",
-      "captured": true,
-      "capture_title": "美国普通富豪与超级富豪之间的差距正在扩大",
       "error": ""
     },
     {
@@ -257,6 +257,18 @@
       "error": ""
     },
     {
+      "title": "美国普通富豪与超级富豪之间的差距正在扩大",
+      "summary": "占美国人口0.1%的超级富豪掌握着全国约15%的财富，平均每户家庭财富超过2亿美元。",
+      "link": "https://cn.wsj.com/articles/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-d03120da",
+      "guid": "WP-WSJS-0003935156",
+      "pub_date": "Wed, 30 Sep 2026 03:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-57909283?size=1.5&width=1280",
+      "snapshot": "articles/the-gap-between-the-rich-and-the-very-very-rich--27852d203c3b.html",
+      "captured": true,
+      "capture_title": "美国普通富豪与超级富豪之间的差距正在扩大",
+      "error": ""
+    },
+    {
       "title": "美军撤离伊拉克，留下一个危机四伏的国家",
       "summary": "伊拉克要求数万名武装人员交出武器，但美国与伊朗之间这场看不到尽头的战争，正将伊拉克推入更深的冲突。",
       "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%86%9B%E6%92%A4%E7%A6%BB%E4%BC%8A%E6%8B%89%E5%85%8B-%E7%95%99%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%B1%E6%9C%BA%E5%9B%9B%E4%BC%8F%E7%9A%84%E5%9B%BD%E5%AE%B6-2ed0600a",
@@ -290,6 +302,30 @@
       "snapshot": "articles/e6-99-ae-e4-ba-ac-e7-9c-9f-e7-9a-84-e8-ae-a4-e4--2f827f5f8a79.html",
       "captured": true,
       "capture_title": "普京真的认为我是间谍吗？",
+      "error": ""
+    },
+    {
+      "title": "收益率飙升将美国债市带回世纪之交水平",
+      "summary": "持续不断的抛售压力周三将10年期美国国债收益率推高至5.3%上方，一举突破2007年的峰值，创下2002年以来的最高水平。",
+      "link": "https://cn.wsj.com/articles/%E6%94%B6%E7%9B%8A%E7%8E%87%E9%A3%99%E5%8D%87%E5%B0%86%E7%BE%8E%E5%9B%BD%E5%80%BA%E5%B8%82%E5%B8%A6%E5%9B%9E%E4%B8%96%E7%BA%AA%E4%B9%8B%E4%BA%A4%E6%B0%B4%E5%B9%B3-1836dd3e",
+      "guid": "WP-WSJS-0003938895",
+      "pub_date": "Thu, 01 Oct 2026 00:32:00 GMT",
+      "image_url": "https://images.wsj.net/im-58139189?size=1.501&width=1280",
+      "snapshot": "articles/e6-94-b6-e7-9b-8a-e7-8e-87-e9-a3-99-e5-8d-87-e5--b1ac50206449.html",
+      "captured": true,
+      "capture_title": "收益率飙升将美国债市带回世纪之交水平",
+      "error": ""
+    },
+    {
+      "title": "中国9月PMI显示各行业状况改善",
+      "summary": "中国9月官方和民间的制造业、服务业和建筑业活动指标均有所回升。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88%E5%AE%98%E6%96%B9pmi%E6%98%BE%E7%A4%BA%E5%90%84%E8%A1%8C%E4%B8%9A%E7%8A%B6%E5%86%B5%E6%94%B9%E5%96%84-49387160",
+      "guid": "WP-WSJS-0003935155",
+      "pub_date": "Wed, 30 Sep 2026 04:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-47112736?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd9-e6-9c-88-e5-ae-98-e6-96-b9pmi-407782291901.html",
+      "captured": true,
+      "capture_title": "中国9月PMI显示各行业状况改善",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/in-iran-talk-of-whether-to-build-a-nuclear-bomb--f8ad4ae9cd37.html",
       "captured": true,
       "capture_title": "伊朗国内关于是否制造核弹的讨论浮出水面",
-      "error": ""
-    },
-    {
-      "title": "美最高法院：特朗普政府官员可动用移民数据库核查选民身份",
-      "summary": "最高法院的一裁定为白宫和一些共和党执政的州扫清了障碍，该系统可能被用于清理选民名册，以及在票数出来后用于对选举结果提出质疑。",
-      "link": "https://cn.wsj.com/articles/supreme-court-says-trump-officials-can-use-immigration-database-for-voter-checks-56df7773",
-      "guid": "WP-WSJS-0003926028",
-      "pub_date": "Sat, 26 Sep 2026 02:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-42259317?size=1.499&width=1280",
-      "snapshot": "articles/supreme-court-says-trump-officials-can-use-immig-bdcb4892b6e1.html",
-      "captured": true,
-      "capture_title": "美最高法院：特朗普政府官员可动用移民数据库核查选民身份",
-      "error": ""
-    },
-    {
-      "title": "伊朗对抗美国的秘密武器：来自中国的支持",
-      "summary": "特朗普希望维持与习近平的关系，但伊朗海关数据显示，中国实体已向伊朗运送了数千批可用于无人机和导弹的零部件。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%8A%97%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8-%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%AF%E6%8C%81-4b18ff3a",
-      "guid": "WP-WSJS-0003919175",
-      "pub_date": "Thu, 24 Sep 2026 06:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-42315703?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e5-af-b9-e6-8a-97-e7-be-8e-e5--37ab1d3088b1.html",
-      "captured": true,
-      "capture_title": "伊朗对抗美国的秘密武器：来自中国的支持",
-      "error": ""
-    },
-    {
-      "title": "AI基础设施建设成为美国有史以来最大经济押注",
-      "summary": "数据中心的支出已超过运河、铁路和电网建设支出的总和，在创造就业和财富的同时，也在推高通胀。",
-      "link": "https://cn.wsj.com/articles/ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%BB%BA%E8%AE%BE%E6%88%90%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E7%BB%8F%E6%B5%8E%E6%8A%BC%E6%B3%A8-24212cf7",
-      "guid": "WP-WSJS-0003919083",
-      "pub_date": "Thu, 24 Sep 2026 04:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-16122342?size=1.5&width=1280",
-      "snapshot": "articles/ai-e5-9f-ba-e7-a1-80-e8-ae-be-e6-96-bd-e5-bb-ba--a8ab2f3134a3.html",
-      "captured": true,
-      "capture_title": "AI基础设施建设成为美国有史以来最大经济押注",
       "error": ""
     }
   ]
