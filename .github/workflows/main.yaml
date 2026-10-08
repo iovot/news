@@ -23,6 +23,7 @@ env:
   RSS_URL: https://cn.wsj.com/rss-news-and-feeds/zh-hans
   MAX_ITEMS: "25"
   WARP_PORT: "40000"
+  MIN_CAPTURE_PARAGRAPHS: "11"
 
 jobs:
   build-and-deploy:
