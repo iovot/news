@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 03:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 10:14:31 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 03:07:33 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 10:14:31 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,18 +42,32 @@
             <pubDate>Wed, 07 Oct 2026 23:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储纪要暗示年内将再加息，但10月无迫切行动必要]]></title>
-            <description><![CDATA[<img width="1280" height="958" src="https://images.wsj.net/im-62300636?size=1.336&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>继9月加息后，一些美联储高层官员暗示，进一步加息的举措可以等到12月再见分晓。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%81%94%E5%82%A8%E7%BA%AA%E8%A6%81%E6%9A%97%E7%A4%BA%E5%B9%B4%E5%86%85%E5%B0%86%E5%86%8D%E5%8A%A0%E6%81%AF-%E4%BD%8610%E6%9C%88%E6%97%A0%E8%BF%AB%E5%88%87%E8%A1%8C%E5%8A%A8%E5%BF%85%E8%A6%81-06a7ea77</link>
-            <guid isPermaLink="false">WP-WSJS-0003958596</guid>
-            <pubDate>Wed, 07 Oct 2026 23:54:00 GMT</pubDate>
+            <title><![CDATA[六年通胀对美国中期选举意味着什么？]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-50434968?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国通胀较四年前有所降温，但选民仍要为商品和服务支付高得多的价格。</p>]]></description>
+            <link>https://cn.wsj.com/articles/inflation-midterm-election-2026-286f5268</link>
+            <guid isPermaLink="false">WP-WSJS-0003959099</guid>
+            <pubDate>Thu, 08 Oct 2026 04:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国会议员希望同僚承诺接受中期选举结果]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99374090?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>民主党议员和反特朗普的共和党议员越来越担心，目前由共和党控制的国会可能阻挠民主党议员在明年1月入席。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E5%B8%8C%E6%9C%9B%E5%90%8C%E5%83%9A%E6%89%BF%E8%AF%BA%E6%8E%A5%E5%8F%97%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C-ed8ba0ef</link>
-            <guid isPermaLink="false">WP-WSJS-0003958826</guid>
-            <pubDate>Thu, 08 Oct 2026 01:11:00 GMT</pubDate>
+            <title><![CDATA[利率上升侵蚀科技股价值，再热门也难幸免]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-44493709?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>许多行业板块的股票已大幅下挫。备受追捧的热门科技股也不再享有昔日的高估值倍数。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%88%A9%E7%8E%87%E4%B8%8A%E5%8D%87%E4%BE%B5%E8%9A%80%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%B7%E5%80%BC-%E5%86%8D%E7%83%AD%E9%97%A8%E4%B9%9F%E9%9A%BE%E5%B9%B8%E5%85%8D-e98c5941</link>
+            <guid isPermaLink="false">WP-WSJS-0003958473</guid>
+            <pubDate>Wed, 07 Oct 2026 23:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[疑似伊朗无人机阴谋引发对英国基地安全的质疑]]></title>
+            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-11518902?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>无人机作战的兴起带来了一个问题：如何保护轰炸机等体积庞大、造价高昂的军事资产，即便它们距离前线有数千英里之遥？</p>]]></description>
+            <link>https://cn.wsj.com/articles/suspected-iranian-drone-plot-raises-security-questions-at-u-k-bases-27910840</link>
+            <guid isPermaLink="false">WP-WSJS-0003959176</guid>
+            <pubDate>Thu, 08 Oct 2026 04:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[失控飞行员已成为民航安全的一大威胁]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-29501771?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>迪拜航空事件凸显出航空业在飞行员蓄意坠机问题上所面临的困境，也引发了人们对驾驶舱技术和飞行员心理健康的关注。</p>]]></description>
+            <link>https://cn.wsj.com/articles/rogue-pilots-have-become-one-of-the-biggest-threats-to-airline-safety-7cd6af0c</link>
+            <guid isPermaLink="false">WP-WSJS-0003959143</guid>
+            <pubDate>Thu, 08 Oct 2026 04:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[间谍危机恐削弱德国最高情报机构]]></title>
@@ -61,20 +75,6 @@
             <link>https://cn.wsj.com/articles/the-spy-crisis-that-threatens-to-defang-germanys-top-intelligence-agency-f8a8437e</link>
             <guid isPermaLink="false">WP-WSJS-0003958984</guid>
             <pubDate>Thu, 08 Oct 2026 02:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪拜航空副驾驶在7月险些发动袭击]]></title>
-            <description><![CDATA[<img width="924" height="924" src="https://images.wsj.net/im-59171286?size=1&width=924" class="webfeedsFeaturedVisual" alt=""/><p>听取调查简报的人士说，此前遭阿曼航空禁飞的嫌疑人物色了能飞以色列的航空公司，并原计划在早前的一次迪拜航空行程中就采取行动。</p>]]></description>
-            <link>https://cn.wsj.com/articles/flydubai-co-pilot-almost-carried-out-his-attack-in-july-f1550237</link>
-            <guid isPermaLink="false">WP-WSJS-0003958563</guid>
-            <pubDate>Wed, 07 Oct 2026 23:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“准备开火”：无线电录音揭示美国对伊封锁前线的混乱与武力交织]]></title>
-            <description><![CDATA[<img width="1280" height="640" src="https://images.wsj.net/im-13671822?size=2&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>本报查阅的数十段录音复盘了美国海军在封锁伊朗石油运输行动中警告、混乱与打击交织的过程和局面。</p>]]></description>
-            <link>https://cn.wsj.com/articles/preparing-to-fire-hear-the-radio-commands-enforcing-the-u-s-blockade-of-iran-a19095aa</link>
-            <guid isPermaLink="false">WP-WSJS-0003955315</guid>
-            <pubDate>Wed, 07 Oct 2026 04:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[疲于内卷的中国年轻人在《毛选》中寻得意外解答]]></title>
@@ -91,11 +91,11 @@
             <pubDate>Thu, 08 Oct 2026 01:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国人为何迷上中国车？尤其是酷似揽胜的杰酷]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-59435283?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国奇瑞汽车制造的杰酷7是9月份英国最畅销的汽车。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-8bd73189</link>
-            <guid isPermaLink="false">WP-WSJS-0003951580</guid>
-            <pubDate>Tue, 06 Oct 2026 03:35:00 GMT</pubDate>
+            <title><![CDATA[“亲爱的，拜托了”：美驻希腊大使曾向捐款人索要10万美元清偿信用卡债]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68256322?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为MAGA阵营核心人物的吉尔福伊尔在其驻希腊大使职位获确认前，曾向捐款人索要10万美元，用于结清美运信用卡的欠款，并以安排对方接触特朗普政府高官作为交换。</p>]]></description>
+            <link>https://cn.wsj.com/articles/kimberlyguilfoyle-pushed-donor-to-wire-100-000-to-her-amex-account-d8b222a7</link>
+            <guid isPermaLink="false">WP-WSJS-0003959235</guid>
+            <pubDate>Thu, 08 Oct 2026 06:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[跨国代孕案中的华人夫妇被捕，被控虐待儿童]]></title>
@@ -112,11 +112,25 @@
             <pubDate>Tue, 06 Oct 2026 23:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84922725?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>它不一定要会飞，但最好是地球上跑得最快的汽车。特斯拉一再跳票的超级跑车Roadster下周将在得州发布。付了25万美金的预订者会满意吗？</p>]]></description>
-            <link>https://cn.wsj.com/articles/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-774479ad</link>
-            <guid isPermaLink="false">WP-WSJS-0003958878</guid>
-            <pubDate>Thu, 08 Oct 2026 01:46:00 GMT</pubDate>
+            <title><![CDATA[英国人为何迷上中国车？尤其是酷似揽胜的杰酷]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-59435283?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国奇瑞汽车制造的杰酷7是9月份英国最畅销的汽车。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-8bd73189</link>
+            <guid isPermaLink="false">WP-WSJS-0003951580</guid>
+            <pubDate>Tue, 06 Oct 2026 03:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI价格战升温，OpenAI紧逼Anthropic]]></title>
+            <description><![CDATA[<img width="1280" height="1089" src="https://images.wsj.net/im-18959482?size=1.175&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这两家公司都需要在按计划进行IPO之前，向华尔街证明其业务具有可持续性。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-33b7418e</link>
+            <guid isPermaLink="false">WP-WSJS-0003958959</guid>
+            <pubDate>Thu, 08 Oct 2026 03:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GLP-1类药物可能导致视力丧失？药企被告上法庭]]></title>
+            <description><![CDATA[<img width="1280" height="858" src="https://images.wsj.net/im-65533393?size=1.492&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>广受欢迎的糖尿病和减重药物存在可能导致视力丧失的潜在风险，这一风险已被标注在一些国家的药品警示标签上，但在美国却很少被讨论。</p>]]></description>
+            <link>https://cn.wsj.com/articles/patients-sue-glp-1-drugmakers-over-risk-of-sudden-vision-loss-2776b06d</link>
+            <guid isPermaLink="false">WP-WSJS-0003959191</guid>
+            <pubDate>Thu, 08 Oct 2026 05:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[甲骨文、博通和SpaceX寻求巨额发债，为购买AI芯片筹资]]></title>
@@ -126,11 +140,11 @@
             <pubDate>Thu, 08 Oct 2026 00:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“康奈尔大学七人案”诉讼再度引发美国有关性同意的辩论]]></title>
-            <description><![CDATA[<img width="1280" height="1925" src="https://images.wsj.net/im-72302558?size=0.665&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这起震惊全美的强奸指控也让美国有关性同意的争论再起，争论的焦点在于如何界定和裁定性同意。</p>]]></description>
-            <link>https://cn.wsj.com/articles/cornell-sexual-assault-investigation-lawsuit-6ce1b10a</link>
-            <guid isPermaLink="false">WP-WSJS-0003955472</guid>
-            <pubDate>Wed, 07 Oct 2026 05:54:00 GMT</pubDate>
+            <title><![CDATA[Manus母公司在一轮融资中筹资逾5亿美元]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21059483?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Manus的母公司Butterfly Effect通过一轮融资筹集逾5亿美元。这是中国政府要求Manus撤销Meta Platforms对Manus的收购交易后，Butterfly Effect的最新举措。</p>]]></description>
+            <link>https://cn.wsj.com/articles/manus-sparent-raises-more-than-500-million-in-funding-round-a34c489f</link>
+            <guid isPermaLink="false">WP-WSJS-0003959538</guid>
+            <pubDate>Thu, 08 Oct 2026 09:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[三名被解雇的OpenAI研究人员呼吁公司保留对AI推理过程的可见度]]></title>
@@ -140,11 +154,11 @@
             <pubDate>Thu, 08 Oct 2026 00:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI价格战升温，OpenAI紧逼Anthropic]]></title>
-            <description><![CDATA[<img width="1280" height="1089" src="https://images.wsj.net/im-18959482?size=1.175&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这两家公司都需要在按计划进行IPO之前，向华尔街证明其业务具有可持续性。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-33b7418e</link>
-            <guid isPermaLink="false">WP-WSJS-0003958959</guid>
-            <pubDate>Thu, 08 Oct 2026 03:01:00 GMT</pubDate>
+            <title><![CDATA[油价上涨逾2%，受胡塞武装袭击和美国海湾地区停产的影响]]></title>
+            <description><![CDATA[<img width="1280" height="839" src="https://images.wsj.net/im-40380723?size=1.526&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>12月交割的布伦特原油期货上涨2.6%；12月交割的西得州中质油期货上涨2.2%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-2a29ec31</link>
+            <guid isPermaLink="false">WP-WSJS-0003959399</guid>
+            <pubDate>Thu, 08 Oct 2026 08:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[富国银行因提振黑人购房率举措遭监管部门调查]]></title>
@@ -161,25 +175,18 @@
             <pubDate>Wed, 07 Oct 2026 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[如何谨慎应对火热的铜价]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-24224442?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>铜是今年表现最强劲的金属之一，今年迄今已上涨17%，接近历史高位。美国关税威胁已造成铜市场扭曲，这带来了一些风险。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E8%B0%A8%E6%85%8E%E5%BA%94%E5%AF%B9%E7%81%AB%E7%83%AD%E7%9A%84%E9%93%9C%E4%BB%B7-4ba9931d</link>
-            <guid isPermaLink="false">WP-WSJS-0003958850</guid>
-            <pubDate>Thu, 08 Oct 2026 01:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两位科学家因不对称合成研究获诺贝尔化学奖]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-27284648?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亨利·卡甘和硖合宪三因在不对称合成领域取得突破而获得2026年诺贝尔化学奖，这些成果推动了现代药物研发。</p>]]></description>
-            <link>https://cn.wsj.com/articles/nobel-prize-for-chemistry-awarded-for-work-on-asymmetric-synthesis-3c6ce42c</link>
-            <guid isPermaLink="false">WP-WSJS-0003956053</guid>
-            <pubDate>Thu, 08 Oct 2026 00:48:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[习近平访美作出罕见休息安排，与特朗普的峰会“缩水”数小时]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36126838?size=1.67&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士透露，中方官员提出不寻常的要求，希望美方配合习近平在美峰会期间的休息需求。这些安排罕见揭示了这位73岁领导人的体能局限。</p>]]></description>
             <link>https://cn.wsj.com/articles/xi-jinping-health-923d9a4e</link>
             <guid isPermaLink="false">WP-WSJS-0003948256</guid>
             <pubDate>Mon, 05 Oct 2026 03:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“康奈尔大学七人案”诉讼再度引发美国有关性同意的辩论]]></title>
+            <description><![CDATA[<img width="1280" height="1925" src="https://images.wsj.net/im-72302558?size=0.665&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这起震惊全美的强奸指控也让美国有关性同意的争论再起，争论的焦点在于如何界定和裁定性同意。</p>]]></description>
+            <link>https://cn.wsj.com/articles/cornell-sexual-assault-investigation-lawsuit-6ce1b10a</link>
+            <guid isPermaLink="false">WP-WSJS-0003955472</guid>
+            <pubDate>Wed, 07 Oct 2026 05:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FBI逮捕涉嫌监视台湾总统之子的中国代理人]]></title>
@@ -189,11 +196,18 @@
             <pubDate>Mon, 05 Oct 2026 23:20:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[霍尔木兹海峡恢复石油运输，但不是世界最需要的那种]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-72066620?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>船舶正把原油从霍尔木兹海峡运出，运输量几乎已恢复到伊朗战争前的水平。但这些船几乎没有运出眼下全球最需要的燃料：柴油。</p>]]></description>
-            <link>https://cn.wsj.com/articles/diesel-strait-of-hormuz-e9f3e28e</link>
-            <guid isPermaLink="false">WP-WSJS-0003951423</guid>
-            <pubDate>Tue, 06 Oct 2026 02:55:00 GMT</pubDate>
+            <title><![CDATA[巴菲特晚上也刷视频，他都看些啥？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34556862?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>格伦·克洛斯的影视片段、20世纪50年代的复古广告，还有《乌兹别克斯坦达人》——面对推荐算法的诱惑，就连这位传奇投资家也同样难以抗拒。</p>]]></description>
+            <link>https://cn.wsj.com/articles/warren-buffett-youtube-watching-b8c9f87d</link>
+            <guid isPermaLink="false">WP-WSJS-0003955158</guid>
+            <pubDate>Wed, 07 Oct 2026 01:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-84922725?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>它不一定要会飞，但最好是地球上跑得最快的汽车。特斯拉一再跳票的超级跑车Roadster下周将在得州发布。付了25万美金的预订者会满意吗？</p>]]></description>
+            <link>https://cn.wsj.com/articles/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-774479ad</link>
+            <guid isPermaLink="false">WP-WSJS-0003958878</guid>
+            <pubDate>Thu, 08 Oct 2026 01:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI攻克一道数学难题曾引发轩然大波，如今又一口气破解数百道]]></title>
@@ -203,32 +217,11 @@
             <pubDate>Wed, 07 Oct 2026 02:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝森特治下的财政部内部：关系紧张、人员流失、经济目标失守]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-20899005?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自贝森特2025年初出任财长以来，无论大事小情，他动不动就会训斥下属，不管是高级顾问还是初级员工。然而，特朗普反而对他更加倚重。</p>]]></description>
-            <link>https://cn.wsj.com/articles/bessent-treasury-tension-turnover-unmet-economic-goals-22624dfa</link>
-            <guid isPermaLink="false">WP-WSJS-0003955502</guid>
-            <pubDate>Wed, 07 Oct 2026 06:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[无声的电子战场正塑造未来战争]]></title>
-            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-74805477?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从诱骗高超音速导弹到干扰无人机信号，俄乌交战区正深陷一场电子军备竞赛。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-silent-electronic-battleground-shaping-the-future-of-warfare-da48cfc1</link>
-            <guid isPermaLink="false">WP-WSJS-0003955241</guid>
-            <pubDate>Wed, 07 Oct 2026 02:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特晚上也刷视频，他都看些啥？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34556862?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>格伦·克洛斯的影视片段、20世纪50年代的复古广告，还有《乌兹别克斯坦达人》——面对推荐算法的诱惑，就连这位传奇投资家也同样难以抗拒。</p>]]></description>
-            <link>https://cn.wsj.com/articles/warren-buffett-youtube-watching-b8c9f87d</link>
-            <guid isPermaLink="false">WP-WSJS-0003955158</guid>
-            <pubDate>Wed, 07 Oct 2026 01:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国士兵的新一代战场必需品：智能手机]]></title>
-            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-80294657?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>印尼演习展现美军高科技未来景象，亦暴露仍待弥合的技术瑕疵。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E7%9A%84%E6%96%B0%E4%B8%80%E4%BB%A3%E6%88%98%E5%9C%BA%E5%BF%85%E9%9C%80%E5%93%81-%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA-bfa94508</link>
-            <guid isPermaLink="false">WP-WSJS-0003951443</guid>
-            <pubDate>Tue, 06 Oct 2026 02:17:00 GMT</pubDate>
+            <title><![CDATA[体验无人驾驶出租车接送机：惬意，但太慢了]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-43687491?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如今往返更多机场有了全新的出行选择，只要你能习惯驾驶座上空无一人。9月份在菲尼克斯，笔者体验了三次Waymo的无人驾驶机场接送服务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/my-verdict-on-a-robotaxi-airport-ride-relaxing-but-really-slow-a445e043</link>
+            <guid isPermaLink="false">WP-WSJS-0003959138</guid>
+            <pubDate>Thu, 08 Oct 2026 03:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meta爆款AI应用背后关键人物：29岁的亿万富翁汪滔]]></title>
@@ -236,6 +229,13 @@
             <link>https://cn.wsj.com/articles/meta%E7%88%86%E6%AC%BEai%E5%BA%94%E7%94%A8%E8%83%8C%E5%90%8E%E5%85%B3%E9%94%AE%E4%BA%BA%E7%89%A9-29%E5%B2%81%E7%9A%84%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E6%B1%AA%E6%BB%94-31768f6a</link>
             <guid isPermaLink="false">WP-WSJS-0003948379</guid>
             <pubDate>Mon, 05 Oct 2026 05:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝森特治下的财政部内部：关系紧张、人员流失、经济目标失守]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-20899005?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自贝森特2025年初出任财长以来，无论大事小情，他动不动就会训斥下属，不管是高级顾问还是初级员工。然而，特朗普反而对他更加倚重。</p>]]></description>
+            <link>https://cn.wsj.com/articles/bessent-treasury-tension-turnover-unmet-economic-goals-22624dfa</link>
+            <guid isPermaLink="false">WP-WSJS-0003955502</guid>
+            <pubDate>Wed, 07 Oct 2026 06:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
