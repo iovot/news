@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:22:37.818142+00:00",
+  "generated_at": "2026-10-08T18:47:21.502309+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-50434968?size=1.5&width=1280",
       "snapshot": "articles/inflation-midterm-election-2026-286f5268-e6669c95c7ea.html",
       "captured": true,
-      "capture_title": "六年通胀对美国中期选举意味着什么？ - WSJ",
+      "capture_title": "六年通胀对美国中期选举意味着什么？",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-44493709?size=1.5&width=1280",
       "snapshot": "articles/e5-88-a9-e7-8e-87-e4-b8-8a-e5-8d-87-e4-be-b5-e8--e7392ded89ce.html",
       "captured": true,
-      "capture_title": "利率上升侵蚀科技股价值，再热门也难幸免 - WSJ",
+      "capture_title": "利率上升侵蚀科技股价值，再热门也难幸免",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-11518902?size=1.5&width=1280",
       "snapshot": "articles/suspected-iranian-drone-plot-raises-security-que-3fb764447cb2.html",
       "captured": true,
-      "capture_title": "疑似伊朗无人机阴谋引发对英国基地安全的质疑 - WSJ",
+      "capture_title": "疑似伊朗无人机阴谋引发对英国基地安全的质疑",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-29501771?size=1&width=1280",
       "snapshot": "articles/rogue-pilots-have-become-one-of-the-biggest-thre-e8dab9bb0d01.html",
       "captured": true,
-      "capture_title": "失控飞行员已成为民航安全的一大威胁 - WSJ",
+      "capture_title": "失控飞行员已成为民航安全的一大威胁",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-68256322?size=1.5&width=1280",
       "snapshot": "articles/kimberlyguilfoyle-pushed-donor-to-wire-100-000-t-441f7711959c.html",
       "captured": true,
-      "capture_title": "美国驻希腊大使吉尔福伊尔曾向特朗普捐款人索要10万美元清偿美运信用卡债 - WSJ",
+      "capture_title": "“亲爱的，拜托了”：美驻希腊大使曾向捐款人索要10万美元清偿信用卡债",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-65533393?size=1.492&width=1280",
       "snapshot": "articles/patients-sue-glp-1-drugmakers-over-risk-of-sudde-40fb05c72a61.html",
       "captured": true,
-      "capture_title": "GLP-1类药物可能导致视力丧失？药企被告上法庭 - WSJ",
+      "capture_title": "GLP-1类药物可能导致视力丧失？药企被告上法庭",
       "error": ""
     },
     {
@@ -209,6 +209,18 @@
       "error": ""
     },
     {
+      "title": "加拿大诗人卡森获诺贝尔文学奖",
+      "summary": "诺贝尔委员会称赞卡森风格独特，将古典学研究、抒情诗和先锋派翻译融于一体，并常常以个人化的当代女性主义视角，重新想象古希腊神话和哲学。",
+      "link": "https://cn.wsj.com/articles/canadian-poet-anne-carson-awarded-nobel-prize-in-literature-de70b1b8",
+      "guid": "WP-WSJS-0003959983",
+      "pub_date": "Thu, 08 Oct 2026 12:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-16097299?size=1.501&width=1280",
+      "snapshot": "articles/canadian-poet-anne-carson-awarded-nobel-prize-in-01e2f57b86d2.html",
+      "captured": true,
+      "capture_title": "加拿大诗人卡森获诺贝尔文学奖 - WSJ",
+      "error": ""
+    },
+    {
       "title": "三名被解雇的OpenAI研究人员呼吁公司保留对AI推理过程的可见度",
       "summary": "安全与对齐研究团队最近被解雇的三名员工在致董事会的一封信中呼吁，业界不应继续推进那些会进一步削弱监控AI能力的开发。",
       "link": "https://cn.wsj.com/articles/%E4%B8%89%E5%90%8D%E8%A2%AB%E8%A7%A3%E9%9B%87%E7%9A%84openai%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E5%91%BC%E5%90%81%E5%85%AC%E5%8F%B8%E4%BF%9D%E7%95%99%E5%AF%B9ai%E6%8E%A8%E7%90%86%E8%BF%87%E7%A8%8B%E7%9A%84%E5%8F%AF%E8%A7%81%E5%BA%A6-1bb2736c",
@@ -221,15 +233,15 @@
       "error": ""
     },
     {
-      "title": "油价上涨逾2%，受胡塞武装袭击和美国海湾地区停产的影响",
-      "summary": "12月交割的布伦特原油期货上涨2.6%；12月交割的西得州中质油期货上涨2.2%。",
+      "title": "布伦特原油涨逾4%，受美伊紧张局势和飓风伊萨亚斯影响",
+      "summary": "12月交割的布伦特原油期货上涨4.2%；12月交割的西得州中质油期货上涨3.9%。",
       "link": "https://cn.wsj.com/articles/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-2a29ec31",
       "guid": "WP-WSJS-0003959399",
-      "pub_date": "Thu, 08 Oct 2026 08:26:00 GMT",
+      "pub_date": "Thu, 08 Oct 2026 11:13:00 GMT",
       "image_url": "https://images.wsj.net/im-40380723?size=1.526&width=1280",
       "snapshot": "articles/oil-prices-rise-more-than-2-amid-houthi-attacks--3d31f0532d9a.html",
       "captured": true,
-      "capture_title": "油价上涨逾2%，受胡塞武装袭击和美国海湾地区停产的影响 - WSJ",
+      "capture_title": "布伦特原油涨逾4%，受美伊紧张局势和飓风伊萨亚斯影响",
       "error": ""
     },
     {
@@ -242,18 +254,6 @@
       "snapshot": "articles/wells-fargo-faces-regulator-probe-over-efforts-t-b7ce770119cd.html",
       "captured": true,
       "capture_title": "富国银行因提振黑人购房率举措遭监管部门调查",
-      "error": ""
-    },
-    {
-      "title": "特朗普关税让强迫劳动成焦点，而这个问题不会轻易消失",
-      "summary": "特朗普以强迫劳动为由加征关税的做法正面临民主党人主导的法律挑战，但无论结果如何，美国的各贸易伙伴都在采取更为强硬的立场。",
-      "link": "https://cn.wsj.com/articles/trumps-tariffs-put-a-spotlight-on-forced-labor-it-isnt-going-away-80fd9c8f",
-      "guid": "WP-WSJS-0003958466",
-      "pub_date": "Wed, 07 Oct 2026 23:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-31321040?size=1.501&width=1280",
-      "snapshot": "articles/trumps-tariffs-put-a-spotlight-on-forced-labor-i-1f9939c41347.html",
-      "captured": true,
-      "capture_title": "特朗普关税让强迫劳动成焦点，而这个问题不会轻易消失",
       "error": ""
     },
     {
@@ -301,7 +301,19 @@
       "image_url": "https://images.wsj.net/im-34556862?size=1.501&width=1280",
       "snapshot": "articles/warren-buffett-youtube-watching-b8c9f87d-76dda983e4ab.html",
       "captured": true,
-      "capture_title": "巴菲特晚上也刷视频，他都看些啥？ - WSJ",
+      "capture_title": "巴菲特晚上也刷视频，他都看些啥？",
+      "error": ""
+    },
+    {
+      "title": "特朗普关税让强迫劳动成焦点，而这个问题不会轻易消失",
+      "summary": "特朗普以强迫劳动为由加征关税的做法正面临民主党人主导的法律挑战，但无论结果如何，美国的各贸易伙伴都在采取更为强硬的立场。",
+      "link": "https://cn.wsj.com/articles/trumps-tariffs-put-a-spotlight-on-forced-labor-it-isnt-going-away-80fd9c8f",
+      "guid": "WP-WSJS-0003958466",
+      "pub_date": "Wed, 07 Oct 2026 23:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-31321040?size=1.501&width=1280",
+      "snapshot": "articles/trumps-tariffs-put-a-spotlight-on-forced-labor-i-1f9939c41347.html",
+      "captured": true,
+      "capture_title": "特朗普关税让强迫劳动成焦点，而这个问题不会轻易消失",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/openai-parts-ways-with-researchers-who-allegedly-e2257f58cbca.html",
       "captured": true,
       "capture_title": "OpenAI解雇涉嫌泄露机密信息的研究人员",
-      "error": ""
-    },
-    {
-      "title": "谷歌AI进校园引发反思：“它让我脑子变慢了”",
-      "summary": "认知退化和情感依赖风险，加上考试成绩下滑，正引发强烈抵制。",
-      "link": "https://cn.wsj.com/articles/%E8%B0%B7%E6%AD%8Cai%E8%BF%9B%E6%A0%A1%E5%9B%AD%E5%BC%95%E5%8F%91%E5%8F%8D%E6%80%9D-%E5%AE%83%E8%AE%A9%E6%88%91%E8%84%91%E5%AD%90%E5%8F%98%E6%85%A2%E4%BA%86-85376cc8",
-      "guid": "WP-WSJS-0003939446",
-      "pub_date": "Thu, 01 Oct 2026 06:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-75714205?size=1.5&width=1280",
-      "snapshot": "articles/e8-b0-b7-e6-ad-8cai-e8-bf-9b-e6-a0-a1-e5-9b-ad-e-471ff9fbf330.html",
-      "captured": true,
-      "capture_title": "谷歌AI进校园引发反思：“它让我脑子变慢了”",
       "error": ""
     }
   ]

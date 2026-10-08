@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 10:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 18:40:03 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 10:14:31 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 18:40:03 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -147,6 +147,13 @@
             <pubDate>Thu, 08 Oct 2026 09:58:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[加拿大诗人卡森获诺贝尔文学奖]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-16097299?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>诺贝尔委员会称赞卡森风格独特，将古典学研究、抒情诗和先锋派翻译融于一体，并常常以个人化的当代女性主义视角，重新想象古希腊神话和哲学。</p>]]></description>
+            <link>https://cn.wsj.com/articles/canadian-poet-anne-carson-awarded-nobel-prize-in-literature-de70b1b8</link>
+            <guid isPermaLink="false">WP-WSJS-0003959983</guid>
+            <pubDate>Thu, 08 Oct 2026 12:08:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[三名被解雇的OpenAI研究人员呼吁公司保留对AI推理过程的可见度]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-29219928?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>安全与对齐研究团队最近被解雇的三名员工在致董事会的一封信中呼吁，业界不应继续推进那些会进一步削弱监控AI能力的开发。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%89%E5%90%8D%E8%A2%AB%E8%A7%A3%E9%9B%87%E7%9A%84openai%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E5%91%BC%E5%90%81%E5%85%AC%E5%8F%B8%E4%BF%9D%E7%95%99%E5%AF%B9ai%E6%8E%A8%E7%90%86%E8%BF%87%E7%A8%8B%E7%9A%84%E5%8F%AF%E8%A7%81%E5%BA%A6-1bb2736c</link>
@@ -154,11 +161,11 @@
             <pubDate>Thu, 08 Oct 2026 00:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[油价上涨逾2%，受胡塞武装袭击和美国海湾地区停产的影响]]></title>
-            <description><![CDATA[<img width="1280" height="839" src="https://images.wsj.net/im-40380723?size=1.526&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>12月交割的布伦特原油期货上涨2.6%；12月交割的西得州中质油期货上涨2.2%。</p>]]></description>
+            <title><![CDATA[布伦特原油涨逾4%，受美伊紧张局势和飓风伊萨亚斯影响]]></title>
+            <description><![CDATA[<img width="1280" height="839" src="https://images.wsj.net/im-40380723?size=1.526&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>12月交割的布伦特原油期货上涨4.2%；12月交割的西得州中质油期货上涨3.9%。</p>]]></description>
             <link>https://cn.wsj.com/articles/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-2a29ec31</link>
             <guid isPermaLink="false">WP-WSJS-0003959399</guid>
-            <pubDate>Thu, 08 Oct 2026 08:26:00 GMT</pubDate>
+            <pubDate>Thu, 08 Oct 2026 11:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[富国银行因提振黑人购房率举措遭监管部门调查]]></title>
@@ -166,13 +173,6 @@
             <link>https://cn.wsj.com/articles/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-9e07a4dd</link>
             <guid isPermaLink="false">WP-WSJS-0003959014</guid>
             <pubDate>Thu, 08 Oct 2026 02:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普关税让强迫劳动成焦点，而这个问题不会轻易消失]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-31321040?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普以强迫劳动为由加征关税的做法正面临民主党人主导的法律挑战，但无论结果如何，美国的各贸易伙伴都在采取更为强硬的立场。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trumps-tariffs-put-a-spotlight-on-forced-labor-it-isnt-going-away-80fd9c8f</link>
-            <guid isPermaLink="false">WP-WSJS-0003958466</guid>
-            <pubDate>Wed, 07 Oct 2026 23:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[习近平访美作出罕见休息安排，与特朗普的峰会“缩水”数小时]]></title>
