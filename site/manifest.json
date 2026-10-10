@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:46:37.459636+00:00",
+  "generated_at": "2026-10-10T17:14:31.196868+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-08058205?size=1.501&width=1280",
       "snapshot": "articles/trump-announces-committee-to-investigate-fed-gov-8af18a34ea6d.html",
       "captured": true,
-      "capture_title": "特朗普宣布将举行白宫听证会，调查美联储官员莉莎·库克 - WSJ",
+      "capture_title": "特朗普宣布将举行白宫听证会，调查美联储官员莉莎·库克",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-82850588?size=1.582&width=1280",
       "snapshot": "articles/china-eu-move-forward-on-trade-relationship-talk-827452fca440.html",
       "captured": true,
-      "capture_title": "欧盟称与中国就削减对欧混动汽车出口达成谅解 - WSJ",
+      "capture_title": "欧盟称与中国就削减对欧混动汽车出口达成谅解",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-39974096?size=1.501&width=1280",
       "snapshot": "articles/u-s-sanctions-and-threatens-to-dismantle-interna-4de2560b6569.html",
       "captured": true,
-      "capture_title": "美国制裁国际刑事法院，并威胁将其瓦解 - WSJ",
+      "capture_title": "美国制裁国际刑事法院，并威胁将其瓦解",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-94623301?size=1.5&width=1280",
       "snapshot": "articles/affluent-and-older-americans-got-much-richer-in--c36d3e9b60c9.html",
       "captured": true,
-      "capture_title": "美国新冠疫情后财富格局：富裕和高龄人群财富大幅增加 - WSJ",
+      "capture_title": "美国新冠疫情后财富格局：富裕和高龄人群财富大幅增加",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-34410218?size=1.501&width=1280",
       "snapshot": "articles/anthropic-ai-model-goes-rogue-submits-fake-unsol-434a1b964073.html",
       "captured": true,
-      "capture_title": "Anthropic的AI模型失控，提交虚假的未破谋杀案线索 - WSJ",
+      "capture_title": "Anthropic的AI模型失控，提交虚假的未破谋杀案线索",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-10824282?size=1.501&width=1280",
       "snapshot": "articles/flydubai-co-pilot-planned-to-crash-into-israeli--a517a178235e.html",
       "captured": true,
-      "capture_title": "阿联酋称迪拜航空副驾驶曾计划驾机撞击以色列机场 - WSJ",
+      "capture_title": "阿联酋称迪拜航空副驾驶曾计划驾机撞击以色列机场",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-10300323?size=1.501&width=1280",
       "snapshot": "articles/a-year-on-bitcoin-languishes-a-third-below-its-a-2ce2974e6bba.html",
       "captured": true,
-      "capture_title": "比特币时隔一年仍较历史高点低三分之一，未来将何去何从？ - WSJ",
+      "capture_title": "比特币时隔一年仍较历史高点低三分之一，未来将何去何从？",
       "error": ""
     },
     {
