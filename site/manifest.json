@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:18:25.378727+00:00",
+  "generated_at": "2026-10-10T00:47:58.676550+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,6 +17,30 @@
       "error": ""
     },
     {
+      "title": "美股上涨；收益率飙升之际小盘股遭重挫",
+      "summary": "追踪小型企业股票的罗素2000小型股指数连续第五周下跌，创2022年5月以来最长的连续周跌纪录。",
+      "link": "https://cn.wsj.com/articles/as-yields-surged-small-cap-stocks-were-hit-hard-313996d8",
+      "guid": "WP-WSJS-0003965685",
+      "pub_date": "Sat, 10 Oct 2026 00:09:00 GMT",
+      "image_url": "https://images.wsj.net/im-10439618?size=1.501&width=1280",
+      "snapshot": "articles/as-yields-surged-small-cap-stocks-were-hit-hard--ff17f374fe72.html",
+      "captured": true,
+      "capture_title": "美股上涨；收益率飙升之际小盘股遭重挫 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普与普京就俄罗斯柴油达成协议",
+      "summary": "距离中期选举仅剩数周之际，特朗普和共和党正艰难应对选民对柴油和汽油价格飙升的担忧。",
+      "link": "https://cn.wsj.com/articles/trump-strikes-deal-with-putin-for-russian-diesel-c62cc6b5",
+      "guid": "WP-WSJS-0003965697",
+      "pub_date": "Sat, 10 Oct 2026 00:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-84373500?size=1.529&width=1280",
+      "snapshot": "articles/trump-strikes-deal-with-putin-for-russian-diesel-0e44335781e0.html",
+      "captured": true,
+      "capture_title": "特朗普与普京就俄罗斯柴油达成协议 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国央行驳斥人民币汇率被低估的说法",
       "summary": "中国央行周四表示，中国没有必要、也无意通过人民币贬值来获取贸易优势，并驳斥人民币汇率被低估的说法。",
       "link": "https://cn.wsj.com/articles/china-scentral-bank-rejects-claims-yuan-is-undervalued-41d64e2c",
@@ -29,39 +53,15 @@
       "error": ""
     },
     {
-      "title": "当前高收益率环境下，你该如何选择合适的债券策略",
-      "summary": "在追逐更高利率之前，债券买家必须先弄清楚自己究竟属于哪类投资者。",
-      "link": "https://cn.wsj.com/articles/choosing-the-right-bond-strategy-for-todays-high-yield-world-f1e11f2e",
-      "guid": "WP-WSJS-0003962753",
-      "pub_date": "Fri, 09 Oct 2026 03:09:00 GMT",
-      "image_url": "https://images.wsj.net/im-73952948?size=1.499&width=1280",
-      "snapshot": "articles/choosing-the-right-bond-strategy-for-todays-high-d2a6f52eef4d.html",
+      "title": "纽约市长马姆达尼对左翼阵营的掌控开始松动",
+      "summary": "马姆达尼带领纽约市民纪念10月7日事件三周年，并就ICE在曼哈顿北部的开枪事件作出回应之际，左派对他的坚定支持显露出松动迹象。",
+      "link": "https://cn.wsj.com/articles/the-week-mamdani-started-to-lose-his-grip-on-the-left-f82276e7",
+      "guid": "WP-WSJS-0003965705",
+      "pub_date": "Sat, 10 Oct 2026 00:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-54352685?size=1.501&width=1280",
+      "snapshot": "articles/the-week-mamdani-started-to-lose-his-grip-on-the-4540360f0bf6.html",
       "captured": true,
-      "capture_title": "当前高收益率环境下，你该如何选择合适的债券策略",
-      "error": ""
-    },
-    {
-      "title": "万斯称美国将暂停微软等公司参与H1B绿卡申请计划",
-      "summary": "特朗普政府严打涉嫌滥用移民制度的行为，此举正是相关行动的一环。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%87%E6%96%AF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%BE%AE%E8%BD%AF%E7%AD%89%E5%85%AC%E5%8F%B8%E5%8F%82%E4%B8%8Eh1b%E7%BB%BF%E5%8D%A1%E7%94%B3%E8%AF%B7%E8%AE%A1%E5%88%92-7ea8c146",
-      "guid": "WP-WSJS-0003962415",
-      "pub_date": "Thu, 08 Oct 2026 23:32:00 GMT",
-      "image_url": "https://images.wsj.net/im-17018602?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-87-e6-96-af-e7-a7-b0-e7-be-8e-e5-9b-bd-e5--eda8edafe5c7.html",
-      "captured": true,
-      "capture_title": "万斯称美国将暂停微软等公司参与H1B绿卡申请计划",
-      "error": ""
-    },
-    {
-      "title": "OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌",
-      "summary": "据报道，OpenAI的年化收入比此前预期的低200亿美元，但分析师表示这反映的是数据报告方式的差异，而非AI需求疲软。",
-      "link": "https://cn.wsj.com/articles/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-5898924f",
-      "guid": "WP-WSJS-0003962470",
-      "pub_date": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "image_url": "https://images.mktw.net/im-19235086?size=1.5&width=1280",
-      "snapshot": "articles/micron-nvidia-and-ai-chip-stocks-fall-as-report--624f0f4e1900.html",
-      "captured": true,
-      "capture_title": "OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌",
+      "capture_title": "纽约市长马姆达尼对左翼阵营的掌控开始松动 - WSJ",
       "error": ""
     },
     {
@@ -137,15 +137,15 @@
       "error": ""
     },
     {
-      "title": "马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？",
-      "summary": "在《社交网络》后续作品《社交清算》中，编剧兼导演亚伦·索尔金并未沿用原路线，而是将镜头聚焦于一位Facebook吹哨人和一名《华尔街日报》记者。",
-      "link": "https://cn.wsj.com/articles/%E9%A9%AC%E5%85%8B-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%9C%A8facebook%E7%94%B5%E5%BD%B1%E7%BB%AD%E4%BD%9C-%E7%A4%BE%E4%BA%A4%E6%B8%85%E7%AE%97-%E4%B8%AD%E6%B2%A6%E4%B8%BA%E9%85%8D%E8%A7%92-944fb01d",
-      "guid": "WP-WSJS-0003962613",
-      "pub_date": "Fri, 09 Oct 2026 01:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-78262952?size=1.499&width=1280",
-      "snapshot": "articles/e9-a9-ac-e5-85-8b--e6-89-8e-e5-85-8b-e4-bc-af-e6-22258936b57d.html",
+      "title": "万斯称美国将暂停微软等公司参与H1B绿卡申请计划",
+      "summary": "特朗普政府严打涉嫌滥用移民制度的行为，此举正是相关行动的一环。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%87%E6%96%AF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%BE%AE%E8%BD%AF%E7%AD%89%E5%85%AC%E5%8F%B8%E5%8F%82%E4%B8%8Eh1b%E7%BB%BF%E5%8D%A1%E7%94%B3%E8%AF%B7%E8%AE%A1%E5%88%92-7ea8c146",
+      "guid": "WP-WSJS-0003962415",
+      "pub_date": "Thu, 08 Oct 2026 23:32:00 GMT",
+      "image_url": "https://images.wsj.net/im-17018602?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-87-e6-96-af-e7-a7-b0-e7-be-8e-e5-9b-bd-e5--eda8edafe5c7.html",
       "captured": true,
-      "capture_title": "马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？",
+      "capture_title": "万斯称美国将暂停微软等公司参与H1B绿卡申请计划",
       "error": ""
     },
     {
@@ -197,18 +197,6 @@
       "error": ""
     },
     {
-      "title": "战火收紧全球能源供应，美国炼油商开启“印钞机”模式",
-      "summary": "随着中东冲突和乌克兰战争令全球争抢燃油供应，美国几家大型炼油商第三财季利润有望出现爆发式增长。",
-      "link": "https://cn.wsj.com/articles/%E6%88%98%E7%81%AB%E6%94%B6%E7%B4%A7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E5%BA%94-%E7%BE%8E%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%95%86%E5%BC%80%E5%90%AF-%E5%8D%B0%E9%92%9E%E6%9C%BA-%E6%A8%A1%E5%BC%8F-08c12ea8",
-      "guid": "WP-WSJS-0003962918",
-      "pub_date": "Fri, 09 Oct 2026 06:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-10158864?size=1.501&width=1280",
-      "snapshot": "articles/e6-88-98-e7-81-ab-e6-94-b6-e7-b4-a7-e5-85-a8-e7--08ba4785c6e7.html",
-      "captured": true,
-      "capture_title": "战火收紧全球能源供应，美国炼油商开启“印钞机”模式",
-      "error": ""
-    },
-    {
       "title": "法学家皮莱获诺贝尔和平奖",
       "summary": "纳维·皮莱被授予诺贝尔和平奖，以表彰她作为人权律师兼法官所做的工作。在长达数十年的职业生涯中，她持续揭露战争罪、不公与种族灭绝。",
       "link": "https://cn.wsj.com/articles/nobel-peace-prize-winner-2026-05fc5627",
@@ -217,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-33899012?size=1.501&width=1280",
       "snapshot": "articles/nobel-peace-prize-winner-2026-05fc5627-695d851e09df.html",
       "captured": true,
-      "capture_title": "法学家皮莱获诺贝尔和平奖 - WSJ",
+      "capture_title": "法学家皮莱获诺贝尔和平奖",
       "error": ""
     },
     {
@@ -230,6 +218,18 @@
       "snapshot": "articles/patients-sue-glp-1-drugmakers-over-risk-of-sudde-40fb05c72a61.html",
       "captured": true,
       "capture_title": "GLP-1类药物可能导致视力丧失？药企被告上法庭",
+      "error": ""
+    },
+    {
+      "title": "OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌",
+      "summary": "据报道，OpenAI的年化收入比此前预期的低200亿美元，但分析师表示这反映的是数据报告方式的差异，而非AI需求疲软。",
+      "link": "https://cn.wsj.com/articles/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-5898924f",
+      "guid": "WP-WSJS-0003962470",
+      "pub_date": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "image_url": "https://images.mktw.net/im-19235086?size=1.5&width=1280",
+      "snapshot": "articles/micron-nvidia-and-ai-chip-stocks-fall-as-report--624f0f4e1900.html",
+      "captured": true,
+      "capture_title": "OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌",
       "error": ""
     },
     {
@@ -281,6 +281,18 @@
       "error": ""
     },
     {
+      "title": "马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？",
+      "summary": "在《社交网络》后续作品《社交清算》中，编剧兼导演亚伦·索尔金并未沿用原路线，而是将镜头聚焦于一位Facebook吹哨人和一名《华尔街日报》记者。",
+      "link": "https://cn.wsj.com/articles/%E9%A9%AC%E5%85%8B-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%9C%A8facebook%E7%94%B5%E5%BD%B1%E7%BB%AD%E4%BD%9C-%E7%A4%BE%E4%BA%A4%E6%B8%85%E7%AE%97-%E4%B8%AD%E6%B2%A6%E4%B8%BA%E9%85%8D%E8%A7%92-944fb01d",
+      "guid": "WP-WSJS-0003962613",
+      "pub_date": "Fri, 09 Oct 2026 01:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-78262952?size=1.499&width=1280",
+      "snapshot": "articles/e9-a9-ac-e5-85-8b--e6-89-8e-e5-85-8b-e4-bc-af-e6-22258936b57d.html",
+      "captured": true,
+      "capture_title": "马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？",
+      "error": ""
+    },
+    {
       "title": "跨国代孕案中的华人夫妇被捕，被控虐待儿童",
       "summary": "在Silvia Zhang和Guojun Xuan的洛杉矶豪宅中发现14名婴幼儿，两人被控授权保姆殴打和体罚这些孩子，有时还指使施虐。",
       "link": "https://cn.wsj.com/articles/los-angeles-couple-found-with-mansion-full-of-surrogate-children-is-charged-with-abuse-f7886eba",
@@ -290,6 +302,30 @@
       "snapshot": "articles/los-angeles-couple-found-with-mansion-full-of-su-7e1f57cafcfb.html",
       "captured": true,
       "capture_title": "跨国代孕案中的华人夫妇被捕，被控虐待儿童",
+      "error": ""
+    },
+    {
+      "title": "当前高收益率环境下，你该如何选择合适的债券策略",
+      "summary": "在追逐更高利率之前，债券买家必须先弄清楚自己究竟属于哪类投资者。",
+      "link": "https://cn.wsj.com/articles/choosing-the-right-bond-strategy-for-todays-high-yield-world-f1e11f2e",
+      "guid": "WP-WSJS-0003962753",
+      "pub_date": "Fri, 09 Oct 2026 03:09:00 GMT",
+      "image_url": "https://images.wsj.net/im-73952948?size=1.499&width=1280",
+      "snapshot": "articles/choosing-the-right-bond-strategy-for-todays-high-d2a6f52eef4d.html",
+      "captured": true,
+      "capture_title": "当前高收益率环境下，你该如何选择合适的债券策略",
+      "error": ""
+    },
+    {
+      "title": "战火收紧全球能源供应，美国炼油商开启“印钞机”模式",
+      "summary": "随着中东冲突和乌克兰战争令全球争抢燃油供应，美国几家大型炼油商第三财季利润有望出现爆发式增长。",
+      "link": "https://cn.wsj.com/articles/%E6%88%98%E7%81%AB%E6%94%B6%E7%B4%A7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E5%BA%94-%E7%BE%8E%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%95%86%E5%BC%80%E5%90%AF-%E5%8D%B0%E9%92%9E%E6%9C%BA-%E6%A8%A1%E5%BC%8F-08c12ea8",
+      "guid": "WP-WSJS-0003962918",
+      "pub_date": "Fri, 09 Oct 2026 06:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-10158864?size=1.501&width=1280",
+      "snapshot": "articles/e6-88-98-e7-81-ab-e6-94-b6-e7-b4-a7-e5-85-a8-e7--08ba4785c6e7.html",
+      "captured": true,
+      "capture_title": "战火收紧全球能源供应，美国炼油商开启“印钞机”模式",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/trump-announces-another-payment-to-voters-ahead--5240bc1394ff.html",
       "captured": true,
       "capture_title": "美国中期选举在即，特朗普宣布将再次向选民发钱",
-      "error": ""
-    },
-    {
-      "title": "驻冲绳美军涉嫌谋杀当地女性，日本提出抗议",
-      "summary": "因涉嫌抢劫并杀害一名日本女性，冲绳警方逮捕了一名20岁的海军陆战队员。",
-      "link": "https://cn.wsj.com/articles/%E9%A9%BB%E5%86%B2%E7%BB%B3%E7%BE%8E%E5%86%9B%E6%B6%89%E5%AB%8C%E8%B0%8B%E6%9D%80%E5%BD%93%E5%9C%B0%E5%A5%B3%E6%80%A7-%E6%97%A5%E6%9C%AC%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE-a817642e",
-      "guid": "WP-WSJS-0003947947",
-      "pub_date": "Mon, 05 Oct 2026 00:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-86135817?size=1.517&width=1280",
-      "snapshot": "articles/e9-a9-bb-e5-86-b2-e7-bb-b3-e7-be-8e-e5-86-9b-e6--4ddeed8fca16.html",
-      "captured": true,
-      "capture_title": "驻冲绳美军涉嫌谋杀当地女性，日本提出抗议",
-      "error": ""
-    },
-    {
-      "title": "图解特朗普移民严打行动如何让地方警局轻松揽入巨资",
-      "summary": "国土安全部向参与全美移民执法专项行动的地方执法机构提供联邦拨款，平均每次抓捕可获得高达200万美元的补贴。",
-      "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E6%B0%91%E4%B8%A5%E6%89%93%E8%A1%8C%E5%8A%A8%E5%A6%82%E4%BD%95%E8%AE%A9%E5%9C%B0%E6%96%B9%E8%AD%A6%E5%B1%80%E8%BD%BB%E6%9D%BE%E6%8F%BD%E5%85%A5%E5%B7%A8%E8%B5%84-1d18d640",
-      "guid": "WP-WSJS-0003943084",
-      "pub_date": "Fri, 02 Oct 2026 04:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-79255688?size=1.78&width=1280",
-      "snapshot": "articles/e5-9b-be-e8-a7-a3-e7-89-b9-e6-9c-97-e6-99-ae-e7--487172760a9b.html",
-      "captured": true,
-      "capture_title": "图解特朗普移民严打行动如何让地方警局轻松揽入巨资",
-      "error": ""
-    },
-    {
-      "title": "弗拉维奥·博索纳罗得票超过卢拉，巴西总统选举将迎激烈决选",
-      "summary": "周日，弗拉维奥·博索纳罗在首轮投票中重创总统卢拉，使巴西右翼距离在这个拉美最大国家重新掌权更近一步。",
-      "link": "https://cn.wsj.com/articles/%E5%BC%97%E6%8B%89%E7%BB%B4%E5%A5%A5-%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%BE%97%E7%A5%A8%E8%B6%85%E8%BF%87%E5%8D%A2%E6%8B%89-%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E5%B0%86%E8%BF%8E%E6%BF%80%E7%83%88%E5%86%B3%E9%80%89-a4055096",
-      "guid": "WP-WSJS-0003948095",
-      "pub_date": "Mon, 05 Oct 2026 04:20:00 GMT",
-      "image_url": "https://images.wsj.net/im-01827744?size=1.499&width=1280",
-      "snapshot": "articles/e5-bc-97-e6-8b-89-e7-bb-b4-e5-a5-a5--e5-8d-9a-e7-a665fda09f7e.html",
-      "captured": true,
-      "capture_title": "弗拉维奥·博索纳罗得票超过卢拉，巴西总统选举将迎激烈决选",
       "error": ""
     }
   ]

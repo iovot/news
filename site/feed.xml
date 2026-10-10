@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 18:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 00:39:33 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 18:10:41 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 00:39:33 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,6 +35,20 @@
             <pubDate>Fri, 09 Oct 2026 05:02:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美股上涨；收益率飙升之际小盘股遭重挫]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10439618?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>追踪小型企业股票的罗素2000小型股指数连续第五周下跌，创2022年5月以来最长的连续周跌纪录。</p>]]></description>
+            <link>https://cn.wsj.com/articles/as-yields-surged-small-cap-stocks-were-hit-hard-313996d8</link>
+            <guid isPermaLink="false">WP-WSJS-0003965685</guid>
+            <pubDate>Sat, 10 Oct 2026 00:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普与普京就俄罗斯柴油达成协议]]></title>
+            <description><![CDATA[<img width="1280" height="837" src="https://images.wsj.net/im-84373500?size=1.529&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>距离中期选举仅剩数周之际，特朗普和共和党正艰难应对选民对柴油和汽油价格飙升的担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-strikes-deal-with-putin-for-russian-diesel-c62cc6b5</link>
+            <guid isPermaLink="false">WP-WSJS-0003965697</guid>
+            <pubDate>Sat, 10 Oct 2026 00:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国央行驳斥人民币汇率被低估的说法]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-27230655?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国央行周四表示，中国没有必要、也无意通过人民币贬值来获取贸易优势，并驳斥人民币汇率被低估的说法。</p>]]></description>
             <link>https://cn.wsj.com/articles/china-scentral-bank-rejects-claims-yuan-is-undervalued-41d64e2c</link>
@@ -42,25 +56,11 @@
             <pubDate>Thu, 08 Oct 2026 11:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[当前高收益率环境下，你该如何选择合适的债券策略]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-73952948?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在追逐更高利率之前，债券买家必须先弄清楚自己究竟属于哪类投资者。</p>]]></description>
-            <link>https://cn.wsj.com/articles/choosing-the-right-bond-strategy-for-todays-high-yield-world-f1e11f2e</link>
-            <guid isPermaLink="false">WP-WSJS-0003962753</guid>
-            <pubDate>Fri, 09 Oct 2026 03:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[万斯称美国将暂停微软等公司参与H1B绿卡申请计划]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-17018602?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普政府严打涉嫌滥用移民制度的行为，此举正是相关行动的一环。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%87%E6%96%AF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%BE%AE%E8%BD%AF%E7%AD%89%E5%85%AC%E5%8F%B8%E5%8F%82%E4%B8%8Eh1b%E7%BB%BF%E5%8D%A1%E7%94%B3%E8%AF%B7%E8%AE%A1%E5%88%92-7ea8c146</link>
-            <guid isPermaLink="false">WP-WSJS-0003962415</guid>
-            <pubDate>Thu, 08 Oct 2026 23:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-19235086?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据报道，OpenAI的年化收入比此前预期的低200亿美元，但分析师表示这反映的是数据报告方式的差异，而非AI需求疲软。</p>]]></description>
-            <link>https://cn.wsj.com/articles/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-5898924f</link>
-            <guid isPermaLink="false">WP-WSJS-0003962470</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[纽约市长马姆达尼对左翼阵营的掌控开始松动]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-54352685?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>马姆达尼带领纽约市民纪念10月7日事件三周年，并就ICE在曼哈顿北部的开枪事件作出回应之际，左派对他的坚定支持显露出松动迹象。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-week-mamdani-started-to-lose-his-grip-on-the-left-f82276e7</link>
+            <guid isPermaLink="false">WP-WSJS-0003965705</guid>
+            <pubDate>Sat, 10 Oct 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[朝韩非军事区地雷爆炸事件释放朝鲜严防脱北的信号]]></title>
@@ -105,11 +105,11 @@
             <pubDate>Thu, 08 Oct 2026 01:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-78262952?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在《社交网络》后续作品《社交清算》中，编剧兼导演亚伦·索尔金并未沿用原路线，而是将镜头聚焦于一位Facebook吹哨人和一名《华尔街日报》记者。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%A9%AC%E5%85%8B-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%9C%A8facebook%E7%94%B5%E5%BD%B1%E7%BB%AD%E4%BD%9C-%E7%A4%BE%E4%BA%A4%E6%B8%85%E7%AE%97-%E4%B8%AD%E6%B2%A6%E4%B8%BA%E9%85%8D%E8%A7%92-944fb01d</link>
-            <guid isPermaLink="false">WP-WSJS-0003962613</guid>
-            <pubDate>Fri, 09 Oct 2026 01:29:00 GMT</pubDate>
+            <title><![CDATA[万斯称美国将暂停微软等公司参与H1B绿卡申请计划]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-17018602?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普政府严打涉嫌滥用移民制度的行为，此举正是相关行动的一环。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%87%E6%96%AF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%BE%AE%E8%BD%AF%E7%AD%89%E5%85%AC%E5%8F%B8%E5%8F%82%E4%B8%8Eh1b%E7%BB%BF%E5%8D%A1%E7%94%B3%E8%AF%B7%E8%AE%A1%E5%88%92-7ea8c146</link>
+            <guid isPermaLink="false">WP-WSJS-0003962415</guid>
+            <pubDate>Thu, 08 Oct 2026 23:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[对沃尔玛而言，用机器人取代人类是一场耗资数十亿美元的苦战]]></title>
@@ -140,13 +140,6 @@
             <pubDate>Fri, 09 Oct 2026 01:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[战火收紧全球能源供应，美国炼油商开启“印钞机”模式]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10158864?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着中东冲突和乌克兰战争令全球争抢燃油供应，美国几家大型炼油商第三财季利润有望出现爆发式增长。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%88%98%E7%81%AB%E6%94%B6%E7%B4%A7%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E4%BE%9B%E5%BA%94-%E7%BE%8E%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%95%86%E5%BC%80%E5%90%AF-%E5%8D%B0%E9%92%9E%E6%9C%BA-%E6%A8%A1%E5%BC%8F-08c12ea8</link>
-            <guid isPermaLink="false">WP-WSJS-0003962918</guid>
-            <pubDate>Fri, 09 Oct 2026 06:48:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[法学家皮莱获诺贝尔和平奖]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33899012?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>纳维·皮莱被授予诺贝尔和平奖，以表彰她作为人权律师兼法官所做的工作。在长达数十年的职业生涯中，她持续揭露战争罪、不公与种族灭绝。</p>]]></description>
             <link>https://cn.wsj.com/articles/nobel-peace-prize-winner-2026-05fc5627</link>
@@ -159,6 +152,13 @@
             <link>https://cn.wsj.com/articles/patients-sue-glp-1-drugmakers-over-risk-of-sudden-vision-loss-2776b06d</link>
             <guid isPermaLink="false">WP-WSJS-0003959191</guid>
             <pubDate>Thu, 08 Oct 2026 05:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-19235086?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据报道，OpenAI的年化收入比此前预期的低200亿美元，但分析师表示这反映的是数据报告方式的差异，而非AI需求疲软。</p>]]></description>
+            <link>https://cn.wsj.com/articles/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-5898924f</link>
+            <guid isPermaLink="false">WP-WSJS-0003962470</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[失控飞行员已成为民航安全的一大威胁]]></title>
@@ -189,6 +189,13 @@
             <pubDate>Tue, 06 Oct 2026 23:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[马克·扎克伯格为何在Facebook电影续作《社交清算》中沦为配角？]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-78262952?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在《社交网络》后续作品《社交清算》中，编剧兼导演亚伦·索尔金并未沿用原路线，而是将镜头聚焦于一位Facebook吹哨人和一名《华尔街日报》记者。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%A9%AC%E5%85%8B-%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%9C%A8facebook%E7%94%B5%E5%BD%B1%E7%BB%AD%E4%BD%9C-%E7%A4%BE%E4%BA%A4%E6%B8%85%E7%AE%97-%E4%B8%AD%E6%B2%A6%E4%B8%BA%E9%85%8D%E8%A7%92-944fb01d</link>
+            <guid isPermaLink="false">WP-WSJS-0003962613</guid>
+            <pubDate>Fri, 09 Oct 2026 01:29:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[跨国代孕案中的华人夫妇被捕，被控虐待儿童]]></title>
             <description><![CDATA[<img width="991" height="658" src="https://images.wsj.net/im-03838404?size=1.5053763440860215&width=991" class="webfeedsFeaturedVisual" alt=""/><p>在Silvia Zhang和Guojun Xuan的洛杉矶豪宅中发现14名婴幼儿，两人被控授权保姆殴打和体罚这些孩子，有时还指使施虐。</p>]]></description>
             <link>https://cn.wsj.com/articles/los-angeles-couple-found-with-mansion-full-of-surrogate-children-is-charged-with-abuse-f7886eba</link>
@@ -208,13 +215,6 @@
             <link>https://cn.wsj.com/articles/warren-buffett-youtube-watching-b8c9f87d</link>
             <guid isPermaLink="false">WP-WSJS-0003955158</guid>
             <pubDate>Wed, 07 Oct 2026 01:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI逮捕涉嫌监视台湾总统之子的中国代理人]]></title>
-            <description><![CDATA[<img width="949" height="632" src="https://images.wsj.net/im-73631994?size=1.501&width=949" class="webfeedsFeaturedVisual" alt=""/><p>联邦诉状称，加州房地产经纪人张婉莹监视赖清德的儿子及其家人，并向中国方面的联络人汇报信息。</p>]]></description>
-            <link>https://cn.wsj.com/articles/fbi%E9%80%AE%E6%8D%95%E6%B6%89%E5%AB%8C%E7%9B%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E4%B9%8B%E5%AD%90%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%90%86%E4%BA%BA-24c09ab8</link>
-            <guid isPermaLink="false">WP-WSJS-0003951119</guid>
-            <pubDate>Mon, 05 Oct 2026 23:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[扔掉1升的水壶吧，你摄入的水分够多了]]></title>
