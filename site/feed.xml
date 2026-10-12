@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 19:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 00:20:10 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 19:25:02 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 00:20:10 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,18 +35,18 @@
             <pubDate>Fri, 09 Oct 2026 05:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股上涨；收益率飙升之际小盘股遭重挫]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10439618?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>追踪小型企业股票的罗素2000小型股指数连续第五周下跌，创2022年5月以来最长的连续周跌纪录。</p>]]></description>
-            <link>https://cn.wsj.com/articles/as-yields-surged-small-cap-stocks-were-hit-hard-313996d8</link>
-            <guid isPermaLink="false">WP-WSJS-0003965685</guid>
-            <pubDate>Sat, 10 Oct 2026 00:09:00 GMT</pubDate>
+            <title><![CDATA[欧盟称与中国就削减对欧混动汽车出口达成谅解]]></title>
+            <description><![CDATA[<img width="1280" height="809" src="https://images.wsj.net/im-82850588?size=1.582&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国与欧盟表示，双方已就中国对欧出口混合动力汽车达成谅解，并在其他领域的贸易谈判中取得进展。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-eu-move-forward-on-trade-relationship-talks-a2495245</link>
+            <guid isPermaLink="false">WP-WSJS-0003965861</guid>
+            <pubDate>Sat, 10 Oct 2026 02:42:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普与普京就俄罗斯柴油达成协议]]></title>
-            <description><![CDATA[<img width="1280" height="837" src="https://images.wsj.net/im-84373500?size=1.529&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>距离中期选举仅剩数周之际，特朗普和共和党正艰难应对选民对柴油和汽油价格飙升的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-strikes-deal-with-putin-for-russian-diesel-c62cc6b5</link>
-            <guid isPermaLink="false">WP-WSJS-0003965697</guid>
-            <pubDate>Sat, 10 Oct 2026 00:17:00 GMT</pubDate>
+            <title><![CDATA[特朗普推动俄乌能源停火，但莫斯科迄今仍拒绝此类协议]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-86393380?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普宣布，俄罗斯和乌克兰已同意停止攻击对方能源基础设施。一项俄罗斯柴油出口协议已引发了一些议员的严厉批评。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trumpdeclares-a-russia-ukraine-energy-ceasefire-but-moscow-hasn-t-confirmed-07f5cd84</link>
+            <guid isPermaLink="false">WP-WSJS-0003967565</guid>
+            <pubDate>Sun, 11 Oct 2026 23:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普宣布将举行白宫听证会，调查美联储官员莉莎·库克]]></title>
@@ -56,11 +56,11 @@
             <pubDate>Sat, 10 Oct 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟称与中国就削减对欧混动汽车出口达成谅解]]></title>
-            <description><![CDATA[<img width="1280" height="809" src="https://images.wsj.net/im-82850588?size=1.582&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国与欧盟表示，双方已就中国对欧出口混合动力汽车达成谅解，并在其他领域的贸易谈判中取得进展，缓解了有关中国政府与欧盟之间爆发贸易战的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-eu-move-forward-on-trade-relationship-talks-a2495245</link>
-            <guid isPermaLink="false">WP-WSJS-0003965861</guid>
-            <pubDate>Sat, 10 Oct 2026 02:42:00 GMT</pubDate>
+            <title><![CDATA[美股上涨；收益率飙升之际小盘股遭重挫]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10439618?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>追踪小型企业股票的罗素2000小型股指数连续第五周下跌，创2022年5月以来最长的连续周跌纪录。</p>]]></description>
+            <link>https://cn.wsj.com/articles/as-yields-surged-small-cap-stocks-were-hit-hard-313996d8</link>
+            <guid isPermaLink="false">WP-WSJS-0003965685</guid>
+            <pubDate>Sat, 10 Oct 2026 00:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[纽约市长马姆达尼对左翼阵营的掌控开始松动]]></title>
@@ -70,11 +70,18 @@
             <pubDate>Sat, 10 Oct 2026 00:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国央行驳斥人民币汇率被低估的说法]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-27230655?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国央行周四表示，中国没有必要、也无意通过人民币贬值来获取贸易优势，并驳斥人民币汇率被低估的说法。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-scentral-bank-rejects-claims-yuan-is-undervalued-41d64e2c</link>
-            <guid isPermaLink="false">WP-WSJS-0003959884</guid>
-            <pubDate>Thu, 08 Oct 2026 11:47:00 GMT</pubDate>
+            <title><![CDATA[美国制裁国际刑事法院，并威胁将其瓦解]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39974096?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在国际刑事法院向以色列总理内塔尼亚胡发出逮捕令后，美国总统特朗普领导的政府周五宣布对该法院实施全面制裁，威胁要瓦解这一机构。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-sanctions-and-threatens-to-dismantle-international-criminal-court-1cb23ac1</link>
+            <guid isPermaLink="false">WP-WSJS-0003965907</guid>
+            <pubDate>Sat, 10 Oct 2026 03:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[币安一名“高价值客户”如何为伊朗打通资金生命线]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-84080388?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一份此前未披露的币安文件及其他内部记录，揭示了赞贾尼网络利用该交易所绕过西方政府监管并转移资金的具体操作细节。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran-0306a5ae</link>
+            <guid isPermaLink="false">WP-WSJS-0003965813</guid>
+            <pubDate>Sat, 10 Oct 2026 02:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[在中国，藏族民心之争正酣]]></title>
@@ -84,11 +91,11 @@
             <pubDate>Thu, 08 Oct 2026 02:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗与胡塞武装发起一连串袭击，以期重夺霍尔木兹海峡控制权]]></title>
-            <description><![CDATA[<img width="794" height="528" src="https://images.wsj.net/im-30060330?size=1.5053763440860215&width=794" class="webfeedsFeaturedVisual" alt=""/><p>伊朗及其也门盟友胡塞武装分别发动袭击，对波斯湾产油国打出一记组合拳。这不仅大幅推高了油价，也进一步击碎了沙特阿拉伯首都居民的安全感。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E4%B8%8E%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%AF%86%E9%9B%86%E5%8F%8D%E6%89%91-%E4%BB%A5%E6%9C%9F%E9%87%8D%E5%A4%BA%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%8E%A7%E5%88%B6%E6%9D%83-6c430275</link>
-            <guid isPermaLink="false">WP-WSJS-0003962709</guid>
-            <pubDate>Fri, 09 Oct 2026 02:25:00 GMT</pubDate>
+            <title><![CDATA[美国新冠疫情后财富格局：富裕和高龄人群财富大幅增加]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-94623301?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新冠疫情之后的几年里，美国普通家庭的财富略有增长，而较富裕和年长的美国人则富裕了许多。</p>]]></description>
+            <link>https://cn.wsj.com/articles/affluent-and-older-americans-got-much-richer-in-the-postpandemic-years-2536f6a7</link>
+            <guid isPermaLink="false">WP-WSJS-0003965876</guid>
+            <pubDate>Sat, 10 Oct 2026 03:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“亲爱的，拜托了”：美驻希腊大使曾向捐款人索要10万美元清偿信用卡债]]></title>
@@ -105,15 +112,8 @@
             <pubDate>Thu, 08 Oct 2026 01:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国制裁国际刑事法院，并威胁将其瓦解]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39974096?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在国际刑事法院向以色列总理内塔尼亚胡发出逮捕令后，美国总统特朗普领导的政府周五宣布对该法院实施全面制裁，威胁要瓦解这一机构。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-s-sanctions-and-threatens-to-dismantle-international-criminal-court-1cb23ac1</link>
-            <guid isPermaLink="false">WP-WSJS-0003965907</guid>
-            <pubDate>Sat, 10 Oct 2026 03:34:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[对沃尔玛而言，用机器人取代人类是一场耗资数十亿美元的苦战]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-50853314?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>按程序在仓库分拣商品的机器在处理纸箱和火鸡时遇到难题；沃尔玛仓库自动化进程进入“最复杂阶段”。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-76093043?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>按程序在仓库分拣商品的机器在处理纸箱和火鸡时遇到难题；沃尔玛仓库自动化进程进入“最复杂阶段”。</p>]]></description>
             <link>https://cn.wsj.com/articles/walmart-automation-robots-warehouses-e9d6ad81</link>
             <guid isPermaLink="false">WP-WSJS-0003962812</guid>
             <pubDate>Fri, 09 Oct 2026 05:05:00 GMT</pubDate>
@@ -133,11 +133,11 @@
             <pubDate>Fri, 09 Oct 2026 01:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国新冠疫情后财富格局：富裕和高龄人群财富大幅增加]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-94623301?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新冠疫情之后的几年里，美国普通家庭的财富略有增长，而较富裕和年长的美国人则富裕了许多。</p>]]></description>
-            <link>https://cn.wsj.com/articles/affluent-and-older-americans-got-much-richer-in-the-postpandemic-years-2536f6a7</link>
-            <guid isPermaLink="false">WP-WSJS-0003965876</guid>
-            <pubDate>Sat, 10 Oct 2026 03:15:00 GMT</pubDate>
+            <title><![CDATA[保时捷前九个月交付量下降16%，受中国市场挑战拖累]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97289752?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国市场环境艰难、燃油版718车系停产，以及去年同期纯电动Macan需求强劲，均对交付量造成拖累。</p>]]></description>
+            <link>https://cn.wsj.com/articles/porsche-deliveries-fell-16-in-first-nine-months-of-year-0098099d</link>
+            <guid isPermaLink="false">WP-WSJS-0003967561</guid>
+            <pubDate>Sun, 11 Oct 2026 23:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anthropic的AI模型失控，提交虚假的未破谋杀案线索]]></title>
