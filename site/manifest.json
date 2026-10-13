@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-13T06:24:22.435220+00:00",
+  "generated_at": "2026-10-13T16:56:15.415762+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "为何中国不愿被划归为发达国家",
-      "summary": "按照世行的划分标准，中国非常接近高收入国家行列。但这与其在国际上塑造的“全球南方”领头羊形象产生冲突。",
-      "link": "https://cn.wsj.com/articles/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-8f3f3e2c",
-      "guid": "WP-WSJS-0003967876",
-      "pub_date": "Mon, 12 Oct 2026 04:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-22248465?size=1.499&width=1280",
-      "snapshot": "articles/why-china-doesnt-want-to-join-the-ranks-of-the-w-f4eb739f64fd.html",
+      "title": "习近平的超级大国雄心推动中国陷入危险的债务膨胀循环",
+      "summary": "在习近平治下，中国正陷入危险的债务膨胀循环，抑制了国内经济，也使世界各地贸易伙伴的利益受损。",
+      "link": "https://cn.wsj.com/articles/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-dc164bec",
+      "guid": "WP-WSJS-0003971057",
+      "pub_date": "Tue, 13 Oct 2026 08:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-73051828?size=1.501&width=1280",
+      "snapshot": "articles/xis-superpower-ambitions-fuel-a-dangerous-debt-s-c683daa66b6e.html",
       "captured": true,
-      "capture_title": "为何中国不愿被划归为发达国家",
+      "capture_title": "习近平的超级大国雄心推动中国陷入危险的债务膨胀循环 - WSJ",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-49658545?size=1.501&width=1280",
       "snapshot": "articles/e8-82-a1-e7-a5-a8-e6-9c-9f-e6-9d-83-e4-ba-a4-e6--21395bc8a9d9.html",
       "captured": true,
-      "capture_title": "股票期权交易火热，散户风险偏好依然旺盛 - WSJ",
+      "capture_title": "股票期权交易火热，散户风险偏好依然旺盛",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-31382418?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e5-88-9a-e5-ae-a3-e5--ba43794616ee.html",
       "captured": true,
-      "capture_title": "特朗普刚宣布能源停火，俄罗斯便袭击乌克兰能源设施 - WSJ",
+      "capture_title": "特朗普刚宣布能源停火，俄罗斯便袭击乌克兰能源设施",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-06222360?size=1.499&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-a7-b0-e6-ad-a3-e8--02a1013bb4cc.html",
       "captured": true,
-      "capture_title": "特朗普称正考虑是否解雇美国驻希腊大使吉尔福伊尔 - WSJ",
+      "capture_title": "特朗普称正考虑是否解雇美国驻希腊大使",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-40996326?size=1.501&width=1280",
       "snapshot": "articles/iran-is-fortifying-nuclear-sites-and-rallying-it-61337610b78b.html",
       "captured": true,
-      "capture_title": "伊朗加固核设施并动员民众，为战事重启做准备 - WSJ",
+      "capture_title": "伊朗加固核设施并动员民众，为战事重启做准备",
       "error": ""
     },
     {
@@ -85,7 +85,19 @@
       "image_url": "https://images.wsj.net/im-04291253?size=1.499&width=1280",
       "snapshot": "articles/ilhan-omars-home-is-searched-by-federal-agents-e-a442f6a79b42.html",
       "captured": true,
-      "capture_title": "民主党众议员伊尔汗·奥马尔的住所遭联邦探员搜查 - WSJ",
+      "capture_title": "民主党众议员伊尔汗·奥马尔的住所遭联邦探员搜查",
+      "error": ""
+    },
+    {
+      "title": "中国经济走弱正催生“失落的一代”",
+      "summary": "中国的年轻一代曾被教导，努力工作定能换来光明未来。如今，他们却感到身心俱疲：好工作越来越难找，人生的一个个里程碑也变得遥不可及。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%B5%B0%E5%BC%B1%E6%AD%A3%E5%82%AC%E7%94%9F-%E5%A4%B1%E8%90%BD%E7%9A%84%E4%B8%80%E4%BB%A3-7810e294",
+      "guid": "WP-WSJS-0003970916",
+      "pub_date": "Tue, 13 Oct 2026 06:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-73808495?size=1.4965986394557824&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e7-bb-8f-e6-b5-8e-e8-b5-b0-e5--8a063d41d2d6.html",
+      "captured": true,
+      "capture_title": "中国经济走弱正催生“失落的一代” - WSJ",
       "error": ""
     },
     {
@@ -94,10 +106,22 @@
       "link": "https://cn.wsj.com/articles/%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A7%E8%BD%A6%E5%B1%95%E5%A6%82%E4%BB%8A%E7%94%B1%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%94%B1%E4%B8%BB%E8%A7%92-4bedbbd5",
       "guid": "WP-WSJS-0003970680",
       "pub_date": "Tue, 13 Oct 2026 02:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-99285162?size=1.501&width=1280",
+      "image_url": "https://images.wsj.net/im-11266485?size=1.5&width=1280",
       "snapshot": "articles/e6-ac-a7-e6-b4-b2-e6-9c-80-e5-a4-a7-e8-bd-a6-e5--5f07f035a90e.html",
       "captured": true,
-      "capture_title": "欧洲最大车展如今由中国汽车唱主角 - WSJ",
+      "capture_title": "欧洲最大车展如今由中国汽车唱主角",
+      "error": ""
+    },
+    {
+      "title": "为何中国不愿被划归为发达国家",
+      "summary": "按照世行的划分标准，中国非常接近高收入国家行列。但这与其在国际上塑造的“全球南方”领头羊形象产生冲突。",
+      "link": "https://cn.wsj.com/articles/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-8f3f3e2c",
+      "guid": "WP-WSJS-0003967876",
+      "pub_date": "Mon, 12 Oct 2026 04:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-22248465?size=1.499&width=1280",
+      "snapshot": "articles/why-china-doesnt-want-to-join-the-ranks-of-the-w-f4eb739f64fd.html",
+      "captured": true,
+      "capture_title": "为何中国不愿被划归为发达国家",
       "error": ""
     },
     {
@@ -114,14 +138,14 @@
     },
     {
       "title": "促使特朗普改造海军装备的无名水兵之谜",
-      "summary": "一次偶遇促使美国总统要求改造航母舰队，也让五角大楼官员开始寻找那个神秘人物“比尔·琼斯”。",
+      "summary": "一次偶遇促使美国总统要求改造航母舰队，也让五角大楼官员开始寻找那个神秘人物“比尔·琼斯”。特朗普说琼斯让他相信，发射战机的旧式技术优于现代方法。",
       "link": "https://cn.wsj.com/articles/the-mystery-of-the-unknown-sailor-who-inspired-trump-to-shake-up-the-navy-e03530c0",
       "guid": "WP-WSJS-0003970644",
       "pub_date": "Tue, 13 Oct 2026 02:31:00 GMT",
       "image_url": "https://images.wsj.net/im-61391544?size=1.5053763440860215&width=1280",
       "snapshot": "articles/the-mystery-of-the-unknown-sailor-who-inspired-t-7e51e3925374.html",
       "captured": true,
-      "capture_title": "促使特朗普改造海军装备的无名水兵之谜 - WSJ",
+      "capture_title": "促使特朗普改造海军装备的无名水兵之谜",
       "error": ""
     },
     {
@@ -137,15 +161,15 @@
       "error": ""
     },
     {
-      "title": "得州参议院选举在即，特朗普支持的帕克斯顿被曝曾在迪拜与逃犯聚会",
-      "summary": "对帕克斯顿的背书成为特朗普在中期选举中风险最大的豪赌，关于这位得州总检长的负面消息不断曝出：他曾与两名逃犯以及一名并非其妻子的女性一起在迪拜跨年。",
-      "link": "https://cn.wsj.com/articles/ken-paxton-texas-senate-dubai-trip-fa0660a0",
-      "guid": "WP-WSJS-0003970858",
-      "pub_date": "Tue, 13 Oct 2026 05:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-11877440?size=1.501&width=1280",
-      "snapshot": "articles/ken-paxton-texas-senate-dubai-trip-fa0660a0-2fdc6e84f06e.html",
+      "title": "大公司都喊要裁员，为何细节迟迟不告知",
+      "summary": "从耐克到Meta，企业纷纷提前释放大范围裁员信号，可究竟谁会被裁、裁员何时落地，通知里没有说明。这是“裁员悬而未决”时代。",
+      "link": "https://cn.wsj.com/articles/corporate-layoff-announcements-workers-d0e95954",
+      "guid": "WP-WSJS-0003970968",
+      "pub_date": "Tue, 13 Oct 2026 07:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-99761361?size=1.501&width=1280",
+      "snapshot": "articles/corporate-layoff-announcements-workers-d0e95954-21fabbe02cb9.html",
       "captured": true,
-      "capture_title": "得州参议院选举在即，特朗普支持的帕克斯顿被曝曾在迪拜与逃犯聚会 - WSJ",
+      "capture_title": "大公司都喊要裁员，为何细节迟迟不告知 - WSJ",
       "error": ""
     },
     {
@@ -169,24 +193,12 @@
       "image_url": "https://images.wsj.net/im-56078428?size=1.4965986394557824&width=1280",
       "snapshot": "articles/anthropic-e5-8f-a6-e4-b8-80-e8-81-94-e5-90-88-e5-c0e3764f2549.html",
       "captured": true,
-      "capture_title": "Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "可穿戴设备真能免袖带监测血压吗？我亲测了一些设备",
-      "summary": "健康追踪设备如今可以提醒你注意那些身体感受不到的变化。医生提醒，这些数据可能让人焦虑，也可能带来虚假的安全感。",
-      "link": "https://cn.wsj.com/articles/%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87%E7%9C%9F%E8%83%BD%E5%85%8D%E8%A2%96%E5%B8%A6%E7%9B%91%E6%B5%8B%E8%A1%80%E5%8E%8B%E5%90%97-%E6%88%91%E4%BA%B2%E6%B5%8B%E4%BA%86%E4%B8%80%E4%BA%9B%E8%AE%BE%E5%A4%87-9afb6590",
-      "guid": "WP-WSJS-0003967933",
-      "pub_date": "Mon, 12 Oct 2026 06:06:00 GMT",
-      "image_url": "https://images.wsj.net/im-36412683?size=1.501&width=1280",
-      "snapshot": "articles/e5-8f-af-e7-a9-bf-e6-88-b4-e8-ae-be-e5-a4-87-e7--f833c3a81860.html",
-      "captured": true,
-      "capture_title": "可穿戴设备真能免袖带监测血压吗？我亲测了一些设备",
+      "capture_title": "Anthropic另一联合创始人布朗：试图扭转公司“觉醒派”形象",
       "error": ""
     },
     {
       "title": "Visa获准在中国筹备银行卡清算机构",
-      "summary": "这一批准是在美国总统特朗普与中国领导人习近平于5月在北京、9月在华盛顿会晤之后作出的。",
+      "summary": "在此次获批前，美国总统特朗普与中国领导人习近平先后在北京和华盛顿举行了会晤。",
       "link": "https://cn.wsj.com/articles/visa%E8%8E%B7%E5%87%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%AD%B9%E5%A4%87%E9%93%B6%E8%A1%8C%E5%8D%A1%E6%B8%85%E7%AE%97%E6%9C%BA%E6%9E%84-dff0bb51",
       "guid": "WP-WSJS-0003970860",
       "pub_date": "Tue, 13 Oct 2026 05:36:00 GMT",
@@ -205,7 +217,19 @@
       "image_url": "https://images.wsj.net/im-60013381?size=1.499&width=1280",
       "snapshot": "articles/meta-says-new-ai-model-is-state-of-the-art-will--20fa041f50d5.html",
       "captured": true,
-      "capture_title": "Meta称全新AI模型达最先进水平，将使Muse智能体更聪明 - WSJ",
+      "capture_title": "Meta称全新AI模型达最先进水平，将使Muse智能体更聪明",
+      "error": ""
+    },
+    {
+      "title": "墨西哥湾飓风不足以重塑保险市场",
+      "summary": "流入保险业的资本实际上可能正在削弱该行业。",
+      "link": "https://cn.wsj.com/articles/gulf-hurricane-not-big-enough-to-reset-insurance-market-004a2487",
+      "guid": "WP-WSJS-0003971471",
+      "pub_date": "Tue, 13 Oct 2026 11:09:00 GMT",
+      "image_url": "https://images.wsj.net/im-96528917?size=1.778&width=1280",
+      "snapshot": "articles/gulf-hurricane-not-big-enough-to-reset-insurance-4fedc35c6254.html",
+      "captured": true,
+      "capture_title": "墨西哥湾飓风不足以重塑保险市场 - WSJ",
       "error": ""
     },
     {
@@ -217,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-38549856?size=1.5&width=1280",
       "snapshot": "articles/at-robinhoods-mecca-for-risk-loving-traders-ever-0dda77190a15.html",
       "captured": true,
-      "capture_title": "在Robinhood交易者大会上，人人都有致富故事 - WSJ",
+      "capture_title": "在Robinhood交易者大会上，人人都有致富故事",
       "error": ""
     },
     {
@@ -229,7 +253,67 @@
       "image_url": "https://images.wsj.net/im-65251185?size=1.501&width=1280",
       "snapshot": "articles/e4-bb-8e-e8-89-be-e5-a5-a5-e7-93-a6-e7-82-bc-e9--713a3e392320.html",
       "captured": true,
-      "capture_title": "从艾奥瓦炼钢到费城造船，特朗普重振工业承诺面临重大考验 - WSJ",
+      "capture_title": "从艾奥瓦炼钢到费城造船，特朗普重振工业承诺面临重大考验",
+      "error": ""
+    },
+    {
+      "title": "可穿戴设备真能免袖带监测血压吗？我亲测了一些设备",
+      "summary": "健康追踪设备如今可以提醒你注意那些身体感受不到的变化。医生提醒，这些数据可能让人焦虑，也可能带来虚假的安全感。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87%E7%9C%9F%E8%83%BD%E5%85%8D%E8%A2%96%E5%B8%A6%E7%9B%91%E6%B5%8B%E8%A1%80%E5%8E%8B%E5%90%97-%E6%88%91%E4%BA%B2%E6%B5%8B%E4%BA%86%E4%B8%80%E4%BA%9B%E8%AE%BE%E5%A4%87-9afb6590",
+      "guid": "WP-WSJS-0003967933",
+      "pub_date": "Mon, 12 Oct 2026 06:06:00 GMT",
+      "image_url": "https://images.wsj.net/im-36412683?size=1.501&width=1280",
+      "snapshot": "articles/e5-8f-af-e7-a9-bf-e6-88-b4-e8-ae-be-e5-a4-87-e7--f833c3a81860.html",
+      "captured": true,
+      "capture_title": "可穿戴设备真能免袖带监测血压吗？我亲测了一些设备",
+      "error": ""
+    },
+    {
+      "title": "家用摄像头如何防偷窥？",
+      "summary": "弱密码、软件过时和Wi-Fi安全措施不足都可能让陌生人访问您的家用摄像头。",
+      "link": "https://cn.wsj.com/articles/how-to-keep-your-webcam-safe-from-prying-eyes-488ed796",
+      "guid": "WP-WSJS-0003970467",
+      "pub_date": "Tue, 13 Oct 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-81133731?size=1&width=1280",
+      "snapshot": "articles/how-to-keep-your-webcam-safe-from-prying-eyes-48-b8ddae4b996c.html",
+      "captured": true,
+      "capture_title": "家用摄像头如何防偷窥？ - WSJ",
+      "error": ""
+    },
+    {
+      "title": "父母如何资助子女买房才不会给日后留隐患？",
+      "summary": "令人望而却步的楼市正迫使美国许多购房者不得不寄望于父母的资助。真正的难题在于，如何不让家人的资助把事情弄复杂。",
+      "link": "https://cn.wsj.com/articles/%E5%AE%B6%E9%95%BF%E5%A6%82%E4%BD%95%E8%B5%84%E5%8A%A9%E5%AD%90%E5%A5%B3%E4%B9%B0%E6%88%BF%E6%89%8D%E4%B8%8D%E4%BC%9A%E7%BB%99%E6%97%A5%E5%90%8E%E7%95%99%E9%9A%90%E6%82%A3-a742dc8d",
+      "guid": "WP-WSJS-0003970565",
+      "pub_date": "Tue, 13 Oct 2026 01:36:00 GMT",
+      "image_url": "https://images.wsj.net/im-95486814?size=1.499&width=1280",
+      "snapshot": "articles/e5-ae-b6-e9-95-bf-e5-a6-82-e4-bd-95-e8-b5-84-e5--f82e415177dd.html",
+      "captured": true,
+      "capture_title": "父母如何资助子女买房才不会给日后留隐患？",
+      "error": ""
+    },
+    {
+      "title": "北欧在危险而分裂的世界中保持繁荣的秘诀",
+      "summary": "瑞典和丹麦正加大国防投入，解决支付系统、供应链和贸易中的薄弱环节，加强彼此之间以及与欧洲的联系，不再只依赖美国。这些国家非但没有为此付出代价，反而似乎发展得很好。",
+      "link": "https://cn.wsj.com/articles/%E5%8C%97%E6%AC%A7%E5%9C%A8%E5%8D%B1%E9%99%A9%E8%80%8C%E5%88%86%E8%A3%82%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%AD%E4%BF%9D%E6%8C%81%E7%B9%81%E8%8D%A3%E7%9A%84%E7%A7%98%E8%AF%80-107e7995",
+      "guid": "WP-WSJS-0003967996",
+      "pub_date": "Mon, 12 Oct 2026 06:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-15921990?size=1.501&width=1280",
+      "snapshot": "articles/e5-8c-97-e6-ac-a7-e5-9c-a8-e5-8d-b1-e9-99-a9-e8--74838a9ebdb9.html",
+      "captured": true,
+      "capture_title": "北欧在危险而分裂的世界中保持繁荣的秘诀",
+      "error": ""
+    },
+    {
+      "title": "得州参议院选举在即，特朗普支持的帕克斯顿被曝曾在迪拜与逃犯聚会",
+      "summary": "对帕克斯顿的背书成为特朗普在中期选举中风险最大的豪赌，关于这位得州总检长的负面消息不断曝出：他曾与两名逃犯以及一名并非其妻子的女性一起在迪拜跨年。",
+      "link": "https://cn.wsj.com/articles/ken-paxton-texas-senate-dubai-trip-fa0660a0",
+      "guid": "WP-WSJS-0003970858",
+      "pub_date": "Tue, 13 Oct 2026 05:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-11877440?size=1.501&width=1280",
+      "snapshot": "articles/ken-paxton-texas-senate-dubai-trip-fa0660a0-2fdc6e84f06e.html",
+      "captured": true,
+      "capture_title": "得州参议院选举在即，特朗普支持的帕克斯顿被曝曾在迪拜与逃犯聚会 - WSJ",
       "error": ""
     },
     {
@@ -254,30 +338,6 @@
       "snapshot": "articles/americans-win-nobel-prize-for-work-on-economic-s-487be99b4cf0.html",
       "captured": true,
       "capture_title": "两位美国经济学家因经济稳定研究获得诺贝尔经济学奖",
-      "error": ""
-    },
-    {
-      "title": "父母如何资助子女买房才不会给日后留隐患？",
-      "summary": "令人望而却步的楼市正迫使美国许多购房者不得不寄望于父母的资助。真正的难题在于，如何不让家人的资助把事情弄复杂。",
-      "link": "https://cn.wsj.com/articles/%E5%AE%B6%E9%95%BF%E5%A6%82%E4%BD%95%E8%B5%84%E5%8A%A9%E5%AD%90%E5%A5%B3%E4%B9%B0%E6%88%BF%E6%89%8D%E4%B8%8D%E4%BC%9A%E7%BB%99%E6%97%A5%E5%90%8E%E7%95%99%E9%9A%90%E6%82%A3-a742dc8d",
-      "guid": "WP-WSJS-0003970565",
-      "pub_date": "Tue, 13 Oct 2026 01:36:00 GMT",
-      "image_url": "https://images.wsj.net/im-95486814?size=1.499&width=1280",
-      "snapshot": "articles/e5-ae-b6-e9-95-bf-e5-a6-82-e4-bd-95-e8-b5-84-e5--f82e415177dd.html",
-      "captured": true,
-      "capture_title": "父母如何资助子女买房才不会给日后留隐患？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "北欧在危险而分裂的世界中保持繁荣的秘诀",
-      "summary": "瑞典和丹麦正加大国防投入，解决支付系统、供应链和贸易中的薄弱环节，加强彼此之间以及与欧洲的联系，不再只依赖美国。这些国家非但没有为此付出代价，反而似乎发展得很好。",
-      "link": "https://cn.wsj.com/articles/%E5%8C%97%E6%AC%A7%E5%9C%A8%E5%8D%B1%E9%99%A9%E8%80%8C%E5%88%86%E8%A3%82%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%AD%E4%BF%9D%E6%8C%81%E7%B9%81%E8%8D%A3%E7%9A%84%E7%A7%98%E8%AF%80-107e7995",
-      "guid": "WP-WSJS-0003967996",
-      "pub_date": "Mon, 12 Oct 2026 06:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-15921990?size=1.501&width=1280",
-      "snapshot": "articles/e5-8c-97-e6-ac-a7-e5-9c-a8-e5-8d-b1-e9-99-a9-e8--74838a9ebdb9.html",
-      "captured": true,
-      "capture_title": "北欧在危险而分裂的世界中保持繁荣的秘诀",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e8-81-94-e5-82-a8-e7-ba-aa-e8-a6-81-e6--e76e0de21301.html",
       "captured": true,
       "capture_title": "美联储纪要暗示年内将再加息，但10月无迫切行动必要 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国国会议员希望同僚承诺接受中期选举结果",
-      "summary": "民主党议员和反特朗普的共和党议员越来越担心，目前由共和党控制的国会可能阻挠民主党议员在明年1月入席。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E5%B8%8C%E6%9C%9B%E5%90%8C%E5%83%9A%E6%89%BF%E8%AF%BA%E6%8E%A5%E5%8F%97%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C-ed8ba0ef",
-      "guid": "WP-WSJS-0003958826",
-      "pub_date": "Thu, 08 Oct 2026 01:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-99374090?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-9b-bd-e4-bc-9a-e8-ae-ae-e5--0bea34b58ee2.html",
-      "captured": true,
-      "capture_title": "美国国会议员希望同僚承诺接受中期选举结果 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "迪拜航空副驾驶在7月险些发动袭击",
-      "summary": "听取调查简报的人士说，此前遭阿曼航空禁飞的嫌疑人物色了能飞以色列的航空公司，并原计划在早前的一次迪拜航空行程中就采取行动。",
-      "link": "https://cn.wsj.com/articles/flydubai-co-pilot-almost-carried-out-his-attack-in-july-f1550237",
-      "guid": "WP-WSJS-0003958563",
-      "pub_date": "Wed, 07 Oct 2026 23:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-59171286?size=1&width=924",
-      "snapshot": "articles/flydubai-co-pilot-almost-carried-out-his-attack--632dfe7472bd.html",
-      "captured": true,
-      "capture_title": "迪拜航空副驾驶在7月险些发动袭击",
-      "error": ""
-    },
-    {
-      "title": "“准备开火”：无线电录音揭示美国对伊封锁前线的混乱与武力交织",
-      "summary": "本报查阅的数十段录音复盘了美国海军在封锁伊朗石油运输行动中警告、混乱与打击交织的过程和局面。",
-      "link": "https://cn.wsj.com/articles/preparing-to-fire-hear-the-radio-commands-enforcing-the-u-s-blockade-of-iran-a19095aa",
-      "guid": "WP-WSJS-0003955315",
-      "pub_date": "Wed, 07 Oct 2026 04:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-13671822?size=2&width=1280",
-      "snapshot": "articles/preparing-to-fire-hear-the-radio-commands-enforc-8305f926eedc.html",
-      "captured": true,
-      "capture_title": "“准备开火”：无线电录音揭示美国对伊封锁前线的混乱与武力交织",
-      "error": ""
-    },
-    {
-      "title": "支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？",
-      "summary": "它不一定要会飞，但最好是地球上跑得最快的汽车。特斯拉一再跳票的超级跑车Roadster下周将在得州发布。付了25万美金的预订者会满意吗？",
-      "link": "https://cn.wsj.com/articles/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-774479ad",
-      "guid": "WP-WSJS-0003958878",
-      "pub_date": "Thu, 08 Oct 2026 01:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-84922725?size=1.501&width=1280",
-      "snapshot": "articles/they-paid-50-000-and-waited-nine-years-will-tesl-c347756e760b.html",
-      "captured": true,
-      "capture_title": "支付5万美元苦等九年，特斯拉超级跑车Roadster能否不负众望？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "如何谨慎应对火热的铜价",
-      "summary": "铜是今年表现最强劲的金属之一，今年迄今已上涨17%，接近历史高位。美国关税威胁已造成铜市场扭曲，这带来了一些风险。",
-      "link": "https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E8%B0%A8%E6%85%8E%E5%BA%94%E5%AF%B9%E7%81%AB%E7%83%AD%E7%9A%84%E9%93%9C%E4%BB%B7-4ba9931d",
-      "guid": "WP-WSJS-0003958850",
-      "pub_date": "Thu, 08 Oct 2026 01:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-24224442?size=1.501&width=1280",
-      "snapshot": "articles/e5-a6-82-e4-bd-95-e8-b0-a8-e6-85-8e-e5-ba-94-e5--5c70e9f92c01.html",
-      "captured": true,
-      "capture_title": "如何谨慎应对火热的铜价 - WSJ",
       "error": ""
     }
   ]

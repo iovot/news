@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 06:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 16:48:50 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 06:10:52 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 16:48:50 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[为何中国不愿被划归为发达国家]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-22248465?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>按照世行的划分标准，中国非常接近高收入国家行列。但这与其在国际上塑造的“全球南方”领头羊形象产生冲突。</p>]]></description>
-            <link>https://cn.wsj.com/articles/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-8f3f3e2c</link>
-            <guid isPermaLink="false">WP-WSJS-0003967876</guid>
-            <pubDate>Mon, 12 Oct 2026 04:26:00 GMT</pubDate>
+            <title><![CDATA[习近平的超级大国雄心推动中国陷入危险的债务膨胀循环]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-73051828?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在习近平治下，中国正陷入危险的债务膨胀循环，抑制了国内经济，也使世界各地贸易伙伴的利益受损。</p>]]></description>
+            <link>https://cn.wsj.com/articles/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-dc164bec</link>
+            <guid isPermaLink="false">WP-WSJS-0003971057</guid>
+            <pubDate>Tue, 13 Oct 2026 08:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[股票期权交易火热，散户风险偏好依然旺盛]]></title>
@@ -77,11 +77,25 @@
             <pubDate>Tue, 13 Oct 2026 00:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国经济走弱正催生“失落的一代”]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-73808495?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国的年轻一代曾被教导，努力工作定能换来光明未来。如今，他们却感到身心俱疲：好工作越来越难找，人生的一个个里程碑也变得遥不可及。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%B5%B0%E5%BC%B1%E6%AD%A3%E5%82%AC%E7%94%9F-%E5%A4%B1%E8%90%BD%E7%9A%84%E4%B8%80%E4%BB%A3-7810e294</link>
+            <guid isPermaLink="false">WP-WSJS-0003970916</guid>
+            <pubDate>Tue, 13 Oct 2026 06:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[欧洲最大车展如今由中国汽车唱主角]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99285162?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>两年前参展的中国汽车品牌仅有九个，而今年这一数字已增至约20个。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11266485?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>两年前参展的中国汽车品牌仅有九个，而今年这一数字已增至约20个。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A7%E8%BD%A6%E5%B1%95%E5%A6%82%E4%BB%8A%E7%94%B1%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%94%B1%E4%B8%BB%E8%A7%92-4bedbbd5</link>
             <guid isPermaLink="false">WP-WSJS-0003970680</guid>
             <pubDate>Tue, 13 Oct 2026 02:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为何中国不愿被划归为发达国家]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-22248465?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>按照世行的划分标准，中国非常接近高收入国家行列。但这与其在国际上塑造的“全球南方”领头羊形象产生冲突。</p>]]></description>
+            <link>https://cn.wsj.com/articles/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-8f3f3e2c</link>
+            <guid isPermaLink="false">WP-WSJS-0003967876</guid>
+            <pubDate>Mon, 12 Oct 2026 04:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国下一个“灰色地带”目标：美国保卫台湾的关键岛链]]></title>
@@ -92,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[促使特朗普改造海军装备的无名水兵之谜]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-61391544?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一次偶遇促使美国总统要求改造航母舰队，也让五角大楼官员开始寻找那个神秘人物“比尔·琼斯”。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-61391544?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一次偶遇促使美国总统要求改造航母舰队，也让五角大楼官员开始寻找那个神秘人物“比尔·琼斯”。特朗普说琼斯让他相信，发射战机的旧式技术优于现代方法。</p>]]></description>
             <link>https://cn.wsj.com/articles/the-mystery-of-the-unknown-sailor-who-inspired-trump-to-shake-up-the-navy-e03530c0</link>
             <guid isPermaLink="false">WP-WSJS-0003970644</guid>
             <pubDate>Tue, 13 Oct 2026 02:31:00 GMT</pubDate>
@@ -105,11 +119,11 @@
             <pubDate>Mon, 12 Oct 2026 01:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[得州参议院选举在即，特朗普支持的帕克斯顿被曝曾在迪拜与逃犯聚会]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11877440?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对帕克斯顿的背书成为特朗普在中期选举中风险最大的豪赌，关于这位得州总检长的负面消息不断曝出：他曾与两名逃犯以及一名并非其妻子的女性一起在迪拜跨年。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ken-paxton-texas-senate-dubai-trip-fa0660a0</link>
-            <guid isPermaLink="false">WP-WSJS-0003970858</guid>
-            <pubDate>Tue, 13 Oct 2026 05:50:00 GMT</pubDate>
+            <title><![CDATA[大公司都喊要裁员，为何细节迟迟不告知]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99761361?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从耐克到Meta，企业纷纷提前释放大范围裁员信号，可究竟谁会被裁、裁员何时落地，通知里没有说明。这是“裁员悬而未决”时代。</p>]]></description>
+            <link>https://cn.wsj.com/articles/corporate-layoff-announcements-workers-d0e95954</link>
+            <guid isPermaLink="false">WP-WSJS-0003970968</guid>
+            <pubDate>Tue, 13 Oct 2026 07:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[福利体系正在压垮英国]]></title>
@@ -126,15 +140,8 @@
             <pubDate>Tue, 13 Oct 2026 03:27:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[可穿戴设备真能免袖带监测血压吗？我亲测了一些设备]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36412683?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>健康追踪设备如今可以提醒你注意那些身体感受不到的变化。医生提醒，这些数据可能让人焦虑，也可能带来虚假的安全感。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87%E7%9C%9F%E8%83%BD%E5%85%8D%E8%A2%96%E5%B8%A6%E7%9B%91%E6%B5%8B%E8%A1%80%E5%8E%8B%E5%90%97-%E6%88%91%E4%BA%B2%E6%B5%8B%E4%BA%86%E4%B8%80%E4%BA%9B%E8%AE%BE%E5%A4%87-9afb6590</link>
-            <guid isPermaLink="false">WP-WSJS-0003967933</guid>
-            <pubDate>Mon, 12 Oct 2026 06:06:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Visa获准在中国筹备银行卡清算机构]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52317811?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这一批准是在美国总统特朗普与中国领导人习近平于5月在北京、9月在华盛顿会晤之后作出的。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52317811?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在此次获批前，美国总统特朗普与中国领导人习近平先后在北京和华盛顿举行了会晤。</p>]]></description>
             <link>https://cn.wsj.com/articles/visa%E8%8E%B7%E5%87%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%AD%B9%E5%A4%87%E9%93%B6%E8%A1%8C%E5%8D%A1%E6%B8%85%E7%AE%97%E6%9C%BA%E6%9E%84-dff0bb51</link>
             <guid isPermaLink="false">WP-WSJS-0003970860</guid>
             <pubDate>Tue, 13 Oct 2026 05:36:00 GMT</pubDate>
@@ -145,6 +152,13 @@
             <link>https://cn.wsj.com/articles/meta-says-new-ai-model-is-state-of-the-art-will-make-muse-agent-smarter-ee8ad437</link>
             <guid isPermaLink="false">WP-WSJS-0003970248</guid>
             <pubDate>Mon, 12 Oct 2026 23:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥湾飓风不足以重塑保险市场]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-96528917?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>流入保险业的资本实际上可能正在削弱该行业。</p>]]></description>
+            <link>https://cn.wsj.com/articles/gulf-hurricane-not-big-enough-to-reset-insurance-market-004a2487</link>
+            <guid isPermaLink="false">WP-WSJS-0003971471</guid>
+            <pubDate>Tue, 13 Oct 2026 11:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[在Robinhood交易者大会上，人人都有致富故事]]></title>
@@ -161,18 +175,18 @@
             <pubDate>Tue, 13 Oct 2026 00:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI智能体正威胁旅游企业，但爱彼迎仍有望成为赢家]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45825563?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>爱彼迎若想让股价在AI智能体时代表现强劲，就必须想办法将回头客转化为忠实客户。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E6%99%BA%E8%83%BD%E4%BD%93%E6%AD%A3%E5%A8%81%E8%83%81%E6%97%85%E6%B8%B8%E4%BC%81%E4%B8%9A-%E4%BD%86%E7%88%B1%E5%BD%BC%E8%BF%8E%E4%BB%8D%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E8%B5%A2%E5%AE%B6-df1e5288</link>
-            <guid isPermaLink="false">WP-WSJS-0003970631</guid>
-            <pubDate>Tue, 13 Oct 2026 02:21:00 GMT</pubDate>
+            <title><![CDATA[可穿戴设备真能免袖带监测血压吗？我亲测了一些设备]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36412683?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>健康追踪设备如今可以提醒你注意那些身体感受不到的变化。医生提醒，这些数据可能让人焦虑，也可能带来虚假的安全感。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8F%AF%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87%E7%9C%9F%E8%83%BD%E5%85%8D%E8%A2%96%E5%B8%A6%E7%9B%91%E6%B5%8B%E8%A1%80%E5%8E%8B%E5%90%97-%E6%88%91%E4%BA%B2%E6%B5%8B%E4%BA%86%E4%B8%80%E4%BA%9B%E8%AE%BE%E5%A4%87-9afb6590</link>
+            <guid isPermaLink="false">WP-WSJS-0003967933</guid>
+            <pubDate>Mon, 12 Oct 2026 06:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[两位美国经济学家因经济稳定研究获得诺贝尔经济学奖]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-04640712?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伯特·E·霍尔是斯坦福大学经济学教授，迈克尔·伍德福德则在哥伦比亚大学担任经济学教授。</p>]]></description>
-            <link>https://cn.wsj.com/articles/americans-win-nobel-prize-for-work-on-economic-stability-1337f3be</link>
-            <guid isPermaLink="false">WP-WSJS-0003968311</guid>
-            <pubDate>Mon, 12 Oct 2026 10:44:00 GMT</pubDate>
+            <title><![CDATA[家用摄像头如何防偷窥？]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-81133731?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>弱密码、软件过时和Wi-Fi安全措施不足都可能让陌生人访问您的家用摄像头。</p>]]></description>
+            <link>https://cn.wsj.com/articles/how-to-keep-your-webcam-safe-from-prying-eyes-488ed796</link>
+            <guid isPermaLink="false">WP-WSJS-0003970467</guid>
+            <pubDate>Tue, 13 Oct 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[父母如何资助子女买房才不会给日后留隐患？]]></title>
@@ -203,25 +217,11 @@
             <pubDate>Mon, 12 Oct 2026 01:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI算力争夺战愈演愈烈，硅谷格局面临重塑]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-67929481?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI热潮引发算力争夺战，昔日竞争对手纷纷联手，企业高管也不得不亲自出面争抢资源。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai-computing-power-demand-472bea61</link>
-            <guid isPermaLink="false">WP-WSJS-0003968071</guid>
-            <pubDate>Mon, 12 Oct 2026 07:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在中国，藏族民心之争正酣]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82605911?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>云南香格里拉通过将藏族文化去政治化与高度商业化包装，向大批汉族游客推销易于接受且符合监管要求的藏风体验。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%9C%A8%E4%B8%AD%E5%9B%BD-%E8%97%8F%E6%97%8F%E6%B0%91%E5%BF%83%E4%B9%8B%E4%BA%89%E6%AD%A3%E9%85%A3-a5a7f231</link>
-            <guid isPermaLink="false">WP-WSJS-0003958852</guid>
-            <pubDate>Thu, 08 Oct 2026 02:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[家用摄像头如何防偷窥？]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-81133731?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>弱密码、软件过时和Wi-Fi安全措施不足都可能让陌生人访问您的家用摄像头。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-to-keep-your-webcam-safe-from-prying-eyes-488ed796</link>
-            <guid isPermaLink="false">WP-WSJS-0003970467</guid>
-            <pubDate>Tue, 13 Oct 2026 00:46:00 GMT</pubDate>
+            <title><![CDATA[关于乳糖不耐受的是与非]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-88368506?size=1.506&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>大多数人都或多或少难以消化乳糖，但有办法尽量减少不适。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%85%B3%E4%BA%8E%E4%B9%B3%E7%B3%96%E4%B8%8D%E8%80%90%E5%8F%97%E7%9A%84%E6%98%AF%E4%B8%8E%E9%9D%9E-a428e13a</link>
+            <guid isPermaLink="false">WP-WSJS-0003970934</guid>
+            <pubDate>Tue, 13 Oct 2026 06:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“周日焦虑”真实存在，而且变得愈发严重]]></title>
