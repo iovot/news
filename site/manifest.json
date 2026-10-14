@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:29:33.773800+00:00",
+  "generated_at": "2026-10-14T11:35:59.895736+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-59346194?size=1.52&width=1280",
       "snapshot": "articles/e4-ba-ba-e5-8f-a3-e6-95-b0-e6-8d-ae-e5-b9-bb-e8--fbf82be304dd.html",
       "captured": true,
-      "capture_title": "人口数据幻象可能正在扭曲中国经济雄心 - WSJ",
+      "capture_title": "人口数据幻象可能正在扭曲中国经济雄心",
       "error": ""
     },
     {
@@ -53,15 +53,15 @@
       "error": ""
     },
     {
-      "title": "中国9月CPI和PPI涨幅双双扩大",
-      "summary": "中国9月PPI同比上涨5.0%，涨幅高于8月的3.8%，CPI则同比上涨0.9%，涨幅高于8月的0.8%，部分原因是能源价格大幅上涨以及上年同期基数较低。",
+      "title": "中国PPI涨幅创2022年6月以来最高",
+      "summary": "中国9月PPI同比涨幅创2022年6月以来最高，部分受到能源成本飙升和上年同期基数较低推动；CPI则同比上涨0.9%，涨幅高于8月的0.8%。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88cpi%E5%92%8Cppi%E6%B6%A8%E5%B9%85%E5%8F%8C%E5%8F%8C%E6%89%A9%E5%A4%A7-5de211fd",
       "guid": "WP-WSJS-0003974287",
-      "pub_date": "Wed, 14 Oct 2026 02:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-92078464?size=1.501&width=1280",
+      "pub_date": "Wed, 14 Oct 2026 04:44:00 GMT",
+      "image_url": "https://images.wsj.net/im-94230770?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd9-e6-9c-88cpi-e5-92-8cppi-e6-b6-6b895dff8a5f.html",
       "captured": true,
-      "capture_title": "中国9月CPI和PPI涨幅双双扩大 - WSJ",
+      "capture_title": "中国PPI涨幅创2022年6月以来最高",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-80228198?size=1.501&width=1280",
       "snapshot": "articles/e6-be-b3-e5-a4-a7-e5-88-a9-e4-ba-9a-e6-95-b0-e5--8d645de55a98.html",
       "captured": true,
-      "capture_title": "澳大利亚数十年来最大IPO告吹，AI概念股行情出现巨震 - WSJ",
+      "capture_title": "澳大利亚数十年来最大IPO告吹，AI概念股行情出现巨震",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-36411373?size=1.501&width=1280",
       "snapshot": "articles/kimberly-guilfoyle-greece-ambassador-resignation-d451f1f5e9b1.html",
       "captured": true,
-      "capture_title": "揭秘吉尔福伊尔作为美国驻希腊大使的最后时日 - WSJ",
+      "capture_title": "揭秘吉尔福伊尔作为美国驻希腊大使的最后时日",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-97132347?size=1.506&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-8a-9b-e5-87-ba-e4--e7ca7a42ffc1.html",
       "captured": true,
-      "capture_title": "特朗普抛出会晤金正恩意向，朝鲜则展示可打击美国本土的导弹 - WSJ",
+      "capture_title": "特朗普抛出会晤金正恩意向，朝鲜则展示可打击美国本土的导弹",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-95115069?size=1.501&width=1280",
       "snapshot": "articles/saudi-national-charged-with-bugging-openais-offi-ee25ad2bf816.html",
       "captured": true,
-      "capture_title": "一名沙特公民被控在OpenAI办公室安装窃听设备 - WSJ",
+      "capture_title": "一名沙特公民被控在OpenAI办公室安装窃听设备",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-68632640?size=1.78&width=1280",
       "snapshot": "articles/e5-8c-97-e7-ba-a6-e6-b0-b4-e5-9f-9f-e9-99-84-e8--218b0324fb5f.html",
       "captured": true,
-      "capture_title": "北约水域附近商船遭无人机袭击，联盟面临新考验 - WSJ",
+      "capture_title": "北约水域附近商船遭无人机袭击，联盟面临新考验",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-23823252?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-9b-bd-e9-98-b2-e5-88-9d-e5--3abe76c59623.html",
       "captured": true,
-      "capture_title": "美国防务初创企业涌入台湾，打造“去中国化”的无人机 - WSJ",
+      "capture_title": "美国防务初创企业涌入台湾，打造“去中国化”的无人机",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-19561513?size=1.501&width=1280",
       "snapshot": "articles/houthi-missile-china-parts-f2b7e65a-97009088d10d.html",
       "captured": true,
-      "capture_title": "胡塞武装正利用中国零部件制造先进导弹 - WSJ",
+      "capture_title": "胡塞武装正利用中国零部件制造先进导弹",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-07019548?size=1.501&width=1280",
       "snapshot": "articles/e8-8b-b9-e6-9e-9c-e5-85-ac-e5-8f-b8ceo-e7-89-b9--e49345c97eeb.html",
       "captured": true,
-      "capture_title": "苹果公司CEO特努斯的下一步大动作：HomeView智能家居中枢 - WSJ",
+      "capture_title": "苹果公司CEO特努斯的下一步大动作：HomeView智能家居中枢",
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-66934736?size=1.5&width=1280",
       "snapshot": "articles/trumps-new-press-secretary-makes-a-rocky-debut-b-8ef988a12933.html",
       "captured": true,
-      "capture_title": "新任白宫新闻秘书在首场记者会上时有卡顿 - WSJ",
+      "capture_title": "新任白宫新闻秘书在首场记者会上时有卡顿",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-17760971?size=1.373&width=1280",
       "snapshot": "articles/pope-leo-xiv-lung-cancer-404a748e-2a8b6f7ab253.html",
       "captured": true,
-      "capture_title": "教皇良十四世术后确诊肺癌 - WSJ",
+      "capture_title": "教皇良十四世术后确诊肺癌",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-27340640?size=1.5053763440860215&width=1280",
       "snapshot": "articles/cocaine-trade-is-booming-despite-airstrikes-5e66-1fcef82b8715.html",
       "captured": true,
-      "capture_title": "为何美国的空袭未能遏制全球可卡因贸易扩张？ - WSJ",
+      "capture_title": "为何美国的空袭未能遏制全球可卡因贸易扩张？",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.mktw.net/im-15411137?size=1.44&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e8-b4-a2-e5-af-8c-e9-87-8d-e5--42edcf8d4964.html",
       "captured": true,
-      "capture_title": "美国财富重心从房产转向股票，背后有何隐忧？ - WSJ",
+      "capture_title": "美国财富重心从房产转向股票，背后有何隐忧？",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-42969149?size=1.499&width=1280",
       "snapshot": "articles/roche-licenses-obesity-therapy-from-chinas-rona--7f75ed1ec4e4.html",
       "captured": true,
-      "capture_title": "罗氏与中国大睿生物达成至多11.6亿美元授权协议，布局肥胖症创新疗法 - WSJ",
+      "capture_title": "罗氏与中国大睿生物达成至多11.6亿美元授权协议，布局肥胖症创新疗法",
       "error": ""
     },
     {
@@ -241,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-00348993?size=1.44&width=1280",
       "snapshot": "articles/e7-be-8e-e5-85-89-e7-a7-91-e6-8a-80-e8-82-a1-e4--253e40395686.html",
       "captured": true,
-      "capture_title": "美光科技股价延续跌势，因有报道称中国长鑫存储取得技术进展 - WSJ",
+      "capture_title": "美光科技股价延续跌势，因有报道称中国长鑫存储取得技术进展",
       "error": ""
     },
     {
@@ -253,7 +253,7 @@
       "image_url": "https://images.wsj.net/im-40204230?size=1.411&width=1280",
       "snapshot": "articles/woman-alleges-sexual-assault-at-university-of-ch-03eec7a46f63.html",
       "captured": true,
-      "capture_title": "一名女子指控在芝加哥大学兄弟会遭性侵 - WSJ",
+      "capture_title": "一名女子指控在芝加哥大学兄弟会遭性侵",
       "error": ""
     },
     {
@@ -277,7 +277,7 @@
       "image_url": "https://images.wsj.net/im-26981206?size=1.778&width=1280",
       "snapshot": "articles/goliath-roller-coaster-death-casts-long-shadow-o-d6f1080e4709.html",
       "captured": true,
-      "capture_title": "过山车致命坠落事故给六旗娱乐翻盘计划蒙上阴影 - WSJ",
+      "capture_title": "过山车致命坠落事故给六旗娱乐翻盘计划蒙上阴影",
       "error": ""
     },
     {

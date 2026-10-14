@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 04:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 11:29:38 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 04:13:46 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 11:29:38 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -56,11 +56,11 @@
             <pubDate>Mon, 12 Oct 2026 04:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国9月CPI和PPI涨幅双双扩大]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92078464?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国9月PPI同比上涨5.0%，涨幅高于8月的3.8%，CPI则同比上涨0.9%，涨幅高于8月的0.8%，部分原因是能源价格大幅上涨以及上年同期基数较低。</p>]]></description>
+            <title><![CDATA[中国PPI涨幅创2022年6月以来最高]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-94230770?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国9月PPI同比涨幅创2022年6月以来最高，部分受到能源成本飙升和上年同期基数较低推动；CPI则同比上涨0.9%，涨幅高于8月的0.8%。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD9%E6%9C%88cpi%E5%92%8Cppi%E6%B6%A8%E5%B9%85%E5%8F%8C%E5%8F%8C%E6%89%A9%E5%A4%A7-5de211fd</link>
             <guid isPermaLink="false">WP-WSJS-0003974287</guid>
-            <pubDate>Wed, 14 Oct 2026 02:31:00 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 04:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[澳大利亚数十年来最大IPO告吹，AI概念股行情出现巨震]]></title>
@@ -238,6 +238,13 @@
             <pubDate>Mon, 12 Oct 2026 06:06:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[被裁员后我在朝圣之路徒步500英里，寻找人生下一站]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-25360865?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在AI时代裁员潮中失业的我，加入了穿越西班牙的朝圣之旅。我遇见了歌唱的修女，我的双脚伤痕累累，一路上，我还遇到许多跟我一样处于人生转折期的人。</p>]]></description>
+            <link>https://cn.wsj.com/articles/camino-de-santiago-pilgrimage-walk-47bc7cac</link>
+            <guid isPermaLink="false">WP-WSJS-0003974629</guid>
+            <pubDate>Wed, 14 Oct 2026 05:46:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[关于乳糖不耐受的是与非]]></title>
             <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-88368506?size=1.506&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>大多数人都或多或少难以消化乳糖，但有办法尽量减少不适。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%85%B3%E4%BA%8E%E4%B9%B3%E7%B3%96%E4%B8%8D%E8%80%90%E5%8F%97%E7%9A%84%E6%98%AF%E4%B8%8E%E9%9D%9E-a428e13a</link>
@@ -250,13 +257,6 @@
             <link>https://cn.wsj.com/articles/%E5%AE%B6%E9%95%BF%E5%A6%82%E4%BD%95%E8%B5%84%E5%8A%A9%E5%AD%90%E5%A5%B3%E4%B9%B0%E6%88%BF%E6%89%8D%E4%B8%8D%E4%BC%9A%E7%BB%99%E6%97%A5%E5%90%8E%E7%95%99%E9%9A%90%E6%82%A3-a742dc8d</link>
             <guid isPermaLink="false">WP-WSJS-0003970565</guid>
             <pubDate>Tue, 13 Oct 2026 01:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大公司都喊要裁员，为何细节迟迟不告知]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-99761361?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从耐克到Meta，企业纷纷提前释放大范围裁员信号，可究竟谁会被裁、裁员何时落地，通知里没有说明。这是“裁员悬而未决”时代。</p>]]></description>
-            <link>https://cn.wsj.com/articles/corporate-layoff-announcements-workers-d0e95954</link>
-            <guid isPermaLink="false">WP-WSJS-0003970968</guid>
-            <pubDate>Tue, 13 Oct 2026 07:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
