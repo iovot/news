@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:02:14.612876+00:00",
+  "generated_at": "2026-10-16T16:27:25.842619+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -26,6 +26,18 @@
       "snapshot": "articles/e5-88-ab-e6-80-a5-e7-9d-80-e6-8a-9b-e5-bc-83-e7--3415df1e9440.html",
       "captured": true,
       "capture_title": "别急着抛弃科技股——把握本次AI估值重置的几个策略",
+      "error": ""
+    },
+    {
+      "title": "中国拟对AI技术实施出口管制",
+      "summary": "在竞争日趋激烈之际，中国正考虑对AI技术实施新的出口管制，以保护这一具有关键战略意义的产业。",
+      "link": "https://cn.wsj.com/articles/china-proposes-export-controls-on-ai-technologies-0e2c3136",
+      "guid": "WP-WSJS-0003982491",
+      "pub_date": "Fri, 16 Oct 2026 12:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-54511389?size=1.501&width=1280",
+      "snapshot": "articles/china-proposes-export-controls-on-ai-technologie-2c7356830c43.html",
+      "captured": true,
+      "capture_title": "中国拟对AI技术实施出口管制 - WSJ",
       "error": ""
     },
     {
@@ -62,18 +74,6 @@
       "snapshot": "articles/doj-sues-california-to-block-ballots-from-20-000-20cfc7de5b85.html",
       "captured": true,
       "capture_title": "美国司法部起诉加州，寻求阻止2万名选民的选票被计入",
-      "error": ""
-    },
-    {
-      "title": "Meta与苹果携手，将开放权重AI引入Mac",
-      "summary": "Meta表示，其名为Muse Spark Open的新模型专为编程和智能体任务打造，并与苹果合作，在Mac电脑上本地运行。",
-      "link": "https://cn.wsj.com/articles/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-6f13d2fc",
-      "guid": "WP-WSJS-0003981290",
-      "pub_date": "Fri, 16 Oct 2026 00:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-70387221?size=1.501&width=1280",
-      "snapshot": "articles/meta-and-apple-longtime-foes-team-up-to-put-open-8f4b076d36de.html",
-      "captured": true,
-      "capture_title": "Meta与苹果携手，将开放权重AI引入Mac",
       "error": ""
     },
     {
@@ -137,6 +137,18 @@
       "error": ""
     },
     {
+      "title": "倒戈者：一名俄罗斯军官如何帮助乌克兰击杀数百俄士兵",
+      "summary": "作为近年军事史上破坏力最强的内应之一，列夫·斯图普尼科夫中尉向乌克兰方面提供俄军部署位置和作战计划，随后冒险出逃。",
+      "link": "https://cn.wsj.com/articles/russian-defector-deadly-sabotage-campaign-0ad040fe",
+      "guid": "WP-WSJS-0003981962",
+      "pub_date": "Fri, 16 Oct 2026 07:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-24522816?size=1.25&width=1280",
+      "snapshot": "articles/russian-defector-deadly-sabotage-campaign-0ad040-26d038a4d355.html",
+      "captured": true,
+      "capture_title": "倒戈者：一名俄罗斯军官如何帮助乌克兰击杀数百俄士兵 - WSJ",
+      "error": ""
+    },
+    {
       "title": "星盾如何运作，由谁控制？",
       "summary": "马斯克旗下的SpaceX为政府提供的星盾安全网络形式多样，其中包括一些对乌克兰战争行动至关重要的服务。",
       "link": "https://cn.wsj.com/articles/how-does-starshield-work-and-who-controls-it-1c7e26f5",
@@ -161,15 +173,15 @@
       "error": ""
     },
     {
-      "title": "一座“丑出天际”的桥：英国魅力不再的典型缩影",
-      "summary": "牛津这座20码长的新桥建造耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。",
-      "link": "https://cn.wsj.com/articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-457f3fe0",
-      "guid": "WP-WSJS-0003981743",
-      "pub_date": "Fri, 16 Oct 2026 03:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-57539403?size=1.501&width=1280",
-      "snapshot": "articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-brit-89806366914d.html",
+      "title": "Meta与苹果携手，将开放权重AI引入Mac",
+      "summary": "Meta表示，其名为Muse Spark Open的新模型专为编程和智能体任务打造，并与苹果合作，在Mac电脑上本地运行。",
+      "link": "https://cn.wsj.com/articles/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-6f13d2fc",
+      "guid": "WP-WSJS-0003981290",
+      "pub_date": "Fri, 16 Oct 2026 00:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-70387221?size=1.501&width=1280",
+      "snapshot": "articles/meta-and-apple-longtime-foes-team-up-to-put-open-8f4b076d36de.html",
       "captured": true,
-      "capture_title": "一座“丑出天际”的桥：英国魅力不再的典型缩影",
+      "capture_title": "Meta与苹果携手，将开放权重AI引入Mac",
       "error": ""
     },
     {
@@ -182,6 +194,18 @@
       "snapshot": "articles/e8-82-af-e5-be-b7-e5-9f-ba-e5-b0-86-e5-9c-a8-e6--0d9cbee7a2ea.html",
       "captured": true,
       "capture_title": "肯德基将在数千家美国餐厅用可口可乐替代百事可乐",
+      "error": ""
+    },
+    {
+      "title": "AI智能体给电商带来新挑战",
+      "summary": "AI智能体正在介入企业与客户之间的关系。这种介入对消费者以及智能体背后的科技公司而言可能是件好事，但对夹在中间的许多电商企业却构成了挑战。",
+      "link": "https://cn.wsj.com/articles/ai-agents-bring-new-headaches-to-online-sellers-d0f7687a",
+      "guid": "WP-WSJS-0003982509",
+      "pub_date": "Fri, 16 Oct 2026 12:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-17406883?size=1.501&width=1280",
+      "snapshot": "articles/ai-agents-bring-new-headaches-to-online-sellers--0c60780a16e2.html",
+      "captured": true,
+      "capture_title": "AI智能体给电商带来新挑战 - WSJ",
       "error": ""
     },
     {
@@ -221,15 +245,15 @@
       "error": ""
     },
     {
-      "title": "利率上升威胁华尔街交易业务中的“摇钱树”",
-      "summary": "债券市场疲软削弱了大型银行原有的一项优势。",
-      "link": "https://cn.wsj.com/articles/%E5%88%A9%E7%8E%87%E4%B8%8A%E5%8D%87%E5%A8%81%E8%83%81%E5%8D%8E%E5%B0%94%E8%A1%97%E4%BA%A4%E6%98%93%E4%B8%9A%E5%8A%A1%E4%B8%AD%E7%9A%84-%E6%91%87%E9%92%B1%E6%A0%91-72859f0f",
-      "guid": "WP-WSJS-0003981480",
-      "pub_date": "Fri, 16 Oct 2026 01:10:00 GMT",
-      "image_url": "https://images.wsj.net/im-82887497?size=1.501&width=1280",
-      "snapshot": "articles/e5-88-a9-e7-8e-87-e4-b8-8a-e5-8d-87-e5-a8-81-e8--272e486a1361.html",
+      "title": "一座“丑出天际”的桥：英国魅力不再的典型缩影",
+      "summary": "牛津这座20码长的新桥建造耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。",
+      "link": "https://cn.wsj.com/articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-457f3fe0",
+      "guid": "WP-WSJS-0003981743",
+      "pub_date": "Fri, 16 Oct 2026 03:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-57539403?size=1.501&width=1280",
+      "snapshot": "articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-brit-89806366914d.html",
       "captured": true,
-      "capture_title": "利率上升威胁华尔街交易业务中的“摇钱树”",
+      "capture_title": "一座“丑出天际”的桥：英国魅力不再的典型缩影",
       "error": ""
     },
     {
@@ -278,6 +302,18 @@
       "snapshot": "articles/houthi-missile-china-parts-f2b7e65a-97009088d10d.html",
       "captured": true,
       "capture_title": "胡塞武装正利用中国零部件制造先进导弹",
+      "error": ""
+    },
+    {
+      "title": "利率上升威胁华尔街交易业务中的“摇钱树”",
+      "summary": "债券市场疲软削弱了大型银行原有的一项优势。",
+      "link": "https://cn.wsj.com/articles/%E5%88%A9%E7%8E%87%E4%B8%8A%E5%8D%87%E5%A8%81%E8%83%81%E5%8D%8E%E5%B0%94%E8%A1%97%E4%BA%A4%E6%98%93%E4%B8%9A%E5%8A%A1%E4%B8%AD%E7%9A%84-%E6%91%87%E9%92%B1%E6%A0%91-72859f0f",
+      "guid": "WP-WSJS-0003981480",
+      "pub_date": "Fri, 16 Oct 2026 01:10:00 GMT",
+      "image_url": "https://images.wsj.net/im-82887497?size=1.501&width=1280",
+      "snapshot": "articles/e5-88-a9-e7-8e-87-e4-b8-8a-e5-8d-87-e5-a8-81-e8--272e486a1361.html",
+      "captured": true,
+      "capture_title": "利率上升威胁华尔街交易业务中的“摇钱树”",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/at-davos-kimberly-guilfoyle-boasted-of-private-j-32115e28e174.html",
       "captured": true,
       "capture_title": "美国驻希腊大使曾在达沃斯炫耀私人飞机旅行和奢华住宿，如今招致争议",
-      "error": ""
-    },
-    {
-      "title": "AI算力争夺战愈演愈烈，硅谷格局面临重塑",
-      "summary": "AI热潮引发算力争夺战，昔日竞争对手纷纷联手，企业高管也不得不亲自出面争抢资源。",
-      "link": "https://cn.wsj.com/articles/ai-computing-power-demand-472bea61",
-      "guid": "WP-WSJS-0003968071",
-      "pub_date": "Mon, 12 Oct 2026 07:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-67929481?size=1&width=1280",
-      "snapshot": "articles/ai-computing-power-demand-472bea61-5b316326958f.html",
-      "captured": true,
-      "capture_title": "AI算力争夺战愈演愈烈，硅谷格局面临重塑",
-      "error": ""
-    },
-    {
-      "title": "OpenAI在防范ChatGPT助长妄想方面取得进展",
-      "summary": "心理健康专家就这款广受欢迎的聊天机器人如何更好地提问、区分危机与其他状况给出了建议。",
-      "link": "https://cn.wsj.com/articles/openai%E5%9C%A8%E9%98%B2%E8%8C%83chatgpt%E5%8A%A9%E9%95%BF%E5%A6%84%E6%83%B3%E6%96%B9%E9%9D%A2%E5%8F%96%E5%BE%97%E8%BF%9B%E5%B1%95-d8491a44",
-      "guid": "WP-WSJS-0003967747",
-      "pub_date": "Mon, 12 Oct 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-77039918?size=1.501&width=1280",
-      "snapshot": "articles/openai-e5-9c-a8-e9-98-b2-e8-8c-83chatgpt-e5-8a-a-7e1b674819ee.html",
-      "captured": true,
-      "capture_title": "OpenAI在防范ChatGPT助长妄想方面取得进展",
-      "error": ""
-    },
-    {
-      "title": "保时捷前九个月交付量下降16%，受中国市场挑战拖累",
-      "summary": "中国市场环境艰难、燃油版718车系停产，以及去年同期纯电动Macan需求强劲，均对交付量造成拖累。",
-      "link": "https://cn.wsj.com/articles/porsche-deliveries-fell-16-in-first-nine-months-of-year-0098099d",
-      "guid": "WP-WSJS-0003967561",
-      "pub_date": "Sun, 11 Oct 2026 23:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-97289752?size=1.501&width=1280",
-      "snapshot": "articles/porsche-deliveries-fell-16-in-first-nine-months--362599cbd9d5.html",
-      "captured": true,
-      "capture_title": "保时捷前九个月交付量下降16%，受中国市场挑战拖累",
       "error": ""
     }
   ]

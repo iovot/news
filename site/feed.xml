@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 11:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 16:21:23 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 11:02:13 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 16:21:23 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,6 +42,13 @@
             <pubDate>Fri, 16 Oct 2026 00:40:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国拟对AI技术实施出口管制]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-54511389?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在竞争日趋激烈之际，中国正考虑对AI技术实施新的出口管制，以保护这一具有关键战略意义的产业。</p>]]></description>
+            <link>https://cn.wsj.com/articles/china-proposes-export-controls-on-ai-technologies-0e2c3136</link>
+            <guid isPermaLink="false">WP-WSJS-0003982491</guid>
+            <pubDate>Fri, 16 Oct 2026 12:02:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[哪些武器和情报只有美国能供给乌克兰？]]></title>
             <description><![CDATA[<img width="1280" height="1919" src="https://images.wsj.net/im-20820748?size=0.667&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>泽连斯基发出的警告，以及SpaceX的星链网络受到的干扰，凸显出如果美国停止提供一切支持，基辅将何等脆弱。</p>]]></description>
             <link>https://cn.wsj.com/articles/the-weapons-and-intel-that-only-the-u-s-can-give-to-ukraine-884c47d6</link>
@@ -61,13 +68,6 @@
             <link>https://cn.wsj.com/articles/doj-sues-california-to-block-ballots-from-20-000-voters-e33960d7</link>
             <guid isPermaLink="false">WP-WSJS-0003981331</guid>
             <pubDate>Fri, 16 Oct 2026 00:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta与苹果携手，将开放权重AI引入Mac]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70387221?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Meta表示，其名为Muse Spark Open的新模型专为编程和智能体任务打造，并与苹果合作，在Mac电脑上本地运行。</p>]]></description>
-            <link>https://cn.wsj.com/articles/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-6f13d2fc</link>
-            <guid isPermaLink="false">WP-WSJS-0003981290</guid>
-            <pubDate>Fri, 16 Oct 2026 00:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特斯拉新款Roadster推迟近十年后“起飞”]]></title>
@@ -105,6 +105,13 @@
             <pubDate>Thu, 15 Oct 2026 03:07:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[倒戈者：一名俄罗斯军官如何帮助乌克兰击杀数百俄士兵]]></title>
+            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-24522816?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为近年军事史上破坏力最强的内应之一，列夫·斯图普尼科夫中尉向乌克兰方面提供俄军部署位置和作战计划，随后冒险出逃。</p>]]></description>
+            <link>https://cn.wsj.com/articles/russian-defector-deadly-sabotage-campaign-0ad040fe</link>
+            <guid isPermaLink="false">WP-WSJS-0003981962</guid>
+            <pubDate>Fri, 16 Oct 2026 07:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[星盾如何运作，由谁控制？]]></title>
             <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-16350961?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>马斯克旗下的SpaceX为政府提供的星盾安全网络形式多样，其中包括一些对乌克兰战争行动至关重要的服务。</p>]]></description>
             <link>https://cn.wsj.com/articles/how-does-starshield-work-and-who-controls-it-1c7e26f5</link>
@@ -119,11 +126,11 @@
             <pubDate>Tue, 13 Oct 2026 06:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一座“丑出天际”的桥：英国魅力不再的典型缩影]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57539403?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>牛津这座20码长的新桥建造耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。</p>]]></description>
-            <link>https://cn.wsj.com/articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-457f3fe0</link>
-            <guid isPermaLink="false">WP-WSJS-0003981743</guid>
-            <pubDate>Fri, 16 Oct 2026 03:31:00 GMT</pubDate>
+            <title><![CDATA[Meta与苹果携手，将开放权重AI引入Mac]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70387221?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Meta表示，其名为Muse Spark Open的新模型专为编程和智能体任务打造，并与苹果合作，在Mac电脑上本地运行。</p>]]></description>
+            <link>https://cn.wsj.com/articles/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-6f13d2fc</link>
+            <guid isPermaLink="false">WP-WSJS-0003981290</guid>
+            <pubDate>Fri, 16 Oct 2026 00:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[肯德基将在数千家美国餐厅用可口可乐替代百事可乐]]></title>
@@ -131,6 +138,13 @@
             <link>https://cn.wsj.com/articles/%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E5%9C%A8%E6%95%B0%E5%8D%83%E5%AE%B6%E7%BE%8E%E5%9B%BD%E9%A4%90%E5%8E%85%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E6%9B%BF%E4%BB%A3%E7%99%BE%E4%BA%8B%E5%8F%AF%E4%B9%90-9f6b4688</link>
             <guid isPermaLink="false">WP-WSJS-0003981286</guid>
             <pubDate>Thu, 15 Oct 2026 23:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI智能体给电商带来新挑战]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-17406883?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI智能体正在介入企业与客户之间的关系。这种介入对消费者以及智能体背后的科技公司而言可能是件好事，但对夹在中间的许多电商企业却构成了挑战。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai-agents-bring-new-headaches-to-online-sellers-d0f7687a</link>
+            <guid isPermaLink="false">WP-WSJS-0003982509</guid>
+            <pubDate>Fri, 16 Oct 2026 12:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[制药巨头投入数十亿美元研发新型“蛋白降解剂”药物]]></title>
@@ -154,11 +168,11 @@
             <pubDate>Thu, 15 Oct 2026 04:11:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[利率上升威胁华尔街交易业务中的“摇钱树”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82887497?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>债券市场疲软削弱了大型银行原有的一项优势。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%88%A9%E7%8E%87%E4%B8%8A%E5%8D%87%E5%A8%81%E8%83%81%E5%8D%8E%E5%B0%94%E8%A1%97%E4%BA%A4%E6%98%93%E4%B8%9A%E5%8A%A1%E4%B8%AD%E7%9A%84-%E6%91%87%E9%92%B1%E6%A0%91-72859f0f</link>
-            <guid isPermaLink="false">WP-WSJS-0003981480</guid>
-            <pubDate>Fri, 16 Oct 2026 01:10:00 GMT</pubDate>
+            <title><![CDATA[一座“丑出天际”的桥：英国魅力不再的典型缩影]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57539403?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>牛津这座20码长的新桥建造耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。</p>]]></description>
+            <link>https://cn.wsj.com/articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-457f3fe0</link>
+            <guid isPermaLink="false">WP-WSJS-0003981743</guid>
+            <pubDate>Fri, 16 Oct 2026 03:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OpenAI绝密会议室窃听案：涉事工程师是何人]]></title>
@@ -187,13 +201,6 @@
             <link>https://cn.wsj.com/articles/houthi-missile-china-parts-f2b7e65a</link>
             <guid isPermaLink="false">WP-WSJS-0003974443</guid>
             <pubDate>Wed, 14 Oct 2026 04:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国防务初创企业涌入台湾，打造“去中国化”的无人机]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-23823252?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国科技与台湾硬件相结合，力图依托“非红”供应链组装无人艇与飞行器。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E6%B6%8C%E5%85%A5%E5%8F%B0%E6%B9%BE-%E6%89%93%E9%80%A0-%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96-%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA-1f593fdd</link>
-            <guid isPermaLink="false">WP-WSJS-0003974245</guid>
-            <pubDate>Wed, 14 Oct 2026 02:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[为何中国不愿被划归为发达国家]]></title>
