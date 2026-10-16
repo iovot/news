@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:27:25.842619+00:00",
+  "generated_at": "2026-10-16T20:48:25.454586+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-24522816?size=1.25&width=1280",
       "snapshot": "articles/russian-defector-deadly-sabotage-campaign-0ad040-26d038a4d355.html",
       "captured": true,
-      "capture_title": "倒戈者：一名俄罗斯军官如何帮助乌克兰击杀数百俄士兵 - WSJ",
+      "capture_title": "倒戈者：一名俄罗斯军官如何帮助乌克兰击杀数百俄士兵",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-17406883?size=1.501&width=1280",
       "snapshot": "articles/ai-agents-bring-new-headaches-to-online-sellers--0c60780a16e2.html",
       "captured": true,
-      "capture_title": "AI智能体给电商带来新挑战 - WSJ",
+      "capture_title": "AI智能体给电商带来新挑战",
       "error": ""
     },
     {
