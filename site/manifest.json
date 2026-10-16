@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:01:36.107039+00:00",
+  "generated_at": "2026-10-16T11:02:14.612876+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-78437978?size=1.499&width=1280",
       "snapshot": "articles/the-riskiest-corner-of-the-ai-trade-is-crashing--bab9166eb809.html",
       "captured": true,
-      "capture_title": "AI交易中风险最高的领域正遭遇利率走高冲击 - WSJ",
+      "capture_title": "AI交易中风险最高的领域正遭遇利率走高冲击",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.mktw.net/im-37341091?size=1.5&width=1280",
       "snapshot": "articles/e5-88-ab-e6-80-a5-e7-9d-80-e6-8a-9b-e5-bc-83-e7--3415df1e9440.html",
       "captured": true,
-      "capture_title": "别急着抛弃科技股——把握本次AI估值重置的几个策略 - WSJ",
+      "capture_title": "别急着抛弃科技股——把握本次AI估值重置的几个策略",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-20820748?size=0.667&width=1280",
       "snapshot": "articles/the-weapons-and-intel-that-only-the-u-s-can-give-a649dc13d959.html",
       "captured": true,
-      "capture_title": "哪些武器和情报只有美国能供给乌克兰？ - WSJ",
+      "capture_title": "哪些武器和情报只有美国能供给乌克兰？",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-36148996?size=1.466&width=1280",
       "snapshot": "articles/ai-boom-shields-select-few-nations-as-economic-p-df539cd5f308.html",
       "captured": true,
-      "capture_title": "全球经济阵痛蔓延，AI热潮只为少数国家筑起屏障 - WSJ",
+      "capture_title": "全球经济阵痛蔓延，AI热潮只为少数国家筑起屏障",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-83173000?size=1.501&width=1280",
       "snapshot": "articles/doj-sues-california-to-block-ballots-from-20-000-20cfc7de5b85.html",
       "captured": true,
-      "capture_title": "美国司法部起诉加州，寻求阻止2万名选民的选票被计入 - WSJ",
+      "capture_title": "美国司法部起诉加州，寻求阻止2万名选民的选票被计入",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-70387221?size=1.501&width=1280",
       "snapshot": "articles/meta-and-apple-longtime-foes-team-up-to-put-open-8f4b076d36de.html",
       "captured": true,
-      "capture_title": "Meta与苹果携手，将开放权重AI引入Mac - WSJ",
+      "capture_title": "Meta与苹果携手，将开放权重AI引入Mac",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-77644340?size=1.818&width=1280",
       "snapshot": "articles/tesla-roadster-elon-musk-43d091ce-fa2ef7baedde.html",
       "captured": true,
-      "capture_title": "特斯拉新款Roadster推迟近十年后“起飞” - WSJ",
+      "capture_title": "特斯拉新款Roadster推迟近十年后“起飞”",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-87284302?size=1.501&width=1280",
       "snapshot": "articles/lutnick-throws-the-future-of-u-s-mexico-trade-ta-344bc868737c.html",
       "captured": true,
-      "capture_title": "卢特尼克介入后，美墨贸易谈判前景再添变数 - WSJ",
+      "capture_title": "卢特尼克介入后，美墨贸易谈判前景再添变数",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-16350961?size=1&width=1280",
       "snapshot": "articles/how-does-starshield-work-and-who-controls-it-1c7-5c1eb1caa4f4.html",
       "captured": true,
-      "capture_title": "星盾如何运作，由谁控制？ - WSJ",
+      "capture_title": "星盾如何运作，由谁控制？",
       "error": ""
     },
     {
@@ -162,14 +162,14 @@
     },
     {
       "title": "一座“丑出天际”的桥：英国魅力不再的典型缩影",
-      "summary": "牛津这座20码长的新桥耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。",
+      "summary": "牛津这座20码长的新桥建造耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。",
       "link": "https://cn.wsj.com/articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-457f3fe0",
       "guid": "WP-WSJS-0003981743",
       "pub_date": "Fri, 16 Oct 2026 03:31:00 GMT",
       "image_url": "https://images.wsj.net/im-57539403?size=1.501&width=1280",
       "snapshot": "articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-brit-89806366914d.html",
       "captured": true,
-      "capture_title": "一座“丑出天际”的桥：英国魅力不再的典型缩影 - WSJ",
+      "capture_title": "一座“丑出天际”的桥：英国魅力不再的典型缩影",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-99183930?size=1.501&width=1280",
       "snapshot": "articles/e8-82-af-e5-be-b7-e5-9f-ba-e5-b0-86-e5-9c-a8-e6--0d9cbee7a2ea.html",
       "captured": true,
-      "capture_title": "肯德基将在数千家美国餐厅用可口可乐替代百事可乐 - WSJ",
+      "capture_title": "肯德基将在数千家美国餐厅用可口可乐替代百事可乐",
       "error": ""
     },
     {
@@ -193,19 +193,7 @@
       "image_url": "https://images.wsj.net/im-78793633?size=1.5053763440860215&width=1280",
       "snapshot": "articles/e5-88-b6-e8-8d-af-e5-b7-a8-e5-a4-b4-e6-8a-95-e5--be14e7761572.html",
       "captured": true,
-      "capture_title": "制药巨头投入数十亿美元研发新型“蛋白降解剂”药物 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "汽油价格高企，美国哪些州受冲击最严重？",
-      "summary": "美国各地的能源价格都在上涨，但一些地区受到这轮涨势的冲击更大。能源涨价带来的冲击还可能影响下个月的中期选举。",
-      "link": "https://cn.wsj.com/articles/see-the-states-where-high-gas-prices-are-hurting-the-most-b6c1236c",
-      "guid": "WP-WSJS-0003981708",
-      "pub_date": "Fri, 16 Oct 2026 03:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-44608629?size=1.5&width=1280",
-      "snapshot": "articles/see-the-states-where-high-gas-prices-are-hurting-f0336d71382f.html",
-      "captured": true,
-      "capture_title": "汽油价格高企，美国哪些州受冲击最严重？ - WSJ",
+      "capture_title": "制药巨头投入数十亿美元研发新型“蛋白降解剂”药物",
       "error": ""
     },
     {
@@ -217,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-62573338?size=1.441&width=1280",
       "snapshot": "articles/e8-b0-81-e6-9d-a5-e4-b8-bb-e5-af-bc-e7-be-8e-e5--8760f1d5bc3d.html",
       "captured": true,
-      "capture_title": "谁来主导美国人的房屋买卖？房地产市场爆发控制权激战 - WSJ",
+      "capture_title": "谁来主导美国人的房屋买卖？房地产市场爆发控制权激战",
       "error": ""
     },
     {
@@ -241,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-82887497?size=1.501&width=1280",
       "snapshot": "articles/e5-88-a9-e7-8e-87-e4-b8-8a-e5-8d-87-e5-a8-81-e8--272e486a1361.html",
       "captured": true,
-      "capture_title": "利率上升威胁华尔街交易业务中的“摇钱树” - WSJ",
+      "capture_title": "利率上升威胁华尔街交易业务中的“摇钱树”",
       "error": ""
     },
     {
@@ -253,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-38017375?size=1.248&width=1280",
       "snapshot": "articles/the-engineer-accused-of-bugging-openais-top-secr-774cad185f48.html",
       "captured": true,
-      "capture_title": "OpenAI绝密会议室窃听案：涉事工程师是何人 - WSJ",
+      "capture_title": "OpenAI绝密会议室窃听案：涉事工程师是何人",
       "error": ""
     },
     {
@@ -265,7 +253,7 @@
       "image_url": "https://images.wsj.net/im-22490120?size=1.501&width=1280",
       "snapshot": "articles/e5-8d-a2-e6-b5-ae-e5-ae-ab-e5-a4-a7-e5-8a-ab-e6--142f8bef9abb.html",
       "captured": true,
-      "capture_title": "卢浮宫大劫案只是开始，过去一年博物馆频遭砸抢 - WSJ",
+      "capture_title": "卢浮宫大劫案只是开始，过去一年博物馆频遭砸抢",
       "error": ""
     },
     {
@@ -302,6 +290,30 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-9b-bd-e9-98-b2-e5-88-9d-e5--3abe76c59623.html",
       "captured": true,
       "capture_title": "美国防务初创企业涌入台湾，打造“去中国化”的无人机",
+      "error": ""
+    },
+    {
+      "title": "为何中国不愿被划归为发达国家",
+      "summary": "按照世行的划分标准，中国非常接近高收入国家行列。但这与其在国际上塑造的“全球南方”领头羊形象产生冲突。",
+      "link": "https://cn.wsj.com/articles/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-8f3f3e2c",
+      "guid": "WP-WSJS-0003967876",
+      "pub_date": "Mon, 12 Oct 2026 04:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-22248465?size=1.499&width=1280",
+      "snapshot": "articles/why-china-doesnt-want-to-join-the-ranks-of-the-w-f4eb739f64fd.html",
+      "captured": true,
+      "capture_title": "为何中国不愿被划归为发达国家",
+      "error": ""
+    },
+    {
+      "title": "汽油价格高企，美国哪些州受冲击最严重？",
+      "summary": "美国各地的能源价格都在上涨，但一些地区受到这轮涨势的冲击更大。能源涨价带来的冲击还可能影响下个月的中期选举。",
+      "link": "https://cn.wsj.com/articles/see-the-states-where-high-gas-prices-are-hurting-the-most-b6c1236c",
+      "guid": "WP-WSJS-0003981708",
+      "pub_date": "Fri, 16 Oct 2026 03:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-44608629?size=1.5&width=1280",
+      "snapshot": "articles/see-the-states-where-high-gas-prices-are-hurting-f0336d71382f.html",
+      "captured": true,
+      "capture_title": "汽油价格高企，美国哪些州受冲击最严重？ - WSJ",
       "error": ""
     },
     {
@@ -578,18 +590,6 @@
       "snapshot": "articles/e6-be-b3-e5-a4-a7-e5-88-a9-e4-ba-9a-e6-95-b0-e5--8d645de55a98.html",
       "captured": true,
       "capture_title": "澳大利亚数十年来最大IPO告吹，AI概念股行情出现巨震",
-      "error": ""
-    },
-    {
-      "title": "为何中国不愿被划归为发达国家",
-      "summary": "按照世行的划分标准，中国非常接近高收入国家行列。但这与其在国际上塑造的“全球南方”领头羊形象产生冲突。",
-      "link": "https://cn.wsj.com/articles/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-8f3f3e2c",
-      "guid": "WP-WSJS-0003967876",
-      "pub_date": "Mon, 12 Oct 2026 04:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-22248465?size=1.499&width=1280",
-      "snapshot": "articles/why-china-doesnt-want-to-join-the-ranks-of-the-w-f4eb739f64fd.html",
-      "captured": true,
-      "capture_title": "为何中国不愿被划归为发达国家",
       "error": ""
     },
     {

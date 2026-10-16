@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 03:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 11:02:13 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 03:52:29 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 11:02:13 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -120,7 +120,7 @@
         </item>
         <item>
             <title><![CDATA[一座“丑出天际”的桥：英国魅力不再的典型缩影]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57539403?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>牛津这座20码长的新桥耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57539403?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>牛津这座20码长的新桥建造耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。</p>]]></description>
             <link>https://cn.wsj.com/articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-457f3fe0</link>
             <guid isPermaLink="false">WP-WSJS-0003981743</guid>
             <pubDate>Fri, 16 Oct 2026 03:31:00 GMT</pubDate>
@@ -138,13 +138,6 @@
             <link>https://cn.wsj.com/articles/%E5%88%B6%E8%8D%AF%E5%B7%A8%E5%A4%B4%E6%8A%95%E5%85%A5%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E7%A0%94%E5%8F%91%E6%96%B0%E5%9E%8B-%E8%9B%8B%E7%99%BD%E9%99%8D%E8%A7%A3%E5%89%82-%E8%8D%AF%E7%89%A9-b9d8c169</link>
             <guid isPermaLink="false">WP-WSJS-0003981600</guid>
             <pubDate>Fri, 16 Oct 2026 02:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汽油价格高企，美国哪些州受冲击最严重？]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-44608629?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国各地的能源价格都在上涨，但一些地区受到这轮涨势的冲击更大。能源涨价带来的冲击还可能影响下个月的中期选举。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-the-states-where-high-gas-prices-are-hurting-the-most-b6c1236c</link>
-            <guid isPermaLink="false">WP-WSJS-0003981708</guid>
-            <pubDate>Fri, 16 Oct 2026 03:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[谁来主导美国人的房屋买卖？房地产市场爆发控制权激战]]></title>
