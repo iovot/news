@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-10-16T23:23:04.683717+00:00",
+  "generated_at": "2026-10-17T03:48:22.504698+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "AI交易中风险最高的领域正遭遇利率走高冲击",
-      "summary": "CoreWeave遭抛售，凸显借贷成本攀升带来的压力。但周四黄仁勋的一番表态帮助缓和了CoreWeave债券的大幅抛售。",
-      "link": "https://cn.wsj.com/articles/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-f4bb8532",
-      "guid": "WP-WSJS-0003981174",
-      "pub_date": "Thu, 15 Oct 2026 23:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-78437978?size=1.499&width=1280",
-      "snapshot": "articles/the-riskiest-corner-of-the-ai-trade-is-crashing--bab9166eb809.html",
+      "title": "飞天跑车亮相，马斯克按下商业帝国整合加速键",
+      "summary": "分析师指出，特斯拉的新款Roadster配备了SpaceX的火箭推进器，这或将有助于马斯克推动旗下两大企业的合并。",
+      "link": "https://cn.wsj.com/articles/%E9%A3%9E%E5%A4%A9%E8%B7%91%E8%BD%A6%E4%BA%AE%E7%9B%B8-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8C%89%E4%B8%8B%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD%E6%95%B4%E5%90%88%E5%8A%A0%E9%80%9F%E9%94%AE-c62a6385",
+      "guid": "WP-WSJS-0003984674",
+      "pub_date": "Sat, 17 Oct 2026 01:01:00 GMT",
+      "image_url": "https://images.mktw.net/im-24921595?size=1.5&width=1280",
+      "snapshot": "articles/e9-a3-9e-e5-a4-a9-e8-b7-91-e8-bd-a6-e4-ba-ae-e7--a0d1201bc1a5.html",
       "captured": true,
-      "capture_title": "AI交易中风险最高的领域正遭遇利率走高冲击",
+      "capture_title": "飞天跑车亮相，马斯克按下商业帝国整合加速键 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "科技股面临信贷隐忧，美股收跌",
+      "summary": "纳斯达克综合指数本周下跌约4.5%，创下自截至6月26日当周以来的最大单周跌幅。",
+      "link": "https://cn.wsj.com/articles/%E7%A7%91%E6%8A%80%E8%82%A1%E9%9D%A2%E4%B8%B4%E4%BF%A1%E8%B4%B7%E9%9A%90%E5%BF%A7-%E7%BE%8E%E8%82%A1%E9%81%AD%E9%81%876%E6%9C%88%E6%9D%A5%E6%9C%80%E5%B7%AE%E5%8D%95%E5%91%A8-65232a37",
+      "guid": "WP-WSJS-0003984506",
+      "pub_date": "Fri, 16 Oct 2026 23:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-10151373?size=1.5&width=1280",
+      "snapshot": "articles/e7-a7-91-e6-8a-80-e8-82-a1-e9-9d-a2-e4-b8-b4-e4--087625de8722.html",
+      "captured": true,
+      "capture_title": "科技股面临信贷隐忧，美股收跌 - WSJ",
       "error": ""
     },
     {
@@ -29,6 +41,18 @@
       "error": ""
     },
     {
+      "title": "白宫新闻秘书获任命仅一周后离职",
+      "summary": "特朗普称，他已告知本周初刚履新的凯蒂·扎卡里亚，“如果我是你，我会重新考虑”。",
+      "link": "https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E7%A7%98%E4%B9%A6%E8%8E%B7%E4%BB%BB%E5%91%BD%E4%BB%85%E4%B8%80%E5%91%A8%E5%90%8E%E7%A6%BB%E8%81%8C-014fef33",
+      "guid": "WP-WSJS-0003984546",
+      "pub_date": "Fri, 16 Oct 2026 23:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-88405248?size=1.501&width=1280",
+      "snapshot": "articles/e7-99-bd-e5-ae-ab-e6-96-b0-e9-97-bb-e7-a7-98-e4--c4105a50f692.html",
+      "captured": true,
+      "capture_title": "白宫新闻秘书获任命仅一周后离职 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国拟对AI技术实施出口管制",
       "summary": "在竞争日趋激烈之际，中国正考虑对AI技术实施新的出口管制，以保护这一具有关键战略意义的产业。",
       "link": "https://cn.wsj.com/articles/china-proposes-export-controls-on-ai-technologies-0e2c3136",
@@ -37,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-54511389?size=1.501&width=1280",
       "snapshot": "articles/china-proposes-export-controls-on-ai-technologie-2c7356830c43.html",
       "captured": true,
-      "capture_title": "中国拟对AI技术实施出口管制 - WSJ",
+      "capture_title": "中国拟对AI技术实施出口管制",
       "error": ""
     },
     {
@@ -65,30 +89,6 @@
       "error": ""
     },
     {
-      "title": "美国司法部起诉加州，寻求阻止2万名选民的选票被计入",
-      "summary": "特朗普政府称，这些人可能不是美国公民。此时距离关键的中期选举已不足三周。",
-      "link": "https://cn.wsj.com/articles/doj-sues-california-to-block-ballots-from-20-000-voters-e33960d7",
-      "guid": "WP-WSJS-0003981331",
-      "pub_date": "Fri, 16 Oct 2026 00:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-83173000?size=1.501&width=1280",
-      "snapshot": "articles/doj-sues-california-to-block-ballots-from-20-000-20cfc7de5b85.html",
-      "captured": true,
-      "capture_title": "美国司法部起诉加州，寻求阻止2万名选民的选票被计入",
-      "error": ""
-    },
-    {
-      "title": "特斯拉新款Roadster推迟近十年后“起飞”",
-      "summary": "特斯拉首款电动汽车重生为配备推进器的极速车型，但要到2028年才会投产。",
-      "link": "https://cn.wsj.com/articles/tesla-roadster-elon-musk-43d091ce",
-      "guid": "WP-WSJS-0003981647",
-      "pub_date": "Fri, 16 Oct 2026 02:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-77644340?size=1.818&width=1280",
-      "snapshot": "articles/tesla-roadster-elon-musk-43d091ce-fa2ef7baedde.html",
-      "captured": true,
-      "capture_title": "特斯拉新款Roadster推迟近十年后“起飞”",
-      "error": ""
-    },
-    {
       "title": "面对高筑的贸易壁垒，中国难以承受失去欧洲之痛",
       "summary": "中国同意配合欧盟对进口混合动力汽车设定上限的计划，这一让步凸显出对欧洲市场的迫切需求。",
       "link": "https://cn.wsj.com/articles/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-7578c7bc",
@@ -98,6 +98,30 @@
       "snapshot": "articles/with-china-facing-more-trade-barriers-it-cant-af-e0bc74089239.html",
       "captured": true,
       "capture_title": "面对高筑的贸易壁垒，中国难以承受失去欧洲之痛",
+      "error": ""
+    },
+    {
+      "title": "特朗普的施压反可能最终拯救加拿大",
+      "summary": "加拿大总理卡尼正利用这一契机，强力推进可能重启经济的国家级基建项目。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%96%BD%E5%8E%8B%E5%8F%8D%E5%8F%AF%E8%83%BD%E6%9C%80%E7%BB%88%E6%8B%AF%E6%95%91%E5%8A%A0%E6%8B%BF%E5%A4%A7-4b2503b4",
+      "guid": "WP-WSJS-0003984632",
+      "pub_date": "Sat, 17 Oct 2026 00:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-92407099?size=1.45&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-9a-84-e6-96-bd-e5--f56748d35f03.html",
+      "captured": true,
+      "capture_title": "特朗普的施压反可能最终拯救加拿大 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "赫格塞思的枪决直播计划如何令白宫仓促应对",
+      "summary": "直播提议在白宫内部引发争论，副总统JD·万斯和众议院议长迈克·约翰逊也公开提出质疑。",
+      "link": "https://cn.wsj.com/articles/%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E7%9A%84%E6%9E%AA%E5%86%B3%E7%9B%B4%E6%92%AD%E8%AE%A1%E5%88%92%E5%A6%82%E4%BD%95%E4%BB%A4%E7%99%BD%E5%AE%AB%E4%BB%93%E4%BF%83%E5%BA%94%E5%AF%B9-b4e1917e",
+      "guid": "WP-WSJS-0003984596",
+      "pub_date": "Sat, 17 Oct 2026 00:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-45865596?size=1.501&width=1280",
+      "snapshot": "articles/e8-b5-ab-e6-a0-bc-e5-a1-9e-e6-80-9d-e7-9a-84-e6--9d2f70c280ac.html",
+      "captured": true,
+      "capture_title": "赫格塞思的枪决直播计划如何令白宫仓促应对 - WSJ",
       "error": ""
     },
     {
@@ -113,27 +137,15 @@
       "error": ""
     },
     {
-      "title": "卢特尼克介入后，美墨贸易谈判前景再添变数",
-      "summary": "这位商务部长反对大幅下调对墨西哥产钢铁、铝和汽车征收的关税。知情人士透露，美墨双方此前已接近达成协议。",
-      "link": "https://cn.wsj.com/articles/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-9b018217",
-      "guid": "WP-WSJS-0003981461",
-      "pub_date": "Fri, 16 Oct 2026 00:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-87284302?size=1.501&width=1280",
-      "snapshot": "articles/lutnick-throws-the-future-of-u-s-mexico-trade-ta-344bc868737c.html",
+      "title": "美国司法部起诉加州，寻求阻止2万名选民的选票被计入",
+      "summary": "特朗普政府称，这些人可能不是美国公民。此时距离关键的中期选举已不足三周。",
+      "link": "https://cn.wsj.com/articles/doj-sues-california-to-block-ballots-from-20-000-voters-e33960d7",
+      "guid": "WP-WSJS-0003981331",
+      "pub_date": "Fri, 16 Oct 2026 00:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-83173000?size=1.501&width=1280",
+      "snapshot": "articles/doj-sues-california-to-block-ballots-from-20-000-20cfc7de5b85.html",
       "captured": true,
-      "capture_title": "卢特尼克介入后，美墨贸易谈判前景再添变数",
-      "error": ""
-    },
-    {
-      "title": "新任白宫新闻秘书扎卡里亚未通过律师资格考试",
-      "summary": "扎卡里亚此前在公开露面时经常自称是一名律师。她称自己在“搬到中国时”通过律考。",
-      "link": "https://cn.wsj.com/articles/%E6%96%B0%E4%BB%BB%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E7%A7%98%E4%B9%A6%E6%89%8E%E5%8D%A1%E9%87%8C%E4%BA%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E5%BE%8B%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95-fb9bc91d",
-      "guid": "WP-WSJS-0003978162",
-      "pub_date": "Thu, 15 Oct 2026 03:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-46313493?size=1.499&width=1280",
-      "snapshot": "articles/e6-96-b0-e4-bb-bb-e7-99-bd-e5-ae-ab-e6-96-b0-e9--7af40bbb8bfc.html",
-      "captured": true,
-      "capture_title": "新任白宫新闻秘书扎卡里亚未通过律师资格考试",
+      "capture_title": "美国司法部起诉加州，寻求阻止2万名选民的选票被计入",
       "error": ""
     },
     {
@@ -170,6 +182,30 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e7-bb-8f-e6-b5-8e-e8-b5-b0-e5--8a063d41d2d6.html",
       "captured": true,
       "capture_title": "中国经济走弱正催生“失落的一代”",
+      "error": ""
+    },
+    {
+      "title": "揭秘保时捷重振计划：推更贵车型、奖金挂钩绩效和减少居家办公",
+      "summary": "从高端定价到更严格的企业文化，保时捷新掌门人双管齐下拯救业绩。",
+      "link": "https://cn.wsj.com/articles/inside-porsches-revival-bid-pricier-cars-tougher-bonuses-and-less-remote-work-b42b287a",
+      "guid": "WP-WSJS-0003981804",
+      "pub_date": "Fri, 16 Oct 2026 03:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-38296517?size=1.501&width=1280",
+      "snapshot": "articles/inside-porsches-revival-bid-pricier-cars-tougher-789401d6a1ac.html",
+      "captured": true,
+      "capture_title": "揭秘保时捷重振计划：推更贵车型、奖金挂钩绩效和减少居家办公 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "专访迈克尔·戴尔：互联网泡沫幸存者如何为AI热潮退去做准备",
+      "summary": "在许多科技公司为长期的AI项目大举举债之际，迈克尔·戴尔表示，按需生产模式正为戴尔公司提供安全缓冲。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%93%E8%AE%BF%E8%BF%88%E5%85%8B%E5%B0%94-%E6%88%B4%E5%B0%94-%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E5%B9%B8%E5%AD%98%E8%80%85%E5%A6%82%E4%BD%95%E4%B8%BAai%E7%83%AD%E6%BD%AE%E9%80%80%E5%8E%BB%E5%81%9A%E5%87%86%E5%A4%87-927426cc",
+      "guid": "WP-WSJS-0003984749",
+      "pub_date": "Sat, 17 Oct 2026 01:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-55608602?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-93-e8-ae-bf-e8-bf-88-e5-85-8b-e5-b0-94--e6-7508ae8be18a.html",
+      "captured": true,
+      "capture_title": "专访迈克尔·戴尔：互联网泡沫幸存者如何为AI热潮退去做准备 - WSJ",
       "error": ""
     },
     {
@@ -221,30 +257,6 @@
       "error": ""
     },
     {
-      "title": "谁来主导美国人的房屋买卖？房地产市场爆发控制权激战",
-      "summary": "大型房地产经纪公司Compass正将更多房源转为非公开挂牌，引发竞争对手抵制，后者称这种做法正颠覆数十年来的市场透明度。",
-      "link": "https://cn.wsj.com/articles/%E8%B0%81%E6%9D%A5%E4%B8%BB%E5%AF%BC%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%88%BF%E5%B1%8B%E4%B9%B0%E5%8D%96-%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%9A%E6%AD%A3%E5%B1%95%E5%BC%80%E6%BF%80%E7%83%88%E5%8D%9A%E5%BC%88-f67eef83",
-      "guid": "WP-WSJS-0003981697",
-      "pub_date": "Fri, 16 Oct 2026 03:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-62573338?size=1.441&width=1280",
-      "snapshot": "articles/e8-b0-81-e6-9d-a5-e4-b8-bb-e5-af-bc-e7-be-8e-e5--8760f1d5bc3d.html",
-      "captured": true,
-      "capture_title": "谁来主导美国人的房屋买卖？房地产市场爆发控制权激战",
-      "error": ""
-    },
-    {
-      "title": "瑞银开始考虑曾经不可想象之举：将总部迁出瑞士",
-      "summary": "已有潜在美国交易伙伴主动接洽瑞银；与此同时，瑞银与瑞士政界正就大幅提高资本要求一事公开交锋。",
-      "link": "https://cn.wsj.com/articles/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-4e9053eb",
-      "guid": "WP-WSJS-0003978308",
-      "pub_date": "Thu, 15 Oct 2026 04:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-35095184?size=1.501&width=1280",
-      "snapshot": "articles/a-swiss-banking-giant-thinks-the-unthinkable-mov-6dfd5526d4fe.html",
-      "captured": true,
-      "capture_title": "瑞银开始考虑曾经不可想象之举：将总部迁出瑞士",
-      "error": ""
-    },
-    {
       "title": "一座“丑出天际”的桥：英国魅力不再的典型缩影",
       "summary": "牛津这座20码长的新桥建造耗时比埃菲尔铁塔和泰坦尼克号都长，而且造价也更高。",
       "link": "https://cn.wsj.com/articles/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-457f3fe0",
@@ -290,6 +302,78 @@
       "snapshot": "articles/crypto-law-trump-tether-bo-hines-bf0c9dfb-86a7ccf0de2c.html",
       "captured": true,
       "capture_title": "他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元",
+      "error": ""
+    },
+    {
+      "title": "AI交易中风险最高的领域正遭遇利率走高冲击",
+      "summary": "CoreWeave遭抛售，凸显借贷成本攀升带来的压力。但周四黄仁勋的一番表态帮助缓和了CoreWeave债券的大幅抛售。",
+      "link": "https://cn.wsj.com/articles/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-f4bb8532",
+      "guid": "WP-WSJS-0003981174",
+      "pub_date": "Thu, 15 Oct 2026 23:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-78437978?size=1.499&width=1280",
+      "snapshot": "articles/the-riskiest-corner-of-the-ai-trade-is-crashing--bab9166eb809.html",
+      "captured": true,
+      "capture_title": "AI交易中风险最高的领域正遭遇利率走高冲击",
+      "error": ""
+    },
+    {
+      "title": "特斯拉新款Roadster推迟近十年后“起飞”",
+      "summary": "特斯拉首款电动汽车重生为配备推进器的极速车型，但要到2028年才会投产。",
+      "link": "https://cn.wsj.com/articles/tesla-roadster-elon-musk-43d091ce",
+      "guid": "WP-WSJS-0003981647",
+      "pub_date": "Fri, 16 Oct 2026 02:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-77644340?size=1.818&width=1280",
+      "snapshot": "articles/tesla-roadster-elon-musk-43d091ce-fa2ef7baedde.html",
+      "captured": true,
+      "capture_title": "特斯拉新款Roadster推迟近十年后“起飞”",
+      "error": ""
+    },
+    {
+      "title": "卢特尼克介入后，美墨贸易谈判前景再添变数",
+      "summary": "这位商务部长反对大幅下调对墨西哥产钢铁、铝和汽车征收的关税。知情人士透露，美墨双方此前已接近达成协议。",
+      "link": "https://cn.wsj.com/articles/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-9b018217",
+      "guid": "WP-WSJS-0003981461",
+      "pub_date": "Fri, 16 Oct 2026 00:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-87284302?size=1.501&width=1280",
+      "snapshot": "articles/lutnick-throws-the-future-of-u-s-mexico-trade-ta-344bc868737c.html",
+      "captured": true,
+      "capture_title": "卢特尼克介入后，美墨贸易谈判前景再添变数",
+      "error": ""
+    },
+    {
+      "title": "新任白宫新闻秘书扎卡里亚未通过律师资格考试",
+      "summary": "扎卡里亚此前在公开露面时经常自称是一名律师。她称自己在“搬到中国时”通过律考。",
+      "link": "https://cn.wsj.com/articles/%E6%96%B0%E4%BB%BB%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E7%A7%98%E4%B9%A6%E6%89%8E%E5%8D%A1%E9%87%8C%E4%BA%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E5%BE%8B%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95-fb9bc91d",
+      "guid": "WP-WSJS-0003978162",
+      "pub_date": "Thu, 15 Oct 2026 03:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-46313493?size=1.499&width=1280",
+      "snapshot": "articles/e6-96-b0-e4-bb-bb-e7-99-bd-e5-ae-ab-e6-96-b0-e9--7af40bbb8bfc.html",
+      "captured": true,
+      "capture_title": "新任白宫新闻秘书扎卡里亚未通过律师资格考试",
+      "error": ""
+    },
+    {
+      "title": "谁来主导美国人的房屋买卖？房地产市场爆发控制权激战",
+      "summary": "大型房地产经纪公司Compass正将更多房源转为非公开挂牌，引发竞争对手抵制，后者称这种做法正颠覆数十年来的市场透明度。",
+      "link": "https://cn.wsj.com/articles/%E8%B0%81%E6%9D%A5%E4%B8%BB%E5%AF%BC%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%88%BF%E5%B1%8B%E4%B9%B0%E5%8D%96-%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%9A%E6%AD%A3%E5%B1%95%E5%BC%80%E6%BF%80%E7%83%88%E5%8D%9A%E5%BC%88-f67eef83",
+      "guid": "WP-WSJS-0003981697",
+      "pub_date": "Fri, 16 Oct 2026 03:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-62573338?size=1.441&width=1280",
+      "snapshot": "articles/e8-b0-81-e6-9d-a5-e4-b8-bb-e5-af-bc-e7-be-8e-e5--8760f1d5bc3d.html",
+      "captured": true,
+      "capture_title": "谁来主导美国人的房屋买卖？房地产市场爆发控制权激战",
+      "error": ""
+    },
+    {
+      "title": "瑞银开始考虑曾经不可想象之举：将总部迁出瑞士",
+      "summary": "已有潜在美国交易伙伴主动接洽瑞银；与此同时，瑞银与瑞士政界正就大幅提高资本要求一事公开交锋。",
+      "link": "https://cn.wsj.com/articles/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-4e9053eb",
+      "guid": "WP-WSJS-0003978308",
+      "pub_date": "Thu, 15 Oct 2026 04:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-35095184?size=1.501&width=1280",
+      "snapshot": "articles/a-swiss-banking-giant-thinks-the-unthinkable-mov-6dfd5526d4fe.html",
+      "captured": true,
+      "capture_title": "瑞银开始考虑曾经不可想象之举：将总部迁出瑞士",
       "error": ""
     },
     {
@@ -1118,90 +1202,6 @@
       "snapshot": "articles/americans-win-nobel-prize-for-work-on-economic-s-487be99b4cf0.html",
       "captured": true,
       "capture_title": "两位美国经济学家因经济稳定研究获得诺贝尔经济学奖",
-      "error": ""
-    },
-    {
-      "title": "无处不在的摄像头如今正被侵入并用于战争",
-      "summary": "这些高度易受攻击的设备已成为作战方跟踪、监视和打击敌人的工具。",
-      "link": "https://cn.wsj.com/articles/video-cameras-webcams-hacked-war-0cebd62f",
-      "guid": "WP-WSJS-0003967838",
-      "pub_date": "Mon, 12 Oct 2026 06:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-63293717?size=1.5&width=1280",
-      "snapshot": "articles/video-cameras-webcams-hacked-war-0cebd62f-92e56ea5f554.html",
-      "captured": true,
-      "capture_title": "无处不在的摄像头如今正被侵入并用于战争",
-      "error": ""
-    },
-    {
-      "title": "航空旅行沦为全球地缘冲突的危险前线",
-      "summary": "周末袭击致至少12人死亡，多国政府警告避免前往沙特或飞越其领空。",
-      "link": "https://cn.wsj.com/articles/%E8%88%AA%E7%A9%BA%E6%97%85%E8%A1%8C%E6%B2%A6%E4%B8%BA%E5%85%A8%E7%90%83%E5%9C%B0%E7%BC%98%E5%86%B2%E7%AA%81%E7%9A%84%E5%8D%B1%E9%99%A9%E5%89%8D%E7%BA%BF-cc4f2bcf",
-      "guid": "WP-WSJS-0003967702",
-      "pub_date": "Mon, 12 Oct 2026 01:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-78111329?size=0.56&width=1280",
-      "snapshot": "articles/e8-88-aa-e7-a9-ba-e6-97-85-e8-a1-8c-e6-b2-a6-e4--3d35eca85985.html",
-      "captured": true,
-      "capture_title": "航空旅行沦为全球地缘冲突的危险前线",
-      "error": ""
-    },
-    {
-      "title": "中方敦促欧盟确保中国混动汽车进口获得非歧视待遇",
-      "summary": "中国商务部称，中方在最新贸易安排下获得的配额将不会低于欧方的其他任何进口来源地，且双方确认贸易安排应符合世贸组织规则。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E6%AC%A7%E7%9B%9F%E7%A1%AE%E4%BF%9D%E4%B8%AD%E5%9B%BD%E6%B7%B7%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%8F%A3%E8%8E%B7%E5%BE%97%E9%9D%9E%E6%AD%A7%E8%A7%86%E5%BE%85%E9%81%87-086a7ca6",
-      "guid": "WP-WSJS-0003968001",
-      "pub_date": "Mon, 12 Oct 2026 06:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-82850588?size=1.582&width=1280",
-      "snapshot": "articles/e4-b8-ad-e6-96-b9-e6-95-a6-e4-bf-83-e6-ac-a7-e7--dbf2a622e7f1.html",
-      "captured": true,
-      "capture_title": "中方敦促欧盟确保中国混动汽车进口获得非歧视待遇",
-      "error": ""
-    },
-    {
-      "title": "伊朗支持的武装组织步步紧逼，沙特王储面临地缘高压",
-      "summary": "沙特王储穆罕默德·本·萨勒曼如今面临着因巨额支出和对胡塞武装威胁的误判而遭到削弱的经济。",
-      "link": "https://cn.wsj.com/articles/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-ef1f0fe4",
-      "guid": "WP-WSJS-0003967888",
-      "pub_date": "Mon, 12 Oct 2026 04:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-32938176?size=1.501&width=1280",
-      "snapshot": "articles/iran-backed-militants-are-tightening-the-screws--960b5d3e00aa.html",
-      "captured": true,
-      "capture_title": "伊朗支持的武装组织步步紧逼，沙特王储面临地缘高压",
-      "error": ""
-    },
-    {
-      "title": "特朗普力推俄乌能源停火，俄罗斯柴油出口协议遭批",
-      "summary": "特朗普宣布，俄乌两方已同意停止攻击对方能源基础设施。两党参议员对特朗普允许俄罗斯向美国出口柴油的举措提出质疑。",
-      "link": "https://cn.wsj.com/articles/trumpdeclares-a-russia-ukraine-energy-ceasefire-but-moscow-hasn-t-confirmed-07f5cd84",
-      "guid": "WP-WSJS-0003967565",
-      "pub_date": "Mon, 12 Oct 2026 01:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-86393380?size=1.501&width=1280",
-      "snapshot": "articles/trumpdeclares-a-russia-ukraine-energy-ceasefire--2766f3687c3e.html",
-      "captured": true,
-      "capture_title": "特朗普力推俄乌能源停火，俄罗斯柴油出口协议遭批",
-      "error": ""
-    },
-    {
-      "title": "美国低迷的电动汽车市场暗藏一线希望：充电服务悄然改善",
-      "summary": "尽管该行业实现长期盈利的道路艰难，公共电动汽车充电桩的安装仍在稳步推进。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BD%8E%E8%BF%B7%E7%9A%84%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E6%9A%97%E8%97%8F%E4%B8%80%E7%BA%BF%E5%B8%8C%E6%9C%9B-%E5%85%85%E7%94%B5%E6%9C%8D%E5%8A%A1%E6%82%84%E7%84%B6%E6%94%B9%E5%96%84-6baf720a",
-      "guid": "WP-WSJS-0003967674",
-      "pub_date": "Mon, 12 Oct 2026 01:06:00 GMT",
-      "image_url": "https://images.wsj.net/im-79178797?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-bd-8e-e8-bf-b7-e7-9a-84-e7--45351a921ff5.html",
-      "captured": true,
-      "capture_title": "美国低迷的电动汽车市场暗藏一线希望：充电服务悄然改善",
-      "error": ""
-    },
-    {
-      "title": "美国驻希腊大使曾在达沃斯炫耀私人飞机旅行和奢华住宿，如今招致争议",
-      "summary": "录音显示，金伯利·吉尔福伊尔称希腊商人为她在世界各地的旅行买单并请求获邀参加一场有埃里克·特朗普出席的活动。",
-      "link": "https://cn.wsj.com/articles/at-davos-kimberly-guilfoyle-boasted-of-private-jet-trips-luxury-stays-edf504f2",
-      "guid": "WP-WSJS-0003967784",
-      "pub_date": "Mon, 12 Oct 2026 02:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-11252496?size=1.501&width=1280",
-      "snapshot": "articles/at-davos-kimberly-guilfoyle-boasted-of-private-j-32115e28e174.html",
-      "captured": true,
-      "capture_title": "美国驻希腊大使曾在达沃斯炫耀私人飞机旅行和奢华住宿，如今招致争议",
       "error": ""
     }
   ]
