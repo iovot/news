@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:45:36.406384+00:00",
+  "generated_at": "2026-10-19T20:32:29.082190+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-39162202?size=1.5&width=1280",
       "snapshot": "articles/e7-89-b9-e6-96-af-e6-8b-89--e4-bc-9a-e9-a3-9e-e7-8bcd5bd19882.html",
       "captured": true,
-      "capture_title": "特斯拉“飞天跑车”Roadster对全球汽车业竞争意味着什么？ - WSJ",
+      "capture_title": "特斯拉“飞天跑车”Roadster对全球汽车业竞争意味着什么？",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-45502343?size=1.501&width=1280",
       "snapshot": "articles/trump-administration-democrat-investigation-224e-01eb17e4a650.html",
       "captured": true,
-      "capture_title": "特朗普幕僚正四处聘请律师，应对国会潜在调查风暴 - WSJ",
+      "capture_title": "特朗普幕僚正四处聘请律师，应对国会潜在调查风暴",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-84606727?size=1.499&width=1280",
       "snapshot": "articles/anthropic-ipo-private-trust-0117cbf8-df806c2a529d.html",
       "captured": true,
-      "capture_title": "Anthropic IPO背后的神秘私人信托：关键信息一览 - WSJ",
+      "capture_title": "关于能左右Anthropic IPO的神秘信托，你需要了解什么",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-57668821?size=1.501&width=1280",
       "snapshot": "articles/e5-af-b9-e5-86-b2-e5-9f-ba-e9-87-91-e4-ba-bf-e4--ccd085c84cee.html",
       "captured": true,
-      "capture_title": "对冲基金亿万富豪奥弗德克的两场激烈交锋：对阵妻子和商业伙伴 - WSJ",
+      "capture_title": "对冲基金亿万富豪奥弗德克的两场激烈交锋：对阵妻子和商业伙伴",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-52781024?size=1.778&width=1280",
       "snapshot": "articles/the-silicon-valley-job-that-demands-three-years--82a3b6c2f0f0.html",
       "captured": true,
-      "capture_title": "这份硅谷工作要求应聘人连续三年全天候待命 - WSJ",
+      "capture_title": "这份硅谷工作要求应聘人连续三年全天候待命",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-18631345?size=1.858&width=1280",
       "snapshot": "articles/chinas-cxmt-expects-over-eightfold-revenue-jump--aba3112130c3.html",
       "captured": true,
-      "capture_title": "存储芯片供应紧张之际，长鑫科技预计收入将跃升逾八倍 - WSJ",
+      "capture_title": "存储芯片供应紧张之际，长鑫科技预计收入将跃升逾八倍",
       "error": ""
     },
     {
