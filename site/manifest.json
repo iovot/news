@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:33:58.102303+00:00",
+  "generated_at": "2026-10-20T14:14:21.957857+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-28071377?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-87-ba-e5-8f-a3-e7-b9-81-e8--0f720d23533d.html",
       "captured": true,
-      "capture_title": "中国出口繁荣难掩国内经济深层隐忧 - WSJ",
+      "capture_title": "中国出口繁荣难掩国内经济深层隐忧",
       "error": ""
     },
     {
@@ -29,15 +29,15 @@
       "error": ""
     },
     {
-      "title": "美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除",
-      "summary": "国土安全部发布的一份通知显示，该命令还禁止今后采购DeepSeek的产品和服务。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E4%B8%8B%E4%BB%A4%E5%B0%86deepseek%E6%8A%80%E6%9C%AF%E4%BB%8E%E8%81%94%E9%82%A6%E6%B0%91%E7%94%A8it%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%A7%BB%E9%99%A4-526ac005",
-      "guid": "WP-WSJS-0003989534",
-      "pub_date": "Mon, 19 Oct 2026 23:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-26711157?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-9b-bd-e5-9c-9f-e5-ae-89-e5--0205eff400bc.html",
+      "title": "蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败",
+      "summary": "数位在特朗普、拜登、奥巴马政府中任职的前官员敦促国会通过能源许可法案，称美国能源基础设施建设速度不够快，难以保持全球竞争力。",
+      "link": "https://cn.wsj.com/articles/u-s-risks-losing-tech-race-without-energy-push-say-former-trump-biden-officials-cb11dfd1",
+      "guid": "WP-WSJS-0003990612",
+      "pub_date": "Tue, 20 Oct 2026 11:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-24523621?size=1.778&width=1280",
+      "snapshot": "articles/u-s-risks-losing-tech-race-without-energy-push-s-42f412601b23.html",
       "captured": true,
-      "capture_title": "美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除 - WSJ",
+      "capture_title": "蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败 - WSJ",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-80291762?size=1&width=1280",
       "snapshot": "articles/e5-9c-a8ai-e7-83-ad-e6-bd-ae-e4-b8-ad-e5-8f-97-e-a8bc6d8dfa5f.html",
       "captured": true,
-      "capture_title": "在AI热潮中受挫的选股者认为翻身机会来了 - WSJ",
+      "capture_title": "在AI热潮中受挫的选股者认为翻身机会来了",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.mktw.net/im-99203827?size=1.5&width=1280",
       "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b-anthropic-e7-ad-89ai--8bf8e726072d.html",
       "captured": true,
-      "capture_title": "马斯克、Anthropic等AI巨头为何纷纷赠送股份 - WSJ",
+      "capture_title": "马斯克、Anthropic等AI巨头为何纷纷赠送股份",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-90067169?size=1.501&width=1280",
       "snapshot": "articles/e4-bb-a5-e8-89-b2-e5-88-97-e5-a4-a7-e9-80-89-e9--deedd142b2bc.html",
       "captured": true,
-      "capture_title": "以色列大选领跑阵营冷落关乎成败的阿拉伯选民 - WSJ",
+      "capture_title": "以色列大选领跑阵营冷落关乎成败的阿拉伯选民",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-03524775?size=1.5&width=1280",
       "snapshot": "articles/e6-97-a5-e6-9c-ac-e5-8f-91-e5-b0-84-e6-8e-a2-e6--b1748b07f93f.html",
       "captured": true,
-      "capture_title": "日本发射探测器，开启火星神秘卫星采样之旅 - WSJ",
+      "capture_title": "日本发射探测器，开启火星神秘卫星采样之旅",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-56230771?size=1.501&width=1280",
       "snapshot": "articles/e6-b3-95-e5-9b-bd-e9-aa-9a-e4-b9-b1--e6-9a-b4-e5-70971ace1fa6.html",
       "captured": true,
-      "capture_title": "法国骚乱：暴力缘何而起，接下来会怎样 - WSJ",
+      "capture_title": "法国骚乱：暴力缘何而起，接下来会怎样",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-15292733?size=2&width=1280",
       "snapshot": "articles/see-what-71-economists-told-us-about-where-growt-d6993c9db55e.html",
       "captured": true,
-      "capture_title": "看看71位经济学家对经济增长和美债收益率走势有何看法 - WSJ",
+      "capture_title": "看看71位经济学家对经济增长和美债收益率走势有何看法",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-69088410?size=1.4&width=1280",
       "snapshot": "articles/the-deadly-1-5-mile-corridor-that-shows-the-fata-c4f228d62180.html",
       "captured": true,
-      "capture_title": "夺命1.5英里：一条干道折射出美国道路设计的致命缺陷 - WSJ",
+      "capture_title": "夺命1.5英里：一条干道折射出美国道路设计的致命缺陷",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-83178507?size=1.637&width=1280",
       "snapshot": "articles/albertans-vote-to-stay-in-canada-in-historic-ref-c47e143c2975.html",
       "captured": true,
-      "capture_title": "艾伯塔省选民在历史性公投中投票支持留在加拿大 - WSJ",
+      "capture_title": "艾伯塔省选民在历史性公投中投票支持留在加拿大",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-60505602?size=1.501&width=1280",
       "snapshot": "articles/e8-a5-bf-e9-9d-9e-e6-88-90-e4-b8-ba-e9-bb-84-e9--3500fd3393cc.html",
       "captured": true,
-      "capture_title": "西非成为黄金开采业的新“蛮荒地带” - WSJ",
+      "capture_title": "西非成为黄金开采业的新“蛮荒地带”",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-16015128?size=1.47&width=1280",
       "snapshot": "articles/nurses-are-in-high-demandbut-theyre-quitting-in--2487d77b9f28.html",
       "captured": true,
-      "capture_title": "美国护士很抢手，临床一线何以爆发离职潮？ - WSJ",
+      "capture_title": "美国护士很抢手，临床一线何以爆发离职潮？",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-12616889?size=1.501&width=1280",
       "snapshot": "articles/e8-ae-a9-e5-90-8c-e4-ba-8b-e7-88-bd-e5-bf-ab-e7--f844f0e74a1a.html",
       "captured": true,
-      "capture_title": "让同事爽快答应请求的秘诀 - WSJ",
+      "capture_title": "让同事爽快答应请求的秘诀",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-18020748?size=1.501&width=1280",
       "snapshot": "articles/netflix-e9-81-ad-e9-81-87-e5-a2-9e-e9-95-bf-e7-9-299b56082976.html",
       "captured": true,
-      "capture_title": "Netflix遭遇增长瓶颈，创意高层大换血 - WSJ",
+      "capture_title": "Netflix遭遇增长瓶颈，创意高层大换血",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-70175208?size=1.818&width=1280",
       "snapshot": "articles/roche-partners-with-chinas-hansoh-in-deal-that-c-40984f81dd19.html",
       "captured": true,
-      "capture_title": "罗氏与中国翰森制药达成合作，交易金额或超150亿美元 - WSJ",
+      "capture_title": "罗氏与中国翰森制药达成合作，交易金额或超150亿美元",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-68298417?size=1.499&width=1280",
       "snapshot": "articles/lego-adult-sets-gaming-formula-one-7167cbe7-a1df5a5054ee.html",
       "captured": true,
-      "capture_title": "乐高如何圈粉越来越多的成年人？ - WSJ",
+      "capture_title": "乐高如何圈粉越来越多的成年人？",
       "error": ""
     },
     {
@@ -241,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-09401884?size=1.499&width=1280",
       "snapshot": "articles/former-openai-worker-accused-of-bugging-discusse-384a3af331e6.html",
       "captured": true,
-      "capture_title": "被控窃听的OpenAI前员工曾与沙特王室成员讨论工作机会 - WSJ",
+      "capture_title": "被控窃听的OpenAI前员工曾与沙特王室成员讨论工作机会",
       "error": ""
     },
     {
@@ -253,7 +253,7 @@
       "image_url": "https://images.wsj.net/im-88156249?size=1.502&width=1280",
       "snapshot": "articles/jamie-dimons-national-security-pledge-finances-2-cc949f0b9cbd.html",
       "captured": true,
-      "capture_title": "杰米·戴蒙的国家安全承诺首年为2,300亿美元项目提供融资 - WSJ",
+      "capture_title": "杰米·戴蒙的国家安全承诺首年为2,300亿美元项目提供融资",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/how-coke-loosened-pepsis-grip-on-kfcs-soda-fount-4a62ca3589dc.html",
       "captured": true,
       "capture_title": "可口可乐如何撬动了百事对肯德基饮料机的掌控",
+      "error": ""
+    },
+    {
+      "title": "美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除",
+      "summary": "国土安全部发布的一份通知显示，该命令还禁止今后采购DeepSeek的产品和服务。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E4%B8%8B%E4%BB%A4%E5%B0%86deepseek%E6%8A%80%E6%9C%AF%E4%BB%8E%E8%81%94%E9%82%A6%E6%B0%91%E7%94%A8it%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%A7%BB%E9%99%A4-526ac005",
+      "guid": "WP-WSJS-0003989534",
+      "pub_date": "Mon, 19 Oct 2026 23:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-26711157?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-9b-bd-e5-9c-9f-e5-ae-89-e5--0205eff400bc.html",
+      "captured": true,
+      "capture_title": "美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除 - WSJ",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/youtube-e6-9c-89-e6-84-8f-e8-bf-9b-e5-86-9b-e6-9-c1f6777c3153.html",
       "captured": true,
       "capture_title": "YouTube有意进军有声书市场 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "苹果全新智能家居设备HomeView初体验",
-      "summary": "配备方形屏的HomeView兼具智能家居控制、免提FaceTime通话以及Siri AI智能助理功能。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%A8%E6%96%B0%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E8%AE%BE%E5%A4%87homeview%E5%88%9D%E4%BD%93%E9%AA%8C-e23cab63",
-      "guid": "WP-WSJS-0003974206",
-      "pub_date": "Wed, 14 Oct 2026 02:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-47605368?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e8-8b-b9-e6-9e-9c-e5-85-a8-e6-96-b0-e6-99-ba-e8--26e195092009.html",
-      "captured": true,
-      "capture_title": "苹果全新智能家居设备HomeView初体验",
       "error": ""
     }
   ]

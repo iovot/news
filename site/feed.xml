@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 08:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 14:12:08 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 08:19:44 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 14:12:08 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -42,11 +42,11 @@
             <pubDate>Mon, 19 Oct 2026 23:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-26711157?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>国土安全部发布的一份通知显示，该命令还禁止今后采购DeepSeek的产品和服务。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E4%B8%8B%E4%BB%A4%E5%B0%86deepseek%E6%8A%80%E6%9C%AF%E4%BB%8E%E8%81%94%E9%82%A6%E6%B0%91%E7%94%A8it%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%A7%BB%E9%99%A4-526ac005</link>
-            <guid isPermaLink="false">WP-WSJS-0003989534</guid>
-            <pubDate>Mon, 19 Oct 2026 23:38:00 GMT</pubDate>
+            <title><![CDATA[蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-24523621?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>数位在特朗普、拜登、奥巴马政府中任职的前官员敦促国会通过能源许可法案，称美国能源基础设施建设速度不够快，难以保持全球竞争力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-s-risks-losing-tech-race-without-energy-push-say-former-trump-biden-officials-cb11dfd1</link>
+            <guid isPermaLink="false">WP-WSJS-0003990612</guid>
+            <pubDate>Tue, 20 Oct 2026 11:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[在AI热潮中受挫的选股者认为翻身机会来了]]></title>
