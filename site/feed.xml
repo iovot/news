@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 20:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 00:10:20 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 20:27:46 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 00:10:20 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,32 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[普京提议举行美中俄三方峰会，共商乌克兰命运]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-28068513?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>俄罗斯领导人普京试图通过谈判，以有利于俄罗斯的方式结束这场持续四年的冲突。此次峰会将把乌克兰总统泽连斯基排除在外。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%99%AE%E4%BA%AC%E6%8F%90%E8%AE%AE%E4%B8%BE%E8%A1%8C%E7%BE%8E%E4%B8%AD%E4%BF%84%E4%B8%89%E6%96%B9%E5%B3%B0%E4%BC%9A-%E5%85%B1%E5%95%86%E4%B9%8C%E5%85%8B%E5%85%B0%E5%91%BD%E8%BF%90-e12ccb3f</link>
-            <guid isPermaLink="false">WP-WSJS-0003986632</guid>
-            <pubDate>Mon, 19 Oct 2026 01:35:00 GMT</pubDate>
+            <title><![CDATA[特朗普称愿与普京和习近平会晤，讨论无核化问题]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-58953015?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普说，他愿意参加这样的三方会晤，但主要不是为了乌克兰。他说，三国领导人就无核化举行会晤将是“一件对世界非常有益的事”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%92%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E6%99%A4-%E8%AE%A8%E8%AE%BA%E6%97%A0%E6%A0%B8%E5%8C%96%E9%97%AE%E9%A2%98-b05c73f9</link>
+            <guid isPermaLink="false">WP-WSJS-0003989484</guid>
+            <pubDate>Mon, 19 Oct 2026 23:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基如何决定冒险公然对抗特朗普]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-59208985?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位乌克兰领导人公开谴责白宫放宽对俄施压，进一步引发了美方的强烈不满。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%A6%82%E4%BD%95%E5%86%B3%E5%AE%9A%E5%86%92%E9%99%A9%E5%85%AC%E7%84%B6%E5%AF%B9%E6%8A%97%E7%89%B9%E6%9C%97%E6%99%AE-4bd19230</link>
+            <guid isPermaLink="false">WP-WSJS-0003986711</guid>
+            <pubDate>Mon, 19 Oct 2026 02:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普对普京软化立场令共和党候选人陷入窘境]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-05873991?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>距离中期选举只剩两周，一些共和党人选择与特朗普划清界限，而不是为他一连串亲俄决定辩护。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trumps-overtures-to-putin-put-republican-candidates-in-hot-seat-71d18a38</link>
+            <guid isPermaLink="false">WP-WSJS-0003986460</guid>
+            <pubDate>Mon, 19 Oct 2026 00:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯喷气无人机来袭，乌克兰火速构建防御网]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-65160032?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>面对莫斯科量产的新型喷气武器，基辅防空体系陷入暂时无解困境。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%96%B7%E6%B0%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9D%A5%E8%A2%AD-%E4%B9%8C%E5%85%8B%E5%85%B0%E7%81%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E9%98%B2%E5%BE%A1%E7%BD%91-a39eb4eb</link>
+            <guid isPermaLink="false">WP-WSJS-0003986846</guid>
+            <pubDate>Mon, 19 Oct 2026 03:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国第三季度GDP增长4.5%，得益于出口拉动]]></title>
@@ -42,6 +63,13 @@
             <pubDate>Mon, 19 Oct 2026 04:25:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-26711157?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>国土安全部发布的一份通知显示，该命令还禁止今后采购DeepSeek的产品和服务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E4%B8%8B%E4%BB%A4%E5%B0%86deepseek%E6%8A%80%E6%9C%AF%E4%BB%8E%E8%81%94%E9%82%A6%E6%B0%91%E7%94%A8it%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%A7%BB%E9%99%A4-526ac005</link>
+            <guid isPermaLink="false">WP-WSJS-0003989534</guid>
+            <pubDate>Mon, 19 Oct 2026 23:38:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI股震荡提醒人们：这次并无不同]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-62390006?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI基础设施建设尚未证明它能够避开铁路和互联网等以往大型资本投资项目遇到的问题。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai%E8%82%A1%E9%9C%87%E8%8D%A1%E6%8F%90%E9%86%92%E4%BA%BA%E4%BB%AC-%E8%BF%99%E6%AC%A1%E5%B9%B6%E6%97%A0%E4%B8%8D%E5%90%8C-ebbbb7c1</link>
@@ -49,32 +77,25 @@
             <pubDate>Mon, 19 Oct 2026 02:19:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[艾伯塔省脱离加拿大公投引发尖锐分歧]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11939565?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>加拿大总理卡尼试图争取这个石油资源丰富的省份继续留在加拿大。</p>]]></description>
+            <link>https://cn.wsj.com/articles/alberta-independence-vote-canada-7aefe9d6</link>
+            <guid isPermaLink="false">WP-WSJS-0003987157</guid>
+            <pubDate>Mon, 19 Oct 2026 08:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普幕僚正四处聘请律师，应对国会潜在调查风暴]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45502343?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为防范民主党重夺国会并启动调查，特朗普内阁官员与普通幕僚正提前构筑法律防线。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-administration-democrat-investigation-224ebe27</link>
+            <guid isPermaLink="false">WP-WSJS-0003986955</guid>
+            <pubDate>Mon, 19 Oct 2026 05:40:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[伊朗为胡塞武装袭击沙特提供目标定位和情报支持]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-00086854?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗的支持帮助胡塞武装对沙特及其也门盟友发动了迄今威力最大、战术最复杂的袭击。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E4%B8%BA%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%E6%B2%99%E7%89%B9%E6%8F%90%E4%BE%9B%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BD%8D%E5%92%8C%E6%83%85%E6%8A%A5%E6%94%AF%E6%8C%81-3321a97a</link>
             <guid isPermaLink="false">WP-WSJS-0003986849</guid>
             <pubDate>Mon, 19 Oct 2026 03:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克承诺向每名美国儿童赠送一股SpaceX股票]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60141416?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在Anthropic表示将5%的股份投入“公益基金”后，马斯克表示，他将向每名美国儿童赠送一股SpaceX股票。</p>]]></description>
-            <link>https://cn.wsj.com/articles/musk-vows-to-give-each-u-s-child-a-spacex-share-72bdff99</link>
-            <guid isPermaLink="false">WP-WSJS-0003987602</guid>
-            <pubDate>Mon, 19 Oct 2026 11:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国拟对AI技术实施出口管制]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-54511389?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在竞争日趋激烈之际，中国正考虑对AI技术实施新的出口管制，以保护这一具有关键战略意义的产业。</p>]]></description>
-            <link>https://cn.wsj.com/articles/china-proposes-export-controls-on-ai-technologies-0e2c3136</link>
-            <guid isPermaLink="false">WP-WSJS-0003982491</guid>
-            <pubDate>Fri, 16 Oct 2026 12:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普支持以色列总理内塔尼亚胡竞选连任]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-75098431?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在距离以色列竞争激烈的全国大选只有数日之际，特朗普试图给予内塔尼亚胡期盼已久的助力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-endorses-israels-netanyahu-for-re-election-15bd4f3c</link>
-            <guid isPermaLink="false">WP-WSJS-0003986420</guid>
-            <pubDate>Sun, 18 Oct 2026 23:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特斯拉“飞天跑车”Roadster对全球汽车业竞争意味着什么？]]></title>
@@ -91,18 +112,18 @@
             <pubDate>Mon, 19 Oct 2026 01:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普的施压反可能最终拯救加拿大]]></title>
-            <description><![CDATA[<img width="1280" height="880" src="https://images.wsj.net/im-92407099?size=1.45&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>加拿大总理卡尼正利用这一契机，强力推进可能重启经济的国家级基建项目。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%96%BD%E5%8E%8B%E5%8F%8D%E5%8F%AF%E8%83%BD%E6%9C%80%E7%BB%88%E6%8B%AF%E6%95%91%E5%8A%A0%E6%8B%BF%E5%A4%A7-4b2503b4</link>
-            <guid isPermaLink="false">WP-WSJS-0003984632</guid>
-            <pubDate>Sat, 17 Oct 2026 00:42:00 GMT</pubDate>
+            <title><![CDATA[马斯克承诺向每名美国儿童赠送一股SpaceX股票]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60141416?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在Anthropic表示将5%的股份投入“公益基金”后，马斯克表示，他将向每名美国儿童赠送一股SpaceX股票。</p>]]></description>
+            <link>https://cn.wsj.com/articles/musk-vows-to-give-each-u-s-child-a-spacex-share-72bdff99</link>
+            <guid isPermaLink="false">WP-WSJS-0003987602</guid>
+            <pubDate>Mon, 19 Oct 2026 11:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普幕僚正四处聘请律师，应对国会潜在调查风暴]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-45502343?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>为防范民主党重夺国会并启动调查，特朗普内阁官员与普通幕僚正提前构筑法律防线。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-administration-democrat-investigation-224ebe27</link>
-            <guid isPermaLink="false">WP-WSJS-0003986955</guid>
-            <pubDate>Mon, 19 Oct 2026 05:40:00 GMT</pubDate>
+            <title><![CDATA[沙特推迟原定下周举行的“沙漠达沃斯”活动]]></title>
+            <description><![CDATA[<img width="1280" height="859" src="https://images.wsj.net/im-96422694?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这一决定凸显出，也门境内受伊朗支持的胡塞武装对沙特机场和首都发动的导弹袭击，正威胁该国的经济雄心。</p>]]></description>
+            <link>https://cn.wsj.com/articles/saudi-arabia-decides-against-holding-in-person-investor-conference-ceed0f44</link>
+            <guid isPermaLink="false">WP-WSJS-0003989489</guid>
+            <pubDate>Mon, 19 Oct 2026 23:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[关于能左右Anthropic IPO的神秘信托，你需要了解什么]]></title>
