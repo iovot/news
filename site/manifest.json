@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:04:13.387793+00:00",
+  "generated_at": "2026-10-20T23:44:59.936104+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -14,6 +14,18 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-87-ba-e5-8f-a3-e7-b9-81-e8--0f720d23533d.html",
       "captured": true,
       "capture_title": "中国出口繁荣难掩国内经济深层隐忧",
+      "error": ""
+    },
+    {
+      "title": "马斯克：特斯拉和SpaceX已成立委员会讨论潜在合并事宜",
+      "summary": "马斯克称，合并这两家公司有诸多益处。与此同时，SpaceX公布上市以来首次盈利，营收增长逾160%。",
+      "link": "https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B-%E7%89%B9%E6%96%AF%E6%8B%89%E5%92%8Cspacex%E5%B7%B2%E6%88%90%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%AE%A8%E8%AE%BA%E6%BD%9C%E5%9C%A8%E5%90%88%E5%B9%B6%E4%BA%8B%E5%AE%9C-80e17daa",
+      "guid": "WP-WSJS-0003992949",
+      "pub_date": "Tue, 20 Oct 2026 23:12:00 GMT",
+      "image_url": "https://images.wsj.net/im-78800067?size=1.499&width=1280",
+      "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b--e7-89-b9-e6-96-af-e6-e9fa9def0184.html",
+      "captured": true,
+      "capture_title": "马斯克：特斯拉和SpaceX已成立委员会讨论潜在合并事宜 - WSJ",
       "error": ""
     },
     {
@@ -77,18 +89,6 @@
       "error": ""
     },
     {
-      "title": "日本发射探测器，开启火星神秘卫星采样之旅",
-      "summary": "日本火星卫星探测任务将填补人类深空探索空白，拟首次实现火星系天体物质采样返回。",
-      "link": "https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B0%84%E6%8E%A2%E6%B5%8B%E5%99%A8-%E5%BC%80%E5%90%AF%E7%81%AB%E6%98%9F%E7%A5%9E%E7%A7%98%E5%8D%AB%E6%98%9F%E9%87%87%E6%A0%B7%E4%B9%8B%E6%97%85-98124c79",
-      "guid": "WP-WSJS-0003989653",
-      "pub_date": "Tue, 20 Oct 2026 00:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-03524775?size=1.5&width=1280",
-      "snapshot": "articles/e6-97-a5-e6-9c-ac-e5-8f-91-e5-b0-84-e6-8e-a2-e6--b1748b07f93f.html",
-      "captured": true,
-      "capture_title": "日本发射探测器，开启火星神秘卫星采样之旅",
-      "error": ""
-    },
-    {
       "title": "法国骚乱：暴力缘何而起，接下来会怎样",
       "summary": "数周来由学生主导、针对校园环境发起的抗议活动，在近日急剧升级，演变为席卷法国全境的暴力示威。",
       "link": "https://cn.wsj.com/articles/%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1-%E6%9A%B4%E5%8A%9B%E7%BC%98%E4%BD%95%E8%80%8C%E8%B5%B7-%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%BC%9A%E6%80%8E%E6%A0%B7-c2978102",
@@ -125,6 +125,18 @@
       "error": ""
     },
     {
+      "title": "特朗普计划再向美国农民发放80亿美元补贴",
+      "summary": "特朗普政府计划再向美国农民发放80亿美元直接补贴，以弥补市场动荡和高昂燃料成本给他们造成的损失。",
+      "link": "https://cn.wsj.com/articles/trump-plans-8-billion-in-payments-to-farmers-904c00c0",
+      "guid": "WP-WSJS-0003992955",
+      "pub_date": "Tue, 20 Oct 2026 23:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-67323628?size=1.501&width=1280",
+      "snapshot": "articles/trump-plans-8-billion-in-payments-to-farmers-904-28943b022f29.html",
+      "captured": true,
+      "capture_title": "特朗普计划再向美国农民发放80亿美元补贴 - WSJ",
+      "error": ""
+    },
+    {
       "title": "艾伯塔省选民在历史性公投中投票支持留在加拿大",
       "summary": "据加拿大广播公司预测，艾伯塔省选民在公投中以明显优势选择留在加拿大，避免了一场卡尼眼中会让加拿大难以承受的经济和政治危机。",
       "link": "https://cn.wsj.com/articles/albertans-vote-to-stay-in-canada-in-historic-referendum-598c10dc",
@@ -134,18 +146,6 @@
       "snapshot": "articles/albertans-vote-to-stay-in-canada-in-historic-ref-c47e143c2975.html",
       "captured": true,
       "capture_title": "艾伯塔省选民在历史性公投中投票支持留在加拿大",
-      "error": ""
-    },
-    {
-      "title": "西非成为黄金开采业的新“蛮荒地带”",
-      "summary": "尽管当地官员为争取更大份额的利润，扣押资产并拘留企业高管，矿业公司仍争相在该地区开采，试图趁金价接近历史高位之际获利。",
-      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E9%9D%9E%E6%88%90%E4%B8%BA%E9%BB%84%E9%87%91%E5%BC%80%E9%87%87%E4%B8%9A%E7%9A%84%E6%96%B0-%E8%9B%AE%E8%8D%92%E5%9C%B0%E5%B8%A6-c3b25318",
-      "guid": "WP-WSJS-0003989681",
-      "pub_date": "Tue, 20 Oct 2026 00:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-60505602?size=1.501&width=1280",
-      "snapshot": "articles/e8-a5-bf-e9-9d-9e-e6-88-90-e4-b8-ba-e9-bb-84-e9--3500fd3393cc.html",
-      "captured": true,
-      "capture_title": "西非成为黄金开采业的新“蛮荒地带”",
       "error": ""
     },
     {
@@ -254,6 +254,30 @@
       "snapshot": "articles/jamie-dimons-national-security-pledge-finances-2-cc949f0b9cbd.html",
       "captured": true,
       "capture_title": "杰米·戴蒙的国家安全承诺首年为2,300亿美元项目提供融资",
+      "error": ""
+    },
+    {
+      "title": "日本发射探测器，开启火星神秘卫星采样之旅",
+      "summary": "日本火星卫星探测任务将填补人类深空探索空白，拟首次实现火星系天体物质采样返回。",
+      "link": "https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B0%84%E6%8E%A2%E6%B5%8B%E5%99%A8-%E5%BC%80%E5%90%AF%E7%81%AB%E6%98%9F%E7%A5%9E%E7%A7%98%E5%8D%AB%E6%98%9F%E9%87%87%E6%A0%B7%E4%B9%8B%E6%97%85-98124c79",
+      "guid": "WP-WSJS-0003989653",
+      "pub_date": "Tue, 20 Oct 2026 00:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-03524775?size=1.5&width=1280",
+      "snapshot": "articles/e6-97-a5-e6-9c-ac-e5-8f-91-e5-b0-84-e6-8e-a2-e6--b1748b07f93f.html",
+      "captured": true,
+      "capture_title": "日本发射探测器，开启火星神秘卫星采样之旅",
+      "error": ""
+    },
+    {
+      "title": "西非成为黄金开采业的新“蛮荒地带”",
+      "summary": "尽管当地官员为争取更大份额的利润，扣押资产并拘留企业高管，矿业公司仍争相在该地区开采，试图趁金价接近历史高位之际获利。",
+      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E9%9D%9E%E6%88%90%E4%B8%BA%E9%BB%84%E9%87%91%E5%BC%80%E9%87%87%E4%B8%9A%E7%9A%84%E6%96%B0-%E8%9B%AE%E8%8D%92%E5%9C%B0%E5%B8%A6-c3b25318",
+      "guid": "WP-WSJS-0003989681",
+      "pub_date": "Tue, 20 Oct 2026 00:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-60505602?size=1.501&width=1280",
+      "snapshot": "articles/e8-a5-bf-e9-9d-9e-e6-88-90-e4-b8-ba-e9-bb-84-e9--3500fd3393cc.html",
+      "captured": true,
+      "capture_title": "西非成为黄金开采业的新“蛮荒地带”",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/e5-9d-9a-e5-ae-88-e4-b8-8d-e9-99-8d-e4-bb-b7-e7--606d609cb03f.html",
       "captured": true,
       "capture_title": "坚守不降价的卖家是美国房价的最后支撑",
-      "error": ""
-    },
-    {
-      "title": "格芯拟在美新建两座芯片厂，将获日本最高200亿美元投资",
-      "summary": "在纽约建厂的资金将来自日本最高200亿美元的投资以及《芯片法案》的拨款；与此同时，美国商务部计划获得该公司4%的股份。",
-      "link": "https://cn.wsj.com/articles/globalfoundries-to-build-two-chip-fabs-with-up-to-21-billion-funding-bf4b46a2",
-      "guid": "WP-WSJS-0003977695",
-      "pub_date": "Thu, 15 Oct 2026 00:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-53419709?size=1.501&width=1280",
-      "snapshot": "articles/globalfoundries-to-build-two-chip-fabs-with-up-t-83ee20e8edf6.html",
-      "captured": true,
-      "capture_title": "格芯拟在美新建两座芯片厂，将获日本最高200亿美元投资 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "YouTube有意进军有声书市场",
-      "summary": "近年来，有声书一直是图书市场中表现最强劲的领域之一。YouTube把目光投向了这里。",
-      "link": "https://cn.wsj.com/articles/youtube%E6%9C%89%E6%84%8F%E8%BF%9B%E5%86%9B%E6%9C%89%E5%A3%B0%E4%B9%A6%E5%B8%82%E5%9C%BA-ae2451ff",
-      "guid": "WP-WSJS-0003977789",
-      "pub_date": "Thu, 15 Oct 2026 00:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-42797327?size=1.499&width=1280",
-      "snapshot": "articles/youtube-e6-9c-89-e6-84-8f-e8-bf-9b-e5-86-9b-e6-9-c1f6777c3153.html",
-      "captured": true,
-      "capture_title": "YouTube有意进军有声书市场 - WSJ",
       "error": ""
     }
   ]

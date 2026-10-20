@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 19:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 23:41:49 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 19:04:12 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 23:41:49 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -33,6 +33,13 @@
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%B9%81%E8%8D%A3%E9%9A%BE%E6%8E%A9%E5%9B%BD%E5%86%85%E7%BB%8F%E6%B5%8E%E6%B7%B1%E5%B1%82%E9%9A%90%E5%BF%A7-77de4762</link>
             <guid isPermaLink="false">WP-WSJS-0003989751</guid>
             <pubDate>Tue, 20 Oct 2026 01:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：特斯拉和SpaceX已成立委员会讨论潜在合并事宜]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-78800067?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>马斯克称，合并这两家公司有诸多益处。与此同时，SpaceX公布上市以来首次盈利，营收增长逾160%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B-%E7%89%B9%E6%96%AF%E6%8B%89%E5%92%8Cspacex%E5%B7%B2%E6%88%90%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%AE%A8%E8%AE%BA%E6%BD%9C%E5%9C%A8%E5%90%88%E5%B9%B6%E4%BA%8B%E5%AE%9C-80e17daa</link>
+            <guid isPermaLink="false">WP-WSJS-0003992949</guid>
+            <pubDate>Tue, 20 Oct 2026 23:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普称愿与普京和习近平会晤，讨论无核化问题]]></title>
@@ -70,13 +77,6 @@
             <pubDate>Tue, 20 Oct 2026 03:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本发射探测器，开启火星神秘卫星采样之旅]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-03524775?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本火星卫星探测任务将填补人类深空探索空白，拟首次实现火星系天体物质采样返回。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B0%84%E6%8E%A2%E6%B5%8B%E5%99%A8-%E5%BC%80%E5%90%AF%E7%81%AB%E6%98%9F%E7%A5%9E%E7%A7%98%E5%8D%AB%E6%98%9F%E9%87%87%E6%A0%B7%E4%B9%8B%E6%97%85-98124c79</link>
-            <guid isPermaLink="false">WP-WSJS-0003989653</guid>
-            <pubDate>Tue, 20 Oct 2026 00:33:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[法国骚乱：暴力缘何而起，接下来会怎样]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56230771?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>数周来由学生主导、针对校园环境发起的抗议活动，在近日急剧升级，演变为席卷法国全境的暴力示威。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1-%E6%9A%B4%E5%8A%9B%E7%BC%98%E4%BD%95%E8%80%8C%E8%B5%B7-%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%BC%9A%E6%80%8E%E6%A0%B7-c2978102</link>
@@ -98,18 +98,18 @@
             <pubDate>Tue, 20 Oct 2026 05:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[特朗普计划再向美国农民发放80亿美元补贴]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67323628?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普政府计划再向美国农民发放80亿美元直接补贴，以弥补市场动荡和高昂燃料成本给他们造成的损失。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-plans-8-billion-in-payments-to-farmers-904c00c0</link>
+            <guid isPermaLink="false">WP-WSJS-0003992955</guid>
+            <pubDate>Tue, 20 Oct 2026 23:13:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[艾伯塔省选民在历史性公投中投票支持留在加拿大]]></title>
             <description><![CDATA[<img width="1280" height="782" src="https://images.wsj.net/im-83178507?size=1.637&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>据加拿大广播公司预测，艾伯塔省选民在公投中以明显优势选择留在加拿大，避免了一场卡尼眼中会让加拿大难以承受的经济和政治危机。</p>]]></description>
             <link>https://cn.wsj.com/articles/albertans-vote-to-stay-in-canada-in-historic-referendum-598c10dc</link>
             <guid isPermaLink="false">WP-WSJS-0003990119</guid>
             <pubDate>Tue, 20 Oct 2026 07:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西非成为黄金开采业的新“蛮荒地带”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60505602?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管当地官员为争取更大份额的利润，扣押资产并拘留企业高管，矿业公司仍争相在该地区开采，试图趁金价接近历史高位之际获利。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%A5%BF%E9%9D%9E%E6%88%90%E4%B8%BA%E9%BB%84%E9%87%91%E5%BC%80%E9%87%87%E4%B8%9A%E7%9A%84%E6%96%B0-%E8%9B%AE%E8%8D%92%E5%9C%B0%E5%B8%A6-c3b25318</link>
-            <guid isPermaLink="false">WP-WSJS-0003989681</guid>
-            <pubDate>Tue, 20 Oct 2026 00:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国护士很抢手，临床一线何以爆发离职潮？]]></title>
@@ -175,6 +175,20 @@
             <pubDate>Mon, 19 Oct 2026 11:04:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[日本发射探测器，开启火星神秘卫星采样之旅]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-03524775?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>日本火星卫星探测任务将填补人类深空探索空白，拟首次实现火星系天体物质采样返回。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B0%84%E6%8E%A2%E6%B5%8B%E5%99%A8-%E5%BC%80%E5%90%AF%E7%81%AB%E6%98%9F%E7%A5%9E%E7%A7%98%E5%8D%AB%E6%98%9F%E9%87%87%E6%A0%B7%E4%B9%8B%E6%97%85-98124c79</link>
+            <guid isPermaLink="false">WP-WSJS-0003989653</guid>
+            <pubDate>Tue, 20 Oct 2026 00:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西非成为黄金开采业的新“蛮荒地带”]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60505602?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管当地官员为争取更大份额的利润，扣押资产并拘留企业高管，矿业公司仍争相在该地区开采，试图趁金价接近历史高位之际获利。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%A5%BF%E9%9D%9E%E6%88%90%E4%B8%BA%E9%BB%84%E9%87%91%E5%BC%80%E9%87%87%E4%B8%9A%E7%9A%84%E6%96%B0-%E8%9B%AE%E8%8D%92%E5%9C%B0%E5%B8%A6-c3b25318</link>
+            <guid isPermaLink="false">WP-WSJS-0003989681</guid>
+            <pubDate>Tue, 20 Oct 2026 00:49:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[伊朗为胡塞武装袭击沙特提供目标定位和情报支持]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-00086854?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伊朗的支持帮助胡塞武装对沙特及其也门盟友发动了迄今威力最大、战术最复杂的袭击。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E4%B8%BA%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%E6%B2%99%E7%89%B9%E6%8F%90%E4%BE%9B%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BD%8D%E5%92%8C%E6%83%85%E6%8A%A5%E6%94%AF%E6%8C%81-3321a97a</link>
@@ -194,20 +208,6 @@
             <link>https://cn.wsj.com/articles/%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E5%A5%A5%E5%BC%97%E5%BE%B7%E5%85%8B%E7%9A%84%E4%B8%A4%E5%9C%BA%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B-%E5%AF%B9%E9%98%B5%E5%A6%BB%E5%AD%90%E5%92%8C%E5%95%86%E4%B8%9A%E4%BC%99%E4%BC%B4-9523e2cd</link>
             <guid isPermaLink="false">WP-WSJS-0003987055</guid>
             <pubDate>Mon, 19 Oct 2026 06:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[可口可乐如何撬动了百事对肯德基饮料机的掌控]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-90420698?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>历经两天的秘密品鉴与战略评估，前百事旗下连锁巨头肯德基正式倒戈可口可乐。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-coke-loosened-pepsis-grip-on-kfcs-soda-fountains-01f92221</link>
-            <guid isPermaLink="false">WP-WSJS-0003986638</guid>
-            <pubDate>Mon, 19 Oct 2026 01:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲右翼为何与MAGA分道扬镳？]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-11504124?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>放眼欧洲各地，民族主义政党正接连赢得选举并在民调中领先。它们成功的秘诀之一，就是与特朗普及“让美国再次伟大”运动的盟友保持距离。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%AC%A7%E6%B4%B2%E5%8F%B3%E7%BF%BC%E4%B8%BA%E4%BD%95%E4%B8%8Emaga%E5%88%86%E9%81%93%E6%89%AC%E9%95%B3-3dfa2148</link>
-            <guid isPermaLink="false">WP-WSJS-0003986841</guid>
-            <pubDate>Mon, 19 Oct 2026 03:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[倒戈者：一名俄罗斯军官如何帮助乌克兰击杀数百俄士兵]]></title>
