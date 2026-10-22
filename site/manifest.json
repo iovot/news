@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-22T11:31:01.859002+00:00",
+  "generated_at": "2026-10-22T17:01:51.090777+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "DeekSeek在潜在IPO前筹得150亿美元",
+      "title": "DeepSeek在潜在IPO前筹得150亿美元",
       "summary": "知情人士称，这家中国AI初创公司目标是明年初在上海上市，可能先于OpenAI和月之暗面进行IPO。",
-      "link": "https://cn.wsj.com/articles/chinese-ai-startup-deekseek-raises-15-billion-ahead-of-potential-ipo-dd459eeb",
+      "link": "https://cn.wsj.com/articles/chinese-ai-startup-deepseek-raises-15-billion-ahead-of-potential-ipo-dd459eeb",
       "guid": "WP-WSJS-0003998186",
-      "pub_date": "Thu, 22 Oct 2026 11:23:00 GMT",
+      "pub_date": "Thu, 22 Oct 2026 11:51:00 GMT",
       "image_url": "https://images.wsj.net/im-64795973?size=1.501&width=1280",
-      "snapshot": "articles/chinese-ai-startup-deekseek-raises-15-billion-ah-28bea471be7a.html",
+      "snapshot": "articles/chinese-ai-startup-deepseek-raises-15-billion-ah-28bea471be7a.html",
       "captured": true,
-      "capture_title": "DeekSeek在潜在IPO前筹得150亿美元 - WSJ",
+      "capture_title": "DeepSeek在潜在IPO前筹得150亿美元 - WSJ",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-50360232?size=1.64&width=1280",
       "snapshot": "articles/e4-b8-ba-e4-bd-95deepmind-e5-88-9b-e5-a7-8b-e4-b-f95a107d74bf.html",
       "captured": true,
-      "capture_title": "为何DeepMind创始人坚信世界即将迎来剧变？ - WSJ",
+      "capture_title": "为何DeepMind创始人坚信世界即将迎来剧变？",
       "error": ""
     },
     {
@@ -181,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-10513568?size=1.501&width=1280",
       "snapshot": "articles/splitting-bills-reimbursement-young-adults-2a171-fc83ff14feb7.html",
       "captured": true,
-      "capture_title": "总替朋友垫钱买单，为何钱包和心情都受累 - WSJ",
+      "capture_title": "总替朋友垫钱买单，为何钱包和心情都受累",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-08220943?size=1.5&width=1280",
       "snapshot": "articles/private-credit-retail-investors-festival-8645e2f-9dc8f3e7374d.html",
       "captured": true,
-      "capture_title": "看似音乐节，实则推销会：私募信贷瞄准散户财富 - WSJ",
+      "capture_title": "看似音乐节，实则推销会：私募信贷瞄准散户财富",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/e7-99-be-e5-bc-a0-e5-90-88-e5-bd-b1--e6-97-a0-e6-7e09682f4577.html",
       "captured": true,
       "capture_title": "百张合影、无暇睡眠：嘉年华邮轮明星总监的一天",
+      "error": ""
+    },
+    {
+      "title": "DeekSeek在潜在IPO前筹得150亿美元",
+      "summary": "知情人士称，这家中国AI初创公司目标是明年初在上海上市，可能先于OpenAI和月之暗面进行IPO。",
+      "link": "https://cn.wsj.com/articles/chinese-ai-startup-deekseek-raises-15-billion-ahead-of-potential-ipo-dd459eeb",
+      "guid": "WP-WSJS-0003998186",
+      "pub_date": "Thu, 22 Oct 2026 11:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-64795973?size=1.501&width=1280",
+      "snapshot": "articles/chinese-ai-startup-deekseek-raises-15-billion-ah-28bea471be7a.html",
+      "captured": true,
+      "capture_title": "DeekSeek在潜在IPO前筹得150亿美元 - WSJ",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e7-a6-8f-e7-89-b9-e6-ac-a7-e6-b4-b2-e5-a4-8d-e5--1de01e7fa8da.html",
       "captured": true,
       "capture_title": "福特欧洲复兴战：告别乏味车型，但新车得等到2028年 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "Anthropic将把5%的股份划拨给新设的“公共利益”基金",
-      "summary": "该基金或可直接将资金发放给受AI引发的劳动力市场不稳定问题影响的人群。",
-      "link": "https://cn.wsj.com/articles/anthropic%E5%B0%86%E6%8A%8A5-%E7%9A%84%E8%82%A1%E4%BB%BD%E5%88%92%E6%8B%A8%E7%BB%99%E6%96%B0%E8%AE%BE%E7%9A%84-%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A-%E5%9F%BA%E9%87%91-4d7e3c1e",
-      "guid": "WP-WSJS-0003986615",
-      "pub_date": "Mon, 19 Oct 2026 01:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-07390728?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/anthropic-e5-b0-86-e6-8a-8a5--e7-9a-84-e8-82-a1--b5ceab614349.html",
-      "captured": true,
-      "capture_title": "Anthropic将把5%的股份划拨给新设的“公共利益”基金 - WSJ",
       "error": ""
     }
   ]

@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 11:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 16:54:54 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 11:27:13 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 16:54:54 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[DeekSeek在潜在IPO前筹得150亿美元]]></title>
+            <title><![CDATA[DeepSeek在潜在IPO前筹得150亿美元]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-64795973?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士称，这家中国AI初创公司目标是明年初在上海上市，可能先于OpenAI和月之暗面进行IPO。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinese-ai-startup-deekseek-raises-15-billion-ahead-of-potential-ipo-dd459eeb</link>
+            <link>https://cn.wsj.com/articles/chinese-ai-startup-deepseek-raises-15-billion-ahead-of-potential-ipo-dd459eeb</link>
             <guid isPermaLink="false">WP-WSJS-0003998186</guid>
-            <pubDate>Thu, 22 Oct 2026 11:23:00 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 11:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[谷歌前CEO：中国在AI竞赛中落后美国半年，为何这已是胜势]]></title>
