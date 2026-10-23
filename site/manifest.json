@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:50:16.356626+00:00",
+  "generated_at": "2026-10-23T21:16:24.843472+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-03163393?size=1.417&width=1280",
       "snapshot": "articles/ukraine-says-starlink-isnt-working-despite-trump-a4ecafd950f4.html",
       "captured": true,
-      "capture_title": "乌克兰称星链仍无法正常使用，尽管特朗普承诺恢复服务 - WSJ",
+      "capture_title": "乌克兰称星链仍无法正常使用，尽管特朗普承诺恢复服务",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
       "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
       "captured": true,
-      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台 - WSJ",
+      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
       "error": ""
     },
     {
