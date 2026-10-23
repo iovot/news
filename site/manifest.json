@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:24:43.589489+00:00",
+  "generated_at": "2026-10-23T16:50:16.356626+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,19 +13,19 @@
       "image_url": "https://images.wsj.net/im-32340859?size=1.455&width=1280",
       "snapshot": "articles/e5-85-ab-e5-bc-a0-e5-9b-be-e8-a1-a8-e6-8f-ad-e7--208af6163e61.html",
       "captured": true,
-      "capture_title": "八张图表揭示法国财政困境何等严峻 - WSJ",
+      "capture_title": "八张图表揭示法国财政困境何等严峻",
       "error": ""
     },
     {
-      "title": "特朗普要求马斯克解除对乌克兰星链限制",
-      "summary": "美国和乌克兰官员称，特朗普致电马斯克后不久，该系统在周四的运行已更趋正常。",
-      "link": "https://cn.wsj.com/articles/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-08e9453c",
-      "guid": "WP-WSJS-0004000626",
-      "pub_date": "Thu, 22 Oct 2026 23:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-92121358?size=1.501&width=1280",
-      "snapshot": "articles/trump-called-musk-and-asked-him-to-lift-ukraine--001347a728ec.html",
+      "title": "乌克兰称星链仍无法正常使用，尽管特朗普承诺恢复服务",
+      "summary": "乌克兰军方使用的星链系统周五早些时候仍受较低限速的约束，尽管特朗普表示，马斯克已经恢复了这项服务。",
+      "link": "https://cn.wsj.com/articles/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-58fdbcaf",
+      "guid": "WP-WSJS-0004001996",
+      "pub_date": "Fri, 23 Oct 2026 11:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-03163393?size=1.417&width=1280",
+      "snapshot": "articles/ukraine-says-starlink-isnt-working-despite-trump-a4ecafd950f4.html",
       "captured": true,
-      "capture_title": "特朗普要求马斯克解除对乌克兰星链限制",
+      "capture_title": "乌克兰称星链仍无法正常使用，尽管特朗普承诺恢复服务 - WSJ",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-31996856?size=1.499&width=1280",
       "snapshot": "articles/sk-hynix-shelves-plans-for-u-s-listing-of-memory-3e470cbb2aab.html",
       "captured": true,
-      "capture_title": "SK海力士暂停存储芯片子公司IPO，对AI估值担忧加剧 - WSJ",
+      "capture_title": "SK海力士暂停存储芯片子公司IPO，对AI估值担忧加剧",
       "error": ""
     },
     {
@@ -85,7 +85,55 @@
       "image_url": "https://images.wsj.net/im-29352613?size=1.78&width=1280",
       "snapshot": "articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba-7b4bf146a73c.html",
       "captured": true,
-      "capture_title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠 - WSJ",
+      "capture_title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
+      "error": ""
+    },
+    {
+      "title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
+      "summary": "新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。",
+      "link": "https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765",
+      "guid": "WP-WSJS-0004002011",
+      "pub_date": "Fri, 23 Oct 2026 12:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
+      "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
+      "captured": true,
+      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国人还害怕社会主义吗？",
+      "summary": "共和党策略师已将有关“共产主义威胁”的警告作为该党中期选举宣传的核心。但两党选民出现的政治倾向变化，让这一策略面临挑战。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%AE%B3%E6%80%95%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%90%97-23af63d8",
+      "guid": "WP-WSJS-0004001297",
+      "pub_date": "Fri, 23 Oct 2026 05:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-98059368?size=1.495&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-ba-ba-e8-bf-98-e5-ae-b3-e6--c93ad643671e.html",
+      "captured": true,
+      "capture_title": "美国人还害怕社会主义吗？",
+      "error": ""
+    },
+    {
+      "title": "图解航空公司如何穿越危险空域以避开全球冲突",
+      "summary": "《华尔街日报》对全球多条最繁忙航线的飞行路径进行了深入分析，这些航线目前正因乌克兰和中东地区的冲突而频繁调整。",
+      "link": "https://cn.wsj.com/articles/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-c05bba13",
+      "guid": "WP-WSJS-0004001227",
+      "pub_date": "Fri, 23 Oct 2026 07:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-31624126?size=1&width=1280",
+      "snapshot": "articles/see-how-airlines-are-navigating-the-dangerous-sk-b128c49c4be5.html",
+      "captured": true,
+      "capture_title": "图解航空公司如何穿越危险空域以避开全球冲突",
+      "error": ""
+    },
+    {
+      "title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
+      "summary": "该公司解雇了三名安全研究人员，原因是他们对敏感信息处理不当。他们一直致力于维护AI系统运行的透明度，并主张允许外部人员查看推理过程。",
+      "link": "https://cn.wsj.com/articles/the-signal-chats-that-cost-openai-researchers-their-jobs-cda102f4",
+      "guid": "WP-WSJS-0004001295",
+      "pub_date": "Fri, 23 Oct 2026 05:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-97237183?size=1.501&width=1280",
+      "snapshot": "articles/the-signal-chats-that-cost-openai-researchers-th-b0ac65e7ed84.html",
+      "captured": true,
+      "capture_title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
       "error": ""
     },
     {
@@ -101,42 +149,6 @@
       "error": ""
     },
     {
-      "title": "美国人还害怕社会主义吗？",
-      "summary": "共和党策略师已将有关“共产主义威胁”的警告作为该党中期选举宣传的核心。但两党选民出现的政治倾向变化，让这一策略面临挑战。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%AE%B3%E6%80%95%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%90%97-23af63d8",
-      "guid": "WP-WSJS-0004001297",
-      "pub_date": "Fri, 23 Oct 2026 05:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-98059368?size=1.495&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-ba-ba-e8-bf-98-e5-ae-b3-e6--c93ad643671e.html",
-      "captured": true,
-      "capture_title": "美国人还害怕社会主义吗？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
-      "summary": "该公司解雇了三名安全研究人员，原因是他们对敏感信息处理不当。他们一直致力于维护AI系统运行的透明度，并主张允许外部人员查看推理过程。",
-      "link": "https://cn.wsj.com/articles/the-signal-chats-that-cost-openai-researchers-their-jobs-cda102f4",
-      "guid": "WP-WSJS-0004001295",
-      "pub_date": "Fri, 23 Oct 2026 05:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-97237183?size=1.501&width=1280",
-      "snapshot": "articles/the-signal-chats-that-cost-openai-researchers-th-b0ac65e7ed84.html",
-      "captured": true,
-      "capture_title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "政界人士转而反对AI，但美国人的退休金要指望它",
-      "summary": "自2022年以来，AI相关股票为13家公共退休基金带来了1,380亿美元的收益，帮助它们摆脱了上一次金融危机造成的亏损。",
-      "link": "https://cn.wsj.com/articles/%E6%94%BF%E7%95%8C%E4%BA%BA%E5%A3%AB%E8%BD%AC%E8%80%8C%E5%8F%8D%E5%AF%B9ai-%E4%BD%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%80%80%E4%BC%91%E9%87%91%E8%A6%81%E6%8C%87%E6%9C%9B%E5%AE%83-65fd5d8f",
-      "guid": "WP-WSJS-0004001051",
-      "pub_date": "Fri, 23 Oct 2026 02:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-96301540?size=1.501&width=1280",
-      "snapshot": "articles/e6-94-bf-e7-95-8c-e4-ba-ba-e5-a3-ab-e8-bd-ac-e8--fa838360faaf.html",
-      "captured": true,
-      "capture_title": "政界人士转而反对AI，但美国人的退休金要指望它",
-      "error": ""
-    },
-    {
       "title": "揭露Theranos骗局：《华尔街日报》重磅调查报道回顾",
       "summary": "一部关于伊丽莎白·霍姆斯的新纪录片《你能看到一切》上映后正引起巨大轰动。",
       "link": "https://cn.wsj.com/articles/elizabeth-holmes-sentencing-a-history-of-the-wsj-theranos-investigation-d67f5904",
@@ -145,19 +157,7 @@
       "image_url": "https://images.wsj.net/im-669264?size=1.518&width=1280",
       "snapshot": "articles/elizabeth-holmes-sentencing-a-history-of-the-wsj-1495c5583200.html",
       "captured": true,
-      "capture_title": "伊丽莎白·霍姆斯纪录片《你能看到一切》上映引轰动，回顾Theranos骗局重磅调查报道 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "图解航空公司如何穿越危险空域以避开全球冲突",
-      "summary": "《华尔街日报》对全球多条最繁忙航线的飞行路径进行了深入分析，这些航线目前正因乌克兰和中东地区的冲突而频繁调整。",
-      "link": "https://cn.wsj.com/articles/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-c05bba13",
-      "guid": "WP-WSJS-0004001227",
-      "pub_date": "Fri, 23 Oct 2026 07:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-31624126?size=1&width=1280",
-      "snapshot": "articles/see-how-airlines-are-navigating-the-dangerous-sk-b128c49c4be5.html",
-      "captured": true,
-      "capture_title": "图解航空公司如何穿越危险空域以避开全球冲突 - WSJ",
+      "capture_title": "揭露Theranos骗局：《华尔街日报》重磅调查报道回顾",
       "error": ""
     },
     {
@@ -197,6 +197,18 @@
       "error": ""
     },
     {
+      "title": "政界人士转而反对AI，但美国人的退休金要指望它",
+      "summary": "自2022年以来，AI相关股票为13家公共退休基金带来了1,380亿美元的收益，帮助它们摆脱了上一次金融危机造成的亏损。",
+      "link": "https://cn.wsj.com/articles/%E6%94%BF%E7%95%8C%E4%BA%BA%E5%A3%AB%E8%BD%AC%E8%80%8C%E5%8F%8D%E5%AF%B9ai-%E4%BD%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%80%80%E4%BC%91%E9%87%91%E8%A6%81%E6%8C%87%E6%9C%9B%E5%AE%83-65fd5d8f",
+      "guid": "WP-WSJS-0004001051",
+      "pub_date": "Fri, 23 Oct 2026 02:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-96301540?size=1.501&width=1280",
+      "snapshot": "articles/e6-94-bf-e7-95-8c-e4-ba-ba-e5-a3-ab-e8-bd-ac-e8--fa838360faaf.html",
+      "captured": true,
+      "capture_title": "政界人士转而反对AI，但美国人的退休金要指望它",
+      "error": ""
+    },
+    {
       "title": "75年从未裁员：这家家族企业的秘诀吸引高管前来“取经”",
       "summary": "成百上千的企业高管来到圣路易斯学习冈德家族企业如何通过将员工福祉置于短期利润之上而蓬勃发展。“听起来可能过于感性，但确实能带来利润。”",
       "link": "https://cn.wsj.com/articles/75%E5%B9%B4%E4%BB%8E%E6%9C%AA%E8%A3%81%E5%91%98-%E8%BF%99%E5%AE%B6%E5%AE%B6%E6%97%8F%E4%BC%81%E4%B8%9A%E7%9A%84%E7%A7%98%E8%AF%80%E5%90%B8%E5%BC%95%E9%AB%98%E7%AE%A1%E5%89%8D%E6%9D%A5-%E5%8F%96%E7%BB%8F-cce6f43d",
@@ -230,18 +242,6 @@
       "snapshot": "articles/mark-zuckerberg-discussed-leaving-california-ove-2fb9f262c69f.html",
       "captured": true,
       "capture_title": "扎克伯格因税收威胁搬离加州，Meta董事会妥协挽留",
-      "error": ""
-    },
-    {
-      "title": "莫德纳股价大跌近18%，此前癌症疫苗细节提前在网上流传",
-      "summary": "相关细节原定于周六在欧洲肿瘤内科学会年会上公布。",
-      "link": "https://cn.wsj.com/articles/%E8%8E%AB%E5%BE%B7%E7%BA%B3%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%9118-%E6%AD%A4%E5%89%8D%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%BB%86%E8%8A%82%E6%8F%90%E5%89%8D%E5%9C%A8%E7%BD%91%E4%B8%8A%E6%B5%81%E4%BC%A0-3adf27be",
-      "guid": "WP-WSJS-0004000606",
-      "pub_date": "Thu, 22 Oct 2026 23:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-36932324?size=1.501&width=1280",
-      "snapshot": "articles/e8-8e-ab-e5-be-b7-e7-ba-b3-e8-82-a1-e4-bb-b7-e5--6de34e39c833.html",
-      "captured": true,
-      "capture_title": "莫德纳股价大跌近18%，此前癌症疫苗细节提前在网上流传",
       "error": ""
     },
     {
@@ -302,6 +302,30 @@
       "snapshot": "articles/e8-b6-85-e7-ba-a7-e5-af-8c-e8-b1-aa-e8-b4-ad-e5--f5e9075b678e.html",
       "captured": true,
       "capture_title": "超级富豪购入过亿豪宅，只为拆除重建",
+      "error": ""
+    },
+    {
+      "title": "特朗普要求马斯克解除对乌克兰星链限制",
+      "summary": "美国和乌克兰官员称，特朗普致电马斯克后不久，该系统在周四的运行已更趋正常。",
+      "link": "https://cn.wsj.com/articles/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-08e9453c",
+      "guid": "WP-WSJS-0004000626",
+      "pub_date": "Thu, 22 Oct 2026 23:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-92121358?size=1.501&width=1280",
+      "snapshot": "articles/trump-called-musk-and-asked-him-to-lift-ukraine--001347a728ec.html",
+      "captured": true,
+      "capture_title": "特朗普要求马斯克解除对乌克兰星链限制",
+      "error": ""
+    },
+    {
+      "title": "莫德纳股价大跌近18%，此前癌症疫苗细节提前在网上流传",
+      "summary": "相关细节原定于周六在欧洲肿瘤内科学会年会上公布。",
+      "link": "https://cn.wsj.com/articles/%E8%8E%AB%E5%BE%B7%E7%BA%B3%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%9118-%E6%AD%A4%E5%89%8D%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%BB%86%E8%8A%82%E6%8F%90%E5%89%8D%E5%9C%A8%E7%BD%91%E4%B8%8A%E6%B5%81%E4%BC%A0-3adf27be",
+      "guid": "WP-WSJS-0004000606",
+      "pub_date": "Thu, 22 Oct 2026 23:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-36932324?size=1.501&width=1280",
+      "snapshot": "articles/e8-8e-ab-e5-be-b7-e7-ba-b3-e8-82-a1-e4-bb-b7-e5--6de34e39c833.html",
+      "captured": true,
+      "capture_title": "莫德纳股价大跌近18%，此前癌症疫苗细节提前在网上流传",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/alberta-independence-vote-canada-7aefe9d6-8067f34af3e7.html",
       "captured": true,
       "capture_title": "艾伯塔省脱离加拿大公投引发尖锐分歧 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普幕僚正四处聘请律师，应对国会潜在调查风暴",
-      "summary": "为防范民主党重夺国会并启动调查，特朗普内阁官员与普通幕僚正提前构筑法律防线。",
-      "link": "https://cn.wsj.com/articles/trump-administration-democrat-investigation-224ebe27",
-      "guid": "WP-WSJS-0003986955",
-      "pub_date": "Mon, 19 Oct 2026 05:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-45502343?size=1.501&width=1280",
-      "snapshot": "articles/trump-administration-democrat-investigation-224e-01eb17e4a650.html",
-      "captured": true,
-      "capture_title": "特朗普幕僚正四处聘请律师，应对国会潜在调查风暴",
-      "error": ""
-    },
-    {
-      "title": "骚乱席卷法国后，各派领导人相互指责",
-      "summary": "周日，骚乱者继续在法国多地展开暴力活动，袭击市政厅、奢侈品店等，警方基本无力阻止。这场席卷全国的骚乱堪称多年来最严重之一。",
-      "link": "https://cn.wsj.com/articles/%E9%AA%9A%E4%B9%B1%E5%B8%AD%E5%8D%B7%E6%B3%95%E5%9B%BD%E5%90%8E-%E5%90%84%E6%B4%BE%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9B%B8%E4%BA%92%E6%8C%87%E8%B4%A3-009eacad",
-      "guid": "WP-WSJS-0003986582",
-      "pub_date": "Mon, 19 Oct 2026 01:12:00 GMT",
-      "image_url": "https://images.wsj.net/im-10934169?size=1.501&width=1280",
-      "snapshot": "articles/e9-aa-9a-e4-b9-b1-e5-b8-ad-e5-8d-b7-e6-b3-95-e5--00f5af5ca808.html",
-      "captured": true,
-      "capture_title": "骚乱席卷法国后，各派领导人相互指责",
       "error": ""
     }
   ]

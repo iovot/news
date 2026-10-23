@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 11:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 16:45:36 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Oct 2026 11:16:59 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 16:45:36 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,11 +35,11 @@
             <pubDate>Fri, 23 Oct 2026 07:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普要求马斯克解除对乌克兰星链限制]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92121358?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国和乌克兰官员称，特朗普致电马斯克后不久，该系统在周四的运行已更趋正常。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-08e9453c</link>
-            <guid isPermaLink="false">WP-WSJS-0004000626</guid>
-            <pubDate>Thu, 22 Oct 2026 23:33:00 GMT</pubDate>
+            <title><![CDATA[乌克兰称星链仍无法正常使用，尽管特朗普承诺恢复服务]]></title>
+            <description><![CDATA[<img width="1280" height="903" src="https://images.wsj.net/im-03163393?size=1.417&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>乌克兰军方使用的星链系统周五早些时候仍受较低限速的约束，尽管特朗普表示，马斯克已经恢复了这项服务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-58fdbcaf</link>
+            <guid isPermaLink="false">WP-WSJS-0004001996</guid>
+            <pubDate>Fri, 23 Oct 2026 11:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[伊朗警告：若美国发动攻击，将扩大对经济和民用目标的打击]]></title>
@@ -77,11 +77,11 @@
             <pubDate>Fri, 23 Oct 2026 09:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[为何DeepMind创始人坚信世界即将迎来剧变？]]></title>
-            <description><![CDATA[<img width="1280" height="780" src="https://images.wsj.net/im-50360232?size=1.64&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从国际象棋神童到AI先驱，再到诺贝尔奖得主，德米斯·哈萨比斯毕生致力于借助人工智能解开世界的奥秘。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95deepmind%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9D%9A%E4%BF%A1%E4%B8%96%E7%95%8C%E5%8D%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%89%A7%E5%8F%98-1d6e61d8</link>
-            <guid isPermaLink="false">WP-WSJS-0003997466</guid>
-            <pubDate>Thu, 22 Oct 2026 06:23:00 GMT</pubDate>
+            <title><![CDATA[争议漩涡中的新疆已成中国展现商业雄心的舞台]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-77602428?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。</p>]]></description>
+            <link>https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765</link>
+            <guid isPermaLink="false">WP-WSJS-0004002011</guid>
+            <pubDate>Fri, 23 Oct 2026 12:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国人还害怕社会主义吗？]]></title>
@@ -91,6 +91,13 @@
             <pubDate>Fri, 23 Oct 2026 05:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[图解航空公司如何穿越危险空域以避开全球冲突]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-31624126?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》对全球多条最繁忙航线的飞行路径进行了深入分析，这些航线目前正因乌克兰和中东地区的冲突而频繁调整。</p>]]></description>
+            <link>https://cn.wsj.com/articles/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-c05bba13</link>
+            <guid isPermaLink="false">WP-WSJS-0004001227</guid>
+            <pubDate>Fri, 23 Oct 2026 07:34:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Signal聊天记录如何让三名OpenAI研究人员丢了工作？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97237183?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该公司解雇了三名安全研究人员，原因是他们对敏感信息处理不当。他们一直致力于维护AI系统运行的透明度，并主张允许外部人员查看推理过程。</p>]]></description>
             <link>https://cn.wsj.com/articles/the-signal-chats-that-cost-openai-researchers-their-jobs-cda102f4</link>
@@ -98,11 +105,11 @@
             <pubDate>Fri, 23 Oct 2026 05:25:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[政界人士转而反对AI，但美国人的退休金要指望它]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96301540?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自2022年以来，AI相关股票为13家公共退休基金带来了1,380亿美元的收益，帮助它们摆脱了上一次金融危机造成的亏损。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%94%BF%E7%95%8C%E4%BA%BA%E5%A3%AB%E8%BD%AC%E8%80%8C%E5%8F%8D%E5%AF%B9ai-%E4%BD%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%80%80%E4%BC%91%E9%87%91%E8%A6%81%E6%8C%87%E6%9C%9B%E5%AE%83-65fd5d8f</link>
-            <guid isPermaLink="false">WP-WSJS-0004001051</guid>
-            <pubDate>Fri, 23 Oct 2026 02:37:00 GMT</pubDate>
+            <title><![CDATA[为何DeepMind创始人坚信世界即将迎来剧变？]]></title>
+            <description><![CDATA[<img width="1280" height="780" src="https://images.wsj.net/im-50360232?size=1.64&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从国际象棋神童到AI先驱，再到诺贝尔奖得主，德米斯·哈萨比斯毕生致力于借助人工智能解开世界的奥秘。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95deepmind%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9D%9A%E4%BF%A1%E4%B8%96%E7%95%8C%E5%8D%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%89%A7%E5%8F%98-1d6e61d8</link>
+            <guid isPermaLink="false">WP-WSJS-0003997466</guid>
+            <pubDate>Thu, 22 Oct 2026 06:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[揭露Theranos骗局：《华尔街日报》重磅调查报道回顾]]></title>
@@ -110,13 +117,6 @@
             <link>https://cn.wsj.com/articles/elizabeth-holmes-sentencing-a-history-of-the-wsj-theranos-investigation-d67f5904</link>
             <guid isPermaLink="false">WP-WSJS-0004001566</guid>
             <pubDate>Fri, 23 Oct 2026 09:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[图解航空公司如何穿越危险空域以避开全球冲突]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-31624126?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》对全球多条最繁忙航线的飞行路径进行了深入分析，这些航线目前正因乌克兰和中东地区的冲突而频繁调整。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-c05bba13</link>
-            <guid isPermaLink="false">WP-WSJS-0004001227</guid>
-            <pubDate>Fri, 23 Oct 2026 07:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国政坛“不倒翁”黄奇帆落马，折射了习近平治下的何种问题？]]></title>
@@ -140,6 +140,13 @@
             <pubDate>Fri, 23 Oct 2026 00:46:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[政界人士转而反对AI，但美国人的退休金要指望它]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-96301540?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>自2022年以来，AI相关股票为13家公共退休基金带来了1,380亿美元的收益，帮助它们摆脱了上一次金融危机造成的亏损。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%94%BF%E7%95%8C%E4%BA%BA%E5%A3%AB%E8%BD%AC%E8%80%8C%E5%8F%8D%E5%AF%B9ai-%E4%BD%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%80%80%E4%BC%91%E9%87%91%E8%A6%81%E6%8C%87%E6%9C%9B%E5%AE%83-65fd5d8f</link>
+            <guid isPermaLink="false">WP-WSJS-0004001051</guid>
+            <pubDate>Fri, 23 Oct 2026 02:37:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[75年从未裁员：这家家族企业的秘诀吸引高管前来“取经”]]></title>
             <description><![CDATA[<img width="1280" height="866" src="https://images.wsj.net/im-14957358?size=1.478&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>成百上千的企业高管来到圣路易斯学习冈德家族企业如何通过将员工福祉置于短期利润之上而蓬勃发展。“听起来可能过于感性，但确实能带来利润。”</p>]]></description>
             <link>https://cn.wsj.com/articles/75%E5%B9%B4%E4%BB%8E%E6%9C%AA%E8%A3%81%E5%91%98-%E8%BF%99%E5%AE%B6%E5%AE%B6%E6%97%8F%E4%BC%81%E4%B8%9A%E7%9A%84%E7%A7%98%E8%AF%80%E5%90%B8%E5%BC%95%E9%AB%98%E7%AE%A1%E5%89%8D%E6%9D%A5-%E5%8F%96%E7%BB%8F-cce6f43d</link>
@@ -159,13 +166,6 @@
             <link>https://cn.wsj.com/articles/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-4b50aa9b</link>
             <guid isPermaLink="false">WP-WSJS-0003997002</guid>
             <pubDate>Thu, 22 Oct 2026 06:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莫德纳股价大跌近18%，此前癌症疫苗细节提前在网上流传]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36932324?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>相关细节原定于周六在欧洲肿瘤内科学会年会上公布。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%8E%AB%E5%BE%B7%E7%BA%B3%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%9118-%E6%AD%A4%E5%89%8D%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%BB%86%E8%8A%82%E6%8F%90%E5%89%8D%E5%9C%A8%E7%BD%91%E4%B8%8A%E6%B5%81%E4%BC%A0-3adf27be</link>
-            <guid isPermaLink="false">WP-WSJS-0004000606</guid>
-            <pubDate>Thu, 22 Oct 2026 23:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iPhone Duo评测：太多iPhone属性，而不够iPad]]></title>
