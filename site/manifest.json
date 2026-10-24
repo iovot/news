@@ -1,19 +1,55 @@
 {
-  "generated_at": "2026-10-23T21:16:24.843472+00:00",
+  "generated_at": "2026-10-24T04:06:04.633575+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "八张图表揭示法国财政困境何等严峻",
-      "summary": "多年来对消费者的慷慨支持使法国财政陷入岌岌可危的境地。席卷全国的骚乱让这一问题暴露在全球聚光灯下。",
-      "link": "https://cn.wsj.com/articles/%E5%85%AB%E5%BC%A0%E5%9B%BE%E8%A1%A8%E6%8F%AD%E7%A4%BA%E6%B3%95%E5%9B%BD%E8%B4%A2%E6%94%BF%E5%9B%B0%E5%A2%83%E4%BD%95%E7%AD%89%E4%B8%A5%E5%B3%BB-c4174edf",
-      "guid": "WP-WSJS-0004001299",
-      "pub_date": "Fri, 23 Oct 2026 07:01:00 GMT",
-      "image_url": "https://images.wsj.net/im-32340859?size=1.455&width=1280",
-      "snapshot": "articles/e5-85-ab-e5-bc-a0-e5-9b-be-e8-a1-a8-e6-8f-ad-e7--208af6163e61.html",
+      "title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
+      "summary": "读者向我们的专栏作家发起挑战，让他驾驶一辆平价电动汽车，走一条充电条件不太理想的路线。以下是他的实测经历。",
+      "link": "https://cn.wsj.com/articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba",
+      "guid": "WP-WSJS-0004001488",
+      "pub_date": "Fri, 23 Oct 2026 09:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-29352613?size=1.78&width=1280",
+      "snapshot": "articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba-7b4bf146a73c.html",
       "captured": true,
-      "capture_title": "八张图表揭示法国财政困境何等严峻",
+      "capture_title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
+      "error": ""
+    },
+    {
+      "title": "美股在多空拉锯中收跌，结束震荡一周",
+      "summary": "从油价飙升，到巨额AI支出及为此所需的资金，各种相关担忧令美国主要股指本周大幅震荡。",
+      "link": "https://cn.wsj.com/articles/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0b22b4a8",
+      "guid": "WP-WSJS-0004004364",
+      "pub_date": "Sat, 24 Oct 2026 00:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-95998240?size=1.501&width=1280",
+      "snapshot": "articles/stocks-pulled-in-two-directions-fall-to-end-vola-0b505a447753.html",
+      "captured": true,
+      "capture_title": "美股在多空拉锯中收跌，结束震荡一周 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "特朗普取消对部分加拿大商品的关税，帮助提振共和党选情",
+      "summary": "美国周五采取行动，对部分加拿大产品免征50%的关税，意在帮助缅因州参议员苏珊·柯林斯和其他共和党人在中期选举中争取支持。",
+      "link": "https://cn.wsj.com/articles/trumpto-remove-some-tariffs-on-canada-in-bid-to-help-susan-collins-8362c21c",
+      "guid": "WP-WSJS-0004004422",
+      "pub_date": "Sat, 24 Oct 2026 00:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-49659744?size=1.501&width=1280",
+      "snapshot": "articles/trumpto-remove-some-tariffs-on-canada-in-bid-to--b75bb91a9b93.html",
+      "captured": true,
+      "capture_title": "特朗普取消对部分加拿大商品的关税，帮助提振共和党选情 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美众议院民主党人推动弹劾国防部长赫格塞思",
+      "summary": "众议院民主党人正将赫格塞思列为政治目标。有望出任下一任众议院议长的哈基姆·杰弗里斯表示，罢免国防部长是“我们要做的首要任务之一”。",
+      "link": "https://cn.wsj.com/articles/house-democrats-target-hegseth-for-impeachment-push-74779271",
+      "guid": "WP-WSJS-0004004430",
+      "pub_date": "Sat, 24 Oct 2026 01:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-72210661?size=1.501&width=1280",
+      "snapshot": "articles/house-democrats-target-hegseth-for-impeachment-p-12213e9b9dab.html",
+      "captured": true,
+      "capture_title": "美众议院民主党人推动弹劾国防部长赫格塞思 - WSJ",
       "error": ""
     },
     {
@@ -41,51 +77,15 @@
       "error": ""
     },
     {
-      "title": "DeepSeek在潜在IPO前筹得150亿美元",
-      "summary": "知情人士称，这家中国AI初创公司目标是明年初在上海上市，可能先于OpenAI和月之暗面进行IPO。",
-      "link": "https://cn.wsj.com/articles/chinese-ai-startup-deepseek-raises-15-billion-ahead-of-potential-ipo-dd459eeb",
-      "guid": "WP-WSJS-0003998186",
-      "pub_date": "Thu, 22 Oct 2026 11:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-64795973?size=1.501&width=1280",
-      "snapshot": "articles/chinese-ai-startup-deepseek-raises-15-billion-ah-28bea471be7a.html",
+      "title": "致命袭击发生后，内塔尼亚胡呼吁封锁约旦河西岸",
+      "summary": "此前，两名巴勒斯坦人发动袭击，造成两名士兵死亡。在下周以色列举行选举前，这起袭击加剧了政治紧张局势和安全担忧。",
+      "link": "https://cn.wsj.com/articles/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-222d35f7",
+      "guid": "WP-WSJS-0004004450",
+      "pub_date": "Sat, 24 Oct 2026 01:21:00 GMT",
+      "image_url": "https://images.wsj.net/im-61556071?size=1.501&width=1280",
+      "snapshot": "articles/netanyahu-calls-for-west-bank-lockdown-after-dea-f83994da5d6f.html",
       "captured": true,
-      "capture_title": "DeepSeek在潜在IPO前筹得150亿美元",
-      "error": ""
-    },
-    {
-      "title": "SK海力士暂停存储芯片子公司IPO，对AI估值担忧加剧",
-      "summary": "SK海力士已取消旗下闪存子公司Solidigm在美国进行大规模首次公开募股的计划。",
-      "link": "https://cn.wsj.com/articles/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-4a5d72fe",
-      "guid": "WP-WSJS-0004001661",
-      "pub_date": "Fri, 23 Oct 2026 09:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-31996856?size=1.499&width=1280",
-      "snapshot": "articles/sk-hynix-shelves-plans-for-u-s-listing-of-memory-3e470cbb2aab.html",
-      "captured": true,
-      "capture_title": "SK海力士暂停存储芯片子公司IPO，对AI估值担忧加剧",
-      "error": ""
-    },
-    {
-      "title": "SpaceX将“巨型综合企业”模式推向科幻极致",
-      "summary": "马斯克旗下各种业务的杂乱拼盘，对投资者而言将是一座难以评估的迷宫。",
-      "link": "https://cn.wsj.com/articles/spacex-takes-conglomerate-building-to-sci-fi-extremes-74bb6363",
-      "guid": "WP-WSJS-0004000791",
-      "pub_date": "Fri, 23 Oct 2026 00:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-50279337?size=1.499&width=1280",
-      "snapshot": "articles/spacex-takes-conglomerate-building-to-sci-fi-ext-a4ea6c8f7192.html",
-      "captured": true,
-      "capture_title": "SpaceX将“巨型综合企业”模式推向科幻极致",
-      "error": ""
-    },
-    {
-      "title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
-      "summary": "读者向我们的专栏作家发起挑战，让他驾驶一辆平价电动汽车，走一条充电条件不太理想的路线。以下是他的实测经历。",
-      "link": "https://cn.wsj.com/articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba",
-      "guid": "WP-WSJS-0004001488",
-      "pub_date": "Fri, 23 Oct 2026 09:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-29352613?size=1.78&width=1280",
-      "snapshot": "articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba-7b4bf146a73c.html",
-      "captured": true,
-      "capture_title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
+      "capture_title": "致命袭击发生后，内塔尼亚胡呼吁封锁约旦河西岸 - WSJ",
       "error": ""
     },
     {
@@ -101,15 +101,27 @@
       "error": ""
     },
     {
-      "title": "美国人还害怕社会主义吗？",
-      "summary": "共和党策略师已将有关“共产主义威胁”的警告作为该党中期选举宣传的核心。但两党选民出现的政治倾向变化，让这一策略面临挑战。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%AE%B3%E6%80%95%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%90%97-23af63d8",
-      "guid": "WP-WSJS-0004001297",
-      "pub_date": "Fri, 23 Oct 2026 05:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-98059368?size=1.495&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-ba-ba-e8-bf-98-e5-ae-b3-e6--c93ad643671e.html",
+      "title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
+      "summary": "该公司解雇了三名安全研究人员，原因是他们对敏感信息处理不当。他们一直致力于维护AI系统运行的透明度，并主张允许外部人员查看推理过程。",
+      "link": "https://cn.wsj.com/articles/the-signal-chats-that-cost-openai-researchers-their-jobs-cda102f4",
+      "guid": "WP-WSJS-0004001295",
+      "pub_date": "Fri, 23 Oct 2026 05:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-97237183?size=1.501&width=1280",
+      "snapshot": "articles/the-signal-chats-that-cost-openai-researchers-th-b0ac65e7ed84.html",
       "captured": true,
-      "capture_title": "美国人还害怕社会主义吗？",
+      "capture_title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
+      "error": ""
+    },
+    {
+      "title": "八张图表揭示法国财政困境何等严峻",
+      "summary": "多年来对消费者的慷慨支持使法国财政陷入岌岌可危的境地。席卷全国的骚乱让这一问题暴露在全球聚光灯下。",
+      "link": "https://cn.wsj.com/articles/%E5%85%AB%E5%BC%A0%E5%9B%BE%E8%A1%A8%E6%8F%AD%E7%A4%BA%E6%B3%95%E5%9B%BD%E8%B4%A2%E6%94%BF%E5%9B%B0%E5%A2%83%E4%BD%95%E7%AD%89%E4%B8%A5%E5%B3%BB-c4174edf",
+      "guid": "WP-WSJS-0004001299",
+      "pub_date": "Fri, 23 Oct 2026 07:01:00 GMT",
+      "image_url": "https://images.wsj.net/im-32340859?size=1.455&width=1280",
+      "snapshot": "articles/e5-85-ab-e5-bc-a0-e5-9b-be-e8-a1-a8-e6-8f-ad-e7--208af6163e61.html",
+      "captured": true,
+      "capture_title": "八张图表揭示法国财政困境何等严峻",
       "error": ""
     },
     {
@@ -125,15 +137,15 @@
       "error": ""
     },
     {
-      "title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
-      "summary": "该公司解雇了三名安全研究人员，原因是他们对敏感信息处理不当。他们一直致力于维护AI系统运行的透明度，并主张允许外部人员查看推理过程。",
-      "link": "https://cn.wsj.com/articles/the-signal-chats-that-cost-openai-researchers-their-jobs-cda102f4",
-      "guid": "WP-WSJS-0004001295",
-      "pub_date": "Fri, 23 Oct 2026 05:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-97237183?size=1.501&width=1280",
-      "snapshot": "articles/the-signal-chats-that-cost-openai-researchers-th-b0ac65e7ed84.html",
+      "title": "DeepSeek在潜在IPO前筹得150亿美元",
+      "summary": "知情人士称，这家中国AI初创公司目标是明年初在上海上市，可能先于OpenAI和月之暗面进行IPO。",
+      "link": "https://cn.wsj.com/articles/chinese-ai-startup-deepseek-raises-15-billion-ahead-of-potential-ipo-dd459eeb",
+      "guid": "WP-WSJS-0003998186",
+      "pub_date": "Thu, 22 Oct 2026 11:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-64795973?size=1.501&width=1280",
+      "snapshot": "articles/chinese-ai-startup-deepseek-raises-15-billion-ah-28bea471be7a.html",
       "captured": true,
-      "capture_title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
+      "capture_title": "DeepSeek在潜在IPO前筹得150亿美元",
       "error": ""
     },
     {
@@ -185,6 +197,30 @@
       "error": ""
     },
     {
+      "title": "美国运通将裁员3,500人",
+      "summary": "美国运通公司正裁减全球员工总数的5%。本周，巴克莱、eBay和沃尔沃等多家大型雇主接连宣布了裁员。",
+      "link": "https://cn.wsj.com/articles/american-express-to-cut-3-500-jobs-798d2a96",
+      "guid": "WP-WSJS-0004004482",
+      "pub_date": "Sat, 24 Oct 2026 01:32:00 GMT",
+      "image_url": "https://images.wsj.net/im-66972805?size=1.499&width=1280",
+      "snapshot": "articles/american-express-to-cut-3-500-jobs-798d2a96-2c1d26bced3a.html",
+      "captured": true,
+      "capture_title": "美国运通将裁员3,500人 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "苹果iPhone Duo已开售，想买到一部可不容易",
+      "summary": "苹果公司原希望以一款创新产品的成功发布迎接新任首席执行官上任。但iPhone Duo和生产这款手机的供应链都还没有完全准备好。",
+      "link": "https://cn.wsj.com/articles/apple-new-iphone-duo-5bf18d53",
+      "guid": "WP-WSJS-0004004459",
+      "pub_date": "Sat, 24 Oct 2026 01:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-24325121?size=1.501&width=1280",
+      "snapshot": "articles/apple-new-iphone-duo-5bf18d53-05a326c7a547.html",
+      "captured": true,
+      "capture_title": "苹果iPhone Duo已开售，想买到一部可不容易 - WSJ",
+      "error": ""
+    },
+    {
       "title": "中国铝产量增加缓解了海湾地区供应冲击",
       "summary": "中国铝产量和出口量大幅增长，正抵消战争对波斯湾地区供应造成的冲击，帮助抑制铝价上涨。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%93%9D%E4%BA%A7%E9%87%8F%E5%A2%9E%E5%8A%A0%E7%BC%93%E8%A7%A3%E4%BA%86%E6%B5%B7%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BE%9B%E5%BA%94%E5%86%B2%E5%87%BB-1b6c5977",
@@ -194,18 +230,6 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-93-9d-e4-ba-a7-e9-87-8f-e5--43f3a3ebd90f.html",
       "captured": true,
       "capture_title": "中国铝产量增加缓解了海湾地区供应冲击",
-      "error": ""
-    },
-    {
-      "title": "政界人士转而反对AI，但美国人的退休金要指望它",
-      "summary": "自2022年以来，AI相关股票为13家公共退休基金带来了1,380亿美元的收益，帮助它们摆脱了上一次金融危机造成的亏损。",
-      "link": "https://cn.wsj.com/articles/%E6%94%BF%E7%95%8C%E4%BA%BA%E5%A3%AB%E8%BD%AC%E8%80%8C%E5%8F%8D%E5%AF%B9ai-%E4%BD%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%80%80%E4%BC%91%E9%87%91%E8%A6%81%E6%8C%87%E6%9C%9B%E5%AE%83-65fd5d8f",
-      "guid": "WP-WSJS-0004001051",
-      "pub_date": "Fri, 23 Oct 2026 02:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-96301540?size=1.501&width=1280",
-      "snapshot": "articles/e6-94-bf-e7-95-8c-e4-ba-ba-e5-a3-ab-e8-bd-ac-e8--fa838360faaf.html",
-      "captured": true,
-      "capture_title": "政界人士转而反对AI，但美国人的退休金要指望它",
       "error": ""
     },
     {
@@ -233,15 +257,15 @@
       "error": ""
     },
     {
-      "title": "扎克伯格因税收威胁搬离加州，Meta董事会妥协挽留",
-      "summary": "Meta首席执行官担心，拟议中的富豪税会迫使他大量出售股份，危及其对公司的投票控制权。",
-      "link": "https://cn.wsj.com/articles/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-4b50aa9b",
-      "guid": "WP-WSJS-0003997002",
-      "pub_date": "Thu, 22 Oct 2026 06:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-90597068?size=1.499&width=1280",
-      "snapshot": "articles/mark-zuckerberg-discussed-leaving-california-ove-2fb9f262c69f.html",
+      "title": "SpaceX将“巨型综合企业”模式推向科幻极致",
+      "summary": "马斯克旗下各种业务的杂乱拼盘，对投资者而言将是一座难以评估的迷宫。",
+      "link": "https://cn.wsj.com/articles/spacex-takes-conglomerate-building-to-sci-fi-extremes-74bb6363",
+      "guid": "WP-WSJS-0004000791",
+      "pub_date": "Fri, 23 Oct 2026 00:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-50279337?size=1.499&width=1280",
+      "snapshot": "articles/spacex-takes-conglomerate-building-to-sci-fi-ext-a4ea6c8f7192.html",
       "captured": true,
-      "capture_title": "扎克伯格因税收威胁搬离加州，Meta董事会妥协挽留",
+      "capture_title": "SpaceX将“巨型综合企业”模式推向科幻极致",
       "error": ""
     },
     {
@@ -278,6 +302,54 @@
       "snapshot": "articles/how-toyotas-top-selling-suv-suddenly-became-so-h-1070390eb104.html",
       "captured": true,
       "capture_title": "丰田最畅销SUV为何突然一车难求",
+      "error": ""
+    },
+    {
+      "title": "SK海力士暂停存储芯片子公司IPO，对AI估值担忧加剧",
+      "summary": "SK海力士已取消旗下闪存子公司Solidigm在美国进行大规模首次公开募股的计划。",
+      "link": "https://cn.wsj.com/articles/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-4a5d72fe",
+      "guid": "WP-WSJS-0004001661",
+      "pub_date": "Fri, 23 Oct 2026 09:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-31996856?size=1.499&width=1280",
+      "snapshot": "articles/sk-hynix-shelves-plans-for-u-s-listing-of-memory-3e470cbb2aab.html",
+      "captured": true,
+      "capture_title": "SK海力士暂停存储芯片子公司IPO，对AI估值担忧加剧",
+      "error": ""
+    },
+    {
+      "title": "美国人还害怕社会主义吗？",
+      "summary": "共和党策略师已将有关“共产主义威胁”的警告作为该党中期选举宣传的核心。但两党选民出现的政治倾向变化，让这一策略面临挑战。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%AE%B3%E6%80%95%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%90%97-23af63d8",
+      "guid": "WP-WSJS-0004001297",
+      "pub_date": "Fri, 23 Oct 2026 05:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-98059368?size=1.495&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-ba-ba-e8-bf-98-e5-ae-b3-e6--c93ad643671e.html",
+      "captured": true,
+      "capture_title": "美国人还害怕社会主义吗？",
+      "error": ""
+    },
+    {
+      "title": "政界人士转而反对AI，但美国人的退休金要指望它",
+      "summary": "自2022年以来，AI相关股票为13家公共退休基金带来了1,380亿美元的收益，帮助它们摆脱了上一次金融危机造成的亏损。",
+      "link": "https://cn.wsj.com/articles/%E6%94%BF%E7%95%8C%E4%BA%BA%E5%A3%AB%E8%BD%AC%E8%80%8C%E5%8F%8D%E5%AF%B9ai-%E4%BD%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E9%80%80%E4%BC%91%E9%87%91%E8%A6%81%E6%8C%87%E6%9C%9B%E5%AE%83-65fd5d8f",
+      "guid": "WP-WSJS-0004001051",
+      "pub_date": "Fri, 23 Oct 2026 02:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-96301540?size=1.501&width=1280",
+      "snapshot": "articles/e6-94-bf-e7-95-8c-e4-ba-ba-e5-a3-ab-e8-bd-ac-e8--fa838360faaf.html",
+      "captured": true,
+      "capture_title": "政界人士转而反对AI，但美国人的退休金要指望它",
+      "error": ""
+    },
+    {
+      "title": "扎克伯格因税收威胁搬离加州，Meta董事会妥协挽留",
+      "summary": "Meta首席执行官担心，拟议中的富豪税会迫使他大量出售股份，危及其对公司的投票控制权。",
+      "link": "https://cn.wsj.com/articles/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-4b50aa9b",
+      "guid": "WP-WSJS-0003997002",
+      "pub_date": "Thu, 22 Oct 2026 06:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-90597068?size=1.499&width=1280",
+      "snapshot": "articles/mark-zuckerberg-discussed-leaving-california-ove-2fb9f262c69f.html",
+      "captured": true,
+      "capture_title": "扎克伯格因税收威胁搬离加州，Meta董事会妥协挽留",
       "error": ""
     },
     {
@@ -1130,78 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-9b-bd-e5-9c-9f-e5-ae-89-e5--0205eff400bc.html",
       "captured": true,
       "capture_title": "美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "泽连斯基如何决定冒险公然对抗特朗普",
-      "summary": "这位乌克兰领导人公开谴责白宫放宽对俄施压，进一步引发了美方的强烈不满。",
-      "link": "https://cn.wsj.com/articles/%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%A6%82%E4%BD%95%E5%86%B3%E5%AE%9A%E5%86%92%E9%99%A9%E5%85%AC%E7%84%B6%E5%AF%B9%E6%8A%97%E7%89%B9%E6%9C%97%E6%99%AE-4bd19230",
-      "guid": "WP-WSJS-0003986711",
-      "pub_date": "Mon, 19 Oct 2026 02:22:00 GMT",
-      "image_url": "https://images.wsj.net/im-59208985?size=1.499&width=1280",
-      "snapshot": "articles/e6-b3-bd-e8-bf-9e-e6-96-af-e5-9f-ba-e5-a6-82-e4--13d44527276c.html",
-      "captured": true,
-      "capture_title": "泽连斯基如何决定冒险公然对抗特朗普 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "特朗普对普京软化立场令共和党候选人陷入窘境",
-      "summary": "距离中期选举只剩两周，一些共和党人选择与特朗普划清界限，而不是为他一连串亲俄决定辩护。",
-      "link": "https://cn.wsj.com/articles/trumps-overtures-to-putin-put-republican-candidates-in-hot-seat-71d18a38",
-      "guid": "WP-WSJS-0003986460",
-      "pub_date": "Mon, 19 Oct 2026 00:17:00 GMT",
-      "image_url": "https://images.wsj.net/im-05873991?size=1.499&width=1280",
-      "snapshot": "articles/trumps-overtures-to-putin-put-republican-candida-3ca03d0b737a.html",
-      "captured": true,
-      "capture_title": "特朗普对普京软化立场令共和党候选人陷入窘境",
-      "error": ""
-    },
-    {
-      "title": "俄罗斯喷气无人机来袭，乌克兰火速构建防御网",
-      "summary": "面对莫斯科量产的新型喷气武器，基辅防空体系陷入暂时无解困境。",
-      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E5%96%B7%E6%B0%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9D%A5%E8%A2%AD-%E4%B9%8C%E5%85%8B%E5%85%B0%E7%81%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E9%98%B2%E5%BE%A1%E7%BD%91-a39eb4eb",
-      "guid": "WP-WSJS-0003986846",
-      "pub_date": "Mon, 19 Oct 2026 03:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-65160032?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e5-96-b7-e6-b0-94-e6--f157ad033eca.html",
-      "captured": true,
-      "capture_title": "俄罗斯喷气无人机来袭，乌克兰火速构建防御网",
-      "error": ""
-    },
-    {
-      "title": "中国第三季度GDP增长4.5%，得益于出口拉动",
-      "summary": "这一增速略高于第二季度的4.3%，也超过经济学家预期。中国政府近来推出力度温和的刺激措施，但消费者信心仍疲软，房地产困境犹存。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6gdp%E5%A2%9E%E9%95%BF4-5-%E8%B6%85%E9%A2%84%E6%9C%9F-30e72182",
-      "guid": "WP-WSJS-0003986814",
-      "pub_date": "Mon, 19 Oct 2026 04:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-11229774?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e7-ac-ac-e4-b8-89-e5-ad-a3-e5--72ec9e04c163.html",
-      "captured": true,
-      "capture_title": "中国第三季度GDP增长4.5%，得益于出口拉动",
-      "error": ""
-    },
-    {
-      "title": "AI股震荡提醒人们：这次并无不同",
-      "summary": "AI基础设施建设尚未证明它能够避开铁路和互联网等以往大型资本投资项目遇到的问题。",
-      "link": "https://cn.wsj.com/articles/ai%E8%82%A1%E9%9C%87%E8%8D%A1%E6%8F%90%E9%86%92%E4%BA%BA%E4%BB%AC-%E8%BF%99%E6%AC%A1%E5%B9%B6%E6%97%A0%E4%B8%8D%E5%90%8C-ebbbb7c1",
-      "guid": "WP-WSJS-0003986684",
-      "pub_date": "Mon, 19 Oct 2026 02:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-62390006?size=1.501&width=1280",
-      "snapshot": "articles/ai-e8-82-a1-e9-9c-87-e8-8d-a1-e6-8f-90-e9-86-92--e7487fb2c8e0.html",
-      "captured": true,
-      "capture_title": "AI股震荡提醒人们：这次并无不同",
-      "error": ""
-    },
-    {
-      "title": "艾伯塔省脱离加拿大公投引发尖锐分歧",
-      "summary": "加拿大总理卡尼试图争取这个石油资源丰富的省份继续留在加拿大。",
-      "link": "https://cn.wsj.com/articles/alberta-independence-vote-canada-7aefe9d6",
-      "guid": "WP-WSJS-0003987157",
-      "pub_date": "Mon, 19 Oct 2026 08:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-11939565?size=1.501&width=1280",
-      "snapshot": "articles/alberta-independence-vote-canada-7aefe9d6-8067f34af3e7.html",
-      "captured": true,
-      "capture_title": "艾伯塔省脱离加拿大公投引发尖锐分歧 - WSJ",
       "error": ""
     }
   ]
