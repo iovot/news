@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-25T11:06:48.565409+00:00",
+  "generated_at": "2026-10-25T15:54:19.861825+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
-      "summary": "读者向我们的专栏作家发起挑战，让他驾驶一辆平价电动汽车，走一条充电条件不太理想的路线。以下是他的实测经历。",
-      "link": "https://cn.wsj.com/articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba",
-      "guid": "WP-WSJS-0004001488",
-      "pub_date": "Fri, 23 Oct 2026 09:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-29352613?size=1.78&width=1280",
-      "snapshot": "articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba-7b4bf146a73c.html",
+      "title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
+      "summary": "新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。",
+      "link": "https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765",
+      "guid": "WP-WSJS-0004002011",
+      "pub_date": "Fri, 23 Oct 2026 12:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
+      "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
       "captured": true,
-      "capture_title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
+      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
       "error": ""
     },
     {
@@ -89,27 +89,15 @@
       "error": ""
     },
     {
-      "title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
-      "summary": "新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。",
-      "link": "https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765",
-      "guid": "WP-WSJS-0004002011",
-      "pub_date": "Fri, 23 Oct 2026 12:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
-      "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
+      "title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
+      "summary": "读者向我们的专栏作家发起挑战，让他驾驶一辆平价电动汽车，走一条充电条件不太理想的路线。以下是他的实测经历。",
+      "link": "https://cn.wsj.com/articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba",
+      "guid": "WP-WSJS-0004001488",
+      "pub_date": "Fri, 23 Oct 2026 09:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-29352613?size=1.78&width=1280",
+      "snapshot": "articles/chevy-bolt-electric-vehicle-road-trip-ae8633ba-7b4bf146a73c.html",
       "captured": true,
-      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
-      "error": ""
-    },
-    {
-      "title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
-      "summary": "该公司解雇了三名安全研究人员，原因是他们对敏感信息处理不当。他们一直致力于维护AI系统运行的透明度，并主张允许外部人员查看推理过程。",
-      "link": "https://cn.wsj.com/articles/the-signal-chats-that-cost-openai-researchers-their-jobs-cda102f4",
-      "guid": "WP-WSJS-0004001295",
-      "pub_date": "Fri, 23 Oct 2026 05:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-97237183?size=1.501&width=1280",
-      "snapshot": "articles/the-signal-chats-that-cost-openai-researchers-th-b0ac65e7ed84.html",
-      "captured": true,
-      "capture_title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
+      "capture_title": "我开着全美最便宜的电动车，闯入了南方腹地的充电荒漠",
       "error": ""
     },
     {
@@ -122,6 +110,18 @@
       "snapshot": "articles/e5-85-ab-e5-bc-a0-e5-9b-be-e8-a1-a8-e6-8f-ad-e7--208af6163e61.html",
       "captured": true,
       "capture_title": "八张图表揭示法国财政困境何等严峻",
+      "error": ""
+    },
+    {
+      "title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
+      "summary": "该公司解雇了三名安全研究人员，原因是他们对敏感信息处理不当。他们一直致力于维护AI系统运行的透明度，并主张允许外部人员查看推理过程。",
+      "link": "https://cn.wsj.com/articles/the-signal-chats-that-cost-openai-researchers-their-jobs-cda102f4",
+      "guid": "WP-WSJS-0004001295",
+      "pub_date": "Fri, 23 Oct 2026 05:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-97237183?size=1.501&width=1280",
+      "snapshot": "articles/the-signal-chats-that-cost-openai-researchers-th-b0ac65e7ed84.html",
+      "captured": true,
+      "capture_title": "Signal聊天记录如何让三名OpenAI研究人员丢了工作？",
       "error": ""
     },
     {
@@ -161,15 +161,15 @@
       "error": ""
     },
     {
-      "title": "揭露Theranos骗局：《华尔街日报》重磅调查报道回顾",
-      "summary": "一部关于伊丽莎白·霍姆斯的新纪录片《你能看到一切》上映后正引起巨大轰动。",
-      "link": "https://cn.wsj.com/articles/elizabeth-holmes-sentencing-a-history-of-the-wsj-theranos-investigation-d67f5904",
-      "guid": "WP-WSJS-0004001566",
-      "pub_date": "Fri, 23 Oct 2026 09:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-669264?size=1.518&width=1280",
-      "snapshot": "articles/elizabeth-holmes-sentencing-a-history-of-the-wsj-1495c5583200.html",
+      "title": "苹果iPhone Duo已开售，想买到一部可不容易",
+      "summary": "苹果公司原希望以一款创新产品的成功发布迎接新任首席执行官上任。但iPhone Duo和生产这款手机的供应链都还没有完全准备好。",
+      "link": "https://cn.wsj.com/articles/apple-new-iphone-duo-5bf18d53",
+      "guid": "WP-WSJS-0004004459",
+      "pub_date": "Sat, 24 Oct 2026 01:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-24325121?size=1.501&width=1280",
+      "snapshot": "articles/apple-new-iphone-duo-5bf18d53-05a326c7a547.html",
       "captured": true,
-      "capture_title": "揭露Theranos骗局：《华尔街日报》重磅调查报道回顾",
+      "capture_title": "苹果iPhone Duo已开售，想买到一部可不容易",
       "error": ""
     },
     {
@@ -209,27 +209,15 @@
       "error": ""
     },
     {
-      "title": "苹果iPhone Duo已开售，想买到一部可不容易",
-      "summary": "苹果公司原希望以一款创新产品的成功发布迎接新任首席执行官上任。但iPhone Duo和生产这款手机的供应链都还没有完全准备好。",
-      "link": "https://cn.wsj.com/articles/apple-new-iphone-duo-5bf18d53",
-      "guid": "WP-WSJS-0004004459",
-      "pub_date": "Sat, 24 Oct 2026 01:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-24325121?size=1.501&width=1280",
-      "snapshot": "articles/apple-new-iphone-duo-5bf18d53-05a326c7a547.html",
+      "title": "Anthropic能否在11月成功上市？提交关键文件的时间已所剩无几",
+      "summary": "Anthropic距离迈出上市关键一步可能只剩几天，但事情仍有变数。",
+      "link": "https://cn.wsj.com/articles/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-91cb5db9",
+      "guid": "WP-WSJS-0004004563",
+      "pub_date": "Sat, 24 Oct 2026 03:43:00 GMT",
+      "image_url": "https://images.mktw.net/im-31670167?size=1.5&width=1280",
+      "snapshot": "articles/will-anthropic-pull-off-a-november-ipo-time-is-r-9616ae1d1853.html",
       "captured": true,
-      "capture_title": "苹果iPhone Duo已开售，想买到一部可不容易",
-      "error": ""
-    },
-    {
-      "title": "中国铝产量增加缓解了海湾地区供应冲击",
-      "summary": "中国铝产量和出口量大幅增长，正抵消战争对波斯湾地区供应造成的冲击，帮助抑制铝价上涨。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%93%9D%E4%BA%A7%E9%87%8F%E5%A2%9E%E5%8A%A0%E7%BC%93%E8%A7%A3%E4%BA%86%E6%B5%B7%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BE%9B%E5%BA%94%E5%86%B2%E5%87%BB-1b6c5977",
-      "guid": "WP-WSJS-0004000836",
-      "pub_date": "Fri, 23 Oct 2026 00:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-14422093?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-93-9d-e4-ba-a7-e9-87-8f-e5--43f3a3ebd90f.html",
-      "captured": true,
-      "capture_title": "中国铝产量增加缓解了海湾地区供应冲击",
+      "capture_title": "Anthropic能否在11月成功上市？提交关键文件的时间已所剩无几 - WSJ",
       "error": ""
     },
     {
@@ -245,18 +233,6 @@
       "error": ""
     },
     {
-      "title": "美国加速布局海上核能：政企联手让核反应堆走进港口和货船",
-      "summary": "联邦和地方机构正与初创企业联手，推动部署浮式发电驳船和核动力货运船队。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%B8%83%E5%B1%80%E6%B5%B7%E4%B8%8A%E6%A0%B8%E8%83%BD-%E6%94%BF%E4%BC%81%E8%81%94%E6%89%8B%E8%AE%A9%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%B5%B0%E8%BF%9B%E6%B8%AF%E5%8F%A3%E5%92%8C%E8%B4%A7%E8%88%B9-3cbe180c",
-      "guid": "WP-WSJS-0004001139",
-      "pub_date": "Fri, 23 Oct 2026 03:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-86700230?size=1.793&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-8a-a0-e9-80-9f-e5-b8-83-e5--473d1d629c4e.html",
-      "captured": true,
-      "capture_title": "美国加速布局海上核能：政企联手让核反应堆走进港口和货船",
-      "error": ""
-    },
-    {
       "title": "SpaceX将“巨型综合企业”模式推向科幻极致",
       "summary": "马斯克旗下各种业务的杂乱拼盘，对投资者而言将是一座难以评估的迷宫。",
       "link": "https://cn.wsj.com/articles/spacex-takes-conglomerate-building-to-sci-fi-extremes-74bb6363",
@@ -269,6 +245,18 @@
       "error": ""
     },
     {
+      "title": "中国铝产量增加缓解了海湾地区供应冲击",
+      "summary": "中国铝产量和出口量大幅增长，正抵消战争对波斯湾地区供应造成的冲击，帮助抑制铝价上涨。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%93%9D%E4%BA%A7%E9%87%8F%E5%A2%9E%E5%8A%A0%E7%BC%93%E8%A7%A3%E4%BA%86%E6%B5%B7%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BE%9B%E5%BA%94%E5%86%B2%E5%87%BB-1b6c5977",
+      "guid": "WP-WSJS-0004000836",
+      "pub_date": "Fri, 23 Oct 2026 00:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-14422093?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e9-93-9d-e4-ba-a7-e9-87-8f-e5--43f3a3ebd90f.html",
+      "captured": true,
+      "capture_title": "中国铝产量增加缓解了海湾地区供应冲击",
+      "error": ""
+    },
+    {
       "title": "iPhone Duo评测：太多iPhone属性，而不够iPad",
       "summary": "苹果公司这款售价1,999美元的折叠屏手机颇具创新，有不少吸引人的地方，但作为第一代产品也有不足之处。",
       "link": "https://cn.wsj.com/articles/iphone-duo-review-039b4068",
@@ -278,6 +266,18 @@
       "snapshot": "articles/iphone-duo-review-039b4068-a00be0d639cd.html",
       "captured": true,
       "capture_title": "iPhone Duo评测：太多iPhone属性，而不够iPad",
+      "error": ""
+    },
+    {
+      "title": "揭露Theranos骗局：《华尔街日报》重磅调查报道回顾",
+      "summary": "一部关于伊丽莎白·霍姆斯的新纪录片《你能看到一切》上映后正引起巨大轰动。",
+      "link": "https://cn.wsj.com/articles/elizabeth-holmes-sentencing-a-history-of-the-wsj-theranos-investigation-d67f5904",
+      "guid": "WP-WSJS-0004001566",
+      "pub_date": "Fri, 23 Oct 2026 09:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-669264?size=1.518&width=1280",
+      "snapshot": "articles/elizabeth-holmes-sentencing-a-history-of-the-wsj-1495c5583200.html",
+      "captured": true,
+      "capture_title": "揭露Theranos骗局：《华尔街日报》重磅调查报道回顾",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/how-toyotas-top-selling-suv-suddenly-became-so-h-1070390eb104.html",
       "captured": true,
       "capture_title": "丰田最畅销SUV为何突然一车难求",
+      "error": ""
+    },
+    {
+      "title": "美国加速布局海上核能：政企联手让核反应堆走进港口和货船",
+      "summary": "联邦和地方机构正与初创企业联手，推动部署浮式发电驳船和核动力货运船队。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%B8%83%E5%B1%80%E6%B5%B7%E4%B8%8A%E6%A0%B8%E8%83%BD-%E6%94%BF%E4%BC%81%E8%81%94%E6%89%8B%E8%AE%A9%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%B5%B0%E8%BF%9B%E6%B8%AF%E5%8F%A3%E5%92%8C%E8%B4%A7%E8%88%B9-3cbe180c",
+      "guid": "WP-WSJS-0004001139",
+      "pub_date": "Fri, 23 Oct 2026 03:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-86700230?size=1.793&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-8a-a0-e9-80-9f-e5-b8-83-e5--473d1d629c4e.html",
+      "captured": true,
+      "capture_title": "美国加速布局海上核能：政企联手让核反应堆走进港口和货船",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/how-coke-loosened-pepsis-grip-on-kfcs-soda-fount-4a62ca3589dc.html",
       "captured": true,
       "capture_title": "可口可乐如何撬动了百事对肯德基饮料机的掌控",
-      "error": ""
-    },
-    {
-      "title": "美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除",
-      "summary": "国土安全部发布的一份通知显示，该命令还禁止今后采购DeepSeek的产品和服务。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E4%B8%8B%E4%BB%A4%E5%B0%86deepseek%E6%8A%80%E6%9C%AF%E4%BB%8E%E8%81%94%E9%82%A6%E6%B0%91%E7%94%A8it%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%A7%BB%E9%99%A4-526ac005",
-      "guid": "WP-WSJS-0003989534",
-      "pub_date": "Mon, 19 Oct 2026 23:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-26711157?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-9b-bd-e5-9c-9f-e5-ae-89-e5--0205eff400bc.html",
-      "captured": true,
-      "capture_title": "美国国土安全部下令将DeepSeek技术从联邦民用IT系统中移除 - WSJ",
       "error": ""
     }
   ]
