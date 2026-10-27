@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:22:32.782734+00:00",
+  "generated_at": "2026-10-27T22:06:14.467851+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -169,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-26771557?size=1.501&width=1280",
       "snapshot": "articles/microsoft-job-cuts-buyout-offers-5f7c7d2c-ef3744b93e9a.html",
       "captured": true,
-      "capture_title": "微软试图大幅缩减员工规模，但别称之为裁员 - WSJ",
+      "capture_title": "微软试图大幅缩减员工规模，但别称之为裁员",
       "error": ""
     },
     {
@@ -253,7 +253,7 @@
       "image_url": "https://images.wsj.net/im-56183366?size=1.499&width=1280",
       "snapshot": "articles/mercedes-benz-cuts-guidance-on-china-weakness-hi-63f32593406a.html",
       "captured": true,
-      "capture_title": "梅赛德斯-奔驰下调全年利润预期，因中国市场疲弱、成本上升 - WSJ",
+      "capture_title": "梅赛德斯-奔驰下调全年利润预期，因中国市场疲弱、成本上升",
       "error": ""
     },
     {
