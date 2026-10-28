@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:01:23.117016+00:00",
+  "generated_at": "2026-10-28T12:33:44.246484+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,19 +13,31 @@
       "image_url": "https://images.wsj.net/im-92982204?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e7-a7-b0-e7-bb-8f-e6-b5-8e-e5--1ed2a7d82edf.html",
       "captured": true,
-      "capture_title": "中国称经济增长强劲，但官方数据再遭各方质疑 - WSJ",
-      "error": "第 1 次：Message: The command does not support browsing contexts in privileged scope Stacktrace: RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:14:8 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:169:5 UnsupportedOperationError@chrome://remote/content/shared/webdriver/"
+      "capture_title": "中国称经济增长强劲，但官方数据再遭各方质疑",
+      "error": ""
     },
     {
       "title": "Anthropic令人咋舌的40万亿美元市场机遇从何而来？",
-      "summary": "Anthropic将自身对市场机遇的预估与知识工作者所做工作的经济价值相挂钩，这一预估规模甚至超过了SpaceX今年早些时候给出的天文数字。",
+      "summary": "Anthropic将自身对市场机遇的预估与知识工作者所做工作的经济价值相挂钩，这一预估规模甚至超过了SpaceX此前给出的天文数字。",
       "link": "https://cn.wsj.com/articles/anthropic%E4%BB%A4%E4%BA%BA%E5%92%8B%E8%88%8C%E7%9A%8440%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E9%81%87%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5-c60d7018",
       "guid": "WP-WSJS-0004013175",
       "pub_date": "Wed, 28 Oct 2026 03:59:00 GMT",
       "image_url": "https://images.wsj.net/im-21009977?size=1.5&width=1280",
       "snapshot": "articles/anthropic-e4-bb-a4-e4-ba-ba-e5-92-8b-e8-88-8c-e7-670f56bbfb3c.html",
       "captured": true,
-      "capture_title": "Anthropic令人咋舌的40万亿美元市场机遇从何而来？ - WSJ",
+      "capture_title": "Anthropic令人咋舌的40万亿美元市场机遇从何而来？",
+      "error": ""
+    },
+    {
+      "title": "历史性反弹后，美股其他股票跑赢大型科技股",
+      "summary": "AI概念交易在10月行情颓势尽显，而标普500指数普通成分股的表现亮眼。",
+      "link": "https://cn.wsj.com/articles/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-c78d46b9",
+      "guid": "WP-WSJS-0004013228",
+      "pub_date": "Wed, 28 Oct 2026 04:59:00 GMT",
+      "image_url": "https://images.mktw.net/im-67253857?size=1.5&width=1280",
+      "snapshot": "articles/the-rest-of-the-market-is-leaving-big-tech-behin-55ae6b8694db.html",
+      "captured": true,
+      "capture_title": "历史性反弹后，美股其他股票跑赢大型科技股 - WSJ",
       "error": ""
     },
     {
@@ -37,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-17581616?size=1.778&width=1280",
       "snapshot": "articles/u-s-warns-gulf-of-possible-short-intense-renewal-afb277ccb1b6.html",
       "captured": true,
-      "capture_title": "美国警告海湾国家：中期选举后或再对伊朗展开短期高强度作战 - WSJ",
+      "capture_title": "美国警告海湾国家：中期选举后或再对伊朗展开短期高强度作战",
       "error": ""
     },
     {
@@ -49,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-55574623?size=1.501&width=1280",
       "snapshot": "articles/e6-a2-85-e6-8b-89-e5-b0-bc-e5-a8-85-e6-96-a1-e6--2f4c9da6d167.html",
       "captured": true,
-      "capture_title": "梅拉尼娅斡旋见效：乌克兰断粮之城迎来临时停火 - WSJ",
+      "capture_title": "梅拉尼娅斡旋见效：乌克兰断粮之城迎来临时停火",
       "error": ""
     },
     {
@@ -61,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-03096398?size=1.501&width=1280",
       "snapshot": "articles/e5-b7-b4-e8-a5-bf-e5-b0-8f-e5-8d-9a-e7-b4-a2-e7--c9b413ef0d5a.html",
       "captured": true,
-      "capture_title": "巴西小博索纳罗下落成谜，美方拟发签证准其入境 - WSJ",
+      "capture_title": "巴西小博索纳罗下落成谜，美方拟发签证准其入境",
       "error": ""
     },
     {
@@ -73,19 +85,7 @@
       "image_url": "https://images.wsj.net/im-57770081?size=1.501&width=1280",
       "snapshot": "articles/kevin-warsh-wanted-the-fed-to-be-quiet-instead-i-93732e1815bf.html",
       "captured": true,
-      "capture_title": "沃什希望美联储减少公开发声，官员们却依然频频表态 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "以色列关键选举初步出口民调显示尚无明确赢家",
-      "summary": "极高的投票率以及目前尚无明确赢家的局面，凸显出以色列社会的深层撕裂。",
-      "link": "https://cn.wsj.com/articles/israel-election-results-netanyahu-55f8287b",
-      "guid": "WP-WSJS-0004012541",
-      "pub_date": "Wed, 28 Oct 2026 02:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-69402960?size=1.501&width=1280",
-      "snapshot": "articles/israel-election-results-netanyahu-55f8287b-0e174ad4be94.html",
-      "captured": true,
-      "capture_title": "以色列关键选举初步出口民调显示尚无明确赢家 - WSJ",
+      "capture_title": "沃什希望美联储减少公开发声，官员们却依然频频表态",
       "error": ""
     },
     {
@@ -97,7 +97,19 @@
       "image_url": "https://images.wsj.net/im-02261524?size=1.5&width=1280",
       "snapshot": "articles/e4-b8-ad-e7-be-8e-e4-bf-84-e4-b8-89-e6-96-b9-e5--a28716eb8211.html",
       "captured": true,
-      "capture_title": "中美俄三方峰会：习近平想当调解人，特朗普另有打算 - WSJ",
+      "capture_title": "中美俄三方峰会：习近平想当调解人，特朗普另有打算",
+      "error": ""
+    },
+    {
+      "title": "中国汽车惊艳全球，为何在本土深陷泥潭？",
+      "summary": "今年前九个月，中国消费者购买的乘用车数量较去年同期减少约22%。车企竞争激烈，“优胜劣汰也势在必行”。",
+      "link": "https://cn.wsj.com/articles/china-cars-domestic-sale-declines-074dd79c",
+      "guid": "WP-WSJS-0004013916",
+      "pub_date": "Wed, 28 Oct 2026 11:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-34273587?size=1.5&width=1280",
+      "snapshot": "articles/china-cars-domestic-sale-declines-074dd79c-09bf1e73dbe4.html",
+      "captured": true,
+      "capture_title": "中国汽车惊艳全球，为何在本土深陷泥潭？ - WSJ",
       "error": ""
     },
     {
@@ -109,7 +121,43 @@
       "image_url": "https://images.wsj.net/im-64353730?size=1.501&width=1280",
       "snapshot": "articles/e5-9b-bd-e9-99-85-e8-b6-b3-e5-9d-9b-e5-b7-a8-e6--25229a7f2bf5.html",
       "captured": true,
-      "capture_title": "国际足坛巨星姆巴佩就毛泽东表情包向中国致歉 - WSJ",
+      "capture_title": "国际足坛巨星姆巴佩就毛泽东表情包向中国致歉",
+      "error": ""
+    },
+    {
+      "title": "特朗普与民主党候选人塔拉里科在得州“打擂”，两场集会仅隔几公里",
+      "summary": "周二晚间，争夺参议院多数席位的关键选战在得州打响。特朗普站台的集会仅3英里外，民主党对手詹姆斯·塔拉里科也举办了一场造势活动。",
+      "link": "https://cn.wsj.com/articles/trump-and-talarico-offer-texas-split-screen-with-dueling-rallies-just-miles-apart-2217b922",
+      "guid": "WP-WSJS-0004013522",
+      "pub_date": "Wed, 28 Oct 2026 08:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-24468803?size=1.501&width=1280",
+      "snapshot": "articles/trump-and-talarico-offer-texas-split-screen-with-3bf5e93c8d24.html",
+      "captured": true,
+      "capture_title": "特朗普与民主党候选人塔拉里科在得州“打擂”，两场集会仅隔几公里 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "以色列选举胜负未决，内塔尼亚胡勉力维持执政地位",
+      "summary": "周三上午，内塔尼亚胡所在的党派在选举中升至领先位置，令对手未能获胜，但他的联盟距离重新执政所需的多数席位仍有差距。",
+      "link": "https://cn.wsj.com/articles/israel-election-results-netanyahu-55f8287b",
+      "guid": "WP-WSJS-0004012541",
+      "pub_date": "Wed, 28 Oct 2026 10:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-69402960?size=1.501&width=1280",
+      "snapshot": "articles/israel-election-results-netanyahu-55f8287b-0e174ad4be94.html",
+      "captured": true,
+      "capture_title": "以色列选举胜负未决，内塔尼亚胡勉力维持执政地位",
+      "error": ""
+    },
+    {
+      "title": "西班牙高铁列车相撞，至少10人死亡",
+      "summary": "当地政府一名发言人说，西班牙一起高铁列车相撞事故已造成至少10人死亡。",
+      "link": "https://cn.wsj.com/articles/spain-high-speed-rail-crash-kills-at-least-10-1e56e6dd",
+      "guid": "WP-WSJS-0004013906",
+      "pub_date": "Wed, 28 Oct 2026 11:12:00 GMT",
+      "image_url": "https://images.wsj.net/im-70175182?size=1.501&width=1280",
+      "snapshot": "articles/spain-high-speed-rail-crash-kills-at-least-10-1e-e032c24245c6.html",
+      "captured": true,
+      "capture_title": "西班牙高铁列车相撞，至少10人死亡 - WSJ",
       "error": ""
     },
     {
@@ -121,43 +169,7 @@
       "image_url": "https://images.wsj.net/im-25551095?size=1.501&width=1280",
       "snapshot": "articles/e6-88-91-e5-bd-93-e6-97-b6-e5-bd-bb-e5-ba-95-e6--08f2604739cf.html",
       "captured": true,
-      "capture_title": "“我当时彻底慌了”：新买的2,000美元iPhone Duo开合数次即损坏 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
-      "summary": "特朗普的贸易战将加拿大铝冶炼厂视为敌人，而美国企业和消费者正在为此付出代价。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%A4%9A%E9%9C%80%E8%A6%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%93%9D-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%8F%AD%E7%A4%BA%E4%BE%9D%E8%B5%96%E4%B9%8B%E6%B7%B1-0edee8f0",
-      "guid": "WP-WSJS-0004009795",
-      "pub_date": "Tue, 27 Oct 2026 03:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-08151525?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-9c-89-e5-a4-9a-e9-9c-80-e8--c0c1f7b7bd30.html",
-      "captured": true,
-      "capture_title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
-      "error": ""
-    },
-    {
-      "title": "微软试图大幅缩减员工规模，但别称之为裁员",
-      "summary": "这家科技巨头正向6万名员工提供自愿离职补偿方案，与此同时，Skydance也在寻求让员工自愿离职。",
-      "link": "https://cn.wsj.com/articles/microsoft-job-cuts-buyout-offers-5f7c7d2c",
-      "guid": "WP-WSJS-0004010433",
-      "pub_date": "Tue, 27 Oct 2026 11:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-26771557?size=1.501&width=1280",
-      "snapshot": "articles/microsoft-job-cuts-buyout-offers-5f7c7d2c-ef3744b93e9a.html",
-      "captured": true,
-      "capture_title": "微软试图大幅缩减员工规模，但别称之为裁员",
-      "error": ""
-    },
-    {
-      "title": "哈佛最“虐”的一门课，为何突然火了？",
-      "summary": "阅读量大得惊人，拿A也绝非易事。既然如此，为什么大一新生还争着选修“人文学科10”？",
-      "link": "https://cn.wsj.com/articles/-harvard-class-humanities-cdbfdefc",
-      "guid": "WP-WSJS-0004013024",
-      "pub_date": "Wed, 28 Oct 2026 02:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-32861000?size=1.501&width=1280",
-      "snapshot": "articles/harvard-class-humanities-cdbfdefc-dc54a8a737a6.html",
-      "captured": true,
-      "capture_title": "哈佛最“虐”的一门课，为何突然火了？ - WSJ",
+      "capture_title": "“我当时彻底慌了”：新买的2,000美元iPhone Duo开合数次即损坏",
       "error": ""
     },
     {
@@ -169,7 +181,7 @@
       "image_url": "https://images.wsj.net/im-72735051?size=1.501&width=1280",
       "snapshot": "articles/how-weil-gotshal-one-of-wall-streets-most-storie-4f382cc3fb6e.html",
       "captured": true,
-      "capture_title": "华尔街传奇律所威嘉何以陷入动荡乱局？ - WSJ",
+      "capture_title": "华尔街传奇律所威嘉何以陷入动荡乱局？",
       "error": ""
     },
     {
@@ -185,6 +197,42 @@
       "error": ""
     },
     {
+      "title": "微软试图大幅缩减员工规模，但别称之为裁员",
+      "summary": "这家科技巨头正向6万名员工提供自愿离职补偿方案，与此同时，Skydance也在寻求让员工自愿离职。",
+      "link": "https://cn.wsj.com/articles/microsoft-job-cuts-buyout-offers-5f7c7d2c",
+      "guid": "WP-WSJS-0004010433",
+      "pub_date": "Tue, 27 Oct 2026 11:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-26771557?size=1.501&width=1280",
+      "snapshot": "articles/microsoft-job-cuts-buyout-offers-5f7c7d2c-ef3744b93e9a.html",
+      "captured": true,
+      "capture_title": "微软试图大幅缩减员工规模，但别称之为裁员",
+      "error": ""
+    },
+    {
+      "title": "博通CEO亲自出面促成630亿美元的Anthropic债务融资交易",
+      "summary": "这笔交易于周一公布，是迄今为止规模最大的AI基础设施融资交易。",
+      "link": "https://cn.wsj.com/articles/%E5%8D%9A%E9%80%9Aceo%E4%BA%B2%E8%87%AA%E5%87%BA%E9%9D%A2%E4%BF%83%E6%88%90630%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84anthropic%E5%80%BA%E5%8A%A1%E8%9E%8D%E8%B5%84%E4%BA%A4%E6%98%93-e7bd4dc5",
+      "guid": "WP-WSJS-0004009793",
+      "pub_date": "Tue, 27 Oct 2026 03:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-90626607?size=1.499&width=1280",
+      "snapshot": "articles/e5-8d-9a-e9-80-9aceo-e4-ba-b2-e8-87-aa-e5-87-ba--33cd3ae19d83.html",
+      "captured": true,
+      "capture_title": "博通CEO亲自出面促成630亿美元的Anthropic债务融资交易",
+      "error": ""
+    },
+    {
+      "title": "梅赛德斯-奔驰将向支持岗位员工提供自愿离职补偿方案",
+      "summary": "CEO表示，“今年以来，市场环境变得更加严峻，尤其是在中国。” 此前，该车企下调了全年预期。",
+      "link": "https://cn.wsj.com/articles/mercedes-benzto-offer-voluntary-buyouts-for-support-staff-as-market-worsens-83584ec9",
+      "guid": "WP-WSJS-0004013550",
+      "pub_date": "Wed, 28 Oct 2026 08:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-25903867?size=1.501&width=1280",
+      "snapshot": "articles/mercedes-benzto-offer-voluntary-buyouts-for-supp-3b181de7bf65.html",
+      "captured": true,
+      "capture_title": "梅赛德斯-奔驰将向支持岗位员工提供自愿离职补偿方案 - WSJ",
+      "error": ""
+    },
+    {
       "title": "字节跳动旗下“豆包”正与旅游预订网站抢生意，也盯上了你的钱包",
       "summary": "面对既能聊又高效的AI旅游“管家”，中国消费者有充分理由心存疑问：这背后是否另有盘算？",
       "link": "https://cn.wsj.com/articles/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%80%9F-%E8%B1%86%E5%8C%85-%E8%BF%9B%E5%86%9B%E9%85%92%E6%97%85%E4%B8%9A%E5%8A%A1-%E4%B9%9F%E7%9B%AF%E4%B8%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E9%92%B1%E5%8C%85-69d141b7",
@@ -197,6 +245,90 @@
       "error": ""
     },
     {
+      "title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁",
+      "summary": "联邦陪审团裁定塔尔·亚历山大、奥伦·亚历山大和阿隆·亚历山大三兄弟有罪。在持续了一整天的量刑听证会上，十多名女性讲述了这些罪行给她们的生活造成的长期影响。",
+      "link": "https://cn.wsj.com/articles/alexander-brothers-former-real-estate-stars-sentenced-to-30-years-in-prison-ed090a6a",
+      "guid": "WP-WSJS-0004012799",
+      "pub_date": "Wed, 28 Oct 2026 01:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-25216252?size=1.333&width=1280",
+      "snapshot": "articles/alexander-brothers-former-real-estate-stars-sent-baed30c1d5ef.html",
+      "captured": true,
+      "capture_title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁",
+      "error": ""
+    },
+    {
+      "title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
+      "summary": "新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。",
+      "link": "https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765",
+      "guid": "WP-WSJS-0004002011",
+      "pub_date": "Fri, 23 Oct 2026 12:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
+      "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
+      "captured": true,
+      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
+      "error": ""
+    },
+    {
+      "title": "美国获取稀土的新途径：退役风机",
+      "summary": "回收企业正从美国退役风机中回收稀土，参与到削弱中国对这些关键矿物控制力的努力中。",
+      "link": "https://cn.wsj.com/articles/the-rare-earth-vultures-harvesting-metals-from-americas-old-wind-turbines-e47e42f2",
+      "guid": "WP-WSJS-0004006741",
+      "pub_date": "Mon, 26 Oct 2026 06:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-57008957?size=1.5&width=1280",
+      "snapshot": "articles/the-rare-earth-vultures-harvesting-metals-from-a-60a4476624ee.html",
+      "captured": true,
+      "capture_title": "美国获取稀土的新途径：退役风机",
+      "error": ""
+    },
+    {
+      "title": "跳槽或许并非最明智的职业选择",
+      "summary": "研究表明，长期稳定的员工比频繁跳槽的员工晋升更快，薪酬更高。",
+      "link": "https://cn.wsj.com/articles/%E8%B7%B3%E6%A7%BD%E6%88%96%E8%AE%B8%E5%B9%B6%E9%9D%9E%E6%9C%80%E6%98%8E%E6%99%BA%E7%9A%84%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9-6a7fff7c",
+      "guid": "WP-WSJS-0004012938",
+      "pub_date": "Wed, 28 Oct 2026 01:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-56175290?size=1.501&width=1280",
+      "snapshot": "articles/e8-b7-b3-e6-a7-bd-e6-88-96-e8-ae-b8-e5-b9-b6-e9--d13291c6b265.html",
+      "captured": true,
+      "capture_title": "跳槽或许并非最明智的职业选择",
+      "error": ""
+    },
+    {
+      "title": "金正恩意外踏访中国，现身中朝新建大桥",
+      "summary": "北京和平壤之间的关系正在升温，尽管中国领导人习近平没有出席此次会见。",
+      "link": "https://cn.wsj.com/articles/%E9%87%91%E6%AD%A3%E6%81%A9%E6%84%8F%E5%A4%96%E8%B8%8F%E8%AE%BF%E4%B8%AD%E5%9B%BD-%E7%8E%B0%E8%BA%AB%E4%B8%AD%E6%9C%9D%E6%96%B0%E5%BB%BA%E5%A4%A7%E6%A1%A5-5b232c84",
+      "guid": "WP-WSJS-0004006323",
+      "pub_date": "Mon, 26 Oct 2026 00:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-11475685?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/e9-87-91-e6-ad-a3-e6-81-a9-e6-84-8f-e5-a4-96-e8--d0eb0aea2f24.html",
+      "captured": true,
+      "capture_title": "金正恩意外踏访中国，现身中朝新建大桥",
+      "error": ""
+    },
+    {
+      "title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
+      "summary": "特朗普的贸易战将加拿大铝冶炼厂视为敌人，而美国企业和消费者正在为此付出代价。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%A4%9A%E9%9C%80%E8%A6%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%93%9D-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%8F%AD%E7%A4%BA%E4%BE%9D%E8%B5%96%E4%B9%8B%E6%B7%B1-0edee8f0",
+      "guid": "WP-WSJS-0004009795",
+      "pub_date": "Tue, 27 Oct 2026 03:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-08151525?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-9c-89-e5-a4-9a-e9-9c-80-e8--c0c1f7b7bd30.html",
+      "captured": true,
+      "capture_title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
+      "error": ""
+    },
+    {
+      "title": "哈佛最“虐”的一门课，为何突然火了？",
+      "summary": "阅读量大得惊人，拿A也绝非易事。既然如此，为什么大一新生还争着选修“人文学科10”？",
+      "link": "https://cn.wsj.com/articles/-harvard-class-humanities-cdbfdefc",
+      "guid": "WP-WSJS-0004013024",
+      "pub_date": "Wed, 28 Oct 2026 02:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-32861000?size=1.501&width=1280",
+      "snapshot": "articles/harvard-class-humanities-cdbfdefc-dc54a8a737a6.html",
+      "captured": true,
+      "capture_title": "哈佛最“虐”的一门课，为何突然火了？ - WSJ",
+      "error": ""
+    },
+    {
       "title": "阿里巴巴诉美国涉军黑名单：法院叫停游说相关禁令",
       "summary": "阿里巴巴在挑战美国涉军黑名单的诉讼中获初步胜利，联邦法官周一叫停了禁止五角大楼与任何为阿里巴巴从事“游说“的公司开展业务的禁令。",
       "link": "https://cn.wsj.com/articles/alibabascores-u-s-legal-win-in-pentagon-lobbying-ban-challenge-2f72e566",
@@ -206,18 +338,6 @@
       "snapshot": "articles/alibabascores-u-s-legal-win-in-pentagon-lobbying-53e5567360d5.html",
       "captured": true,
       "capture_title": "阿里巴巴诉美国涉军黑名单：法院叫停游说相关禁令",
-      "error": ""
-    },
-    {
-      "title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁",
-      "summary": "联邦陪审团裁定塔尔·亚历山大、奥伦·亚历山大和阿隆·亚历山大三兄弟有罪。在持续了一整天的量刑听证会上，十多名女性讲述了这些罪行给她们的生活造成的长期影响。",
-      "link": "https://cn.wsj.com/articles/alexander-brothers-former-real-estate-stars-sentenced-to-30-years-in-prison-ed090a6a",
-      "guid": "WP-WSJS-0004012799",
-      "pub_date": "Wed, 28 Oct 2026 01:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-25216252?size=1.333&width=1280",
-      "snapshot": "articles/alexander-brothers-former-real-estate-stars-sent-baed30c1d5ef.html",
-      "captured": true,
-      "capture_title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁 - WSJ",
       "error": ""
     },
     {
@@ -245,42 +365,6 @@
       "error": ""
     },
     {
-      "title": "美国获取稀土的新途径：退役风机",
-      "summary": "回收企业正从美国退役风机中回收稀土，参与到削弱中国对这些关键矿物控制力的努力中。",
-      "link": "https://cn.wsj.com/articles/the-rare-earth-vultures-harvesting-metals-from-americas-old-wind-turbines-e47e42f2",
-      "guid": "WP-WSJS-0004006741",
-      "pub_date": "Mon, 26 Oct 2026 06:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-57008957?size=1.5&width=1280",
-      "snapshot": "articles/the-rare-earth-vultures-harvesting-metals-from-a-60a4476624ee.html",
-      "captured": true,
-      "capture_title": "美国获取稀土的新途径：退役风机",
-      "error": ""
-    },
-    {
-      "title": "跳槽或许并非最明智的职业选择",
-      "summary": "研究表明，长期稳定的员工比频繁跳槽的员工晋升更快，薪酬更高。",
-      "link": "https://cn.wsj.com/articles/%E8%B7%B3%E6%A7%BD%E6%88%96%E8%AE%B8%E5%B9%B6%E9%9D%9E%E6%9C%80%E6%98%8E%E6%99%BA%E7%9A%84%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9-6a7fff7c",
-      "guid": "WP-WSJS-0004012938",
-      "pub_date": "Wed, 28 Oct 2026 01:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-56175290?size=1.501&width=1280",
-      "snapshot": "articles/e8-b7-b3-e6-a7-bd-e6-88-96-e8-ae-b8-e5-b9-b6-e9--d13291c6b265.html",
-      "captured": true,
-      "capture_title": "跳槽或许并非最明智的职业选择 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "金正恩意外踏访中国，现身中朝新建大桥",
-      "summary": "北京和平壤之间的关系正在升温，尽管中国领导人习近平没有出席此次会见。",
-      "link": "https://cn.wsj.com/articles/%E9%87%91%E6%AD%A3%E6%81%A9%E6%84%8F%E5%A4%96%E8%B8%8F%E8%AE%BF%E4%B8%AD%E5%9B%BD-%E7%8E%B0%E8%BA%AB%E4%B8%AD%E6%9C%9D%E6%96%B0%E5%BB%BA%E5%A4%A7%E6%A1%A5-5b232c84",
-      "guid": "WP-WSJS-0004006323",
-      "pub_date": "Mon, 26 Oct 2026 00:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-11475685?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e9-87-91-e6-ad-a3-e6-81-a9-e6-84-8f-e5-a4-96-e8--d0eb0aea2f24.html",
-      "captured": true,
-      "capture_title": "金正恩意外踏访中国，现身中朝新建大桥",
-      "error": ""
-    },
-    {
       "title": "法国何以成为全球债务困境的典型",
       "summary": "法国的挥霍无度使其成为全球债券收益率上升的首个受害者。",
       "link": "https://cn.wsj.com/articles/%E6%B3%95%E5%9B%BD%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E5%80%BA%E5%8A%A1%E5%9B%B0%E5%A2%83%E7%9A%84%E5%85%B8%E5%9E%8B-54fb46ff",
@@ -302,18 +386,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-9b-9f-e5-8f-8b-e5-8a-a0-e7--5e861cbd967d.html",
       "captured": true,
       "capture_title": "美国盟友加紧摆脱对SpaceX的依赖",
-      "error": ""
-    },
-    {
-      "title": "博通CEO亲自出面促成630亿美元的Anthropic债务融资交易",
-      "summary": "这笔交易于周一公布，是迄今为止规模最大的AI基础设施融资交易。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%9A%E9%80%9Aceo%E4%BA%B2%E8%87%AA%E5%87%BA%E9%9D%A2%E4%BF%83%E6%88%90630%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84anthropic%E5%80%BA%E5%8A%A1%E8%9E%8D%E8%B5%84%E4%BA%A4%E6%98%93-e7bd4dc5",
-      "guid": "WP-WSJS-0004009793",
-      "pub_date": "Tue, 27 Oct 2026 03:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-90626607?size=1.499&width=1280",
-      "snapshot": "articles/e5-8d-9a-e9-80-9aceo-e4-ba-b2-e8-87-aa-e5-87-ba--33cd3ae19d83.html",
-      "captured": true,
-      "capture_title": "博通CEO亲自出面促成630亿美元的Anthropic债务融资交易",
       "error": ""
     },
     {
@@ -530,18 +602,6 @@
       "snapshot": "articles/five-things-to-know-about-audis-first-u-s-factor-aef514de8f09.html",
       "captured": true,
       "capture_title": "奥迪首建美国工厂，五大核心看点解读",
-      "error": ""
-    },
-    {
-      "title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
-      "summary": "新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。",
-      "link": "https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765",
-      "guid": "WP-WSJS-0004002011",
-      "pub_date": "Fri, 23 Oct 2026 12:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
-      "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
-      "captured": true,
-      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e9-98-bf-e8-81-94-e9-85-8b-e5-a4-96-e4-ba-a4-e5--90e1aa62d0ae.html",
       "captured": true,
       "capture_title": "阿联酋外交官加入角逐给联合国秘书长遴选带来变数 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "退休后花多少钱才稳妥？401(k)计划巨头给出建议",
-      "summary": "美国最大的退休基金管理机构之一资本集团给出了两种提款策略，具体取决于退休人员的目标和支出。",
-      "link": "https://cn.wsj.com/articles/how-much-can-you-safely-spend-in-retirement-a-401-k-giant-offers-guidance-b0d8cc9d",
-      "guid": "WP-WSJS-0003997318",
-      "pub_date": "Thu, 22 Oct 2026 03:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-74702418?size=1.501&width=1280",
-      "snapshot": "articles/how-much-can-you-safely-spend-in-retirement-a-40-7e53b4a057ad.html",
-      "captured": true,
-      "capture_title": "退休后花多少钱才稳妥？401(k)计划巨头给出建议",
-      "error": ""
-    },
-    {
-      "title": "关于AI引发的网络安全危机，你需要了解什么？",
-      "summary": "PHP的开发者周三披露了一项安全漏洞，黑客可利用该漏洞窃取信息，或向受害网站的访客发起攻击。PHP为全球多达70%的网站提供技术支持。以下是关于PHP的介绍以及后续进展。",
-      "link": "https://cn.wsj.com/articles/php-cybersecurity-bug-explained-4b77b906",
-      "guid": "WP-WSJS-0004000703",
-      "pub_date": "Thu, 22 Oct 2026 23:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-95536037?size=1.499&width=1280",
-      "snapshot": "articles/php-cybersecurity-bug-explained-4b77b906-81dd813c9e4e.html",
-      "captured": true,
-      "capture_title": "关于AI引发的网络安全危机，你需要了解什么？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "看似音乐节，实则推销会：私募信贷瞄准散户财富",
-      "summary": "基金管理公司正煞费苦心地筹办各种盛会，极力拉拢财富顾问，试图挖掘散户的家庭财富，尽管眼下部分个人投资者已因风险而望而却步。",
-      "link": "https://cn.wsj.com/articles/private-credit-retail-investors-festival-8645e2fe",
-      "guid": "WP-WSJS-0003997361",
-      "pub_date": "Thu, 22 Oct 2026 04:41:00 GMT",
-      "image_url": "https://images.wsj.net/im-08220943?size=1.5&width=1280",
-      "snapshot": "articles/private-credit-retail-investors-festival-8645e2f-9dc8f3e7374d.html",
-      "captured": true,
-      "capture_title": "看似音乐节，实则推销会：私募信贷瞄准散户财富",
-      "error": ""
-    },
-    {
-      "title": "特朗普称将要求大型数据中心自行供电",
-      "summary": "美国总统特朗普表示，他将要求在美国建设大型数据中心的企业自行供电，并提议这些企业向设施所在社区支付红利。",
-      "link": "https://cn.wsj.com/articles/trump-says-data-centers-must-provide-their-own-electricity-2b50e316",
-      "guid": "WP-WSJS-0003996896",
-      "pub_date": "Thu, 22 Oct 2026 00:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-98461821?size=1.501&width=1280",
-      "snapshot": "articles/trump-says-data-centers-must-provide-their-own-e-b313851cacbc.html",
-      "captured": true,
-      "capture_title": "特朗普称将要求大型数据中心自行供电",
-      "error": ""
-    },
-    {
-      "title": "成年子女开始疏远你的早期迹象",
-      "summary": "研究表明，子女与父母之间的疏远往往是一个逐渐推进的过程。治疗师表示，识别这一过程中的各个阶段或有助于修复亲子关系。",
-      "link": "https://cn.wsj.com/articles/%E6%88%90%E5%B9%B4%E5%AD%90%E5%A5%B3%E5%BC%80%E5%A7%8B%E7%96%8F%E8%BF%9C%E4%BD%A0%E7%9A%84%E6%97%A9%E6%9C%9F%E8%BF%B9%E8%B1%A1-c610ef50",
-      "guid": "WP-WSJS-0003993706",
-      "pub_date": "Wed, 21 Oct 2026 05:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-02311869?size=1.501&width=1280",
-      "snapshot": "articles/e6-88-90-e5-b9-b4-e5-ad-90-e5-a5-b3-e5-bc-80-e5--c65997bb42d2.html",
-      "captured": true,
-      "capture_title": "成年子女开始疏远你的早期迹象",
       "error": ""
     }
   ]
