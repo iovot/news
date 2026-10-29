@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 09:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 18:15:23 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 09:40:00 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 18:15:23 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -46,7 +46,14 @@
             <description><![CDATA[<img width="1280" height="903" src="https://images.wsj.net/im-56954284?size=1.417&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>波斯湾石油出口量一度恢复至甚至超过战前水平。而油价上次处于110美元是在4月下旬，当时的出口量约为目前的一半。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%B5%B7%E6%B9%BE%E7%9F%B3%E6%B2%B9%E5%A4%A7%E9%87%8F%E8%BF%90%E5%87%BA-%E6%B2%B9%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%BB%8D%E9%AB%98%E4%BA%8E100%E7%BE%8E%E5%85%83-0d9cdf6c</link>
             <guid isPermaLink="false">WP-WSJS-0004017054</guid>
-            <pubDate>Thu, 29 Oct 2026 02:46:00 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 10:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德将提前卸任]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-09016061?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>拉加德将于明年2月卸任，其任期原定于2027年10月结束。眼下债务问题和通胀再次抬头正给欧洲经济蒙上阴影。</p>]]></description>
+            <link>https://cn.wsj.com/articles/christine-lagarde-to-resign-early-as-ecb-president-309c3e4c</link>
+            <guid isPermaLink="false">WP-WSJS-0004017993</guid>
+            <pubDate>Thu, 29 Oct 2026 11:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美联储遭遇AI谜题：高利率是否会给繁荣降温？]]></title>
@@ -56,25 +63,18 @@
             <pubDate>Thu, 29 Oct 2026 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[备受争议的内塔尼亚胡延续以色列政坛不倒翁神话]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-88754191?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>面对强大的反对力量，尽管内塔尼亚胡领导的执政联盟遭遇挫折，但他仍证明自己依然是以色列政坛占据主导地位的人物。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%A4%87%E5%8F%97%E4%BA%89%E8%AE%AE%E7%9A%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%BB%B6%E7%BB%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E4%B8%8D%E5%80%92%E7%BF%81%E7%A5%9E%E8%AF%9D-aa5cfeec</link>
-            <guid isPermaLink="false">WP-WSJS-0004016948</guid>
-            <pubDate>Thu, 29 Oct 2026 00:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌搜索收入增速放缓，股价下跌10%]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-39168615?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管云业务部门实现了增长，但该公司的自由现金流为负91亿美元。</p>]]></description>
-            <link>https://cn.wsj.com/articles/alphabet-googl-q3-earnings-report-2026-stock-ceded231</link>
-            <guid isPermaLink="false">WP-WSJS-0004016759</guid>
-            <pubDate>Wed, 28 Oct 2026 23:43:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[西班牙今年第二起高铁事故造成数十人死亡]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-07377991?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>西班牙两列高速列车相撞，造成至少68人死亡。这是该国死亡人数最多的铁路事故之一。</p>]]></description>
             <link>https://cn.wsj.com/articles/spain-high-speed-rail-crash-kills-at-least-10-1e56e6dd</link>
             <guid isPermaLink="false">WP-WSJS-0004013906</guid>
             <pubDate>Wed, 28 Oct 2026 23:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三星营业利润逼近微软与Alphabet之和，这家韩国巨头如何看待存储芯片前景?]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-60818668?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>微软与Alphabet最近一个季度的营业利润合计仅比三星电子高8%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-7958e0cd</link>
+            <guid isPermaLink="false">WP-WSJS-0004018087</guid>
+            <pubDate>Thu, 29 Oct 2026 11:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[长年被苹果公司压价的闪存厂商复仇了]]></title>
@@ -105,11 +105,11 @@
             <pubDate>Wed, 28 Oct 2026 02:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一览特朗普政府美股投资组合：涵盖逾40家核心企业]]></title>
-            <description><![CDATA[<img width="1280" height="758" src="https://images.wsj.net/im-46883565?size=1.69&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>总额300亿美元的大规模支出预计将使政府持有芯片企业、矿业公司等企业的股份。</p>]]></description>
-            <link>https://cn.wsj.com/articles/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-e0166a2e</link>
-            <guid isPermaLink="false">WP-WSJS-0004017256</guid>
-            <pubDate>Thu, 29 Oct 2026 03:37:00 GMT</pubDate>
+            <title><![CDATA[备受争议的内塔尼亚胡延续以色列政坛不倒翁神话]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-88754191?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>面对强大的反对力量，尽管内塔尼亚胡领导的执政联盟遭遇挫折，但他仍证明自己依然是以色列政坛占据主导地位的人物。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%A4%87%E5%8F%97%E4%BA%89%E8%AE%AE%E7%9A%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%BB%B6%E7%BB%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E4%B8%8D%E5%80%92%E7%BF%81%E7%A5%9E%E8%AF%9D-aa5cfeec</link>
+            <guid isPermaLink="false">WP-WSJS-0004016948</guid>
+            <pubDate>Thu, 29 Oct 2026 00:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[国际足坛巨星姆巴佩就毛泽东表情包向中国致歉]]></title>
@@ -126,18 +126,18 @@
             <pubDate>Thu, 29 Oct 2026 02:19:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[一览特朗普政府美股投资组合：涵盖逾40家核心企业]]></title>
+            <description><![CDATA[<img width="1280" height="758" src="https://images.wsj.net/im-46883565?size=1.69&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>总额300亿美元的大规模支出预计将使政府持有芯片企业、矿业公司等企业的股份。</p>]]></description>
+            <link>https://cn.wsj.com/articles/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-e0166a2e</link>
+            <guid isPermaLink="false">WP-WSJS-0004017256</guid>
+            <pubDate>Thu, 29 Oct 2026 03:37:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[打造美国最贵豪宅之一：3.11亿美元购地始末]]></title>
             <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-99578511?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一位神秘亿万富豪在那不勒斯黄金地段买下19英亩土地。当地房地产经纪人称，这预示了这座佛罗里达州滨海城市未来的趋势。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%89%93%E9%80%A0%E7%BE%8E%E5%9B%BD%E6%9C%80%E8%B4%B5%E8%B1%AA%E5%AE%85%E4%B9%8B%E4%B8%80-3-11%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%AD%E5%9C%B0%E5%A7%8B%E6%9C%AB-6a74ce06</link>
             <guid isPermaLink="false">WP-WSJS-0004017214</guid>
             <pubDate>Thu, 29 Oct 2026 03:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国将中国基因组学公司列入黑名单后，中国誓言维护自身利益]]></title>
-            <description><![CDATA[<img width="1280" height="860" src="https://images.wsj.net/im-32850384?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国周三将华大基因、华大智造和深圳华大科技列入了《防止强迫维吾尔人劳动法》实体清单。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinavows-to-defend-interests-after-u-s-adds-genomics-firms-to-blacklist-6a10a2c3</link>
-            <guid isPermaLink="false">WP-WSJS-0004017610</guid>
-            <pubDate>Thu, 29 Oct 2026 08:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[威嘉律师事务所称将解散]]></title>
@@ -147,11 +147,11 @@
             <pubDate>Wed, 28 Oct 2026 23:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI热潮推动贷款大增，但银行家依然谨慎]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-15167101?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>大型银行和地区性银行均受益于AI贷款热潮。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E7%83%AD%E6%BD%AE%E6%8E%A8%E5%8A%A8%E8%B4%B7%E6%AC%BE%E5%A4%A7%E5%A2%9E-%E4%BD%86%E9%93%B6%E8%A1%8C%E5%AE%B6%E4%BE%9D%E7%84%B6%E8%B0%A8%E6%85%8E-3418130a</link>
-            <guid isPermaLink="false">WP-WSJS-0004017125</guid>
-            <pubDate>Thu, 29 Oct 2026 02:07:00 GMT</pubDate>
+            <title><![CDATA[美国将中国基因组学公司列入黑名单后，中国誓言维护自身利益]]></title>
+            <description><![CDATA[<img width="1280" height="860" src="https://images.wsj.net/im-32850384?size=1.49&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国周三将华大基因、华大智造和深圳华大科技列入了《防止强迫维吾尔人劳动法》实体清单。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinavows-to-defend-interests-after-u-s-adds-genomics-firms-to-blacklist-6a10a2c3</link>
+            <guid isPermaLink="false">WP-WSJS-0004017610</guid>
+            <pubDate>Thu, 29 Oct 2026 08:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国卫生部长暂时允许未经批准的多肽上市]]></title>
@@ -166,6 +166,13 @@
             <link>https://cn.wsj.com/articles/anthropic%E4%BB%A4%E4%BA%BA%E5%92%8B%E8%88%8C%E7%9A%8440%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E9%81%87%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5-c60d7018</link>
             <guid isPermaLink="false">WP-WSJS-0004013175</guid>
             <pubDate>Wed, 28 Oct 2026 03:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI热潮推动贷款大增，但银行家依然谨慎]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-15167101?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>大型银行和地区性银行均受益于AI贷款热潮。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai%E7%83%AD%E6%BD%AE%E6%8E%A8%E5%8A%A8%E8%B4%B7%E6%AC%BE%E5%A4%A7%E5%A2%9E-%E4%BD%86%E9%93%B6%E8%A1%8C%E5%AE%B6%E4%BE%9D%E7%84%B6%E8%B0%A8%E6%85%8E-3418130a</link>
+            <guid isPermaLink="false">WP-WSJS-0004017125</guid>
+            <pubDate>Thu, 29 Oct 2026 02:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[争议漩涡中的新疆已成中国展现商业雄心的舞台]]></title>
@@ -217,18 +224,18 @@
             <pubDate>Thu, 29 Oct 2026 06:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[拉美裔选民转而反对特朗普，得州选情再添变数]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-41765744?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>那些对经济与移民政策不满的选民将左右参众两院关键决选。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-hispanic-voters-who-turned-on-trump-and-put-texas-in-play-25bfdddd</link>
+            <guid isPermaLink="false">WP-WSJS-0004017831</guid>
+            <pubDate>Thu, 29 Oct 2026 09:57:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[特朗普呼吁起诉阿拉斯加州民主党参议员候选人]]></title>
             <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-25948927?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>阿拉斯加州联邦参议员选举是全美最受关注的选战之一。民调显示，在民主党人试图从共和党手中夺回参议院控制权之际，这场选举的选情胶着。</p>]]></description>
             <link>https://cn.wsj.com/articles/trump-calls-for-alaska-democratic-senate-candidate-to-be-prosecuted-2ee5d2f6</link>
             <guid isPermaLink="false">WP-WSJS-0004016902</guid>
             <pubDate>Thu, 29 Oct 2026 00:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普与民主党候选人塔拉里科在得州“打擂”，两场集会仅隔几公里]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-24468803?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周二晚间，争夺参议院多数席位的关键选战在得州打响。特朗普站台的集会仅3英里外，民主党对手詹姆斯·塔拉里科也举办了一场造势活动。</p>]]></description>
-            <link>https://cn.wsj.com/articles/trump-and-talarico-offer-texas-split-screen-with-dueling-rallies-just-miles-apart-2217b922</link>
-            <guid isPermaLink="false">WP-WSJS-0004013522</guid>
-            <pubDate>Wed, 28 Oct 2026 08:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[担心美股此轮下跌？无论谁获胜，中期选举后或迎转机]]></title>

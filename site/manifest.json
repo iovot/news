@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:50:51.631290+00:00",
+  "generated_at": "2026-10-29T18:20:43.604612+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -33,11 +33,23 @@
       "summary": "波斯湾石油出口量一度恢复至甚至超过战前水平。而油价上次处于110美元是在4月下旬，当时的出口量约为目前的一半。",
       "link": "https://cn.wsj.com/articles/%E6%B5%B7%E6%B9%BE%E7%9F%B3%E6%B2%B9%E5%A4%A7%E9%87%8F%E8%BF%90%E5%87%BA-%E6%B2%B9%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%BB%8D%E9%AB%98%E4%BA%8E100%E7%BE%8E%E5%85%83-0d9cdf6c",
       "guid": "WP-WSJS-0004017054",
-      "pub_date": "Thu, 29 Oct 2026 02:46:00 GMT",
+      "pub_date": "Thu, 29 Oct 2026 10:59:00 GMT",
       "image_url": "https://images.wsj.net/im-56954284?size=1.417&width=1280",
       "snapshot": "articles/e6-b5-b7-e6-b9-be-e7-9f-b3-e6-b2-b9-e5-a4-a7-e9--cd72eceab285.html",
       "captured": true,
-      "capture_title": "海湾石油大量运出，油价为何仍高于100美元？ - WSJ",
+      "capture_title": "海湾石油大量运出，油价为何仍高于100美元？",
+      "error": ""
+    },
+    {
+      "title": "欧洲央行行长拉加德将提前卸任",
+      "summary": "拉加德将于明年2月卸任，其任期原定于2027年10月结束。眼下债务问题和通胀再次抬头正给欧洲经济蒙上阴影。",
+      "link": "https://cn.wsj.com/articles/christine-lagarde-to-resign-early-as-ecb-president-309c3e4c",
+      "guid": "WP-WSJS-0004017993",
+      "pub_date": "Thu, 29 Oct 2026 11:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-09016061?size=1&width=1280",
+      "snapshot": "articles/christine-lagarde-to-resign-early-as-ecb-preside-86bd54d987f7.html",
+      "captured": true,
+      "capture_title": "欧洲央行行长拉加德将提前卸任 - WSJ",
       "error": ""
     },
     {
@@ -49,31 +61,7 @@
       "image_url": "https://images.wsj.net/im-99850521?size=1.499&width=1280",
       "snapshot": "articles/the-feds-ai-puzzle-will-high-rates-slow-the-boom-10e9cf91b432.html",
       "captured": true,
-      "capture_title": "美联储遭遇AI谜题：高利率是否会给繁荣降温？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "备受争议的内塔尼亚胡延续以色列政坛不倒翁神话",
-      "summary": "面对强大的反对力量，尽管内塔尼亚胡领导的执政联盟遭遇挫折，但他仍证明自己依然是以色列政坛占据主导地位的人物。",
-      "link": "https://cn.wsj.com/articles/%E5%A4%87%E5%8F%97%E4%BA%89%E8%AE%AE%E7%9A%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%BB%B6%E7%BB%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E4%B8%8D%E5%80%92%E7%BF%81%E7%A5%9E%E8%AF%9D-aa5cfeec",
-      "guid": "WP-WSJS-0004016948",
-      "pub_date": "Thu, 29 Oct 2026 00:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-88754191?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e5-a4-87-e5-8f-97-e4-ba-89-e8-ae-ae-e7-9a-84-e5--7522418c018c.html",
-      "captured": true,
-      "capture_title": "备受争议的内塔尼亚胡延续以色列政坛不倒翁神话 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "谷歌搜索收入增速放缓，股价下跌10%",
-      "summary": "尽管云业务部门实现了增长，但该公司的自由现金流为负91亿美元。",
-      "link": "https://cn.wsj.com/articles/alphabet-googl-q3-earnings-report-2026-stock-ceded231",
-      "guid": "WP-WSJS-0004016759",
-      "pub_date": "Wed, 28 Oct 2026 23:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-39168615?size=1.499&width=1280",
-      "snapshot": "articles/alphabet-googl-q3-earnings-report-2026-stock-ced-19c0a05b8260.html",
-      "captured": true,
-      "capture_title": "谷歌搜索收入增速放缓，股价下跌10%",
+      "capture_title": "美联储遭遇AI谜题：高利率是否会给繁荣降温？",
       "error": ""
     },
     {
@@ -89,6 +77,18 @@
       "error": ""
     },
     {
+      "title": "三星营业利润逼近微软与Alphabet之和，这家韩国巨头如何看待存储芯片前景?",
+      "summary": "微软与Alphabet最近一个季度的营业利润合计仅比三星电子高8%。",
+      "link": "https://cn.wsj.com/articles/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-7958e0cd",
+      "guid": "WP-WSJS-0004018087",
+      "pub_date": "Thu, 29 Oct 2026 11:14:00 GMT",
+      "image_url": "https://images.mktw.net/im-60818668?size=1.5&width=1280",
+      "snapshot": "articles/samsung-electronics-earned-nearly-as-much-as-mic-b97e75b33cc2.html",
+      "captured": true,
+      "capture_title": "三星营业利润逼近微软与Alphabet之和，这家韩国巨头如何看待存储芯片前景? - WSJ",
+      "error": ""
+    },
+    {
       "title": "长年被苹果公司压价的闪存厂商复仇了",
       "summary": "多年来，这家iPhone制造商一直逼迫闪存制造商提供大幅折扣，直到AI超大规模云服务提供商竞价推高闪存价格，并大量抢购货源。",
       "link": "https://cn.wsj.com/articles/apple-iphone-memory-chips-ai-a5c08017",
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-93384830?size=1.5053763440860215&width=1280",
       "snapshot": "articles/apple-iphone-memory-chips-ai-a5c08017-eaee1068c6b9.html",
       "captured": true,
-      "capture_title": "长年被苹果公司压价的闪存厂商复仇了 - WSJ",
+      "capture_title": "长年被苹果公司压价的闪存厂商复仇了",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-66994468?size=1.501&width=1280",
       "snapshot": "articles/e5-8d-9a-e7-b4-a2-e7-ba-b3-e7-bd-97-e8-b4-a5-e9--1df27d778206.html",
       "captured": true,
-      "capture_title": "博索纳罗败选后如何逃离巴西：障眼法、私人飞机、白宫盟友 - WSJ",
+      "capture_title": "博索纳罗败选后如何逃离巴西：障眼法、私人飞机、白宫盟友",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-85924871?size=1.5&width=1280",
       "snapshot": "articles/apple-macbook-touch-screen-652f7095-c93ef45aade5.html",
       "captured": true,
-      "capture_title": "实测苹果首款触屏MacBook：受众究竟是谁？ - WSJ",
+      "capture_title": "实测苹果首款触屏MacBook：受众究竟是谁？",
       "error": ""
     },
     {
@@ -137,15 +137,15 @@
       "error": ""
     },
     {
-      "title": "一览特朗普政府美股投资组合：涵盖逾40家核心企业",
-      "summary": "总额300亿美元的大规模支出预计将使政府持有芯片企业、矿业公司等企业的股份。",
-      "link": "https://cn.wsj.com/articles/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-e0166a2e",
-      "guid": "WP-WSJS-0004017256",
-      "pub_date": "Thu, 29 Oct 2026 03:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-46883565?size=1.69&width=1280",
-      "snapshot": "articles/see-the-trump-administration-stock-portfolio-tha-d2fd7e96a58a.html",
+      "title": "备受争议的内塔尼亚胡延续以色列政坛不倒翁神话",
+      "summary": "面对强大的反对力量，尽管内塔尼亚胡领导的执政联盟遭遇挫折，但他仍证明自己依然是以色列政坛占据主导地位的人物。",
+      "link": "https://cn.wsj.com/articles/%E5%A4%87%E5%8F%97%E4%BA%89%E8%AE%AE%E7%9A%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%BB%B6%E7%BB%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E4%B8%8D%E5%80%92%E7%BF%81%E7%A5%9E%E8%AF%9D-aa5cfeec",
+      "guid": "WP-WSJS-0004016948",
+      "pub_date": "Thu, 29 Oct 2026 00:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-88754191?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/e5-a4-87-e5-8f-97-e4-ba-89-e8-ae-ae-e7-9a-84-e5--7522418c018c.html",
       "captured": true,
-      "capture_title": "一览特朗普政府美股投资组合：涵盖逾40家核心企业 - WSJ",
+      "capture_title": "备受争议的内塔尼亚胡延续以色列政坛不倒翁神话",
       "error": ""
     },
     {
@@ -169,7 +169,19 @@
       "image_url": "https://images.wsj.net/im-70754372?size=1.333&width=1280",
       "snapshot": "articles/e4-bb-96-e4-bb-ac-e5-8d-96-e6-8e-89-e5-85-a8-e9--71df9e5bdf4d.html",
       "captured": true,
-      "capture_title": "他们卖掉全部家当住上邮轮，如今却滞留柬埔寨 - WSJ",
+      "capture_title": "他们卖掉全部家当住上邮轮，如今却滞留柬埔寨",
+      "error": ""
+    },
+    {
+      "title": "一览特朗普政府美股投资组合：涵盖逾40家核心企业",
+      "summary": "总额300亿美元的大规模支出预计将使政府持有芯片企业、矿业公司等企业的股份。",
+      "link": "https://cn.wsj.com/articles/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-e0166a2e",
+      "guid": "WP-WSJS-0004017256",
+      "pub_date": "Thu, 29 Oct 2026 03:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-46883565?size=1.69&width=1280",
+      "snapshot": "articles/see-the-trump-administration-stock-portfolio-tha-d2fd7e96a58a.html",
+      "captured": true,
+      "capture_title": "一览特朗普政府美股投资组合：涵盖逾40家核心企业",
       "error": ""
     },
     {
@@ -181,19 +193,7 @@
       "image_url": "https://images.wsj.net/im-99578511?size=1.33&width=1280",
       "snapshot": "articles/e6-89-93-e9-80-a0-e7-be-8e-e5-9b-bd-e6-9c-80-e8--bc7797e24300.html",
       "captured": true,
-      "capture_title": "打造美国最贵豪宅之一：3.11亿美元购地始末 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国将中国基因组学公司列入黑名单后，中国誓言维护自身利益",
-      "summary": "美国周三将华大基因、华大智造和深圳华大科技列入了《防止强迫维吾尔人劳动法》实体清单。",
-      "link": "https://cn.wsj.com/articles/chinavows-to-defend-interests-after-u-s-adds-genomics-firms-to-blacklist-6a10a2c3",
-      "guid": "WP-WSJS-0004017610",
-      "pub_date": "Thu, 29 Oct 2026 08:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-32850384?size=1.49&width=1280",
-      "snapshot": "articles/chinavows-to-defend-interests-after-u-s-adds-gen-f4b80cfe51d6.html",
-      "captured": true,
-      "capture_title": "美国将中国基因组学公司列入黑名单后，中国誓言维护自身利益 - WSJ",
+      "capture_title": "打造美国最贵豪宅之一：3.11亿美元购地始末",
       "error": ""
     },
     {
@@ -209,15 +209,15 @@
       "error": ""
     },
     {
-      "title": "AI热潮推动贷款大增，但银行家依然谨慎",
-      "summary": "大型银行和地区性银行均受益于AI贷款热潮。",
-      "link": "https://cn.wsj.com/articles/ai%E7%83%AD%E6%BD%AE%E6%8E%A8%E5%8A%A8%E8%B4%B7%E6%AC%BE%E5%A4%A7%E5%A2%9E-%E4%BD%86%E9%93%B6%E8%A1%8C%E5%AE%B6%E4%BE%9D%E7%84%B6%E8%B0%A8%E6%85%8E-3418130a",
-      "guid": "WP-WSJS-0004017125",
-      "pub_date": "Thu, 29 Oct 2026 02:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-15167101?size=1.499&width=1280",
-      "snapshot": "articles/ai-e7-83-ad-e6-bd-ae-e6-8e-a8-e5-8a-a8-e8-b4-b7--bae3524b67c6.html",
+      "title": "美国将中国基因组学公司列入黑名单后，中国誓言维护自身利益",
+      "summary": "美国周三将华大基因、华大智造和深圳华大科技列入了《防止强迫维吾尔人劳动法》实体清单。",
+      "link": "https://cn.wsj.com/articles/chinavows-to-defend-interests-after-u-s-adds-genomics-firms-to-blacklist-6a10a2c3",
+      "guid": "WP-WSJS-0004017610",
+      "pub_date": "Thu, 29 Oct 2026 08:13:00 GMT",
+      "image_url": "https://images.wsj.net/im-32850384?size=1.49&width=1280",
+      "snapshot": "articles/chinavows-to-defend-interests-after-u-s-adds-gen-f4b80cfe51d6.html",
       "captured": true,
-      "capture_title": "AI热潮推动贷款大增，但银行家依然谨慎 - WSJ",
+      "capture_title": "美国将中国基因组学公司列入黑名单后，中国誓言维护自身利益 - WSJ",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-58137689?size=1.499&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-8d-ab-e7-94-9f-e9-83-a8-e9--8e5c7e837b8c.html",
       "captured": true,
-      "capture_title": "美国卫生部长暂时允许未经批准的多肽上市 - WSJ",
+      "capture_title": "美国卫生部长暂时允许未经批准的多肽上市",
       "error": ""
     },
     {
@@ -242,6 +242,18 @@
       "snapshot": "articles/anthropic-e4-bb-a4-e4-ba-ba-e5-92-8b-e8-88-8c-e7-670f56bbfb3c.html",
       "captured": true,
       "capture_title": "Anthropic令人咋舌的40万亿美元市场机遇从何而来？",
+      "error": ""
+    },
+    {
+      "title": "AI热潮推动贷款大增，但银行家依然谨慎",
+      "summary": "大型银行和地区性银行均受益于AI贷款热潮。",
+      "link": "https://cn.wsj.com/articles/ai%E7%83%AD%E6%BD%AE%E6%8E%A8%E5%8A%A8%E8%B4%B7%E6%AC%BE%E5%A4%A7%E5%A2%9E-%E4%BD%86%E9%93%B6%E8%A1%8C%E5%AE%B6%E4%BE%9D%E7%84%B6%E8%B0%A8%E6%85%8E-3418130a",
+      "guid": "WP-WSJS-0004017125",
+      "pub_date": "Thu, 29 Oct 2026 02:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-15167101?size=1.499&width=1280",
+      "snapshot": "articles/ai-e7-83-ad-e6-bd-ae-e6-8e-a8-e5-8a-a8-e8-b4-b7--bae3524b67c6.html",
+      "captured": true,
+      "capture_title": "AI热潮推动贷款大增，但银行家依然谨慎",
       "error": ""
     },
     {
@@ -289,7 +301,19 @@
       "image_url": "https://images.mktw.net/im-23297277?size=1.5&width=1280",
       "snapshot": "articles/anthropic-e4-bd-95-e6-97-b6-e4-b8-8a-e5-b8-82-ip-78b478469da4.html",
       "captured": true,
-      "capture_title": "Anthropic何时上市？IPO时间表与关键看点梳理 - WSJ",
+      "capture_title": "Anthropic何时上市？IPO时间表与关键看点梳理",
+      "error": ""
+    },
+    {
+      "title": "谷歌搜索收入增速放缓，股价下跌10%",
+      "summary": "尽管云业务部门实现了增长，但该公司的自由现金流为负91亿美元。",
+      "link": "https://cn.wsj.com/articles/alphabet-googl-q3-earnings-report-2026-stock-ceded231",
+      "guid": "WP-WSJS-0004016759",
+      "pub_date": "Wed, 28 Oct 2026 23:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-39168615?size=1.499&width=1280",
+      "snapshot": "articles/alphabet-googl-q3-earnings-report-2026-stock-ced-19c0a05b8260.html",
+      "captured": true,
+      "capture_title": "谷歌搜索收入增速放缓，股价下跌10%",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/house-democrats-target-hegseth-for-impeachment-p-12213e9b9dab.html",
       "captured": true,
       "capture_title": "美众议院民主党人推动弹劾国防部长赫格塞思",
-      "error": ""
-    },
-    {
-      "title": "乌克兰称星链仍无法正常使用，尽管特朗普承诺恢复服务",
-      "summary": "乌克兰军方使用的星链系统周五早些时候仍受较低限速的约束，尽管特朗普表示，马斯克已经恢复了这项服务。",
-      "link": "https://cn.wsj.com/articles/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-58fdbcaf",
-      "guid": "WP-WSJS-0004001996",
-      "pub_date": "Fri, 23 Oct 2026 11:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-03163393?size=1.417&width=1280",
-      "snapshot": "articles/ukraine-says-starlink-isnt-working-despite-trump-a4ecafd950f4.html",
-      "captured": true,
-      "capture_title": "乌克兰称星链仍无法正常使用，尽管特朗普承诺恢复服务",
-      "error": ""
-    },
-    {
-      "title": "伊朗警告：若美国发动攻击，将扩大对经济和民用目标的打击",
-      "summary": "德黑兰仍保有导弹和无人机储备，华盛顿正设法将更多美军人员和外交人员转移至安全地带。",
-      "link": "https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A-%E8%8B%A5%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%8A%A8%E6%94%BB%E5%87%BB-%E5%B0%86%E6%89%A9%E5%A4%A7%E5%AF%B9%E7%BB%8F%E6%B5%8E%E5%92%8C%E6%B0%91%E7%94%A8%E7%9B%AE%E6%A0%87%E7%9A%84%E6%89%93%E5%87%BB-673e7f28",
-      "guid": "WP-WSJS-0004000981",
-      "pub_date": "Fri, 23 Oct 2026 01:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-86877898?size=1.501&width=1280",
-      "snapshot": "articles/e4-bc-8a-e6-9c-97-e8-ad-a6-e5-91-8a--e8-8b-a5-e7-2cb4e92b1b59.html",
-      "captured": true,
-      "capture_title": "伊朗警告：若美国发动攻击，将扩大对经济和民用目标的打击",
       "error": ""
     }
   ]
