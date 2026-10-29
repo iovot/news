@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:13:58.367038+00:00",
+  "generated_at": "2026-10-29T00:46:06.205130+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,6 +17,54 @@
       "error": ""
     },
     {
+      "title": "美联储维持利率不变，但两名官员主张再次加息",
+      "summary": "美联储理事莉莎·库克和克利夫兰联储行长贝丝·哈马克投了反对票。美联储利率决定委员会的政策声明含蓄地暗示了再次加息的可能性。",
+      "link": "https://cn.wsj.com/articles/federal-reserve-interest-rate-decision-d36eaf91",
+      "guid": "WP-WSJS-0004016710",
+      "pub_date": "Wed, 28 Oct 2026 23:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-06545004?size=1.499&width=1280",
+      "snapshot": "articles/federal-reserve-interest-rate-decision-d36eaf91-35f0813f4660.html",
+      "captured": true,
+      "capture_title": "美联储维持利率不变，但两名官员主张再次加息 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "万斯接触一名伊朗强硬派人士，试图重启和平谈判",
+      "summary": "一名知情人士称，万斯在特朗普指示下致信伊朗最高国家安全委员会秘书。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%87%E6%96%AF%E6%8E%A5%E8%A7%A6%E4%B8%80%E5%90%8D%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E6%B4%BE%E4%BA%BA%E5%A3%AB-%E8%AF%95%E5%9B%BE%E9%87%8D%E5%90%AF%E5%92%8C%E5%B9%B3%E8%B0%88%E5%88%A4-b06fae8c",
+      "guid": "WP-WSJS-0004016754",
+      "pub_date": "Wed, 28 Oct 2026 23:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-23084754?size=1.504&width=1280",
+      "snapshot": "articles/e4-b8-87-e6-96-af-e6-8e-a5-e8-a7-a6-e4-b8-80-e5--f32cee02e2bc.html",
+      "captured": true,
+      "capture_title": "万斯接触一名伊朗强硬派人士，试图重启和平谈判 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "谷歌搜索收入增速放缓，股价下跌10%",
+      "summary": "尽管云业务部门实现了增长，但该公司的自由现金流为负91亿美元。",
+      "link": "https://cn.wsj.com/articles/alphabet-googl-q3-earnings-report-2026-stock-ceded231",
+      "guid": "WP-WSJS-0004016759",
+      "pub_date": "Wed, 28 Oct 2026 23:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-39168615?size=1.499&width=1280",
+      "snapshot": "articles/alphabet-googl-q3-earnings-report-2026-stock-ced-19c0a05b8260.html",
+      "captured": true,
+      "capture_title": "谷歌搜索收入增速放缓，股价下跌10% - WSJ",
+      "error": ""
+    },
+    {
+      "title": "初步计票指向政治僵局，以色列准备应对不确定局面",
+      "summary": "根据初步计票结果，双方似乎都未能获得多数席位，这可能导致政局波动重现。",
+      "link": "https://cn.wsj.com/articles/%E5%88%9D%E6%AD%A5%E8%AE%A1%E7%A5%A8%E6%8C%87%E5%90%91%E6%94%BF%E6%B2%BB%E5%83%B5%E5%B1%80-%E4%BB%A5%E8%89%B2%E5%88%97%E5%87%86%E5%A4%87%E5%BA%94%E5%AF%B9%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%B1%80%E9%9D%A2-662769f1",
+      "guid": "WP-WSJS-0004016727",
+      "pub_date": "Wed, 28 Oct 2026 23:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-02583507?size=1.501&width=1280",
+      "snapshot": "articles/e5-88-9d-e6-ad-a5-e8-ae-a1-e7-a5-a8-e6-8c-87-e5--932a825bde0d.html",
+      "captured": true,
+      "capture_title": "初步计票指向政治僵局，以色列准备应对不确定局面 - WSJ",
+      "error": ""
+    },
+    {
       "title": "Anthropic令人咋舌的40万亿美元市场机遇从何而来？",
       "summary": "Anthropic将自身对市场机遇的预估与知识工作者所做工作的经济价值相挂钩，这一预估规模甚至超过了SpaceX此前给出的天文数字。",
       "link": "https://cn.wsj.com/articles/anthropic%E4%BB%A4%E4%BA%BA%E5%92%8B%E8%88%8C%E7%9A%8440%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%9C%BA%E6%9C%BA%E9%81%87%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5-c60d7018",
@@ -29,63 +77,15 @@
       "error": ""
     },
     {
-      "title": "历史性反弹后，美股其他股票跑赢大型科技股",
-      "summary": "AI概念交易在10月行情颓势尽显，而标普500指数普通成分股的表现亮眼。",
-      "link": "https://cn.wsj.com/articles/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-c78d46b9",
-      "guid": "WP-WSJS-0004013228",
-      "pub_date": "Wed, 28 Oct 2026 04:59:00 GMT",
-      "image_url": "https://images.mktw.net/im-67253857?size=1.5&width=1280",
-      "snapshot": "articles/the-rest-of-the-market-is-leaving-big-tech-behin-55ae6b8694db.html",
+      "title": "博索纳罗逃离巴西后抵达迈阿密",
+      "summary": "在巴西总统选举中落败仅几天后，弗拉维奥·博索纳罗逃离本国，并于周三抵达迈阿密。",
+      "link": "https://cn.wsj.com/articles/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-d2422c7f",
+      "guid": "WP-WSJS-0004016841",
+      "pub_date": "Thu, 29 Oct 2026 00:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-76473839?size=1.499&width=1280",
+      "snapshot": "articles/flavio-bolsonaro-fled-brazil-to-argentina-boarde-c786614c2e9c.html",
       "captured": true,
-      "capture_title": "历史性反弹后，美股其他股票跑赢大型科技股",
-      "error": ""
-    },
-    {
-      "title": "美国警告海湾国家：中期选举后或再对伊朗展开短期高强度作战",
-      "summary": "据听取了相关对话简报的人士称，美国已告知几个海湾阿拉伯国家，要为美国中期选举后的一场短期、高强度军事行动做好准备。",
-      "link": "https://cn.wsj.com/articles/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-303df26f",
-      "guid": "WP-WSJS-0004013080",
-      "pub_date": "Wed, 28 Oct 2026 03:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-17581616?size=1.778&width=1280",
-      "snapshot": "articles/u-s-warns-gulf-of-possible-short-intense-renewal-afb277ccb1b6.html",
-      "captured": true,
-      "capture_title": "美国警告海湾国家：中期选举后或再对伊朗展开短期高强度作战",
-      "error": ""
-    },
-    {
-      "title": "梅拉尼娅斡旋见效：乌克兰断粮之城迎来临时停火",
-      "summary": "此次俄乌两军战事暂歇，旨在放行人道主义救援物资进入乌克兰南部俄占城市奥列什基，并撤离有意愿离开的平民。",
-      "link": "https://cn.wsj.com/articles/%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E6%96%A1%E6%97%8B%E8%A7%81%E6%95%88-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%96%AD%E7%B2%AE%E4%B9%8B%E5%9F%8E%E8%BF%8E%E6%9D%A5%E4%B8%B4%E6%97%B6%E5%81%9C%E7%81%AB-e3353a75",
-      "guid": "WP-WSJS-0004012776",
-      "pub_date": "Wed, 28 Oct 2026 01:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-55574623?size=1.501&width=1280",
-      "snapshot": "articles/e6-a2-85-e6-8b-89-e5-b0-bc-e5-a8-85-e6-96-a1-e6--2f4c9da6d167.html",
-      "captured": true,
-      "capture_title": "梅拉尼娅斡旋见效：乌克兰断粮之城迎来临时停火",
-      "error": ""
-    },
-    {
-      "title": "巴西小博索纳罗下落成谜，美方拟发签证准其入境",
-      "summary": "博索纳罗因涉嫌金融犯罪正接受最高法院调查，但他否认相关指控。在选举失利后，他被禁止离开巴西。",
-      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E8%A5%BF%E5%B0%8F%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E4%B8%8B%E8%90%BD%E6%88%90%E8%B0%9C-%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%8F%91%E7%AD%BE%E8%AF%81%E5%87%86%E5%85%B6%E5%85%A5%E5%A2%83-79fae337",
-      "guid": "WP-WSJS-0004012728",
-      "pub_date": "Wed, 28 Oct 2026 00:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-03096398?size=1.501&width=1280",
-      "snapshot": "articles/e5-b7-b4-e8-a5-bf-e5-b0-8f-e5-8d-9a-e7-b4-a2-e7--c9b413ef0d5a.html",
-      "captured": true,
-      "capture_title": "巴西小博索纳罗下落成谜，美方拟发签证准其入境",
-      "error": ""
-    },
-    {
-      "title": "沃什希望美联储减少公开发声，官员们却依然频频表态",
-      "summary": "美联储主席凯文·沃什有意减少公开表态，但大多数同僚并未跟进。",
-      "link": "https://cn.wsj.com/articles/kevin-warsh-wanted-the-fed-to-be-quiet-instead-its-as-noisy-as-ever-1b7bd48b",
-      "guid": "WP-WSJS-0004012431",
-      "pub_date": "Tue, 27 Oct 2026 23:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-57770081?size=1.501&width=1280",
-      "snapshot": "articles/kevin-warsh-wanted-the-fed-to-be-quiet-instead-i-93732e1815bf.html",
-      "captured": true,
-      "capture_title": "沃什希望美联储减少公开发声，官员们却依然频频表态",
+      "capture_title": "博索纳罗逃离巴西后抵达迈阿密 - WSJ",
       "error": ""
     },
     {
@@ -125,6 +125,18 @@
       "error": ""
     },
     {
+      "title": "一名31岁乌克兰警探的布恰屠杀追凶之路",
+      "summary": "在基辅郊区布恰，300多名平民惨遭杀害。警探伊万·杜尔凯正沿着线索追捕开枪的俄军凶手及其幕后指挥官。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%80%E5%90%8D31%E5%B2%81%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AD%A6%E6%8E%A2%E7%9A%84%E5%B8%83%E6%81%B0%E5%B1%A0%E6%9D%80%E8%BF%BD%E5%87%B6%E4%B9%8B%E8%B7%AF-74236081",
+      "guid": "WP-WSJS-0004009726",
+      "pub_date": "Tue, 27 Oct 2026 02:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-20187230?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-80-e5-90-8d31-e5-b2-81-e4-b9-8c-e5-85-8b-e-dbf2f12f8ef9.html",
+      "captured": true,
+      "capture_title": "一名31岁乌克兰警探的布恰屠杀追凶之路",
+      "error": ""
+    },
+    {
       "title": "特朗普与民主党候选人塔拉里科在得州“打擂”，两场集会仅隔几公里",
       "summary": "周二晚间，争夺参议院多数席位的关键选战在得州打响。特朗普站台的集会仅3英里外，民主党对手詹姆斯·塔拉里科也举办了一场造势活动。",
       "link": "https://cn.wsj.com/articles/trump-and-talarico-offer-texas-split-screen-with-dueling-rallies-just-miles-apart-2217b922",
@@ -137,27 +149,15 @@
       "error": ""
     },
     {
-      "title": "以色列选举胜负未决，内塔尼亚胡勉力维持执政地位",
-      "summary": "周三上午，内塔尼亚胡所在的党派在选举中升至领先位置，令对手未能获胜，但他的联盟距离重新执政所需的多数席位仍有差距。",
-      "link": "https://cn.wsj.com/articles/israel-election-results-netanyahu-55f8287b",
-      "guid": "WP-WSJS-0004012541",
-      "pub_date": "Wed, 28 Oct 2026 10:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-69402960?size=1.501&width=1280",
-      "snapshot": "articles/israel-election-results-netanyahu-55f8287b-0e174ad4be94.html",
-      "captured": true,
-      "capture_title": "以色列选举胜负未决，内塔尼亚胡勉力维持执政地位",
-      "error": ""
-    },
-    {
-      "title": "西班牙高铁列车相撞，至少10人死亡",
-      "summary": "当地政府一名发言人说，西班牙一起高铁列车相撞事故已造成至少10人死亡。",
+      "title": "西班牙今年第二起高铁事故造成数十人死亡",
+      "summary": "西班牙两列高速列车相撞，造成至少68人死亡。这是该国死亡人数最多的铁路事故之一，也是同一条线路今年发生的第二起事故。",
       "link": "https://cn.wsj.com/articles/spain-high-speed-rail-crash-kills-at-least-10-1e56e6dd",
       "guid": "WP-WSJS-0004013906",
-      "pub_date": "Wed, 28 Oct 2026 11:12:00 GMT",
-      "image_url": "https://images.wsj.net/im-70175182?size=1.501&width=1280",
+      "pub_date": "Wed, 28 Oct 2026 23:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-07377991?size=1.501&width=1280",
       "snapshot": "articles/spain-high-speed-rail-crash-kills-at-least-10-1e-e032c24245c6.html",
       "captured": true,
-      "capture_title": "西班牙高铁列车相撞，至少10人死亡 - WSJ",
+      "capture_title": "西班牙今年第二起高铁事故造成数十人死亡 - WSJ",
       "error": ""
     },
     {
@@ -182,6 +182,18 @@
       "snapshot": "articles/how-weil-gotshal-one-of-wall-streets-most-storie-4f382cc3fb6e.html",
       "captured": true,
       "capture_title": "华尔街传奇律所威嘉何以陷入动荡乱局？",
+      "error": ""
+    },
+    {
+      "title": "威嘉律师事务所称将解散",
+      "summary": "这项声明发布前，该律所多名创收最高的合伙人接连出走，合并谈判也以失败告终，令威嘉陷入难以为继的境地。",
+      "link": "https://cn.wsj.com/articles/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-1bb72599",
+      "guid": "WP-WSJS-0004016790",
+      "pub_date": "Wed, 28 Oct 2026 23:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-84367193?size=1.501&width=1280",
+      "snapshot": "articles/weil-gotshal-leaders-discussing-plan-to-wind-dow-a7d358548e7a.html",
+      "captured": true,
+      "capture_title": "威嘉律师事务所称将解散 - WSJ",
       "error": ""
     },
     {
@@ -245,27 +257,15 @@
       "error": ""
     },
     {
-      "title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁",
-      "summary": "联邦陪审团裁定塔尔·亚历山大、奥伦·亚历山大和阿隆·亚历山大三兄弟有罪。在持续了一整天的量刑听证会上，十多名女性讲述了这些罪行给她们的生活造成的长期影响。",
-      "link": "https://cn.wsj.com/articles/alexander-brothers-former-real-estate-stars-sentenced-to-30-years-in-prison-ed090a6a",
-      "guid": "WP-WSJS-0004012799",
-      "pub_date": "Wed, 28 Oct 2026 01:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-25216252?size=1.333&width=1280",
-      "snapshot": "articles/alexander-brothers-former-real-estate-stars-sent-baed30c1d5ef.html",
+      "title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
+      "summary": "特朗普的贸易战将加拿大铝冶炼厂视为敌人，而美国企业和消费者正在为此付出代价。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%A4%9A%E9%9C%80%E8%A6%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%93%9D-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%8F%AD%E7%A4%BA%E4%BE%9D%E8%B5%96%E4%B9%8B%E6%B7%B1-0edee8f0",
+      "guid": "WP-WSJS-0004009795",
+      "pub_date": "Tue, 27 Oct 2026 03:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-08151525?size=1.5&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-9c-89-e5-a4-9a-e9-9c-80-e8--c0c1f7b7bd30.html",
       "captured": true,
-      "capture_title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁",
-      "error": ""
-    },
-    {
-      "title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
-      "summary": "新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。",
-      "link": "https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765",
-      "guid": "WP-WSJS-0004002011",
-      "pub_date": "Fri, 23 Oct 2026 12:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
-      "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
-      "captured": true,
-      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
+      "capture_title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
       "error": ""
     },
     {
@@ -281,15 +281,15 @@
       "error": ""
     },
     {
-      "title": "跳槽或许并非最明智的职业选择",
-      "summary": "研究表明，长期稳定的员工比频繁跳槽的员工晋升更快，薪酬更高。",
-      "link": "https://cn.wsj.com/articles/%E8%B7%B3%E6%A7%BD%E6%88%96%E8%AE%B8%E5%B9%B6%E9%9D%9E%E6%9C%80%E6%98%8E%E6%99%BA%E7%9A%84%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9-6a7fff7c",
-      "guid": "WP-WSJS-0004012938",
-      "pub_date": "Wed, 28 Oct 2026 01:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-56175290?size=1.501&width=1280",
-      "snapshot": "articles/e8-b7-b3-e6-a7-bd-e6-88-96-e8-ae-b8-e5-b9-b6-e9--d13291c6b265.html",
+      "title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
+      "summary": "新疆曾是国际批评的焦点，如今成为中国政府扩大出口与能源生产计划的关键。",
+      "link": "https://cn.wsj.com/articles/xinjiang-trade-energy-controversy-13243765",
+      "guid": "WP-WSJS-0004002011",
+      "pub_date": "Fri, 23 Oct 2026 12:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-77602428?size=1.5&width=1280",
+      "snapshot": "articles/xinjiang-trade-energy-controversy-13243765-21a75ff3fed1.html",
       "captured": true,
-      "capture_title": "跳槽或许并非最明智的职业选择",
+      "capture_title": "争议漩涡中的新疆已成中国展现商业雄心的舞台",
       "error": ""
     },
     {
@@ -305,15 +305,99 @@
       "error": ""
     },
     {
-      "title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
-      "summary": "特朗普的贸易战将加拿大铝冶炼厂视为敌人，而美国企业和消费者正在为此付出代价。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%A4%9A%E9%9C%80%E8%A6%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%93%9D-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%8F%AD%E7%A4%BA%E4%BE%9D%E8%B5%96%E4%B9%8B%E6%B7%B1-0edee8f0",
-      "guid": "WP-WSJS-0004009795",
-      "pub_date": "Tue, 27 Oct 2026 03:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-08151525?size=1.5&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-9c-89-e5-a4-9a-e9-9c-80-e8--c0c1f7b7bd30.html",
+      "title": "历史性反弹后，美股其他股票跑赢大型科技股",
+      "summary": "AI概念交易在10月行情颓势尽显，而标普500指数普通成分股的表现亮眼。",
+      "link": "https://cn.wsj.com/articles/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-c78d46b9",
+      "guid": "WP-WSJS-0004013228",
+      "pub_date": "Wed, 28 Oct 2026 04:59:00 GMT",
+      "image_url": "https://images.mktw.net/im-67253857?size=1.5&width=1280",
+      "snapshot": "articles/the-rest-of-the-market-is-leaving-big-tech-behin-55ae6b8694db.html",
       "captured": true,
-      "capture_title": "美国有多需要加拿大铝？特朗普关税揭示依赖之深",
+      "capture_title": "历史性反弹后，美股其他股票跑赢大型科技股",
+      "error": ""
+    },
+    {
+      "title": "美国警告海湾国家：中期选举后或再对伊朗展开短期高强度作战",
+      "summary": "据听取了相关对话简报的人士称，美国已告知几个海湾阿拉伯国家，要为美国中期选举后的一场短期、高强度军事行动做好准备。",
+      "link": "https://cn.wsj.com/articles/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-303df26f",
+      "guid": "WP-WSJS-0004013080",
+      "pub_date": "Wed, 28 Oct 2026 03:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-17581616?size=1.778&width=1280",
+      "snapshot": "articles/u-s-warns-gulf-of-possible-short-intense-renewal-afb277ccb1b6.html",
+      "captured": true,
+      "capture_title": "美国警告海湾国家：中期选举后或再对伊朗展开短期高强度作战",
+      "error": ""
+    },
+    {
+      "title": "梅拉尼娅斡旋见效：乌克兰断粮之城迎来临时停火",
+      "summary": "此次俄乌两军战事暂歇，旨在放行人道主义救援物资进入乌克兰南部俄占城市奥列什基，并撤离有意愿离开的平民。",
+      "link": "https://cn.wsj.com/articles/%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E6%96%A1%E6%97%8B%E8%A7%81%E6%95%88-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%96%AD%E7%B2%AE%E4%B9%8B%E5%9F%8E%E8%BF%8E%E6%9D%A5%E4%B8%B4%E6%97%B6%E5%81%9C%E7%81%AB-e3353a75",
+      "guid": "WP-WSJS-0004012776",
+      "pub_date": "Wed, 28 Oct 2026 01:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-55574623?size=1.501&width=1280",
+      "snapshot": "articles/e6-a2-85-e6-8b-89-e5-b0-bc-e5-a8-85-e6-96-a1-e6--2f4c9da6d167.html",
+      "captured": true,
+      "capture_title": "梅拉尼娅斡旋见效：乌克兰断粮之城迎来临时停火",
+      "error": ""
+    },
+    {
+      "title": "巴西小博索纳罗下落成谜，美方拟发签证准其入境",
+      "summary": "博索纳罗因涉嫌金融犯罪正接受最高法院调查，但他否认相关指控。在选举失利后，他被禁止离开巴西。",
+      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E8%A5%BF%E5%B0%8F%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E4%B8%8B%E8%90%BD%E6%88%90%E8%B0%9C-%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%8F%91%E7%AD%BE%E8%AF%81%E5%87%86%E5%85%B6%E5%85%A5%E5%A2%83-79fae337",
+      "guid": "WP-WSJS-0004012728",
+      "pub_date": "Wed, 28 Oct 2026 00:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-03096398?size=1.501&width=1280",
+      "snapshot": "articles/e5-b7-b4-e8-a5-bf-e5-b0-8f-e5-8d-9a-e7-b4-a2-e7--c9b413ef0d5a.html",
+      "captured": true,
+      "capture_title": "巴西小博索纳罗下落成谜，美方拟发签证准其入境",
+      "error": ""
+    },
+    {
+      "title": "沃什希望美联储减少公开发声，官员们却依然频频表态",
+      "summary": "美联储主席凯文·沃什有意减少公开表态，但大多数同僚并未跟进。",
+      "link": "https://cn.wsj.com/articles/kevin-warsh-wanted-the-fed-to-be-quiet-instead-its-as-noisy-as-ever-1b7bd48b",
+      "guid": "WP-WSJS-0004012431",
+      "pub_date": "Tue, 27 Oct 2026 23:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-57770081?size=1.501&width=1280",
+      "snapshot": "articles/kevin-warsh-wanted-the-fed-to-be-quiet-instead-i-93732e1815bf.html",
+      "captured": true,
+      "capture_title": "沃什希望美联储减少公开发声，官员们却依然频频表态",
+      "error": ""
+    },
+    {
+      "title": "以色列选举胜负未决，内塔尼亚胡勉力维持执政地位",
+      "summary": "周三上午，内塔尼亚胡所在的党派在选举中升至领先位置，令对手未能获胜，但他的联盟距离重新执政所需的多数席位仍有差距。",
+      "link": "https://cn.wsj.com/articles/israel-election-results-netanyahu-55f8287b",
+      "guid": "WP-WSJS-0004012541",
+      "pub_date": "Wed, 28 Oct 2026 10:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-69402960?size=1.501&width=1280",
+      "snapshot": "articles/israel-election-results-netanyahu-55f8287b-0e174ad4be94.html",
+      "captured": true,
+      "capture_title": "以色列选举胜负未决，内塔尼亚胡勉力维持执政地位",
+      "error": ""
+    },
+    {
+      "title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁",
+      "summary": "联邦陪审团裁定塔尔·亚历山大、奥伦·亚历山大和阿隆·亚历山大三兄弟有罪。在持续了一整天的量刑听证会上，十多名女性讲述了这些罪行给她们的生活造成的长期影响。",
+      "link": "https://cn.wsj.com/articles/alexander-brothers-former-real-estate-stars-sentenced-to-30-years-in-prison-ed090a6a",
+      "guid": "WP-WSJS-0004012799",
+      "pub_date": "Wed, 28 Oct 2026 01:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-25216252?size=1.333&width=1280",
+      "snapshot": "articles/alexander-brothers-former-real-estate-stars-sent-baed30c1d5ef.html",
+      "captured": true,
+      "capture_title": "昔日的明星房产经纪人亚历山大兄弟被判30年监禁",
+      "error": ""
+    },
+    {
+      "title": "跳槽或许并非最明智的职业选择",
+      "summary": "研究表明，长期稳定的员工比频繁跳槽的员工晋升更快，薪酬更高。",
+      "link": "https://cn.wsj.com/articles/%E8%B7%B3%E6%A7%BD%E6%88%96%E8%AE%B8%E5%B9%B6%E9%9D%9E%E6%9C%80%E6%98%8E%E6%99%BA%E7%9A%84%E8%81%8C%E4%B8%9A%E9%80%89%E6%8B%A9-6a7fff7c",
+      "guid": "WP-WSJS-0004012938",
+      "pub_date": "Wed, 28 Oct 2026 01:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-56175290?size=1.501&width=1280",
+      "snapshot": "articles/e8-b7-b3-e6-a7-bd-e6-88-96-e8-ae-b8-e5-b9-b6-e9--d13291c6b265.html",
+      "captured": true,
+      "capture_title": "跳槽或许并非最明智的职业选择",
       "error": ""
     },
     {
@@ -494,18 +578,6 @@
       "snapshot": "articles/11-e4-b8-aa-e5-b0-8f-e6-97-b6--e7-89-b9-e6-9c-97-7ca527b70763.html",
       "captured": true,
       "capture_title": "11个小时“特朗普秀”：记者直击七天七场集会",
-      "error": ""
-    },
-    {
-      "title": "一名31岁乌克兰警探的布恰屠杀追凶之路",
-      "summary": "在基辅郊区布恰，300多名平民惨遭杀害。警探伊万·杜尔凯正沿着线索追捕开枪的俄军凶手及其幕后指挥官。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%80%E5%90%8D31%E5%B2%81%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AD%A6%E6%8E%A2%E7%9A%84%E5%B8%83%E6%81%B0%E5%B1%A0%E6%9D%80%E8%BF%BD%E5%87%B6%E4%B9%8B%E8%B7%AF-74236081",
-      "guid": "WP-WSJS-0004009726",
-      "pub_date": "Tue, 27 Oct 2026 02:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-20187230?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-80-e5-90-8d31-e5-b2-81-e4-b9-8c-e5-85-8b-e-dbf2f12f8ef9.html",
-      "captured": true,
-      "capture_title": "一名31岁乌克兰警探的布恰屠杀追凶之路",
       "error": ""
     },
     {
@@ -1130,78 +1202,6 @@
       "snapshot": "articles/autism-therapy-treatment-hours-private-equity-fe-4f691c4b6ab7.html",
       "captured": true,
       "capture_title": "自闭症治疗从业者爆料：大型连锁机构施压要求增加治疗时长",
-      "error": ""
-    },
-    {
-      "title": "超级富豪购入过亿豪宅，只为拆除重建",
-      "summary": "亿万富豪一掷千金，只为拿下不可复制的优质地块，建起完全契合个人意志的专属宅邸。",
-      "link": "https://cn.wsj.com/articles/%E8%B6%85%E7%BA%A7%E5%AF%8C%E8%B1%AA%E8%B4%AD%E5%85%A5%E8%BF%87%E4%BA%BF%E8%B1%AA%E5%AE%85-%E5%8F%AA%E4%B8%BA%E6%8B%86%E9%99%A4%E9%87%8D%E5%BB%BA-aeec6553",
-      "guid": "WP-WSJS-0003997151",
-      "pub_date": "Thu, 22 Oct 2026 02:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-39314285?size=1.78&width=1280",
-      "snapshot": "articles/e8-b6-85-e7-ba-a7-e5-af-8c-e8-b1-aa-e8-b4-ad-e5--f5e9075b678e.html",
-      "captured": true,
-      "capture_title": "超级富豪购入过亿豪宅，只为拆除重建",
-      "error": ""
-    },
-    {
-      "title": "特朗普要求马斯克解除对乌克兰星链限制",
-      "summary": "美国和乌克兰官员称，特朗普致电马斯克后不久，该系统在周四的运行已更趋正常。",
-      "link": "https://cn.wsj.com/articles/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-08e9453c",
-      "guid": "WP-WSJS-0004000626",
-      "pub_date": "Thu, 22 Oct 2026 23:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-92121358?size=1.501&width=1280",
-      "snapshot": "articles/trump-called-musk-and-asked-him-to-lift-ukraine--001347a728ec.html",
-      "captured": true,
-      "capture_title": "特朗普要求马斯克解除对乌克兰星链限制",
-      "error": ""
-    },
-    {
-      "title": "莫德纳股价大跌近18%，此前癌症疫苗细节提前在网上流传",
-      "summary": "相关细节原定于周六在欧洲肿瘤内科学会年会上公布。",
-      "link": "https://cn.wsj.com/articles/%E8%8E%AB%E5%BE%B7%E7%BA%B3%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E8%BF%9118-%E6%AD%A4%E5%89%8D%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%BB%86%E8%8A%82%E6%8F%90%E5%89%8D%E5%9C%A8%E7%BD%91%E4%B8%8A%E6%B5%81%E4%BC%A0-3adf27be",
-      "guid": "WP-WSJS-0004000606",
-      "pub_date": "Thu, 22 Oct 2026 23:35:00 GMT",
-      "image_url": "https://images.wsj.net/im-36932324?size=1.501&width=1280",
-      "snapshot": "articles/e8-8e-ab-e5-be-b7-e7-ba-b3-e8-82-a1-e4-bb-b7-e5--6de34e39c833.html",
-      "captured": true,
-      "capture_title": "莫德纳股价大跌近18%，此前癌症疫苗细节提前在网上流传",
-      "error": ""
-    },
-    {
-      "title": "美股现跷跷板走势，轮动也在加速",
-      "summary": "市场仿佛跷跷板：一头是AI股，另一头是其他所有股票。标普500指数与其成份股之间出现2025年1月以来最显著的分化。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E7%8E%B0%E8%B7%B7%E8%B7%B7%E6%9D%BF%E8%B5%B0%E5%8A%BF-%E8%BD%AE%E5%8A%A8%E4%B9%9F%E5%9C%A8%E5%8A%A0%E9%80%9F-a1fbbd7a",
-      "guid": "WP-WSJS-0004001184",
-      "pub_date": "Fri, 23 Oct 2026 03:24:00 GMT",
-      "image_url": "https://images.mktw.net/im-91980124?size=1.44&width=1280",
-      "snapshot": "articles/e7-be-8e-e8-82-a1-e7-8e-b0-e8-b7-b7-e8-b7-b7-e6--faba61a188db.html",
-      "captured": true,
-      "capture_title": "美股现跷跷板走势，轮动也在加速 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "法国债务危机加深，外国投资者寻求退场",
-      "summary": "为欧盟第二大经济体提供融资的外国资本可能正在转向撤离，这是法国债券今秋遭抛售的原因之一；上周末发生骚乱后，抛售进一步加剧。",
-      "link": "https://cn.wsj.com/articles/%E6%B3%95%E5%9B%BD%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E5%8A%A0%E6%B7%B1-%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%BB%E6%B1%82%E9%80%80%E5%9C%BA-aa8ed3f6",
-      "guid": "WP-WSJS-0004000858",
-      "pub_date": "Fri, 23 Oct 2026 01:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-20939226?size=1.501&width=1280",
-      "snapshot": "articles/e6-b3-95-e5-9b-bd-e5-80-ba-e5-8a-a1-e5-8d-b1-e6--dd334da9ac62.html",
-      "captured": true,
-      "capture_title": "法国债务危机加深，外国投资者寻求退场 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "阿联酋外交官加入角逐给联合国秘书长遴选带来变数",
-      "summary": "这一引人注目的提名，意在借势阿联酋为树立可信赖的全球斡旋者形象所作的努力。此前，其他候选人中尚未出现明显的领跑者。",
-      "link": "https://cn.wsj.com/articles/%E9%98%BF%E8%81%94%E9%85%8B%E5%A4%96%E4%BA%A4%E5%AE%98%E5%8A%A0%E5%85%A5%E8%A7%92%E9%80%90%E7%BB%99%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E9%81%B4%E9%80%89%E5%B8%A6%E6%9D%A5%E5%8F%98%E6%95%B0-31836083",
-      "guid": "WP-WSJS-0004000906",
-      "pub_date": "Fri, 23 Oct 2026 01:13:00 GMT",
-      "image_url": "https://images.wsj.net/im-81496858?size=1.499&width=1280",
-      "snapshot": "articles/e9-98-bf-e8-81-94-e9-85-8b-e5-a4-96-e4-ba-a4-e5--90e1aa62d0ae.html",
-      "captured": true,
-      "capture_title": "阿联酋外交官加入角逐给联合国秘书长遴选带来变数 - WSJ",
       "error": ""
     }
   ]
