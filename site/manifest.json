@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:02:47.349936+00:00",
+  "generated_at": "2026-10-30T22:04:43.084729+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -97,8 +97,8 @@
       "image_url": "https://images.wsj.net/im-99253309?size=1.499&width=1280",
       "snapshot": "articles/chinese-executive-close-to-nvidia-ceo-suspected--f7d8e7dd444e.html",
       "captured": true,
-      "capture_title": "与黄仁勋关系密切的中国籍高管被疑向中国提供信息 - WSJ",
-      "error": "第 1 次：Message: The command does not support browsing contexts in privileged scope Stacktrace: RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:14:8 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:169:5 UnsupportedOperationError@chrome://remote/content/shared/webdriver/"
+      "capture_title": "与黄仁勋关系密切的中国籍高管被疑向中国提供信息",
+      "error": ""
     },
     {
       "title": "深入美军护航行动：一场没有明确期限的石油运输保卫战",
