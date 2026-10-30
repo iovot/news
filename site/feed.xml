@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 09:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 17:59:11 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 09:45:54 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 17:59:11 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -29,7 +29,7 @@
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
             <title><![CDATA[中共精英队伍遭清洗之际，习近平要求进一步提高忠诚度]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61415540?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在毛泽东时代以来出席人数最少的一次全会上，中共中央委员会表态支持习近平打击腐败和不忠行为的行动。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61415540?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在毛泽东时代以来出席率最低的一次全会上，中共中央委员会表态支持习近平打击腐败和不忠行为的行动。</p>]]></description>
             <link>https://cn.wsj.com/articles/chinas-xi-demands-more-loyalty-as-purges-trim-party-elite-aaf71c67</link>
             <guid isPermaLink="false">WP-WSJS-0004021485</guid>
             <pubDate>Fri, 30 Oct 2026 07:07:00 GMT</pubDate>
@@ -39,7 +39,7 @@
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-68340011?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>币安周四晚间表示，此次黑客攻击涉及的金额约为63亿美元。</p>]]></description>
             <link>https://cn.wsj.com/articles/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-670af5cd</link>
             <guid isPermaLink="false">WP-WSJS-0004020784</guid>
-            <pubDate>Fri, 30 Oct 2026 04:51:00 GMT</pubDate>
+            <pubDate>Fri, 30 Oct 2026 10:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[乌克兰袭击俄罗斯炼油厂，打破暂停期并无视特朗普要求]]></title>
@@ -77,6 +77,13 @@
             <pubDate>Fri, 30 Oct 2026 00:48:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[与黄仁勋关系密切的中国籍高管被疑向中国提供信息]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-99253309?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士称，美国官员去年认定，中国公民Alice Huang在担任数据中心行业高管期间，一边与英伟达合作，一边向中国政府分享信息。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-a5a5f300</link>
+            <guid isPermaLink="false">WP-WSJS-0004021966</guid>
+            <pubDate>Fri, 30 Oct 2026 12:28:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[深入美军护航行动：一场没有明确期限的石油运输保卫战]]></title>
             <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-71437555?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美军昼夜不停地行动，维持对伊朗的封锁，并保护穿过霍尔木兹海峡的船只。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%B7%B1%E5%85%A5%E7%BE%8E%E5%86%9B%E6%8A%A4%E8%88%AA%E8%A1%8C%E5%8A%A8-%E4%B8%80%E5%9C%BA%E6%B2%A1%E6%9C%89%E6%98%8E%E7%A1%AE%E6%9C%9F%E9%99%90%E7%9A%84%E7%9F%B3%E6%B2%B9%E8%BF%90%E8%BE%93%E4%BF%9D%E5%8D%AB%E6%88%98-a52f761c</link>
@@ -105,13 +112,6 @@
             <pubDate>Wed, 28 Oct 2026 00:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[盛名之下的威嘉律所如何在五天内轰然解散？]]></title>
-            <description><![CDATA[<img width="1280" height="1036" src="https://images.wsj.net/im-52758790?size=1.236&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家享有盛誉的华尔街律所靠着为陷入困境的企业提供咨询而发展壮大，后来却被迫将这份专长用在自己身上。</p>]]></description>
-            <link>https://cn.wsj.com/articles/weil-gotshal-collapse-bankruptcy-cb969370</link>
-            <guid isPermaLink="false">WP-WSJS-0004021198</guid>
-            <pubDate>Fri, 30 Oct 2026 02:40:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[打造全美最贵住宅区的宏图为何走向崩盘]]></title>
             <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-81203712?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在开发商与其合伙人的争端持续之际，相关实体申请了破产。历时近十年后，这个马里布顶奢社区的项目陷入困境。</p>]]></description>
             <link>https://cn.wsj.com/articles/scott-gillen-the-case-malibu-e84c3247</link>
@@ -126,11 +126,11 @@
             <pubDate>Fri, 30 Oct 2026 04:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[《星际迷航》皮卡德扮演者帕特里克·斯图尔特去世，终年86岁]]></title>
-            <description><![CDATA[<img width="1280" height="1293" src="https://images.wsj.net/im-43751428?size=0.99&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>他凭借《星际迷航：下一代》和《X战警》等影视作品享誉国际，且始终未曾远离舞台。</p>]]></description>
-            <link>https://cn.wsj.com/articles/patrick-stewart-star-treks-picard-is-dead-at-86-8c20f743</link>
-            <guid isPermaLink="false">WP-WSJS-0004021407</guid>
-            <pubDate>Fri, 30 Oct 2026 05:23:00 GMT</pubDate>
+            <title><![CDATA[盛名之下的威嘉律所如何在五天内轰然解散？]]></title>
+            <description><![CDATA[<img width="1280" height="1036" src="https://images.wsj.net/im-52758790?size=1.236&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家享有盛誉的华尔街律所靠着为陷入困境的企业提供咨询而发展壮大，后来却被迫将这份专长用在自己身上。</p>]]></description>
+            <link>https://cn.wsj.com/articles/weil-gotshal-collapse-bankruptcy-cb969370</link>
+            <guid isPermaLink="false">WP-WSJS-0004021198</guid>
+            <pubDate>Fri, 30 Oct 2026 02:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一款1,000美元的设备可实现脱手驾驶，但致命车祸招致审视]]></title>
@@ -159,6 +159,13 @@
             <link>https://cn.wsj.com/articles/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-e0166a2e</link>
             <guid isPermaLink="false">WP-WSJS-0004017256</guid>
             <pubDate>Thu, 29 Oct 2026 03:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《星际迷航》皮卡德扮演者帕特里克·斯图尔特去世，终年86岁]]></title>
+            <description><![CDATA[<img width="1280" height="1293" src="https://images.wsj.net/im-43751428?size=0.99&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>他凭借《星际迷航：下一代》和《X战警》等影视作品享誉国际，且始终未曾远离舞台。</p>]]></description>
+            <link>https://cn.wsj.com/articles/patrick-stewart-star-treks-picard-is-dead-at-86-8c20f743</link>
+            <guid isPermaLink="false">WP-WSJS-0004021407</guid>
+            <pubDate>Fri, 30 Oct 2026 05:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普政府在争取奥迪工厂落地的谈判中承诺关税减免]]></title>
