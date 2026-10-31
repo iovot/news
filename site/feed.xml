@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 04:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 11:56:10 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 04:49:49 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 11:56:10 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -77,18 +77,18 @@
             <pubDate>Fri, 30 Oct 2026 00:55:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国大举搜集台湾周边水域数据，或有助其军事行动]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-30612163?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国加快了对台湾附近水域的测绘，派出数十艘船只收集数据。台湾方面称此举有助于“战场经营”。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%B8%BE%E6%90%9C%E9%9B%86%E5%8F%B0%E6%B9%BE%E5%91%A8%E8%BE%B9%E6%B0%B4%E5%9F%9F%E6%95%B0%E6%8D%AE-%E6%88%96%E6%9C%89%E5%8A%A9%E5%85%B6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8-69dc0493</link>
+            <guid isPermaLink="false">WP-WSJS-0004024293</guid>
+            <pubDate>Sat, 31 Oct 2026 09:17:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[与黄仁勋关系密切的中国籍高管被疑向中国提供信息]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-99253309?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士称，美国官员去年认定，中国公民Alice Huang在担任数据中心行业高管期间，一边与英伟达合作，一边向中国政府分享信息。</p>]]></description>
             <link>https://cn.wsj.com/articles/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-a5a5f300</link>
             <guid isPermaLink="false">WP-WSJS-0004021966</guid>
             <pubDate>Fri, 30 Oct 2026 12:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深入美军护航行动：一场没有明确期限的石油运输保卫战]]></title>
-            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-71437555?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美军昼夜不停地行动，维持对伊朗的封锁，并保护穿过霍尔木兹海峡的船只。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%B7%B1%E5%85%A5%E7%BE%8E%E5%86%9B%E6%8A%A4%E8%88%AA%E8%A1%8C%E5%8A%A8-%E4%B8%80%E5%9C%BA%E6%B2%A1%E6%9C%89%E6%98%8E%E7%A1%AE%E6%9C%9F%E9%99%90%E7%9A%84%E7%9F%B3%E6%B2%B9%E8%BF%90%E8%BE%93%E4%BF%9D%E5%8D%AB%E6%88%98-a52f761c</link>
-            <guid isPermaLink="false">WP-WSJS-0004021333</guid>
-            <pubDate>Fri, 30 Oct 2026 04:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国汽车惊艳全球，为何在本土深陷泥潭？]]></title>
@@ -112,18 +112,18 @@
             <pubDate>Wed, 28 Oct 2026 00:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[深入美军护航行动：一场没有明确期限的石油运输保卫战]]></title>
+            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-71437555?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美军昼夜不停地行动，维持对伊朗的封锁，并保护穿过霍尔木兹海峡的船只。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B7%B1%E5%85%A5%E7%BE%8E%E5%86%9B%E6%8A%A4%E8%88%AA%E8%A1%8C%E5%8A%A8-%E4%B8%80%E5%9C%BA%E6%B2%A1%E6%9C%89%E6%98%8E%E7%A1%AE%E6%9C%9F%E9%99%90%E7%9A%84%E7%9F%B3%E6%B2%B9%E8%BF%90%E8%BE%93%E4%BF%9D%E5%8D%AB%E6%88%98-a52f761c</link>
+            <guid isPermaLink="false">WP-WSJS-0004021333</guid>
+            <pubDate>Fri, 30 Oct 2026 04:14:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[打造全美最贵住宅区的宏图为何走向崩盘]]></title>
             <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-81203712?size=1.33&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在开发商与其合伙人的争端持续之际，相关实体申请了破产。历时近十年后，这个马里布顶奢社区的项目陷入困境。</p>]]></description>
             <link>https://cn.wsj.com/articles/scott-gillen-the-case-malibu-e84c3247</link>
             <guid isPermaLink="false">WP-WSJS-0004021447</guid>
             <pubDate>Fri, 30 Oct 2026 06:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小企业的“救命钱”如何成为致命陷阱]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-58025601?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>申请简便与迅速放款且不问信用记录让急需资金的商户寻求商户现金预支，但部分此类融资的实际成本率高达2,000%。</p>]]></description>
-            <link>https://cn.wsj.com/articles/business-finance-merchant-cash-advance-a242b205</link>
-            <guid isPermaLink="false">WP-WSJS-0004021337</guid>
-            <pubDate>Fri, 30 Oct 2026 04:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[盛名之下的威嘉律所如何在五天内轰然解散？]]></title>
@@ -175,11 +175,11 @@
             <pubDate>Wed, 28 Oct 2026 01:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[西班牙为何接连发生致命高铁事故？]]></title>
-            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-24051768?size=1.494&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>西班牙拥有世界上规模最大的高铁网络之一，线路总长仅次于中国。但两起接连发生的事故暴露出西班牙铁路安全体系的系统性缺陷。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BA%E4%BD%95%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E8%87%B4%E5%91%BD%E9%AB%98%E9%93%81%E4%BA%8B%E6%95%85-df576293</link>
-            <guid isPermaLink="false">WP-WSJS-0004020950</guid>
-            <pubDate>Fri, 30 Oct 2026 00:48:00 GMT</pubDate>
+            <title><![CDATA[小企业的“救命钱”如何成为致命陷阱]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-58025601?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>申请简便与迅速放款且不问信用记录让急需资金的商户寻求商户现金预支，但部分此类融资的实际成本率高达2,000%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/business-finance-merchant-cash-advance-a242b205</link>
+            <guid isPermaLink="false">WP-WSJS-0004021337</guid>
+            <pubDate>Fri, 30 Oct 2026 04:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[他们卖掉全部家当住上邮轮，如今却滞留柬埔寨]]></title>

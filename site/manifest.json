@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:55:03.220115+00:00",
+  "generated_at": "2026-10-31T11:58:23.842142+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-83173880?size=1.501&width=1280",
       "snapshot": "articles/e5-b8-81-e5-ae-89-e5-a6-82-e4-bd-95-e4-ba-89-e5--08366f8af57e.html",
       "captured": true,
-      "capture_title": "币安如何争分夺秒填补加密货币史上最大盗窃案损失 - WSJ",
+      "capture_title": "币安如何争分夺秒填补加密货币史上最大盗窃案损失",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-44066878?size=1.499&width=1280",
       "snapshot": "articles/ai-e4-ba-a4-e6-98-93-e8-a3-82-e7-97-95-e5-8a-a0--82d952bd7c8c.html",
       "captured": true,
-      "capture_title": "AI交易裂痕加深的一周 - WSJ",
+      "capture_title": "AI交易裂痕加深的一周",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-88789460?size=1.281&width=1280",
       "snapshot": "articles/e6-ac-a7-e7-9b-9f-e4-b8-8e-e5-8a-a0-e6-8b-bf-e5--68ccec24c800.html",
       "captured": true,
-      "capture_title": "欧盟与加拿大领导人明确达成“准成员资格”安排的路径 - WSJ",
+      "capture_title": "欧盟与加拿大领导人明确达成“准成员资格”安排的路径",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-02706911?size=1.501&width=1280",
       "snapshot": "articles/e6-83-a0-e8-aa-89-e5-b0-86-e6-b3-95-e5-9b-bd-e8--1102793fca06.html",
       "captured": true,
-      "capture_title": "惠誉将法国评级展望从稳定下调至负面 - WSJ",
+      "capture_title": "惠誉将法国评级展望从稳定下调至负面",
       "error": ""
     },
     {
@@ -89,6 +89,18 @@
       "error": ""
     },
     {
+      "title": "中国大举搜集台湾周边水域数据，或有助其军事行动",
+      "summary": "中国加快了对台湾附近水域的测绘，派出数十艘船只收集数据。台湾方面称此举有助于“战场经营”。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%B8%BE%E6%90%9C%E9%9B%86%E5%8F%B0%E6%B9%BE%E5%91%A8%E8%BE%B9%E6%B0%B4%E5%9F%9F%E6%95%B0%E6%8D%AE-%E6%88%96%E6%9C%89%E5%8A%A9%E5%85%B6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8-69dc0493",
+      "guid": "WP-WSJS-0004024293",
+      "pub_date": "Sat, 31 Oct 2026 09:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-30612163?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-a4-a7-e4-b8-be-e6-90-9c-e9--509674c48cbe.html",
+      "captured": true,
+      "capture_title": "中国大举搜集台湾周边水域数据，或有助其军事行动 - WSJ",
+      "error": ""
+    },
+    {
       "title": "与黄仁勋关系密切的中国籍高管被疑向中国提供信息",
       "summary": "知情人士称，美国官员去年认定，中国公民Alice Huang在担任数据中心行业高管期间，一边与英伟达合作，一边向中国政府分享信息。",
       "link": "https://cn.wsj.com/articles/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-a5a5f300",
@@ -98,18 +110,6 @@
       "snapshot": "articles/chinese-executive-close-to-nvidia-ceo-suspected--f7d8e7dd444e.html",
       "captured": true,
       "capture_title": "与黄仁勋关系密切的中国籍高管被疑向中国提供信息",
-      "error": ""
-    },
-    {
-      "title": "深入美军护航行动：一场没有明确期限的石油运输保卫战",
-      "summary": "美军昼夜不停地行动，维持对伊朗的封锁，并保护穿过霍尔木兹海峡的船只。",
-      "link": "https://cn.wsj.com/articles/%E6%B7%B1%E5%85%A5%E7%BE%8E%E5%86%9B%E6%8A%A4%E8%88%AA%E8%A1%8C%E5%8A%A8-%E4%B8%80%E5%9C%BA%E6%B2%A1%E6%9C%89%E6%98%8E%E7%A1%AE%E6%9C%9F%E9%99%90%E7%9A%84%E7%9F%B3%E6%B2%B9%E8%BF%90%E8%BE%93%E4%BF%9D%E5%8D%AB%E6%88%98-a52f761c",
-      "guid": "WP-WSJS-0004021333",
-      "pub_date": "Fri, 30 Oct 2026 04:14:00 GMT",
-      "image_url": "https://images.wsj.net/im-71437555?size=1.33&width=1280",
-      "snapshot": "articles/e6-b7-b1-e5-85-a5-e7-be-8e-e5-86-9b-e6-8a-a4-e8--90f51f29ad97.html",
-      "captured": true,
-      "capture_title": "深入美军护航行动：一场没有明确期限的石油运输保卫战",
       "error": ""
     },
     {
@@ -149,6 +149,18 @@
       "error": ""
     },
     {
+      "title": "深入美军护航行动：一场没有明确期限的石油运输保卫战",
+      "summary": "美军昼夜不停地行动，维持对伊朗的封锁，并保护穿过霍尔木兹海峡的船只。",
+      "link": "https://cn.wsj.com/articles/%E6%B7%B1%E5%85%A5%E7%BE%8E%E5%86%9B%E6%8A%A4%E8%88%AA%E8%A1%8C%E5%8A%A8-%E4%B8%80%E5%9C%BA%E6%B2%A1%E6%9C%89%E6%98%8E%E7%A1%AE%E6%9C%9F%E9%99%90%E7%9A%84%E7%9F%B3%E6%B2%B9%E8%BF%90%E8%BE%93%E4%BF%9D%E5%8D%AB%E6%88%98-a52f761c",
+      "guid": "WP-WSJS-0004021333",
+      "pub_date": "Fri, 30 Oct 2026 04:14:00 GMT",
+      "image_url": "https://images.wsj.net/im-71437555?size=1.33&width=1280",
+      "snapshot": "articles/e6-b7-b1-e5-85-a5-e7-be-8e-e5-86-9b-e6-8a-a4-e8--90f51f29ad97.html",
+      "captured": true,
+      "capture_title": "深入美军护航行动：一场没有明确期限的石油运输保卫战",
+      "error": ""
+    },
+    {
       "title": "打造全美最贵住宅区的宏图为何走向崩盘",
       "summary": "在开发商与其合伙人的争端持续之际，相关实体申请了破产。历时近十年后，这个马里布顶奢社区的项目陷入困境。",
       "link": "https://cn.wsj.com/articles/scott-gillen-the-case-malibu-e84c3247",
@@ -158,18 +170,6 @@
       "snapshot": "articles/scott-gillen-the-case-malibu-e84c3247-dbc758a45eda.html",
       "captured": true,
       "capture_title": "打造全美最贵住宅区的宏图为何走向崩盘",
-      "error": ""
-    },
-    {
-      "title": "小企业的“救命钱”如何成为致命陷阱",
-      "summary": "申请简便与迅速放款且不问信用记录让急需资金的商户寻求商户现金预支，但部分此类融资的实际成本率高达2,000%。",
-      "link": "https://cn.wsj.com/articles/business-finance-merchant-cash-advance-a242b205",
-      "guid": "WP-WSJS-0004021337",
-      "pub_date": "Fri, 30 Oct 2026 04:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-58025601?size=1&width=1280",
-      "snapshot": "articles/business-finance-merchant-cash-advance-a242b205-516b8c8ce50a.html",
-      "captured": true,
-      "capture_title": "小企业的“救命钱”如何成为致命陷阱",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-77464576?size=1.499&width=1280",
       "snapshot": "articles/e5-ad-98-e5-82-a8-e8-8a-af-e7-89-87-e7-9f-ad-e7--88829387f513.html",
       "captured": true,
-      "capture_title": "存储芯片短缺巩固长鑫存储中国芯片业领军地位 - WSJ",
+      "capture_title": "存储芯片短缺巩固长鑫存储中国芯片业领军地位",
       "error": ""
     },
     {
@@ -257,15 +257,15 @@
       "error": ""
     },
     {
-      "title": "西班牙为何接连发生致命高铁事故？",
-      "summary": "西班牙拥有世界上规模最大的高铁网络之一，线路总长仅次于中国。但两起接连发生的事故暴露出西班牙铁路安全体系的系统性缺陷。",
-      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BA%E4%BD%95%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E8%87%B4%E5%91%BD%E9%AB%98%E9%93%81%E4%BA%8B%E6%95%85-df576293",
-      "guid": "WP-WSJS-0004020950",
-      "pub_date": "Fri, 30 Oct 2026 00:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-24051768?size=1.494&width=1280",
-      "snapshot": "articles/e8-a5-bf-e7-8f-ad-e7-89-99-e4-b8-ba-e4-bd-95-e6--b1c3369d6f5c.html",
+      "title": "小企业的“救命钱”如何成为致命陷阱",
+      "summary": "申请简便与迅速放款且不问信用记录让急需资金的商户寻求商户现金预支，但部分此类融资的实际成本率高达2,000%。",
+      "link": "https://cn.wsj.com/articles/business-finance-merchant-cash-advance-a242b205",
+      "guid": "WP-WSJS-0004021337",
+      "pub_date": "Fri, 30 Oct 2026 04:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-58025601?size=1&width=1280",
+      "snapshot": "articles/business-finance-merchant-cash-advance-a242b205-516b8c8ce50a.html",
       "captured": true,
-      "capture_title": "西班牙为何接连发生致命高铁事故？",
+      "capture_title": "小企业的“救命钱”如何成为致命陷阱",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/apple-macbook-touch-screen-652f7095-c93ef45aade5.html",
       "captured": true,
       "capture_title": "实测苹果首款触屏MacBook：受众究竟是谁？",
+      "error": ""
+    },
+    {
+      "title": "西班牙为何接连发生致命高铁事故？",
+      "summary": "西班牙拥有世界上规模最大的高铁网络之一，线路总长仅次于中国。但两起接连发生的事故暴露出西班牙铁路安全体系的系统性缺陷。",
+      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BA%E4%BD%95%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E8%87%B4%E5%91%BD%E9%AB%98%E9%93%81%E4%BA%8B%E6%95%85-df576293",
+      "guid": "WP-WSJS-0004020950",
+      "pub_date": "Fri, 30 Oct 2026 00:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-24051768?size=1.494&width=1280",
+      "snapshot": "articles/e8-a5-bf-e7-8f-ad-e7-89-99-e4-b8-ba-e4-bd-95-e6--b1c3369d6f5c.html",
+      "captured": true,
+      "capture_title": "西班牙为何接连发生致命高铁事故？",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/five-things-to-know-about-audis-first-u-s-factor-aef514de8f09.html",
       "captured": true,
       "capture_title": "奥迪首建美国工厂，五大核心看点解读",
-      "error": ""
-    },
-    {
-      "title": "沙特主导的部队刚集结即遭胡塞导弹袭击，致数十人死亡",
-      "summary": "致命袭击及类似事件暴露出沙特在对抗其受伊朗支持的敌人时面临的战术和情报短板。",
-      "link": "https://cn.wsj.com/articles/%E6%B2%99%E7%89%B9%E4%B8%BB%E5%AF%BC%E7%9A%84%E9%83%A8%E9%98%9F%E5%88%9A%E9%9B%86%E7%BB%93%E5%8D%B3%E9%81%AD%E8%83%A1%E5%A1%9E%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB-%E8%87%B4%E6%95%B0%E5%8D%81%E4%BA%BA%E6%AD%BB%E4%BA%A1-34fd4764",
-      "guid": "WP-WSJS-0004006232",
-      "pub_date": "Mon, 26 Oct 2026 00:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-97623476?size=1.775&width=1280",
-      "snapshot": "articles/e6-b2-99-e7-89-b9-e4-b8-bb-e5-af-bc-e7-9a-84-e9--699ee0223329.html",
-      "captured": true,
-      "capture_title": "沙特主导的部队刚集结即遭胡塞导弹袭击，致数十人死亡",
       "error": ""
     }
   ]
