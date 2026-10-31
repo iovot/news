@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:04:43.084729+00:00",
+  "generated_at": "2026-10-31T04:55:03.220115+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -17,20 +17,32 @@
       "error": ""
     },
     {
-      "title": "币安暂停交易，调查疑似史上最大加密货币盗窃案",
-      "summary": "币安周四晚间表示，此次黑客攻击涉及的金额约为63亿美元。",
-      "link": "https://cn.wsj.com/articles/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-670af5cd",
-      "guid": "WP-WSJS-0004020784",
-      "pub_date": "Fri, 30 Oct 2026 10:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-68340011?size=1.501&width=1280",
-      "snapshot": "articles/binance-founder-says-exchange-may-be-victim-of-b-abdcbb7a0d16.html",
+      "title": "币安如何争分夺秒填补加密货币史上最大盗窃案损失",
+      "summary": "此次入侵事件造成的损失远超币安为应对此类事件预留的全部储备金。",
+      "link": "https://cn.wsj.com/articles/%E5%B8%81%E5%AE%89%E5%A6%82%E4%BD%95%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%E5%A1%AB%E8%A1%A5%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9B%97%E7%AA%83%E6%A1%88%E6%8D%9F%E5%A4%B1-6dd2acc9",
+      "guid": "WP-WSJS-0004024070",
+      "pub_date": "Fri, 30 Oct 2026 23:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-83173880?size=1.501&width=1280",
+      "snapshot": "articles/e5-b8-81-e5-ae-89-e5-a6-82-e4-bd-95-e4-ba-89-e5--08366f8af57e.html",
       "captured": true,
-      "capture_title": "币安暂停交易，调查疑似史上最大加密货币盗窃案",
+      "capture_title": "币安如何争分夺秒填补加密货币史上最大盗窃案损失 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "AI交易裂痕加深的一周",
+      "summary": "英特尔、Alphabet和亚马逊公布令人失望的财报后，投资者的焦虑情绪升至新高，纳指大跌2.9%。英特尔股价暴跌29%。",
+      "link": "https://cn.wsj.com/articles/ai%E4%BA%A4%E6%98%93%E8%A3%82%E7%97%95%E5%8A%A0%E6%B7%B1%E7%9A%84%E4%B8%80%E5%91%A8-517d1aef",
+      "guid": "WP-WSJS-0004024205",
+      "pub_date": "Sat, 31 Oct 2026 01:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-44066878?size=1.499&width=1280",
+      "snapshot": "articles/ai-e4-ba-a4-e6-98-93-e8-a3-82-e7-97-95-e5-8a-a0--82d952bd7c8c.html",
+      "captured": true,
+      "capture_title": "AI交易裂痕加深的一周 - WSJ",
       "error": ""
     },
     {
       "title": "乌克兰袭击俄罗斯炼油厂，打破暂停期并无视特朗普要求",
-      "summary": "乌克兰周五凌晨的袭击行动结束了为期两周的炼油厂袭击暂停期。在此期间，特朗普政府一直大力施压，要求乌克兰停止此类行动。",
+      "summary": "这是两周以来俄罗斯炼油厂首次遭袭击。乌克兰军方决定结束自我克制之际，俄罗斯对乌克兰城市的轰炸正在加剧。",
       "link": "https://cn.wsj.com/articles/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-1bb0725d",
       "guid": "WP-WSJS-0004021651",
       "pub_date": "Fri, 30 Oct 2026 08:53:00 GMT",
@@ -41,27 +53,27 @@
       "error": ""
     },
     {
-      "title": "Alphabet市值蒸发5,000亿美元，股价创史上最差单日表现",
-      "summary": "投资者不得不正视一个现实：这家长期以来保持强劲增长和盈利的公司，在AI转型过程中面临艰难取舍。",
-      "link": "https://cn.wsj.com/articles/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-eae22dd1",
-      "guid": "WP-WSJS-0004020725",
-      "pub_date": "Thu, 29 Oct 2026 23:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-71996299?size=1.501&width=1280",
-      "snapshot": "articles/alphabet-sheds-half-a-trillion-in-market-value-i-89775e3b5973.html",
+      "title": "欧盟与加拿大领导人明确达成“准成员资格”安排的路径",
+      "summary": "加拿大和欧盟周五公布了一项雄心勃勃的新伙伴关系，但该联盟正面临着政治阻力以及来自华盛顿的质疑。",
+      "link": "https://cn.wsj.com/articles/%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%98%8E%E7%A1%AE%E8%BE%BE%E6%88%90-%E5%87%86%E6%88%90%E5%91%98%E8%B5%84%E6%A0%BC-%E5%AE%89%E6%8E%92%E7%9A%84%E8%B7%AF%E5%BE%84-8594dbe6",
+      "guid": "WP-WSJS-0004024191",
+      "pub_date": "Sat, 31 Oct 2026 00:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-88789460?size=1.281&width=1280",
+      "snapshot": "articles/e6-ac-a7-e7-9b-9f-e4-b8-8e-e5-8a-a0-e6-8b-bf-e5--68ccec24c800.html",
       "captured": true,
-      "capture_title": "Alphabet市值蒸发5,000亿美元，股价创史上最差单日表现",
+      "capture_title": "欧盟与加拿大领导人明确达成“准成员资格”安排的路径 - WSJ",
       "error": ""
     },
     {
-      "title": "面对库存吃紧与中国挑战，美国寻求日本协助生产导弹",
-      "summary": "美日两国周三达成协议，将在日本设立一处设施，负责F-35战机关键武器——先进中程空对空导弹的总装与检测。",
-      "link": "https://cn.wsj.com/articles/as-missile-stockpiles-dwindle-and-china-looms-u-s-turns-to-japan-for-production-23f09c1a",
-      "guid": "WP-WSJS-0004020813",
-      "pub_date": "Thu, 29 Oct 2026 23:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-46850422?size=1.501&width=1280",
-      "snapshot": "articles/as-missile-stockpiles-dwindle-and-china-looms-u--b6533b7ae939.html",
+      "title": "惠誉将法国评级展望从稳定下调至负面",
+      "summary": "此举正值法国因债务和不断上升的借贷成本面临经济和社会压力之际。",
+      "link": "https://cn.wsj.com/articles/%E6%83%A0%E8%AA%89%E5%B0%86%E6%B3%95%E5%9B%BD%E8%AF%84%E7%BA%A7%E5%B1%95%E6%9C%9B%E4%BB%8E%E7%A8%B3%E5%AE%9A%E4%B8%8B%E8%B0%83%E8%87%B3%E8%B4%9F%E9%9D%A2-d16f7a14",
+      "guid": "WP-WSJS-0004024216",
+      "pub_date": "Sat, 31 Oct 2026 01:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-02706911?size=1.501&width=1280",
+      "snapshot": "articles/e6-83-a0-e8-aa-89-e5-b0-86-e6-b3-95-e5-9b-bd-e8--1102793fca06.html",
       "captured": true,
-      "capture_title": "面对库存吃紧与中国挑战，美国寻求日本协助生产导弹",
+      "capture_title": "惠誉将法国评级展望从稳定下调至负面 - WSJ",
       "error": ""
     },
     {
@@ -74,18 +86,6 @@
       "snapshot": "articles/israels-arabs-emerge-as-key-political-powerhouse-e195c8340414.html",
       "captured": true,
       "capture_title": "以色列的阿拉伯人成为关键政治力量",
-      "error": ""
-    },
-    {
-      "title": "西班牙为何接连发生致命高铁事故？",
-      "summary": "西班牙拥有世界上规模最大的高铁网络之一，线路总长仅次于中国。但两起接连发生的事故暴露出西班牙铁路安全体系的系统性缺陷。",
-      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BA%E4%BD%95%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E8%87%B4%E5%91%BD%E9%AB%98%E9%93%81%E4%BA%8B%E6%95%85-df576293",
-      "guid": "WP-WSJS-0004020950",
-      "pub_date": "Fri, 30 Oct 2026 00:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-24051768?size=1.494&width=1280",
-      "snapshot": "articles/e8-a5-bf-e7-8f-ad-e7-89-99-e4-b8-ba-e4-bd-95-e6--b1c3369d6f5c.html",
-      "captured": true,
-      "capture_title": "西班牙为何接连发生致命高铁事故？",
       "error": ""
     },
     {
@@ -185,6 +185,18 @@
       "error": ""
     },
     {
+      "title": "存储芯片短缺巩固长鑫存储中国芯片业领军地位",
+      "summary": "长鑫存储公布，今年前九个月销售额增长逾七倍。",
+      "link": "https://cn.wsj.com/articles/%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%9F%AD%E7%BC%BA%E5%B7%A9%E5%9B%BA%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B8%9A%E9%A2%86%E5%86%9B%E5%9C%B0%E4%BD%8D-0765e1ff",
+      "guid": "WP-WSJS-0004024038",
+      "pub_date": "Fri, 30 Oct 2026 23:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-77464576?size=1.499&width=1280",
+      "snapshot": "articles/e5-ad-98-e5-82-a8-e8-8a-af-e7-89-87-e7-9f-ad-e7--88829387f513.html",
+      "captured": true,
+      "capture_title": "存储芯片短缺巩固长鑫存储中国芯片业领军地位 - WSJ",
+      "error": ""
+    },
+    {
       "title": "一款1,000美元的设备可实现脱手驾驶，但致命车祸招致审视",
       "summary": "至少五起车祸被认为与Comma.ai的免握方向盘驾驶设备有关，美国国家公路交通安全管理局随后对该公司展开调查。",
       "link": "https://cn.wsj.com/articles/a-1-000-device-enables-hands-free-driving-but-fatal-crashes-have-prompted-scrutiny-449d118e",
@@ -209,15 +221,15 @@
       "error": ""
     },
     {
-      "title": "AI热潮推动下，台湾经济保持两位数增速",
-      "summary": "周五公布的初步估计显示，7-9月当季，台湾GDP同比增长14.36%。",
-      "link": "https://cn.wsj.com/articles/taiwanmaintains-double-digit-growth-pace-on-ai-boom-5e812049",
-      "guid": "WP-WSJS-0004021670",
-      "pub_date": "Fri, 30 Oct 2026 08:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-65993012?size=1.5&width=1280",
-      "snapshot": "articles/taiwanmaintains-double-digit-growth-pace-on-ai-b-cf1e09f5fdfe.html",
+      "title": "乔希·库什纳为何以76亿美元收购一家有150年历史的企业",
+      "summary": "一位了解库什纳想法的人士表示，收购ADT体现了库什纳的判断：风险投资行业正在变化，投资者最好的机会远不止于AI初创企业。",
+      "link": "https://cn.wsj.com/articles/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-c2e71f33",
+      "guid": "WP-WSJS-0004020919",
+      "pub_date": "Fri, 30 Oct 2026 00:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-44480584?size=1.501&width=1280",
+      "snapshot": "articles/why-josh-kushners-firm-just-spent-7-6-billion-on-c167d80cf8b1.html",
       "captured": true,
-      "capture_title": "AI热潮推动下，台湾经济保持两位数增速",
+      "capture_title": "乔希·库什纳为何以76亿美元收购一家有150年历史的企业",
       "error": ""
     },
     {
@@ -233,30 +245,6 @@
       "error": ""
     },
     {
-      "title": "《星际迷航》皮卡德扮演者帕特里克·斯图尔特去世，终年86岁",
-      "summary": "他凭借《星际迷航：下一代》和《X战警》等影视作品享誉国际，且始终未曾远离舞台。",
-      "link": "https://cn.wsj.com/articles/patrick-stewart-star-treks-picard-is-dead-at-86-8c20f743",
-      "guid": "WP-WSJS-0004021407",
-      "pub_date": "Fri, 30 Oct 2026 05:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-43751428?size=0.99&width=1280",
-      "snapshot": "articles/patrick-stewart-star-treks-picard-is-dead-at-86--98a7cb0dcb5c.html",
-      "captured": true,
-      "capture_title": "《星际迷航》皮卡德扮演者帕特里克·斯图尔特去世，终年86岁",
-      "error": ""
-    },
-    {
-      "title": "特朗普政府在争取奥迪工厂落地的谈判中承诺关税减免",
-      "summary": "汽车制造商寻求缓解关税之痛之际，奥迪宣布在佐治亚州建设一座40亿美元装配厂。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%9C%A8%E4%BA%89%E5%8F%96%E5%A5%A5%E8%BF%AA%E5%B7%A5%E5%8E%82%E8%90%BD%E5%9C%B0%E7%9A%84%E8%B0%88%E5%88%A4%E4%B8%AD%E6%89%BF%E8%AF%BA%E5%85%B3%E7%A8%8E%E5%87%8F%E5%85%8D-b7e4cd6a",
-      "guid": "WP-WSJS-0004020845",
-      "pub_date": "Thu, 29 Oct 2026 23:59:00 GMT",
-      "image_url": "https://images.wsj.net/im-20231655?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--d88d7760a328.html",
-      "captured": true,
-      "capture_title": "特朗普政府在争取奥迪工厂落地的谈判中承诺关税减免",
-      "error": ""
-    },
-    {
       "title": "国际足坛巨星姆巴佩就毛泽东表情包向中国致歉",
       "summary": "这位皇家马德里前锋在社交媒体上的一段视频中，对一张将自己的脸拼接到一位中国前领导人身上的图片发笑，并称其为“独裁者”，随后被中国赞助商解约。",
       "link": "https://cn.wsj.com/articles/%E5%9B%BD%E9%99%85%E8%B6%B3%E5%9D%9B%E5%B7%A8%E6%98%9F%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%B0%B1%E6%AF%9B%E6%B3%BD%E4%B8%9C%E8%A1%A8%E6%83%85%E5%8C%85%E5%90%91%E4%B8%AD%E5%9B%BD%E8%87%B4%E6%AD%89-e88ec565",
@@ -269,15 +257,15 @@
       "error": ""
     },
     {
-      "title": "俄罗斯防鼠疫研究所的安全隐患由来已久",
-      "summary": "长期处于极度保密状态的西伯利亚研究所屡踩监管红线，就在该实验室一名生物学家死于神秘肺炎的数周前，该所刚刚因违规受罚。",
-      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%B2%E9%BC%A0%E7%96%AB%E7%A0%94%E7%A9%B6%E6%89%80%E7%9A%84%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E7%94%B1%E6%9D%A5%E5%B7%B2%E4%B9%85-2a24f4e2",
-      "guid": "WP-WSJS-0004021228",
-      "pub_date": "Fri, 30 Oct 2026 03:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-01882438?size=1.499&width=1280",
-      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e9-98-b2-e9-bc-a0-e7--d94a0500cbd1.html",
+      "title": "西班牙为何接连发生致命高铁事故？",
+      "summary": "西班牙拥有世界上规模最大的高铁网络之一，线路总长仅次于中国。但两起接连发生的事故暴露出西班牙铁路安全体系的系统性缺陷。",
+      "link": "https://cn.wsj.com/articles/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BA%E4%BD%95%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E8%87%B4%E5%91%BD%E9%AB%98%E9%93%81%E4%BA%8B%E6%95%85-df576293",
+      "guid": "WP-WSJS-0004020950",
+      "pub_date": "Fri, 30 Oct 2026 00:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-24051768?size=1.494&width=1280",
+      "snapshot": "articles/e8-a5-bf-e7-8f-ad-e7-89-99-e4-b8-ba-e4-bd-95-e6--b1c3369d6f5c.html",
       "captured": true,
-      "capture_title": "俄罗斯防鼠疫研究所的安全隐患由来已久",
+      "capture_title": "西班牙为何接连发生致命高铁事故？",
       "error": ""
     },
     {
@@ -314,6 +302,90 @@
       "snapshot": "articles/apple-macbook-touch-screen-652f7095-c93ef45aade5.html",
       "captured": true,
       "capture_title": "实测苹果首款触屏MacBook：受众究竟是谁？",
+      "error": ""
+    },
+    {
+      "title": "币安暂停交易，调查疑似史上最大加密货币盗窃案",
+      "summary": "币安周四晚间表示，此次黑客攻击涉及的金额约为63亿美元。",
+      "link": "https://cn.wsj.com/articles/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-670af5cd",
+      "guid": "WP-WSJS-0004020784",
+      "pub_date": "Fri, 30 Oct 2026 10:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-68340011?size=1.501&width=1280",
+      "snapshot": "articles/binance-founder-says-exchange-may-be-victim-of-b-abdcbb7a0d16.html",
+      "captured": true,
+      "capture_title": "币安暂停交易，调查疑似史上最大加密货币盗窃案",
+      "error": ""
+    },
+    {
+      "title": "Alphabet市值蒸发5,000亿美元，股价创史上最差单日表现",
+      "summary": "投资者不得不正视一个现实：这家长期以来保持强劲增长和盈利的公司，在AI转型过程中面临艰难取舍。",
+      "link": "https://cn.wsj.com/articles/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-eae22dd1",
+      "guid": "WP-WSJS-0004020725",
+      "pub_date": "Thu, 29 Oct 2026 23:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-71996299?size=1.501&width=1280",
+      "snapshot": "articles/alphabet-sheds-half-a-trillion-in-market-value-i-89775e3b5973.html",
+      "captured": true,
+      "capture_title": "Alphabet市值蒸发5,000亿美元，股价创史上最差单日表现",
+      "error": ""
+    },
+    {
+      "title": "面对库存吃紧与中国挑战，美国寻求日本协助生产导弹",
+      "summary": "美日两国周三达成协议，将在日本设立一处设施，负责F-35战机关键武器——先进中程空对空导弹的总装与检测。",
+      "link": "https://cn.wsj.com/articles/as-missile-stockpiles-dwindle-and-china-looms-u-s-turns-to-japan-for-production-23f09c1a",
+      "guid": "WP-WSJS-0004020813",
+      "pub_date": "Thu, 29 Oct 2026 23:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-46850422?size=1.501&width=1280",
+      "snapshot": "articles/as-missile-stockpiles-dwindle-and-china-looms-u--b6533b7ae939.html",
+      "captured": true,
+      "capture_title": "面对库存吃紧与中国挑战，美国寻求日本协助生产导弹",
+      "error": ""
+    },
+    {
+      "title": "AI热潮推动下，台湾经济保持两位数增速",
+      "summary": "周五公布的初步估计显示，7-9月当季，台湾GDP同比增长14.36%。",
+      "link": "https://cn.wsj.com/articles/taiwanmaintains-double-digit-growth-pace-on-ai-boom-5e812049",
+      "guid": "WP-WSJS-0004021670",
+      "pub_date": "Fri, 30 Oct 2026 08:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-65993012?size=1.5&width=1280",
+      "snapshot": "articles/taiwanmaintains-double-digit-growth-pace-on-ai-b-cf1e09f5fdfe.html",
+      "captured": true,
+      "capture_title": "AI热潮推动下，台湾经济保持两位数增速",
+      "error": ""
+    },
+    {
+      "title": "《星际迷航》皮卡德扮演者帕特里克·斯图尔特去世，终年86岁",
+      "summary": "他凭借《星际迷航：下一代》和《X战警》等影视作品享誉国际，且始终未曾远离舞台。",
+      "link": "https://cn.wsj.com/articles/patrick-stewart-star-treks-picard-is-dead-at-86-8c20f743",
+      "guid": "WP-WSJS-0004021407",
+      "pub_date": "Fri, 30 Oct 2026 05:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-43751428?size=0.99&width=1280",
+      "snapshot": "articles/patrick-stewart-star-treks-picard-is-dead-at-86--98a7cb0dcb5c.html",
+      "captured": true,
+      "capture_title": "《星际迷航》皮卡德扮演者帕特里克·斯图尔特去世，终年86岁",
+      "error": ""
+    },
+    {
+      "title": "特朗普政府在争取奥迪工厂落地的谈判中承诺关税减免",
+      "summary": "汽车制造商寻求缓解关税之痛之际，奥迪宣布在佐治亚州建设一座40亿美元装配厂。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%9C%A8%E4%BA%89%E5%8F%96%E5%A5%A5%E8%BF%AA%E5%B7%A5%E5%8E%82%E8%90%BD%E5%9C%B0%E7%9A%84%E8%B0%88%E5%88%A4%E4%B8%AD%E6%89%BF%E8%AF%BA%E5%85%B3%E7%A8%8E%E5%87%8F%E5%85%8D-b7e4cd6a",
+      "guid": "WP-WSJS-0004020845",
+      "pub_date": "Thu, 29 Oct 2026 23:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-20231655?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e5--d88d7760a328.html",
+      "captured": true,
+      "capture_title": "特朗普政府在争取奥迪工厂落地的谈判中承诺关税减免",
+      "error": ""
+    },
+    {
+      "title": "俄罗斯防鼠疫研究所的安全隐患由来已久",
+      "summary": "长期处于极度保密状态的西伯利亚研究所屡踩监管红线，就在该实验室一名生物学家死于神秘肺炎的数周前，该所刚刚因违规受罚。",
+      "link": "https://cn.wsj.com/articles/%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%B2%E9%BC%A0%E7%96%AB%E7%A0%94%E7%A9%B6%E6%89%80%E7%9A%84%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E7%94%B1%E6%9D%A5%E5%B7%B2%E4%B9%85-2a24f4e2",
+      "guid": "WP-WSJS-0004021228",
+      "pub_date": "Fri, 30 Oct 2026 03:30:00 GMT",
+      "image_url": "https://images.wsj.net/im-01882438?size=1.499&width=1280",
+      "snapshot": "articles/e4-bf-84-e7-bd-97-e6-96-af-e9-98-b2-e9-bc-a0-e7--d94a0500cbd1.html",
+      "captured": true,
+      "capture_title": "俄罗斯防鼠疫研究所的安全隐患由来已久",
       "error": ""
     },
     {
@@ -386,18 +458,6 @@
       "snapshot": "articles/e6-89-93-e9-80-a0-e7-be-8e-e5-9b-bd-e6-9c-80-e8--bc7797e24300.html",
       "captured": true,
       "capture_title": "打造美国最贵豪宅之一：3.11亿美元购地始末",
-      "error": ""
-    },
-    {
-      "title": "乔希·库什纳为何以76亿美元收购一家有150年历史的企业",
-      "summary": "一位了解库什纳想法的人士表示，收购ADT体现了库什纳的判断：风险投资行业正在变化，投资者最好的机会远不止于AI初创企业。",
-      "link": "https://cn.wsj.com/articles/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-c2e71f33",
-      "guid": "WP-WSJS-0004020919",
-      "pub_date": "Fri, 30 Oct 2026 00:30:00 GMT",
-      "image_url": "https://images.wsj.net/im-44480584?size=1.501&width=1280",
-      "snapshot": "articles/why-josh-kushners-firm-just-spent-7-6-billion-on-c167d80cf8b1.html",
-      "captured": true,
-      "capture_title": "乔希·库什纳为何以76亿美元收购一家有150年历史的企业 - WSJ",
       "error": ""
     },
     {
@@ -1142,66 +1202,6 @@
       "snapshot": "articles/e6-b2-99-e7-89-b9-e4-b8-bb-e5-af-bc-e7-9a-84-e9--699ee0223329.html",
       "captured": true,
       "capture_title": "沙特主导的部队刚集结即遭胡塞导弹袭击，致数十人死亡",
-      "error": ""
-    },
-    {
-      "title": "美国司法部再次起诉FBI前局长科米",
-      "summary": "根据新公开的法庭文件，美国司法部正试图第三次起诉特朗普的批评者、FBI前局长科米，这次指控他在10年前泄露国防信息。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%86%8D%E6%AC%A1%E8%B5%B7%E8%AF%89fbi%E5%89%8D%E5%B1%80%E9%95%BF%E7%A7%91%E7%B1%B3-87f910c8",
-      "guid": "WP-WSJS-0004009369",
-      "pub_date": "Tue, 27 Oct 2026 00:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-92254574?size=1.511&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-8f-b8-e6-b3-95-e9-83-a8-e5--5d34ae6c273a.html",
-      "captured": true,
-      "capture_title": "美国司法部再次起诉FBI前局长科米 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国造船业复兴正向地球另一端取经",
-      "summary": "韩国韩华是特朗普推动美国造船业复兴的关键参与者，后者在与中国的竞争中已丢失阵地。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E9%80%A0%E8%88%B9%E4%B8%9A%E5%A4%8D%E5%85%B4%E6%AD%A3%E5%90%91%E5%9C%B0%E7%90%83%E5%8F%A6%E4%B8%80%E7%AB%AF%E5%8F%96%E7%BB%8F-a309aebf",
-      "guid": "WP-WSJS-0004006460",
-      "pub_date": "Mon, 26 Oct 2026 01:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-97305278?size=1.37&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e9-80-a0-e8-88-b9-e4-b8-9a-e5--8b7eefa73644.html",
-      "captured": true,
-      "capture_title": "美国造船业复兴正向地球另一端取经",
-      "error": ""
-    },
-    {
-      "title": "为何如此多的消费者认为零售商在利用AI提价“杀熟”？",
-      "summary": "消费者担心沃尔玛、麦当劳等公司会根据个人资料或突发需求等大数据对商品提价，让自己沦为算法操纵的受害者。这些公司对此予否认。",
-      "link": "https://cn.wsj.com/articles/why-so-many-shoppers-think-retailers-are-using-ai-to-jack-up-prices-fca71984",
-      "guid": "WP-WSJS-0004006651",
-      "pub_date": "Mon, 26 Oct 2026 04:06:00 GMT",
-      "image_url": "https://images.wsj.net/im-90408320?size=1.501&width=1280",
-      "snapshot": "articles/why-so-many-shoppers-think-retailers-are-using-a-d10fd23f8271.html",
-      "captured": true,
-      "capture_title": "为何如此多的消费者认为零售商在利用AI提价“杀熟”？",
-      "error": ""
-    },
-    {
-      "title": "Meta拟融资至多950亿美元，为其AI增长提供动力",
-      "summary": "Meta的融资计划将加大支出，以支持其AI发展目标。",
-      "link": "https://cn.wsj.com/articles/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-1b9967a4",
-      "guid": "WP-WSJS-0004009233",
-      "pub_date": "Mon, 26 Oct 2026 23:44:00 GMT",
-      "image_url": "https://images.wsj.net/im-33170952?size=1.501&width=1280",
-      "snapshot": "articles/meta-plans-35-billion-stock-offering-to-power-ai-f775625524b0.html",
-      "captured": true,
-      "capture_title": "Meta拟融资至多950亿美元，为其AI增长提供动力 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国制造业就业岗位再度增加，但招聘规则已变",
-      "summary": "尽管美国制造业岗位正在重新增加，但向高科技自动化转型的趋势正催生出准入门槛更高的岗位。",
-      "link": "https://cn.wsj.com/articles/u-s-manufacturing-is-adding-jobs-again-but-the-hiring-rules-have-changed-86ff754e",
-      "guid": "WP-WSJS-0004006458",
-      "pub_date": "Mon, 26 Oct 2026 02:09:00 GMT",
-      "image_url": "https://images.wsj.net/im-36156423?size=1.333&width=1280",
-      "snapshot": "articles/u-s-manufacturing-is-adding-jobs-again-but-the-h-75ccda413415.html",
-      "captured": true,
-      "capture_title": "美国制造业就业岗位再度增加，但招聘规则已变",
       "error": ""
     }
   ]
