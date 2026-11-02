@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:56:40.512997+00:00",
+  "generated_at": "2026-11-02T21:39:08.202807+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-37472623?size=1.84&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-9b-be-e4-b8-bb-e5-af-bc-e6--45e4b6e131f8.html",
       "captured": true,
-      "capture_title": "美国曾主导海上优势，习近平正打破旧局 - WSJ",
+      "capture_title": "美国曾主导海上优势，习近平正打破旧局",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-64866198?size=1.5&width=1280",
       "snapshot": "articles/e5-8d-8e-e5-b0-94-e8-a1-97-e5-bc-80-e5-a7-8b-e6--653c00fc1703.html",
       "captured": true,
-      "capture_title": "华尔街开始掌握美国AI基建话语权 - WSJ",
+      "capture_title": "华尔街开始掌握美国AI基建话语权",
       "error": ""
     },
     {
@@ -57,11 +57,11 @@
       "summary": "这一设想旨在促成俄乌之间达成能源停火，但在欧洲多国政府中面临阻力。",
       "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8E%A8%E5%8A%A8%E6%81%A2%E5%A4%8D%E7%BB%8F%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%91%E6%AC%A7%E6%B4%B2%E9%94%80%E5%94%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94-83fcb5a0",
       "guid": "WP-WSJS-0004025818",
-      "pub_date": "Mon, 02 Nov 2026 03:21:00 GMT",
+      "pub_date": "Mon, 02 Nov 2026 11:56:00 GMT",
       "image_url": "https://images.wsj.net/im-54289893?size=1.446&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8e-a8-e5-8a-a8-e6-81-a2-e5--1657e1970f07.html",
       "captured": true,
-      "capture_title": "美国推动恢复经乌克兰向欧洲销售俄罗斯天然气 - WSJ",
+      "capture_title": "美国推动恢复经乌克兰向欧洲销售俄罗斯天然气",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-25443285?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-bb-8f-e6-b5-8e-e5-bc-ba-e5--fe5dce750cd1.html",
       "captured": true,
-      "capture_title": "美国经济强劲增长，但并未惠及所有群体 - WSJ",
+      "capture_title": "美国经济强劲增长，但并未惠及所有群体",
       "error": ""
     },
     {
@@ -85,7 +85,19 @@
       "image_url": "https://images.wsj.net/im-03668960?size=1.501&width=1280",
       "snapshot": "articles/judge-dismisses-trumps-lawsuit-against-wall-stre-18e301c46cdd.html",
       "captured": true,
-      "capture_title": "法官再度驳回特朗普诉《华尔街日报》出版商案 - WSJ",
+      "capture_title": "法官再度驳回特朗普诉《华尔街日报》出版商案",
+      "error": ""
+    },
+    {
+      "title": "走进“大理福尼亚”：中国年轻人的“躺平之都”告诉我的事",
+      "summary": "中国年轻人逃离内卷的潮流引发了官方担忧。然而，许多中国青年其实依然渴望重返职场。",
+      "link": "https://cn.wsj.com/articles/what-i-learned-in-dalifornia-chinas-laid-back-capital-of-doing-nothing-43b6a199",
+      "guid": "WP-WSJS-0004025973",
+      "pub_date": "Mon, 02 Nov 2026 05:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-03375628?size=1.25&width=1280",
+      "snapshot": "articles/what-i-learned-in-dalifornia-chinas-laid-back-ca-8b596dd3db5c.html",
+      "captured": true,
+      "capture_title": "走进“大理福尼亚”：中国年轻人的“躺平之都”告诉我的事 - WSJ",
       "error": ""
     },
     {
@@ -97,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-27376878?size=1.501&width=1280",
       "snapshot": "articles/panic-and-anger-spread-as-europes-great-pension--90e43328349c.html",
       "captured": true,
-      "capture_title": "欧洲养老契约渐趋瓦解：恐慌蔓延，民怨沸腾 - WSJ",
+      "capture_title": "欧洲养老契约渐趋瓦解：恐慌蔓延，民怨沸腾",
       "error": ""
     },
     {
@@ -109,19 +121,7 @@
       "image_url": "https://images.wsj.net/im-72596885?size=1&width=1280",
       "snapshot": "articles/behind-the-scenes-of-cryptos-biggest-nightmare-a-087f9250f8ee.html",
       "captured": true,
-      "capture_title": "加密货币行业至暗时刻：史上最大网络劫案幕后始末 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "伊朗如何重创美军基地，造成数十亿美元损失",
-      "summary": "卫星图像显示，二十多个设施的数百栋建筑物受损，这是迄今为止对破坏情况最全面的梳理。",
-      "link": "https://cn.wsj.com/articles/iran-war-us-bases-damage-6f18df9a",
-      "guid": "WP-WSJS-0004025716",
-      "pub_date": "Mon, 02 Nov 2026 03:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-15793009?size=1.5&width=1280",
-      "snapshot": "articles/iran-war-us-bases-damage-6f18df9a-fe6fd4171fcb.html",
-      "captured": true,
-      "capture_title": "伊朗如何重创美军基地，造成数十亿美元损失 - WSJ",
+      "capture_title": "加密货币行业至暗时刻：史上最大网络劫案幕后始末",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-82333148?size=1.25&width=1280",
       "snapshot": "articles/e6-8b-89-e5-8a-a0-e5-be-b7-e7-9a-84-e4-b8-8b-e4--9629973eb6b8.html",
       "captured": true,
-      "capture_title": "拉加德的下一幕独舞：捍卫日益落寞的全球主义秩序 - WSJ",
+      "capture_title": "拉加德的下一幕独舞：捍卫日益落寞的全球主义秩序",
       "error": ""
     },
     {
@@ -145,7 +145,19 @@
       "image_url": "https://images.wsj.net/im-29157171?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8a-95-e6-9c-ba-e8-80-85-e5--9ccfcbbef754.html",
       "captured": true,
-      "capture_title": "美国投机者和勘探者发现在格陵兰掘金并非易事 - WSJ",
+      "capture_title": "美国投机者和勘探者发现在格陵兰掘金并非易事",
+      "error": ""
+    },
+    {
+      "title": "伊朗如何重创美军基地，造成数十亿美元损失",
+      "summary": "卫星图像显示，二十多个设施的数百栋建筑物受损，这是迄今为止对破坏情况最全面的梳理。",
+      "link": "https://cn.wsj.com/articles/iran-war-us-bases-damage-6f18df9a",
+      "guid": "WP-WSJS-0004025716",
+      "pub_date": "Mon, 02 Nov 2026 03:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-15793009?size=1.5&width=1280",
+      "snapshot": "articles/iran-war-us-bases-damage-6f18df9a-fe6fd4171fcb.html",
+      "captured": true,
+      "capture_title": "伊朗如何重创美军基地，造成数十亿美元损失",
       "error": ""
     },
     {
@@ -157,7 +169,7 @@
       "image_url": "https://images.wsj.net/im-75319353?size=1.5&width=1280",
       "snapshot": "articles/ai-e9-a2-86-e5-9f-9f-e6-9c-80-e8-81-aa-e6-98-8e--d981224d969b.html",
       "captured": true,
-      "capture_title": "AI领域最聪明的人认为这是全球最重要的图表 - WSJ",
+      "capture_title": "AI领域最聪明的人认为这是全球最重要的图表",
       "error": ""
     },
     {
@@ -169,19 +181,7 @@
       "image_url": "https://images.wsj.net/im-06877397?size=1.499&width=1280",
       "snapshot": "articles/russias-shadow-fleet-turns-to-nets-and-rubber-ti-9cb2c1b843dc.html",
       "captured": true,
-      "capture_title": "俄罗斯“影子船队”如何抵挡无人机：简易防护网和橡胶轮胎 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "AI驱动的牛市面临这一头号威胁",
-      "summary": "2026年，强劲的盈利增长助推股市走高。到了2027年，这一引擎可能熄火。",
-      "link": "https://cn.wsj.com/articles/this-is-the-biggest-threat-to-the-ai-powered-bull-market-480d5e89",
-      "guid": "WP-WSJS-0004025694",
-      "pub_date": "Mon, 02 Nov 2026 01:43:00 GMT",
-      "image_url": "https://images.mktw.net/im-72130104?size=1.44&width=1280",
-      "snapshot": "articles/this-is-the-biggest-threat-to-the-ai-powered-bul-1a11ab1ad7bd.html",
-      "captured": true,
-      "capture_title": "AI驱动的牛市面临这一头号威胁 - WSJ",
+      "capture_title": "俄罗斯“影子船队”如何抵挡无人机：简易防护网和橡胶轮胎",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-12483996?size=1.501&width=1280",
       "snapshot": "articles/the-sudden-death-of-an-nvidia-ai-prodigy-leaves--5e1139ab1542.html",
       "captured": true,
-      "capture_title": "英伟达一位AI天才突然离世，他的妻子受到尖锐指控 - WSJ",
+      "capture_title": "英伟达一位AI天才突然离世，他的妻子受到尖锐指控",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-81705813?size=1.5053763440860215&width=1280",
       "snapshot": "articles/e4-bc-81-e4-b8-9a-e5-ba-94-e5-af-b9-e6-8a-80-e5--74dfb4e01c90.html",
       "captured": true,
-      "capture_title": "企业应对技工短缺之道：招募更多女性 - WSJ",
+      "capture_title": "企业应对技工短缺之道：招募更多女性",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-81428095?size=1.499&width=1280",
       "snapshot": "articles/openai-e6-9c-80-e6-96-b0-e8-9e-8d-e8-b5-84-e8-bd-fce58b2ad2a1.html",
       "captured": true,
-      "capture_title": "OpenAI最新融资轮中的募资额不足300亿美元目标的一半 - WSJ",
+      "capture_title": "OpenAI最新融资轮中的募资额不足300亿美元目标的一半",
       "error": ""
     },
     {
@@ -302,6 +302,18 @@
       "snapshot": "articles/scott-gillen-the-case-malibu-e84c3247-dbc758a45eda.html",
       "captured": true,
       "capture_title": "打造全美最贵住宅区的宏图为何走向崩盘",
+      "error": ""
+    },
+    {
+      "title": "AI驱动的牛市面临这一头号威胁",
+      "summary": "2026年，强劲的盈利增长助推股市走高。到了2027年，这一引擎可能熄火。",
+      "link": "https://cn.wsj.com/articles/this-is-the-biggest-threat-to-the-ai-powered-bull-market-480d5e89",
+      "guid": "WP-WSJS-0004025694",
+      "pub_date": "Mon, 02 Nov 2026 01:43:00 GMT",
+      "image_url": "https://images.mktw.net/im-72130104?size=1.44&width=1280",
+      "snapshot": "articles/this-is-the-biggest-threat-to-the-ai-powered-bul-1a11ab1ad7bd.html",
+      "captured": true,
+      "capture_title": "AI驱动的牛市面临这一头号威胁 - WSJ",
       "error": ""
     },
     {
@@ -1190,18 +1202,6 @@
       "snapshot": "articles/e8-b7-b3-e6-a7-bd-e6-88-96-e8-ae-b8-e5-b9-b6-e9--d13291c6b265.html",
       "captured": true,
       "capture_title": "跳槽或许并非最明智的职业选择",
-      "error": ""
-    },
-    {
-      "title": "哈佛最“虐”的一门课，为何突然火了？",
-      "summary": "阅读量大得惊人，拿A也绝非易事。既然如此，为什么大一新生还争着选修“人文学科10”？",
-      "link": "https://cn.wsj.com/articles/-harvard-class-humanities-cdbfdefc",
-      "guid": "WP-WSJS-0004013024",
-      "pub_date": "Wed, 28 Oct 2026 02:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-32861000?size=1.501&width=1280",
-      "snapshot": "articles/harvard-class-humanities-cdbfdefc-dc54a8a737a6.html",
-      "captured": true,
-      "capture_title": "哈佛最“虐”的一门课，为何突然火了？ - WSJ",
       "error": ""
     }
   ]

@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 10:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 21:33:51 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 10:44:22 GMT</pubDate>
+        <pubDate>Mon, 02 Nov 2026 21:33:51 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -60,7 +60,7 @@
             <description><![CDATA[<img width="1280" height="885" src="https://images.wsj.net/im-54289893?size=1.446&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这一设想旨在促成俄乌之间达成能源停火，但在欧洲多国政府中面临阻力。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8E%A8%E5%8A%A8%E6%81%A2%E5%A4%8D%E7%BB%8F%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%91%E6%AC%A7%E6%B4%B2%E9%94%80%E5%94%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94-83fcb5a0</link>
             <guid isPermaLink="false">WP-WSJS-0004025818</guid>
-            <pubDate>Mon, 02 Nov 2026 03:21:00 GMT</pubDate>
+            <pubDate>Mon, 02 Nov 2026 11:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国经济强劲增长，但并未惠及所有群体]]></title>
@@ -77,6 +77,13 @@
             <pubDate>Mon, 02 Nov 2026 00:40:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[走进“大理福尼亚”：中国年轻人的“躺平之都”告诉我的事]]></title>
+            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-03375628?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国年轻人逃离内卷的潮流引发了官方担忧。然而，许多中国青年其实依然渴望重返职场。</p>]]></description>
+            <link>https://cn.wsj.com/articles/what-i-learned-in-dalifornia-chinas-laid-back-capital-of-doing-nothing-43b6a199</link>
+            <guid isPermaLink="false">WP-WSJS-0004025973</guid>
+            <pubDate>Mon, 02 Nov 2026 05:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[欧洲养老契约渐趋瓦解：恐慌蔓延，民怨沸腾]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-27376878?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>欧洲各国政府在兑现未来退休人员的应得福利上面临巨大压力，令本就脆弱的代际契约受到威胁。</p>]]></description>
             <link>https://cn.wsj.com/articles/panic-and-anger-spread-as-europes-great-pension-covenant-unravels-8dc9d44b</link>
@@ -89,13 +96,6 @@
             <link>https://cn.wsj.com/articles/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-7adc8426</link>
             <guid isPermaLink="false">WP-WSJS-0004025653</guid>
             <pubDate>Mon, 02 Nov 2026 01:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗如何重创美军基地，造成数十亿美元损失]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15793009?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卫星图像显示，二十多个设施的数百栋建筑物受损，这是迄今为止对破坏情况最全面的梳理。</p>]]></description>
-            <link>https://cn.wsj.com/articles/iran-war-us-bases-damage-6f18df9a</link>
-            <guid isPermaLink="false">WP-WSJS-0004025716</guid>
-            <pubDate>Mon, 02 Nov 2026 03:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[拉加德的下一幕独舞：捍卫日益落寞的全球主义秩序]]></title>
@@ -112,6 +112,13 @@
             <pubDate>Mon, 02 Nov 2026 06:33:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[伊朗如何重创美军基地，造成数十亿美元损失]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15793009?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卫星图像显示，二十多个设施的数百栋建筑物受损，这是迄今为止对破坏情况最全面的梳理。</p>]]></description>
+            <link>https://cn.wsj.com/articles/iran-war-us-bases-damage-6f18df9a</link>
+            <guid isPermaLink="false">WP-WSJS-0004025716</guid>
+            <pubDate>Mon, 02 Nov 2026 03:48:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI领域最聪明的人认为这是全球最重要的图表]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-75319353?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI公司表示，它们如今已经看到了递归式自我改进的早期迹象。这一过程正在加快它们的研究进展，也让所有人惶恐不安。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai%E9%A2%86%E5%9F%9F%E6%9C%80%E8%81%AA%E6%98%8E%E7%9A%84%E4%BA%BA%E8%AE%A4%E4%B8%BA%E8%BF%99%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%9B%BE%E8%A1%A8-8a4af98b</link>
@@ -124,13 +131,6 @@
             <link>https://cn.wsj.com/articles/russias-shadow-fleet-turns-to-nets-and-rubber-tires-for-makeshift-drone-armor-66eccf27</link>
             <guid isPermaLink="false">WP-WSJS-0004025547</guid>
             <pubDate>Mon, 02 Nov 2026 00:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI驱动的牛市面临这一头号威胁]]></title>
-            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-72130104?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>2026年，强劲的盈利增长助推股市走高。到了2027年，这一引擎可能熄火。</p>]]></description>
-            <link>https://cn.wsj.com/articles/this-is-the-biggest-threat-to-the-ai-powered-bull-market-480d5e89</link>
-            <guid isPermaLink="false">WP-WSJS-0004025694</guid>
-            <pubDate>Mon, 02 Nov 2026 01:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[英伟达一位AI天才突然离世，他的妻子受到尖锐指控]]></title>
@@ -245,11 +245,11 @@
             <pubDate>Mon, 02 Nov 2026 00:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[走进“大理福尼亚”：中国年轻人的“躺平之都”告诉我的事]]></title>
-            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-03375628?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国年轻人逃离内卷的潮流引发了官方担忧。然而，许多中国青年其实依然渴望重返职场。</p>]]></description>
-            <link>https://cn.wsj.com/articles/what-i-learned-in-dalifornia-chinas-laid-back-capital-of-doing-nothing-43b6a199</link>
-            <guid isPermaLink="false">WP-WSJS-0004025973</guid>
-            <pubDate>Mon, 02 Nov 2026 05:54:00 GMT</pubDate>
+            <title><![CDATA[以“纸生仔”为弈局：我家族对抗美国排华法案的隐秘往事]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-64988596?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在严苛移民政策的逼迫下，我的祖父只能顶着伪造的身份度日；他终生隐匿的这个秘密，许多华裔美国人直到今天才开始敢于正视与公开承认。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BB%A5-%E7%BA%B8%E7%94%9F%E4%BB%94-%E4%B8%BA%E5%BC%88%E5%B1%80-%E6%88%91%E5%AE%B6%E6%97%8F%E5%AF%B9%E6%8A%97%E7%BE%8E%E5%9B%BD%E6%8E%92%E5%8D%8E%E6%B3%95%E6%A1%88%E7%9A%84%E9%9A%90%E7%A7%98%E5%BE%80%E4%BA%8B-767bb255</link>
+            <guid isPermaLink="false">WP-WSJS-0004026243</guid>
+            <pubDate>Mon, 02 Nov 2026 10:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[他们卖掉全部家当住上邮轮，如今却滞留柬埔寨]]></title>
