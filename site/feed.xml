@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 05:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 13:58:31 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 05:57:12 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 13:58:31 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -35,11 +35,11 @@
             <pubDate>Mon, 02 Nov 2026 09:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[从中期选举选战看美国政治走向]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-09266334?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在这个竞选季，人们对政治体制失灵的愤怒，暴露出两党内部非同寻常的分裂。</p>]]></description>
-            <link>https://cn.wsj.com/articles/what-the-midterms-campaign-tells-us-about-where-our-politics-are-headed-bba5ec63</link>
-            <guid isPermaLink="false">WP-WSJS-0004028794</guid>
-            <pubDate>Tue, 03 Nov 2026 03:56:00 GMT</pubDate>
+            <title><![CDATA[美国中期选举：投票日五大看点]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-51268821?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>关键选区的早期选情、中西部一个州的投票走向，以及阿拉斯加州引发的参选争议，均可能决定国会控制权的最终归属。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E6%8A%95%E7%A5%A8%E6%97%A5%E4%BA%94%E5%A4%A7%E7%9C%8B%E7%82%B9-1ba4bcb5</link>
+            <guid isPermaLink="false">WP-WSJS-0004029280</guid>
+            <pubDate>Tue, 03 Nov 2026 11:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普淡化战争风险之际，美国袭击伊朗格什姆岛]]></title>
@@ -49,13 +49,6 @@
             <pubDate>Tue, 03 Nov 2026 01:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果公司增长引擎放缓，涨价未必能救场]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52153454?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在财报电话会议上，苹果公布了低于华尔街预期的预测，称毛利率将继续下降。此后，股价一度下跌多达4%。</p>]]></description>
-            <link>https://cn.wsj.com/articles/apple-beats-wall-street-expectations-with-boost-from-higher-prices-ebd33123</link>
-            <guid isPermaLink="false">WP-WSJS-0004028213</guid>
-            <pubDate>Mon, 02 Nov 2026 23:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[中国电动汽车制造商在本土市场低迷之际倚重出口]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-26935818?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>10月份中国电动汽车制造商的销量情况进一步印证了这样一种观点：在本土市场疲软之际，该行业正更加倚重出口来拉动增长。</p>]]></description>
             <link>https://cn.wsj.com/articles/chineseev-makers-lean-on-exports-as-home-market-sinks-240313f7</link>
@@ -63,18 +56,25 @@
             <pubDate>Tue, 03 Nov 2026 02:02:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[苹果公司增长引擎放缓，涨价未必能救场]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-52153454?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在财报电话会议上，苹果公布了低于华尔街预期的预测，称毛利率将继续下降。此后，股价一度下跌多达4%。</p>]]></description>
+            <link>https://cn.wsj.com/articles/apple-beats-wall-street-expectations-with-boost-from-higher-prices-ebd33123</link>
+            <guid isPermaLink="false">WP-WSJS-0004028213</guid>
+            <pubDate>Mon, 02 Nov 2026 23:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰人的“隐形战役”：近三成平民患PTSD，努力拼凑破碎生活]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-51659471?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>最新研究发现，近三分之一的乌克兰平民出现创伤后应激障碍症状。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E7%9A%84-%E9%9A%90%E5%BD%A2%E6%88%98%E5%BD%B9-%E8%BF%91%E4%B8%89%E6%88%90%E5%B9%B3%E6%B0%91%E6%82%A3ptsd-%E5%8A%AA%E5%8A%9B%E6%8B%BC%E5%87%91%E7%A0%B4%E7%A2%8E%E7%94%9F%E6%B4%BB-c7fe9bc8</link>
+            <guid isPermaLink="false">WP-WSJS-0004028895</guid>
+            <pubDate>Tue, 03 Nov 2026 05:57:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[投资者推动Anthropic将IPO估值目标审慎下调至约1.5万亿美元]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-64248944?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>科技股上周大跌后，计划参与Anthropic首次公开募股的大型投资者正一致倾向于给予这家AI巨头更低的估值。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%8A%95%E8%B5%84%E8%80%85%E6%8E%A8%E5%8A%A8anthropic%E5%B0%86ipo%E4%BC%B0%E5%80%BC%E7%9B%AE%E6%A0%87%E5%AE%A1%E6%85%8E%E4%B8%8B%E8%B0%83%E8%87%B3%E7%BA%A61-5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83-7e050a64</link>
             <guid isPermaLink="false">WP-WSJS-0004028345</guid>
             <pubDate>Mon, 02 Nov 2026 23:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国推动恢复经乌克兰向欧洲销售俄罗斯天然气]]></title>
-            <description><![CDATA[<img width="1280" height="885" src="https://images.wsj.net/im-54289893?size=1.446&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这一设想旨在促成俄乌之间达成能源停火，但在欧洲多国政府中面临阻力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8E%A8%E5%8A%A8%E6%81%A2%E5%A4%8D%E7%BB%8F%E4%B9%8C%E5%85%8B%E5%85%B0%E5%90%91%E6%AC%A7%E6%B4%B2%E9%94%80%E5%94%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94-83fcb5a0</link>
-            <guid isPermaLink="false">WP-WSJS-0004025818</guid>
-            <pubDate>Mon, 02 Nov 2026 11:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[走进“大理福尼亚”：中国年轻人的“躺平之都”告诉我的事]]></title>
@@ -98,18 +98,18 @@
             <pubDate>Mon, 02 Nov 2026 01:20:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[朝鲜否认参与币安盗窃案，急于摆脱“流氓国家”形象]]></title>
+            <description><![CDATA[<img width="1280" height="931" src="https://images.wsj.net/im-07209179?size=1.38&width=1280" class="webfeedsFeaturedVisual" alt=""/><p></p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%9C%9D%E9%B2%9C%E5%90%A6%E8%AE%A4%E5%8F%82%E4%B8%8E%E5%B8%81%E5%AE%89%E7%9B%97%E7%AA%83%E6%A1%88-%E6%80%A5%E4%BA%8E%E6%91%86%E8%84%B1-%E6%B5%81%E6%B0%93%E5%9B%BD%E5%AE%B6-%E5%BD%A2%E8%B1%A1-9ad152c2</link>
+            <guid isPermaLink="false">WP-WSJS-0004029129</guid>
+            <pubDate>Tue, 03 Nov 2026 09:58:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[最划算的大学选择：标价高昂的顶尖文理学院]]></title>
             <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-91747053?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卖点：我们比州立大学便宜。</p>]]></description>
             <link>https://cn.wsj.com/articles/the-best-college-bargain-is-a-super-pricey-elite-liberal-arts-school-dc0fa19f</link>
             <guid isPermaLink="false">WP-WSJS-0004028789</guid>
             <pubDate>Tue, 03 Nov 2026 03:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[与黄仁勋关系密切的中国籍高管被疑向中国提供信息]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-99253309?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士称，美国官员去年认定，中国公民Alice Huang在担任数据中心行业高管期间，一边与英伟达合作，一边向中国政府分享信息。</p>]]></description>
-            <link>https://cn.wsj.com/articles/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-a5a5f300</link>
-            <guid isPermaLink="false">WP-WSJS-0004021966</guid>
-            <pubDate>Sun, 01 Nov 2026 23:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[英国为“末日”做准备，政客们却在囤睫毛膏和白葡萄酒]]></title>
@@ -175,6 +175,13 @@
             <pubDate>Tue, 03 Nov 2026 00:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[与黄仁勋关系密切的中国籍高管被疑向中国提供信息]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-99253309?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士称，美国官员去年认定，中国公民Alice Huang在担任数据中心行业高管期间，一边与英伟达合作，一边向中国政府分享信息。</p>]]></description>
+            <link>https://cn.wsj.com/articles/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-a5a5f300</link>
+            <guid isPermaLink="false">WP-WSJS-0004021966</guid>
+            <pubDate>Sun, 01 Nov 2026 23:54:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[我们正生活在帝王式CEO的时代]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-06559516?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI巨头Anthropic公开提交的招股说明书详细披露了赋予该公司七位创始人的投票权，而这些权力是以牺牲潜在投资者的权益为代价的。</p>]]></description>
             <link>https://cn.wsj.com/articles/anthropic-ipo-dual-class-stock-founder-control-ccc6b030</link>
@@ -210,11 +217,11 @@
             <pubDate>Mon, 02 Nov 2026 03:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯“影子船队”如何抵挡无人机：简易防护网和橡胶轮胎]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-06877397?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>石油出口是俄罗斯战争资金的重要来源，乌克兰正针对其能源出口发动无人机袭击。</p>]]></description>
-            <link>https://cn.wsj.com/articles/russias-shadow-fleet-turns-to-nets-and-rubber-tires-for-makeshift-drone-armor-66eccf27</link>
-            <guid isPermaLink="false">WP-WSJS-0004025547</guid>
-            <pubDate>Mon, 02 Nov 2026 00:25:00 GMT</pubDate>
+            <title><![CDATA[从中期选举选战看美国政治走向]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-09266334?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在这个竞选季，人们对政治体制失灵的愤怒，暴露出两党内部非同寻常的分裂。</p>]]></description>
+            <link>https://cn.wsj.com/articles/what-the-midterms-campaign-tells-us-about-where-our-politics-are-headed-bba5ec63</link>
+            <guid isPermaLink="false">WP-WSJS-0004028794</guid>
+            <pubDate>Tue, 03 Nov 2026 03:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中期选举无法解决消费者的现实困境]]></title>
@@ -222,6 +229,13 @@
             <link>https://cn.wsj.com/articles/the-midterms-wont-fix-what-ails-consumers-0ae28259</link>
             <guid isPermaLink="false">WP-WSJS-0004028540</guid>
             <pubDate>Tue, 03 Nov 2026 00:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政强硬派为何销声匿迹？]]></title>
+            <description><![CDATA[<img width="1280" height="1227" src="https://images.wsj.net/im-90428942?size=1.043&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国国家债务正以前所未有的速度增长，却几乎无人准备出手遏制这一势头。</p>]]></description>
+            <link>https://cn.wsj.com/articles/fiscal-hawks-national-debt-midterms-gdp-e0eb1adb</link>
+            <guid isPermaLink="false">WP-WSJS-0004028917</guid>
+            <pubDate>Tue, 03 Nov 2026 05:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[预测市场频频误判，中期选举也会失准吗？]]></title>
@@ -236,20 +250,6 @@
             <link>https://cn.wsj.com/articles/how-rep-haley-stevens-turned-on-a-fellow-democratand-became-a-party-pariah-47c904b9</link>
             <guid isPermaLink="false">WP-WSJS-0004026063</guid>
             <pubDate>Mon, 02 Nov 2026 06:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党内斗升温，选举加剧党内未来路线之争]]></title>
-            <description><![CDATA[<img width="1280" height="931" src="https://images.wsj.net/im-55135884?size=1.375&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>民主党的温和派与极左派已开始相互指责，争论谁在中期选举中给民主党造成的伤害更大。</p>]]></description>
-            <link>https://cn.wsj.com/articles/democratic-infighting-flares-as-election-accelerates-battle-for-partys-future-2b050e60</link>
-            <guid isPermaLink="false">WP-WSJS-0004025866</guid>
-            <pubDate>Mon, 02 Nov 2026 03:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿拉斯加何以成为全美最混乱的参议院竞选战场？]]></title>
-            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-23269066?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>民主党人本打算牢牢聚焦于特朗普以及高昂的取暖油账单，但“十月惊奇”赫然降临。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E5%85%A8%E7%BE%8E%E6%9C%80%E6%B7%B7%E4%B9%B1%E7%9A%84%E5%8F%82%E8%AE%AE%E9%99%A2%E7%AB%9E%E9%80%89%E6%88%98%E5%9C%BA-6b98da44</link>
-            <guid isPermaLink="false">WP-WSJS-0004021409</guid>
-            <pubDate>Fri, 30 Oct 2026 06:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[以“纸生仔”为弈局：我家族对抗美国排华法案的隐秘往事]]></title>
