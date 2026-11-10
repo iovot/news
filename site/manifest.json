@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-10T06:55:35.864576+00:00",
+  "generated_at": "2026-11-10T16:58:00.685838+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "间谍风波暴露英伟达治理真空",
-      "summary": "这家芯片巨头既没有董事长，也没有接班人计划，此前还曾否认黄仁勋的婚外情。以上种种凸显英伟达董事会凡事都按照CEO黄仁勋的方式行事。",
-      "link": "https://cn.wsj.com/articles/%E9%97%B4%E8%B0%8D%E9%A3%8E%E6%B3%A2%E6%9A%B4%E9%9C%B2%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B2%BB%E7%90%86%E7%9C%9F%E7%A9%BA-6e2d91cc",
-      "guid": "WP-WSJS-0004049479",
-      "pub_date": "Tue, 10 Nov 2026 05:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-71450509?size=1&width=1280",
-      "snapshot": "articles/e9-97-b4-e8-b0-8d-e9-a3-8e-e6-b3-a2-e6-9a-b4-e9--92b8ea9d994e.html",
+      "title": "黄仁勋的婚外情如何演变成一场国家安全噩梦",
+      "summary": "英伟达首席执行官黄仁勋承认与一名被指为中国从事间谍活动的女子有婚外情，而他曾极力游说特朗普放宽出口管制。",
+      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E5%A9%9A%E5%A4%96%E6%83%85%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98%E6%88%90%E4%B8%80%E5%9C%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%99%A9%E6%A2%A6-e6ac6f06",
+      "guid": "WP-WSJS-0004049581",
+      "pub_date": "Tue, 10 Nov 2026 07:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-27975131?size=1.501&width=1280",
+      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e7-9a-84-e5-a9-9a-e5--dd8a80261c9d.html",
       "captured": true,
-      "capture_title": "间谍风波暴露英伟达治理真空 - WSJ",
+      "capture_title": "黄仁勋的婚外情如何演变成一场国家安全噩梦 - WSJ",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-18001315?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e4-b8-8d-e8-ae-a4-e5--9fec9aeb3ff0.html",
       "captured": true,
-      "capture_title": "黄仁勋不认同接班人计划已成英伟达最大隐患 - WSJ",
+      "capture_title": "黄仁勋不认同接班人计划已成英伟达最大隐患",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-04824995?size=1.501&width=1280",
       "snapshot": "articles/the-chinese-woman-at-the-center-of-a-spy-probe-a-1818355e8d86.html",
       "captured": true,
-      "capture_title": "与黄仁勋有过婚外情后成为间谍调查焦点的中国女子 - WSJ",
+      "capture_title": "与黄仁勋有过婚外情后成为间谍调查焦点的中国女子",
       "error": ""
     },
     {
@@ -53,15 +53,15 @@
       "error": ""
     },
     {
-      "title": "中国10月出口增速放缓，进口激增",
-      "summary": "中国10月出口同比增长35.2%，低于9月36.3%的增幅；进口同比增长41.6%，快于9月31.0%的增幅。",
+      "title": "中国10月贸易顺差突破万亿美元大关",
+      "summary": "尽管经济低迷、全球贸易局势紧张，中国出口仍持续大幅增长。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%80%9F%E6%94%BE%E7%BC%93-%E8%BF%9B%E5%8F%A3%E6%BF%80%E5%A2%9E-e3e37983",
       "guid": "WP-WSJS-0004049281",
-      "pub_date": "Tue, 10 Nov 2026 03:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-66171014?size=1.501&width=1280",
+      "pub_date": "Tue, 10 Nov 2026 06:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-23232450?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd10-e6-9c-88-e5-87-ba-e5-8f-a3-e-d3c203257568.html",
       "captured": true,
-      "capture_title": "中国10月贸易顺差突破万亿美元大关 - WSJ",
+      "capture_title": "中国10月贸易顺差突破万亿美元大关",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-33126043?size=1.499&width=1280",
       "snapshot": "articles/e4-ba-9a-e6-b4-b2-e8-82-a1-e5-b8-82-e9-87-8d-e6--442c3975c5bc.html",
       "captured": true,
-      "capture_title": "亚洲股市重挫，新一代投资者被套 - WSJ",
+      "capture_title": "亚洲股市重挫，新一代投资者被套",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-46100989?size=1.501&width=1280",
       "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e8-83-9c-e9-80-89-e5--e93c03ae05e2.html",
       "captured": true,
-      "capture_title": "民主党胜选后迅速着手调查美国企业巨头 - WSJ",
+      "capture_title": "民主党胜选后迅速着手调查美国企业巨头",
       "error": ""
     },
     {
@@ -97,7 +97,19 @@
       "image_url": "https://images.wsj.net/im-34888661?size=1.5053763440860215&width=1280",
       "snapshot": "articles/e4-b8-ad-e6-9c-9f-e9-80-89-e4-b8-be-e6-83-a8-e8--3884f8586cce.html",
       "captured": true,
-      "capture_title": "中期选举惨败令万斯更难决定是否参加2028年总统竞选 - WSJ",
+      "capture_title": "中期选举惨败令万斯更难决定是否参加2028年总统竞选",
+      "error": ""
+    },
+    {
+      "title": "加州选民否决全美首例“亿万富豪税”",
+      "summary": "加州富豪阶层斥巨资成功阻击了一项旨在通过财富税来筹集医疗资金的提案。",
+      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E5%B7%9E%E9%80%89%E6%B0%91%E5%90%A6%E5%86%B3%E5%85%A8%E7%BE%8E%E9%A6%96%E4%BE%8B-%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%A8%8E-81c7aa84",
+      "guid": "WP-WSJS-0004049322",
+      "pub_date": "Tue, 10 Nov 2026 06:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-01163445?size=1.501&width=1280",
+      "snapshot": "articles/e5-8a-a0-e5-b7-9e-e9-80-89-e6-b0-91-e5-90-a6-e5--7a676009b55a.html",
+      "captured": true,
+      "capture_title": "加州选民否决全美首例“亿万富豪税”",
       "error": ""
     },
     {
@@ -109,19 +121,7 @@
       "image_url": "https://images.wsj.net/im-11647812?size=1.499&width=1280",
       "snapshot": "articles/e7-be-8e-e5-85-b1-e5-92-8c-e5-85-9a-e8-ae-ae-e5--82ee1f33893a.html",
       "captured": true,
-      "capture_title": "美共和党议员提交弹劾议案，赫格塞思准备迎战 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "加州选民否决全美首例“亿万富豪税”",
-      "summary": "加州富豪阶层斥巨资成功阻击了一项旨在通过财富税来筹集医疗资金的提案。",
-      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E5%B7%9E%E9%80%89%E6%B0%91%E5%90%A6%E5%86%B3%E5%85%A8%E7%BE%8E%E9%A6%96%E4%BE%8B-%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%A8%8E-81c7aa84",
-      "guid": "WP-WSJS-0004049322",
-      "pub_date": "Tue, 10 Nov 2026 04:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-01163445?size=1.501&width=1280",
-      "snapshot": "articles/e5-8a-a0-e5-b7-9e-e9-80-89-e6-b0-91-e5-90-a6-e5--7a676009b55a.html",
-      "captured": true,
-      "capture_title": "加州选民否决全美首例“亿万富豪税” - WSJ",
+      "capture_title": "美共和党议员提交弹劾议案，赫格塞思准备迎战",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-19788301?size=1.499&width=1280",
       "snapshot": "articles/u-s-balks-at-chinas-demand-for-tightly-scripted--7c1c68f847e7.html",
       "captured": true,
-      "capture_title": "中国要求特朗普、习近平和普京峰会严格按预定脚本进行，美国不愿接受 - WSJ",
+      "capture_title": "中国要求特朗普、习近平和普京峰会严格按预定脚本进行，美国不愿接受",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-51032362?size=1.502&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-96-b0-e4-b8-80-e4-bb-a3-e6--236df06383bc.html",
       "captured": true,
-      "capture_title": "美国新一代摇摆选民：年轻、就业受挫且深感幻灭 - WSJ",
+      "capture_title": "美国新一代摇摆选民：年轻、就业受挫且深感幻灭",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-37420111?size=1.333&width=1280",
       "snapshot": "articles/e5-b8-a6-e5-ad-a9-e5-ad-90-e6-89-be-e8-80-81-e5--109733a05813.html",
       "captured": true,
-      "capture_title": "带孩子找老外练英语最成体系的地方：越南 - WSJ",
+      "capture_title": "带孩子找老外练英语最成体系的地方：越南",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-97825307?size=1.501&width=1280",
       "snapshot": "articles/the-parents-suing-schools-because-their-kids-got-440a5ba78839.html",
       "captured": true,
-      "capture_title": "孩子成绩不佳，这些家长把学校告上法庭 - WSJ",
+      "capture_title": "孩子成绩不佳，这些家长把学校告上法庭",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-98777595?size=1.499&width=1280",
       "snapshot": "articles/anthropic-e5-9c-a8ipo-e5-89-8d-e5-8f-91-e5-b8-83-71c81fe63dd3.html",
       "captured": true,
-      "capture_title": "Anthropic在IPO前发布Fable和Mythos模型升级版 - WSJ",
+      "capture_title": "Anthropic在IPO前发布Fable和Mythos模型升级版",
       "error": ""
     },
     {
@@ -241,7 +241,19 @@
       "image_url": "https://images.wsj.net/im-24523589?size=2.234&width=1280",
       "snapshot": "articles/https-cn-wsj-com-articles-wp-wsjs-0003644454-37c-72674013fca2.html",
       "captured": true,
-      "capture_title": "药明康德被移出五角大楼的中国涉军企业名单 - WSJ",
+      "capture_title": "药明康德被移出五角大楼的中国涉军企业名单",
+      "error": ""
+    },
+    {
+      "title": "美国监管机构警告称GLP-1类药物可能带来罕见的致盲风险",
+      "summary": "分析发现，每年每10万名服用GLP-1药物的人中约有6例NAION病例。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%AD%A6%E5%91%8A%E7%A7%B0glp-1%E7%B1%BB%E8%8D%AF%E7%89%A9%E5%8F%AF%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%BD%95%E8%A7%81%E7%9A%84%E8%87%B4%E7%9B%B2%E9%A3%8E%E9%99%A9-ca0b40f1",
+      "guid": "WP-WSJS-0004049552",
+      "pub_date": "Tue, 10 Nov 2026 07:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-33344327?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-9b-91-e7-ae-a1-e6-9c-ba-e6--8ab5fd740837.html",
+      "captured": true,
+      "capture_title": "美国监管机构警告称GLP-1类药物可能带来罕见的致盲风险 - WSJ",
       "error": ""
     },
     {
@@ -265,7 +277,7 @@
       "image_url": "https://images.wsj.net/im-41454326?size=1.499&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e9-99-8d-e4-bd-8e-e7--bd49123ba7d4.html",
       "captured": true,
-      "capture_title": "特朗普降低美国药价的计划正导致欧洲上市新药减少 - WSJ",
+      "capture_title": "特朗普降低美国药价的计划正导致欧洲上市新药减少",
       "error": ""
     },
     {
@@ -281,18 +293,6 @@
       "error": ""
     },
     {
-      "title": "帮助黑客洗白币安被盗巨款的隐秘加密货币服务",
-      "summary": "一些加密货币开发者表示，他们无法阻止朝鲜黑客利用其平台清洗赃款，令执法部门受挫。",
-      "link": "https://cn.wsj.com/articles/%E5%8A%A9%E5%B8%81%E5%AE%89%E7%9B%97%E7%AA%83%E6%A1%88%E9%BB%91%E5%AE%A2%E6%B4%97%E9%92%B1%E7%9A%84%E9%9A%90%E7%A7%98%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%9C%8D%E5%8A%A1-cb7579f9",
-      "guid": "WP-WSJS-0004045726",
-      "pub_date": "Mon, 09 Nov 2026 03:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-72834728?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e5-8a-a9-e5-b8-81-e5-ae-89-e7-9b-97-e7-aa-83-e6--ebfb1d018071.html",
-      "captured": true,
-      "capture_title": "帮助黑客洗白币安被盗巨款的隐秘加密货币服务",
-      "error": ""
-    },
-    {
       "title": "图解全球两亿多人如何陷于黑帮与游击队统治之下",
       "summary": "贩毒集团、犯罪组织和叛乱团体在全球60个国家建立起“影子政权”，在执法机构触及不到的地方非法转移数以十亿美元计的资金。",
       "link": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E5%85%A8%E7%90%83%E4%B8%A4%E4%BA%BF%E5%A4%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%99%B7%E4%BA%8E%E9%BB%91%E5%B8%AE%E4%B8%8E%E6%B8%B8%E5%87%BB%E9%98%9F%E7%BB%9F%E6%B2%BB%E4%B9%8B%E4%B8%8B-03a5a205",
@@ -302,6 +302,30 @@
       "snapshot": "articles/e5-9b-be-e8-a7-a3-e5-85-a8-e7-90-83-e4-b8-a4-e4--9fcf3a3629a7.html",
       "captured": true,
       "capture_title": "图解全球两亿多人如何陷于黑帮与游击队统治之下",
+      "error": ""
+    },
+    {
+      "title": "间谍风波暴露英伟达治理真空",
+      "summary": "这家芯片巨头既没有董事长，也没有接班人计划，此前还曾否认黄仁勋的婚外情。以上种种凸显英伟达董事会凡事都按照CEO黄仁勋的方式行事。",
+      "link": "https://cn.wsj.com/articles/%E9%97%B4%E8%B0%8D%E9%A3%8E%E6%B3%A2%E6%9A%B4%E9%9C%B2%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B2%BB%E7%90%86%E7%9C%9F%E7%A9%BA-6e2d91cc",
+      "guid": "WP-WSJS-0004049479",
+      "pub_date": "Tue, 10 Nov 2026 05:50:00 GMT",
+      "image_url": "https://images.wsj.net/im-71450509?size=1&width=1280",
+      "snapshot": "articles/e9-97-b4-e8-b0-8d-e9-a3-8e-e6-b3-a2-e6-9a-b4-e9--92b8ea9d994e.html",
+      "captured": true,
+      "capture_title": "间谍风波暴露英伟达治理真空 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "帮助黑客洗白币安被盗巨款的隐秘加密货币服务",
+      "summary": "一些加密货币开发者表示，他们无法阻止朝鲜黑客利用其平台清洗赃款，令执法部门受挫。",
+      "link": "https://cn.wsj.com/articles/%E5%8A%A9%E5%B8%81%E5%AE%89%E7%9B%97%E7%AA%83%E6%A1%88%E9%BB%91%E5%AE%A2%E6%B4%97%E9%92%B1%E7%9A%84%E9%9A%90%E7%A7%98%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%9C%8D%E5%8A%A1-cb7579f9",
+      "guid": "WP-WSJS-0004045726",
+      "pub_date": "Mon, 09 Nov 2026 03:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-72834728?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/e5-8a-a9-e5-b8-81-e5-ae-89-e7-9b-97-e7-aa-83-e6--ebfb1d018071.html",
+      "captured": true,
+      "capture_title": "帮助黑客洗白币安被盗巨款的隐秘加密货币服务",
       "error": ""
     },
     {
@@ -1178,30 +1202,6 @@
       "snapshot": "articles/silicon-valley-promises-ai-will-cure-disease-dru-b35973f0121a.html",
       "captured": true,
       "capture_title": "硅谷誓言AI将治愈疾病，药企CEO并不买账",
-      "error": ""
-    },
-    {
-      "title": "OpenAI将通过收购为Codex引入Pierre Computer的代码存储功能",
-      "summary": "OpenAI计划收购Pierre Computer Co.，后者开发了代码管理系统Code Storage及其他面向开发者的开源工具。",
-      "link": "https://cn.wsj.com/articles/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-5278f62a",
-      "guid": "WP-WSJS-0004035716",
-      "pub_date": "Wed, 04 Nov 2026 23:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-75835691?size=1.499&width=1280",
-      "snapshot": "articles/openai-to-bring-pierre-computers-code-storage-to-c918e0d21454.html",
-      "captured": true,
-      "capture_title": "OpenAI将通过收购为Codex引入Pierre Computer的代码存储功能 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "比特币矿企转向纯AI业务，却发现其动荡不亚于加密货币",
-      "summary": "运营AI数据中心绝非易事，即便是对那些舍弃比特币挖矿服务器、转投新蓝海的公司来说也是如此。",
-      "link": "https://cn.wsj.com/articles/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-46558e9e",
-      "guid": "WP-WSJS-0004031415",
-      "pub_date": "Wed, 04 Nov 2026 00:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-91359896?size=1.501&width=1280",
-      "snapshot": "articles/bitcoin-miners-pivoted-to-aionly-to-find-its-jus-44fd8264a5da.html",
-      "captured": true,
-      "capture_title": "比特币矿企转向纯AI业务，却发现其动荡不亚于加密货币",
       "error": ""
     }
   ]

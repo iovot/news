@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 06:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 16:53:32 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 06:41:29 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 16:53:32 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[间谍风波暴露英伟达治理真空]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-71450509?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家芯片巨头既没有董事长，也没有接班人计划，此前还曾否认黄仁勋的婚外情。以上种种凸显英伟达董事会凡事都按照CEO黄仁勋的方式行事。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%97%B4%E8%B0%8D%E9%A3%8E%E6%B3%A2%E6%9A%B4%E9%9C%B2%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B2%BB%E7%90%86%E7%9C%9F%E7%A9%BA-6e2d91cc</link>
-            <guid isPermaLink="false">WP-WSJS-0004049479</guid>
-            <pubDate>Tue, 10 Nov 2026 05:50:00 GMT</pubDate>
+            <title><![CDATA[黄仁勋的婚外情如何演变成一场国家安全噩梦]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-27975131?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达首席执行官黄仁勋承认与一名被指为中国从事间谍活动的女子有婚外情，而他曾极力游说特朗普放宽出口管制。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E5%A9%9A%E5%A4%96%E6%83%85%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98%E6%88%90%E4%B8%80%E5%9C%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%99%A9%E6%A2%A6-e6ac6f06</link>
+            <guid isPermaLink="false">WP-WSJS-0004049581</guid>
+            <pubDate>Tue, 10 Nov 2026 07:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[黄仁勋不认同接班人计划已成英伟达最大隐患]]></title>
@@ -56,11 +56,11 @@
             <pubDate>Tue, 10 Nov 2026 02:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国10月出口增速放缓，进口激增]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-66171014?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国10月出口同比增长35.2%，低于9月36.3%的增幅；进口同比增长41.6%，快于9月31.0%的增幅。</p>]]></description>
+            <title><![CDATA[中国10月贸易顺差突破万亿美元大关]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-23232450?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>尽管经济低迷、全球贸易局势紧张，中国出口仍持续大幅增长。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%80%9F%E6%94%BE%E7%BC%93-%E8%BF%9B%E5%8F%A3%E6%BF%80%E5%A2%9E-e3e37983</link>
             <guid isPermaLink="false">WP-WSJS-0004049281</guid>
-            <pubDate>Tue, 10 Nov 2026 03:31:00 GMT</pubDate>
+            <pubDate>Tue, 10 Nov 2026 06:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[亚洲股市重挫，新一代投资者被套]]></title>
@@ -84,18 +84,18 @@
             <pubDate>Tue, 10 Nov 2026 01:15:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[加州选民否决全美首例“亿万富豪税”]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-01163445?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>加州富豪阶层斥巨资成功阻击了一项旨在通过财富税来筹集医疗资金的提案。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8A%A0%E5%B7%9E%E9%80%89%E6%B0%91%E5%90%A6%E5%86%B3%E5%85%A8%E7%BE%8E%E9%A6%96%E4%BE%8B-%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%A8%8E-81c7aa84</link>
+            <guid isPermaLink="false">WP-WSJS-0004049322</guid>
+            <pubDate>Tue, 10 Nov 2026 06:48:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美共和党议员提交弹劾议案，赫格塞思准备迎战]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-11647812?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>众议院正加快推进对国防部长赫格塞思的弹劾表决。赫格塞思承诺，将在周二上午举行的一场罕见记者会上回应这项行动。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%85%B1%E5%92%8C%E5%85%9A%E8%AE%AE%E5%91%98%E6%8F%90%E4%BA%A4%E5%BC%B9%E5%8A%BE%E8%AE%AE%E6%A1%88-%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E5%87%86%E5%A4%87%E8%BF%8E%E6%88%98-bb092310</link>
             <guid isPermaLink="false">WP-WSJS-0004048668</guid>
             <pubDate>Mon, 09 Nov 2026 23:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加州选民否决全美首例“亿万富豪税”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-01163445?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>加州富豪阶层斥巨资成功阻击了一项旨在通过财富税来筹集医疗资金的提案。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8A%A0%E5%B7%9E%E9%80%89%E6%B0%91%E5%90%A6%E5%86%B3%E5%85%A8%E7%BE%8E%E9%A6%96%E4%BE%8B-%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E7%A8%8E-81c7aa84</link>
-            <guid isPermaLink="false">WP-WSJS-0004049322</guid>
-            <pubDate>Tue, 10 Nov 2026 04:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国要求特朗普、习近平和普京峰会严格按预定脚本进行，美国不愿接受]]></title>
@@ -168,6 +168,13 @@
             <pubDate>Tue, 10 Nov 2026 01:36:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国监管机构警告称GLP-1类药物可能带来罕见的致盲风险]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33344327?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>分析发现，每年每10万名服用GLP-1药物的人中约有6例NAION病例。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%AD%A6%E5%91%8A%E7%A7%B0glp-1%E7%B1%BB%E8%8D%AF%E7%89%A9%E5%8F%AF%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%BD%95%E8%A7%81%E7%9A%84%E8%87%B4%E7%9B%B2%E9%A3%8E%E9%99%A9-ca0b40f1</link>
+            <guid isPermaLink="false">WP-WSJS-0004049552</guid>
+            <pubDate>Tue, 10 Nov 2026 07:16:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AI可能先于量子计算机攻破加密技术]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-97452708?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>新的网络安全措施正陆续推出，以保护我们免受量子计算机破译密码的威胁。但随着AI在数学领域取得突破，加密技术被破解的那一天可能会提前到来。</p>]]></description>
             <link>https://cn.wsj.com/articles/ai%E5%8F%AF%E8%83%BD%E5%85%88%E4%BA%8E%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%94%BB%E7%A0%B4%E5%8A%A0%E5%AF%86%E6%8A%80%E6%9C%AF-265379f4</link>
@@ -187,13 +194,6 @@
             <link>https://cn.wsj.com/articles/%E8%96%AA%E9%85%AC%E7%BC%A9%E6%B0%B4%E9%9A%BE%E7%95%99%E4%BA%BA-%E9%BB%91%E7%9F%B3%E7%8E%8B%E7%89%8C%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%9B%A2%E9%98%9F%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AB%98%E7%AE%A1%E7%A6%BB%E8%81%8C-6912ef33</link>
             <guid isPermaLink="false">WP-WSJS-0004045958</guid>
             <pubDate>Mon, 09 Nov 2026 06:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[帮助黑客洗白币安被盗巨款的隐秘加密货币服务]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-72834728?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一些加密货币开发者表示，他们无法阻止朝鲜黑客利用其平台清洗赃款，令执法部门受挫。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8A%A9%E5%B8%81%E5%AE%89%E7%9B%97%E7%AA%83%E6%A1%88%E9%BB%91%E5%AE%A2%E6%B4%97%E9%92%B1%E7%9A%84%E9%9A%90%E7%A7%98%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%9C%8D%E5%8A%A1-cb7579f9</link>
-            <guid isPermaLink="false">WP-WSJS-0004045726</guid>
-            <pubDate>Mon, 09 Nov 2026 03:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[图解全球两亿多人如何陷于黑帮与游击队统治之下]]></title>
