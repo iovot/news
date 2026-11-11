@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:37:07.652650+00:00",
+  "generated_at": "2026-11-11T21:52:42.898283+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-33883161?size=1&width=1280",
       "snapshot": "articles/jensen-huang-nvidia-ceo-ai-bubble-5a1bab3b-88b4517e766f.html",
       "captured": true,
-      "capture_title": "英伟达丑闻是检验全球AI热潮韧性的“试金石” - WSJ",
+      "capture_title": "英伟达丑闻是检验全球AI热潮韧性的“试金石”",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-79440375?size=1.499&width=1280",
       "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a9-9a-e5-a4-96-e6--629f04da4550.html",
       "captured": true,
-      "capture_title": "黄仁勋婚外情促使美国国会再度推动芯片出口管制 - WSJ",
+      "capture_title": "黄仁勋婚外情促使美国国会再度推动芯片出口管制",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.mktw.net/im-54690673?size=1.5&width=1280",
       "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-af-b9-e5-8d-8e-e8--64d4b1eb235b.html",
       "captured": true,
-      "capture_title": "英伟达对华芯片出口或很快面临更严格限制 - WSJ",
+      "capture_title": "英伟达对华芯片出口或很快面临更严格限制",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-48386633?size=1.499&width=1280",
       "snapshot": "articles/e7-be-8e-e8-81-94-e5-82-a8-e8-a2-ab-e8-bf-ab-e6--27432e6f7f97.html",
       "captured": true,
-      "capture_title": "美联储被迫正视现实：加息恐需更快、更猛 - WSJ",
+      "capture_title": "美联储被迫正视现实：加息恐需更快、更猛",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-75394604?size=1.501&width=1280",
       "snapshot": "articles/openai-e6-94-b6-e5-85-a5-e5-a2-9e-e8-87-b3100-e4-1db64140de4d.html",
       "captured": true,
-      "capture_title": "OpenAI收入增至100亿美元，仍录得巨额亏损 - WSJ",
+      "capture_title": "OpenAI收入增至100亿美元，仍录得巨额亏损",
       "error": ""
     },
     {
@@ -85,7 +85,7 @@
       "image_url": "https://images.wsj.net/im-51559097?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e8-bf-9b-e5-8f-a3-e4--caa8bd429ebb.html",
       "captured": true,
-      "capture_title": "特朗普进口俄罗斯柴油的计划在公海受阻 - WSJ",
+      "capture_title": "特朗普进口俄罗斯柴油的计划在公海受阻",
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-51593918?size=1.501&width=1280",
       "snapshot": "articles/e8-b5-ab-e6-a0-bc-e5-a1-9e-e6-80-9d-e5-9c-a8-e4--17188f8fb20f.html",
       "captured": true,
-      "capture_title": "赫格塞思在众议院躲过弹劾 - WSJ",
+      "capture_title": "赫格塞思在众议院躲过弹劾",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-18310651?size=1.778&width=1280",
       "snapshot": "articles/e7-be-8e-e4-bc-8a-e4-ba-92-e8-a2-ad-e5-b2-9b-e5--98a7c401fc63.html",
       "captured": true,
-      "capture_title": "美伊互袭岛屿，争夺霍尔木兹海峡控制权 - WSJ",
+      "capture_title": "美伊互袭岛屿，争夺霍尔木兹海峡控制权",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-20331820?size=1.5&width=1280",
       "snapshot": "articles/e5-8c-97-e4-ba-ac-e6-96-99-e6-83-b3-e7-89-b9-e6--9aebfbaf0a65.html",
       "captured": true,
-      "capture_title": "北京料想特朗普声势转弱，谈判桌上可能适得其反 - WSJ",
+      "capture_title": "北京料想特朗普声势转弱，谈判桌上可能适得其反",
       "error": ""
     },
     {
@@ -145,7 +145,19 @@
       "image_url": "https://images.wsj.net/im-66362416?size=1.501&width=1280",
       "snapshot": "articles/masayoshi-sons-huge-bet-on-electrical-turbines-b-04e6dd387c0c.html",
       "captured": true,
-      "capture_title": "孙正义豪赌燃气轮机遭反噬 - WSJ",
+      "capture_title": "孙正义豪赌燃气轮机遭反噬",
+      "error": ""
+    },
+    {
+      "title": "黑客盯上AI时代最宝贵的资源：算力",
+      "summary": "对AI模型的需求，正让“API密钥”变成黑市上的暴利硬通货，也使其成为网络犯罪分子觊觎的目标。",
+      "link": "https://cn.wsj.com/articles/%E9%BB%91%E5%AE%A2%E7%9B%AF%E4%B8%8Aai%E6%97%B6%E4%BB%A3%E6%9C%80%E5%AE%9D%E8%B4%B5%E7%9A%84%E8%B5%84%E6%BA%90-%E7%AE%97%E5%8A%9B-da09cbc0",
+      "guid": "WP-WSJS-0004053194",
+      "pub_date": "Wed, 11 Nov 2026 05:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-25154232?size=0.8&width=1280",
+      "snapshot": "articles/e9-bb-91-e5-ae-a2-e7-9b-af-e4-b8-8aai-e6-97-b6-e-5de23f5fb8f3.html",
+      "captured": true,
+      "capture_title": "黑客盯上AI时代最宝贵的资源：算力 - WSJ",
       "error": ""
     },
     {
@@ -161,6 +173,90 @@
       "error": ""
     },
     {
+      "title": "畅销书作家被指性诱骗青少年，英国媒体为何集体噤声？",
+      "summary": "戴维·威廉姆斯一案再度引发了围绕英国严格的诽谤法及新闻自由所受限制的争论。",
+      "link": "https://cn.wsj.com/articles/%E7%95%85%E9%94%80%E4%B9%A6%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%8C%87%E6%80%A7%E8%AF%B1%E9%AA%97%E9%9D%92%E5%B0%91%E5%B9%B4-%E8%8B%B1%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%BA%E4%BD%95%E9%9B%86%E4%BD%93%E5%99%A4%E5%A3%B0-c33bd330",
+      "guid": "WP-WSJS-0004052758",
+      "pub_date": "Wed, 11 Nov 2026 00:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-73471702?size=1.501&width=1280",
+      "snapshot": "articles/e7-95-85-e9-94-80-e4-b9-a6-e4-bd-9c-e5-ae-b6-e8--06ed30bb1378.html",
+      "captured": true,
+      "capture_title": "畅销书作家被指性诱骗青少年，英国媒体为何集体噤声？",
+      "error": ""
+    },
+    {
+      "title": "看似“便宜”的ETF比你以为的要贵",
+      "summary": "许多热门ETF的资产规模激增，但并未遵循投资行业随资本池扩大而减免费用的惯行做法。投资者每年都在支付额外费用，很大程度是由于惯性或疏忽。",
+      "link": "https://cn.wsj.com/articles/%E7%9C%8B%E4%BC%BC-%E4%BE%BF%E5%AE%9C-%E7%9A%84etf%E6%AF%94%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E8%A6%81%E8%B4%B5-387d24aa",
+      "guid": "WP-WSJS-0004053279",
+      "pub_date": "Wed, 11 Nov 2026 05:59:00 GMT",
+      "image_url": "https://images.wsj.net/im-60642505?size=1.501&width=1280",
+      "snapshot": "articles/e7-9c-8b-e4-bc-bc--e4-be-bf-e5-ae-9c--e7-9a-84et-c876724e7e0e.html",
+      "captured": true,
+      "capture_title": "看似“便宜”的ETF比你以为的要贵 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "一家美国家具制造商试图将生产搬回本土，却发现行不通",
+      "summary": "克林斯基夫妇试图通过将生产从越南迁回美国本土，提前应对不断变化的美国贸易政策，但算下来，这条路在经济上行不通。",
+      "link": "https://cn.wsj.com/articles/furniture-maker-us-tariffs-jobs-vietnam-60fc0b1e",
+      "guid": "WP-WSJS-0004053211",
+      "pub_date": "Wed, 11 Nov 2026 05:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-32713502?size=1.5&width=1280",
+      "snapshot": "articles/furniture-maker-us-tariffs-jobs-vietnam-60fc0b1e-76ae296c98e3.html",
+      "captured": true,
+      "capture_title": "一家美国家具制造商试图将生产搬回本土，却发现行不通 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "一款问世50年的工业零件突然热销之谜",
+      "summary": "一家排气阀制造商突然接到大量订单，买家身份却不明。这家有126年历史的公司最终发现，自己无意间进入了一个讲求速度、又高度保密的前沿市场。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%80%E6%AC%BE%E9%97%AE%E4%B8%9650%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%B8%9A%E9%9B%B6%E4%BB%B6%E7%AA%81%E7%84%B6%E7%83%AD%E9%94%80%E4%B9%8B%E8%B0%9C-f85c45b4",
+      "guid": "WP-WSJS-0004052793",
+      "pub_date": "Wed, 11 Nov 2026 01:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-53851686?size=1.584&width=1280",
+      "snapshot": "articles/e4-b8-80-e6-ac-be-e9-97-ae-e4-b8-9650-e5-b9-b4-e-0006ca49e5b9.html",
+      "captured": true,
+      "capture_title": "一款问世50年的工业零件突然热销之谜",
+      "error": ""
+    },
+    {
+      "title": "阿里巴巴芯片子公司平头哥申请在香港上市",
+      "summary": "香港证交所已确认，阿里巴巴可推进旗下半导体业务平头哥的首次公开募股。",
+      "link": "https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%8A%AF%E7%89%87%E5%AD%90%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%A4%B4%E5%93%A5%E7%94%B3%E8%AF%B7%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82-b13eb057",
+      "guid": "WP-WSJS-0004053281",
+      "pub_date": "Wed, 11 Nov 2026 06:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-65389498?size=1.501&width=1280",
+      "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e8-8a-af-e7--87c8d6e5294c.html",
+      "captured": true,
+      "capture_title": "阿里巴巴芯片子公司平头哥申请在香港上市 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "我对黄金的判断总是错的，你很可能也一样",
+      "summary": "对黄金的判断总是出错的，并不只有我一个人。这是为什么呢？",
+      "link": "https://cn.wsj.com/articles/%E6%88%91%E5%AF%B9%E9%BB%84%E9%87%91%E7%9A%84%E5%88%A4%E6%96%AD%E6%80%BB%E6%98%AF%E9%94%99%E7%9A%84-%E4%BD%A0%E5%BE%88%E5%8F%AF%E8%83%BD%E4%B9%9F%E4%B8%80%E6%A0%B7-278be753",
+      "guid": "WP-WSJS-0004053130",
+      "pub_date": "Wed, 11 Nov 2026 03:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-88550747?size=1.212&width=1280",
+      "snapshot": "articles/e6-88-91-e5-af-b9-e9-bb-84-e9-87-91-e7-9a-84-e5--2d76ea77781b.html",
+      "captured": true,
+      "capture_title": "我对黄金的判断总是错的，你很可能也一样",
+      "error": ""
+    },
+    {
+      "title": "比亚迪就部分大唐SUV轮辋前后装错致歉，称系编码错误所致",
+      "summary": "比亚迪就部分大唐电动SUV前后轮辋装错致歉。这一事件发生之际，中国汽车制造商正面临外界对车辆质量和耐用性越来越多的审视。",
+      "link": "https://cn.wsj.com/articles/bydapologizes-for-mixing-up-suv-wheels-blames-coding-error-179f574d",
+      "guid": "WP-WSJS-0004053614",
+      "pub_date": "Wed, 11 Nov 2026 09:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-46785500?size=1.501&width=1280",
+      "snapshot": "articles/bydapologizes-for-mixing-up-suv-wheels-blames-co-6c675c4b0cf2.html",
+      "captured": true,
+      "capture_title": "比亚迪就部分大唐SUV轮辋前后装错致歉，称系编码错误所致 - WSJ",
+      "error": ""
+    },
+    {
       "title": "亚洲股市重挫，新一代投资者被套",
       "summary": "从高中社团到社交媒体网红，亚洲新一代股票投资者正面临残酷的现实考验。",
       "link": "https://cn.wsj.com/articles/%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E9%87%8D%E6%8C%AB-%E6%96%B0%E4%B8%80%E4%BB%A3%E6%8A%95%E8%B5%84%E8%80%85%E8%A2%AB%E5%A5%97-370ab88a",
@@ -173,39 +269,27 @@
       "error": ""
     },
     {
-      "title": "畅销书作家被指性诱骗青少年，英国媒体为何集体噤声？",
-      "summary": "戴维·威廉姆斯一案再度引发了围绕英国严格的诽谤法及新闻自由所受限制的争论。",
-      "link": "https://cn.wsj.com/articles/%E7%95%85%E9%94%80%E4%B9%A6%E4%BD%9C%E5%AE%B6%E8%A2%AB%E6%8C%87%E6%80%A7%E8%AF%B1%E9%AA%97%E9%9D%92%E5%B0%91%E5%B9%B4-%E8%8B%B1%E5%9B%BD%E5%AA%92%E4%BD%93%E4%B8%BA%E4%BD%95%E9%9B%86%E4%BD%93%E5%99%A4%E5%A3%B0-c33bd330",
-      "guid": "WP-WSJS-0004052758",
-      "pub_date": "Wed, 11 Nov 2026 00:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-73471702?size=1.501&width=1280",
-      "snapshot": "articles/e7-95-85-e9-94-80-e4-b9-a6-e4-bd-9c-e5-ae-b6-e8--06ed30bb1378.html",
+      "title": "CoreWeave找到暂且绕开资本制约的策略",
+      "summary": "CoreWeave能否取得成功，取决于它能否迅速扩大数据中心规模，同时降低资本成本。最近，这两件事都变得棘手得多。",
+      "link": "https://cn.wsj.com/articles/coreweave-finds-a-workaround-to-capital-constraintsfor-now-b637188b",
+      "guid": "WP-WSJS-0004053681",
+      "pub_date": "Wed, 11 Nov 2026 11:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-90124141?size=1.501&width=1280",
+      "snapshot": "articles/coreweave-finds-a-workaround-to-capital-constrai-5a1daf78de10.html",
       "captured": true,
-      "capture_title": "畅销书作家被指性诱骗青少年，英国媒体为何集体噤声？ - WSJ",
+      "capture_title": "CoreWeave找到暂且绕开资本制约的策略 - WSJ",
       "error": ""
     },
     {
-      "title": "一款问世50年的工业零件突然热销之谜",
-      "summary": "一家排气阀制造商突然接到大量订单，买家身份却不明。这家有126年历史的公司最终发现，自己无意间进入了一个讲求速度、又高度保密的前沿市场。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%80%E6%AC%BE%E9%97%AE%E4%B8%9650%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%B8%9A%E9%9B%B6%E4%BB%B6%E7%AA%81%E7%84%B6%E7%83%AD%E9%94%80%E4%B9%8B%E8%B0%9C-f85c45b4",
-      "guid": "WP-WSJS-0004052793",
-      "pub_date": "Wed, 11 Nov 2026 01:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-53851686?size=1.584&width=1280",
-      "snapshot": "articles/e4-b8-80-e6-ac-be-e9-97-ae-e4-b8-9650-e5-b9-b4-e-0006ca49e5b9.html",
+      "title": "美国监管机构警告称GLP-1类药物可能带来罕见的致盲风险",
+      "summary": "分析发现，每年每10万名服用GLP-1药物的人中约有6例NAION病例。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%AD%A6%E5%91%8A%E7%A7%B0glp-1%E7%B1%BB%E8%8D%AF%E7%89%A9%E5%8F%AF%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%BD%95%E8%A7%81%E7%9A%84%E8%87%B4%E7%9B%B2%E9%A3%8E%E9%99%A9-ca0b40f1",
+      "guid": "WP-WSJS-0004049552",
+      "pub_date": "Tue, 10 Nov 2026 07:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-33344327?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-9b-91-e7-ae-a1-e6-9c-ba-e6--8ab5fd740837.html",
       "captured": true,
-      "capture_title": "一款问世50年的工业零件突然热销之谜 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "2,600万美元网络窃案震动新泽西小镇",
-      "summary": "在历史名城克兰伯里，居民们正就一笔直到选举后才披露的失踪资金质问当地领导人。一位居民指责委员会领导不力：“我认为他们玩忽职守，麻痹大意。”",
-      "link": "https://cn.wsj.com/articles/2-600%E4%B8%87%E7%BE%8E%E5%85%83%E7%BD%91%E7%BB%9C%E7%AA%83%E6%A1%88%E9%9C%87%E5%8A%A8%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B0%8F%E9%95%87-be82b6e9",
-      "guid": "WP-WSJS-0004053133",
-      "pub_date": "Wed, 11 Nov 2026 03:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-09636525?size=1.333&width=1280",
-      "snapshot": "articles/2-600-e4-b8-87-e7-be-8e-e5-85-83-e7-bd-91-e7-bb--d2bfe30b3137.html",
-      "captured": true,
-      "capture_title": "2,600万美元网络窃案震动新泽西小镇 - WSJ",
+      "capture_title": "美国监管机构警告称GLP-1类药物可能带来罕见的致盲风险",
       "error": ""
     },
     {
@@ -221,15 +305,15 @@
       "error": ""
     },
     {
-      "title": "我对黄金的判断总是错的，你很可能也一样",
-      "summary": "对黄金的判断总是出错的，并不只有我一个人。这是为什么呢？",
-      "link": "https://cn.wsj.com/articles/%E6%88%91%E5%AF%B9%E9%BB%84%E9%87%91%E7%9A%84%E5%88%A4%E6%96%AD%E6%80%BB%E6%98%AF%E9%94%99%E7%9A%84-%E4%BD%A0%E5%BE%88%E5%8F%AF%E8%83%BD%E4%B9%9F%E4%B8%80%E6%A0%B7-278be753",
-      "guid": "WP-WSJS-0004053130",
+      "title": "2,600万美元网络窃案震动新泽西小镇",
+      "summary": "在历史名城克兰伯里，居民们正就一笔直到选举后才披露的失踪资金质问当地领导人。一位居民指责委员会领导不力：“我认为他们玩忽职守，麻痹大意。”",
+      "link": "https://cn.wsj.com/articles/2-600%E4%B8%87%E7%BE%8E%E5%85%83%E7%BD%91%E7%BB%9C%E7%AA%83%E6%A1%88%E9%9C%87%E5%8A%A8%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B0%8F%E9%95%87-be82b6e9",
+      "guid": "WP-WSJS-0004053133",
       "pub_date": "Wed, 11 Nov 2026 03:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-88550747?size=1.212&width=1280",
-      "snapshot": "articles/e6-88-91-e5-af-b9-e9-bb-84-e9-87-91-e7-9a-84-e5--2d76ea77781b.html",
+      "image_url": "https://images.wsj.net/im-09636525?size=1.333&width=1280",
+      "snapshot": "articles/2-600-e4-b8-87-e7-be-8e-e5-85-83-e7-bd-91-e7-bb--d2bfe30b3137.html",
       "captured": true,
-      "capture_title": "我对黄金的判断总是错的，你很可能也一样 - WSJ",
+      "capture_title": "2,600万美元网络窃案震动新泽西小镇 - WSJ",
       "error": ""
     },
     {
@@ -242,18 +326,6 @@
       "snapshot": "articles/coreweave-e4-b8-9a-e7-bb-a9-e7-ac-a6-e5-90-88-e5-6abe6e076184.html",
       "captured": true,
       "capture_title": "CoreWeave业绩符合华尔街预期，缓解外界担忧 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国监管机构警告称GLP-1类药物可能带来罕见的致盲风险",
-      "summary": "分析发现，每年每10万名服用GLP-1药物的人中约有6例NAION病例。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%AD%A6%E5%91%8A%E7%A7%B0glp-1%E7%B1%BB%E8%8D%AF%E7%89%A9%E5%8F%AF%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%BD%95%E8%A7%81%E7%9A%84%E8%87%B4%E7%9B%B2%E9%A3%8E%E9%99%A9-ca0b40f1",
-      "guid": "WP-WSJS-0004049552",
-      "pub_date": "Tue, 10 Nov 2026 07:16:00 GMT",
-      "image_url": "https://images.wsj.net/im-33344327?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-9b-91-e7-ae-a1-e6-9c-ba-e6--8ab5fd740837.html",
-      "captured": true,
-      "capture_title": "美国监管机构警告称GLP-1类药物可能带来罕见的致盲风险",
       "error": ""
     },
     {
@@ -1130,78 +1202,6 @@
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e7-bb-88-e6-ad-a2-e5-af-b9-e4--48e6266483ef.html",
       "captured": true,
       "capture_title": "美国终止对以色列的军事援助谈何容易 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "加拿大获得中国延长部分农产品及食品贸易优惠待遇",
-      "summary": "加拿大周三表示，中国已同意将对部分加拿大农产品和食品的优惠贸易待遇延长两年，至2028年底。",
-      "link": "https://cn.wsj.com/articles/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8E%B7%E5%BE%97%E4%B8%AD%E5%9B%BD%E5%BB%B6%E9%95%BF%E9%83%A8%E5%88%86%E5%86%9C%E4%BA%A7%E5%93%81%E5%8F%8A%E9%A3%9F%E5%93%81%E8%B4%B8%E6%98%93%E4%BC%98%E6%83%A0%E5%BE%85%E9%81%87-281a9af8",
-      "guid": "WP-WSJS-0004036207",
-      "pub_date": "Thu, 05 Nov 2026 02:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-607630?size=1.5&width=1280",
-      "snapshot": "articles/e5-8a-a0-e6-8b-bf-e5-a4-a7-e8-8e-b7-e5-be-97-e4--3a6a469e03d9.html",
-      "captured": true,
-      "capture_title": "加拿大获得中国延长部分农产品及食品贸易优惠待遇 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "红墙倒塌：民主党打破共和党在美国南部数十年的主导地位",
-      "summary": "中期选举结果立即重塑了美国2028年总统选举的政治版图。",
-      "link": "https://cn.wsj.com/articles/%E7%BA%A2%E5%A2%99%E5%80%92%E5%A1%8C-%E6%B0%91%E4%B8%BB%E5%85%9A%E6%89%93%E7%A0%B4%E5%85%B1%E5%92%8C%E5%85%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8D%97%E9%83%A8%E6%95%B0%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D-f588499f",
-      "guid": "WP-WSJS-0004039918",
-      "pub_date": "Fri, 06 Nov 2026 00:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-41735620?size=1.501&width=1280",
-      "snapshot": "articles/e7-ba-a2-e5-a2-99-e5-80-92-e5-a1-8c--e6-b0-91-e4-2c188bea5902.html",
-      "captured": true,
-      "capture_title": "红墙倒塌：民主党打破共和党在美国南部数十年的主导地位 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "SpaceX携手高通，加快推进无线通信业务布局",
-      "summary": "SpaceX选择Qualcomm Technologies为星链提供蜂窝通信技术。这家由埃隆·马斯克领导的公司正寻求将其卫星服务从宽带领域拓展至无线通信市场。",
-      "link": "https://cn.wsj.com/articles/spacexpartners-with-qualcomm-to-accelerate-wireless-ambitions-10246027",
-      "guid": "WP-WSJS-0004035733",
-      "pub_date": "Wed, 04 Nov 2026 23:55:00 GMT",
-      "image_url": "https://images.wsj.net/im-25866497?size=1.499&width=1280",
-      "snapshot": "articles/spacexpartners-with-qualcomm-to-accelerate-wirel-b473d3a1fb39.html",
-      "captured": true,
-      "capture_title": "SpaceX携手高通，加快推进无线通信业务布局 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "法国骚乱背后：隐居乡野的“极左翼”群体推波助澜",
-      "summary": "利摩日市政厅纵火案嫌疑人及其背后的社区，折射出正在助长法国抗议活动的激进活动人士群体。",
-      "link": "https://cn.wsj.com/articles/%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E8%83%8C%E5%90%8E-%E9%9A%90%E5%B1%85%E4%B9%A1%E9%87%8E%E7%9A%84-%E6%9E%81%E5%B7%A6%E7%BF%BC-%E7%BE%A4%E4%BD%93%E6%8E%A8%E6%B3%A2%E5%8A%A9%E6%BE%9C-0ecd71dc",
-      "guid": "WP-WSJS-0004036285",
-      "pub_date": "Thu, 05 Nov 2026 03:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-99970055?size=1.333&width=1280",
-      "snapshot": "articles/e6-b3-95-e5-9b-bd-e9-aa-9a-e4-b9-b1-e8-83-8c-e5--e4396da9fe31.html",
-      "captured": true,
-      "capture_title": "法国骚乱背后：隐居乡野的“极左翼”群体推波助澜",
-      "error": ""
-    },
-    {
-      "title": "民主党人如何围绕经济议题凝聚共识，取得惊人胜利",
-      "summary": "民主党基本上成功地将焦点保持在经济议题上。尽管党内围绕未来方向的争论仍十分激烈，他们还是围绕这一主张凝聚起来。",
-      "link": "https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%9B%B4%E7%BB%95%E7%BB%8F%E6%B5%8E%E8%AE%AE%E9%A2%98%E5%87%9D%E8%81%9A%E5%85%B1%E8%AF%86-%E5%8F%96%E5%BE%97%E6%83%8A%E4%BA%BA%E8%83%9C%E5%88%A9-f57f17c2",
-      "guid": "WP-WSJS-0004035687",
-      "pub_date": "Wed, 04 Nov 2026 23:52:00 GMT",
-      "image_url": "https://images.wsj.net/im-26203527?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e4-ba-ba-e5-a6-82-e4--0cfaa8eb0db6.html",
-      "captured": true,
-      "capture_title": "民主党人如何围绕经济议题凝聚共识，取得惊人胜利",
-      "error": ""
-    },
-    {
-      "title": "调查特朗普、展开政策角力：民主党新议程一览",
-      "summary": "民主党在周二的选举中乘着席卷全国的胜选浪潮，夺得了众议院和参议院的控制权，数十名共和党人落选。接下来，他们会做什么？",
-      "link": "https://cn.wsj.com/articles/%E8%B0%83%E6%9F%A5%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B1%95%E5%BC%80%E6%94%BF%E7%AD%96%E8%A7%92%E5%8A%9B-%E6%B0%91%E4%B8%BB%E5%85%9A%E6%96%B0%E8%AE%AE%E7%A8%8B%E4%B8%80%E8%A7%88-6185af6b",
-      "guid": "WP-WSJS-0004035880",
-      "pub_date": "Thu, 05 Nov 2026 00:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-10598342?size=1.494&width=1280",
-      "snapshot": "articles/e8-b0-83-e6-9f-a5-e7-89-b9-e6-9c-97-e6-99-ae--e5-76586e4254e7.html",
-      "captured": true,
-      "capture_title": "调查特朗普、展开政策角力：民主党新议程一览",
       "error": ""
     }
   ]
