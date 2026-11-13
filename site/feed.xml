@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 23:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 05:51:52 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 23:22:37 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 05:51:52 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,32 +28,67 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[英伟达CEO黄仁勋辞职]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-25860596?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达CEO黄仁勋已辞职。英伟达首席财务官将出任临时CEO；董事会还任命了该公司首任董事长。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8D%B8%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BEceo-2e9536af</link>
-            <guid isPermaLink="false">WP-WSJS-0004057699</guid>
-            <pubDate>Thu, 12 Nov 2026 23:17:00 GMT</pubDate>
+            <title><![CDATA[黄仁勋下台前曾贬低接替他的高管]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-91311106?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达临时CEO克雷斯曾对黄仁勋的一些交易决策提出质疑。黄仁勋说她像“车灯前的鹿”一样惊慌失措。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8B%E5%8F%B0%E5%89%8D%E6%9B%BE%E8%B4%AC%E4%BD%8E%E6%8E%A5%E6%9B%BF%E4%BB%96%E7%9A%84%E9%AB%98%E7%AE%A1-5196328d</link>
+            <guid isPermaLink="false">WP-WSJS-0004062395</guid>
+            <pubDate>Fri, 13 Nov 2026 05:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[介绍黄仁勋结识其中国情人的神秘商人：女方丈夫]]></title>
-            <description><![CDATA[<img width="920" height="682" src="https://images.wsj.net/im-56195954?size=1.349&width=920" class="webfeedsFeaturedVisual" alt=""/><p>康伟似乎接受了妻子黄乐与黄仁勋的恋情，甚至公开谈及她与英伟达掌门人的亲密关系。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BB%8B%E7%BB%8D%E9%BB%84%E4%BB%81%E5%8B%8B%E7%BB%93%E8%AF%86%E5%85%B6%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BA%BA%E7%9A%84%E7%A5%9E%E7%A7%98%E5%95%86%E4%BA%BA-%E5%A5%B3%E6%96%B9%E4%B8%88%E5%A4%AB-0844959d</link>
-            <guid isPermaLink="false">WP-WSJS-0004056828</guid>
-            <pubDate>Thu, 12 Nov 2026 08:28:00 GMT</pubDate>
+            <title><![CDATA[特朗普幕僚将英伟达风波归咎于卢特尼克，商务部长职位不稳]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-09123152?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>卢特尼克之所以成为政府内部相互指责时的主要目标，是因为他曾试图拖延芯片出口限制措施，与黄仁勋长期保持往来，而且与政府一些成员原本就关系紧张。</p>]]></description>
+            <link>https://cn.wsj.com/articles/lutnick-fights-for-his-job-as-trump-aides-blame-him-for-nvidia-fallou-8ddf3c59</link>
+            <guid isPermaLink="false">WP-WSJS-0004061844</guid>
+            <pubDate>Fri, 13 Nov 2026 00:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[间谍丑闻发酵，与特朗普交好也救不了黄仁勋]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-64758448?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国官员曾多次表达担忧，认为这位英伟达CEO对总统特朗普的影响力过大，且对华立场令人不安。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%97%B4%E8%B0%8D%E4%B8%91%E9%97%BB%E5%8F%91%E9%85%B5-%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%A4%E5%A5%BD%E4%B9%9F%E6%95%91%E4%B8%8D%E4%BA%86%E9%BB%84%E4%BB%81%E5%8B%8B-7940be6a</link>
-            <guid isPermaLink="false">WP-WSJS-0004056521</guid>
-            <pubDate>Thu, 12 Nov 2026 04:32:00 GMT</pubDate>
+            <title><![CDATA[黄仁勋下台标志着硅谷权力流失]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-81870603?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>科技界精英对这位英伟达联合创始人的齐声支持，凸显出业内正在发生的权力巨变。</p>]]></description>
+            <link>https://cn.wsj.com/articles/jensen-huang-nvidia-silicon-valley-8be62720</link>
+            <guid isPermaLink="false">WP-WSJS-0004062254</guid>
+            <pubDate>Fri, 13 Nov 2026 03:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[黄仁勋身陷丑闻，台湾对这位家乡英雄的拥戴面临考验]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-46913974?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>黄仁勋在台湾一直备受追捧。如今，台湾开始以不同的眼光看待他。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BA%AB%E9%99%B7%E4%B8%91%E9%97%BB-%E5%8F%B0%E6%B9%BE%E5%AF%B9%E8%BF%99%E4%BD%8D%E5%AE%B6%E4%B9%A1%E8%8B%B1%E9%9B%84%E7%9A%84%E6%8B%A5%E6%88%B4%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-e3a9577b</link>
-            <guid isPermaLink="false">WP-WSJS-0004056326</guid>
-            <pubDate>Thu, 12 Nov 2026 02:45:00 GMT</pubDate>
+            <title><![CDATA[谁能接替黄仁勋出任英伟达CEO？AI圈热议这四位人选]]></title>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-25209832?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达董事会正物色新CEO，专家称新任CEO需在技术远见与商业才干之间取得难得的平衡。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%B0%81%E8%83%BD%E6%8E%A5%E6%9B%BF%E9%BB%84%E4%BB%81%E5%8B%8B%E5%87%BA%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BEceo-ai%E5%9C%88%E7%83%AD%E8%AE%AE%E8%BF%99%E5%9B%9B%E4%BD%8D%E4%BA%BA%E9%80%89-87aff88a</link>
+            <guid isPermaLink="false">WP-WSJS-0004061815</guid>
+            <pubDate>Fri, 13 Nov 2026 00:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黄仁勋辞职将考验AI概念股与英雄史观]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56138323?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达的危机将AI交易分成了两派：一派是依赖黄仁勋庇护的公司，另一派则是不需要他的芯片或融资协议的公司。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E5%B0%86%E8%80%83%E9%AA%8Cai%E6%A6%82%E5%BF%B5%E8%82%A1%E4%B8%8E%E8%8B%B1%E9%9B%84%E5%8F%B2%E8%A7%82-7f77a323</link>
+            <guid isPermaLink="false">WP-WSJS-0004062046</guid>
+            <pubDate>Fri, 13 Nov 2026 02:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国拟打造全球航运保险替代体系]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29804268?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国海事官员正与本地航运公司、银行和保险公司商谈筹集150亿美元，设立一个保险及再保险中心，为船舶沉没或船员遇难等海上灾难性事件提供保障。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8B%9F%E6%89%93%E9%80%A0%E5%85%A8%E7%90%83%E8%88%AA%E8%BF%90%E4%BF%9D%E9%99%A9%E6%9B%BF%E4%BB%A3%E4%BD%93%E7%B3%BB-4e18adfa</link>
+            <guid isPermaLink="false">WP-WSJS-0004061599</guid>
+            <pubDate>Thu, 12 Nov 2026 23:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[范·霍伦将挑战舒默，争夺参议院多数党领袖职位]]></title>
+            <description><![CDATA[<img width="1280" height="895" src="https://images.wsj.net/im-83565972?size=1.43&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在民主党取得历史性中期选举胜利后，此举将引发一场围绕该党未来走向的争夺。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%8C%83-%E9%9C%8D%E4%BC%A6%E5%B0%86%E6%8C%91%E6%88%98%E8%88%92%E9%BB%98-%E4%BA%89%E5%A4%BA%E5%8F%82%E8%AE%AE%E9%99%A2%E5%A4%9A%E6%95%B0%E5%85%9A%E9%A2%86%E8%A2%96%E8%81%8C%E4%BD%8D-b937fd8f</link>
+            <guid isPermaLink="false">WP-WSJS-0004062293</guid>
+            <pubDate>Fri, 13 Nov 2026 03:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗网络攻击新打法：在现实世界制造破坏]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-12795679?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>德黑兰加大力度攻击防护薄弱的油轮和冰箱，力图在现实世界造成损害。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BC%8A%E6%9C%97%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%96%B0%E6%89%93%E6%B3%95-%E5%9C%A8%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E5%88%B6%E9%80%A0%E7%A0%B4%E5%9D%8F-86fb27ea</link>
+            <guid isPermaLink="false">WP-WSJS-0004062201</guid>
+            <pubDate>Fri, 13 Nov 2026 03:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在英国被捕的美国军官系在诱捕行动中落网]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-63460348?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国官员称，泰纳曾在不知情的情况下与英国有关部门交谈，其动机尚不清楚。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%9C%A8%E8%8B%B1%E5%9B%BD%E8%A2%AB%E6%8D%95%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%86%9B%E5%AE%98%E7%B3%BB%E5%9C%A8%E8%AF%B1%E6%8D%95%E8%A1%8C%E5%8A%A8%E4%B8%AD%E8%90%BD%E7%BD%91-8ef75d78</link>
+            <guid isPermaLink="false">WP-WSJS-0004061648</guid>
+            <pubDate>Thu, 12 Nov 2026 23:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国央行暗示在宽松政策上保持克制]]></title>
@@ -63,39 +98,25 @@
             <pubDate>Thu, 12 Nov 2026 05:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[民主党拟大幅削减特朗普标志性项目，矛头指向“特朗普”级战列舰]]></title>
-            <description><![CDATA[<img width="1280" height="805" src="https://images.wsj.net/im-05776660?size=1.59&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>民主党明年重新掌控国会后，还将把矛头对准赫格塞思的“战争部”更名计划和其他国防优先事项。</p>]]></description>
-            <link>https://cn.wsj.com/articles/democrats-target-trumps-warship-as-they-look-to-slash-his-signature-projects-ecf2e9e8</link>
-            <guid isPermaLink="false">WP-WSJS-0004056073</guid>
-            <pubDate>Thu, 12 Nov 2026 00:54:00 GMT</pubDate>
+            <title><![CDATA[介绍黄仁勋结识其中国情人的神秘商人：女方丈夫]]></title>
+            <description><![CDATA[<img width="920" height="682" src="https://images.wsj.net/im-56195954?size=1.349&width=920" class="webfeedsFeaturedVisual" alt=""/><p>康伟似乎接受了妻子黄乐与黄仁勋的恋情，甚至公开谈及她与英伟达掌门人的亲密关系。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%BB%8B%E7%BB%8D%E9%BB%84%E4%BB%81%E5%8B%8B%E7%BB%93%E8%AF%86%E5%85%B6%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BA%BA%E7%9A%84%E7%A5%9E%E7%A7%98%E5%95%86%E4%BA%BA-%E5%A5%B3%E6%96%B9%E4%B8%88%E5%A4%AB-0844959d</link>
+            <guid isPermaLink="false">WP-WSJS-0004056828</guid>
+            <pubDate>Thu, 12 Nov 2026 08:28:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[弹劾赫格塞思行动失败，部分民主党人缺席投票引发党内不满]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-63817872?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>民主党方面有11名议员缺席了此次记名表决。他们的票数原本可能足以扭转结果，甚至绰绰有余。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%BC%B9%E5%8A%BE%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E8%A1%8C%E5%8A%A8%E5%A4%B1%E8%B4%A5-%E9%83%A8%E5%88%86%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E7%BC%BA%E5%B8%AD%E6%8A%95%E7%A5%A8%E5%BC%95%E5%8F%91%E5%85%9A%E5%86%85%E4%B8%8D%E6%BB%A1-0304e2eb</link>
-            <guid isPermaLink="false">WP-WSJS-0004055669</guid>
-            <pubDate>Wed, 11 Nov 2026 23:23:00 GMT</pubDate>
+            <title><![CDATA[普京原有四套方案击垮乌克兰，如今只剩其二]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-36478775?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着军事获胜的希望渐趋渺茫，克里姆林宫如今正押注于乌克兰经济大幅萎缩和欧洲支持减弱。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%99%AE%E4%BA%AC%E5%8E%9F%E6%9C%89%E5%9B%9B%E5%A5%97%E6%96%B9%E6%A1%88%E5%87%BB%E5%9E%AE%E4%B9%8C%E5%85%8B%E5%85%B0-%E5%A6%82%E4%BB%8A%E5%8F%AA%E5%89%A9%E5%85%B6%E4%BA%8C-b04039da</link>
+            <guid isPermaLink="false">WP-WSJS-0004062421</guid>
+            <pubDate>Fri, 13 Nov 2026 05:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[万斯考虑与伊朗强硬派直接会谈，以推动结束战争]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10159389?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一些美国官员表示，对万斯而言，将自己定位为与伊朗对话的主要代表存在政治风险。</p>]]></description>
-            <link>https://cn.wsj.com/articles/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-5dc48aa8</link>
-            <guid isPermaLink="false">WP-WSJS-0004055954</guid>
-            <pubDate>Thu, 12 Nov 2026 00:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[廉价弹道导弹扩散颠覆数十年来军事思维]]></title>
-            <description><![CDATA[<img width="1280" height="834" src="https://images.wsj.net/im-71075200?size=1.53&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着拦截弹库存减少，如今事实表明，即使面对伊朗和胡塞武装这样的三、四流军事力量，美军基地也容易遭到攻击。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-spread-of-cheaper-ballistic-missiles-rips-up-decades-of-military-thinking-0fa3d498</link>
-            <guid isPermaLink="false">WP-WSJS-0004056279</guid>
-            <pubDate>Thu, 12 Nov 2026 02:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储被迫正视现实：加息恐需更快、更猛]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-48386633?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>通胀担忧令美联储在12月会议上加息已几无悬念，但美联储必须采取多大力度的加息行动，又须以多快的速度推进？</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%81%94%E5%82%A8%E8%A2%AB%E8%BF%AB%E6%AD%A3%E8%A7%86%E7%8E%B0%E5%AE%9E-%E5%8A%A0%E6%81%AF%E6%81%90%E9%9C%80%E6%9B%B4%E5%BF%AB-%E6%9B%B4%E7%8C%9B-09cf9246</link>
-            <guid isPermaLink="false">WP-WSJS-0004053059</guid>
-            <pubDate>Wed, 11 Nov 2026 02:48:00 GMT</pubDate>
+            <title><![CDATA[美国切断全球对古巴的石油供应，如今古巴却靠美国燃料运转]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-24955897?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国总统特朗普领导的政府实施的石油禁运却带来了一个意想不到的结果：美国如今已成为古巴最主要的燃料供应国。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-u-s-cut-cuba-off-from-the-worlds-oil-now-it-runs-on-american-fuel-5a66c0ff</link>
+            <guid isPermaLink="false">WP-WSJS-0004062099</guid>
+            <pubDate>Fri, 13 Nov 2026 02:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[全球经济似乎难以抵御AI泡沫破裂的冲击]]></title>
@@ -105,6 +126,27 @@
             <pubDate>Thu, 12 Nov 2026 00:18:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[北京料想特朗普声势转弱，谈判桌上可能适得其反]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-20331820?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北京方面可能将中期选举结果视为迫使特朗普让步的机会。这恐怕是严重的战略误判，特朗普可能反而会对中国采取更强硬的路线。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%8C%97%E4%BA%AC%E6%96%99%E6%83%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%A3%B0%E5%8A%BF%E8%BD%AC%E5%BC%B1-%E8%B0%88%E5%88%A4%E6%A1%8C%E4%B8%8A%E5%8F%AF%E8%83%BD%E9%80%82%E5%BE%97%E5%85%B6%E5%8F%8D-0079de6d</link>
+            <guid isPermaLink="false">WP-WSJS-0004053055</guid>
+            <pubDate>Wed, 11 Nov 2026 02:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[改开电动车如何？来自《华尔街日报》读者的七条经验]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-02119152?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在本报专栏作家驾驶平价电动车雪佛兰Bolt深入美国南部腹地后，读者们纷纷分享了各自对电动车优势与短板的切身观察。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%94%B9%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%A6%82%E4%BD%95-%E6%9D%A5%E8%87%AA-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E8%AF%BB%E8%80%85%E7%9A%84%E4%B8%83%E6%9D%A1%E7%BB%8F%E9%AA%8C-0edf3d9b</link>
+            <guid isPermaLink="false">WP-WSJS-0004062143</guid>
+            <pubDate>Fri, 13 Nov 2026 02:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI如何帮我诊断出医生几十年来未能发现的病因]]></title>
+            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-62200302?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>多年来饱受各种难以解释的症状困扰后，我求助于AI，终于找到了医生们此前一直未能发现的复杂病症的答案。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai%E5%A6%82%E4%BD%95%E5%B8%AE%E6%88%91%E8%AF%8A%E6%96%AD%E5%87%BA%E5%8C%BB%E7%94%9F%E5%87%A0%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%AA%E8%83%BD%E5%8F%91%E7%8E%B0%E7%9A%84%E7%97%85%E5%9B%A0-d64c72d4</link>
+            <guid isPermaLink="false">WP-WSJS-0004062138</guid>
+            <pubDate>Fri, 13 Nov 2026 02:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[全球最致命航道：不是霍尔木兹海峡，而是黑海]]></title>
             <description><![CDATA[<img width="1280" height="821" src="https://images.wsj.net/im-65590942?size=1.56&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>黑海致命袭击事件激增，打乱贸易航线，也给北约带来新考验。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E6%9C%80%E8%87%B4%E5%91%BD%E8%88%AA%E9%81%93-%E4%B8%8D%E6%98%AF%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E8%80%8C%E6%98%AF%E9%BB%91%E6%B5%B7-8b7e9447</link>
@@ -112,11 +154,25 @@
             <pubDate>Thu, 12 Nov 2026 06:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北京料想特朗普声势转弱，谈判桌上可能适得其反]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-20331820?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>北京方面可能将中期选举结果视为迫使特朗普让步的机会。这恐怕是严重的战略误判，特朗普可能反而会对中国采取更强硬的路线。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%8C%97%E4%BA%AC%E6%96%99%E6%83%B3%E7%89%B9%E6%9C%97%E6%99%AE%E5%A3%B0%E5%8A%BF%E8%BD%AC%E5%BC%B1-%E8%B0%88%E5%88%A4%E6%A1%8C%E4%B8%8A%E5%8F%AF%E8%83%BD%E9%80%82%E5%BE%97%E5%85%B6%E5%8F%8D-0079de6d</link>
-            <guid isPermaLink="false">WP-WSJS-0004053055</guid>
-            <pubDate>Wed, 11 Nov 2026 02:40:00 GMT</pubDate>
+            <title><![CDATA[AI热潮推动中芯国际利润增长逾一倍，收入创新高]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44612260?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中芯国际第三季度毛利率达到29.9%，高于公司给出的26%至28%展望。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E9%80%BE%E4%B8%80%E5%80%8D-ai%E6%BA%A2%E5%87%BA%E6%95%88%E5%BA%94%E6%8E%A8%E5%8A%A8%E6%94%B6%E5%85%A5%E5%88%9B%E6%96%B0%E9%AB%98-1c62dc53</link>
+            <guid isPermaLink="false">WP-WSJS-0004057007</guid>
+            <pubDate>Thu, 12 Nov 2026 10:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黄仁勋的离职让AI初创公司的创始人们忧心忡忡]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-63260034?size=1.497&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>AI初创企业界大受震动，开源和开放模型企业尤其如此。“黄仁勋对这个生态系统的支持是独一无二的。”</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E7%A6%BB%E8%81%8C%E8%AE%A9ai%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%BB%AC%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1-b8849ac2</link>
+            <guid isPermaLink="false">WP-WSJS-0004061860</guid>
+            <pubDate>Fri, 13 Nov 2026 00:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI机器人开始刷信用卡消费，银行急谋对策]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-97804399?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Stripe正将自身定位为智能体商务的关键一环，而摩根大通对此持怀疑态度。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ai%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%88%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%B6%88%E8%B4%B9-%E9%93%B6%E8%A1%8C%E6%80%A5%E8%B0%8B%E5%AF%B9%E7%AD%96-bbd4a76d</link>
+            <guid isPermaLink="false">WP-WSJS-0004062329</guid>
+            <pubDate>Fri, 13 Nov 2026 03:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[孙正义豪赌燃气轮机遭反噬]]></title>
@@ -126,11 +182,25 @@
             <pubDate>Wed, 11 Nov 2026 04:07:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[看似“便宜”的ETF比你以为的要贵]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60642505?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>许多热门ETF的资产规模激增，但并未遵循投资行业随资本池扩大而减免费用的惯行做法。投资者每年都在支付额外费用，很大程度是由于惯性或疏忽。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%9C%8B%E4%BC%BC-%E4%BE%BF%E5%AE%9C-%E7%9A%84etf%E6%AF%94%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E8%A6%81%E8%B4%B5-387d24aa</link>
+            <guid isPermaLink="false">WP-WSJS-0004053279</guid>
+            <pubDate>Wed, 11 Nov 2026 05:59:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[科技巨头欲普及AI智能体，高昂成本谁来承担？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-75678229?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这类线上智能助手对算力的消耗极其高昂，各大企业目前只向高端付费订阅用户群体提供，或对使用权限设限。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E6%85%BE%E6%99%AE%E5%8F%8Aai%E6%99%BA%E8%83%BD%E4%BD%93-%E9%AB%98%E6%98%82%E6%88%90%E6%9C%AC%E8%B0%81%E6%9D%A5%E6%89%BF%E6%8B%85-1277c5fd</link>
             <guid isPermaLink="false">WP-WSJS-0004056634</guid>
             <pubDate>Thu, 12 Nov 2026 06:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一名真人演员如何为饰演AI角色做准备]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-45077141?size=1.778&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在CBS的律政剧《库比蒂诺》中，演员罗布·麦克卢尔饰演一个极其逼真的AI模型。这个模型想起诉创造它的人，因为他们移除了它的安全限制。</p>]]></description>
+            <link>https://cn.wsj.com/articles/cupertino-cbs-rob-mcclure-bo-ai-6dde3c86</link>
+            <guid isPermaLink="false">WP-WSJS-0004062107</guid>
+            <pubDate>Fri, 13 Nov 2026 02:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一家美国家具制造商试图将生产搬回本土，却发现行不通]]></title>
@@ -140,13 +210,6 @@
             <pubDate>Wed, 11 Nov 2026 05:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[老板们提振士气有新招：鼓励员工养植物]]></title>
-            <description><![CDATA[<img width="1280" height="865" src="https://images.wsj.net/im-87345753?size=1.48&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这项福利一定程度上是为了让许多员工能像居家办公时那样亲近自然。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%80%81%E6%9D%BF%E4%BB%AC%E6%8F%90%E6%8C%AF%E5%A3%AB%E6%B0%94%E6%9C%89%E6%96%B0%E6%8B%9B-%E9%BC%93%E5%8A%B1%E5%91%98%E5%B7%A5%E5%85%BB%E6%A4%8D%E7%89%A9-248e875b</link>
-            <guid isPermaLink="false">WP-WSJS-0004056249</guid>
-            <pubDate>Thu, 12 Nov 2026 02:24:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[一款问世50年的工业零件突然热销之谜]]></title>
             <description><![CDATA[<img width="1280" height="808" src="https://images.wsj.net/im-53851686?size=1.584&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一家排气阀制造商突然接到大量订单，买家身份却不明。这家有126年历史的公司最终发现，自己无意间进入了一个讲求速度、又高度保密的前沿市场。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%80%E6%AC%BE%E9%97%AE%E4%B8%9650%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%B8%9A%E9%9B%B6%E4%BB%B6%E7%AA%81%E7%84%B6%E7%83%AD%E9%94%80%E4%B9%8B%E8%B0%9C-f85c45b4</link>
@@ -154,53 +217,11 @@
             <pubDate>Wed, 11 Nov 2026 01:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[看似“便宜”的ETF比你以为的要贵]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-60642505?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>许多热门ETF的资产规模激增，但并未遵循投资行业随资本池扩大而减免费用的惯行做法。投资者每年都在支付额外费用，很大程度是由于惯性或疏忽。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%9C%8B%E4%BC%BC-%E4%BE%BF%E5%AE%9C-%E7%9A%84etf%E6%AF%94%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E8%A6%81%E8%B4%B5-387d24aa</link>
-            <guid isPermaLink="false">WP-WSJS-0004053279</guid>
-            <pubDate>Wed, 11 Nov 2026 05:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我对黄金的判断总是错的，你很可能也一样]]></title>
-            <description><![CDATA[<img width="1280" height="1056" src="https://images.wsj.net/im-88550747?size=1.212&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对黄金的判断总是出错的，并不只有我一个人。这是为什么呢？</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%88%91%E5%AF%B9%E9%BB%84%E9%87%91%E7%9A%84%E5%88%A4%E6%96%AD%E6%80%BB%E6%98%AF%E9%94%99%E7%9A%84-%E4%BD%A0%E5%BE%88%E5%8F%AF%E8%83%BD%E4%B9%9F%E4%B8%80%E6%A0%B7-278be753</link>
-            <guid isPermaLink="false">WP-WSJS-0004053130</guid>
-            <pubDate>Wed, 11 Nov 2026 03:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中芯国际利润增长逾一倍，AI溢出效应推动收入创新高]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-44612260?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中芯国际第三季度收入增长34%，毛利率达到29.9%。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E9%80%BE%E4%B8%80%E5%80%8D-ai%E6%BA%A2%E5%87%BA%E6%95%88%E5%BA%94%E6%8E%A8%E5%8A%A8%E6%94%B6%E5%85%A5%E5%88%9B%E6%96%B0%E9%AB%98-1c62dc53</link>
-            <guid isPermaLink="false">WP-WSJS-0004057007</guid>
-            <pubDate>Thu, 12 Nov 2026 10:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联航将禁止AI机器人预订机票]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-90719720?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美联航表示，担心第三方智能体可能泄露客户的敏感信息，或进行非用户本意的购买。该航司CEO说，“我不想再造出一个中间商”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%81%94%E8%88%AA%E5%B0%86%E7%A6%81%E6%AD%A2ai%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%84%E8%AE%A2%E6%9C%BA%E7%A5%A8-0d318300</link>
-            <guid isPermaLink="false">WP-WSJS-0004055830</guid>
-            <pubDate>Wed, 11 Nov 2026 23:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪就部分大唐SUV轮辋前后装错致歉，称系编码错误所致]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-46785500?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>比亚迪就部分大唐电动SUV前后轮辋装错致歉。这一事件发生之际，中国汽车制造商正面临外界对车辆质量和耐用性越来越多的审视。</p>]]></description>
-            <link>https://cn.wsj.com/articles/bydapologizes-for-mixing-up-suv-wheels-blames-coding-error-179f574d</link>
-            <guid isPermaLink="false">WP-WSJS-0004053614</guid>
-            <pubDate>Wed, 11 Nov 2026 09:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴芯片子公司平头哥申请在香港上市]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-65389498?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>香港证交所已确认，阿里巴巴可推进旗下半导体业务平头哥的首次公开募股。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%8A%AF%E7%89%87%E5%AD%90%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%A4%B4%E5%93%A5%E7%94%B3%E8%AF%B7%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82-b13eb057</link>
-            <guid isPermaLink="false">WP-WSJS-0004053281</guid>
-            <pubDate>Wed, 11 Nov 2026 06:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普进口俄罗斯柴油的计划在公海受阻]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-51559097?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普与普京的协议遭到反对并令买家感到不安后，原本驶往美国的油轮随后改道。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9B%E5%8F%A3%E4%BF%84%E7%BD%97%E6%96%AF%E6%9F%B4%E6%B2%B9%E7%9A%84%E8%AE%A1%E5%88%92%E5%9C%A8%E5%85%AC%E6%B5%B7%E5%8F%97%E9%98%BB-e2a8d5bc</link>
-            <guid isPermaLink="false">WP-WSJS-0004053102</guid>
-            <pubDate>Wed, 11 Nov 2026 03:19:00 GMT</pubDate>
+            <title><![CDATA[廉价弹道导弹扩散颠覆数十年来军事思维]]></title>
+            <description><![CDATA[<img width="1280" height="834" src="https://images.wsj.net/im-71075200?size=1.53&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着拦截弹库存减少，如今事实表明，即使面对伊朗和胡塞武装这样的三、四流军事力量，美军基地也容易遭到攻击。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-spread-of-cheaper-ballistic-missiles-rips-up-decades-of-military-thinking-0fa3d498</link>
+            <guid isPermaLink="false">WP-WSJS-0004056279</guid>
+            <pubDate>Thu, 12 Nov 2026 02:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“Broken China”书评：中国增长的海市蜃楼]]></title>
@@ -210,32 +231,25 @@
             <pubDate>Mon, 09 Nov 2026 07:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国在南太平洋拓展影响力的势头遇阻]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-83396850?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着政治风向转变、澳大利亚展开外交攻势，华盛顿在具有战略意义的岛屿地区获得助力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%8B%93%E5%B1%95%E5%BD%B1%E5%93%8D%E5%8A%9B%E7%9A%84%E5%8A%BF%E5%A4%B4%E9%81%87%E9%98%BB-3193c087</link>
-            <guid isPermaLink="false">WP-WSJS-0004045930</guid>
-            <pubDate>Mon, 09 Nov 2026 06:06:00 GMT</pubDate>
+            <title><![CDATA[走进“大理福尼亚”：中国年轻人的“躺平之都”告诉我的事]]></title>
+            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-03375628?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国年轻人逃离内卷的潮流引发了官方担忧。然而，许多中国青年其实依然渴望重返职场。</p>]]></description>
+            <link>https://cn.wsj.com/articles/what-i-learned-in-dalifornia-chinas-laid-back-capital-of-doing-nothing-43b6a199</link>
+            <guid isPermaLink="false">WP-WSJS-0004025973</guid>
+            <pubDate>Mon, 02 Nov 2026 05:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中期选举惨败令万斯更难决定是否参加2028年总统竞选]]></title>
-            <description><![CDATA[<img width="1280" height="850" src="https://images.wsj.net/im-34888661?size=1.5053763440860215&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一些接近副总统的人士担心，任何共和党人都难以赢得两年后的总统大选。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%83%A8%E8%B4%A5%E4%BB%A4%E4%B8%87%E6%96%AF%E6%9B%B4%E9%9A%BE%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E5%8F%82%E5%8A%A02028%E5%B9%B4%E6%80%BB%E7%BB%9F%E7%AB%9E%E9%80%89-2df77976</link>
-            <guid isPermaLink="false">WP-WSJS-0004048932</guid>
-            <pubDate>Tue, 10 Nov 2026 01:15:00 GMT</pubDate>
+            <title><![CDATA[黄仁勋身陷丑闻，台湾对这位家乡英雄的拥戴面临考验]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-46913974?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>黄仁勋在台湾一直备受追捧。如今，台湾开始以不同的眼光看待他。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BA%AB%E9%99%B7%E4%B8%91%E9%97%BB-%E5%8F%B0%E6%B9%BE%E5%AF%B9%E8%BF%99%E4%BD%8D%E5%AE%B6%E4%B9%A1%E8%8B%B1%E9%9B%84%E7%9A%84%E6%8B%A5%E6%88%B4%E9%9D%A2%E4%B8%B4%E8%80%83%E9%AA%8C-e3a9577b</link>
+            <guid isPermaLink="false">WP-WSJS-0004056326</guid>
+            <pubDate>Thu, 12 Nov 2026 02:45:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[权力狂飙两年后，特朗普如今要直面残酷现实]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-43583319?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在未来的两年任期内，这位总统若想取得任何持久的施政成果，就必须接受权力受限并作出妥协。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%9D%83%E5%8A%9B%E7%8B%82%E9%A3%99%E4%B8%A4%E5%B9%B4%E5%90%8E-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%82%E4%BB%8A%E8%A6%81%E7%9B%B4%E9%9D%A2%E6%AE%8B%E9%85%B7%E7%8E%B0%E5%AE%9E-75299548</link>
-            <guid isPermaLink="false">WP-WSJS-0004040160</guid>
-            <pubDate>Fri, 06 Nov 2026 02:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI正在取代白领岗位吗？最新数据揭示了什么]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-29119421?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>律师事务所和咨询公司招聘强劲，缓解了有关大规模失业的担忧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ai%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E7%99%BD%E9%A2%86%E5%B2%97%E4%BD%8D%E5%90%97-%E6%9C%80%E6%96%B0%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A4%BA%E4%BA%86%E4%BB%80%E4%B9%88-c4c97f47</link>
-            <guid isPermaLink="false">WP-WSJS-0004045494</guid>
-            <pubDate>Mon, 09 Nov 2026 01:29:00 GMT</pubDate>
+            <title><![CDATA[年满50岁？前列腺癌筛查不再是可选项]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-72415027?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国癌症协会建议，大多数男性从50岁起定期接受前列腺癌检测，因为医学进步已降低了过度治疗的风险，而筛查能够减少死亡病例。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%B9%B4%E6%BB%A150%E5%B2%81-%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E7%AD%9B%E6%9F%A5%E4%B8%8D%E5%86%8D%E6%98%AF%E5%8F%AF%E9%80%89%E9%A1%B9%E4%BA%86-a05dc1b4</link>
+            <guid isPermaLink="false">WP-WSJS-0004061970</guid>
+            <pubDate>Fri, 13 Nov 2026 01:21:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“我说不定能永远活下去”：一位地产富豪延缓衰老的挥金生活]]></title>
@@ -243,20 +257,6 @@
             <link>https://cn.wsj.com/articles/meet-the-real-estate-billionaire-spending-a-fortune-to-slow-down-aging-c9466e8f</link>
             <guid isPermaLink="false">WP-WSJS-0004056216</guid>
             <pubDate>Thu, 12 Nov 2026 01:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[带孩子找老外练英语最成体系的地方：越南]]></title>
-            <description><![CDATA[<img width="1280" height="960" src="https://images.wsj.net/im-37420111?size=1.333&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在河内湖畔，为练就一口流利的外语，孩子们成群结队地寻找外国游客，把他们当作真人版的多邻国课堂。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%B8%A6%E5%AD%A9%E5%AD%90%E6%89%BE%E8%80%81%E5%A4%96%E7%BB%83%E8%8B%B1%E8%AF%AD%E6%9C%80%E6%88%90%E4%BD%93%E7%B3%BB%E7%9A%84%E5%9C%B0%E6%96%B9-%E8%B6%8A%E5%8D%97-b77cb4b4</link>
-            <guid isPermaLink="false">WP-WSJS-0004049502</guid>
-            <pubDate>Tue, 10 Nov 2026 06:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[走进“大理福尼亚”：中国年轻人的“躺平之都”告诉我的事]]></title>
-            <description><![CDATA[<img width="1280" height="1024" src="https://images.wsj.net/im-03375628?size=1.25&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国年轻人逃离内卷的潮流引发了官方担忧。然而，许多中国青年其实依然渴望重返职场。</p>]]></description>
-            <link>https://cn.wsj.com/articles/what-i-learned-in-dalifornia-chinas-laid-back-capital-of-doing-nothing-43b6a199</link>
-            <guid isPermaLink="false">WP-WSJS-0004025973</guid>
-            <pubDate>Mon, 02 Nov 2026 05:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>
