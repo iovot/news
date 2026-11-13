@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:22:04.766612+00:00",
+  "generated_at": "2026-11-13T21:22:12.188576+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-45678142?size=1.502&width=1280",
       "snapshot": "articles/e5-ad-a6-e4-bd-8d-e9-9a-be-e6-8d-a2-e5-87-ba-e8--7e4dcfdb9089.html",
       "captured": true,
-      "capture_title": "学历无用，失业率最高40%：印度青年抗议浪潮背后 - WSJ",
+      "capture_title": "学历无用，失业率最高40%：印度青年抗议浪潮背后",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-13824890?size=1.5&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bdai-e5-85-ac-e5-8f-b8-e6-9c-88-e-704c3e35dbd5.html",
       "captured": true,
-      "capture_title": "中国AI公司月之暗面即将完成架构重组，为IPO铺路 - WSJ",
+      "capture_title": "中国AI公司月之暗面即将完成架构重组，为IPO铺路",
       "error": ""
     },
     {
@@ -241,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-67819560?size=1.48&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-b6-88-e8-b4-b9-e5-b8-82-e5--402a27ab87a0.html",
       "captured": true,
-      "capture_title": "中国消费市场低迷，但AI Token是一个亮点 - WSJ",
+      "capture_title": "中国消费市场低迷，但AI Token是一个亮点",
       "error": ""
     },
     {
@@ -265,7 +265,7 @@
       "image_url": "https://images.wsj.net/im-48306555?size=1.501&width=1280",
       "snapshot": "articles/e5-be-ae-e8-bd-af-e5-87-ba-e7-8e-b0-e5-a4-a7-e8--dbc33c88d642.html",
       "captured": true,
-      "capture_title": "微软正努力修复大范围服务故障 - WSJ",
+      "capture_title": "微软正努力修复大范围服务故障",
       "error": ""
     },
     {
