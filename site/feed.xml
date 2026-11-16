@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 10:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 21:48:11 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 10:49:37 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 21:48:11 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -56,6 +56,13 @@
             <pubDate>Mon, 16 Nov 2026 03:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[图解动摇AI交易并重塑华尔街的一个月]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-37610444?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>有关一只基金崩盘的传闻、选举之夜的急转弯和一桩间谍丑闻，成为一段交易异常激烈时期的几条主线。“投资不费脑筋”的时代宣告终结。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-85d12645</link>
+            <guid isPermaLink="false">WP-WSJS-0004067997</guid>
+            <pubDate>Mon, 16 Nov 2026 07:12:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国商品需求激增，但国内经济动能放缓]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-10796622?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>全球对中国商品的需求似乎仍无放缓迹象。但国内消费和投资疲软，中国仍依赖出口拉动经济增长。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%86%85%E9%9C%80%E7%BB%A7%E7%BB%AD%E8%AE%A9%E4%BA%BA%E5%A4%B1%E6%9C%9B-10%E6%9C%88%E4%B8%89%E5%A4%A7%E6%8C%87%E6%A0%87%E5%9D%87%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F-72cd27dc</link>
@@ -75,13 +82,6 @@
             <link>https://cn.wsj.com/articles/%E7%BE%8A%E5%B9%B4%E5%B0%86%E8%87%B3-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E6%8E%80%E8%B5%B7-%E7%BE%8A%E5%AD%97%E8%BE%88-%E6%A6%82%E5%BF%B5%E7%82%92%E4%BD%9C-eae8f588</link>
             <guid isPermaLink="false">WP-WSJS-0004067861</guid>
             <pubDate>Mon, 16 Nov 2026 04:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[图解动摇AI交易并重塑华尔街的一个月]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-37610444?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>有关一只基金崩盘的传闻、选举之夜的急转弯和一桩间谍丑闻，成为一段交易异常激烈时期的几条主线。“投资不费脑筋”的时代宣告终结。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-85d12645</link>
-            <guid isPermaLink="false">WP-WSJS-0004067997</guid>
-            <pubDate>Mon, 16 Nov 2026 07:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普重量级盟友曾助力放行遭扣中国电子烟入美]]></title>

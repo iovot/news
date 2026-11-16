@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:00:33.883599+00:00",
+  "generated_at": "2026-11-16T21:48:12.526370+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-74127198?size=1.5&width=1280",
       "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a6-82-e4-bd-95-e5--01c42c6ddf0e.html",
       "captured": true,
-      "capture_title": "黄仁勋如何开辟“暗道”让中国继续参与AI竞赛 - WSJ",
+      "capture_title": "黄仁勋如何开辟“暗道”让中国继续参与AI竞赛",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-44698315?size=1.429&width=1280",
       "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e9-a3-8e-e6-b3-a2-e8--cfb87136ed79.html",
       "captured": true,
-      "capture_title": "英伟达风波背后潜伏着庞大的中国情报机器 - WSJ",
+      "capture_title": "英伟达风波背后潜伏着庞大的中国情报机器",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-77892472?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-94-bf-e5-ba-9c-e6--d828b3e456ec.html",
       "captured": true,
-      "capture_title": "特朗普政府拟将英伟达列入AI“国家领军企业”名单 - WSJ",
+      "capture_title": "特朗普政府拟将英伟达列入AI“国家领军企业”名单",
       "error": ""
     },
     {
@@ -49,7 +49,19 @@
       "image_url": "https://images.wsj.net/im-57198795?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e4-b8-8e-e9-bb-84-e4--15bb61af6983.html",
       "captured": true,
-      "capture_title": "特朗普与黄仁勋是如何结成强力政商同盟的？ - WSJ",
+      "capture_title": "特朗普与黄仁勋是如何结成强力政商同盟的？",
+      "error": ""
+    },
+    {
+      "title": "图解动摇AI交易并重塑华尔街的一个月",
+      "summary": "有关一只基金崩盘的传闻、选举之夜的急转弯和一桩间谍丑闻，成为一段交易异常激烈时期的几条主线。“投资不费脑筋”的时代宣告终结。",
+      "link": "https://cn.wsj.com/articles/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-85d12645",
+      "guid": "WP-WSJS-0004067997",
+      "pub_date": "Mon, 16 Nov 2026 07:12:00 GMT",
+      "image_url": "https://images.wsj.net/im-37610444?size=1.5&width=1280",
+      "snapshot": "articles/the-month-that-rocked-the-ai-trade-and-rewired-w-0014b7d3d3fe.html",
+      "captured": true,
+      "capture_title": "图解动摇AI交易并重塑华尔街的一个月",
       "error": ""
     },
     {
@@ -61,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-10796622?size=1.501&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-86-85-e9-9c-80-e7-bb-a7-e7--800ac75e7fe7.html",
       "captured": true,
-      "capture_title": "中国商品需求激增，但国内经济动能放缓 - WSJ",
+      "capture_title": "中国商品需求激增，但国内经济动能放缓",
       "error": ""
     },
     {
@@ -85,19 +97,7 @@
       "image_url": "https://images.mktw.net/im-49936413?size=1.5&width=1280",
       "snapshot": "articles/e7-be-8a-e5-b9-b4-e5-b0-86-e8-87-b3--e4-b8-ad-e5-72d1b10d9213.html",
       "captured": true,
-      "capture_title": "羊年将至，中国股市掀起“羊字辈”概念炒作 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "图解动摇AI交易并重塑华尔街的一个月",
-      "summary": "有关一只基金崩盘的传闻、选举之夜的急转弯和一桩间谍丑闻，成为一段交易异常激烈时期的几条主线。“投资不费脑筋”的时代宣告终结。",
-      "link": "https://cn.wsj.com/articles/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-85d12645",
-      "guid": "WP-WSJS-0004067997",
-      "pub_date": "Mon, 16 Nov 2026 07:12:00 GMT",
-      "image_url": "https://images.wsj.net/im-37610444?size=1.5&width=1280",
-      "snapshot": "articles/the-month-that-rocked-the-ai-trade-and-rewired-w-0014b7d3d3fe.html",
-      "captured": true,
-      "capture_title": "图解动摇AI交易并重塑华尔街的一个月 - WSJ",
+      "capture_title": "羊年将至，中国股市掀起“羊字辈”概念炒作",
       "error": ""
     },
     {
@@ -109,7 +109,7 @@
       "image_url": "https://images.wsj.net/im-37691215?size=1.501&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e9-87-8d-e9-87-8f-e7--80ae5f66659c.html",
       "captured": true,
-      "capture_title": "特朗普重量级盟友曾助力放行遭扣中国电子烟入美 - WSJ",
+      "capture_title": "特朗普重量级盟友曾助力放行遭扣中国电子烟入美",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-90695444?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e4-bc-b0-e8-ae-a1-e4-bc-8a-e6--a8bea536f1fc.html",
       "captured": true,
-      "capture_title": "美国估计伊朗仍拥有至多2,500枚导弹，与特朗普说法相左 - WSJ",
+      "capture_title": "美国估计伊朗仍拥有至多2,500枚导弹，与特朗普说法相左",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-48662879?size=1.5&width=1280",
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-8c-96-e8-b5-b0-e8-bf-99-e4--834ff8805aea.html",
       "captured": true,
-      "capture_title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入 - WSJ",
+      "capture_title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-21028179?size=1.499&width=1280",
       "snapshot": "articles/e7-a1-85-e8-b0-b7-e5-91-bc-e5-90-81-e9-bb-84-e4--981bcc8ee65e.html",
       "captured": true,
-      "capture_title": "硅谷呼吁黄仁勋重掌英伟达 - WSJ",
+      "capture_title": "硅谷呼吁黄仁勋重掌英伟达",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-49142809?size=1.499&width=1280",
       "snapshot": "articles/the-individual-investors-who-are-hot-on-anthropi-3c45308c6966.html",
       "captured": true,
-      "capture_title": "SpaceX的IPO有马斯克的明星效应，Anthropic上市则有“错失恐惧”情绪助推 - WSJ",
+      "capture_title": "SpaceX的IPO有马斯克的明星效应，Anthropic上市则有“错失恐惧”情绪助推",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-79309172?size=1.78&width=1280",
       "snapshot": "articles/apple-watch-e5-8f-af-e4-bb-a5-e7-9b-91-e5-90-ac--3987fe58d725.html",
       "captured": true,
-      "capture_title": "Apple Watch可以监听对话了：这是实用，还是让人不安？ - WSJ",
+      "capture_title": "Apple Watch可以监听对话了：这是实用，还是让人不安？",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-29421732?size=1.5&width=1280",
       "snapshot": "articles/e5-ae-83-e4-bb-ac-e6-ad-a3-e5-9c-a8-e5-81-b7-e8--4120899f6be1.html",
       "captured": true,
-      "capture_title": "“它们正在偷走天空”：亚马逊送货无人机引发的后院保卫战 - WSJ",
+      "capture_title": "“它们正在偷走天空”：亚马逊送货无人机引发的后院保卫战",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-65060635?size=1.778&width=1280",
       "snapshot": "articles/e9-99-86-e4-b8-8a-e5-bb-ba-e8-ae-be-e9-81-87-e9--127dfb5b57c7.html",
       "captured": true,
-      "capture_title": "陆上建设遇阻，数据中心把目光投向海洋 - WSJ",
+      "capture_title": "陆上建设遇阻，数据中心把目光投向海洋",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-29660730?size=1.501&width=1280",
       "snapshot": "articles/the-single-router-in-southern-arkansas-that-grou-84841ed3b689.html",
       "captured": true,
-      "capture_title": "全美航班停飞的罪魁祸首：阿肯色州南部的一台路由器 - WSJ",
+      "capture_title": "全美航班停飞的罪魁祸首：阿肯色州南部的一台路由器",
       "error": ""
     },
     {
@@ -241,7 +241,7 @@
       "image_url": "https://images.wsj.net/im-29366662?size=1.501&width=1280",
       "snapshot": "articles/e9-98-bf-e9-87-8c-e5-b7-b4-e5-b7-b4-e5-8f-91-e5--ba0a25086db8.html",
       "captured": true,
-      "capture_title": "阿里巴巴发布性能更强、成本更低的AI模型 - WSJ",
+      "capture_title": "阿里巴巴发布性能更强、成本更低的AI模型",
       "error": ""
     },
     {
@@ -253,7 +253,7 @@
       "image_url": "https://images.wsj.net/im-72398495?size=1.501&width=1280",
       "snapshot": "articles/gucci-is-cutting-prices-louis-vuitton-is-relucta-366b3153db26.html",
       "captured": true,
-      "capture_title": "古驰正在降价，路易威登不愿跟风 - WSJ",
+      "capture_title": "古驰正在降价，路易威登不愿跟风",
       "error": ""
     },
     {
@@ -277,7 +277,7 @@
       "image_url": "https://images.wsj.net/im-46838148?size=1.501&width=1280",
       "snapshot": "articles/federal-reserve-calendar-changes-af374e45-d938d632676a.html",
       "captured": true,
-      "capture_title": "沃什重塑美联储的计划：减少利率表决，增加深入思考 - WSJ",
+      "capture_title": "沃什重塑美联储的计划：减少利率表决，增加深入思考",
       "error": ""
     },
     {
