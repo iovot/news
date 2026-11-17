@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:28:19.102124+00:00",
+  "generated_at": "2026-11-17T18:24:55.819334+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-93017491?size=1.494&width=1280",
       "snapshot": "articles/e4-b9-a0-e7-89-b9-e4-bc-9a-e5-89-8d-e5-a4-95--e7-954cbb9c59fb.html",
       "captured": true,
-      "capture_title": "习特会前夕，特朗普顾问围绕对华政策激烈内讧 - WSJ",
+      "capture_title": "习特会前夕，特朗普顾问围绕对华政策激烈内讧",
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "image_url": "https://images.wsj.net/im-89187570?size=1.4965986394557824&width=1280",
       "snapshot": "articles/e4-b8-ba-e4-bd-95-e6-9c-ac-e5-91-a8-e4-b8-ad-e7--c1520c571e86.html",
       "captured": true,
-      "capture_title": "为何本周中美俄三方峰会不会成为“雅尔塔2.0”？ - WSJ",
+      "capture_title": "为何本周中美俄三方峰会不会成为“雅尔塔2.0”？",
       "error": ""
     },
     {
@@ -61,7 +61,7 @@
       "image_url": "https://images.wsj.net/im-02639317?size=1&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-94-b6-e7-b4-a7-e8-8a-af-e7--2c4304944d26.html",
       "captured": true,
-      "capture_title": "美国收紧芯片出口管制对中国AI行业影响不一 - WSJ",
+      "capture_title": "美国收紧芯片出口管制对中国AI行业影响不一",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-31913004?size=1.5&width=1280",
       "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e8-91-a3-e4-ba-8b-e4--1f22b35bd5a9.html",
       "captured": true,
-      "capture_title": "英伟达董事们如何在监督公司的同时斩获上百亿美元 - WSJ",
+      "capture_title": "英伟达董事们如何在监督公司的同时斩获上百亿美元",
       "error": ""
     },
     {
@@ -85,7 +85,31 @@
       "image_url": "https://images.wsj.net/im-57054014?size=1.4&width=1280",
       "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e7-a7-b0-e5-8f-af-e8--f7dcdd298836.html",
       "captured": true,
-      "capture_title": "特朗普称可能在中国与金正恩会晤 - WSJ",
+      "capture_title": "特朗普称可能在中国与金正恩会晤",
+      "error": ""
+    },
+    {
+      "title": "乌克兰袭击摧毁俄罗斯克里米亚大桥部分桥段",
+      "summary": "此次袭击使用了无人机和巡航导弹。此前，俄罗斯已连续数周袭击基辅的桥梁。",
+      "link": "https://cn.wsj.com/articles/%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E6%91%A7%E6%AF%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E9%83%A8%E5%88%86%E6%A1%A5%E6%AE%B5-127d6798",
+      "guid": "WP-WSJS-0004071480",
+      "pub_date": "Tue, 17 Nov 2026 09:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-89942579?size=1.501&width=1280",
+      "snapshot": "articles/e4-b9-8c-e5-85-8b-e5-85-b0-e8-a2-ad-e5-87-bb-e6--6b9d4d3e90ee.html",
+      "captured": true,
+      "capture_title": "乌克兰袭击摧毁俄罗斯克里米亚大桥部分桥段 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "巴西与阿根廷领导人之间的争斗蔓延至全球舞台",
+      "summary": "左翼领导人路易斯·伊纳西奥·卢拉·达席尔瓦与右翼领导人哈维尔·米莱之间的辱骂、冷落与贬斥不断升级。",
+      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E8%A5%BF%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%8B%E9%97%B4%E7%9A%84%E4%BA%89%E6%96%97%E8%94%93%E5%BB%B6%E8%87%B3%E5%85%A8%E7%90%83%E8%88%9E%E5%8F%B0-b803ea7f",
+      "guid": "WP-WSJS-0004071140",
+      "pub_date": "Tue, 17 Nov 2026 04:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-05108304?size=1.501&width=1280",
+      "snapshot": "articles/e5-b7-b4-e8-a5-bf-e4-b8-8e-e9-98-bf-e6-a0-b9-e5--f57a12694655.html",
+      "captured": true,
+      "capture_title": "巴西与阿根廷领导人之间的争斗蔓延至全球舞台",
       "error": ""
     },
     {
@@ -98,6 +122,186 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-86-85-e9-9c-80-e7-bb-a7-e7--800ac75e7fe7.html",
       "captured": true,
       "capture_title": "中国商品需求激增，但国内经济动能放缓",
+      "error": ""
+    },
+    {
+      "title": "黄乐丈夫依托中国政府支持建起数据中心帝国",
+      "summary": "在黄乐与英伟达前CEO黄仁勋交往期间，她的丈夫康伟则在中国搭建起规模庞大的数据中心网络。",
+      "link": "https://cn.wsj.com/articles/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-e8b4bf41",
+      "guid": "WP-WSJS-0004071279",
+      "pub_date": "Tue, 17 Nov 2026 13:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-05885753?size=1.501&width=1280",
+      "snapshot": "articles/alice-huangs-husband-built-a-data-center-empire--8308644c8110.html",
+      "captured": true,
+      "capture_title": "黄乐丈夫依托中国政府支持建起数据中心帝国 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
+      "summary": "刘军从北京到波士顿、再返回北京的经历，是华裔学者纷纷离开美国的一个缩影。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8C%96%E8%B5%B0%E8%BF%99%E4%BD%8D%E5%93%88%E4%BD%9B%E9%A1%B6%E5%B0%96%E6%95%99%E6%8E%88-%E5%A6%82%E4%BB%8A%E4%BB%96%E5%B8%8C%E6%9C%9B%E6%9B%B4%E5%A4%9A%E5%90%8C%E8%A1%8C%E5%8A%A0%E5%85%A5-b6c296dd",
+      "guid": "WP-WSJS-0004067850",
+      "pub_date": "Mon, 16 Nov 2026 04:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-48662879?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-8c-96-e8-b5-b0-e8-bf-99-e4--834ff8805aea.html",
+      "captured": true,
+      "capture_title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
+      "error": ""
+    },
+    {
+      "title": "当众训斥、美酒派对与“皇室家族”：黄仁勋掌舵下的英伟达文化",
+      "summary": "长期执掌英伟达的黄仁勋以严苛和难以相处闻名，他的女儿也是如此。",
+      "link": "https://cn.wsj.com/articles/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-c9e92851",
+      "guid": "WP-WSJS-0004071218",
+      "pub_date": "Tue, 17 Nov 2026 05:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-40674843?size=1.5&width=1280",
+      "snapshot": "articles/put-downs-parties-and-a-royal-family-the-culture-64b7d9660b5c.html",
+      "captured": true,
+      "capture_title": "当众训斥、美酒派对与“皇室家族”：黄仁勋掌舵下的英伟达文化",
+      "error": ""
+    },
+    {
+      "title": "哪些投资者将从Anthropic上市中大赚一笔？",
+      "summary": "风投机构、领先科技企业和主权财富基金有望收获巨额回报。",
+      "link": "https://cn.wsj.com/articles/%E5%93%AA%E4%BA%9B%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E4%BB%8Eanthropic%E4%B8%8A%E5%B8%82%E4%B8%AD%E5%A4%A7%E8%B5%9A%E4%B8%80%E7%AC%94-38df1b18",
+      "guid": "WP-WSJS-0004070768",
+      "pub_date": "Tue, 17 Nov 2026 01:07:00 GMT",
+      "image_url": "https://images.wsj.net/im-50782598?size=1.5&width=1280",
+      "snapshot": "articles/e5-93-aa-e4-ba-9b-e6-8a-95-e8-b5-84-e8-80-85-e5--4cd17656c4f8.html",
+      "captured": true,
+      "capture_title": "哪些投资者将从Anthropic上市中大赚一笔？",
+      "error": ""
+    },
+    {
+      "title": "民主党人说共和党好话：志在2028年大选的伊曼纽尔押注美国需要一位激进中间派总统",
+      "summary": "前芝加哥市长伊曼纽尔正开辟一条中间路线，将矛头对准腐败与税制漏洞，而非资本主义本身的弊病。",
+      "link": "https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E8%AF%B4%E5%85%B1%E5%92%8C%E5%85%9A%E5%A5%BD%E8%AF%9D-%E5%BF%97%E5%9C%A82028%E5%B9%B4%E5%A4%A7%E9%80%89%E7%9A%84%E4%BC%8A%E6%9B%BC%E7%BA%BD%E5%B0%94%E6%8A%BC%E6%B3%A8%E7%BE%8E%E5%9B%BD%E9%9C%80%E8%A6%81%E4%B8%80%E4%BD%8D%E6%BF%80%E8%BF%9B%E4%B8%AD%E9%97%B4%E6%B4%BE%E6%80%BB%E7%BB%9F-9dd549cb",
+      "guid": "WP-WSJS-0004070912",
+      "pub_date": "Tue, 17 Nov 2026 02:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-71149831?size=1.5&width=1280",
+      "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e4-ba-ba-e8-af-b4-e5--ab538f61e3fb.html",
+      "captured": true,
+      "capture_title": "民主党人说共和党好话：志在2028年大选的伊曼纽尔押注美国需要一位激进中间派总统",
+      "error": ""
+    },
+    {
+      "title": "我与全美50个州的求职者聊了聊：如今怎样才能找到工作？",
+      "summary": "如何攻克当下的就业市场？从收费1万美元的求职顾问到“80/20”法则，十件事值得了解。",
+      "link": "https://cn.wsj.com/articles/%E6%88%91%E4%B8%8E%E5%85%A8%E7%BE%8E50%E4%B8%AA%E5%B7%9E%E7%9A%84%E6%B1%82%E8%81%8C%E8%80%85%E8%81%8A%E4%BA%86%E8%81%8A-%E5%A6%82%E4%BB%8A%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C-94437da5",
+      "guid": "WP-WSJS-0004071174",
+      "pub_date": "Tue, 17 Nov 2026 04:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-65288236?size=1.499&width=1280",
+      "snapshot": "articles/e6-88-91-e4-b8-8e-e5-85-a8-e7-be-8e50-e4-b8-aa-e-629615fd547d.html",
+      "captured": true,
+      "capture_title": "我与全美50个州的求职者聊了聊：如今怎样才能找到工作？",
+      "error": ""
+    },
+    {
+      "title": "罗伯特·帕丁森将出演下一任邦德",
+      "summary": "下一位为英国效力的詹姆斯·邦德已经接下任务。这也是IP新母公司亚马逊首次选定邦德扮演者。",
+      "link": "https://cn.wsj.com/articles/james-bond-robert-pattinson-a4bf6c74",
+      "guid": "WP-WSJS-0004070632",
+      "pub_date": "Mon, 16 Nov 2026 23:48:00 GMT",
+      "image_url": "https://images.wsj.net/im-91880025?size=0.75&width=1280",
+      "snapshot": "articles/james-bond-robert-pattinson-a4bf6c74-736634e29da6.html",
+      "captured": true,
+      "capture_title": "罗伯特·帕丁森将出演下一任邦德",
+      "error": ""
+    },
+    {
+      "title": "活得更久未必等于活得更好：我们究竟想活到多少岁？",
+      "summary": "对许多人来说，晚年生活质量正变得与长寿同样重要。",
+      "link": "https://cn.wsj.com/articles/%E6%B4%BB%E5%BE%97%E6%9B%B4%E4%B9%85%E6%9C%AA%E5%BF%85%E7%AD%89%E4%BA%8E%E6%B4%BB%E5%BE%97%E6%9B%B4%E5%A5%BD-%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E6%83%B3%E6%B4%BB%E5%88%B0%E5%A4%9A%E5%B0%91%E5%B2%81-fa5f7c72",
+      "guid": "WP-WSJS-0004071165",
+      "pub_date": "Tue, 17 Nov 2026 04:46:00 GMT",
+      "image_url": "https://images.wsj.net/im-11808921?size=1.501&width=1280",
+      "snapshot": "articles/e6-b4-bb-e5-be-97-e6-9b-b4-e4-b9-85-e6-9c-aa-e5--5af1af7675a8.html",
+      "captured": true,
+      "capture_title": "活得更久未必等于活得更好：我们究竟想活到多少岁？",
+      "error": ""
+    },
+    {
+      "title": "中国在铁矿石市场展现强势，澳大利亚及其矿商承压",
+      "summary": "中国正利用其国有采购机构中国矿产资源集团，要求澳大利亚矿商提供铁矿石折扣和其他让步。",
+      "link": "https://cn.wsj.com/articles/china-flexes-muscle-in-iron-ore-squeezing-australia-and-its-miners-dfebfb15",
+      "guid": "WP-WSJS-0004071300",
+      "pub_date": "Tue, 17 Nov 2026 07:20:00 GMT",
+      "image_url": "https://images.wsj.net/im-34306543?size=1.501&width=1280",
+      "snapshot": "articles/china-flexes-muscle-in-iron-ore-squeezing-austra-618dbad4dfcd.html",
+      "captured": true,
+      "capture_title": "中国在铁矿石市场展现强势，澳大利亚及其矿商承压 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "长鑫存储预计存储芯片市场将保持韧性",
+      "summary": "长鑫存储预计，随着AI从数据中心扩展到智能手机、个人电脑和汽车，市场对存储芯片的需求将保持强劲。",
+      "link": "https://cn.wsj.com/articles/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E9%A2%84%E8%AE%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%E5%B0%86%E4%BF%9D%E6%8C%81%E9%9F%A7%E6%80%A7-1d64859d",
+      "guid": "WP-WSJS-0004071588",
+      "pub_date": "Tue, 17 Nov 2026 10:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-11723854?size=1.499&width=1280",
+      "snapshot": "articles/e9-95-bf-e9-91-ab-e5-ad-98-e5-82-a8-e9-a2-84-e8--e939359979a0.html",
+      "captured": true,
+      "capture_title": "长鑫存储预计存储芯片市场将保持韧性 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "罗氏新型乳腺癌口服药首获美国批准上市",
+      "summary": "这家瑞士制药商表示，该药已获准与诺华的Afinitor联合使用，治疗一种晚期或转移性乳腺癌。",
+      "link": "https://cn.wsj.com/articles/%E7%BD%97%E6%B0%8F%E6%96%B0%E5%9E%8B%E4%B9%B3%E8%85%BA%E7%99%8C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E9%A6%96%E8%8E%B7%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E4%B8%8A%E5%B8%82-daa4ed90",
+      "guid": "WP-WSJS-0004071400",
+      "pub_date": "Tue, 17 Nov 2026 08:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-14449714?size=1.501&width=1280",
+      "snapshot": "articles/e7-bd-97-e6-b0-8f-e6-96-b0-e5-9e-8b-e4-b9-b3-e8--c7326167a2e0.html",
+      "captured": true,
+      "capture_title": "罗氏新型乳腺癌口服药首获美国批准上市 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "全美停飞令影响持续扩大：受影响航班达2万架次且仍在增加",
+      "summary": "在美国的航空公司中，JetBlue Airways的周末航班取消比例最高。",
+      "link": "https://cn.wsj.com/articles/faa-groundstop-cost-36ea7af3",
+      "guid": "WP-WSJS-0004070931",
+      "pub_date": "Tue, 17 Nov 2026 02:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-82704915?size=1.5&width=1280",
+      "snapshot": "articles/faa-groundstop-cost-36ea7af3-63954eeb9c94.html",
+      "captured": true,
+      "capture_title": "全美停飞令影响持续扩大：受影响航班达2万架次且仍在增加",
+      "error": ""
+    },
+    {
+      "title": "OpenAI与北约在网络防御领域展开合作",
+      "summary": "OpenAI表示，正向北约提供其先进的网络安全模型，帮助这一军事联盟保护其网络，抵御日益复杂的威胁。",
+      "link": "https://cn.wsj.com/articles/openai%E4%B8%8E%E5%8C%97%E7%BA%A6%E5%9C%A8%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1%E9%A2%86%E5%9F%9F%E5%B1%95%E5%BC%80%E5%90%88%E4%BD%9C-83a5f485",
+      "guid": "WP-WSJS-0004071735",
+      "pub_date": "Tue, 17 Nov 2026 11:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-54358507?size=1.501&width=1280",
+      "snapshot": "articles/openai-e4-b8-8e-e5-8c-97-e7-ba-a6-e5-9c-a8-e7-bd-3b550b5f8b59.html",
+      "captured": true,
+      "capture_title": "OpenAI与北约在网络防御领域展开合作 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "AI造富潮催生新需求：年轻富豪希望有人帮他们捐钱",
+      "summary": "使命驱动的企业文化，以及对AI潜在危害的内疚感，正激发捐赠意愿。",
+      "link": "https://cn.wsj.com/articles/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-d8ed4a2b",
+      "guid": "WP-WSJS-0004070785",
+      "pub_date": "Tue, 17 Nov 2026 00:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-09378547?size=1.501&width=1280",
+      "snapshot": "articles/new-ai-millionaires-want-wealth-advisers-who-can-02490fd0a1fc.html",
+      "captured": true,
+      "capture_title": "AI造富潮催生新需求：年轻富豪希望有人帮他们捐钱",
+      "error": ""
+    },
+    {
+      "title": "“它们正在偷走天空”：亚马逊送货无人机引发的后院保卫战",
+      "summary": "无人机送货吸引了不少人围观，但一些人说，这些无人机正在毁掉社区。",
+      "link": "https://cn.wsj.com/articles/%E5%AE%83%E4%BB%AC%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E5%A4%A9%E7%A9%BA-%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%80%81%E8%B4%A7%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%BC%95%E5%8F%91%E7%9A%84%E5%90%8E%E9%99%A2%E4%BF%9D%E5%8D%AB%E6%88%98-0ebcb61f",
+      "guid": "WP-WSJS-0004068052",
+      "pub_date": "Mon, 16 Nov 2026 07:45:00 GMT",
+      "image_url": "https://images.wsj.net/im-29421732?size=1.5&width=1280",
+      "snapshot": "articles/e5-ae-83-e4-bb-ac-e6-ad-a3-e5-9c-a8-e5-81-b7-e8--4120899f6be1.html",
+      "captured": true,
+      "capture_title": "“它们正在偷走天空”：亚马逊送货无人机引发的后院保卫战",
       "error": ""
     },
     {
@@ -125,102 +329,6 @@
       "error": ""
     },
     {
-      "title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
-      "summary": "刘军从北京到波士顿、再返回北京的经历，是华裔学者纷纷离开美国的一个缩影。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8C%96%E8%B5%B0%E8%BF%99%E4%BD%8D%E5%93%88%E4%BD%9B%E9%A1%B6%E5%B0%96%E6%95%99%E6%8E%88-%E5%A6%82%E4%BB%8A%E4%BB%96%E5%B8%8C%E6%9C%9B%E6%9B%B4%E5%A4%9A%E5%90%8C%E8%A1%8C%E5%8A%A0%E5%85%A5-b6c296dd",
-      "guid": "WP-WSJS-0004067850",
-      "pub_date": "Mon, 16 Nov 2026 04:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-48662879?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-8c-96-e8-b5-b0-e8-bf-99-e4--834ff8805aea.html",
-      "captured": true,
-      "capture_title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
-      "error": ""
-    },
-    {
-      "title": "当众训斥、美酒派对与“皇室家族”：黄仁勋掌舵下的英伟达文化",
-      "summary": "长期执掌英伟达的黄仁勋以严苛和难以相处闻名，他的女儿也是如此。",
-      "link": "https://cn.wsj.com/articles/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-c9e92851",
-      "guid": "WP-WSJS-0004071218",
-      "pub_date": "Tue, 17 Nov 2026 05:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-40674843?size=1.5&width=1280",
-      "snapshot": "articles/put-downs-parties-and-a-royal-family-the-culture-64b7d9660b5c.html",
-      "captured": true,
-      "capture_title": "当众训斥、美酒派对与“皇室家族”：黄仁勋掌舵下的英伟达文化 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "哪些投资者将从Anthropic上市中大赚一笔？",
-      "summary": "风投机构、领先科技企业和主权财富基金有望收获巨额回报。",
-      "link": "https://cn.wsj.com/articles/%E5%93%AA%E4%BA%9B%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E4%BB%8Eanthropic%E4%B8%8A%E5%B8%82%E4%B8%AD%E5%A4%A7%E8%B5%9A%E4%B8%80%E7%AC%94-38df1b18",
-      "guid": "WP-WSJS-0004070768",
-      "pub_date": "Tue, 17 Nov 2026 01:07:00 GMT",
-      "image_url": "https://images.wsj.net/im-50782598?size=1.5&width=1280",
-      "snapshot": "articles/e5-93-aa-e4-ba-9b-e6-8a-95-e8-b5-84-e8-80-85-e5--4cd17656c4f8.html",
-      "captured": true,
-      "capture_title": "哪些投资者将从Anthropic上市中大赚一笔？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "民主党人说共和党好话：志在2028年大选的伊曼纽尔押注美国需要一位激进中间派总统",
-      "summary": "前芝加哥市长伊曼纽尔正开辟一条中间路线，将矛头对准腐败与税制漏洞，而非资本主义本身的弊病。",
-      "link": "https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E8%AF%B4%E5%85%B1%E5%92%8C%E5%85%9A%E5%A5%BD%E8%AF%9D-%E5%BF%97%E5%9C%A82028%E5%B9%B4%E5%A4%A7%E9%80%89%E7%9A%84%E4%BC%8A%E6%9B%BC%E7%BA%BD%E5%B0%94%E6%8A%BC%E6%B3%A8%E7%BE%8E%E5%9B%BD%E9%9C%80%E8%A6%81%E4%B8%80%E4%BD%8D%E6%BF%80%E8%BF%9B%E4%B8%AD%E9%97%B4%E6%B4%BE%E6%80%BB%E7%BB%9F-9dd549cb",
-      "guid": "WP-WSJS-0004070912",
-      "pub_date": "Tue, 17 Nov 2026 02:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-71149831?size=1.5&width=1280",
-      "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e4-ba-ba-e8-af-b4-e5--ab538f61e3fb.html",
-      "captured": true,
-      "capture_title": "民主党人说共和党好话：志在2028年大选的伊曼纽尔押注美国需要一位激进中间派总统 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "巴西与阿根廷领导人之间的争斗蔓延至全球舞台",
-      "summary": "左翼领导人路易斯·伊纳西奥·卢拉·达席尔瓦与右翼领导人哈维尔·米莱之间的辱骂、冷落与贬斥不断升级。",
-      "link": "https://cn.wsj.com/articles/%E5%B7%B4%E8%A5%BF%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%8B%E9%97%B4%E7%9A%84%E4%BA%89%E6%96%97%E8%94%93%E5%BB%B6%E8%87%B3%E5%85%A8%E7%90%83%E8%88%9E%E5%8F%B0-b803ea7f",
-      "guid": "WP-WSJS-0004071140",
-      "pub_date": "Tue, 17 Nov 2026 04:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-05108304?size=1.501&width=1280",
-      "snapshot": "articles/e5-b7-b4-e8-a5-bf-e4-b8-8e-e9-98-bf-e6-a0-b9-e5--f57a12694655.html",
-      "captured": true,
-      "capture_title": "巴西与阿根廷领导人之间的争斗蔓延至全球舞台 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "我与全美50个州的求职者聊了聊：如今怎样才能找到工作？",
-      "summary": "如何攻克当下的就业市场？从收费1万美元的求职顾问到“80/20”法则，十件事值得了解。",
-      "link": "https://cn.wsj.com/articles/%E6%88%91%E4%B8%8E%E5%85%A8%E7%BE%8E50%E4%B8%AA%E5%B7%9E%E7%9A%84%E6%B1%82%E8%81%8C%E8%80%85%E8%81%8A%E4%BA%86%E8%81%8A-%E5%A6%82%E4%BB%8A%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C-94437da5",
-      "guid": "WP-WSJS-0004071174",
-      "pub_date": "Tue, 17 Nov 2026 04:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-65288236?size=1.499&width=1280",
-      "snapshot": "articles/e6-88-91-e4-b8-8e-e5-85-a8-e7-be-8e50-e4-b8-aa-e-629615fd547d.html",
-      "captured": true,
-      "capture_title": "我与全美50个州的求职者聊了聊：如今怎样才能找到工作？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "罗伯特·帕丁森将出演下一任邦德",
-      "summary": "下一位为英国效力的詹姆斯·邦德已经接下任务。这也是IP新母公司亚马逊首次选定邦德扮演者。",
-      "link": "https://cn.wsj.com/articles/james-bond-robert-pattinson-a4bf6c74",
-      "guid": "WP-WSJS-0004070632",
-      "pub_date": "Mon, 16 Nov 2026 23:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-91880025?size=0.75&width=1280",
-      "snapshot": "articles/james-bond-robert-pattinson-a4bf6c74-736634e29da6.html",
-      "captured": true,
-      "capture_title": "新任007特工人选确认：罗伯特·帕丁森将出演詹姆斯·邦德 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "活得更久未必等于活得更好：我们究竟想活到多少岁？",
-      "summary": "对许多人来说，晚年生活质量正变得与长寿同样重要。",
-      "link": "https://cn.wsj.com/articles/%E6%B4%BB%E5%BE%97%E6%9B%B4%E4%B9%85%E6%9C%AA%E5%BF%85%E7%AD%89%E4%BA%8E%E6%B4%BB%E5%BE%97%E6%9B%B4%E5%A5%BD-%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E6%83%B3%E6%B4%BB%E5%88%B0%E5%A4%9A%E5%B0%91%E5%B2%81-fa5f7c72",
-      "guid": "WP-WSJS-0004071165",
-      "pub_date": "Tue, 17 Nov 2026 04:46:00 GMT",
-      "image_url": "https://images.wsj.net/im-11808921?size=1.501&width=1280",
-      "snapshot": "articles/e6-b4-bb-e5-be-97-e6-9b-b4-e4-b9-85-e6-9c-aa-e5--5af1af7675a8.html",
-      "captured": true,
-      "capture_title": "活得更久未必等于活得更好：我们究竟想活到多少岁？ - WSJ",
-      "error": ""
-    },
-    {
       "title": "羊年将至，中国股市掀起“羊字辈”概念炒作",
       "summary": "羊年将至，一些鱼类加工商、照明设备制造商和家电制造商的股价大涨，而投资者的买入热情与这些公司的经营状况几乎无关。",
       "link": "https://cn.wsj.com/articles/%E7%BE%8A%E5%B9%B4%E5%B0%86%E8%87%B3-%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E6%8E%80%E8%B5%B7-%E7%BE%8A%E5%AD%97%E8%BE%88-%E6%A6%82%E5%BF%B5%E7%82%92%E4%BD%9C-eae8f588",
@@ -230,30 +338,6 @@
       "snapshot": "articles/e7-be-8a-e5-b9-b4-e5-b0-86-e8-87-b3--e4-b8-ad-e5-72d1b10d9213.html",
       "captured": true,
       "capture_title": "羊年将至，中国股市掀起“羊字辈”概念炒作",
-      "error": ""
-    },
-    {
-      "title": "AI造富潮催生新需求：年轻富豪希望有人帮他们捐钱",
-      "summary": "使命驱动的企业文化，以及对AI潜在危害的内疚感，正激发捐赠意愿。",
-      "link": "https://cn.wsj.com/articles/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-d8ed4a2b",
-      "guid": "WP-WSJS-0004070785",
-      "pub_date": "Tue, 17 Nov 2026 00:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-09378547?size=1.501&width=1280",
-      "snapshot": "articles/new-ai-millionaires-want-wealth-advisers-who-can-02490fd0a1fc.html",
-      "captured": true,
-      "capture_title": "AI造富潮催生新需求：年轻富豪希望有人帮他们捐钱 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "全美停飞令影响持续扩大：受影响航班达2万架次且仍在增加",
-      "summary": "在美国的航空公司中，JetBlue Airways的周末航班取消比例最高。",
-      "link": "https://cn.wsj.com/articles/faa-groundstop-cost-36ea7af3",
-      "guid": "WP-WSJS-0004070931",
-      "pub_date": "Tue, 17 Nov 2026 02:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-82704915?size=1.5&width=1280",
-      "snapshot": "articles/faa-groundstop-cost-36ea7af3-63954eeb9c94.html",
-      "captured": true,
-      "capture_title": "全美停飞令影响持续扩大：受影响航班达2万架次且仍在增加 - WSJ",
       "error": ""
     },
     {
@@ -290,18 +374,6 @@
       "snapshot": "articles/warren-buffett-donating-5-4-billion-of-berkshire-5c9d9a6aa13e.html",
       "captured": true,
       "capture_title": "巴菲特向家族基金会捐赠54亿美元伯克希尔哈撒韦股票 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "“它们正在偷走天空”：亚马逊送货无人机引发的后院保卫战",
-      "summary": "无人机送货吸引了不少人围观，但一些人说，这些无人机正在毁掉社区。",
-      "link": "https://cn.wsj.com/articles/%E5%AE%83%E4%BB%AC%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E5%A4%A9%E7%A9%BA-%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%80%81%E8%B4%A7%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%BC%95%E5%8F%91%E7%9A%84%E5%90%8E%E9%99%A2%E4%BF%9D%E5%8D%AB%E6%88%98-0ebcb61f",
-      "guid": "WP-WSJS-0004068052",
-      "pub_date": "Mon, 16 Nov 2026 07:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-29421732?size=1.5&width=1280",
-      "snapshot": "articles/e5-ae-83-e4-bb-ac-e6-ad-a3-e5-9c-a8-e5-81-b7-e8--4120899f6be1.html",
-      "captured": true,
-      "capture_title": "“它们正在偷走天空”：亚马逊送货无人机引发的后院保卫战",
       "error": ""
     },
     {
@@ -1130,78 +1202,6 @@
       "snapshot": "articles/e9-bb-91-e5-ae-a2-e7-9b-af-e4-b8-8aai-e6-97-b6-e-5de23f5fb8f3.html",
       "captured": true,
       "capture_title": "黑客盯上AI时代最宝贵的资源：算力",
-      "error": ""
-    },
-    {
-      "title": "亚洲股市重挫，新一代投资者被套",
-      "summary": "从高中社团到社交媒体网红，亚洲新一代股票投资者正面临残酷的现实考验。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E9%87%8D%E6%8C%AB-%E6%96%B0%E4%B8%80%E4%BB%A3%E6%8A%95%E8%B5%84%E8%80%85%E8%A2%AB%E5%A5%97-370ab88a",
-      "guid": "WP-WSJS-0004049115",
-      "pub_date": "Tue, 10 Nov 2026 02:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-33126043?size=1.499&width=1280",
-      "snapshot": "articles/e4-ba-9a-e6-b4-b2-e8-82-a1-e5-b8-82-e9-87-8d-e6--442c3975c5bc.html",
-      "captured": true,
-      "capture_title": "亚洲股市重挫，新一代投资者被套",
-      "error": ""
-    },
-    {
-      "title": "中国前10月贸易顺差突破万亿美元大关",
-      "summary": "尽管经济低迷、全球贸易局势紧张，中国出口仍持续大幅增长。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%80%9F%E6%94%BE%E7%BC%93-%E8%BF%9B%E5%8F%A3%E6%BF%80%E5%A2%9E-e3e37983",
-      "guid": "WP-WSJS-0004049281",
-      "pub_date": "Tue, 10 Nov 2026 06:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-23232450?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd10-e6-9c-88-e5-87-ba-e5-8f-a3-e-d3c203257568.html",
-      "captured": true,
-      "capture_title": "中国前10月贸易顺差突破万亿美元大关",
-      "error": ""
-    },
-    {
-      "title": "黄仁勋的婚外情如何演变成一场国家安全噩梦",
-      "summary": "英伟达首席执行官黄仁勋承认与一名被指为中国从事间谍活动的女子有婚外情，而他曾极力游说特朗普放宽出口管制。",
-      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E5%A9%9A%E5%A4%96%E6%83%85%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98%E6%88%90%E4%B8%80%E5%9C%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%99%A9%E6%A2%A6-e6ac6f06",
-      "guid": "WP-WSJS-0004049581",
-      "pub_date": "Tue, 10 Nov 2026 07:48:00 GMT",
-      "image_url": "https://images.wsj.net/im-27975131?size=1.501&width=1280",
-      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e7-9a-84-e5-a9-9a-e5--dd8a80261c9d.html",
-      "captured": true,
-      "capture_title": "黄仁勋的婚外情如何演变成一场国家安全噩梦",
-      "error": ""
-    },
-    {
-      "title": "英伟达丑闻是检验全球AI热潮韧性的“试金石”",
-      "summary": "黄仁勋是“下一轮工业革命”的头号代言人。没有他，这场革命还能继续下去吗？",
-      "link": "https://cn.wsj.com/articles/jensen-huang-nvidia-ceo-ai-bubble-5a1bab3b",
-      "guid": "WP-WSJS-0004053187",
-      "pub_date": "Wed, 11 Nov 2026 04:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-33883161?size=1&width=1280",
-      "snapshot": "articles/jensen-huang-nvidia-ceo-ai-bubble-5a1bab3b-88b4517e766f.html",
-      "captured": true,
-      "capture_title": "英伟达丑闻是检验全球AI热潮韧性的“试金石”",
-      "error": ""
-    },
-    {
-      "title": "黄仁勋婚外情促使美国国会再度推动芯片出口管制",
-      "summary": "议员们要求在一项大规模国防支出方案中纳入更严格的出口管制措施。",
-      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A9%9A%E5%A4%96%E6%83%85%E4%BF%83%E4%BD%BF%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%86%8D%E5%BA%A6%E6%8E%A8%E5%8A%A8%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-8bd91072",
-      "guid": "WP-WSJS-0004053117",
-      "pub_date": "Wed, 11 Nov 2026 03:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-79440375?size=1.499&width=1280",
-      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a9-9a-e5-a4-96-e6--629f04da4550.html",
-      "captured": true,
-      "capture_title": "黄仁勋婚外情促使美国国会再度推动芯片出口管制",
-      "error": ""
-    },
-    {
-      "title": "英伟达对华芯片出口或很快面临更严格限制",
-      "summary": "分析人士指出，黄仁勋间谍丑闻持续发酵，国会相关法案的推进势头正日益增强。",
-      "link": "https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E6%88%96%E5%BE%88%E5%BF%AB%E9%9D%A2%E4%B8%B4%E6%9B%B4%E4%B8%A5%E6%A0%BC%E9%99%90%E5%88%B6-bdeec348",
-      "guid": "WP-WSJS-0004052351",
-      "pub_date": "Tue, 10 Nov 2026 23:12:00 GMT",
-      "image_url": "https://images.mktw.net/im-54690673?size=1.5&width=1280",
-      "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-af-b9-e5-8d-8e-e8--64d4b1eb235b.html",
-      "captured": true,
-      "capture_title": "英伟达对华芯片出口或很快面临更严格限制",
       "error": ""
     }
   ]
