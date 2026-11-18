@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 18:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 02:48:13 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 18:19:33 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 02:48:13 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,32 +28,11 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[习特会前夕，特朗普顾问围绕对华政策激烈内讧]]></title>
-            <description><![CDATA[<img width="1280" height="857" src="https://images.wsj.net/im-93017491?size=1.494&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>启程离开华盛顿前，特朗普坦言其团队内部在对华问题上分歧明显：一派主张对华友好，一派则想和中国“大闹一场”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B9%A0%E7%89%B9%E4%BC%9A%E5%89%8D%E5%A4%95-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E5%9B%B4%E7%BB%95%E5%AF%B9%E5%8D%8E%E6%94%BF%E7%AD%96%E6%BF%80%E7%83%88%E5%86%85%E8%AE%A7-a5b397df</link>
-            <guid isPermaLink="false">WP-WSJS-0004071109</guid>
-            <pubDate>Tue, 17 Nov 2026 03:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[为何本周中美俄三方峰会不会成为“雅尔塔2.0”？]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-89187570?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着大国影响力的局限逐渐显现，特朗普、普京和习近平均无力主导建立新的世界秩序。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E6%9C%AC%E5%91%A8%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E6%96%B9%E5%B3%B0%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA-%E9%9B%85%E5%B0%94%E5%A1%942-0-3d3af0c4</link>
-            <guid isPermaLink="false">WP-WSJS-0004071257</guid>
-            <pubDate>Tue, 17 Nov 2026 06:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黄仁勋如何开辟“暗道”让中国继续参与AI竞赛]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-74127198?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>东南亚的大型数据中心利用美国出口管制漏洞为中国企业提供关键算力，也为涉嫌芯片走私的活动提供掩护。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A6%82%E4%BD%95%E5%BC%80%E8%BE%9F-%E6%9A%97%E9%81%93-%E8%AE%A9%E4%B8%AD%E5%9B%BD%E7%BB%A7%E7%BB%AD%E5%8F%82%E4%B8%8Eai%E7%AB%9E%E8%B5%9B-901c2c0d</link>
-            <guid isPermaLink="false">WP-WSJS-0004067664</guid>
-            <pubDate>Mon, 16 Nov 2026 02:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达风波背后潜伏着庞大的中国情报机器]]></title>
-            <description><![CDATA[<img width="1280" height="896" src="https://images.wsj.net/im-44698315?size=1.429&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府正展开全球最大规模的情报搜集行动，以提振本国科技产业。美国官员担心，黄仁勋已落入圈套。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A3%8E%E6%B3%A2%E8%83%8C%E5%90%8E%E6%BD%9C%E4%BC%8F%E7%9D%80%E5%BA%9E%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E5%99%A8-98ac05a0</link>
-            <guid isPermaLink="false">WP-WSJS-0004068159</guid>
-            <pubDate>Mon, 16 Nov 2026 09:29:00 GMT</pubDate>
+            <title><![CDATA[深圳峰会上，为何特朗普和习近平都不大可能提及英伟达]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-12284190?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普和习近平离开峰会时，双方脆弱的休战局面或许仍能维持。但特朗普回国后，仍要面对围绕技术和间谍活动的紧张局势。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B7%B1%E5%9C%B3%E5%B3%B0%E4%BC%9A%E4%B8%8A-%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%83%BD%E4%B8%8D%E5%A4%A7%E5%8F%AF%E8%83%BD%E6%8F%90%E5%8F%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE-00f0a8e0</link>
+            <guid isPermaLink="false">WP-WSJS-0004074602</guid>
+            <pubDate>Wed, 18 Nov 2026 02:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国收紧芯片出口管制对中国AI行业影响不一]]></title>
@@ -63,32 +42,53 @@
             <pubDate>Tue, 17 Nov 2026 06:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达董事们如何在监督公司的同时斩获上百亿美元]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-31913004?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>异乎寻常的超长任期和股价大涨为英伟达董事带来了意外之财。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BB%AC%E5%A6%82%E4%BD%95%E5%9C%A8%E7%9B%91%E7%9D%A3%E5%85%AC%E5%8F%B8%E7%9A%84%E5%90%8C%E6%97%B6%E6%96%A9%E8%8E%B7%E4%B8%8A%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83-595635c0</link>
-            <guid isPermaLink="false">WP-WSJS-0004071217</guid>
-            <pubDate>Tue, 17 Nov 2026 05:56:00 GMT</pubDate>
+            <title><![CDATA[特朗普中期选举受挫后重返世界舞台]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-43103605?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普此次亚洲之行将受到密切关注，外界希望从中观察他打算如何在余下任期内运用总统权力影响国际事务。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-returns-to-world-stage-after-midterm-setback-846fb4a9</link>
+            <guid isPermaLink="false">WP-WSJS-0004074011</guid>
+            <pubDate>Tue, 17 Nov 2026 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普称可能在中国与金正恩会晤]]></title>
-            <description><![CDATA[<img width="1280" height="914" src="https://images.wsj.net/im-57054014?size=1.4&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普表示，他能否在中国峰会上见到金正恩取决于“习主席”。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8E%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4-9026a0d8</link>
-            <guid isPermaLink="false">WP-WSJS-0004070716</guid>
-            <pubDate>Tue, 17 Nov 2026 00:15:00 GMT</pubDate>
+            <title><![CDATA[英伟达风波背后潜伏着庞大的中国情报机器]]></title>
+            <description><![CDATA[<img width="1280" height="896" src="https://images.wsj.net/im-44698315?size=1.429&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国政府正展开全球最大规模的情报搜集行动，以提振本国科技产业。美国官员担心，黄仁勋已落入圈套。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A3%8E%E6%B3%A2%E8%83%8C%E5%90%8E%E6%BD%9C%E4%BC%8F%E7%9D%80%E5%BA%9E%E5%A4%A7%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E5%99%A8-98ac05a0</link>
+            <guid isPermaLink="false">WP-WSJS-0004068159</guid>
+            <pubDate>Mon, 16 Nov 2026 09:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰袭击摧毁俄罗斯克里米亚大桥部分桥段]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89942579?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此次袭击使用了无人机和巡航导弹。此前，俄罗斯已连续数周袭击基辅的桥梁。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E6%91%A7%E6%AF%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E9%83%A8%E5%88%86%E6%A1%A5%E6%AE%B5-127d6798</link>
-            <guid isPermaLink="false">WP-WSJS-0004071480</guid>
-            <pubDate>Tue, 17 Nov 2026 09:45:00 GMT</pubDate>
+            <title><![CDATA[黄仁勋打破沉默，表态愿重新出任英伟达CEO]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-07308096?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>黄仁勋表示，朋友与同行的支持令他十分感动。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E6%89%93%E7%A0%B4%E6%B2%89%E9%BB%98-%E8%A1%A8%E6%80%81%E6%84%BF%E9%87%8D%E6%96%B0%E5%87%BA%E4%BB%BB%E8%8B%B1%E4%BC%9F%E8%BE%BEceo-f2171260</link>
+            <guid isPermaLink="false">WP-WSJS-0004073942</guid>
+            <pubDate>Tue, 17 Nov 2026 23:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西与阿根廷领导人之间的争斗蔓延至全球舞台]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-05108304?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>左翼领导人路易斯·伊纳西奥·卢拉·达席尔瓦与右翼领导人哈维尔·米莱之间的辱骂、冷落与贬斥不断升级。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%B7%B4%E8%A5%BF%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%8B%E9%97%B4%E7%9A%84%E4%BA%89%E6%96%97%E8%94%93%E5%BB%B6%E8%87%B3%E5%85%A8%E7%90%83%E8%88%9E%E5%8F%B0-b803ea7f</link>
-            <guid isPermaLink="false">WP-WSJS-0004071140</guid>
-            <pubDate>Tue, 17 Nov 2026 04:18:00 GMT</pubDate>
+            <title><![CDATA[英伟达业绩实现更快增长，称黄仁勋不会重返CEO岗位]]></title>
+            <description><![CDATA[<img width="1280" height="1920" src="https://images.wsj.net/im-73984041?size=0.67&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>英伟达收入同比增长一倍多，但临时CEO克雷斯正面临这家芯片制造商未来走向的紧迫质疑。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E9%81%AD%E8%A7%A3%E8%81%8C%E5%90%8E-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E4%BB%BD%E8%B4%A2%E6%8A%A5%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F-9704413b</link>
+            <guid isPermaLink="false">WP-WSJS-0004074050</guid>
+            <pubDate>Wed, 18 Nov 2026 00:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大与中国扩大贸易协定，双边关系更趋紧密]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-23199791?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>加拿大和中国同意减免部分对彼此征收的关税，显示出在特朗普扰动北美经济关系之际，卡尼正推动重塑联盟关系和贸易政策。</p>]]></description>
+            <link>https://cn.wsj.com/articles/canada-and-china-draw-closer-with-expanded-trade-pact-cc43e677</link>
+            <guid isPermaLink="false">WP-WSJS-0004074065</guid>
+            <pubDate>Tue, 17 Nov 2026 23:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美海军部长提名人受到严厉质询，听证会五大要点一览]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39539010?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>高雄透露，由于军方关键弹药短缺，美国海军一直在中东使用过期的“战斧”导弹。</p>]]></description>
+            <link>https://cn.wsj.com/articles/5-takeaways-from-navy-nominees-rocky-hearing-3b32dadf</link>
+            <guid isPermaLink="false">WP-WSJS-0004074473</guid>
+            <pubDate>Wed, 18 Nov 2026 01:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[认购需求强劲，Anthropic预计上调IPO发行价]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-92928332?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>知情人士透露，Anthropic预计其首次公开募股发行价将高于原计划。这凸显出市场动荡以及英伟达剧变并未削弱市场对人工智能交易的热情。</p>]]></description>
+            <link>https://cn.wsj.com/articles/anthropic-plans-to-raise-ipo-price-after-strong-demand-dcee9b1d</link>
+            <guid isPermaLink="false">WP-WSJS-0004074079</guid>
+            <pubDate>Tue, 17 Nov 2026 23:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国商品需求激增，但国内经济动能放缓]]></title>
@@ -105,11 +105,32 @@
             <pubDate>Tue, 17 Nov 2026 13:02:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[数字世界越发让人不安，黄金的买入时机到了吗？]]></title>
+            <description><![CDATA[<img width="1280" height="889" src="https://images.mktw.net/im-02547283?size=1.44&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在经历最大规模加密货币盗窃案、数字世界一连串系统瘫痪之后，实物黄金或许才是终极的“反数字化”资产，可能开始显现出更大吸引力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C%E8%B6%8A%E5%8F%91%E8%AE%A9%E4%BA%BA%E4%B8%8D%E5%AE%89-%E9%BB%84%E9%87%91%E7%9A%84%E4%B9%B0%E5%85%A5%E6%97%B6%E6%9C%BA%E5%88%B0%E4%BA%86%E5%90%97-248645b0</link>
+            <guid isPermaLink="false">WP-WSJS-0004074567</guid>
+            <pubDate>Wed, 18 Nov 2026 02:13:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国挖走这位哈佛顶尖教授，如今他希望更多同行加入]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-48662879?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>刘军从北京到波士顿、再返回北京的经历，是华裔学者纷纷离开美国的一个缩影。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8C%96%E8%B5%B0%E8%BF%99%E4%BD%8D%E5%93%88%E4%BD%9B%E9%A1%B6%E5%B0%96%E6%95%99%E6%8E%88-%E5%A6%82%E4%BB%8A%E4%BB%96%E5%B8%8C%E6%9C%9B%E6%9B%B4%E5%A4%9A%E5%90%8C%E8%A1%8C%E5%8A%A0%E5%85%A5-b6c296dd</link>
             <guid isPermaLink="false">WP-WSJS-0004067850</guid>
             <pubDate>Mon, 16 Nov 2026 04:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌押注清洁发电新技术：汽化岩石以利用地热]]></title>
+            <description><![CDATA[<img width="1280" height="959" src="https://images.wsj.net/im-70359894?size=1.335&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>地热初创公司Quaise Energy希望将岩石汽化，在超高温深层钻探，并全天候生产清洁电力。如今，该公司获得了谷歌超过5亿美元的协议。</p>]]></description>
+            <link>https://cn.wsj.com/articles/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-eefec9cc</link>
+            <guid isPermaLink="false">WP-WSJS-0004074600</guid>
+            <pubDate>Wed, 18 Nov 2026 02:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西与阿根廷领导人之间的争斗蔓延至全球舞台]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-05108304?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>左翼领导人路易斯·伊纳西奥·卢拉·达席尔瓦与右翼领导人哈维尔·米莱之间的辱骂、冷落与贬斥不断升级。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E5%B7%B4%E8%A5%BF%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B9%8B%E9%97%B4%E7%9A%84%E4%BA%89%E6%96%97%E8%94%93%E5%BB%B6%E8%87%B3%E5%85%A8%E7%90%83%E8%88%9E%E5%8F%B0-b803ea7f</link>
+            <guid isPermaLink="false">WP-WSJS-0004071140</guid>
+            <pubDate>Tue, 17 Nov 2026 04:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[当众训斥、美酒派对与“皇室家族”：黄仁勋掌舵下的英伟达文化]]></title>
@@ -119,32 +140,11 @@
             <pubDate>Tue, 17 Nov 2026 05:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哪些投资者将从Anthropic上市中大赚一笔？]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-50782598?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>风投机构、领先科技企业和主权财富基金有望收获巨额回报。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%93%AA%E4%BA%9B%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E4%BB%8Eanthropic%E4%B8%8A%E5%B8%82%E4%B8%AD%E5%A4%A7%E8%B5%9A%E4%B8%80%E7%AC%94-38df1b18</link>
-            <guid isPermaLink="false">WP-WSJS-0004070768</guid>
-            <pubDate>Tue, 17 Nov 2026 01:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[民主党人说共和党好话：志在2028年大选的伊曼纽尔押注美国需要一位激进中间派总统]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-71149831?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>前芝加哥市长伊曼纽尔正开辟一条中间路线，将矛头对准腐败与税制漏洞，而非资本主义本身的弊病。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E8%AF%B4%E5%85%B1%E5%92%8C%E5%85%9A%E5%A5%BD%E8%AF%9D-%E5%BF%97%E5%9C%A82028%E5%B9%B4%E5%A4%A7%E9%80%89%E7%9A%84%E4%BC%8A%E6%9B%BC%E7%BA%BD%E5%B0%94%E6%8A%BC%E6%B3%A8%E7%BE%8E%E5%9B%BD%E9%9C%80%E8%A6%81%E4%B8%80%E4%BD%8D%E6%BF%80%E8%BF%9B%E4%B8%AD%E9%97%B4%E6%B4%BE%E6%80%BB%E7%BB%9F-9dd549cb</link>
-            <guid isPermaLink="false">WP-WSJS-0004070912</guid>
-            <pubDate>Tue, 17 Nov 2026 02:23:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[我与全美50个州的求职者聊了聊：如今怎样才能找到工作？]]></title>
             <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-65288236?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>如何攻克当下的就业市场？从收费1万美元的求职顾问到“80/20”法则，十件事值得了解。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%88%91%E4%B8%8E%E5%85%A8%E7%BE%8E50%E4%B8%AA%E5%B7%9E%E7%9A%84%E6%B1%82%E8%81%8C%E8%80%85%E8%81%8A%E4%BA%86%E8%81%8A-%E5%A6%82%E4%BB%8A%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C-94437da5</link>
             <guid isPermaLink="false">WP-WSJS-0004071174</guid>
             <pubDate>Tue, 17 Nov 2026 04:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[罗伯特·帕丁森将出演下一任邦德]]></title>
-            <description><![CDATA[<img width="1280" height="1707" src="https://images.wsj.net/im-91880025?size=0.75&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>下一位为英国效力的詹姆斯·邦德已经接下任务。这也是IP新母公司亚马逊首次选定邦德扮演者。</p>]]></description>
-            <link>https://cn.wsj.com/articles/james-bond-robert-pattinson-a4bf6c74</link>
-            <guid isPermaLink="false">WP-WSJS-0004070632</guid>
-            <pubDate>Mon, 16 Nov 2026 23:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[活得更久未必等于活得更好：我们究竟想活到多少岁？]]></title>
@@ -154,11 +154,39 @@
             <pubDate>Tue, 17 Nov 2026 04:46:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[法拉利车迷想要的不止汽车，还有9,000美元的法拉利手袋]]></title>
+            <description><![CDATA[<img width="1280" height="989" src="https://images.wsj.net/im-40663971?size=1.294&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着一级方程式赛车在美国的观众人数激增，这家意大利汽车制造商减少了低价周边商品，转而投资奢侈时装。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E6%B3%95%E6%8B%89%E5%88%A9%E8%BD%A6%E8%BF%B7%E6%83%B3%E8%A6%81%E7%9A%84%E4%B8%8D%E6%AD%A2%E6%B1%BD%E8%BD%A6-%E8%BF%98%E6%9C%899-000%E7%BE%8E%E5%85%83%E7%9A%84%E6%B3%95%E6%8B%89%E5%88%A9%E6%89%8B%E8%A2%8B-be6faca1</link>
+            <guid isPermaLink="false">WP-WSJS-0004074360</guid>
+            <pubDate>Wed, 18 Nov 2026 00:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车物色外部CEO候选人，以接替博拉]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-59195403?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家汽车制造商正为其现代史上任职时间最长的掌门人离任后的未来做准备。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E7%89%A9%E8%89%B2%E5%A4%96%E9%83%A8ceo%E5%80%99%E9%80%89%E4%BA%BA-%E4%BB%A5%E6%8E%A5%E6%9B%BF%E5%8D%9A%E6%8B%89-46452e9a</link>
+            <guid isPermaLink="false">WP-WSJS-0004074423</guid>
+            <pubDate>Wed, 18 Nov 2026 01:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Temu因打击非法商品销售不力再遭欧盟警告]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-67350840?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是欧盟在着手执行《数字服务法》之际，向这家电商集团发出的最新警告。</p>]]></description>
+            <link>https://cn.wsj.com/articles/temu%E5%9B%A0%E6%89%93%E5%87%BB%E9%9D%9E%E6%B3%95%E5%95%86%E5%93%81%E9%94%80%E5%94%AE%E4%B8%8D%E5%8A%9B%E5%86%8D%E9%81%AD%E6%AC%A7%E7%9B%9F%E8%AD%A6%E5%91%8A-926d67ed</link>
+            <guid isPermaLink="false">WP-WSJS-0004074109</guid>
+            <pubDate>Tue, 17 Nov 2026 23:51:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国在铁矿石市场展现强势，澳大利亚及其矿商承压]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34306543?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国正利用其国有采购机构中国矿产资源集团，要求澳大利亚矿商提供铁矿石折扣和其他让步。</p>]]></description>
             <link>https://cn.wsj.com/articles/china-flexes-muscle-in-iron-ore-squeezing-australia-and-its-miners-dfebfb15</link>
             <guid isPermaLink="false">WP-WSJS-0004071300</guid>
             <pubDate>Tue, 17 Nov 2026 07:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼力争到2029年实现年省30亿美元]]></title>
+            <description><![CDATA[<img width="1280" height="887" src="https://images.wsj.net/im-78916150?size=1.443&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>迪士尼新任首席执行官戴明哲正努力推动这家娱乐公司转型，以提高其在全球流媒体市场的竞争力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/disney-targets-3-billion-in-cost-savings-by-2029-6ba3bfb2</link>
+            <guid isPermaLink="false">WP-WSJS-0004074113</guid>
+            <pubDate>Tue, 17 Nov 2026 23:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[长鑫存储预计存储芯片市场将保持韧性]]></title>
@@ -168,25 +196,11 @@
             <pubDate>Tue, 17 Nov 2026 10:49:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[罗氏新型乳腺癌口服药首获美国批准上市]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-14449714?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这家瑞士制药商表示，该药已获准与诺华的Afinitor联合使用，治疗一种晚期或转移性乳腺癌。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BD%97%E6%B0%8F%E6%96%B0%E5%9E%8B%E4%B9%B3%E8%85%BA%E7%99%8C%E5%8F%A3%E6%9C%8D%E8%8D%AF%E9%A6%96%E8%8E%B7%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E4%B8%8A%E5%B8%82-daa4ed90</link>
-            <guid isPermaLink="false">WP-WSJS-0004071400</guid>
-            <pubDate>Tue, 17 Nov 2026 08:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全美停飞令影响持续扩大：受影响航班达2万架次且仍在增加]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-82704915?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在美国的航空公司中，JetBlue Airways的周末航班取消比例最高。</p>]]></description>
-            <link>https://cn.wsj.com/articles/faa-groundstop-cost-36ea7af3</link>
-            <guid isPermaLink="false">WP-WSJS-0004070931</guid>
-            <pubDate>Tue, 17 Nov 2026 02:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI与北约在网络防御领域展开合作]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-54358507?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>OpenAI表示，正向北约提供其先进的网络安全模型，帮助这一军事联盟保护其网络，抵御日益复杂的威胁。</p>]]></description>
-            <link>https://cn.wsj.com/articles/openai%E4%B8%8E%E5%8C%97%E7%BA%A6%E5%9C%A8%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1%E9%A2%86%E5%9F%9F%E5%B1%95%E5%BC%80%E5%90%88%E4%BD%9C-83a5f485</link>
-            <guid isPermaLink="false">WP-WSJS-0004071735</guid>
-            <pubDate>Tue, 17 Nov 2026 11:29:00 GMT</pubDate>
+            <title><![CDATA[罗伯特·帕丁森将出演下一任邦德]]></title>
+            <description><![CDATA[<img width="1280" height="1707" src="https://images.wsj.net/im-91880025?size=0.75&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>下一位为英国效力的詹姆斯·邦德已经接下任务。这也是IP新母公司亚马逊首次选定邦德扮演者。</p>]]></description>
+            <link>https://cn.wsj.com/articles/james-bond-robert-pattinson-a4bf6c74</link>
+            <guid isPermaLink="false">WP-WSJS-0004070632</guid>
+            <pubDate>Mon, 16 Nov 2026 23:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI造富潮催生新需求：年轻富豪希望有人帮他们捐钱]]></title>
@@ -222,13 +236,6 @@
             <link>https://cn.wsj.com/articles/%E9%99%86%E4%B8%8A%E5%BB%BA%E8%AE%BE%E9%81%87%E9%98%BB-%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%8A%8A%E7%9B%AE%E5%85%89%E6%8A%95%E5%90%91%E6%B5%B7%E6%B4%8B-4ba70263</link>
             <guid isPermaLink="false">WP-WSJS-0004067813</guid>
             <pubDate>Mon, 16 Nov 2026 03:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[介绍黄仁勋结识其中国情人的神秘商人：女方丈夫]]></title>
-            <description><![CDATA[<img width="920" height="682" src="https://images.wsj.net/im-56195954?size=1.349&width=920" class="webfeedsFeaturedVisual" alt=""/><p>康伟似乎接受了妻子黄乐与黄仁勋的恋情，甚至公开谈及她与英伟达掌门人的亲密关系。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BB%8B%E7%BB%8D%E9%BB%84%E4%BB%81%E5%8B%8B%E7%BB%93%E8%AF%86%E5%85%B6%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BA%BA%E7%9A%84%E7%A5%9E%E7%A7%98%E5%95%86%E4%BA%BA-%E5%A5%B3%E6%96%B9%E4%B8%88%E5%A4%AB-0844959d</link>
-            <guid isPermaLink="false">WP-WSJS-0004056828</guid>
-            <pubDate>Thu, 12 Nov 2026 08:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[全世界出差但从不坐飞机：他把老派出行方式变成一门艺术]]></title>
