@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 11:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 20:13:06 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 11:21:06 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 20:13:06 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -154,8 +154,8 @@
             <pubDate>Wed, 18 Nov 2026 05:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[腾讯第三季度利润仅增长0.8%]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67574722?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>受AI投资激增影响，腾讯第三季度利润增长停滞。同期收入增长8%，增幅也低于预期。</p>]]></description>
+            <title><![CDATA[AI投资激增之际腾讯利润基本持平，收入增速放缓]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-67574722?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>今年，腾讯加大了芯片采购力度，以进一步推进其基础模型和各类AI智能体应用。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E8%85%BE%E8%AE%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E4%BB%85%E5%A2%9E%E9%95%BF0-8-e9f878f2</link>
             <guid isPermaLink="false">WP-WSJS-0004075285</guid>
             <pubDate>Wed, 18 Nov 2026 10:06:00 GMT</pubDate>
