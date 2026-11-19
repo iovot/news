@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 11:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 20:16:01 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 11:19:14 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2026 20:16:01 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,9 +28,9 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[中美俄首次元首峰会举行，特朗普称“我们正在创造历史”]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-78546299?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这是美、中、俄三国领导人有史以来的首次聚首，进一步表明美国主导的单极世界格局正走向终结，同时也暗示出取而代之的或许是一个更加变幻莫测、动荡不安的现实格局。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%8F%98%E5%B1%80%E4%B9%8B%E4%B8%8B-%E4%B8%AD%E7%BE%8E%E4%BF%84%E9%A6%96%E8%84%91%E9%A6%96%E6%AC%A1%E4%B8%BE%E8%A1%8C%E4%B8%89%E6%96%B9%E5%B3%B0%E4%BC%9A-aaf3fe46</link>
+            <title><![CDATA[中美俄元首举行首次峰会，特朗普称“我们正在创造历史”]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-78546299?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>三国领导人举行史无前例的会谈，凸显全球秩序发生深刻演变。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-aaf3fe46</link>
             <guid isPermaLink="false">WP-WSJS-0004078608</guid>
             <pubDate>Thu, 19 Nov 2026 10:17:00 GMT</pubDate>
         </item>
@@ -84,18 +84,18 @@
             <pubDate>Wed, 18 Nov 2026 23:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[胡塞武装袭击导致沙特首都最高建筑受损]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-849539?size=1.4965986394557824&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这次袭击导致这座80层大楼的多个楼层受损。沙特主权财富基金的办公室就在这座大楼内。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB%E5%AF%BC%E8%87%B4%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E6%9C%80%E9%AB%98%E5%BB%BA%E7%AD%91%E5%8F%97%E6%8D%9F-b85a61e3</link>
+            <guid isPermaLink="false">WP-WSJS-0004078749</guid>
+            <pubDate>Thu, 19 Nov 2026 11:43:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[民主党拟定针对特朗普调查的重点目标]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-57941298?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>调查重点包括特朗普家族的商业项目、国土安全部的移民执法行动、白宫建设项目，以及与爱泼斯坦有关的文件。</p>]]></description>
             <link>https://cn.wsj.com/articles/democrats-map-out-targets-for-trump-probes-cc3bbaf9</link>
             <guid isPermaLink="false">WP-WSJS-0004077520</guid>
             <pubDate>Wed, 18 Nov 2026 23:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一连串技术故障扰乱商业与出行，背后原因何在？]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-80982459?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着尖端AI工具不断揪出关键软件中的漏洞，相应的修复补丁正快速出炉……但也乱象丛生。</p>]]></description>
-            <link>https://cn.wsj.com/articles/outages-bug-patches-microsoft-faa-apple-nsa-c64b7e2a</link>
-            <guid isPermaLink="false">WP-WSJS-0004077571</guid>
-            <pubDate>Thu, 19 Nov 2026 00:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[黄仁勋风波令华盛顿对华鹰派重振声势]]></title>
@@ -154,6 +154,20 @@
             <pubDate>Mon, 16 Nov 2026 04:19:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[一连串技术故障扰乱商业与出行，背后原因何在？]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-80982459?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>随着尖端AI工具不断揪出关键软件中的漏洞，相应的修复补丁正快速出炉……但也乱象丛生。</p>]]></description>
+            <link>https://cn.wsj.com/articles/outages-bug-patches-microsoft-faa-apple-nsa-c64b7e2a</link>
+            <guid isPermaLink="false">WP-WSJS-0004077571</guid>
+            <pubDate>Thu, 19 Nov 2026 00:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[K-pop有望重返中国，韩国娱乐股大涨]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-31215470?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>韩国与中国政府达成协议，为中国可能放松对主要K-pop艺人在中国演出的限制令打开大门。</p>]]></description>
+            <link>https://cn.wsj.com/articles/k-pop%E6%9C%89%E6%9C%9B%E9%87%8D%E8%BF%94%E4%B8%AD%E5%9B%BD-%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E8%82%A1%E5%A4%A7%E6%B6%A8-0289916e</link>
+            <guid isPermaLink="false">WP-WSJS-0004078295</guid>
+            <pubDate>Thu, 19 Nov 2026 06:20:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美联储官员上月维持利率不变时预计未来利率将走高]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-28345303?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>上个月决定维持利率不变的美联储官员认为，仍需更高的利率来压低通胀，并决意不让投资者将此次按兵不动视为抗通胀行动势头减弱的信号。</p>]]></description>
             <link>https://cn.wsj.com/articles/fed-officials-saw-higher-rates-ahead-when-they-held-steady-last-month-c2c60298</link>
@@ -180,20 +194,6 @@
             <link>https://cn.wsj.com/articles/%E8%85%BE%E8%AE%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E4%BB%85%E5%A2%9E%E9%95%BF0-8-e9f878f2</link>
             <guid isPermaLink="false">WP-WSJS-0004075285</guid>
             <pubDate>Wed, 18 Nov 2026 10:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[博拉重塑了通用汽车，继任者或需再度变革]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-21142034?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在博拉领导下，通用汽车变得更加精简、盈利能力更强，但下一任CEO将在中国及其他地区面临高科技挑战。</p>]]></description>
-            <link>https://cn.wsj.com/articles/mary-barra-transformed-gm-her-successor-may-have-to-do-it-again-e48e0d1f</link>
-            <guid isPermaLink="false">WP-WSJS-0004074651</guid>
-            <pubDate>Wed, 18 Nov 2026 02:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌押注清洁发电新技术：汽化岩石以利用地热]]></title>
-            <description><![CDATA[<img width="1280" height="959" src="https://images.wsj.net/im-70359894?size=1.335&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>地热初创公司Quaise Energy希望将岩石汽化，在超高温深层钻探，并全天候生产清洁电力。如今，该公司获得了谷歌超过5亿美元的协议。</p>]]></description>
-            <link>https://cn.wsj.com/articles/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-eefec9cc</link>
-            <guid isPermaLink="false">WP-WSJS-0004074600</guid>
-            <pubDate>Wed, 18 Nov 2026 02:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[家长们砸重金只为把6岁孩子培养成F1车手]]></title>
