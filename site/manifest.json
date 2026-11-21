@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T02:09:34.241129+00:00",
+  "generated_at": "2026-11-21T10:52:02.659986+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-61305431?size=1.501&width=1280",
       "snapshot": "articles/anthropics-ipo-bust-punctuates-4-trillion-ai-wip-c7296eec6cf7.html",
       "captured": true,
-      "capture_title": "Anthropic IPO受挫，华尔街AI板块4万亿美元市值蒸发 - WSJ",
+      "capture_title": "Anthropic IPO受挫，华尔街AI板块4万亿美元市值蒸发",
       "error": ""
     },
     {
@@ -37,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-33223646?size=1.501&width=1280",
       "snapshot": "articles/top-republican-senator-says-lutnick-ignored-his--fd239aa14843.html",
       "captured": true,
-      "capture_title": "共和党资深参议员称商务部长卢特尼克无视其涉华芯片警告 - WSJ",
+      "capture_title": "共和党资深参议员称商务部长卢特尼克无视其涉华芯片警告",
       "error": ""
     },
     {
@@ -49,19 +49,19 @@
       "image_url": "https://images.wsj.net/im-85204158?size=1.5&width=1280",
       "snapshot": "articles/trumpsays-he-will-penalize-companies-that-build--f272eeae325b.html",
       "captured": true,
-      "capture_title": "特朗普称将惩罚在境外建设数据中心的美国公司 - WSJ",
+      "capture_title": "特朗普称将惩罚在境外建设数据中心的美国公司",
       "error": ""
     },
     {
       "title": "缅甸种族灭绝案裁决如何让以色列面临更大风险",
-      "summary": "本周之前，国际法院从未裁定一个国家曾有意实施种族灭绝。以色列正试图驳斥其在加沙实施种族灭绝的指控，而罗兴亚有关裁决带来了一个令人担忧的先例。",
+      "summary": "本周之前，国际法院从未裁定一个国家曾有意实施种族灭绝。以色列正试图驳斥其在加沙实施种族灭绝的指控，而罗兴亚有关裁决带来了一个令其担忧的先例。",
       "link": "https://cn.wsj.com/articles/how-the-myanmar-genocide-ruling-raises-the-stakes-for-israel-b82cea33",
       "guid": "WP-WSJS-0004085115",
       "pub_date": "Sat, 21 Nov 2026 01:13:00 GMT",
       "image_url": "https://images.wsj.net/im-39836494?size=1.501&width=1280",
       "snapshot": "articles/how-the-myanmar-genocide-ruling-raises-the-stake-23b29b0caa0c.html",
       "captured": true,
-      "capture_title": "缅甸种族灭绝案裁决如何让以色列面临更大风险 - WSJ",
+      "capture_title": "缅甸种族灭绝案裁决如何让以色列面临更大风险",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-10871208?size=2&width=1280",
       "snapshot": "articles/new-satellite-photos-show-expansion-of-north-kor-2df4c6d1a027.html",
       "captured": true,
-      "capture_title": "新的卫星照片显示朝鲜铀浓缩工厂扩建 - WSJ",
+      "capture_title": "新的卫星照片显示朝鲜铀浓缩工厂扩建",
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-36585342?size=1.499&width=1280",
       "snapshot": "articles/anthropic-mathematician-says-claude-has-solved-t-9acf270061f0.html",
       "captured": true,
-      "capture_title": "Anthropic数学家称Claude攻克了数学界最著名难题 - WSJ",
+      "capture_title": "Anthropic数学家称Claude攻克了数学界最著名难题",
       "error": ""
     },
     {
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-25145483?size=1.497&width=1280",
       "snapshot": "articles/after-brexit-britains-government-floats-breturn--7295ae24811b.html",
       "captured": true,
-      "capture_title": "脱欧六年后，英国政府再议“重返欧盟” - WSJ",
+      "capture_title": "脱欧六年后，英国政府再议“重返欧盟”",
       "error": ""
     },
     {
