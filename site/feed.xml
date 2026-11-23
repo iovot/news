@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 19:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 01:28:46 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 19:15:23 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 01:28:46 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,11 +28,25 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[Anthropic IPO受挫，华尔街AI板块4万亿美元市值蒸发]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-61305431?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周五后市，Anthropic上市之初的大部分涨幅已化为乌有，纳指的年内涨幅也悉数回吐。</p>]]></description>
-            <link>https://cn.wsj.com/articles/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-fbb21609</link>
-            <guid isPermaLink="false">WP-WSJS-0004085030</guid>
-            <pubDate>Sat, 21 Nov 2026 00:34:00 GMT</pubDate>
+            <title><![CDATA[Anthropic上市交易遇波折，各方开始相互指责]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56927365?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>上周五，Anthropic股价盘中一度下跌15%，跌至仅比IPO发行价高5美分的水平。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-78df2afa</link>
+            <guid isPermaLink="false">WP-WSJS-0004086385</guid>
+            <pubDate>Mon, 23 Nov 2026 00:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋冒险穿越霍尔木兹海峡接力运油]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-56826029?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这项得到美军协助、事关重大的接力运输行动，对于打破伊朗对霍尔木兹海峡的控制至关重要。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-646cb513</link>
+            <guid isPermaLink="false">WP-WSJS-0004086472</guid>
+            <pubDate>Mon, 23 Nov 2026 01:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯船只在远离乌克兰处遇袭，战争影响持续外溢]]></title>
+            <description><![CDATA[<img width="1280" height="802" src="https://images.wsj.net/im-91665742?size=1.596&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一艘俄罗斯军舰周日在利比亚一处港口倾覆，此前一艘货船周六在波罗的海遇袭。</p>]]></description>
+            <link>https://cn.wsj.com/articles/russian-ships-struck-in-attacks-far-from-ukraine-as-wars-fallout-spreads-11aeef34</link>
+            <guid isPermaLink="false">WP-WSJS-0004086390</guid>
+            <pubDate>Mon, 23 Nov 2026 00:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国AI企业依赖英伟达芯片，如今面临戒断之痛]]></title>
@@ -42,13 +56,6 @@
             <pubDate>Fri, 20 Nov 2026 06:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[共和党资深参议员称商务部长卢特尼克无视其涉华芯片警告]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-33223646?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对华鹰派参议员汤姆·科顿表示，卢特尼克曾多次无视有关美国AI芯片被走私到中国的警告。他没有明确表示卢特尼克应辞职或遭到解职。</p>]]></description>
-            <link>https://cn.wsj.com/articles/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-9854af39</link>
-            <guid isPermaLink="false">WP-WSJS-0004085093</guid>
-            <pubDate>Sat, 21 Nov 2026 01:04:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[特朗普称将惩罚在境外建设数据中心的美国公司]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-85204158?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此举旨在鼓励在美国增建数据中心，并抗衡中国。在周五近90分钟的记者会上，特朗普还谈及了从乌克兰和伊朗的战争到技术故障等一系列议题。</p>]]></description>
             <link>https://cn.wsj.com/articles/trumpsays-he-will-penalize-companies-that-build-data-centers-outside-the-u-s-d434092b</link>
@@ -56,18 +63,11 @@
             <pubDate>Sat, 21 Nov 2026 00:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[缅甸种族灭绝案裁决如何让以色列面临更大风险]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-39836494?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>本周之前，国际法院从未裁定一个国家曾有意实施种族灭绝。以色列正试图驳斥其在加沙实施种族灭绝的指控，而罗兴亚有关裁决带来了一个令其担忧的先例。</p>]]></description>
-            <link>https://cn.wsj.com/articles/how-the-myanmar-genocide-ruling-raises-the-stakes-for-israel-b82cea33</link>
-            <guid isPermaLink="false">WP-WSJS-0004085115</guid>
-            <pubDate>Sat, 21 Nov 2026 01:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新的卫星照片显示朝鲜铀浓缩工厂扩建]]></title>
-            <description><![CDATA[<img width="1280" height="640" src="https://images.wsj.net/im-10871208?size=2&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>朝鲜扩建了其主要核设施内的一座铀浓缩厂，这是平壤持续扩大武器计划的最新迹象。</p>]]></description>
-            <link>https://cn.wsj.com/articles/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-b25c2ee0</link>
-            <guid isPermaLink="false">WP-WSJS-0004085144</guid>
-            <pubDate>Sat, 21 Nov 2026 01:24:00 GMT</pubDate>
+            <title><![CDATA[白宫计划减少使用一项允许雇员继续在私营部门任职的特殊身份]]></title>
+            <description><![CDATA[<img width="1280" height="846" src="https://images.wsj.net/im-15415897?size=1.513&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这项决定是在特朗普任命长期盟友米勒为幕僚长后不久作出的。米勒已着手限制白宫官员与游说人士的接触，试图平息有关涉嫌以权谋私的指控。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%99%BD%E5%AE%AB%E8%AE%A1%E5%88%92%E5%87%8F%E5%B0%91%E4%BD%BF%E7%94%A8%E4%B8%80%E9%A1%B9%E5%85%81%E8%AE%B8%E9%9B%87%E5%91%98%E7%BB%A7%E7%BB%AD%E5%9C%A8%E7%A7%81%E8%90%A5%E9%83%A8%E9%97%A8%E4%BB%BB%E8%81%8C%E7%9A%84%E7%89%B9%E6%AE%8A%E8%BA%AB%E4%BB%BD-dc3873b9</link>
+            <guid isPermaLink="false">WP-WSJS-0004086410</guid>
+            <pubDate>Mon, 23 Nov 2026 00:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[特朗普、习近平和普京谴责核战争，中美俄历史性峰会落幕]]></title>
@@ -84,25 +84,25 @@
             <pubDate>Fri, 20 Nov 2026 01:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[得州“蓝色浪潮”对马斯克的特斯拉和SpaceX意味着什么？]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-08182489?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》视频您解析：马斯克在翻蓝“孤星之州”的项目将何去何从。</p>]]></description>
-            <link>https://cn.wsj.com/articles/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-71e7cb55</link>
-            <guid isPermaLink="false">WP-WSJS-0004082275</guid>
-            <pubDate>Fri, 20 Nov 2026 05:57:00 GMT</pubDate>
+            <title><![CDATA[黄仁勋在英伟达做成的握手交易暗藏风险]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-98714864?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这位被迫离职的首席执行官曾以不签合同的交易为傲，如今这些交易却显露风险信号。</p>]]></description>
+            <link>https://cn.wsj.com/articles/nvidia-jensen-huang-deals-b68f3e8f</link>
+            <guid isPermaLink="false">WP-WSJS-0004086458</guid>
+            <pubDate>Mon, 23 Nov 2026 00:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anthropic数学家称Claude攻克了数学界最著名难题]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-36585342?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic一位数学家对外公布了一项可能载入史册的发现：他称自己找到了黎曼猜想的证明。</p>]]></description>
-            <link>https://cn.wsj.com/articles/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-f000b8ed</link>
-            <guid isPermaLink="false">WP-WSJS-0004085161</guid>
-            <pubDate>Sat, 21 Nov 2026 01:29:00 GMT</pubDate>
+            <title><![CDATA[同名代币价格下跌之际，特朗普设专属晚宴回馈持币大户]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-01911250?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普去年获得了6.35亿美元的模因币版税收入。</p>]]></description>
+            <link>https://cn.wsj.com/articles/trump-rewards-top-owners-of-his-declining-coin-with-exclusive-dinner-8f2dc2ba</link>
+            <guid isPermaLink="false">WP-WSJS-0004086370</guid>
+            <pubDate>Sun, 22 Nov 2026 23:51:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[脱欧六年后，英国政府再议“重返欧盟”]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-25145483?size=1.497&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>伯纳姆希望英国考虑彻底改变方向，重新加入这一贸易集团，以提振英国经济。</p>]]></description>
-            <link>https://cn.wsj.com/articles/after-brexit-britains-government-floats-breturn-ee764db5</link>
-            <guid isPermaLink="false">WP-WSJS-0004085175</guid>
-            <pubDate>Sat, 21 Nov 2026 01:40:00 GMT</pubDate>
+            <title><![CDATA[普通人做些什么可以为银行服务中断做好准备]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-02033177?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>刚过去的一周给美国人提了个醒：银行也会像电网一样出现服务中断。对此，理财顾问给了一些建议。</p>]]></description>
+            <link>https://cn.wsj.com/articles/bank-outage-tips-3f2b125f</link>
+            <guid isPermaLink="false">WP-WSJS-0004086447</guid>
+            <pubDate>Mon, 23 Nov 2026 00:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[七张图表解析全球年轻人为何对经济现状心怀不满]]></title>
@@ -112,18 +112,18 @@
             <pubDate>Thu, 19 Nov 2026 01:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[我花了30年辅导患者适应退休，轮到自己依然手足无措]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29568658?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为一名精神科医生，我原本熟知人生重大转折所伴随的六个阶段，但亲身经历起来却比我想象的艰难得多。</p>]]></description>
-            <link>https://cn.wsj.com/articles/ispent-30-years-counseling-patients-through-retirement-then-it-was-my-turn-722143ad</link>
-            <guid isPermaLink="false">WP-WSJS-0004082228</guid>
-            <pubDate>Fri, 20 Nov 2026 05:04:00 GMT</pubDate>
+            <title><![CDATA[Anthropic数学家称Claude攻克了数学界最著名难题]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-36585342?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>Anthropic一位数学家对外公布了一项可能载入史册的发现：他称自己找到了黎曼猜想的证明。</p>]]></description>
+            <link>https://cn.wsj.com/articles/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-f000b8ed</link>
+            <guid isPermaLink="false">WP-WSJS-0004085161</guid>
+            <pubDate>Sat, 21 Nov 2026 01:29:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[自闭症治疗行业迅猛扩张，家长却在“摸黑前行”]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-51718975?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>被称为ABA的流行疗法已成为儿童自闭症的默认治疗选择，但服务质量参差不齐，家长得到的指导十分有限。</p>]]></description>
-            <link>https://cn.wsj.com/articles/autism-therapy-aba-parents-aab20ce2</link>
-            <guid isPermaLink="false">WP-WSJS-0004082253</guid>
-            <pubDate>Fri, 20 Nov 2026 05:53:00 GMT</pubDate>
+            <title><![CDATA[得州“蓝色浪潮”对马斯克的特斯拉和SpaceX意味着什么？]]></title>
+            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-08182489?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>《华尔街日报》视频您解析：马斯克在翻蓝“孤星之州”的项目将何去何从。</p>]]></description>
+            <link>https://cn.wsj.com/articles/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-71e7cb55</link>
+            <guid isPermaLink="false">WP-WSJS-0004082275</guid>
+            <pubDate>Fri, 20 Nov 2026 05:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[黄乐丈夫依托中国政府支持建起数据中心帝国]]></title>
@@ -131,6 +131,20 @@
             <link>https://cn.wsj.com/articles/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-e8b4bf41</link>
             <guid isPermaLink="false">WP-WSJS-0004071279</guid>
             <pubDate>Tue, 17 Nov 2026 13:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[詹姆斯·邦德手腕空空，引发腕表业争夺战]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-34867808?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>007佩戴欧米茄腕表已有30年，但在此次重磅亮相中，却不见该品牌的踪影。</p>]]></description>
+            <link>https://cn.wsj.com/articles/james-bonds-bare-wrist-sets-off-watch-industry-war-9636f3fb</link>
+            <guid isPermaLink="false">WP-WSJS-0004086360</guid>
+            <pubDate>Sun, 22 Nov 2026 23:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国气候谈判因化石燃料分歧破裂]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70747678?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>欧洲和一些国家拒绝接受一份决议草案，该草案未提及各经济体有必要摆脱对化石燃料的依赖。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-n-climate-talks-collapse-over-fossil-fuel-rift-8b868e5b</link>
+            <guid isPermaLink="false">WP-WSJS-0004086329</guid>
+            <pubDate>Sun, 22 Nov 2026 23:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[《GTA 6》究竟有多火爆？图解一场数十亿美元的商业狂潮]]></title>
@@ -147,13 +161,6 @@
             <pubDate>Fri, 20 Nov 2026 00:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Visa、万事达卡和摩根大通的客户数据遭黑客泄露]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-16030868?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>此次黑客攻击发生之际，人们对人工智能可能大幅增强网络攻击威力的担忧情绪高涨，一连串技术故障也令美国人感到不安。</p>]]></description>
-            <link>https://cn.wsj.com/articles/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-5b70ae2f</link>
-            <guid isPermaLink="false">WP-WSJS-0004081600</guid>
-            <pubDate>Fri, 20 Nov 2026 00:14:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[研究显示：学校锁起手机，学生学得更好]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69400432?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>哈佛大学一项覆盖4,600所学校的大型研究发现，在使用可上锁收纳袋来实施手机禁令的学校里，学生每年的学习增益相当于多学了一到两周。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E7%A0%94%E7%A9%B6%E6%98%BE%E7%A4%BA-%E5%AD%A6%E6%A0%A1%E9%94%81%E8%B5%B7%E6%89%8B%E6%9C%BA-%E5%AD%A6%E7%94%9F%E5%AD%A6%E5%BE%97%E6%9B%B4%E5%A5%BD-62f46249</link>
@@ -161,18 +168,25 @@
             <pubDate>Fri, 20 Nov 2026 01:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊敦促纽约市客户反对马姆达尼支持的配送法案]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-39324327?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>亚马逊与纽约市政府的交锋升级。亚马逊网购用户收到弹窗警告，称若《配送保护法案》获得通过，每笔订单将加收5美元费用。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%95%A6%E4%BF%83%E7%BA%BD%E7%BA%A6%E5%B8%82%E5%AE%A2%E6%88%B7%E5%8F%8D%E5%AF%B9%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E6%94%AF%E6%8C%81%E7%9A%84%E9%85%8D%E9%80%81%E6%B3%95%E6%A1%88-1bc63334</link>
-            <guid isPermaLink="false">WP-WSJS-0004081929</guid>
-            <pubDate>Fri, 20 Nov 2026 02:14:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[五角大楼急需更多爱国者导弹，却被人造丝卡脖]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-85229696?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一种不起眼的织物正拖慢这一关键防御系统的生产计划，这也是美国弹药工业面临的众多瓶颈之一。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%80%A5%E9%9C%80%E6%9B%B4%E5%A4%9A%E7%88%B1%E5%9B%BD%E8%80%85%E5%AF%BC%E5%BC%B9-%E5%8D%B4%E8%A2%AB%E4%BA%BA%E9%80%A0%E4%B8%9D%E5%8D%A1%E8%84%96-7c8ba70e</link>
             <guid isPermaLink="false">WP-WSJS-0004075169</guid>
             <pubDate>Wed, 18 Nov 2026 10:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自闭症治疗行业迅猛扩张，家长却在“摸黑前行”]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-51718975?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>被称为ABA的流行疗法已成为儿童自闭症的默认治疗选择，但服务质量参差不齐，家长得到的指导十分有限。</p>]]></description>
+            <link>https://cn.wsj.com/articles/autism-therapy-aba-parents-aab20ce2</link>
+            <guid isPermaLink="false">WP-WSJS-0004082253</guid>
+            <pubDate>Fri, 20 Nov 2026 05:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我花了30年辅导患者适应退休，轮到自己依然手足无措]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-29568658?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>作为一名精神科医生，我原本熟知人生重大转折所伴随的六个阶段，但亲身经历起来却比我想象的艰难得多。</p>]]></description>
+            <link>https://cn.wsj.com/articles/ispent-30-years-counseling-patients-through-retirement-then-it-was-my-turn-722143ad</link>
+            <guid isPermaLink="false">WP-WSJS-0004082228</guid>
+            <pubDate>Fri, 20 Nov 2026 05:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[详解乌克兰如何击中普京的标志性大桥]]></title>
@@ -194,20 +208,6 @@
             <link>https://cn.wsj.com/articles/europe-ditched-russian-fuel-now-its-hooked-on-chinese-green-tech-instead-b24b4e3a</link>
             <guid isPermaLink="false">WP-WSJS-0004077393</guid>
             <pubDate>Wed, 18 Nov 2026 23:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[选址深圳举办中美俄峰会，习近平意在展现科技雄心]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-91480057?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>深圳是无人机、无人驾驶出租车以及中国一些最具实力的科技巨头的聚集地。</p>]]></description>
-            <link>https://cn.wsj.com/articles/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-fe2be828</link>
-            <guid isPermaLink="false">WP-WSJS-0004077359</guid>
-            <pubDate>Wed, 18 Nov 2026 23:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[家长们砸重金只为把6岁孩子培养成F1车手]]></title>
-            <description><![CDATA[<img width="1280" height="1647" src="https://images.wsj.net/im-53371513?size=0.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国各地私人赛车场纷纷涌现，以满足日益高涨的青少年卡丁车运动热情。这项运动是迈向一级方程式赛车车队的起点。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E5%AE%B6%E9%95%BF%E4%BB%AC%E7%A0%B8%E4%B8%8B%E9%87%8D%E9%87%91-%E8%AE%A9%E4%BD%8E%E9%BE%84%E5%AD%A9%E5%AD%90%E9%80%90%E6%A2%A6f1-2081bc1e</link>
-            <guid isPermaLink="false">WP-WSJS-0004074932</guid>
-            <pubDate>Wed, 18 Nov 2026 05:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[你的AI素养有多高？做做我们的小测试吧]]></title>
