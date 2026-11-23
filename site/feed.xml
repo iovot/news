@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 12:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 23:47:08 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 12:00:32 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 23:47:08 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,6 +28,20 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
+            <title><![CDATA[英伟达董事会恢复黄仁勋CEO职务]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-31573366?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>特朗普承认曾参与推动黄仁勋回归英伟达，并表示他不认为黄仁勋对美国构成国家安全威胁。</p>]]></description>
+            <link>https://cn.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-525b6629</link>
+            <guid isPermaLink="false">WP-WSJS-0004087634</guid>
+            <pubDate>Mon, 23 Nov 2026 23:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黄仁勋回来了，但AI的问题并未消失]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-78298356?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>从长远看，黄仁勋的回归在多个层面都不是好事，也没有消除整个AI生态系统或英伟达自身面临的严峻挑战。</p>]]></description>
+            <link>https://cn.wsj.com/articles/jensen-is-back-but-ais-problems-havent-gone-away-aa1f16fa</link>
+            <guid isPermaLink="false">WP-WSJS-0004089579</guid>
+            <pubDate>Mon, 23 Nov 2026 23:18:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[与黄乐有关联、被控欺诈：英伟达芯片输华网络的幕后操盘者浮出水面]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-69232147?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>涉及新加坡芯片走私案件的一名被告曾与黄仁勋有婚外情的黄乐共事。知情人士透露，此人在幕后发挥了关键作用。</p>]]></description>
             <link>https://cn.wsj.com/articles/li-ming-megaspeed-nvidia-chips-china-06afde39</link>
@@ -42,25 +56,11 @@
             <pubDate>Mon, 23 Nov 2026 00:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[黄仁勋夫妇巨额财富构成一览]]></title>
-            <description><![CDATA[<img width="1280" height="856" src="https://images.wsj.net/im-73215617?size=1.495&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>两人控制着8.7亿股英伟达股票，其中包括通过信托及其他实体控制的股份，价值超过1,090亿美元。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%AB%E5%A6%87%E5%B7%A8%E9%A2%9D%E8%B4%A2%E5%AF%8C%E6%9E%84%E6%88%90%E4%B8%80%E8%A7%88-6d98a5ae</link>
-            <guid isPermaLink="false">WP-WSJS-0004086623</guid>
-            <pubDate>Mon, 23 Nov 2026 04:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国AI企业依赖英伟达芯片，如今面临戒断之痛]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-25888626?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国切断中国使用高端算力渠道的举措，令中国政府发展AI的雄心受挫。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%A6%82%E4%BB%8A%E9%9D%A2%E4%B8%B4%E6%88%92%E6%96%AD%E4%B9%8B%E7%97%9B-73e3299a</link>
-            <guid isPermaLink="false">WP-WSJS-0004082328</guid>
-            <pubDate>Fri, 20 Nov 2026 06:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI建设热潮吸纳大量资源，挤压其他经济领域]]></title>
-            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-70689391?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>劳动力、设备、能源和投资纷纷涌向AI建设，留给其他行业的资源所剩无几。一场市场抛售凸显了其中的风险。</p>]]></description>
-            <link>https://cn.wsj.com/articles/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-75e41a63</link>
-            <guid isPermaLink="false">WP-WSJS-0004086589</guid>
-            <pubDate>Mon, 23 Nov 2026 03:27:00 GMT</pubDate>
+            <title><![CDATA[黄仁勋回归重燃AI热情，美股创一年多来最佳单日表现]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.mktw.net/im-11808731?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美股周一上演“V形”反弹，标普500指数大涨4.7%，表明投资者围绕AI的情绪出现重大转变。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E9%87%8D%E7%87%83ai%E7%83%AD%E6%83%85-%E7%BE%8E%E8%82%A1%E5%88%9B%E4%B8%80%E5%B9%B4%E5%A4%9A%E6%9D%A5%E6%9C%80%E4%BD%B3%E5%8D%95%E6%97%A5%E8%A1%A8%E7%8E%B0-349c3b74</link>
+            <guid isPermaLink="false">WP-WSJS-0004089599</guid>
+            <pubDate>Mon, 23 Nov 2026 23:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anthropic承诺支出9,000亿美元，但华尔街预计其债务将被评为垃圾级]]></title>
@@ -77,13 +77,6 @@
             <pubDate>Mon, 23 Nov 2026 03:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国家资本主义是英伟达丑闻的推手之一]]></title>
-            <description><![CDATA[<img width="1280" height="848" src="https://images.wsj.net/im-74800371?size=1.509&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在特朗普治下，政府与企业利益交织得更加紧密。对英伟达的抵制可能会阻止这一趋势。</p>]]></description>
-            <link>https://cn.wsj.com/articles/american-state-capitalism-helped-produce-the-nvidia-scandal-69ee517a</link>
-            <guid isPermaLink="false">WP-WSJS-0004085185</guid>
-            <pubDate>Sat, 21 Nov 2026 02:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[阿联酋开始实施引渡，全球逃犯需另寻藏身之处]]></title>
             <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-64905095?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>该国近期的一系列高调逮捕和引渡行动释放出信号：对于那些曾在此堂而皇之生活的全球罪犯而言，风向已经变了。</p>]]></description>
             <link>https://cn.wsj.com/articles/fugitive-criminals-need-a-new-hideout-since-the-u-a-e-started-extraditing-them-2fc433a3</link>
@@ -96,6 +89,20 @@
             <link>https://cn.wsj.com/articles/russian-ships-struck-in-attacks-far-from-ukraine-as-wars-fallout-spreads-11aeef34</link>
             <guid isPermaLink="false">WP-WSJS-0004086390</guid>
             <pubDate>Mon, 23 Nov 2026 00:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国气候谈判因化石燃料分歧破裂]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70747678?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>欧洲和一些国家拒绝接受一份决议草案，该草案未提及各经济体有必要摆脱对化石燃料的依赖。</p>]]></description>
+            <link>https://cn.wsj.com/articles/u-n-climate-talks-collapse-over-fossil-fuel-rift-8b868e5b</link>
+            <guid isPermaLink="false">WP-WSJS-0004086329</guid>
+            <pubDate>Sun, 22 Nov 2026 23:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI建设热潮吸纳大量资源，挤压其他经济领域]]></title>
+            <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-70689391?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>劳动力、设备、能源和投资纷纷涌向AI建设，留给其他行业的资源所剩无几。一场市场抛售凸显了其中的风险。</p>]]></description>
+            <link>https://cn.wsj.com/articles/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-75e41a63</link>
+            <guid isPermaLink="false">WP-WSJS-0004086589</guid>
+            <pubDate>Mon, 23 Nov 2026 03:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[在俄罗斯战俘营，性虐待已成为系统的一部分]]></title>
@@ -117,13 +124,6 @@
             <link>https://cn.wsj.com/articles/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-63e6c927</link>
             <guid isPermaLink="false">WP-WSJS-0004086491</guid>
             <pubDate>Mon, 23 Nov 2026 01:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国气候谈判因化石燃料分歧破裂]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-70747678?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>欧洲和一些国家拒绝接受一份决议草案，该草案未提及各经济体有必要摆脱对化石燃料的依赖。</p>]]></description>
-            <link>https://cn.wsj.com/articles/u-n-climate-talks-collapse-over-fossil-fuel-rift-8b868e5b</link>
-            <guid isPermaLink="false">WP-WSJS-0004086329</guid>
-            <pubDate>Sun, 22 Nov 2026 23:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[脱欧六年后，英国政府再议“重返欧盟”]]></title>
@@ -196,6 +196,20 @@
             <pubDate>Sun, 22 Nov 2026 23:51:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[中国AI企业依赖英伟达芯片，如今面临戒断之痛]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-25888626?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国切断中国使用高端算力渠道的举措，令中国政府发展AI的雄心受挫。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%A6%82%E4%BB%8A%E9%9D%A2%E4%B8%B4%E6%88%92%E6%96%AD%E4%B9%8B%E7%97%9B-73e3299a</link>
+            <guid isPermaLink="false">WP-WSJS-0004082328</guid>
+            <pubDate>Fri, 20 Nov 2026 06:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黄乐丈夫依托中国政府支持建起数据中心帝国]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-05885753?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在黄乐与英伟达前CEO黄仁勋交往期间，她的丈夫康伟则在中国搭建起规模庞大的数据中心网络。</p>]]></description>
+            <link>https://cn.wsj.com/articles/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-e8b4bf41</link>
+            <guid isPermaLink="false">WP-WSJS-0004071279</guid>
+            <pubDate>Tue, 17 Nov 2026 13:02:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[七张图表解析全球年轻人为何对经济现状心怀不满]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-68130525?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>全球年轻人抗议的背后是他们的共同担忧：获得优质教育、找到好工作、有个安身之所，这些成年生活的里程碑正离他们越来越远。</p>]]></description>
             <link>https://cn.wsj.com/articles/these-charts-show-why-young-people-across-the-world-are-fed-up-with-the-economy-b5a55ecb</link>
@@ -210,25 +224,11 @@
             <pubDate>Fri, 20 Nov 2026 01:27:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[《GTA 6》究竟有多火爆？图解一场数十亿美元的商业狂潮]]></title>
-            <description><![CDATA[<img width="1280" height="720" src="https://images.wsj.net/im-33591457?size=1.78&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这款备受期待的电子游戏势必将成为一棵超级“摇钱树”，甚至可与奥运会和泰勒·斯威夫特相比。</p>]]></description>
-            <link>https://cn.wsj.com/articles/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-ca38a198</link>
-            <guid isPermaLink="false">WP-WSJS-0004077828</guid>
-            <pubDate>Thu, 19 Nov 2026 02:31:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[五角大楼急需更多爱国者导弹，却被人造丝卡脖]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-85229696?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一种不起眼的织物正拖慢这一关键防御系统的生产计划，这也是美国弹药工业面临的众多瓶颈之一。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%80%A5%E9%9C%80%E6%9B%B4%E5%A4%9A%E7%88%B1%E5%9B%BD%E8%80%85%E5%AF%BC%E5%BC%B9-%E5%8D%B4%E8%A2%AB%E4%BA%BA%E9%80%A0%E4%B8%9D%E5%8D%A1%E8%84%96-7c8ba70e</link>
             <guid isPermaLink="false">WP-WSJS-0004075169</guid>
             <pubDate>Wed, 18 Nov 2026 10:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自闭症治疗行业迅猛扩张，家长却在“摸黑前行”]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-51718975?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>被称为ABA的流行疗法已成为儿童自闭症的默认治疗选择，但服务质量参差不齐，家长得到的指导十分有限。</p>]]></description>
-            <link>https://cn.wsj.com/articles/autism-therapy-aba-parents-aab20ce2</link>
-            <guid isPermaLink="false">WP-WSJS-0004082253</guid>
-            <pubDate>Fri, 20 Nov 2026 05:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[你的AI素养有多高？做做我们的小测试吧]]></title>
@@ -245,18 +245,18 @@
             <pubDate>Mon, 23 Nov 2026 05:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[自闭症治疗行业迅猛扩张，家长却在“摸黑前行”]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-51718975?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>被称为ABA的流行疗法已成为儿童自闭症的默认治疗选择，但服务质量参差不齐，家长得到的指导十分有限。</p>]]></description>
+            <link>https://cn.wsj.com/articles/autism-therapy-aba-parents-aab20ce2</link>
+            <guid isPermaLink="false">WP-WSJS-0004082253</guid>
+            <pubDate>Fri, 20 Nov 2026 05:53:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[中国挖走这位哈佛顶尖教授，如今他希望更多同行加入]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-48662879?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>刘军从北京到波士顿、再返回北京的经历，是华裔学者纷纷离开美国的一个缩影。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8C%96%E8%B5%B0%E8%BF%99%E4%BD%8D%E5%93%88%E4%BD%9B%E9%A1%B6%E5%B0%96%E6%95%99%E6%8E%88-%E5%A6%82%E4%BB%8A%E4%BB%96%E5%B8%8C%E6%9C%9B%E6%9B%B4%E5%A4%9A%E5%90%8C%E8%A1%8C%E5%8A%A0%E5%85%A5-b6c296dd</link>
             <guid isPermaLink="false">WP-WSJS-0004067850</guid>
             <pubDate>Mon, 16 Nov 2026 04:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当众训斥、美酒派对与“皇室家族”：黄仁勋掌舵下的英伟达文化]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-40674843?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>长期执掌英伟达的黄仁勋以严苛和难以相处闻名，他的女儿也是如此。</p>]]></description>
-            <link>https://cn.wsj.com/articles/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-c9e92851</link>
-            <guid isPermaLink="false">WP-WSJS-0004071218</guid>
-            <pubDate>Tue, 17 Nov 2026 05:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[迈克尔·杰克逊传记电影所遮蔽的丑陋事实]]></title>

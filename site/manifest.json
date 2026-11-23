@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-23T12:10:17.650399+00:00",
+  "generated_at": "2026-11-23T23:50:19.706997+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "英伟达董事会恢复黄仁勋CEO职务",
+      "summary": "特朗普承认曾参与推动黄仁勋回归英伟达，并表示他不认为黄仁勋对美国构成国家安全威胁。",
+      "link": "https://cn.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-525b6629",
+      "guid": "WP-WSJS-0004087634",
+      "pub_date": "Mon, 23 Nov 2026 23:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-31573366?size=1.499&width=1280",
+      "snapshot": "articles/nvidia-board-reinstates-jensen-huang-as-ceo-525b-b4e6473860a6.html",
+      "captured": true,
+      "capture_title": "英伟达董事会恢复黄仁勋CEO职务 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "黄仁勋回来了，但AI的问题并未消失",
+      "summary": "从长远看，黄仁勋的回归在多个层面都不是好事，也没有消除整个AI生态系统或英伟达自身面临的严峻挑战。",
+      "link": "https://cn.wsj.com/articles/jensen-is-back-but-ais-problems-havent-gone-away-aa1f16fa",
+      "guid": "WP-WSJS-0004089579",
+      "pub_date": "Mon, 23 Nov 2026 23:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-78298356?size=1.501&width=1280",
+      "snapshot": "articles/jensen-is-back-but-ais-problems-havent-gone-away-e1dcecea208c.html",
+      "captured": true,
+      "capture_title": "黄仁勋回来了，但AI的问题并未消失 - WSJ",
+      "error": ""
+    },
     {
       "title": "与黄乐有关联、被控欺诈：英伟达芯片输华网络的幕后操盘者浮出水面",
       "summary": "涉及新加坡芯片走私案件的一名被告曾与黄仁勋有婚外情的黄乐共事。知情人士透露，此人在幕后发挥了关键作用。",
@@ -13,7 +37,7 @@
       "image_url": "https://images.wsj.net/im-69232147?size=1.501&width=1280",
       "snapshot": "articles/li-ming-megaspeed-nvidia-chips-china-06afde39-9529c9d39e48.html",
       "captured": true,
-      "capture_title": "与黄乐有关联、被控欺诈：英伟达芯片输华网络的幕后操盘者浮出水面 - WSJ",
+      "capture_title": "与黄乐有关联、被控欺诈：英伟达芯片输华网络的幕后操盘者浮出水面",
       "error": ""
     },
     {
@@ -29,39 +53,15 @@
       "error": ""
     },
     {
-      "title": "黄仁勋夫妇巨额财富构成一览",
-      "summary": "两人控制着8.7亿股英伟达股票，其中包括通过信托及其他实体控制的股份，价值超过1,090亿美元。",
-      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%AB%E5%A6%87%E5%B7%A8%E9%A2%9D%E8%B4%A2%E5%AF%8C%E6%9E%84%E6%88%90%E4%B8%80%E8%A7%88-6d98a5ae",
-      "guid": "WP-WSJS-0004086623",
-      "pub_date": "Mon, 23 Nov 2026 04:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-73215617?size=1.495&width=1280",
-      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a4-ab-e5-a6-87-e5--1d7a11edd6eb.html",
+      "title": "黄仁勋回归重燃AI热情，美股创一年多来最佳单日表现",
+      "summary": "美股周一上演“V形”反弹，标普500指数大涨4.7%，表明投资者围绕AI的情绪出现重大转变。",
+      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E9%87%8D%E7%87%83ai%E7%83%AD%E6%83%85-%E7%BE%8E%E8%82%A1%E5%88%9B%E4%B8%80%E5%B9%B4%E5%A4%9A%E6%9D%A5%E6%9C%80%E4%BD%B3%E5%8D%95%E6%97%A5%E8%A1%A8%E7%8E%B0-349c3b74",
+      "guid": "WP-WSJS-0004089599",
+      "pub_date": "Mon, 23 Nov 2026 23:24:00 GMT",
+      "image_url": "https://images.mktw.net/im-11808731?size=1.5&width=1280",
+      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-9b-9e-e5-bd-92-e9--c6fd164aaa47.html",
       "captured": true,
-      "capture_title": "黄仁勋夫妇巨额财富构成一览 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "中国AI企业依赖英伟达芯片，如今面临戒断之痛",
-      "summary": "美国切断中国使用高端算力渠道的举措，令中国政府发展AI的雄心受挫。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%A6%82%E4%BB%8A%E9%9D%A2%E4%B8%B4%E6%88%92%E6%96%AD%E4%B9%8B%E7%97%9B-73e3299a",
-      "guid": "WP-WSJS-0004082328",
-      "pub_date": "Fri, 20 Nov 2026 06:31:00 GMT",
-      "image_url": "https://images.wsj.net/im-25888626?size=1.501&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bdai-e4-bc-81-e4-b8-9a-e4-be-9d-e-834f9550bb6f.html",
-      "captured": true,
-      "capture_title": "中国AI企业依赖英伟达芯片，如今面临戒断之痛",
-      "error": ""
-    },
-    {
-      "title": "AI建设热潮吸纳大量资源，挤压其他经济领域",
-      "summary": "劳动力、设备、能源和投资纷纷涌向AI建设，留给其他行业的资源所剩无几。一场市场抛售凸显了其中的风险。",
-      "link": "https://cn.wsj.com/articles/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-75e41a63",
-      "guid": "WP-WSJS-0004086589",
-      "pub_date": "Mon, 23 Nov 2026 03:27:00 GMT",
-      "image_url": "https://images.wsj.net/im-70689391?size=1.5&width=1280",
-      "snapshot": "articles/the-ai-build-out-is-sucking-up-resources-and-cro-9d48d119dda9.html",
-      "captured": true,
-      "capture_title": "AI建设热潮吸纳大量资源，挤压其他经济领域 - WSJ",
+      "capture_title": "黄仁勋回归重燃AI热情，美股创一年多来最佳单日表现 - WSJ",
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "image_url": "https://images.wsj.net/im-41873370?size=1.501&width=1280",
       "snapshot": "articles/anthropic-committed-to-spend-900-billion-wall-st-b68159f3359b.html",
       "captured": true,
-      "capture_title": "Anthropic承诺支出9,000亿美元，但华尔街预计其债务将被评为垃圾级 - WSJ",
+      "capture_title": "Anthropic承诺支出9,000亿美元，但华尔街预计其债务将被评为垃圾级",
       "error": ""
     },
     {
@@ -85,19 +85,7 @@
       "image_url": "https://images.wsj.net/im-88359758?size=1.526&width=1280",
       "snapshot": "articles/e5-8d-a2-e7-89-b9-e5-b0-bc-e5-85-8b-e5-a6-82-e4--6e8104e858f5.html",
       "captured": true,
-      "capture_title": "卢特尼克如何在特朗普政府中屹立不倒 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国国家资本主义是英伟达丑闻的推手之一",
-      "summary": "在特朗普治下，政府与企业利益交织得更加紧密。对英伟达的抵制可能会阻止这一趋势。",
-      "link": "https://cn.wsj.com/articles/american-state-capitalism-helped-produce-the-nvidia-scandal-69ee517a",
-      "guid": "WP-WSJS-0004085185",
-      "pub_date": "Sat, 21 Nov 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-74800371?size=1.509&width=1280",
-      "snapshot": "articles/american-state-capitalism-helped-produce-the-nvi-3fe133d610e6.html",
-      "captured": true,
-      "capture_title": "美国国家资本主义是英伟达丑闻的推手之一 - WSJ",
+      "capture_title": "卢特尼克如何在特朗普政府中屹立不倒",
       "error": ""
     },
     {
@@ -109,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-64905095?size=1&width=1280",
       "snapshot": "articles/fugitive-criminals-need-a-new-hideout-since-the--78eec1a34bf6.html",
       "captured": true,
-      "capture_title": "阿联酋开始实施引渡，全球逃犯需另寻藏身之处 - WSJ",
+      "capture_title": "阿联酋开始实施引渡，全球逃犯需另寻藏身之处",
       "error": ""
     },
     {
@@ -125,6 +113,30 @@
       "error": ""
     },
     {
+      "title": "联合国气候谈判因化石燃料分歧破裂",
+      "summary": "欧洲和一些国家拒绝接受一份决议草案，该草案未提及各经济体有必要摆脱对化石燃料的依赖。",
+      "link": "https://cn.wsj.com/articles/u-n-climate-talks-collapse-over-fossil-fuel-rift-8b868e5b",
+      "guid": "WP-WSJS-0004086329",
+      "pub_date": "Sun, 22 Nov 2026 23:24:00 GMT",
+      "image_url": "https://images.wsj.net/im-70747678?size=1.501&width=1280",
+      "snapshot": "articles/u-n-climate-talks-collapse-over-fossil-fuel-rift-7c4f48325444.html",
+      "captured": true,
+      "capture_title": "联合国气候谈判因化石燃料分歧破裂",
+      "error": ""
+    },
+    {
+      "title": "AI建设热潮吸纳大量资源，挤压其他经济领域",
+      "summary": "劳动力、设备、能源和投资纷纷涌向AI建设，留给其他行业的资源所剩无几。一场市场抛售凸显了其中的风险。",
+      "link": "https://cn.wsj.com/articles/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-75e41a63",
+      "guid": "WP-WSJS-0004086589",
+      "pub_date": "Mon, 23 Nov 2026 03:27:00 GMT",
+      "image_url": "https://images.wsj.net/im-70689391?size=1.5&width=1280",
+      "snapshot": "articles/the-ai-build-out-is-sucking-up-resources-and-cro-9d48d119dda9.html",
+      "captured": true,
+      "capture_title": "AI建设热潮吸纳大量资源，挤压其他经济领域",
+      "error": ""
+    },
+    {
       "title": "在俄罗斯战俘营，性虐待已成为系统的一部分",
       "summary": "乌克兰男性战俘在帕基诺监狱的遭遇是俄罗斯将性虐待系统化的缩影。一名看守说，“你们现在是我们的乌克兰婊子了。”",
       "link": "https://cn.wsj.com/articles/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-9531f37d",
@@ -133,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-04125027?size=0.8&width=1280",
       "snapshot": "articles/the-russian-pow-camp-where-sex-abuse-became-part-ed88af3aa013.html",
       "captured": true,
-      "capture_title": "在俄罗斯战俘营，性虐待已成为系统的一部分 - WSJ",
+      "capture_title": "在俄罗斯战俘营，性虐待已成为系统的一部分",
       "error": ""
     },
     {
@@ -145,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-65582644?size=1.5&width=1280",
       "snapshot": "articles/e9-87-91-e6-ad-a3-e6-81-a9-e4-ba-b2-e8-87-aa-e6--a8226af91021.html",
       "captured": true,
-      "capture_title": "金正恩亲自欢迎“对我们友好”的新外国使节 - WSJ",
+      "capture_title": "金正恩亲自欢迎“对我们友好”的新外国使节",
       "error": ""
     },
     {
@@ -157,19 +169,7 @@
       "image_url": "https://images.wsj.net/im-60706704?size=1.499&width=1280",
       "snapshot": "articles/how-mercedes-benz-nearly-became-collateral-damag-c3e42afda64f.html",
       "captured": true,
-      "capture_title": "美国拟禁中国汽车，梅赛德斯-奔驰为何险遭“池鱼之殃”？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "联合国气候谈判因化石燃料分歧破裂",
-      "summary": "欧洲和一些国家拒绝接受一份决议草案，该草案未提及各经济体有必要摆脱对化石燃料的依赖。",
-      "link": "https://cn.wsj.com/articles/u-n-climate-talks-collapse-over-fossil-fuel-rift-8b868e5b",
-      "guid": "WP-WSJS-0004086329",
-      "pub_date": "Sun, 22 Nov 2026 23:24:00 GMT",
-      "image_url": "https://images.wsj.net/im-70747678?size=1.501&width=1280",
-      "snapshot": "articles/u-n-climate-talks-collapse-over-fossil-fuel-rift-7c4f48325444.html",
-      "captured": true,
-      "capture_title": "联合国气候谈判因化石燃料分歧破裂",
+      "capture_title": "美国拟禁中国汽车，梅赛德斯-奔驰为何险遭“池鱼之殃”？",
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
       "image_url": "https://images.wsj.net/im-37778811?size=1.499&width=1280",
       "snapshot": "articles/e6-83-b3-e8-ae-a9anthropic-e4-b8-80-e7-9b-b4--e6-4848e8ab04f0.html",
       "captured": true,
-      "capture_title": "想让Anthropic一直“怪”下去的阿莫迪兄妹 - WSJ",
+      "capture_title": "想让Anthropic一直“怪”下去的阿莫迪兄妹",
       "error": ""
     },
     {
@@ -205,7 +205,7 @@
       "image_url": "https://images.wsj.net/im-19881531?size=1.501&width=1280",
       "snapshot": "articles/ken-griffin-citadel-miami-carnegie-mellon-4a6a9c-7120bf38131d.html",
       "captured": true,
-      "capture_title": "肯·格里芬想把牛津大学和麻省理工带到迈阿密，结果给另一所大学捐了30亿美元 - WSJ",
+      "capture_title": "肯·格里芬想把牛津大学和麻省理工带到迈阿密，结果给另一所大学捐了30亿美元",
       "error": ""
     },
     {
@@ -217,7 +217,7 @@
       "image_url": "https://images.wsj.net/im-53330246?size=1.5&width=1280",
       "snapshot": "articles/baby-boomers-aging-add2b197-9db29c7a660c.html",
       "captured": true,
-      "capture_title": "拒绝放慢脚步：婴儿潮一代正在重新定义老年生活 - WSJ",
+      "capture_title": "拒绝放慢脚步：婴儿潮一代正在重新定义老年生活",
       "error": ""
     },
     {
@@ -229,7 +229,7 @@
       "image_url": "https://images.wsj.net/im-54796021?size=2&width=1280",
       "snapshot": "articles/e4-b8-83-e5-bc-a0-e5-9b-be-e8-a1-a8-e8-a7-a3-e6--17bf5d621b27.html",
       "captured": true,
-      "capture_title": "七张图表解析油价新常态 - WSJ",
+      "capture_title": "七张图表解析油价新常态",
       "error": ""
     },
     {
@@ -290,6 +290,42 @@
       "snapshot": "articles/trump-rewards-top-owners-of-his-declining-coin-w-cbfa034a80ef.html",
       "captured": true,
       "capture_title": "同名代币价格下跌之际，特朗普设专属晚宴回馈持币大户",
+      "error": ""
+    },
+    {
+      "title": "中国AI企业依赖英伟达芯片，如今面临戒断之痛",
+      "summary": "美国切断中国使用高端算力渠道的举措，令中国政府发展AI的雄心受挫。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDai%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%A6%82%E4%BB%8A%E9%9D%A2%E4%B8%B4%E6%88%92%E6%96%AD%E4%B9%8B%E7%97%9B-73e3299a",
+      "guid": "WP-WSJS-0004082328",
+      "pub_date": "Fri, 20 Nov 2026 06:31:00 GMT",
+      "image_url": "https://images.wsj.net/im-25888626?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bdai-e4-bc-81-e4-b8-9a-e4-be-9d-e-834f9550bb6f.html",
+      "captured": true,
+      "capture_title": "中国AI企业依赖英伟达芯片，如今面临戒断之痛",
+      "error": ""
+    },
+    {
+      "title": "黄仁勋夫妇巨额财富构成一览",
+      "summary": "两人控制着8.7亿股英伟达股票，其中包括通过信托及其他实体控制的股份，价值超过1,090亿美元。",
+      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%AB%E5%A6%87%E5%B7%A8%E9%A2%9D%E8%B4%A2%E5%AF%8C%E6%9E%84%E6%88%90%E4%B8%80%E8%A7%88-6d98a5ae",
+      "guid": "WP-WSJS-0004086623",
+      "pub_date": "Mon, 23 Nov 2026 04:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-73215617?size=1.495&width=1280",
+      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a4-ab-e5-a6-87-e5--1d7a11edd6eb.html",
+      "captured": true,
+      "capture_title": "黄仁勋夫妇巨额财富构成一览 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "美国国家资本主义是英伟达丑闻的推手之一",
+      "summary": "在特朗普治下，政府与企业利益交织得更加紧密。对英伟达的抵制可能会阻止这一趋势。",
+      "link": "https://cn.wsj.com/articles/american-state-capitalism-helped-produce-the-nvidia-scandal-69ee517a",
+      "guid": "WP-WSJS-0004085185",
+      "pub_date": "Sat, 21 Nov 2026 02:11:00 GMT",
+      "image_url": "https://images.wsj.net/im-74800371?size=1.509&width=1280",
+      "snapshot": "articles/american-state-capitalism-helped-produce-the-nvi-3fe133d610e6.html",
+      "captured": true,
+      "capture_title": "美国国家资本主义是英伟达丑闻的推手之一 - WSJ",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/canada-and-china-draw-closer-with-expanded-trade-20fbc4558880.html",
       "captured": true,
       "capture_title": "加拿大与中国扩大贸易协定，双边关系更趋紧密",
-      "error": ""
-    },
-    {
-      "title": "即将跻身百亿富豪行列的七位Anthropic创始人",
-      "summary": "Anthropic预计周四上市，而七位都是千禧一代的联合创始人料将跻身全球百亿美元富豪行列。",
-      "link": "https://cn.wsj.com/articles/%E5%8D%B3%E5%B0%86%E8%B7%BB%E8%BA%AB%E7%99%BE%E4%BA%BF%E5%AF%8C%E8%B1%AA%E8%A1%8C%E5%88%97%E7%9A%84%E4%B8%83%E4%BD%8Danthropic%E5%88%9B%E5%A7%8B%E4%BA%BA-2c5ed6e3",
-      "guid": "WP-WSJS-0004074867",
-      "pub_date": "Wed, 18 Nov 2026 04:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-95971210?size=1.501&width=1280",
-      "snapshot": "articles/e5-8d-b3-e5-b0-86-e8-b7-bb-e8-ba-ab-e7-99-be-e4--8a0abfb7b253.html",
-      "captured": true,
-      "capture_title": "即将跻身百亿富豪行列的七位Anthropic创始人",
-      "error": ""
-    },
-    {
-      "title": "职场女性的新制胜法宝：权力腕表",
-      "summary": "随着越来越多的女性开始热衷于腕表收藏，她们发现，自己在这一领域的专业知识竟能成为意想不到的职场助力。",
-      "link": "https://cn.wsj.com/articles/women-work-luxury-watches-ca2491d3",
-      "guid": "WP-WSJS-0004074969",
-      "pub_date": "Wed, 18 Nov 2026 05:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-64981859?size=1.501&width=1280",
-      "snapshot": "articles/women-work-luxury-watches-ca2491d3-176863923917.html",
-      "captured": true,
-      "capture_title": "职场女性的新制胜法宝：权力腕表",
-      "error": ""
-    },
-    {
-      "title": "Temu因打击非法商品销售不力再遭欧盟警告",
-      "summary": "这是欧盟在着手执行《数字服务法》之际，向这家电商集团发出的最新警告。",
-      "link": "https://cn.wsj.com/articles/temu%E5%9B%A0%E6%89%93%E5%87%BB%E9%9D%9E%E6%B3%95%E5%95%86%E5%93%81%E9%94%80%E5%94%AE%E4%B8%8D%E5%8A%9B%E5%86%8D%E9%81%AD%E6%AC%A7%E7%9B%9F%E8%AD%A6%E5%91%8A-926d67ed",
-      "guid": "WP-WSJS-0004074109",
-      "pub_date": "Tue, 17 Nov 2026 23:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-67350840?size=1.499&width=1280",
-      "snapshot": "articles/temu-e5-9b-a0-e6-89-93-e5-87-bb-e9-9d-9e-e6-b3-9-5a6cd017ea4e.html",
-      "captured": true,
-      "capture_title": "Temu因打击非法商品销售不力再遭欧盟警告",
       "error": ""
     }
   ]
