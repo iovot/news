@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:21:08.690468+00:00",
+  "generated_at": "2026-11-24T22:14:03.358903+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,7 @@
       "image_url": "https://images.wsj.net/im-75957786?size=1.5&width=1280",
       "snapshot": "articles/nvidia-jensen-huang-white-house-f427b5cb-83fdf930722c.html",
       "captured": true,
-      "capture_title": "白宫紧急斡旋幕后：特朗普如何推动黄仁勋重返英伟达 - WSJ",
+      "capture_title": "白宫紧急斡旋幕后：特朗普如何推动黄仁勋重返英伟达",
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "image_url": "https://images.wsj.net/im-87333679?size=1.499&width=1280",
       "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-92-8c-e8-8b-b1-e4--ce591b39e166.html",
       "captured": true,
-      "capture_title": "黄仁勋和英伟达仍面临哪些重大调查？ - WSJ",
+      "capture_title": "黄仁勋和英伟达仍面临哪些重大调查？",
       "error": ""
     },
     {
@@ -61,7 +61,31 @@
       "image_url": "https://images.wsj.net/im-12377599?size=1.544&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-b0-86-e9-98-bf-e9-87-8c-e5--179423740911.html",
       "captured": true,
-      "capture_title": "美国将阿里巴巴新加坡子公司列入贸易黑名单 - WSJ",
+      "capture_title": "美国将阿里巴巴新加坡子公司列入贸易黑名单",
+      "error": ""
+    },
+    {
+      "title": "中国将对美部分关键材料出口限制暂停期延长至明年1月",
+      "summary": "中国商务部发布公告称，将继续暂停与镓、锗、锑、超硬材料相关两用物项对美出口禁令，并继续放宽对输美石墨的严格审查政策。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%B9%E7%BE%8E%E9%83%A8%E5%88%86%E5%85%B3%E9%94%AE%E6%9D%90%E6%96%99%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E6%9A%82%E5%81%9C%E6%9C%9F%E5%BB%B6%E9%95%BF%E8%87%B3%E6%98%8E%E5%B9%B41%E6%9C%88-4a565853",
+      "guid": "WP-WSJS-0004090807",
+      "pub_date": "Tue, 24 Nov 2026 10:53:00 GMT",
+      "image_url": "https://images.wsj.net/im-35926655?size=1.501&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-b0-86-e5-af-b9-e7-be-8e-e9--5fe2e0380b69.html",
+      "captured": true,
+      "capture_title": "中国将对美部分关键材料出口限制暂停期延长至明年1月 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "民主党人开始调查与小特朗普有关联的公司",
+      "summary": "众议员杰米·拉斯金即将出任众议院司法委员会主席，他希望了解相关公司是否曾受到特朗普政府的优待。",
+      "link": "https://cn.wsj.com/articles/%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%B0%83%E6%9F%A5%E4%B8%8E%E5%B0%8F%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%85%B3%E8%81%94%E7%9A%84%E5%85%AC%E5%8F%B8-1ceb47f8",
+      "guid": "WP-WSJS-0004090880",
+      "pub_date": "Tue, 24 Nov 2026 11:23:00 GMT",
+      "image_url": "https://images.wsj.net/im-23006917?size=1.501&width=1280",
+      "snapshot": "articles/e6-b0-91-e4-b8-bb-e5-85-9a-e4-ba-ba-e5-bc-80-e5--d10da650440c.html",
+      "captured": true,
+      "capture_title": "民主党人开始调查与小特朗普有关联的公司 - WSJ",
       "error": ""
     },
     {
@@ -73,7 +97,7 @@
       "image_url": "https://images.wsj.net/im-41255973?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-80-80-e7-96-91-e4-bc-8a-e6--e5e7c1287294.html",
       "captured": true,
-      "capture_title": "美国怀疑伊朗是数十起船舶遭网络攻击事件的幕后黑手 - WSJ",
+      "capture_title": "美国怀疑伊朗是数十起船舶遭网络攻击事件的幕后黑手",
       "error": ""
     },
     {
@@ -101,30 +125,6 @@
       "error": ""
     },
     {
-      "title": "特朗普在司法部发表演讲，抨击纽森并为死刑辩护",
-      "summary": "美国总统特朗普周一在司法部发表讲话，全力为死刑辩护，谴责加州州长加文·纽森为该州500多名面临处决的囚犯减免死刑的决定。",
-      "link": "https://cn.wsj.com/articles/trump-blasts-newsom-and-defends-death-penalty-in-justice-department-speech-6f7e7883",
-      "guid": "WP-WSJS-0004089716",
-      "pub_date": "Tue, 24 Nov 2026 00:05:00 GMT",
-      "image_url": "https://images.wsj.net/im-12139312?size=1.499&width=1280",
-      "snapshot": "articles/trump-blasts-newsom-and-defends-death-penalty-in-e9fc3292a2be.html",
-      "captured": true,
-      "capture_title": "特朗普在司法部发表演讲，抨击纽森并为死刑辩护 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "金正恩亲自欢迎“对我们友好”的新外国使节",
-      "summary": "金正恩首次亲自接受外国大使递交国书，传递出一个信号：他无需借助美国总统特朗普，也能展现政治家形象。",
-      "link": "https://cn.wsj.com/articles/%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%B2%E8%87%AA%E6%AC%A2%E8%BF%8E-%E5%AF%B9%E6%88%91%E4%BB%AC%E5%8F%8B%E5%A5%BD-%E7%9A%84%E6%96%B0%E5%A4%96%E5%9B%BD%E4%BD%BF%E8%8A%82-2013403a",
-      "guid": "WP-WSJS-0004087135",
-      "pub_date": "Mon, 23 Nov 2026 11:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-65582644?size=1.5&width=1280",
-      "snapshot": "articles/e9-87-91-e6-ad-a3-e6-81-a9-e4-ba-b2-e8-87-aa-e6--a8226af91021.html",
-      "captured": true,
-      "capture_title": "金正恩亲自欢迎“对我们友好”的新外国使节",
-      "error": ""
-    },
-    {
       "title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
       "summary": "这位数据行业高管在与黄仁勋发生婚外情期间，曾与中国情报机构保持着联系。",
       "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%B9%90%E6%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E6%9C%89%E8%81%94%E7%B3%BB-%E4%BD%86%E5%A5%B9%E7%9C%9F%E7%9A%84%E6%98%AF%E9%97%B4%E8%B0%8D%E5%90%97-4adcdd4f",
@@ -133,7 +133,7 @@
       "image_url": "https://images.wsj.net/im-44883062?size=1.778&width=1280",
       "snapshot": "articles/e9-bb-84-e4-b9-90-e6-9b-be-e4-b8-8e-e4-b8-ad-e5--5243e5b5f0dd.html",
       "captured": true,
-      "capture_title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？ - WSJ",
+      "capture_title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "image_url": "https://images.wsj.net/im-05212564?size=1.88&width=1280",
       "snapshot": "articles/inside-the-ukrainian-attack-that-sank-russian-wa-7827f4a67530.html",
       "captured": true,
-      "capture_title": "乌克兰袭击行动内幕：一艘停靠利比亚的俄罗斯军舰是如何被击沉的 - WSJ",
+      "capture_title": "乌克兰袭击行动内幕：一艘停靠利比亚的俄罗斯军舰是如何被击沉的",
       "error": ""
     },
     {
@@ -157,7 +157,7 @@
       "image_url": "https://images.wsj.net/im-73998967?size=1.5&width=1280",
       "snapshot": "articles/e4-bb-96-e5-8f-af-e8-83-bd-e5-88-9a-e8-a7-a3-e5--98396a4b938b.html",
       "captured": true,
-      "capture_title": "他可能刚解开了黎曼猜想：一名“老派数学家”与AI的联手突破 - WSJ",
+      "capture_title": "他可能刚解开了黎曼猜想：一名“老派数学家”与AI的联手突破",
       "error": ""
     },
     {
@@ -197,6 +197,18 @@
       "error": ""
     },
     {
+      "title": "老年人皮肤癌发病率上升，你需要了解这些关键信息",
+      "summary": "研究人员正在探索诊断和治疗皮肤癌的创新方法。但这些方法的效果尚无定论。",
+      "link": "https://cn.wsj.com/articles/%E8%80%81%E5%B9%B4%E4%BA%BA%E7%9A%AE%E8%82%A4%E7%99%8C%E5%8F%91%E7%97%85%E7%8E%87%E4%B8%8A%E5%8D%87-%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E8%BF%99%E4%BA%9B%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF-0dcf5dc7",
+      "guid": "WP-WSJS-0004090577",
+      "pub_date": "Tue, 24 Nov 2026 09:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-25421474?size=1.501&width=1280",
+      "snapshot": "articles/e8-80-81-e5-b9-b4-e4-ba-ba-e7-9a-ae-e8-82-a4-e7--63380b9969f6.html",
+      "captured": true,
+      "capture_title": "老年人皮肤癌发病率上升，你需要了解这些关键信息 - WSJ",
+      "error": ""
+    },
+    {
       "title": "他们为逃离民主党而迁往得克萨斯州，如今这里也变蓝了，下一站是俄克拉何马州？",
       "summary": "中期选举后，迁入得州的共和党支持者开始后悔搬家，邻州则争相招揽他们。",
       "link": "https://cn.wsj.com/articles/%E4%BB%96%E4%BB%AC%E4%B8%BA%E9%80%83%E7%A6%BB%E6%B0%91%E4%B8%BB%E5%85%9A%E8%80%8C%E8%BF%81%E5%BE%80%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E-%E5%A6%82%E4%BB%8A%E8%BF%99%E9%87%8C%E4%B9%9F%E5%8F%98%E8%93%9D%E4%BA%86-%E4%B8%8B%E4%B8%80%E7%AB%99%E6%98%AF%E4%BF%84%E5%85%8B%E6%8B%89%E4%BD%95%E9%A9%AC%E5%B7%9E-335d4a22",
@@ -205,19 +217,7 @@
       "image_url": "https://images.wsj.net/im-94933473?size=1.501&width=1280",
       "snapshot": "articles/e4-bb-96-e4-bb-ac-e4-b8-ba-e9-80-83-e7-a6-bb-e6--7f6b960bfbc7.html",
       "captured": true,
-      "capture_title": "他们为逃离民主党而迁往得克萨斯州，如今这里也变蓝了，下一站是俄克拉何马州？ - WSJ",
-      "error": ""
-    },
-    {
-      "title": "美国拟禁中国汽车，梅赛德斯-奔驰为何险遭“池鱼之殃”？",
-      "summary": "由于中国实体持有梅赛德斯-奔驰部分股权，这家德国汽车制造商在美国的业务布局面临威胁。",
-      "link": "https://cn.wsj.com/articles/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-63e6c927",
-      "guid": "WP-WSJS-0004086491",
-      "pub_date": "Mon, 23 Nov 2026 01:37:00 GMT",
-      "image_url": "https://images.wsj.net/im-60706704?size=1.499&width=1280",
-      "snapshot": "articles/how-mercedes-benz-nearly-became-collateral-damag-c3e42afda64f.html",
-      "captured": true,
-      "capture_title": "美国拟禁中国汽车，梅赛德斯-奔驰为何险遭“池鱼之殃”？",
+      "capture_title": "他们为逃离民主党而迁往得克萨斯州，如今这里也变蓝了，下一站是俄克拉何马州？",
       "error": ""
     },
     {
@@ -241,31 +241,31 @@
       "image_url": "https://images.wsj.net/im-26745825?size=1.501&width=1280",
       "snapshot": "articles/amazon-leo-starlink-rival-c4afa262-5cb7bb5b7207.html",
       "captured": true,
-      "capture_title": "亚马逊打造的星链竞品为何难以追赶SpaceX - WSJ",
+      "capture_title": "亚马逊打造的星链竞品为何难以追赶SpaceX",
       "error": ""
     },
     {
-      "title": "肯·格里芬想把牛津大学和麻省理工带到迈阿密，结果给另一所大学捐了30亿美元",
-      "summary": "Citadel创始人给卡内基梅隆大学的这笔捐赠将成为高等教育领域规模最大的个人单笔捐赠，反映出高等教育界经历的巨大变革，也反映出迈阿密的转型。",
-      "link": "https://cn.wsj.com/articles/ken-griffin-citadel-miami-carnegie-mellon-4a6a9c90",
-      "guid": "WP-WSJS-0004086746",
-      "pub_date": "Mon, 23 Nov 2026 05:52:00 GMT",
-      "image_url": "https://images.wsj.net/im-19881531?size=1.501&width=1280",
-      "snapshot": "articles/ken-griffin-citadel-miami-carnegie-mellon-4a6a9c-7120bf38131d.html",
+      "title": "小米集团第三季度净利润同比大幅下滑68%",
+      "summary": "小米集团第三季度净利润较上年同期锐减68%，至人民币38.8亿元；收入下降5.2%，至人民币1,072.4亿元。",
+      "link": "https://cn.wsj.com/articles/%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%9168-673a4c67",
+      "guid": "WP-WSJS-0004090762",
+      "pub_date": "Tue, 24 Nov 2026 10:40:00 GMT",
+      "image_url": "https://images.wsj.net/im-58009967?size=1.501&width=1280",
+      "snapshot": "articles/e5-b0-8f-e7-b1-b3-e9-9b-86-e5-9b-a2-e7-ac-ac-e4--5742a6822361.html",
       "captured": true,
-      "capture_title": "肯·格里芬想把牛津大学和麻省理工带到迈阿密，结果给另一所大学捐了30亿美元",
+      "capture_title": "小米集团第三季度净利润同比大幅下滑68% - WSJ",
       "error": ""
     },
     {
-      "title": "IMAX将携手迪士尼和NFL在影院直播第61届超级碗",
-      "summary": "IMAX与迪士尼和美国职业橄榄球大联盟达成了新的合作安排，将在IMAX影院直播第61届超级碗。",
-      "link": "https://cn.wsj.com/articles/imax-to-show-super-bowl-lxi-in-theaters-through-partnership-with-disney-the-nfl-71088ddb",
-      "guid": "WP-WSJS-0004089702",
-      "pub_date": "Mon, 23 Nov 2026 23:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-28694852?size=1.501&width=1280",
-      "snapshot": "articles/imax-to-show-super-bowl-lxi-in-theaters-through--6321bc9abfbe.html",
+      "title": "美国拟禁中国汽车，梅赛德斯-奔驰为何险遭“池鱼之殃”？",
+      "summary": "由于中国实体持有梅赛德斯-奔驰部分股权，这家德国汽车制造商在美国的业务布局面临威胁。",
+      "link": "https://cn.wsj.com/articles/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-63e6c927",
+      "guid": "WP-WSJS-0004086491",
+      "pub_date": "Mon, 23 Nov 2026 01:37:00 GMT",
+      "image_url": "https://images.wsj.net/im-60706704?size=1.499&width=1280",
+      "snapshot": "articles/how-mercedes-benz-nearly-became-collateral-damag-c3e42afda64f.html",
       "captured": true,
-      "capture_title": "IMAX将携手迪士尼和NFL在影院直播第61届超级碗 - WSJ",
+      "capture_title": "美国拟禁中国汽车，梅赛德斯-奔驰为何险遭“池鱼之殃”？",
       "error": ""
     },
     {
@@ -281,15 +281,15 @@
       "error": ""
     },
     {
-      "title": "比亚迪股价下跌，此前荷兰法院禁止其钛7 SUV车型在欧盟销售",
-      "summary": "比亚迪上周五在声明中表示，该公司强烈不同意法院判决，并将提起上诉。",
-      "link": "https://cn.wsj.com/articles/%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E6%AD%A4%E5%89%8D%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E7%A6%81%E6%AD%A2%E5%85%B6%E9%92%9B7-suv%E8%BD%A6%E5%9E%8B%E5%9C%A8%E6%AC%A7%E7%9B%9F%E9%94%80%E5%94%AE-9013d8c9",
-      "guid": "WP-WSJS-0004086831",
-      "pub_date": "Mon, 23 Nov 2026 08:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-46785500?size=1.501&width=1280",
-      "snapshot": "articles/e6-af-94-e4-ba-9a-e8-bf-aa-e8-82-a1-e4-bb-b7-e4--340c7233f157.html",
+      "title": "肯·格里芬想把牛津大学和麻省理工带到迈阿密，结果给另一所大学捐了30亿美元",
+      "summary": "Citadel创始人给卡内基梅隆大学的这笔捐赠将成为高等教育领域规模最大的个人单笔捐赠，反映出高等教育界经历的巨大变革，也反映出迈阿密的转型。",
+      "link": "https://cn.wsj.com/articles/ken-griffin-citadel-miami-carnegie-mellon-4a6a9c90",
+      "guid": "WP-WSJS-0004086746",
+      "pub_date": "Mon, 23 Nov 2026 05:52:00 GMT",
+      "image_url": "https://images.wsj.net/im-19881531?size=1.501&width=1280",
+      "snapshot": "articles/ken-griffin-citadel-miami-carnegie-mellon-4a6a9c-7120bf38131d.html",
       "captured": true,
-      "capture_title": "比亚迪股价下跌，此前荷兰法院禁止其钛7 SUV车型在欧盟销售",
+      "capture_title": "肯·格里芬想把牛津大学和麻省理工带到迈阿密，结果给另一所大学捐了30亿美元",
       "error": ""
     },
     {
@@ -302,6 +302,54 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bdai-e4-bc-81-e4-b8-9a-e4-be-9d-e-834f9550bb6f.html",
       "captured": true,
       "capture_title": "中国AI企业依赖英伟达芯片，如今面临戒断之痛",
+      "error": ""
+    },
+    {
+      "title": "特朗普在司法部发表演讲，抨击纽森并为死刑辩护",
+      "summary": "美国总统特朗普周一在司法部发表讲话，全力为死刑辩护，谴责加州州长加文·纽森为该州500多名面临处决的囚犯减免死刑的决定。",
+      "link": "https://cn.wsj.com/articles/trump-blasts-newsom-and-defends-death-penalty-in-justice-department-speech-6f7e7883",
+      "guid": "WP-WSJS-0004089716",
+      "pub_date": "Tue, 24 Nov 2026 00:05:00 GMT",
+      "image_url": "https://images.wsj.net/im-12139312?size=1.499&width=1280",
+      "snapshot": "articles/trump-blasts-newsom-and-defends-death-penalty-in-e9fc3292a2be.html",
+      "captured": true,
+      "capture_title": "特朗普在司法部发表演讲，抨击纽森并为死刑辩护 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "金正恩亲自欢迎“对我们友好”的新外国使节",
+      "summary": "金正恩首次亲自接受外国大使递交国书，传递出一个信号：他无需借助美国总统特朗普，也能展现政治家形象。",
+      "link": "https://cn.wsj.com/articles/%E9%87%91%E6%AD%A3%E6%81%A9%E4%BA%B2%E8%87%AA%E6%AC%A2%E8%BF%8E-%E5%AF%B9%E6%88%91%E4%BB%AC%E5%8F%8B%E5%A5%BD-%E7%9A%84%E6%96%B0%E5%A4%96%E5%9B%BD%E4%BD%BF%E8%8A%82-2013403a",
+      "guid": "WP-WSJS-0004087135",
+      "pub_date": "Mon, 23 Nov 2026 11:02:00 GMT",
+      "image_url": "https://images.wsj.net/im-65582644?size=1.5&width=1280",
+      "snapshot": "articles/e9-87-91-e6-ad-a3-e6-81-a9-e4-ba-b2-e8-87-aa-e6--a8226af91021.html",
+      "captured": true,
+      "capture_title": "金正恩亲自欢迎“对我们友好”的新外国使节",
+      "error": ""
+    },
+    {
+      "title": "IMAX将携手迪士尼和NFL在影院直播第61届超级碗",
+      "summary": "IMAX与迪士尼和美国职业橄榄球大联盟达成了新的合作安排，将在IMAX影院直播第61届超级碗。",
+      "link": "https://cn.wsj.com/articles/imax-to-show-super-bowl-lxi-in-theaters-through-partnership-with-disney-the-nfl-71088ddb",
+      "guid": "WP-WSJS-0004089702",
+      "pub_date": "Mon, 23 Nov 2026 23:47:00 GMT",
+      "image_url": "https://images.wsj.net/im-28694852?size=1.501&width=1280",
+      "snapshot": "articles/imax-to-show-super-bowl-lxi-in-theaters-through--6321bc9abfbe.html",
+      "captured": true,
+      "capture_title": "IMAX将携手迪士尼和NFL在影院直播第61届超级碗 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "比亚迪股价下跌，此前荷兰法院禁止其钛7 SUV车型在欧盟销售",
+      "summary": "比亚迪上周五在声明中表示，该公司强烈不同意法院判决，并将提起上诉。",
+      "link": "https://cn.wsj.com/articles/%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E6%AD%A4%E5%89%8D%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E7%A6%81%E6%AD%A2%E5%85%B6%E9%92%9B7-suv%E8%BD%A6%E5%9E%8B%E5%9C%A8%E6%AC%A7%E7%9B%9F%E9%94%80%E5%94%AE-9013d8c9",
+      "guid": "WP-WSJS-0004086831",
+      "pub_date": "Mon, 23 Nov 2026 08:26:00 GMT",
+      "image_url": "https://images.wsj.net/im-46785500?size=1.501&width=1280",
+      "snapshot": "articles/e6-af-94-e4-ba-9a-e8-bf-aa-e8-82-a1-e4-bb-b7-e4--340c7233f157.html",
+      "captured": true,
+      "capture_title": "比亚迪股价下跌，此前荷兰法院禁止其钛7 SUV车型在欧盟销售",
       "error": ""
     },
     {
@@ -1154,54 +1202,6 @@
       "snapshot": "articles/mary-barra-transformed-gm-her-successor-may-have-0628308519e0.html",
       "captured": true,
       "capture_title": "博拉重塑了通用汽车，继任者或需再度变革",
-      "error": ""
-    },
-    {
-      "title": "谷歌押注清洁发电新技术：汽化岩石以利用地热",
-      "summary": "地热初创公司Quaise Energy希望将岩石汽化，在超高温深层钻探，并全天候生产清洁电力。如今，该公司获得了谷歌超过5亿美元的协议。",
-      "link": "https://cn.wsj.com/articles/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-eefec9cc",
-      "guid": "WP-WSJS-0004074600",
-      "pub_date": "Wed, 18 Nov 2026 02:38:00 GMT",
-      "image_url": "https://images.wsj.net/im-70359894?size=1.335&width=1280",
-      "snapshot": "articles/google-embraces-geothermal-technology-to-vaporiz-3765d4af20c8.html",
-      "captured": true,
-      "capture_title": "谷歌押注清洁发电新技术：汽化岩石以利用地热",
-      "error": ""
-    },
-    {
-      "title": "中国警告可能对美国最新AI芯片限制令采取反制措施",
-      "summary": "中国商务部发言人表示，美方的限制措施破坏市场规则和国际经贸秩序，冲击全球半导体产业链供应链稳定。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%8F%AF%E8%83%BD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0ai%E8%8A%AF%E7%89%87%E9%99%90%E5%88%B6%E4%BB%A4%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD-be870d6e",
-      "guid": "WP-WSJS-0004075302",
-      "pub_date": "Wed, 18 Nov 2026 10:23:00 GMT",
-      "image_url": "https://images.wsj.net/im-98557447?size=1.5012106537530265&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e8-ad-a6-e5-91-8a-e5-8f-af-e8--bb23efcc748f.html",
-      "captured": true,
-      "capture_title": "中国警告可能对美国最新AI芯片限制令采取反制措施",
-      "error": ""
-    },
-    {
-      "title": "Anthropic IPO定价每股83美元，高于预期",
-      "summary": "Anthropic在IPO中售出的股票数量超过原计划，发行价也高于预期，此前投资者认购需求达到拟售股份的数倍。",
-      "link": "https://cn.wsj.com/articles/anthropic-prices-ipo-at-83-a-share-ad3e592b",
-      "guid": "WP-WSJS-0004077439",
-      "pub_date": "Thu, 19 Nov 2026 00:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-54794317?size=1.501&width=1280",
-      "snapshot": "articles/anthropic-prices-ipo-at-83-a-share-ad3e592b-a1e57e168055.html",
-      "captured": true,
-      "capture_title": "Anthropic IPO定价每股83美元，高于预期 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "英伟达称黄仁勋离职后“一切照常”，华尔街不买账",
-      "summary": "英伟达备受期待的这场电话会议未能充分满足投资者的期待，会后股价周三下跌2.9%，连续第五个交易日走低。",
-      "link": "https://cn.wsj.com/articles/nvidia-says-its-business-as-usual-after-huangs-ouster-wall-street-doesnt-buy-it-c0e4d004",
-      "guid": "WP-WSJS-0004077475",
-      "pub_date": "Wed, 18 Nov 2026 23:40:00 GMT",
-      "image_url": "https://images.wsj.net/im-53721149?size=1.499&width=1280",
-      "snapshot": "articles/nvidia-says-its-business-as-usual-after-huangs-o-76e5899dfc3e.html",
-      "captured": true,
-      "capture_title": "英伟达称黄仁勋离职后“一切照常”，华尔街不买账 - WSJ",
       "error": ""
     }
   ]
