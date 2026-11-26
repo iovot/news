@@ -1,9 +1,93 @@
 {
-  "generated_at": "2026-11-25T19:08:55.687549+00:00",
+  "generated_at": "2026-11-26T03:40:33.976669+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
+    {
+      "title": "中国军队的威严表象与实战落差",
+      "summary": "一份基于对六个国家和地区逾百名官员访谈的新报告，勾勒出中国军队强大表象背后的短板。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E7%9A%84%E5%A8%81%E4%B8%A5%E8%A1%A8%E8%B1%A1%E4%B8%8E%E5%AE%9E%E6%88%98%E8%90%BD%E5%B7%AE-02ecbfda",
+      "guid": "WP-WSJS-0004093367",
+      "pub_date": "Wed, 25 Nov 2026 02:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-74715193?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-86-9b-e9-98-9f-e7-9a-84-e5--d89f5273bf4a.html",
+      "captured": true,
+      "capture_title": "中国军队的威严表象与实战落差",
+      "error": ""
+    },
+    {
+      "title": "美官员向国会通报：无证据表明中国策划了黄仁勋的婚外情",
+      "summary": "知情人士称，从美国目前收集到的证据来看，黄乐与黄仁勋之间可能是男女之情，而不是中国策划的协同行动。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%AE%98%E5%91%98%E5%90%91%E5%9B%BD%E4%BC%9A%E9%80%9A%E6%8A%A5-%E6%97%A0%E8%AF%81%E6%8D%AE%E8%A1%A8%E6%98%8E%E4%B8%AD%E5%9B%BD%E7%AD%96%E5%88%92%E4%BA%86%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E5%A9%9A%E5%A4%96%E6%83%85-b4a019b2",
+      "guid": "WP-WSJS-0004096029",
+      "pub_date": "Wed, 25 Nov 2026 23:38:00 GMT",
+      "image_url": "https://images.wsj.net/im-81165016?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-ae-98-e5-91-98-e5-90-91-e5-9b-bd-e4--72cfe3f09541.html",
+      "captured": true,
+      "capture_title": "美官员向国会通报：无证据表明中国策划了黄仁勋的婚外情 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "为何此时加征新关税极其不合时宜",
+      "summary": "特朗普已经为其关税政策付出了政治和经济代价。那么，他为何还要再次提高关税？",
+      "link": "https://cn.wsj.com/articles/why-this-is-a-terrible-time-for-new-tariffs-3d6059a7",
+      "guid": "WP-WSJS-0004096432",
+      "pub_date": "Thu, 26 Nov 2026 02:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-39405394?size=1.499&width=1280",
+      "snapshot": "articles/why-this-is-a-terrible-time-for-new-tariffs-3d60-79c605769cf9.html",
+      "captured": true,
+      "capture_title": "为何此时加征新关税极其不合时宜 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "为何说美股本轮抛售可能在企稳前进一步加剧",
+      "summary": "分析师对MarketWatch表示，周一的反弹在一定程度上掩盖了更深层次的问题，在持久底部到来之前，这些问题必须得到解决。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E8%AF%B4%E7%BE%8E%E8%82%A1%E6%9C%AC%E8%BD%AE%E6%8A%9B%E5%94%AE%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%BC%81%E7%A8%B3%E5%89%8D%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%89%A7-f8436b48",
+      "guid": "WP-WSJS-0004096400",
+      "pub_date": "Thu, 26 Nov 2026 01:35:00 GMT",
+      "image_url": "https://images.mktw.net/im-73383573?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ba-e4-bd-95-e8-af-b4-e7-be-8e-e8-82-a1-e6--118f6905c8c7.html",
+      "captured": true,
+      "capture_title": "为何说美股本轮抛售可能在企稳前进一步加剧 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "市场剧烈波动撞上美联储遏制通胀的决心",
+      "summary": "AI引发的市场暴跌表明，央行出手救市的门槛已经大大提高。",
+      "link": "https://cn.wsj.com/articles/wild-market-swings-are-colliding-with-a-fed-bent-on-taming-inflation-a993b0fa",
+      "guid": "WP-WSJS-0004096483",
+      "pub_date": "Thu, 26 Nov 2026 02:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-65491821?size=1.501&width=1280",
+      "snapshot": "articles/wild-market-swings-are-colliding-with-a-fed-bent-86ef2662fd8d.html",
+      "captured": true,
+      "capture_title": "市场剧烈波动撞上美联储遏制通胀的决心 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "SpaceX获美国批准发射100万颗轨道数据中心卫星",
+      "summary": "SpaceX运营Starmind卫星网络的计划遭到亚马逊和一批天文学家反对。",
+      "link": "https://cn.wsj.com/articles/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-9c4bc289",
+      "guid": "WP-WSJS-0004096044",
+      "pub_date": "Wed, 25 Nov 2026 23:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-05668881?size=1.501&width=1280",
+      "snapshot": "articles/fcc-authorizes-spacex-to-build-1-million-data-ce-54f5e47e822b.html",
+      "captured": true,
+      "capture_title": "SpaceX获美国批准发射100万颗轨道数据中心卫星 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "“超加工食品”定义即将出炉，小肯尼迪找到MAHA新盟友",
+      "summary": "这项提案拟将美国食品供应中约60%的食品归类为超加工食品。这项措施在中期选举前陷入停滞，但如今得到了新任白宫办公厅主任斯蒂芬·米勒的支持。",
+      "link": "https://cn.wsj.com/articles/americas-affordability-crisis-is-jamming-up-rfk-jr-s-food-agenda-819fd3ec",
+      "guid": "WP-WSJS-0004096409",
+      "pub_date": "Thu, 26 Nov 2026 01:41:00 GMT",
+      "image_url": "https://images.wsj.net/im-37285636?size=1.501&width=1280",
+      "snapshot": "articles/americas-affordability-crisis-is-jamming-up-rfk--ed8ca6ec66f9.html",
+      "captured": true,
+      "capture_title": "“超加工食品”定义即将出炉，小肯尼迪找到MAHA新盟友 - WSJ",
+      "error": ""
+    },
     {
       "title": "上海市委书记陈吉宁被查，曾被视为习近平潜在接班人选",
       "summary": "习近平持续清洗政治局成员，昔日一手提拔的亲信遭到调查。",
@@ -17,8 +101,44 @@
       "error": ""
     },
     {
+      "title": "波罗的海危机幕后：各方紧急斡旋，力避与俄罗斯爆发冲突",
+      "summary": "两位北欧国家领导人在一名俄罗斯寡头的协助下，设法打通了直通普京的联络渠道。",
+      "link": "https://cn.wsj.com/articles/%E6%B3%A2%E7%BD%97%E7%9A%84%E6%B5%B7%E5%8D%B1%E6%9C%BA%E5%B9%95%E5%90%8E-%E5%90%84%E6%96%B9%E7%B4%A7%E6%80%A5%E6%96%A1%E6%97%8B-%E5%8A%9B%E9%81%BF%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81-dfd53eb3",
+      "guid": "WP-WSJS-0004096161",
+      "pub_date": "Thu, 26 Nov 2026 01:01:00 GMT",
+      "image_url": "https://images.wsj.net/im-13021520?size=1.645&width=1280",
+      "snapshot": "articles/e6-b3-a2-e7-bd-97-e7-9a-84-e6-b5-b7-e5-8d-b1-e6--82047db3905e.html",
+      "captured": true,
+      "capture_title": "波罗的海危机幕后：各方紧急斡旋，力避与俄罗斯爆发冲突 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "中国“撞脸”SUV出海，借鉴与侵权的边界在哪？",
+      "summary": "捷豹路虎指控比亚迪热门SUV钛7是对旗下路虎卫士车型的“无耻抄袭”。",
+      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E6%92%9E%E8%84%B8-suv%E5%87%BA%E6%B5%B7-%E5%80%9F%E9%89%B4%E4%B8%8E%E4%BE%B5%E6%9D%83%E7%9A%84%E8%BE%B9%E7%95%8C%E5%9C%A8%E5%93%AA-975ee858",
+      "guid": "WP-WSJS-0004093635",
+      "pub_date": "Wed, 25 Nov 2026 07:15:00 GMT",
+      "image_url": "https://images.wsj.net/im-35561079?size=1.5&width=1280",
+      "snapshot": "articles/e4-b8-ad-e5-9b-bd--e6-92-9e-e8-84-b8-suv-e5-87-b-cde933d7ec79.html",
+      "captured": true,
+      "capture_title": "中国“撞脸”SUV出海，借鉴与侵权的边界在哪？",
+      "error": ""
+    },
+    {
+      "title": "阿申布伦纳旗下Situational Awareness第三季度亏损65%",
+      "summary": "夏季，在利用借款加码的AI押注失利后，该基金一度濒临崩溃。",
+      "link": "https://cn.wsj.com/articles/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-b83d2fd9",
+      "guid": "WP-WSJS-0004096321",
+      "pub_date": "Thu, 26 Nov 2026 00:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-27526714?size=1&width=1280",
+      "snapshot": "articles/aschenbrenners-situational-awareness-tells-inves-4c278b531cb3.html",
+      "captured": true,
+      "capture_title": "阿申布伦纳旗下Situational Awareness第三季度亏损65% - WSJ",
+      "error": ""
+    },
+    {
       "title": "黄仁勋的新英伟达愿景：与过去大同小异",
-      "summary": "黄仁勋在英伟达全员大会上表示，制定接班人计划没有意义。尽管面临着诸多新挑战，在黄仁勋重新掌舵之际，英伟达正努力让市场相信一切照常。",
+      "summary": "黄仁勋在英伟达全员大会上表示，制定接班人计划没有意义。",
       "link": "https://cn.wsj.com/articles/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-8219670c",
       "guid": "WP-WSJS-0004093393",
       "pub_date": "Wed, 25 Nov 2026 02:34:00 GMT",
@@ -29,15 +149,75 @@
       "error": ""
     },
     {
-      "title": "美国拟对中国及其他数十国加征关税",
-      "summary": "针对海外工业产能过剩的更高关税预计将于本周出台，影响可能波及中国、日本、韩国以及欧盟。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B0%E5%8D%81%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E-693c7c60",
-      "guid": "WP-WSJS-0004093095",
-      "pub_date": "Wed, 25 Nov 2026 00:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-21810932?size=1.572&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8b-9f-e5-af-b9-e4-b8-ad-e5--8194f72d34da.html",
+      "title": "黄仁勋、特朗普与震动英伟达的11天",
+      "summary": "黄仁勋辞去英伟达首席执行官，最终又复职。《华尔街日报》视频剖析这期间究竟发生了什么。",
+      "link": "https://cn.wsj.com/articles/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-b6c097b8",
+      "guid": "WP-WSJS-0004096570",
+      "pub_date": "Thu, 26 Nov 2026 03:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-58488429?size=1.78&width=1280",
+      "snapshot": "articles/jensen-huang-trump-and-the-11-days-that-rocked-n-4bc2fe1f4467.html",
       "captured": true,
-      "capture_title": "美国拟对中国及其他数十国加征关税",
+      "capture_title": "黄仁勋、特朗普与震动英伟达的11天 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
+      "summary": "AI热潮破灭将令美国经济遭受沉重打击，但经济学家对冲击程度仍争论不休。",
+      "link": "https://cn.wsj.com/articles/%E6%AF%94%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E6%9B%B4%E4%B8%A5%E9%87%8D-ai%E5%B4%A9%E7%9B%98%E5%8F%AF%E8%83%BD%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E-8fc5efb8",
+      "guid": "WP-WSJS-0004093578",
+      "pub_date": "Wed, 25 Nov 2026 04:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-75111130?size=1.5&width=1280",
+      "snapshot": "articles/e6-af-94-e4-ba-92-e8-81-94-e7-bd-91-e6-b3-a1-e6--c3be26f61ff8.html",
+      "captured": true,
+      "capture_title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
+      "error": ""
+    },
+    {
+      "title": "美国人已厌倦在流媒体服务上花越来越多的钱",
+      "summary": "美国流媒体服务订阅量增长已趋于平稳，观众正转向价格更低的套餐。",
+      "link": "https://cn.wsj.com/articles/these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-81f9dfa7",
+      "guid": "WP-WSJS-0004093597",
+      "pub_date": "Wed, 25 Nov 2026 06:04:00 GMT",
+      "image_url": "https://images.wsj.net/im-66703620?size=1.5&width=1280",
+      "snapshot": "articles/these-charts-show-how-fed-up-americans-are-with--57f14feb9c26.html",
+      "captured": true,
+      "capture_title": "美国人已厌倦在流媒体服务上花越来越多的钱",
+      "error": ""
+    },
+    {
+      "title": "杰米·戴蒙曾深爱英国——直到英国对摩根大通加税",
+      "summary": "戴蒙正寻求对英国展开反击，此前财政吃紧的英国政府将增收目标瞄准银行业。",
+      "link": "https://cn.wsj.com/articles/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-ad88791f",
+      "guid": "WP-WSJS-0004095997",
+      "pub_date": "Wed, 25 Nov 2026 23:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-32630477?size=1.502&width=1280",
+      "snapshot": "articles/jamie-dimon-loved-britainuntil-it-raised-taxes-o-51795ce02e6f.html",
+      "captured": true,
+      "capture_title": "杰米·戴蒙曾深爱英国——直到英国对摩根大通加税 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "Shein第三季度收入虽降但利润大增，积极适应贸易挑战",
+      "summary": "Shein第三季度净利润为46.5亿美元，较上年同期的6.16亿美元大幅增长。收入下降5.9%，至103亿美元。",
+      "link": "https://cn.wsj.com/articles/shein%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%BF-%E5%B0%BD%E7%AE%A1%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D-76403a85",
+      "guid": "WP-WSJS-0004093989",
+      "pub_date": "Wed, 25 Nov 2026 11:12:00 GMT",
+      "image_url": "https://images.wsj.net/im-55931868?size=1.501&width=1280",
+      "snapshot": "articles/shein-e7-ac-ac-e4-b8-89-e5-ad-a3-e5-ba-a6-e5-88--56e5c8320ae7.html",
+      "captured": true,
+      "capture_title": "Shein第三季度收入虽降但利润大增，积极适应贸易挑战 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "拜耳将以最高32.5亿美元从中国翰森制药获得一款癌症药物授权",
+      "summary": "这笔交易是欧洲药企与中国药企合作的最新一例，凸显出西方制药公司正越来越多地转向中国寻找新药。",
+      "link": "https://cn.wsj.com/articles/bayerlicenses-cancer-drug-from-china-s-hansoh-for-up-to-3-25-billion-8550f3c8",
+      "guid": "WP-WSJS-0004096054",
+      "pub_date": "Wed, 25 Nov 2026 23:35:00 GMT",
+      "image_url": "https://images.wsj.net/im-33268373?size=1.5&width=1280",
+      "snapshot": "articles/bayerlicenses-cancer-drug-from-china-s-hansoh-fo-2a9d7591d100.html",
+      "captured": true,
+      "capture_title": "拜耳将以最高32.5亿美元从中国翰森制药获得一款癌症药物授权 - WSJ",
       "error": ""
     },
     {
@@ -50,6 +230,90 @@
       "snapshot": "articles/e5-8d-8e-e4-b8-ba-e5-9c-a8-e7-be-8e-e5-88-91-e4--4bb51af43104.html",
       "captured": true,
       "capture_title": "华为在美国刑事审判中被判欺诈罪成立",
+      "error": ""
+    },
+    {
+      "title": "从知己到决裂：新书揭露艾格缘何深陷迪士尼董事会最大恶战",
+      "summary": "笔者在新书“House of Mouse”中，讲述了长期担任迪士尼首席执行官的艾格与漫威娱乐董事长珀尔马特如何反目成仇，并引发了董事会权力之争。",
+      "link": "https://cn.wsj.com/articles/disney-iger-perlmutter-house-of-mouse-robbie-whelan-book-f7db3d2b",
+      "guid": "WP-WSJS-0004093471",
+      "pub_date": "Wed, 25 Nov 2026 03:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-85714841?size=1.501&width=1280",
+      "snapshot": "articles/disney-iger-perlmutter-house-of-mouse-robbie-whe-71ac21e31e81.html",
+      "captured": true,
+      "capture_title": "从知己到决裂：新书揭露艾格缘何深陷迪士尼董事会最大恶战",
+      "error": ""
+    },
+    {
+      "title": "汽车业的致命难题：拒绝系安全带的“顽固派”",
+      "summary": "尽管有宣传教育活动和新技术，汽车制造商和监管机构仍无法让所有人都系上安全带。美国每年约有1万人在未系安全带的情况下死于车祸。",
+      "link": "https://cn.wsj.com/articles/%E6%B1%BD%E8%BD%A6%E4%B8%9A%E7%9A%84%E8%87%B4%E5%91%BD%E9%9A%BE%E9%A2%98-%E6%8B%92%E7%BB%9D%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6%E7%9A%84-%E9%A1%BD%E5%9B%BA%E6%B4%BE-f8c2df2e",
+      "guid": "WP-WSJS-0004093579",
+      "pub_date": "Wed, 25 Nov 2026 05:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-54148900?size=1.461&width=1280",
+      "snapshot": "articles/e6-b1-bd-e8-bd-a6-e4-b8-9a-e7-9a-84-e8-87-b4-e5--93e2e173efdc.html",
+      "captured": true,
+      "capture_title": "汽车业的致命难题：拒绝系安全带的“顽固派”",
+      "error": ""
+    },
+    {
+      "title": "数百万居家护工默默照料美国老人，我们跟访了其中一位",
+      "summary": "未来十年，随着美国人口老龄化，居家护工的需求将再增加数十万人。而眼下这类人员已经供不应求。",
+      "link": "https://cn.wsj.com/articles/home-health-aide-aging-population-05817bc3",
+      "guid": "WP-WSJS-0004093363",
+      "pub_date": "Wed, 25 Nov 2026 02:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-37858124?size=1.5&width=1280",
+      "snapshot": "articles/home-health-aide-aging-population-05817bc3-16346a6d4ac4.html",
+      "captured": true,
+      "capture_title": "数百万居家护工默默照料美国老人，我们跟访了其中一位",
+      "error": ""
+    },
+    {
+      "title": "黄仁勋夫妇巨额财富构成一览",
+      "summary": "两人控制着8.7亿股英伟达股票，其中包括通过信托及其他实体控制的股份，价值超过1,090亿美元。",
+      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%AB%E5%A6%87%E5%B7%A8%E9%A2%9D%E8%B4%A2%E5%AF%8C%E6%9E%84%E6%88%90%E4%B8%80%E8%A7%88-6d98a5ae",
+      "guid": "WP-WSJS-0004086623",
+      "pub_date": "Mon, 23 Nov 2026 04:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-73215617?size=1.495&width=1280",
+      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a4-ab-e5-a6-87-e5--1d7a11edd6eb.html",
+      "captured": true,
+      "capture_title": "黄仁勋夫妇巨额财富构成一览",
+      "error": ""
+    },
+    {
+      "title": "七张图表解析全球年轻人为何对经济现状心怀不满",
+      "summary": "全球年轻人抗议的背后是他们的共同担忧：获得优质教育、找到好工作、有个安身之所，这些成年生活的里程碑正离他们越来越远。",
+      "link": "https://cn.wsj.com/articles/these-charts-show-why-young-people-across-the-world-are-fed-up-with-the-economy-b5a55ecb",
+      "guid": "WP-WSJS-0004077774",
+      "pub_date": "Thu, 19 Nov 2026 01:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-68130525?size=1.5&width=1280",
+      "snapshot": "articles/these-charts-show-why-young-people-across-the-wo-829c58fb2777.html",
+      "captured": true,
+      "capture_title": "七张图表解析全球年轻人为何对经济现状心怀不满",
+      "error": ""
+    },
+    {
+      "title": "哈佛最火人文课程的阅读书单",
+      "summary": "《华尔街日报》最近发表的文章介绍了一门备受哈佛大学大一学生欢迎的热门人文课程，读者纷纷索要这门课的阅读书单，现在书单来了，其中还有两部中国作品。",
+      "link": "https://cn.wsj.com/articles/%E5%93%88%E4%BD%9B%E6%9C%80%E7%81%AB%E4%BA%BA%E6%96%87%E8%AF%BE%E7%A8%8B%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E5%8D%95-7cfb64c8",
+      "guid": "WP-WSJS-0004089906",
+      "pub_date": "Tue, 24 Nov 2026 01:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-64365585?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/e5-93-88-e4-bd-9b-e6-9c-80-e7-81-ab-e4-ba-ba-e6--1fccb261a529.html",
+      "captured": true,
+      "capture_title": "哈佛最火人文课程的阅读书单",
+      "error": ""
+    },
+    {
+      "title": "美国拟对中国及其他数十国加征关税",
+      "summary": "针对海外工业产能过剩的更高关税预计将于本周出台，影响可能波及中国、日本、韩国以及欧盟。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B0%E5%8D%81%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E-693c7c60",
+      "guid": "WP-WSJS-0004093095",
+      "pub_date": "Wed, 25 Nov 2026 00:28:00 GMT",
+      "image_url": "https://images.wsj.net/im-21810932?size=1.572&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-8b-9f-e5-af-b9-e4-b8-ad-e5--8194f72d34da.html",
+      "captured": true,
+      "capture_title": "美国拟对中国及其他数十国加征关税",
       "error": ""
     },
     {
@@ -89,42 +353,6 @@
       "error": ""
     },
     {
-      "title": "中国军队的威严表象与实战落差",
-      "summary": "一份基于对六个国家和地区逾百名官员访谈的新报告，勾勒出中国军队强大表象背后的短板。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E7%9A%84%E5%A8%81%E4%B8%A5%E8%A1%A8%E8%B1%A1%E4%B8%8E%E5%AE%9E%E6%88%98%E8%90%BD%E5%B7%AE-02ecbfda",
-      "guid": "WP-WSJS-0004093367",
-      "pub_date": "Wed, 25 Nov 2026 02:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-74715193?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e5-86-9b-e9-98-9f-e7-9a-84-e5--d89f5273bf4a.html",
-      "captured": true,
-      "capture_title": "中国军队的威严表象与实战落差",
-      "error": ""
-    },
-    {
-      "title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
-      "summary": "AI热潮破灭将令美国经济遭受沉重打击，但经济学家对冲击程度仍争论不休。",
-      "link": "https://cn.wsj.com/articles/%E6%AF%94%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E6%9B%B4%E4%B8%A5%E9%87%8D-ai%E5%B4%A9%E7%9B%98%E5%8F%AF%E8%83%BD%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E-8fc5efb8",
-      "guid": "WP-WSJS-0004093578",
-      "pub_date": "Wed, 25 Nov 2026 04:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-75111130?size=1.5&width=1280",
-      "snapshot": "articles/e6-af-94-e4-ba-92-e8-81-94-e7-bd-91-e6-b3-a1-e6--c3be26f61ff8.html",
-      "captured": true,
-      "capture_title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
-      "error": ""
-    },
-    {
-      "title": "中国“撞脸”SUV出海，借鉴与侵权的边界在哪？",
-      "summary": "捷豹路虎指控比亚迪热门SUV钛7是对旗下路虎卫士车型的“无耻抄袭”。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E6%92%9E%E8%84%B8-suv%E5%87%BA%E6%B5%B7-%E5%80%9F%E9%89%B4%E4%B8%8E%E4%BE%B5%E6%9D%83%E7%9A%84%E8%BE%B9%E7%95%8C%E5%9C%A8%E5%93%AA-975ee858",
-      "guid": "WP-WSJS-0004093635",
-      "pub_date": "Wed, 25 Nov 2026 07:15:00 GMT",
-      "image_url": "https://images.wsj.net/im-35561079?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd--e6-92-9e-e8-84-b8-suv-e5-87-b-cde933d7ec79.html",
-      "captured": true,
-      "capture_title": "中国“撞脸”SUV出海，借鉴与侵权的边界在哪？",
-      "error": ""
-    },
-    {
       "title": "委内瑞拉披露债务总额高达2,370亿美元",
       "summary": "委内瑞拉临时政府周二披露，该国债务总额为2,370亿美元，远高于预期，凸显出这个获美国支持的政府所面临的财务挑战。",
       "link": "https://cn.wsj.com/articles/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-ece2def6",
@@ -149,18 +377,6 @@
       "error": ""
     },
     {
-      "title": "汽车业的致命难题：拒绝系安全带的“顽固派”",
-      "summary": "尽管有宣传教育活动和新技术，汽车制造商和监管机构仍无法让所有人都系上安全带。美国每年约有1万人在未系安全带的情况下死于车祸。",
-      "link": "https://cn.wsj.com/articles/%E6%B1%BD%E8%BD%A6%E4%B8%9A%E7%9A%84%E8%87%B4%E5%91%BD%E9%9A%BE%E9%A2%98-%E6%8B%92%E7%BB%9D%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6%E7%9A%84-%E9%A1%BD%E5%9B%BA%E6%B4%BE-f8c2df2e",
-      "guid": "WP-WSJS-0004093579",
-      "pub_date": "Wed, 25 Nov 2026 05:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-54148900?size=1.461&width=1280",
-      "snapshot": "articles/e6-b1-bd-e8-bd-a6-e4-b8-9a-e7-9a-84-e8-87-b4-e5--93e2e173efdc.html",
-      "captured": true,
-      "capture_title": "汽车业的致命难题：拒绝系安全带的“顽固派”",
-      "error": ""
-    },
-    {
       "title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
       "summary": "这位数据行业高管在与黄仁勋发生婚外情期间，曾与中国情报机构保持着联系。",
       "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%B9%90%E6%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E6%9C%89%E8%81%94%E7%B3%BB-%E4%BD%86%E5%A5%B9%E7%9C%9F%E7%9A%84%E6%98%AF%E9%97%B4%E8%B0%8D%E5%90%97-4adcdd4f",
@@ -170,54 +386,6 @@
       "snapshot": "articles/e9-bb-84-e4-b9-90-e6-9b-be-e4-b8-8e-e4-b8-ad-e5--5243e5b5f0dd.html",
       "captured": true,
       "capture_title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
-      "error": ""
-    },
-    {
-      "title": "数百万居家护工默默照料美国老人，我们跟访了其中一位",
-      "summary": "未来十年，随着美国人口老龄化，居家护工的需求将再增加数十万人。而眼下这类人员已经供不应求。",
-      "link": "https://cn.wsj.com/articles/home-health-aide-aging-population-05817bc3",
-      "guid": "WP-WSJS-0004093363",
-      "pub_date": "Wed, 25 Nov 2026 02:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-37858124?size=1.5&width=1280",
-      "snapshot": "articles/home-health-aide-aging-population-05817bc3-16346a6d4ac4.html",
-      "captured": true,
-      "capture_title": "数百万居家护工默默照料美国老人，我们跟访了其中一位",
-      "error": ""
-    },
-    {
-      "title": "美国人已厌倦在流媒体服务上花越来越多的钱",
-      "summary": "美国流媒体服务订阅量增长已趋于平稳，观众正转向价格更低的套餐。",
-      "link": "https://cn.wsj.com/articles/these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-81f9dfa7",
-      "guid": "WP-WSJS-0004093597",
-      "pub_date": "Wed, 25 Nov 2026 06:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-66703620?size=1.5&width=1280",
-      "snapshot": "articles/these-charts-show-how-fed-up-americans-are-with--57f14feb9c26.html",
-      "captured": true,
-      "capture_title": "美国人已厌倦在流媒体服务上花越来越多的钱",
-      "error": ""
-    },
-    {
-      "title": "从知己到决裂：新书揭露艾格缘何深陷迪士尼董事会最大恶战",
-      "summary": "笔者在新书“House of Mouse”中，讲述了长期担任迪士尼首席执行官的艾格与漫威娱乐董事长珀尔马特如何反目成仇，并引发了董事会权力之争。",
-      "link": "https://cn.wsj.com/articles/disney-iger-perlmutter-house-of-mouse-robbie-whelan-book-f7db3d2b",
-      "guid": "WP-WSJS-0004093471",
-      "pub_date": "Wed, 25 Nov 2026 03:25:00 GMT",
-      "image_url": "https://images.wsj.net/im-85714841?size=1.501&width=1280",
-      "snapshot": "articles/disney-iger-perlmutter-house-of-mouse-robbie-whe-71ac21e31e81.html",
-      "captured": true,
-      "capture_title": "从知己到决裂：新书揭露艾格缘何深陷迪士尼董事会最大恶战",
-      "error": ""
-    },
-    {
-      "title": "Shein第三季度利润大幅增长，尽管收入下降",
-      "summary": "Shein第三季度净利润为46.5亿美元，较上年同期的6.16亿美元大幅增长。收入下降5.9%，至103亿美元。",
-      "link": "https://cn.wsj.com/articles/shein%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%BF-%E5%B0%BD%E7%AE%A1%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D-76403a85",
-      "guid": "WP-WSJS-0004093989",
-      "pub_date": "Wed, 25 Nov 2026 11:12:00 GMT",
-      "image_url": "https://images.wsj.net/im-55931868?size=1.501&width=1280",
-      "snapshot": "articles/shein-e7-ac-ac-e4-b8-89-e5-ad-a3-e5-ba-a6-e5-88--56e5c8320ae7.html",
-      "captured": true,
-      "capture_title": "Shein第三季度利润大幅增长，尽管收入下降 - WSJ",
       "error": ""
     },
     {
@@ -257,18 +425,6 @@
       "error": ""
     },
     {
-      "title": "黄仁勋夫妇巨额财富构成一览",
-      "summary": "两人控制着8.7亿股英伟达股票，其中包括通过信托及其他实体控制的股份，价值超过1,090亿美元。",
-      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%AB%E5%A6%87%E5%B7%A8%E9%A2%9D%E8%B4%A2%E5%AF%8C%E6%9E%84%E6%88%90%E4%B8%80%E8%A7%88-6d98a5ae",
-      "guid": "WP-WSJS-0004086623",
-      "pub_date": "Mon, 23 Nov 2026 04:28:00 GMT",
-      "image_url": "https://images.wsj.net/im-73215617?size=1.495&width=1280",
-      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a4-ab-e5-a6-87-e5--1d7a11edd6eb.html",
-      "captured": true,
-      "capture_title": "黄仁勋夫妇巨额财富构成一览",
-      "error": ""
-    },
-    {
       "title": "白宫紧急斡旋幕后：特朗普如何推动黄仁勋重返英伟达",
       "summary": "特朗普明确表示他希望黄仁勋复职；他称赞了英伟达的决定，称市场反应证明此举正确。",
       "link": "https://cn.wsj.com/articles/nvidia-jensen-huang-white-house-f427b5cb",
@@ -290,18 +446,6 @@
       "snapshot": "articles/inside-the-ukrainian-attack-that-sank-russian-wa-7827f4a67530.html",
       "captured": true,
       "capture_title": "乌克兰袭击行动内幕：一艘停靠利比亚的俄罗斯军舰是如何被击沉的",
-      "error": ""
-    },
-    {
-      "title": "哈佛最火人文课程的阅读书单",
-      "summary": "《华尔街日报》最近发表的文章介绍了一门备受哈佛大学大一学生欢迎的热门人文课程，读者纷纷索要这门课的阅读书单，现在书单来了，其中还有两部中国作品。",
-      "link": "https://cn.wsj.com/articles/%E5%93%88%E4%BD%9B%E6%9C%80%E7%81%AB%E4%BA%BA%E6%96%87%E8%AF%BE%E7%A8%8B%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E5%8D%95-7cfb64c8",
-      "guid": "WP-WSJS-0004089906",
-      "pub_date": "Tue, 24 Nov 2026 01:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-64365585?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e5-93-88-e4-bd-9b-e6-9c-80-e7-81-ab-e4-ba-ba-e6--1fccb261a529.html",
-      "captured": true,
-      "capture_title": "哈佛最火人文课程的阅读书单",
       "error": ""
     },
     {
@@ -773,18 +917,6 @@
       "error": ""
     },
     {
-      "title": "七张图表解析全球年轻人为何对经济现状心怀不满",
-      "summary": "全球年轻人抗议的背后是他们的共同担忧：获得优质教育、找到好工作、有个安身之所，这些成年生活的里程碑正离他们越来越远。",
-      "link": "https://cn.wsj.com/articles/these-charts-show-why-young-people-across-the-world-are-fed-up-with-the-economy-b5a55ecb",
-      "guid": "WP-WSJS-0004077774",
-      "pub_date": "Thu, 19 Nov 2026 01:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-68130525?size=1.5&width=1280",
-      "snapshot": "articles/these-charts-show-why-young-people-across-the-wo-829c58fb2777.html",
-      "captured": true,
-      "capture_title": "七张图表解析全球年轻人为何对经济现状心怀不满",
-      "error": ""
-    },
-    {
       "title": "Anthropic上市交易遇波折，各方开始相互指责",
       "summary": "上周五，Anthropic股价盘中一度下跌15%，跌至仅比IPO发行价高5美分的水平。",
       "link": "https://cn.wsj.com/articles/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-78df2afa",
@@ -1070,138 +1202,6 @@
       "snapshot": "articles/in-choosing-shenzhen-for-trump-putin-summit-xi-s-6f3b9c6dd20d.html",
       "captured": true,
       "capture_title": "选址深圳举办中美俄峰会，习近平意在展现科技雄心",
-      "error": ""
-    },
-    {
-      "title": "特朗普避开国内政治动荡，赴海外寻找更友好的受众",
-      "summary": "随着这位美国总统在国内面临政治僵局，预计他将越来越多地转向外交政策，以巩固自己的政治遗产。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%BF%E5%BC%80%E5%9B%BD%E5%86%85%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1-%E8%B5%B4%E6%B5%B7%E5%A4%96%E5%AF%BB%E6%89%BE%E6%9B%B4%E5%8F%8B%E5%A5%BD%E7%9A%84%E5%8F%97%E4%BC%97-0f56b7e8",
-      "guid": "WP-WSJS-0004082278",
-      "pub_date": "Fri, 20 Nov 2026 06:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-40720863?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e9-81-bf-e5-bc-80-e5--470e14c4a74f.html",
-      "captured": true,
-      "capture_title": "特朗普避开国内政治动荡，赴海外寻找更友好的受众",
-      "error": ""
-    },
-    {
-      "title": "与特朗普和习近平的峰会表明，普京与权势人物的友谊也有局限",
-      "summary": "在遭到大部分西方世界孤立近五年后，普京与两位世界上最有权势的领导人同台亮相，在外交上取得了一次重大胜利。",
-      "link": "https://cn.wsj.com/articles/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-f209234e",
-      "guid": "WP-WSJS-0004081523",
-      "pub_date": "Thu, 19 Nov 2026 23:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-45966303?size=1.499&width=1280",
-      "snapshot": "articles/trump-xi-summit-shows-putins-powerful-friendship-ef7e6439f917.html",
-      "captured": true,
-      "capture_title": "与特朗普和习近平的峰会表明，普京与权势人物的友谊也有局限",
-      "error": ""
-    },
-    {
-      "title": "美国在近期会谈中提出让乌克兰加入北约的设想",
-      "summary": "美国总统特朗普的特使就一项协议试探基辅和欧洲领导人的态度，该方案将颠覆美国长期以来的政策，也有悖于莫斯科的意愿。",
-      "link": "https://cn.wsj.com/articles/u-s-has-floated-nato-membership-for-ukraine-in-recent-meetings-4738b9a0",
-      "guid": "WP-WSJS-0004082051",
-      "pub_date": "Fri, 20 Nov 2026 03:21:00 GMT",
-      "image_url": "https://images.wsj.net/im-60744220?size=1.499&width=1280",
-      "snapshot": "articles/u-s-has-floated-nato-membership-for-ukraine-in-r-d4597fd38f9d.html",
-      "captured": true,
-      "capture_title": "美国在近期会谈中提出让乌克兰加入北约的设想",
-      "error": ""
-    },
-    {
-      "title": "Anthropic超级IPO不负华尔街热捧，但未能重振AI交易热潮",
-      "summary": "投资者对科技与人工智能股票仍持谨慎态度，纳斯达克综合指数周四下跌2.3%。",
-      "link": "https://cn.wsj.com/articles/anthropic-ipo-ai-markets-f9f080c8",
-      "guid": "WP-WSJS-0004081899",
-      "pub_date": "Fri, 20 Nov 2026 02:03:00 GMT",
-      "image_url": "https://images.wsj.net/im-52839978?size=1.5&width=1280",
-      "snapshot": "articles/anthropic-ipo-ai-markets-f9f080c8-fc9e2c9476eb.html",
-      "captured": true,
-      "capture_title": "Anthropic超级IPO不负华尔街热捧，但未能重振AI交易热潮",
-      "error": ""
-    },
-    {
-      "title": "以色列情报机构负责人访美期间力促再次打击伊朗",
-      "summary": "在内塔尼亚胡推动再次发动袭击之际，海湾国家正努力推动谈判并达成协议。",
-      "link": "https://cn.wsj.com/articles/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-2a9a6c01",
-      "guid": "WP-WSJS-0004081558",
-      "pub_date": "Fri, 20 Nov 2026 00:09:00 GMT",
-      "image_url": "https://images.wsj.net/im-79767981?size=1.501&width=1280",
-      "snapshot": "articles/israeli-spy-chief-pressed-for-renewed-iran-strik-506ada9af391.html",
-      "captured": true,
-      "capture_title": "以色列情报机构负责人访美期间力促再次打击伊朗",
-      "error": ""
-    },
-    {
-      "title": "特朗普提名的要职人选在参议院屡屡遇阻",
-      "summary": "在共和党占据国会多数席位的最后这段时间，一些提名遭到阻挠，另一些则面临艰难的确认之路。",
-      "link": "https://cn.wsj.com/articles/trumps-picks-for-top-jobs-keep-running-into-trouble-in-senate-1455542d",
-      "guid": "WP-WSJS-0004081274",
-      "pub_date": "Thu, 19 Nov 2026 23:45:00 GMT",
-      "image_url": "https://images.wsj.net/im-38252201?size=1.504&width=1280",
-      "snapshot": "articles/trumps-picks-for-top-jobs-keep-running-into-trou-d1da2b596332.html",
-      "captured": true,
-      "capture_title": "特朗普提名的要职人选在参议院屡屡遇阻",
-      "error": ""
-    },
-    {
-      "title": "接连发生服务中断事件后，白宫撤换网络安全官员",
-      "summary": "美国国防部首席信息官戴维斯将接替凯恩克罗斯。知情人士透露，特朗普支持撤换。",
-      "link": "https://cn.wsj.com/articles/%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%BA%8B%E4%BB%B6%E5%90%8E-%E7%99%BD%E5%AE%AB%E6%92%A4%E6%8D%A2%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%98%E5%91%98-588c26cf",
-      "guid": "WP-WSJS-0004082145",
-      "pub_date": "Fri, 20 Nov 2026 04:18:00 GMT",
-      "image_url": "https://images.wsj.net/im-71882440?size=1.501&width=1280",
-      "snapshot": "articles/e6-8e-a5-e8-bf-9e-e5-8f-91-e7-94-9f-e6-9c-8d-e5--c61f8be7a03e.html",
-      "captured": true,
-      "capture_title": "接连发生服务中断事件后，白宫撤换网络安全官员",
-      "error": ""
-    },
-    {
-      "title": "国际法院认定缅甸对罗兴亚人实施了种族灭绝",
-      "summary": "这是首次有国家因企图消灭某一族裔或宗教群体而被认定须承担法律责任。",
-      "link": "https://cn.wsj.com/articles/world-court-finds-myanmar-committed-genocide-against-rohingya-fdbc7404",
-      "guid": "WP-WSJS-0004081827",
-      "pub_date": "Fri, 20 Nov 2026 01:26:00 GMT",
-      "image_url": "https://images.wsj.net/im-44010180?size=1.502&width=1280",
-      "snapshot": "articles/world-court-finds-myanmar-committed-genocide-aga-ab7c22c80214.html",
-      "captured": true,
-      "capture_title": "国际法院认定缅甸对罗兴亚人实施了种族灭绝",
-      "error": ""
-    },
-    {
-      "title": "马斯克成为中期选举后最新一位向民主党示好的科技大佬",
-      "summary": "马斯克发表言论向民主党示好，并减少对特朗普“MAGA”运动的支持，同时对自己在中期选举中花费逾4亿美元支持共和党人表示后悔。",
-      "link": "https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%90%E4%B8%BA%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E6%9C%80%E6%96%B0%E4%B8%80%E4%BD%8D%E5%90%91%E6%B0%91%E4%B8%BB%E5%85%9A%E7%A4%BA%E5%A5%BD%E7%9A%84%E7%A7%91%E6%8A%80%E5%A4%A7%E4%BD%AC-d7bda429",
-      "guid": "WP-WSJS-0004081746",
-      "pub_date": "Fri, 20 Nov 2026 00:54:00 GMT",
-      "image_url": "https://images.mktw.net/im-67466969?size=1.5&width=1280",
-      "snapshot": "articles/e9-a9-ac-e6-96-af-e5-85-8b-e6-88-90-e4-b8-ba-e4--8f2ac8d56198.html",
-      "captured": true,
-      "capture_title": "马斯克成为中期选举后最新一位向民主党示好的科技大佬",
-      "error": ""
-    },
-    {
-      "title": "黄仁勋风波令华盛顿对华鹰派重振声势",
-      "summary": "这起AI领域的间谍风波已促使一度被边缘化的对华鹰派重新获得动力。",
-      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A3%8E%E6%B3%A2%E4%BB%A4%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AF%B9%E5%8D%8E%E9%B9%B0%E6%B4%BE%E9%87%8D%E6%8C%AF%E5%A3%B0%E5%8A%BF-87b08bd5",
-      "guid": "WP-WSJS-0004078182",
-      "pub_date": "Thu, 19 Nov 2026 04:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-65492445?size=1.4965986394557824&width=1280",
-      "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e9-a3-8e-e6-b3-a2-e4--b960f23a7738.html",
-      "captured": true,
-      "capture_title": "黄仁勋风波令华盛顿对华鹰派重振声势",
-      "error": ""
-    },
-    {
-      "title": "阿里巴巴利润大幅反弹，得益于AI盈利能力改善",
-      "summary": "阿里巴巴称，截至9月底的三个月，净利润同比增长两倍。在这份超预期财报发布之际，阿里巴巴正准备推动旗下芯片部门平头哥在香港上市。",
-      "link": "https://cn.wsj.com/articles/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-9ef6787b",
-      "guid": "WP-WSJS-0004081488",
-      "pub_date": "Thu, 19 Nov 2026 23:50:00 GMT",
-      "image_url": "https://images.wsj.net/im-58127699?size=1.494&width=1280",
-      "snapshot": "articles/alibaba-earnings-rebound-sharply-as-ai-profitabi-6f43a5dceb6f.html",
-      "captured": true,
-      "capture_title": "阿里巴巴利润大幅反弹，得益于AI盈利能力改善",
       "error": ""
     }
   ]
