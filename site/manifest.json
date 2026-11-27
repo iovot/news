@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:47:52.832318+00:00",
+  "generated_at": "2026-11-27T01:41:57.013111+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
@@ -13,7 +13,19 @@
       "image_url": "https://images.wsj.net/im-02809795?size=0.6&width=1280",
       "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-86-8d-e6-9b-9d-e9--3adecda06a97.html",
       "captured": true,
-      "capture_title": "英伟达再曝高层恋情，女方为涉对华芯片走私案公司高管 - WSJ",
+      "capture_title": "英伟达再曝高层恋情，女方为涉对华芯片走私案公司高管",
+      "error": ""
+    },
+    {
+      "title": "英伟达要求合作伙伴暂停向东南亚发货",
+      "summary": "东南亚已成为美国与中国争夺AI主导权的最新战场。华盛顿近期更新了出口规定，堵住了远程使用芯片这一漏洞。",
+      "link": "https://cn.wsj.com/articles/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-919e1bc9",
+      "guid": "WP-WSJS-0004096819",
+      "pub_date": "Thu, 26 Nov 2026 23:33:00 GMT",
+      "image_url": "https://images.wsj.net/im-68022991?size=1.501&width=1280",
+      "snapshot": "articles/nvidia-tells-partners-to-pause-shipments-to-sout-7643d9922dfb.html",
+      "captured": true,
+      "capture_title": "英伟达要求合作伙伴暂停向东南亚发货 - WSJ",
       "error": ""
     },
     {
@@ -41,27 +53,15 @@
       "error": ""
     },
     {
-      "title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
-      "summary": "这位数据行业高管在与黄仁勋发生婚外情期间，曾与中国情报机构保持着联系。",
-      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%B9%90%E6%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E6%9C%89%E8%81%94%E7%B3%BB-%E4%BD%86%E5%A5%B9%E7%9C%9F%E7%9A%84%E6%98%AF%E9%97%B4%E8%B0%8D%E5%90%97-4adcdd4f",
-      "guid": "WP-WSJS-0004090252",
-      "pub_date": "Tue, 24 Nov 2026 04:49:00 GMT",
-      "image_url": "https://images.wsj.net/im-44883062?size=1.778&width=1280",
-      "snapshot": "articles/e9-bb-84-e4-b9-90-e6-9b-be-e4-b8-8e-e4-b8-ad-e5--5243e5b5f0dd.html",
-      "captured": true,
-      "capture_title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
-      "error": ""
-    },
-    {
       "title": "对华新关税或破坏中美贸易休战局面",
-      "summary": "中国警告称，如果美国政府继续推进征收这些关税，中方可能采取反制措施。",
+      "summary": "中国警告称，如果美国政府继续推进征收这些关税，中方可能采取反制措施。此时距离特朗普与习近平在迈阿密的会晤还有三周。",
       "link": "https://cn.wsj.com/articles/%E5%AF%B9%E5%8D%8E%E6%96%B0%E5%85%B3%E7%A8%8E%E6%88%96%E7%A0%B4%E5%9D%8F%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E5%B1%80%E9%9D%A2-648fa96b",
       "guid": "WP-WSJS-0004096956",
       "pub_date": "Thu, 26 Nov 2026 10:40:00 GMT",
       "image_url": "https://images.wsj.net/im-88190243?size=1.501&width=1280",
       "snapshot": "articles/e5-af-b9-e5-8d-8e-e6-96-b0-e5-85-b3-e7-a8-8e-e6--c0b9f55d646d.html",
       "captured": true,
-      "capture_title": "对华新关税或破坏中美贸易休战局面 - WSJ",
+      "capture_title": "对华新关税或破坏中美贸易休战局面",
       "error": ""
     },
     {
@@ -73,7 +73,19 @@
       "image_url": "https://images.wsj.net/im-75636203?size=1.501&width=1280",
       "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-b0-81-e9-94-81-e5-8a-a0-e5--b0347b1d5e8e.html",
       "captured": true,
-      "capture_title": "美国封锁加剧经济困局，伊朗陷入“无声战争” - WSJ",
+      "capture_title": "美国封锁加剧经济困局，伊朗陷入“无声战争”",
+      "error": ""
+    },
+    {
+      "title": "欧洲已选定新任央行行长，他的执掌之路面临挑战",
+      "summary": "西班牙技术官员德科斯被选定出任下一任欧洲央行行长。",
+      "link": "https://cn.wsj.com/articles/europe-has-picked-a-new-central-bank-chief-hes-in-for-a-bumpy-ride-8a60387c",
+      "guid": "WP-WSJS-0004097780",
+      "pub_date": "Thu, 26 Nov 2026 23:34:00 GMT",
+      "image_url": "https://images.wsj.net/im-34007841?size=1.501&width=1280",
+      "snapshot": "articles/europe-has-picked-a-new-central-bank-chief-hes-i-ffccd8b9c708.html",
+      "captured": true,
+      "capture_title": "欧洲已选定新任央行行长，他的执掌之路面临挑战 - WSJ",
       "error": ""
     },
     {
@@ -101,18 +113,6 @@
       "error": ""
     },
     {
-      "title": "阿申布伦纳旗下Situational Awareness第三季度亏损65%",
-      "summary": "夏季，在利用借款加码的AI押注失利后，该基金一度濒临崩溃。",
-      "link": "https://cn.wsj.com/articles/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-b83d2fd9",
-      "guid": "WP-WSJS-0004096321",
-      "pub_date": "Thu, 26 Nov 2026 00:58:00 GMT",
-      "image_url": "https://images.wsj.net/im-27526714?size=1&width=1280",
-      "snapshot": "articles/aschenbrenners-situational-awareness-tells-inves-4c278b531cb3.html",
-      "captured": true,
-      "capture_title": "阿申布伦纳旗下Situational Awareness第三季度亏损65%",
-      "error": ""
-    },
-    {
       "title": "被俄罗斯拘押的日本记者的妻子呼吁释放其丈夫",
       "summary": "东京与莫斯科关系恶化之际，今井裕纪的妻子在一封提供给媒体的信中表示，她的丈夫热爱俄罗斯艺术和文学。",
       "link": "https://cn.wsj.com/articles/%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E6%8B%98%E6%8A%BC%E7%9A%84%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E7%9A%84%E5%A6%BB%E5%AD%90%E5%91%BC%E5%90%81%E9%87%8A%E6%94%BE%E5%85%B6%E4%B8%88%E5%A4%AB-32d50eed",
@@ -121,7 +121,7 @@
       "image_url": "https://images.wsj.net/im-19634445?size=0.813&width=1040",
       "snapshot": "articles/e8-a2-ab-e4-bf-84-e7-bd-97-e6-96-af-e6-8b-98-e6--18c1fdc8231a.html",
       "captured": true,
-      "capture_title": "被俄罗斯拘押的日本记者的妻子呼吁释放其丈夫 - WSJ",
+      "capture_title": "被俄罗斯拘押的日本记者的妻子呼吁释放其丈夫",
       "error": ""
     },
     {
@@ -149,15 +149,15 @@
       "error": ""
     },
     {
-      "title": "法国动荡背后：购买力出现历史性下滑",
-      "summary": "通胀走高之际，法国实际工资却在下降。“自第二次世界大战以来，法国还从未出现过这样的情况，”一位经济学家说。",
-      "link": "https://cn.wsj.com/articles/%E6%B3%95%E5%9B%BD%E5%8A%A8%E8%8D%A1%E8%83%8C%E5%90%8E-%E8%B4%AD%E4%B9%B0%E5%8A%9B%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%8B%E6%BB%91-86b04b63",
-      "guid": "WP-WSJS-0004096650",
-      "pub_date": "Thu, 26 Nov 2026 05:00:00 GMT",
-      "image_url": "https://images.wsj.net/im-66108926?size=1.499&width=1280",
-      "snapshot": "articles/e6-b3-95-e5-9b-bd-e5-8a-a8-e8-8d-a1-e8-83-8c-e5--4cb8e328b4eb.html",
+      "title": "又一个战时寒冬来临，基辅居民终于开始权衡去留",
+      "summary": "俄罗斯猛烈轰炸发电厂，让基辅居民的日常生活变成求生考验。",
+      "link": "https://cn.wsj.com/articles/%E5%8F%88%E4%B8%80%E4%B8%AA%E6%88%98%E6%97%B6%E5%AF%92%E5%86%AC%E6%9D%A5%E4%B8%B4-%E5%9F%BA%E8%BE%85%E5%B1%85%E6%B0%91%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E6%9D%83%E8%A1%A1%E5%8E%BB%E7%95%99-33ffc515",
+      "guid": "WP-WSJS-0004097854",
+      "pub_date": "Fri, 27 Nov 2026 01:17:00 GMT",
+      "image_url": "https://images.wsj.net/im-01372393?size=1.501&width=1280",
+      "snapshot": "articles/e5-8f-88-e4-b8-80-e4-b8-aa-e6-88-98-e6-97-b6-e5--abc3d0f74255.html",
       "captured": true,
-      "capture_title": "法国动荡背后：购买力出现历史性下滑 - WSJ",
+      "capture_title": "又一个战时寒冬来临，基辅居民终于开始权衡去留 - WSJ",
       "error": ""
     },
     {
@@ -173,15 +173,15 @@
       "error": ""
     },
     {
-      "title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
-      "summary": "AI热潮破灭将令美国经济遭受沉重打击，但经济学家对冲击程度仍争论不休。",
-      "link": "https://cn.wsj.com/articles/%E6%AF%94%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E6%9B%B4%E4%B8%A5%E9%87%8D-ai%E5%B4%A9%E7%9B%98%E5%8F%AF%E8%83%BD%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E-8fc5efb8",
-      "guid": "WP-WSJS-0004093578",
-      "pub_date": "Wed, 25 Nov 2026 04:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-75111130?size=1.5&width=1280",
-      "snapshot": "articles/e6-af-94-e4-ba-92-e8-81-94-e7-bd-91-e6-b3-a1-e6--c3be26f61ff8.html",
+      "title": "这位民主党人为何要挑战查克·舒默？",
+      "summary": "民主党内资深人士克里斯·范·霍伦竞逐多数党领袖一职，胜负仍难预料。",
+      "link": "https://cn.wsj.com/articles/why-this-democrat-wants-to-defeat-chuck-schumer-a6c7178b",
+      "guid": "WP-WSJS-0004097753",
+      "pub_date": "Thu, 26 Nov 2026 23:16:00 GMT",
+      "image_url": "https://images.wsj.net/im-14444564?size=1.5&width=1280",
+      "snapshot": "articles/why-this-democrat-wants-to-defeat-chuck-schumer--9a26bf274f2b.html",
       "captured": true,
-      "capture_title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
+      "capture_title": "这位民主党人为何要挑战查克·舒默？ - WSJ",
       "error": ""
     },
     {
@@ -193,19 +193,19 @@
       "image_url": "https://images.wsj.net/im-89313949?size=1.5&width=1280",
       "snapshot": "articles/memory-chip-shortage-ai-electronics-prices-9904d-0ea3d941b300.html",
       "captured": true,
-      "capture_title": "全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛 - WSJ",
+      "capture_title": "全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛",
       "error": ""
     },
     {
-      "title": "黄仁勋、特朗普与震动英伟达的11天",
-      "summary": "黄仁勋辞去英伟达首席执行官，最终又复职。《华尔街日报》视频剖析这期间究竟发生了什么。",
-      "link": "https://cn.wsj.com/articles/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-b6c097b8",
-      "guid": "WP-WSJS-0004096570",
-      "pub_date": "Thu, 26 Nov 2026 03:08:00 GMT",
-      "image_url": "https://images.wsj.net/im-58488429?size=1.78&width=1280",
-      "snapshot": "articles/jensen-huang-trump-and-the-11-days-that-rocked-n-4bc2fe1f4467.html",
+      "title": "我想弄清几岁退休最合适，结果现在得干一辈子了",
+      "summary": "多大算太早退休？多大又算太老还得干活？这是个跨越时代的难题。",
+      "link": "https://cn.wsj.com/articles/best-age-to-retire-50fec408",
+      "guid": "WP-WSJS-0004097810",
+      "pub_date": "Thu, 26 Nov 2026 23:57:00 GMT",
+      "image_url": "https://images.wsj.net/im-00188877?size=1&width=1280",
+      "snapshot": "articles/best-age-to-retire-50fec408-4305ee54c856.html",
       "captured": true,
-      "capture_title": "黄仁勋、特朗普与震动英伟达的11天 - WSJ",
+      "capture_title": "我想弄清几岁退休最合适，结果现在得干一辈子了 - WSJ",
       "error": ""
     },
     {
@@ -218,6 +218,30 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd--e6-92-9e-e8-84-b8-suv-e5-87-b-cde933d7ec79.html",
       "captured": true,
       "capture_title": "中国“撞脸”SUV出海，借鉴与侵权的边界在哪？",
+      "error": ""
+    },
+    {
+      "title": "拜耳拟向中国药品生产基地投资至多5亿欧元",
+      "summary": "拜耳表示，计划投资不超过5亿欧元，扩建在中国的一处药品生产基地。这将是该公司迄今在华规模最大的制药业务投资。",
+      "link": "https://cn.wsj.com/articles/bayerto-invest-up-to-549-million-in-china-drug-manufacturing-site-d6ade304",
+      "guid": "WP-WSJS-0004097756",
+      "pub_date": "Thu, 26 Nov 2026 23:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-85817950?size=1.5&width=1280",
+      "snapshot": "articles/bayerto-invest-up-to-549-million-in-china-drug-m-8acce786d71b.html",
+      "captured": true,
+      "capture_title": "拜耳拟向中国药品生产基地投资至多5亿欧元 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "全球石油过剩扩大且霍尔木兹海峡风险犹存，OPEC及其盟友面临艰难抉择",
+      "summary": "在全球石油供应过剩可能扩大、中东能源供应持续面临威胁的背景下，欧佩克及其盟友准备在周日的会议上制定2027年的产量目标，届时将面临艰难权衡。",
+      "link": "https://cn.wsj.com/articles/opec-allies-face-tough-choices-as-surplus-builds-hormuz-risks-persist-5e254c3a",
+      "guid": "WP-WSJS-0004097818",
+      "pub_date": "Fri, 27 Nov 2026 00:18:00 GMT",
+      "image_url": "https://images.wsj.net/im-20674948?size=1.501&width=1280",
+      "snapshot": "articles/opec-allies-face-tough-choices-as-surplus-builds-0b205d8758bc.html",
+      "captured": true,
+      "capture_title": "全球石油过剩扩大且霍尔木兹海峡风险犹存，OPEC及其盟友面临艰难抉择 - WSJ",
       "error": ""
     },
     {
@@ -245,6 +269,18 @@
       "error": ""
     },
     {
+      "title": "阿申布伦纳旗下Situational Awareness第三季度亏损65%",
+      "summary": "夏季，在利用借款加码的AI押注失利后，该基金一度濒临崩溃。",
+      "link": "https://cn.wsj.com/articles/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-b83d2fd9",
+      "guid": "WP-WSJS-0004096321",
+      "pub_date": "Thu, 26 Nov 2026 00:58:00 GMT",
+      "image_url": "https://images.wsj.net/im-27526714?size=1&width=1280",
+      "snapshot": "articles/aschenbrenners-situational-awareness-tells-inves-4c278b531cb3.html",
+      "captured": true,
+      "capture_title": "阿申布伦纳旗下Situational Awareness第三季度亏损65%",
+      "error": ""
+    },
+    {
       "title": "Shein第三季度收入虽降但利润大增，积极适应贸易挑战",
       "summary": "Shein第三季度净利润为46.5亿美元，较上年同期的6.16亿美元大幅增长。收入下降5.9%，至103亿美元。",
       "link": "https://cn.wsj.com/articles/shein%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%BF-%E5%B0%BD%E7%AE%A1%E6%94%B6%E5%85%A5%E4%B8%8B%E9%99%8D-76403a85",
@@ -254,6 +290,66 @@
       "snapshot": "articles/shein-e7-ac-ac-e4-b8-89-e5-ad-a3-e5-ba-a6-e5-88--56e5c8320ae7.html",
       "captured": true,
       "capture_title": "Shein第三季度收入虽降但利润大增，积极适应贸易挑战",
+      "error": ""
+    },
+    {
+      "title": "哈佛最火人文课程的阅读书单",
+      "summary": "《华尔街日报》最近发表的文章介绍了一门备受哈佛大学大一学生欢迎的热门人文课程，读者纷纷索要这门课的阅读书单，现在书单来了，其中还有两部中国作品。",
+      "link": "https://cn.wsj.com/articles/%E5%93%88%E4%BD%9B%E6%9C%80%E7%81%AB%E4%BA%BA%E6%96%87%E8%AF%BE%E7%A8%8B%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E5%8D%95-7cfb64c8",
+      "guid": "WP-WSJS-0004089906",
+      "pub_date": "Tue, 24 Nov 2026 01:29:00 GMT",
+      "image_url": "https://images.wsj.net/im-64365585?size=1.5053763440860215&width=1280",
+      "snapshot": "articles/e5-93-88-e4-bd-9b-e6-9c-80-e7-81-ab-e4-ba-ba-e6--1fccb261a529.html",
+      "captured": true,
+      "capture_title": "哈佛最火人文课程的阅读书单",
+      "error": ""
+    },
+    {
+      "title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
+      "summary": "这位数据行业高管在与黄仁勋发生婚外情期间，曾与中国情报机构保持着联系。",
+      "link": "https://cn.wsj.com/articles/%E9%BB%84%E4%B9%90%E6%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E6%9C%89%E8%81%94%E7%B3%BB-%E4%BD%86%E5%A5%B9%E7%9C%9F%E7%9A%84%E6%98%AF%E9%97%B4%E8%B0%8D%E5%90%97-4adcdd4f",
+      "guid": "WP-WSJS-0004090252",
+      "pub_date": "Tue, 24 Nov 2026 04:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-44883062?size=1.778&width=1280",
+      "snapshot": "articles/e9-bb-84-e4-b9-90-e6-9b-be-e4-b8-8e-e4-b8-ad-e5--5243e5b5f0dd.html",
+      "captured": true,
+      "capture_title": "黄乐曾与中国情报机构有联系，但她真的是间谍吗？",
+      "error": ""
+    },
+    {
+      "title": "法国动荡背后：购买力出现历史性下滑",
+      "summary": "通胀走高之际，法国实际工资却在下降。“自第二次世界大战以来，法国还从未出现过这样的情况，”一位经济学家说。",
+      "link": "https://cn.wsj.com/articles/%E6%B3%95%E5%9B%BD%E5%8A%A8%E8%8D%A1%E8%83%8C%E5%90%8E-%E8%B4%AD%E4%B9%B0%E5%8A%9B%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%8B%E6%BB%91-86b04b63",
+      "guid": "WP-WSJS-0004096650",
+      "pub_date": "Thu, 26 Nov 2026 05:00:00 GMT",
+      "image_url": "https://images.wsj.net/im-66108926?size=1.499&width=1280",
+      "snapshot": "articles/e6-b3-95-e5-9b-bd-e5-8a-a8-e8-8d-a1-e8-83-8c-e5--4cb8e328b4eb.html",
+      "captured": true,
+      "capture_title": "法国动荡背后：购买力出现历史性下滑 - WSJ",
+      "error": ""
+    },
+    {
+      "title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
+      "summary": "AI热潮破灭将令美国经济遭受沉重打击，但经济学家对冲击程度仍争论不休。",
+      "link": "https://cn.wsj.com/articles/%E6%AF%94%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E6%9B%B4%E4%B8%A5%E9%87%8D-ai%E5%B4%A9%E7%9B%98%E5%8F%AF%E8%83%BD%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E-8fc5efb8",
+      "guid": "WP-WSJS-0004093578",
+      "pub_date": "Wed, 25 Nov 2026 04:51:00 GMT",
+      "image_url": "https://images.wsj.net/im-75111130?size=1.5&width=1280",
+      "snapshot": "articles/e6-af-94-e4-ba-92-e8-81-94-e7-bd-91-e6-b3-a1-e6--c3be26f61ff8.html",
+      "captured": true,
+      "capture_title": "比互联网泡沫破裂更严重：AI崩盘可能如何影响美国经济？",
+      "error": ""
+    },
+    {
+      "title": "黄仁勋、特朗普与震动英伟达的11天",
+      "summary": "黄仁勋辞去英伟达首席执行官，最终又复职。《华尔街日报》视频剖析这期间究竟发生了什么。",
+      "link": "https://cn.wsj.com/articles/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-b6c097b8",
+      "guid": "WP-WSJS-0004096570",
+      "pub_date": "Thu, 26 Nov 2026 03:08:00 GMT",
+      "image_url": "https://images.wsj.net/im-58488429?size=1.78&width=1280",
+      "snapshot": "articles/jensen-huang-trump-and-the-11-days-that-rocked-n-4bc2fe1f4467.html",
+      "captured": true,
+      "capture_title": "黄仁勋、特朗普与震动英伟达的11天 - WSJ",
       "error": ""
     },
     {
@@ -290,18 +386,6 @@
       "snapshot": "articles/e5-8d-8e-e4-b8-ba-e5-9c-a8-e7-be-8e-e5-88-91-e4--4bb51af43104.html",
       "captured": true,
       "capture_title": "华为在美国刑事审判中被判欺诈罪成立",
-      "error": ""
-    },
-    {
-      "title": "哈佛最火人文课程的阅读书单",
-      "summary": "《华尔街日报》最近发表的文章介绍了一门备受哈佛大学大一学生欢迎的热门人文课程，读者纷纷索要这门课的阅读书单，现在书单来了，其中还有两部中国作品。",
-      "link": "https://cn.wsj.com/articles/%E5%93%88%E4%BD%9B%E6%9C%80%E7%81%AB%E4%BA%BA%E6%96%87%E8%AF%BE%E7%A8%8B%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E5%8D%95-7cfb64c8",
-      "guid": "WP-WSJS-0004089906",
-      "pub_date": "Tue, 24 Nov 2026 01:29:00 GMT",
-      "image_url": "https://images.wsj.net/im-64365585?size=1.5053763440860215&width=1280",
-      "snapshot": "articles/e5-93-88-e4-bd-9b-e6-9c-80-e7-81-ab-e4-ba-ba-e6--1fccb261a529.html",
-      "captured": true,
-      "capture_title": "哈佛最火人文课程的阅读书单",
       "error": ""
     },
     {
@@ -1118,90 +1202,6 @@
       "snapshot": "articles/e7-a0-94-e7-a9-b6-e6-98-be-e7-a4-ba--e5-ad-a6-e6-a09432e8bf5e.html",
       "captured": true,
       "capture_title": "研究显示：学校锁起手机，学生学得更好",
-      "error": ""
-    },
-    {
-      "title": "五角大楼急需更多爱国者导弹，却被人造丝卡脖",
-      "summary": "一种不起眼的织物正拖慢这一关键防御系统的生产计划，这也是美国弹药工业面临的众多瓶颈之一。",
-      "link": "https://cn.wsj.com/articles/%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%80%A5%E9%9C%80%E6%9B%B4%E5%A4%9A%E7%88%B1%E5%9B%BD%E8%80%85%E5%AF%BC%E5%BC%B9-%E5%8D%B4%E8%A2%AB%E4%BA%BA%E9%80%A0%E4%B8%9D%E5%8D%A1%E8%84%96-7c8ba70e",
-      "guid": "WP-WSJS-0004075169",
-      "pub_date": "Wed, 18 Nov 2026 10:33:00 GMT",
-      "image_url": "https://images.wsj.net/im-85229696?size=1.5&width=1280",
-      "snapshot": "articles/e4-ba-94-e8-a7-92-e5-a4-a7-e6-a5-bc-e6-80-a5-e9--78a9a732726f.html",
-      "captured": true,
-      "capture_title": "五角大楼急需更多爱国者导弹，却被人造丝卡脖",
-      "error": ""
-    },
-    {
-      "title": "自闭症治疗行业迅猛扩张，家长却在“摸黑前行”",
-      "summary": "被称为ABA的流行疗法已成为儿童自闭症的默认治疗选择，但服务质量参差不齐，家长得到的指导十分有限。",
-      "link": "https://cn.wsj.com/articles/autism-therapy-aba-parents-aab20ce2",
-      "guid": "WP-WSJS-0004082253",
-      "pub_date": "Fri, 20 Nov 2026 05:53:00 GMT",
-      "image_url": "https://images.wsj.net/im-51718975?size=1.5&width=1280",
-      "snapshot": "articles/autism-therapy-aba-parents-aab20ce2-239805d4ac89.html",
-      "captured": true,
-      "capture_title": "自闭症治疗行业迅猛扩张，家长却在“摸黑前行”",
-      "error": ""
-    },
-    {
-      "title": "我花了30年辅导患者适应退休，轮到自己依然手足无措",
-      "summary": "作为一名精神科医生，我原本熟知人生重大转折所伴随的六个阶段，但亲身经历起来却比我想象的艰难得多。",
-      "link": "https://cn.wsj.com/articles/ispent-30-years-counseling-patients-through-retirement-then-it-was-my-turn-722143ad",
-      "guid": "WP-WSJS-0004082228",
-      "pub_date": "Fri, 20 Nov 2026 05:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-29568658?size=1.501&width=1280",
-      "snapshot": "articles/ispent-30-years-counseling-patients-through-reti-b34cd572017f.html",
-      "captured": true,
-      "capture_title": "我花了30年辅导患者适应退休，轮到自己依然手足无措",
-      "error": ""
-    },
-    {
-      "title": "详解乌克兰如何击中普京的标志性大桥",
-      "summary": "连接克里米亚与俄罗斯的大桥是俄罗斯吞并克里米亚半岛的象征，也是俄罗斯至关重要的补给通道，如今它又成了乌克兰远程打击能力的象征。",
-      "link": "https://cn.wsj.com/articles/see-how-ukraine-hit-putins-showpiece-bridge-5ecb48c5",
-      "guid": "WP-WSJS-0004077899",
-      "pub_date": "Thu, 19 Nov 2026 02:47:00 GMT",
-      "image_url": "https://images.wsj.net/im-28814818?size=1.5053763440860215&width=847",
-      "snapshot": "articles/see-how-ukraine-hit-putins-showpiece-bridge-5ecb-7f1fa1b9c2a0.html",
-      "captured": true,
-      "capture_title": "详解乌克兰如何击中普京的标志性大桥",
-      "error": ""
-    },
-    {
-      "title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
-      "summary": "刘军从北京到波士顿、再返回北京的经历，是华裔学者纷纷离开美国的一个缩影。",
-      "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8C%96%E8%B5%B0%E8%BF%99%E4%BD%8D%E5%93%88%E4%BD%9B%E9%A1%B6%E5%B0%96%E6%95%99%E6%8E%88-%E5%A6%82%E4%BB%8A%E4%BB%96%E5%B8%8C%E6%9C%9B%E6%9B%B4%E5%A4%9A%E5%90%8C%E8%A1%8C%E5%8A%A0%E5%85%A5-b6c296dd",
-      "guid": "WP-WSJS-0004067850",
-      "pub_date": "Mon, 16 Nov 2026 04:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-48662879?size=1.5&width=1280",
-      "snapshot": "articles/e4-b8-ad-e5-9b-bd-e6-8c-96-e8-b5-b0-e8-bf-99-e4--834ff8805aea.html",
-      "captured": true,
-      "capture_title": "中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
-      "error": ""
-    },
-    {
-      "title": "Anthropic IPO受挫，华尔街AI板块4万亿美元市值蒸发",
-      "summary": "周五后市，Anthropic上市之初的大部分涨幅已化为乌有，纳指的年内涨幅也悉数回吐。",
-      "link": "https://cn.wsj.com/articles/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-fbb21609",
-      "guid": "WP-WSJS-0004085030",
-      "pub_date": "Sat, 21 Nov 2026 00:34:00 GMT",
-      "image_url": "https://images.wsj.net/im-61305431?size=1.501&width=1280",
-      "snapshot": "articles/anthropics-ipo-bust-punctuates-4-trillion-ai-wip-c7296eec6cf7.html",
-      "captured": true,
-      "capture_title": "Anthropic IPO受挫，华尔街AI板块4万亿美元市值蒸发",
-      "error": ""
-    },
-    {
-      "title": "共和党资深参议员称商务部长卢特尼克无视其涉华芯片警告",
-      "summary": "对华鹰派参议员汤姆·科顿表示，卢特尼克曾多次无视有关美国AI芯片被走私到中国的警告。他没有明确表示卢特尼克应辞职或遭到解职。",
-      "link": "https://cn.wsj.com/articles/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-9854af39",
-      "guid": "WP-WSJS-0004085093",
-      "pub_date": "Sat, 21 Nov 2026 01:04:00 GMT",
-      "image_url": "https://images.wsj.net/im-33223646?size=1.501&width=1280",
-      "snapshot": "articles/top-republican-senator-says-lutnick-ignored-his--fd239aa14843.html",
-      "captured": true,
-      "capture_title": "共和党资深参议员称商务部长卢特尼克无视其涉华芯片警告",
       "error": ""
     }
   ]
