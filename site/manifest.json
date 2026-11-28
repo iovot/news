@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-27T20:58:37.355994+00:00",
+  "generated_at": "2026-11-28T03:16:08.368113+00:00",
   "site_root": "site",
   "index": "index.html",
   "articles_dir": "articles",
   "items": [
     {
-      "title": "美国祭出破局一招，在与中国的AI博弈中占得上风",
-      "summary": "美国政府通过更新出口规则，堵住了一个漏洞。此前，中国公司可借助这一漏洞远程使用海外、尤其是马来西亚的英伟达芯片，获取大量算力。",
-      "link": "https://cn.wsj.com/articles/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-1e9a80d5",
-      "guid": "WP-WSJS-0004097987",
-      "pub_date": "Fri, 27 Nov 2026 02:56:00 GMT",
-      "image_url": "https://images.wsj.net/im-90621636?size=1&width=1280",
-      "snapshot": "articles/a-game-changing-move-just-gave-america-the-edge--221c7afcbe26.html",
+      "title": "美股反弹，科技股大涨",
+      "summary": "纳指收盘上涨2.3%，全周上涨6.7%，创七个月来最佳单周表现。道指上涨1.2%，标普500指数上涨1.6%。投资者暂时搁置对AI的担忧。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9-%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E6%B6%A8-3616f8f2",
+      "guid": "WP-WSJS-0004099352",
+      "pub_date": "Sat, 28 Nov 2026 00:49:00 GMT",
+      "image_url": "https://images.wsj.net/im-22450552?size=1.553&width=1280",
+      "snapshot": "articles/e7-be-8e-e8-82-a1-e5-8f-8d-e5-bc-b9--e7-a7-91-e6-082612bb519e.html",
       "captured": true,
-      "capture_title": "美国祭出破局一招，在与中国的AI博弈中占得上风",
+      "capture_title": "美股反弹，科技股大涨 - WSJ",
       "error": ""
     },
     {
       "title": "中国股市走高，北京释放进一步稳市信号",
-      "summary": "周五收盘，上证综指上涨3.7%，深证综指上涨7.2%，科技股权重较大的创业板指数大涨11.6%，创下两年多来最大单日百分比涨幅。",
+      "summary": "中国有关部门重申支持资本市场，并承诺推出稳市政策，受此影响，中国股市走高。科技股权重较大的创业板指数大涨11.6%，创下两年多来最大单日百分比涨幅。",
       "link": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B5%B0%E9%AB%98-%E5%8C%97%E4%BA%AC%E9%87%8A%E6%94%BE%E8%BF%9B%E4%B8%80%E6%AD%A5%E7%A8%B3%E5%B8%82%E4%BF%A1%E5%8F%B7-4ee08bae",
       "guid": "WP-WSJS-0004098239",
       "pub_date": "Fri, 27 Nov 2026 08:12:00 GMT",
@@ -26,18 +26,6 @@
       "snapshot": "articles/e4-b8-ad-e5-9b-bd-e8-82-a1-e5-b8-82-e8-b5-b0-e9--ce5dc5ef5ea1.html",
       "captured": true,
       "capture_title": "中国股市走高，北京释放进一步稳市信号",
-      "error": ""
-    },
-    {
-      "title": "特朗普救不了美股，但这一招或许可以",
-      "summary": "投资者担心AI支出放缓，但这或许能止住抛售潮。",
-      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%91%E4%B8%8D%E4%BA%86%E7%BE%8E%E8%82%A1-%E4%BD%86%E8%BF%99%E4%B8%80%E6%8B%9B%E6%88%96%E8%AE%B8%E5%8F%AF%E4%BB%A5-b5cd0913",
-      "guid": "WP-WSJS-0004098399",
-      "pub_date": "Fri, 27 Nov 2026 11:42:00 GMT",
-      "image_url": "https://images.wsj.net/im-90220358?size=1.501&width=1280",
-      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-95-91-e4-b8-8d-e4--e88909000fe0.html",
-      "captured": true,
-      "capture_title": "特朗普救不了美股，但这一招或许可以",
       "error": ""
     },
     {
@@ -65,6 +53,18 @@
       "error": ""
     },
     {
+      "title": "美国打击伊朗附近一艘试图突破封锁的船只",
+      "summary": "这标志着伊朗规避令其经济承压的海上封锁的举动出现了最新升级。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%99%84%E8%BF%91%E4%B8%80%E8%89%98%E8%AF%95%E5%9B%BE%E7%AA%81%E7%A0%B4%E5%B0%81%E9%94%81%E7%9A%84%E8%88%B9%E5%8F%AA-f9450ece",
+      "guid": "WP-WSJS-0004099331",
+      "pub_date": "Sat, 28 Nov 2026 00:25:00 GMT",
+      "image_url": "https://images.wsj.net/im-15730861?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e6-89-93-e5-87-bb-e4-bc-8a-e6--0fa5ebcb0f72.html",
+      "captured": true,
+      "capture_title": "美国打击伊朗附近一艘试图突破封锁的船只 - WSJ",
+      "error": ""
+    },
+    {
       "title": "欧洲已选定新任央行行长，他的执掌之路面临挑战",
       "summary": "西班牙技术官员德科斯被选定出任下一任欧洲央行行长。",
       "link": "https://cn.wsj.com/articles/europe-has-picked-a-new-central-bank-chief-hes-in-for-a-bumpy-ride-8a60387c",
@@ -77,15 +77,15 @@
       "error": ""
     },
     {
-      "title": "美国封锁加剧经济困局，伊朗陷入“无声战争”",
-      "summary": "削减燃料和食品补贴给伊朗民众带来新的压力，也凸显出伊朗内部的政治分歧。",
-      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E5%8A%A0%E5%89%A7%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%B1%80-%E4%BC%8A%E6%9C%97%E9%99%B7%E5%85%A5-%E6%97%A0%E5%A3%B0%E6%88%98%E4%BA%89-53d9bccb",
-      "guid": "WP-WSJS-0004096699",
-      "pub_date": "Thu, 26 Nov 2026 05:54:00 GMT",
-      "image_url": "https://images.wsj.net/im-75636203?size=1.501&width=1280",
-      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-b0-81-e9-94-81-e5-8a-a0-e5--b0347b1d5e8e.html",
+      "title": "美国祭出破局一招，在与中国的AI博弈中占得上风",
+      "summary": "美国政府通过更新出口规则，堵住了一个漏洞。此前，中国公司可借助这一漏洞远程使用海外、尤其是马来西亚的英伟达芯片，获取大量算力。",
+      "link": "https://cn.wsj.com/articles/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-1e9a80d5",
+      "guid": "WP-WSJS-0004097987",
+      "pub_date": "Fri, 27 Nov 2026 02:56:00 GMT",
+      "image_url": "https://images.wsj.net/im-90621636?size=1&width=1280",
+      "snapshot": "articles/a-game-changing-move-just-gave-america-the-edge--221c7afcbe26.html",
       "captured": true,
-      "capture_title": "美国封锁加剧经济困局，伊朗陷入“无声战争”",
+      "capture_title": "美国祭出破局一招，在与中国的AI博弈中占得上风",
       "error": ""
     },
     {
@@ -98,18 +98,6 @@
       "snapshot": "articles/e8-8b-b1-e4-bc-9f-e8-be-be-e5-86-8d-e6-9b-9d-e9--3adecda06a97.html",
       "captured": true,
       "capture_title": "英伟达再曝高层恋情，女方为涉对华芯片走私案公司高管",
-      "error": ""
-    },
-    {
-      "title": "深谙造势之道：黄仁勋为何总能立于不败之地",
-      "summary": "无论已站上怎样的舞台，黄仁勋总想着迈向下一个更大的舞台。正如他的一位多年好友所说：“黄仁勋总能变出戏法，扭转局面。”",
-      "link": "https://cn.wsj.com/articles/jensen-huang-nvidia-ping-pong-rise-and-fall-d10428ac",
-      "guid": "WP-WSJS-0004098163",
-      "pub_date": "Fri, 27 Nov 2026 07:39:00 GMT",
-      "image_url": "https://images.wsj.net/im-94798287?size=0.8&width=1280",
-      "snapshot": "articles/jensen-huang-nvidia-ping-pong-rise-and-fall-d104-adebeca6987d.html",
-      "captured": true,
-      "capture_title": "深谙造势之道：黄仁勋为何总能立于不败之地",
       "error": ""
     },
     {
@@ -149,6 +137,18 @@
       "error": ""
     },
     {
+      "title": "深谙造势之道：黄仁勋为何总能立于不败之地",
+      "summary": "无论已站上怎样的舞台，黄仁勋总想着迈向下一个更大的舞台。正如他的一位多年好友所说：“黄仁勋总能变出戏法，扭转局面。”",
+      "link": "https://cn.wsj.com/articles/jensen-huang-nvidia-ping-pong-rise-and-fall-d10428ac",
+      "guid": "WP-WSJS-0004098163",
+      "pub_date": "Fri, 27 Nov 2026 07:39:00 GMT",
+      "image_url": "https://images.wsj.net/im-94798287?size=0.8&width=1280",
+      "snapshot": "articles/jensen-huang-nvidia-ping-pong-rise-and-fall-d104-adebeca6987d.html",
+      "captured": true,
+      "capture_title": "深谙造势之道：黄仁勋为何总能立于不败之地",
+      "error": ""
+    },
+    {
       "title": "昔日许诺捐出收入的10%，如今他们已成为AI亿万富豪",
       "summary": "一项最初由23人发起的慈善捐赠承诺如今已扩大为一场全球运动，对整个AI行业（尤其是 Anthropic）产生了深远影响。",
       "link": "https://cn.wsj.com/articles/%E6%98%94%E6%97%A5%E8%AE%B8%E8%AF%BA%E6%8D%90%E5%87%BA%E6%94%B6%E5%85%A5%E7%9A%8410-%E5%A6%82%E4%BB%8A%E4%BB%96%E4%BB%AC%E5%B7%B2%E6%88%90%E4%B8%BAai%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA-1afc9271",
@@ -161,18 +161,6 @@
       "error": ""
     },
     {
-      "title": "全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛",
-      "summary": "全球芯片供应短缺令企业四处抢购。这场供应危机意味着今年假日礼物会更贵，黑色星期五的优惠也更具吸引力。",
-      "link": "https://cn.wsj.com/articles/memory-chip-shortage-ai-electronics-prices-9904d40c",
-      "guid": "WP-WSJS-0004096744",
-      "pub_date": "Thu, 26 Nov 2026 06:43:00 GMT",
-      "image_url": "https://images.wsj.net/im-89313949?size=1.5&width=1280",
-      "snapshot": "articles/memory-chip-shortage-ai-electronics-prices-9904d-0ea3d941b300.html",
-      "captured": true,
-      "capture_title": "全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛",
-      "error": ""
-    },
-    {
       "title": "为何这么多大学生在读体育商业专业？",
       "summary": "对专业技能的旺盛需求正在重塑全美各地的商科专业。白领岗位招聘信息总量较2020年初减少了约3%，体育行业却增长了50%。",
       "link": "https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%AF%BB%E4%BD%93%E8%82%B2%E5%95%86%E4%B8%9A%E4%B8%93%E4%B8%9A-03cd4558",
@@ -182,6 +170,18 @@
       "snapshot": "articles/e4-b8-ba-e4-bd-95-e8-bf-99-e4-b9-88-e5-a4-9a-e5--4e37b33b8023.html",
       "captured": true,
       "capture_title": "为何这么多大学生在读体育商业专业？",
+      "error": ""
+    },
+    {
+      "title": "全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛",
+      "summary": "全球芯片供应短缺令企业四处抢购。这场供应危机意味着今年假日礼物会更贵，黑色星期五的优惠也更具吸引力。",
+      "link": "https://cn.wsj.com/articles/memory-chip-shortage-ai-electronics-prices-9904d40c",
+      "guid": "WP-WSJS-0004096744",
+      "pub_date": "Thu, 26 Nov 2026 06:43:00 GMT",
+      "image_url": "https://images.wsj.net/im-89313949?size=1.5&width=1280",
+      "snapshot": "articles/memory-chip-shortage-ai-electronics-prices-9904d-0ea3d941b300.html",
+      "captured": true,
+      "capture_title": "全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛",
       "error": ""
     },
     {
@@ -209,6 +209,18 @@
       "error": ""
     },
     {
+      "title": "私募股权公司有了意外的债务融资新渠道：北欧债券市场",
+      "summary": "银行人士和律师表示，多种因素正吸引更多公司转向这一鲜为人知的融资渠道，包括更可预测的借款利率和更简化的流程。",
+      "link": "https://cn.wsj.com/articles/%E7%A7%81%E5%8B%9F%E8%82%A1%E6%9D%83%E5%85%AC%E5%8F%B8%E6%9C%89%E4%BA%86%E6%84%8F%E5%A4%96%E7%9A%84%E5%80%BA%E5%8A%A1%E8%9E%8D%E8%B5%84%E6%96%B0%E6%B8%A0%E9%81%93-%E5%8C%97%E6%AC%A7%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA-eda48768",
+      "guid": "WP-WSJS-0004099393",
+      "pub_date": "Sat, 28 Nov 2026 01:22:00 GMT",
+      "image_url": "https://images.wsj.net/im-13374188?size=1.499&width=1280",
+      "snapshot": "articles/e7-a7-81-e5-8b-9f-e8-82-a1-e6-9d-83-e5-85-ac-e5--4f8f8f264fee.html",
+      "captured": true,
+      "capture_title": "私募股权公司有了意外的债务融资新渠道：北欧债券市场 - WSJ",
+      "error": ""
+    },
+    {
       "title": "全球石油过剩扩大且霍尔木兹海峡风险犹存，OPEC及其盟友面临艰难抉择",
       "summary": "在全球石油供应过剩可能扩大、中东能源供应持续面临威胁的背景下，欧佩克及其盟友准备在周日的会议上制定2027年的产量目标，届时将面临艰难权衡。",
       "link": "https://cn.wsj.com/articles/opec-allies-face-tough-choices-as-surplus-builds-hormuz-risks-persist-5e254c3a",
@@ -230,18 +242,6 @@
       "snapshot": "articles/aschenbrenners-situational-awareness-tells-inves-4c278b531cb3.html",
       "captured": true,
       "capture_title": "阿申布伦纳旗下Situational Awareness第三季度亏损65%",
-      "error": ""
-    },
-    {
-      "title": "杰米·戴蒙曾深爱英国——直到英国对摩根大通加税",
-      "summary": "戴蒙正寻求对英国展开反击，此前财政吃紧的英国政府将增收目标瞄准银行业。",
-      "link": "https://cn.wsj.com/articles/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-ad88791f",
-      "guid": "WP-WSJS-0004095997",
-      "pub_date": "Wed, 25 Nov 2026 23:19:00 GMT",
-      "image_url": "https://images.wsj.net/im-32630477?size=1.502&width=1280",
-      "snapshot": "articles/jamie-dimon-loved-britainuntil-it-raised-taxes-o-51795ce02e6f.html",
-      "captured": true,
-      "capture_title": "杰米·戴蒙曾深爱英国——直到英国对摩根大通加税",
       "error": ""
     },
     {
@@ -302,6 +302,42 @@
       "snapshot": "articles/e9-bb-84-e4-bb-81-e5-8b-8b-e5-a4-ab-e5-a6-87-e5--1d7a11edd6eb.html",
       "captured": true,
       "capture_title": "黄仁勋夫妇巨额财富构成一览",
+      "error": ""
+    },
+    {
+      "title": "特朗普救不了美股，但这一招或许可以",
+      "summary": "投资者担心AI支出放缓，但这或许能止住抛售潮。",
+      "link": "https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%91%E4%B8%8D%E4%BA%86%E7%BE%8E%E8%82%A1-%E4%BD%86%E8%BF%99%E4%B8%80%E6%8B%9B%E6%88%96%E8%AE%B8%E5%8F%AF%E4%BB%A5-b5cd0913",
+      "guid": "WP-WSJS-0004098399",
+      "pub_date": "Fri, 27 Nov 2026 11:42:00 GMT",
+      "image_url": "https://images.wsj.net/im-90220358?size=1.501&width=1280",
+      "snapshot": "articles/e7-89-b9-e6-9c-97-e6-99-ae-e6-95-91-e4-b8-8d-e4--e88909000fe0.html",
+      "captured": true,
+      "capture_title": "特朗普救不了美股，但这一招或许可以",
+      "error": ""
+    },
+    {
+      "title": "美国封锁加剧经济困局，伊朗陷入“无声战争”",
+      "summary": "削减燃料和食品补贴给伊朗民众带来新的压力，也凸显出伊朗内部的政治分歧。",
+      "link": "https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E5%8A%A0%E5%89%A7%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%B1%80-%E4%BC%8A%E6%9C%97%E9%99%B7%E5%85%A5-%E6%97%A0%E5%A3%B0%E6%88%98%E4%BA%89-53d9bccb",
+      "guid": "WP-WSJS-0004096699",
+      "pub_date": "Thu, 26 Nov 2026 05:54:00 GMT",
+      "image_url": "https://images.wsj.net/im-75636203?size=1.501&width=1280",
+      "snapshot": "articles/e7-be-8e-e5-9b-bd-e5-b0-81-e9-94-81-e5-8a-a0-e5--b0347b1d5e8e.html",
+      "captured": true,
+      "capture_title": "美国封锁加剧经济困局，伊朗陷入“无声战争”",
+      "error": ""
+    },
+    {
+      "title": "杰米·戴蒙曾深爱英国——直到英国对摩根大通加税",
+      "summary": "戴蒙正寻求对英国展开反击，此前财政吃紧的英国政府将增收目标瞄准银行业。",
+      "link": "https://cn.wsj.com/articles/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-ad88791f",
+      "guid": "WP-WSJS-0004095997",
+      "pub_date": "Wed, 25 Nov 2026 23:19:00 GMT",
+      "image_url": "https://images.wsj.net/im-32630477?size=1.502&width=1280",
+      "snapshot": "articles/jamie-dimon-loved-britainuntil-it-raised-taxes-o-51795ce02e6f.html",
+      "captured": true,
+      "capture_title": "杰米·戴蒙曾深爱英国——直到英国对摩根大通加税",
       "error": ""
     },
     {
@@ -1166,42 +1202,6 @@
       "snapshot": "articles/bank-outage-tips-3f2b125f-0a241348a4ff.html",
       "captured": true,
       "capture_title": "普通人做些什么可以为银行服务中断做好准备",
-      "error": ""
-    },
-    {
-      "title": "同名代币价格下跌之际，特朗普设专属晚宴回馈持币大户",
-      "summary": "特朗普去年获得了6.35亿美元的模因币版税收入。",
-      "link": "https://cn.wsj.com/articles/trump-rewards-top-owners-of-his-declining-coin-with-exclusive-dinner-8f2dc2ba",
-      "guid": "WP-WSJS-0004086370",
-      "pub_date": "Sun, 22 Nov 2026 23:51:00 GMT",
-      "image_url": "https://images.wsj.net/im-01911250?size=1.501&width=1280",
-      "snapshot": "articles/trump-rewards-top-owners-of-his-declining-coin-w-cbfa034a80ef.html",
-      "captured": true,
-      "capture_title": "同名代币价格下跌之际，特朗普设专属晚宴回馈持币大户",
-      "error": ""
-    },
-    {
-      "title": "美国国家资本主义是英伟达丑闻的推手之一",
-      "summary": "在特朗普治下，政府与企业利益交织得更加紧密。对英伟达的抵制可能会阻止这一趋势。",
-      "link": "https://cn.wsj.com/articles/american-state-capitalism-helped-produce-the-nvidia-scandal-69ee517a",
-      "guid": "WP-WSJS-0004085185",
-      "pub_date": "Sat, 21 Nov 2026 02:11:00 GMT",
-      "image_url": "https://images.wsj.net/im-74800371?size=1.509&width=1280",
-      "snapshot": "articles/american-state-capitalism-helped-produce-the-nvi-3fe133d610e6.html",
-      "captured": true,
-      "capture_title": "美国国家资本主义是英伟达丑闻的推手之一 - WSJ",
-      "error": ""
-    },
-    {
-      "title": "Anthropic上市交易遇波折，各方开始相互指责",
-      "summary": "上周五，Anthropic股价盘中一度下跌15%，跌至仅比IPO发行价高5美分的水平。",
-      "link": "https://cn.wsj.com/articles/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-78df2afa",
-      "guid": "WP-WSJS-0004086385",
-      "pub_date": "Mon, 23 Nov 2026 00:02:00 GMT",
-      "image_url": "https://images.wsj.net/im-56927365?size=1.501&width=1280",
-      "snapshot": "articles/the-blame-game-has-begun-over-anthropics-turbule-63435313a630.html",
-      "captured": true,
-      "capture_title": "Anthropic上市交易遇波折，各方开始相互指责 - WSJ",
       "error": ""
     }
   ]

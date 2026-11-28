@@ -9,9 +9,9 @@
             <link>https://cn.wsj.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 20:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 03:10:22 GMT</lastBuildDate>
         <atom:link href="https://cn.wsj.com/rss-news-and-feeds/zh-hans" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 20:54:20 GMT</pubDate>
+        <pubDate>Sat, 28 Nov 2026 03:10:22 GMT</pubDate>
         <copyright><![CDATA[Copyright &copy; Dow Jones &amp; Company, Inc.]]></copyright>
         <language><![CDATA[zh-cn]]></language>
         <category><![CDATA[新闻]]></category>
@@ -28,25 +28,18 @@
         <category><![CDATA[华尔街日报中文网]]></category>
         <category><![CDATA[Wall Street Journal]]></category>
         <item>
-            <title><![CDATA[美国祭出破局一招，在与中国的AI博弈中占得上风]]></title>
-            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-90621636?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国政府通过更新出口规则，堵住了一个漏洞。此前，中国公司可借助这一漏洞远程使用海外、尤其是马来西亚的英伟达芯片，获取大量算力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-1e9a80d5</link>
-            <guid isPermaLink="false">WP-WSJS-0004097987</guid>
-            <pubDate>Fri, 27 Nov 2026 02:56:00 GMT</pubDate>
+            <title><![CDATA[美股反弹，科技股大涨]]></title>
+            <description><![CDATA[<img width="1280" height="824" src="https://images.wsj.net/im-22450552?size=1.553&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>纳指收盘上涨2.3%，全周上涨6.7%，创七个月来最佳单周表现。道指上涨1.2%，标普500指数上涨1.6%。投资者暂时搁置对AI的担忧。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9-%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E6%B6%A8-3616f8f2</link>
+            <guid isPermaLink="false">WP-WSJS-0004099352</guid>
+            <pubDate>Sat, 28 Nov 2026 00:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[中国股市走高，北京释放进一步稳市信号]]></title>
-            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-91174298?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>周五收盘，上证综指上涨3.7%，深证综指上涨7.2%，科技股权重较大的创业板指数大涨11.6%，创下两年多来最大单日百分比涨幅。</p>]]></description>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-91174298?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>中国有关部门重申支持资本市场，并承诺推出稳市政策，受此影响，中国股市走高。科技股权重较大的创业板指数大涨11.6%，创下两年多来最大单日百分比涨幅。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B5%B0%E9%AB%98-%E5%8C%97%E4%BA%AC%E9%87%8A%E6%94%BE%E8%BF%9B%E4%B8%80%E6%AD%A5%E7%A8%B3%E5%B8%82%E4%BF%A1%E5%8F%B7-4ee08bae</link>
             <guid isPermaLink="false">WP-WSJS-0004098239</guid>
             <pubDate>Fri, 27 Nov 2026 08:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普救不了美股，但这一招或许可以]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-90220358?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>投资者担心AI支出放缓，但这或许能止住抛售潮。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%91%E4%B8%8D%E4%BA%86%E7%BE%8E%E8%82%A1-%E4%BD%86%E8%BF%99%E4%B8%80%E6%8B%9B%E6%88%96%E8%AE%B8%E5%8F%AF%E4%BB%A5-b5cd0913</link>
-            <guid isPermaLink="false">WP-WSJS-0004098399</guid>
-            <pubDate>Fri, 27 Nov 2026 11:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[对华新关税或破坏中美贸易休战局面]]></title>
@@ -63,6 +56,13 @@
             <pubDate>Fri, 27 Nov 2026 05:11:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国打击伊朗附近一艘试图突破封锁的船只]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-15730861?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>这标志着伊朗规避令其经济承压的海上封锁的举动出现了最新升级。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%99%84%E8%BF%91%E4%B8%80%E8%89%98%E8%AF%95%E5%9B%BE%E7%AA%81%E7%A0%B4%E5%B0%81%E9%94%81%E7%9A%84%E8%88%B9%E5%8F%AA-f9450ece</link>
+            <guid isPermaLink="false">WP-WSJS-0004099331</guid>
+            <pubDate>Sat, 28 Nov 2026 00:25:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[欧洲已选定新任央行行长，他的执掌之路面临挑战]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-34007841?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>西班牙技术官员德科斯被选定出任下一任欧洲央行行长。</p>]]></description>
             <link>https://cn.wsj.com/articles/europe-has-picked-a-new-central-bank-chief-hes-in-for-a-bumpy-ride-8a60387c</link>
@@ -70,11 +70,11 @@
             <pubDate>Thu, 26 Nov 2026 23:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国封锁加剧经济困局，伊朗陷入“无声战争”]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-75636203?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>削减燃料和食品补贴给伊朗民众带来新的压力，也凸显出伊朗内部的政治分歧。</p>]]></description>
-            <link>https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E5%8A%A0%E5%89%A7%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%B1%80-%E4%BC%8A%E6%9C%97%E9%99%B7%E5%85%A5-%E6%97%A0%E5%A3%B0%E6%88%98%E4%BA%89-53d9bccb</link>
-            <guid isPermaLink="false">WP-WSJS-0004096699</guid>
-            <pubDate>Thu, 26 Nov 2026 05:54:00 GMT</pubDate>
+            <title><![CDATA[美国祭出破局一招，在与中国的AI博弈中占得上风]]></title>
+            <description><![CDATA[<img width="1280" height="1280" src="https://images.wsj.net/im-90621636?size=1&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>美国政府通过更新出口规则，堵住了一个漏洞。此前，中国公司可借助这一漏洞远程使用海外、尤其是马来西亚的英伟达芯片，获取大量算力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-1e9a80d5</link>
+            <guid isPermaLink="false">WP-WSJS-0004097987</guid>
+            <pubDate>Fri, 27 Nov 2026 02:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[英伟达再曝高层恋情，女方为涉对华芯片走私案公司高管]]></title>
@@ -82,13 +82,6 @@
             <link>https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%86%8D%E6%9B%9D%E9%AB%98%E5%B1%82%E6%81%8B%E6%83%85-%E5%A5%B3%E6%96%B9%E4%B8%BA%E6%B6%89%E5%8D%8E%E8%8A%AF%E7%89%87%E8%B5%B0%E7%A7%81%E6%A1%88%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1-f6dabfec</link>
             <guid isPermaLink="false">WP-WSJS-0004096655</guid>
             <pubDate>Thu, 26 Nov 2026 05:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深谙造势之道：黄仁勋为何总能立于不败之地]]></title>
-            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-94798287?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>无论已站上怎样的舞台，黄仁勋总想着迈向下一个更大的舞台。正如他的一位多年好友所说：“黄仁勋总能变出戏法，扭转局面。”</p>]]></description>
-            <link>https://cn.wsj.com/articles/jensen-huang-nvidia-ping-pong-rise-and-fall-d10428ac</link>
-            <guid isPermaLink="false">WP-WSJS-0004098163</guid>
-            <pubDate>Fri, 27 Nov 2026 07:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[上海市委书记陈吉宁被查，曾被视为习近平潜在接班人选]]></title>
@@ -112,6 +105,13 @@
             <pubDate>Fri, 27 Nov 2026 05:49:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[深谙造势之道：黄仁勋为何总能立于不败之地]]></title>
+            <description><![CDATA[<img width="1280" height="1600" src="https://images.wsj.net/im-94798287?size=0.8&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>无论已站上怎样的舞台，黄仁勋总想着迈向下一个更大的舞台。正如他的一位多年好友所说：“黄仁勋总能变出戏法，扭转局面。”</p>]]></description>
+            <link>https://cn.wsj.com/articles/jensen-huang-nvidia-ping-pong-rise-and-fall-d10428ac</link>
+            <guid isPermaLink="false">WP-WSJS-0004098163</guid>
+            <pubDate>Fri, 27 Nov 2026 07:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[昔日许诺捐出收入的10%，如今他们已成为AI亿万富豪]]></title>
             <description><![CDATA[<img width="1280" height="855" src="https://images.wsj.net/im-39344365?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>一项最初由23人发起的慈善捐赠承诺如今已扩大为一场全球运动，对整个AI行业（尤其是 Anthropic）产生了深远影响。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E6%98%94%E6%97%A5%E8%AE%B8%E8%AF%BA%E6%8D%90%E5%87%BA%E6%94%B6%E5%85%A5%E7%9A%8410-%E5%A6%82%E4%BB%8A%E4%BB%96%E4%BB%AC%E5%B7%B2%E6%88%90%E4%B8%BAai%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA-1afc9271</link>
@@ -119,18 +119,18 @@
             <pubDate>Fri, 27 Nov 2026 06:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛]]></title>
-            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89313949?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>全球芯片供应短缺令企业四处抢购。这场供应危机意味着今年假日礼物会更贵，黑色星期五的优惠也更具吸引力。</p>]]></description>
-            <link>https://cn.wsj.com/articles/memory-chip-shortage-ai-electronics-prices-9904d40c</link>
-            <guid isPermaLink="false">WP-WSJS-0004096744</guid>
-            <pubDate>Thu, 26 Nov 2026 06:43:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[为何这么多大学生在读体育商业专业？]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-46337410?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>对专业技能的旺盛需求正在重塑全美各地的商科专业。白领岗位招聘信息总量较2020年初减少了约3%，体育行业却增长了50%。</p>]]></description>
             <link>https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E8%AF%BB%E4%BD%93%E8%82%B2%E5%95%86%E4%B8%9A%E4%B8%93%E4%B8%9A-03cd4558</link>
             <guid isPermaLink="false">WP-WSJS-0004097929</guid>
             <pubDate>Fri, 27 Nov 2026 02:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球存储芯片争夺战愈演愈烈，假日购物者面临涨价之痛]]></title>
+            <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-89313949?size=1.5&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>全球芯片供应短缺令企业四处抢购。这场供应危机意味着今年假日礼物会更贵，黑色星期五的优惠也更具吸引力。</p>]]></description>
+            <link>https://cn.wsj.com/articles/memory-chip-shortage-ai-electronics-prices-9904d40c</link>
+            <guid isPermaLink="false">WP-WSJS-0004096744</guid>
+            <pubDate>Thu, 26 Nov 2026 06:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[拜耳拟向中国药品生产基地投资至多5亿欧元]]></title>
@@ -147,6 +147,13 @@
             <pubDate>Wed, 25 Nov 2026 07:15:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[私募股权公司有了意外的债务融资新渠道：北欧债券市场]]></title>
+            <description><![CDATA[<img width="1280" height="854" src="https://images.wsj.net/im-13374188?size=1.499&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>银行人士和律师表示，多种因素正吸引更多公司转向这一鲜为人知的融资渠道，包括更可预测的借款利率和更简化的流程。</p>]]></description>
+            <link>https://cn.wsj.com/articles/%E7%A7%81%E5%8B%9F%E8%82%A1%E6%9D%83%E5%85%AC%E5%8F%B8%E6%9C%89%E4%BA%86%E6%84%8F%E5%A4%96%E7%9A%84%E5%80%BA%E5%8A%A1%E8%9E%8D%E8%B5%84%E6%96%B0%E6%B8%A0%E9%81%93-%E5%8C%97%E6%AC%A7%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA-eda48768</link>
+            <guid isPermaLink="false">WP-WSJS-0004099393</guid>
+            <pubDate>Sat, 28 Nov 2026 01:22:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[全球石油过剩扩大且霍尔木兹海峡风险犹存，OPEC及其盟友面临艰难抉择]]></title>
             <description><![CDATA[<img width="1280" height="853" src="https://images.wsj.net/im-20674948?size=1.501&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>在全球石油供应过剩可能扩大、中东能源供应持续面临威胁的背景下，欧佩克及其盟友准备在周日的会议上制定2027年的产量目标，届时将面临艰难权衡。</p>]]></description>
             <link>https://cn.wsj.com/articles/opec-allies-face-tough-choices-as-surplus-builds-hormuz-risks-persist-5e254c3a</link>
@@ -159,13 +166,6 @@
             <link>https://cn.wsj.com/articles/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-b83d2fd9</link>
             <guid isPermaLink="false">WP-WSJS-0004096321</guid>
             <pubDate>Thu, 26 Nov 2026 00:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰米·戴蒙曾深爱英国——直到英国对摩根大通加税]]></title>
-            <description><![CDATA[<img width="1280" height="852" src="https://images.wsj.net/im-32630477?size=1.502&width=1280" class="webfeedsFeaturedVisual" alt=""/><p>戴蒙正寻求对英国展开反击，此前财政吃紧的英国政府将增收目标瞄准银行业。</p>]]></description>
-            <link>https://cn.wsj.com/articles/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-ad88791f</link>
-            <guid isPermaLink="false">WP-WSJS-0004095997</guid>
-            <pubDate>Wed, 25 Nov 2026 23:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[哈佛最火人文课程的阅读书单]]></title>
